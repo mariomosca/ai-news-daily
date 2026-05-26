@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI News Daily — Briefing Mario</title>
+    <link>https://mariomosca.github.io/ai-news-daily</link>
+    <atom:link href="https://mariomosca.github.io/ai-news-daily/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
+    <language>it-IT</language>
+    <copyright>(c) 2026 Mario Mosca</copyright>
+    <lastBuildDate>Tue, 26 May 2026 12:41:50 +0000</lastBuildDate>
+    <generator>news-bot/publish/generate_feed.py</generator>
+    <itunes:author>Mario Mosca</itunes:author>
+    <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Mario Mosca</itunes:name>
+      <itunes:email>mario.mosca@brandart.it</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/cover.png"/>
+    <itunes:category text="News">
+      <itunes:category text="Daily News"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/cover.png</url>
+      <title>AI News Daily — Briefing Mario</title>
+      <link>https://mariomosca.github.io/ai-news-daily</link>
+    </image>
+    <item>
+      <title>C'è una mappa, da qualche parte negli uffici di Washington, dove lo Stretto di Hormuz è disegnato come un imbuto.</title>
+      <description>C'è una mappa, da qualche parte negli uffici di Washington, dove lo Stretto di Hormuz è disegnato come un imbuto.</description>
+      <pubDate>Tue, 26 May 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-05-26-v3.2-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-05-26-v3.2-nobed.mp3" length="8654305" type="audio/mpeg"/>
+      <itunes:title>C'è una mappa, da qualche parte negli uffici di Washington, dove lo Stretto di Hormuz è disegnato come un imbuto.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>6:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>C'è una mappa, da qualche parte negli uffici di Washington, dove lo Stretto di Hormuz è disegnato come un imbuto.</itunes:summary>
+    </item>
+    <item>
+      <title>C'è una cosa strana che sta succedendo questa settimana.</title>
+      <description>C'è una cosa strana che sta succedendo questa settimana. Il Papa, la BCE, il Corriere, Google e la Gen Z stanno dicendo, ognuno con il proprio linguaggio, esattamente la stessa frase. E nessuno la sta ascoltando.</description>
+      <pubDate>Tue, 26 May 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-05-26-v3.1-short</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-05-26-v3.1-short.mp3" length="3159187" type="audio/mpeg"/>
+      <itunes:title>C'è una cosa strana che sta succedendo questa settimana.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>2:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>C'è una cosa strana che sta succedendo questa settimana. Il Papa, la BCE, il Corriere, Google e la Gen Z stanno dicendo, ognuno con il proprio linguaggio, esattamente la stessa frase. E nessuno la sta ascoltando.</itunes:summary>
+    </item>
+    <item>
+      <title>C'è una mappa, da qualche parte negli uffici di Washington, dove lo Stretto di Hormuz è disegnato come un imbuto.</title>
+      <description>C'è una mappa, da qualche parte negli uffici di Washington, dove lo Stretto di Hormuz è disegnato come un imbuto.</description>
+      <pubDate>Tue, 26 May 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-05-26-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-05-26-v3.1-nobed.mp3" length="8831852" type="audio/mpeg"/>
+      <itunes:title>C'è una mappa, da qualche parte negli uffici di Washington, dove lo Stretto di Hormuz è disegnato come un imbuto.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>6:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>C'è una mappa, da qualche parte negli uffici di Washington, dove lo Stretto di Hormuz è disegnato come un imbuto.</itunes:summary>
+    </item>
+    <item>
+      <title>C'è un rame nei cavi del tuo caricabatterie.</title>
+      <description>C'è un rame nei cavi del tuo caricabatterie. Ce n'è uno nel motore della macchina elettrica che il governo vuole farti comprare entro il 2035. Ce n'è dentro l'inverter del pannello solare sul tetto di tuo cugino. E quasi sicuramente, quel rame, è passato da una città che si chiama Calama.</description>
+      <pubDate>Tue, 26 May 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-05-26-v3.1</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-05-26-v3.1.mp3" length="8817310" type="audio/mpeg"/>
+      <itunes:title>C'è un rame nei cavi del tuo caricabatterie.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>6:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>C'è un rame nei cavi del tuo caricabatterie. Ce n'è uno nel motore della macchina elettrica che il governo vuole farti comprare entro il 2035. Ce n'è dentro l'inverter del pannello solare sul tetto di tuo cugino. E quasi sicuramente, quel rame, è passato da una città che si chiama Calama.</itunes:summary>
+    </item>
+  </channel>
+</rss>
