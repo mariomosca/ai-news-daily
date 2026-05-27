@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Tue, 26 May 2026 12:41:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 04:48:18 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,19 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>Non riforme, non competitività, non transizione.</title>
+      <description>C'è una parola che torna in ogni discorso del governo italiano da mesi, e che è scomparsa quasi completamente dal dibattito pubblico europeo. La parola è salari. Non riforme, non competitività, non transizione. Salari.</description>
+      <pubDate>Wed, 27 May 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-05-27-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-05-27-v3.1-nobed.mp3" length="8641772" type="audio/mpeg"/>
+      <itunes:title>Non riforme, non competitività, non transizione.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>6:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>C'è una parola che torna in ogni discorso del governo italiano da mesi, e che è scomparsa quasi completamente dal dibattito pubblico europeo. La parola è salari. Non riforme, non competitività, non transizione. Salari.</itunes:summary>
+    </item>
     <item>
       <title>C'è una mappa, da qualche parte negli uffici di Washington, dove lo Stretto di Hormuz è disegnato come un imbuto.</title>
       <description>C'è una mappa, da qualche parte negli uffici di Washington, dove lo Stretto di Hormuz è disegnato come un imbuto.</description>
