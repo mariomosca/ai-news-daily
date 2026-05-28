@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Wed, 27 May 2026 04:54:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 04:47:37 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,19 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>C'è una stanza, da qualche parte alla Casa Bianca, dove in queste settimane si decide una cosa che non riguarda solo l'America.</title>
+      <description>C'è una stanza, da qualche parte alla Casa Bianca, dove in queste settimane si decide una cosa che non riguarda solo l'America. Riguarda anche te, riguarda il modo in cui userai i tuoi strumenti di lavoro tra sei mesi, riguarda quanto potere avranno cinque aziende sulla tua vita digitale.</description>
+      <pubDate>Thu, 28 May 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-05-28-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-05-28-v3.1-nobed.mp3" length="9285164" type="audio/mpeg"/>
+      <itunes:title>C'è una stanza, da qualche parte alla Casa Bianca, dove in queste settimane si decide una cosa che non riguarda solo l'America.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>6:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>C'è una stanza, da qualche parte alla Casa Bianca, dove in queste settimane si decide una cosa che non riguarda solo l'America. Riguarda anche te, riguarda il modo in cui userai i tuoi strumenti di lavoro tra sei mesi, riguarda quanto potere avranno cinque aziende sulla tua vita digitale.</itunes:summary>
+    </item>
     <item>
       <title>Non riforme, non competitività, non transizione.</title>
       <description>C'è una parola che torna in ogni discorso del governo italiano da mesi, e che è scomparsa quasi completamente dal dibattito pubblico europeo. La parola è salari. Non riforme, non competitività, non transizione. Salari.</description>
