@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Sat, 30 May 2026 18:27:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 13:02:54 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,20 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>Da lì passa, ogni giorno, quasi un quinto del petrolio del mondo.</title>
+      <description>C'è un punto, da qualche parte tra l'Iran e la penisola arabica, largo poco più di trentatré chilometri nel suo tratto più stretto. Una bocca d'acqua. Da lì passa, ogni giorno, quasi un quinto del petrolio del mondo.</description>
+      <pubDate>Sun, 07 Jun 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-06-07-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-06-07-v3.1-nobed.mp3" length="7998956" type="audio/mpeg"/>
+      <itunes:title>Da lì passa, ogni giorno, quasi un quinto del petrolio del mondo.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>5:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/covers/cover-2026-06-07.png"/>
+      <itunes:summary>C'è un punto, da qualche parte tra l'Iran e la penisola arabica, largo poco più di trentatré chilometri nel suo tratto più stretto. Una bocca d'acqua. Da lì passa, ogni giorno, quasi un quinto del petrolio del mondo.</itunes:summary>
+    </item>
     <item>
       <title>L'AI può far decollare l'Italia. Ma chi resta a terra?</title>
       <description>C'è una parola che il governatore di Banca d'Italia ha pronunciato la settimana scorsa, e che dovrebbe farci alzare un sopracciglio. Non perché sia falsa. Perché è vera, e questo la rende più pericolosa. La parola è "decollare".</description>
