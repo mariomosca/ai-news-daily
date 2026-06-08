@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Sun, 07 Jun 2026 13:06:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 04:31:16 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,20 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>C'è una cosa che facciamo ogni volta che qualcuno ci promette il futuro: lo crediamo, finché non ci tocca aspettarlo.</title>
+      <description>C'è una cosa che facciamo ogni volta che qualcuno ci promette il futuro: lo crediamo, finché non ci tocca aspettarlo. Apple un anno fa è salita su un palco e ha promesso una Siri nuova — più intelligente, più conversazionale, capace di capirci davvero. Poi quella Siri non è arrivata.</description>
+      <pubDate>Mon, 08 Jun 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-06-08-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-06-08-v3.1-nobed.mp3" length="7404190" type="audio/mpeg"/>
+      <itunes:title>C'è una cosa che facciamo ogni volta che qualcuno ci promette il futuro: lo crediamo, finché non ci tocca aspettarlo.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>5:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/covers/cover-2026-06-08.png"/>
+      <itunes:summary>C'è una cosa che facciamo ogni volta che qualcuno ci promette il futuro: lo crediamo, finché non ci tocca aspettarlo. Apple un anno fa è salita su un palco e ha promesso una Siri nuova — più intelligente, più conversazionale, capace di capirci davvero. Poi quella Siri non è arrivata.</itunes:summary>
+    </item>
     <item>
       <title>C'è una cosa che facciamo, quasi senza accorgercene, quando vediamo una folla.</title>
       <description>C'è una cosa che facciamo, quasi senza accorgercene, quando vediamo una folla. La contiamo. Un milione, due milioni — il numero diventa la notizia, come se la dimensione fosse la prova di qualcosa.</description>
