@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Mon, 08 Jun 2026 04:31:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 10:46:54 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,32 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>La pace che muove i mercati prima di fermare le armi</title>
+      <description>Mercoledì sera, mentre i raid su Teheran erano ancora in calendario come un appuntamento qualsiasi, a Wall Street è partito un ordine di acquisto. Poi un altro. Poi migliaia. Nessuno aveva firmato niente. Nessun documento, nessuna stretta di mano, nessuna conferenza stampa congiunta.</description>
+      <pubDate>Fri, 12 Jun 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-06-12-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-06-12-v3.1-nobed.mp3" length="9162476" type="audio/mpeg"/>
+      <itunes:title>La pace che muove i mercati prima di fermare le armi</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>6:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Mercoledì sera, mentre i raid su Teheran erano ancora in calendario come un appuntamento qualsiasi, a Wall Street è partito un ordine di acquisto. Poi un altro. Poi migliaia. Nessuno aveva firmato niente. Nessun documento, nessuna stretta di mano, nessuna conferenza stampa congiunta.</itunes:summary>
+    </item>
+    <item>
+      <title>Banche troppo grandi per fallire: la rete di protezione siamo noi</title>
+      <description>La banca più antica del mondo non sta a Wall Street, e nemmeno a Francoforte. Sta a Siena, dentro un palazzo di pietra, e ha cinquecentocinquanta anni: il Monte dei Paschi raccoglieva depositi vent'anni prima che Colombo salpasse per le Americhe.</description>
+      <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-06-11-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-06-11-v3.1-nobed.mp3" length="8768492" type="audio/mpeg"/>
+      <itunes:title>Banche troppo grandi per fallire: la rete di protezione siamo noi</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>6:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>La banca più antica del mondo non sta a Wall Street, e nemmeno a Francoforte. Sta a Siena, dentro un palazzo di pietra, e ha cinquecentocinquanta anni: il Monte dei Paschi raccoglieva depositi vent'anni prima che Colombo salpasse per le Americhe.</itunes:summary>
+    </item>
     <item>
       <title>C'è una cosa che facciamo ogni volta che qualcuno ci promette il futuro: lo crediamo, finché non ci tocca aspettarlo.</title>
       <description>C'è una cosa che facciamo ogni volta che qualcuno ci promette il futuro: lo crediamo, finché non ci tocca aspettarlo. Apple un anno fa è salita su un palco e ha promesso una Siri nuova — più intelligente, più conversazionale, capace di capirci davvero. Poi quella Siri non è arrivata.</description>
@@ -70,6 +96,32 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/covers/cover-2026-06-07.png"/>
       <itunes:summary>C'è un punto, da qualche parte tra l'Iran e la penisola arabica, largo poco più di trentatré chilometri nel suo tratto più stretto. Una bocca d'acqua. Da lì passa, ogni giorno, quasi un quinto del petrolio del mondo.</itunes:summary>
+    </item>
+    <item>
+      <title>Per isolare un paese non serve più l'embargo. Basta il mercato</title>
+      <description>Febbraio millenovecentosessantadue. La sera prima di firmare l'embargo contro Cuba, John Fitzgerald Kennedy chiama il suo portavoce e gli affida una missione riservata: procurargli milleduecento sigari cubani, i suoi preferiti.</description>
+      <pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-06-05-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-06-05-v3.1-nobed.mp3" length="9060524" type="audio/mpeg"/>
+      <itunes:title>Per isolare un paese non serve più l'embargo. Basta il mercato</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>6:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Febbraio millenovecentosessantadue. La sera prima di firmare l'embargo contro Cuba, John Fitzgerald Kennedy chiama il suo portavoce e gli affida una missione riservata: procurargli milleduecento sigari cubani, i suoi preferiti.</itunes:summary>
+    </item>
+    <item>
+      <title>Trump contro Netanyahu: quando gli alleati smettono di fingere</title>
+      <description>La diplomazia è nata per non dirsi le cose in faccia. Esistono interi vocabolari costruiti apposta: "colloqui franchi" vuol dire litigata furiosa, "preoccupazione" vuol dire minaccia, "divergenze tra alleati" vuol dire che qualcuno ha sbattuto il telefono.</description>
+      <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-06-03-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-06-03-v3.1-nobed.mp3" length="8179244" type="audio/mpeg"/>
+      <itunes:title>Trump contro Netanyahu: quando gli alleati smettono di fingere</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>5:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>La diplomazia è nata per non dirsi le cose in faccia. Esistono interi vocabolari costruiti apposta: "colloqui franchi" vuol dire litigata furiosa, "preoccupazione" vuol dire minaccia, "divergenze tra alleati" vuol dire che qualcuno ha sbattuto il telefono.</itunes:summary>
     </item>
     <item>
       <title>L'AI può far decollare l'Italia. Ma chi resta a terra?</title>
