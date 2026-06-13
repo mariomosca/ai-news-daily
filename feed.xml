@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Fri, 12 Jun 2026 10:46:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 20:25:25 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,19 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>Mentre scrivo, lo stretto di Hormuz è ancora formalmente chiuso.</title>
+      <description>C'è un momento preciso, in ogni trattativa impossibile, in cui le due parti smettono di parlare alla controparte e cominciano a parlare ai mercati. Quel momento è adesso. Mentre scrivo, lo stretto di Hormuz è ancora formalmente chiuso. Ma le borse europee hanno già scommesso che non lo sarà più.</description>
+      <pubDate>Sat, 13 Jun 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-06-13-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-06-13-v3.1-nobed.mp3" length="8793836" type="audio/mpeg"/>
+      <itunes:title>Mentre scrivo, lo stretto di Hormuz è ancora formalmente chiuso.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>6:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>C'è un momento preciso, in ogni trattativa impossibile, in cui le due parti smettono di parlare alla controparte e cominciano a parlare ai mercati. Quel momento è adesso. Mentre scrivo, lo stretto di Hormuz è ancora formalmente chiuso. Ma le borse europee hanno già scommesso che non lo sarà più.</itunes:summary>
+    </item>
     <item>
       <title>La pace che muove i mercati prima di fermare le armi</title>
       <description>Mercoledì sera, mentre i raid su Teheran erano ancora in calendario come un appuntamento qualsiasi, a Wall Street è partito un ordine di acquisto. Poi un altro. Poi migliaia. Nessuno aveva firmato niente. Nessun documento, nessuna stretta di mano, nessuna conferenza stampa congiunta.</description>
