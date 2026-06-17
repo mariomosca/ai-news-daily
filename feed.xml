@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Tue, 16 Jun 2026 04:05:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 04:03:36 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,19 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>Lucerna, venerdì mattina.</title>
+      <description>Lucerna, venerdì mattina. Un resort sul lago, qualche bandiera, le telecamere. E due paesi che fino a pochi mesi fa si stavano bombardando che firmano un accordo. Fermati un secondo su questa immagine. Non perché sia cinematografica — anche se lo è.</description>
+      <pubDate>Wed, 17 Jun 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-06-17-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-06-17-v3.1-nobed.mp3" length="9093932" type="audio/mpeg"/>
+      <itunes:title>Lucerna, venerdì mattina.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>6:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Lucerna, venerdì mattina. Un resort sul lago, qualche bandiera, le telecamere. E due paesi che fino a pochi mesi fa si stavano bombardando che firmano un accordo. Fermati un secondo su questa immagine. Non perché sia cinematografica — anche se lo è.</itunes:summary>
+    </item>
     <item>
       <title>Pensa a quante volte hai sentito la parola "storico" applicata a qualcosa che nel giro di sei mesi nessuno ricordava più.</title>
       <description>Pensa a quante volte hai sentito la parola "storico" applicata a qualcosa che nel giro di sei mesi nessuno ricordava più. I giornali la usano con la stessa disinvoltura con cui si usa "urgente" per una newsletter promozionale. Eppure ogni tanto capita che la parola sia giusta.</description>
