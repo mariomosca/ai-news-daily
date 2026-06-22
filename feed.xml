@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Fri, 19 Jun 2026 04:04:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 04:07:39 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,19 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>La stessa mattina, dall'altra parte dell'Atlantico, Donald Trump rilascia un'intervista e dice che l'Italia lo ha deluso.</title>
+      <description>Giorgia Meloni si presenta a sorpresa a Gemona del Friuli, sfila tra gli alpini, dice che aveva bisogno di "un po' di sano orgoglio nazionale". La stessa mattina, dall'altra parte dell'Atlantico, Donald Trump rilascia un'intervista e dice che l'Italia lo ha deluso.</description>
+      <pubDate>Mon, 22 Jun 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-06-22-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-06-22-v3.1-nobed.mp3" length="9614636" type="audio/mpeg"/>
+      <itunes:title>La stessa mattina, dall'altra parte dell'Atlantico, Donald Trump rilascia un'intervista e dice che l'Italia lo ha deluso.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>6:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Giorgia Meloni si presenta a sorpresa a Gemona del Friuli, sfila tra gli alpini, dice che aveva bisogno di "un po' di sano orgoglio nazionale". La stessa mattina, dall'altra parte dell'Atlantico, Donald Trump rilascia un'intervista e dice che l'Italia lo ha deluso.</itunes:summary>
+    </item>
     <item>
       <title>C'è un momento preciso in cui un vertice internazionale smette di essere una foto ricordo e diventa qualcosa di reale.</title>
       <description>C'è un momento preciso in cui un vertice internazionale smette di essere una foto ricordo e diventa qualcosa di reale. Non è quando si firmano i comunicati. È quando un leader torna a casa e deve spiegare ai suoi cosa ha ceduto, cosa ha ottenuto, e soprattutto — chi ha vinto.</description>
