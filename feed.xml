@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Mon, 22 Jun 2026 04:07:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 04:02:40 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,19 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>C'è una cosa strana che succede in politica italiana, ogni volta, con una precisione quasi comica.</title>
+      <description>C'è una cosa strana che succede in politica italiana, ogni volta, con una precisione quasi comica. Arriva la crisi, arriva l'attacco dall'esterno, e i sondaggi salgono. Non salgono nonostante la crisi. Salgono *grazie* alla crisi. È il paradosso del nemico utile: più ti attaccano, più sembri forte.</description>
+      <pubDate>Tue, 23 Jun 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-06-23-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-06-23-v3.1-nobed.mp3" length="9148076" type="audio/mpeg"/>
+      <itunes:title>C'è una cosa strana che succede in politica italiana, ogni volta, con una precisione quasi comica.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>6:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>C'è una cosa strana che succede in politica italiana, ogni volta, con una precisione quasi comica. Arriva la crisi, arriva l'attacco dall'esterno, e i sondaggi salgono. Non salgono nonostante la crisi. Salgono *grazie* alla crisi. È il paradosso del nemico utile: più ti attaccano, più sembri forte.</itunes:summary>
+    </item>
     <item>
       <title>La stessa mattina, dall'altra parte dell'Atlantico, Donald Trump rilascia un'intervista e dice che l'Italia lo ha deluso.</title>
       <description>Giorgia Meloni si presenta a sorpresa a Gemona del Friuli, sfila tra gli alpini, dice che aveva bisogno di "un po' di sano orgoglio nazionale". La stessa mattina, dall'altra parte dell'Atlantico, Donald Trump rilascia un'intervista e dice che l'Italia lo ha deluso.</description>
