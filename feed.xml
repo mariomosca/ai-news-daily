@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Wed, 24 Jun 2026 04:04:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 04:06:30 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,19 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>Cinquecento decolli dalle basi italiane verso l'Iran, nel mezzo di una guerra che ufficialmente non ci riguardava.</title>
+      <description>Cinquecentoaerei. Cinquecento decolli dalle basi italiane verso l'Iran, nel mezzo di una guerra che ufficialmente non ci riguardava. Almeno, così ha detto il segretario generale della Nato, Mark Rutte, in una dichiarazione che ha fatto tremare qualche scrivania a Roma.</description>
+      <pubDate>Thu, 25 Jun 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-06-25-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-06-25-v3.1-nobed.mp3" length="10111724" type="audio/mpeg"/>
+      <itunes:title>Cinquecento decolli dalle basi italiane verso l'Iran, nel mezzo di una guerra che ufficialmente non ci riguardava.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>7:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Cinquecentoaerei. Cinquecento decolli dalle basi italiane verso l'Iran, nel mezzo di una guerra che ufficialmente non ci riguardava. Almeno, così ha detto il segretario generale della Nato, Mark Rutte, in una dichiarazione che ha fatto tremare qualche scrivania a Roma.</itunes:summary>
+    </item>
     <item>
       <title>C'è uno stretto di mare largo in alcuni punti meno di quaranta chilometri.</title>
       <description>C'è uno stretto di mare largo in alcuni punti meno di quaranta chilometri. Si chiama Hormuz. Ogni giorno ci passano circa venti milioni di barili di petrolio — circa un quinto di tutto il petrolio che il mondo consuma. È il collo di bottiglia energetico del pianeta.</description>
