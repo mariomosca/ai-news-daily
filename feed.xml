@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Thu, 25 Jun 2026 04:06:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 04:03:02 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -30,6 +30,19 @@
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
     <item>
+      <title>Mercoledì scorso, in un solo giorno, Apple ha perso il 4,7% in Borsa.</title>
+      <description>Mercoledì scorso, in un solo giorno, Apple ha perso il 4,7% in Borsa. Nvidia ha ceduto terreno. Il Nasdaq ha chiuso in rosso per la seconda seduta consecutiva. Non è un crollo, tecnicamente.</description>
+      <pubDate>Fri, 26 Jun 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-06-26-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-06-26-v3.1-nobed.mp3" length="10330604" type="audio/mpeg"/>
+      <itunes:title>Mercoledì scorso, in un solo giorno, Apple ha perso il 4,7% in Borsa.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>7:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Mercoledì scorso, in un solo giorno, Apple ha perso il 4,7% in Borsa. Nvidia ha ceduto terreno. Il Nasdaq ha chiuso in rosso per la seconda seduta consecutiva. Non è un crollo, tecnicamente.</itunes:summary>
+    </item>
+    <item>
       <title>Cinquecento decolli dalle basi italiane verso l'Iran, nel mezzo di una guerra che ufficialmente non ci riguardava.</title>
       <description>Cinquecentoaerei. Cinquecento decolli dalle basi italiane verso l'Iran, nel mezzo di una guerra che ufficialmente non ci riguardava. Almeno, così ha detto il segretario generale della Nato, Mark Rutte, in una dichiarazione che ha fatto tremare qualche scrivania a Roma.</description>
       <pubDate>Thu, 25 Jun 2026 08:00:00 +0000</pubDate>
@@ -43,12 +56,12 @@
       <itunes:summary>Cinquecentoaerei. Cinquecento decolli dalle basi italiane verso l'Iran, nel mezzo di una guerra che ufficialmente non ci riguardava. Almeno, così ha detto il segretario generale della Nato, Mark Rutte, in una dichiarazione che ha fatto tremare qualche scrivania a Roma.</itunes:summary>
     </item>
     <item>
-      <title>C'è uno stretto di mare largo in alcuni punti meno di quaranta chilometri.</title>
+      <title>Ogni giorno ci passano circa venti milioni di barili di petrolio — circa un quinto di tutto il petrolio che il mondo consuma.</title>
       <description>C'è uno stretto di mare largo in alcuni punti meno di quaranta chilometri. Si chiama Hormuz. Ogni giorno ci passano circa venti milioni di barili di petrolio — circa un quinto di tutto il petrolio che il mondo consuma. È il collo di bottiglia energetico del pianeta.</description>
       <pubDate>Wed, 24 Jun 2026 08:00:00 +0000</pubDate>
       <guid isPermaLink="false">final-news-2026-06-24-v3.1-nobed</guid>
       <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-06-24-v3.1-nobed.mp3" length="8619884" type="audio/mpeg"/>
-      <itunes:title>C'è uno stretto di mare largo in alcuni punti meno di quaranta chilometri.</itunes:title>
+      <itunes:title>Ogni giorno ci passano circa venti milioni di barili di petrolio — circa un quinto di tutto il petrolio che il mondo consuma.</itunes:title>
       <itunes:author>Mario Mosca</itunes:author>
       <itunes:duration>5:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -56,12 +69,12 @@
       <itunes:summary>C'è uno stretto di mare largo in alcuni punti meno di quaranta chilometri. Si chiama Hormuz. Ogni giorno ci passano circa venti milioni di barili di petrolio — circa un quinto di tutto il petrolio che il mondo consuma. È il collo di bottiglia energetico del pianeta.</itunes:summary>
     </item>
     <item>
-      <title>C'è una cosa strana che succede in politica italiana, ogni volta, con una precisione quasi comica.</title>
+      <title>Arriva la crisi, arriva l'attacco dall'esterno, e i sondaggi salgono.</title>
       <description>C'è una cosa strana che succede in politica italiana, ogni volta, con una precisione quasi comica. Arriva la crisi, arriva l'attacco dall'esterno, e i sondaggi salgono. Non salgono nonostante la crisi. Salgono *grazie* alla crisi. È il paradosso del nemico utile: più ti attaccano, più sembri forte.</description>
       <pubDate>Tue, 23 Jun 2026 08:00:00 +0000</pubDate>
       <guid isPermaLink="false">final-news-2026-06-23-v3.1-nobed</guid>
       <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-06-23-v3.1-nobed.mp3" length="9148076" type="audio/mpeg"/>
-      <itunes:title>C'è una cosa strana che succede in politica italiana, ogni volta, con una precisione quasi comica.</itunes:title>
+      <itunes:title>Arriva la crisi, arriva l'attacco dall'esterno, e i sondaggi salgono.</itunes:title>
       <itunes:author>Mario Mosca</itunes:author>
       <itunes:duration>6:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -82,12 +95,12 @@
       <itunes:summary>Giorgia Meloni si presenta a sorpresa a Gemona del Friuli, sfila tra gli alpini, dice che aveva bisogno di "un po' di sano orgoglio nazionale". La stessa mattina, dall'altra parte dell'Atlantico, Donald Trump rilascia un'intervista e dice che l'Italia lo ha deluso.</itunes:summary>
     </item>
     <item>
-      <title>C'è un momento preciso in cui un vertice internazionale smette di essere una foto ricordo e diventa qualcosa di reale.</title>
+      <title>Non è quando si firmano i comunicati.</title>
       <description>C'è un momento preciso in cui un vertice internazionale smette di essere una foto ricordo e diventa qualcosa di reale. Non è quando si firmano i comunicati. È quando un leader torna a casa e deve spiegare ai suoi cosa ha ceduto, cosa ha ottenuto, e soprattutto — chi ha vinto.</description>
       <pubDate>Fri, 19 Jun 2026 08:00:00 +0000</pubDate>
       <guid isPermaLink="false">final-news-2026-06-19-v3.1-nobed</guid>
       <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-06-19-v3.1-nobed.mp3" length="9646892" type="audio/mpeg"/>
-      <itunes:title>C'è un momento preciso in cui un vertice internazionale smette di essere una foto ricordo e diventa qualcosa di reale.</itunes:title>
+      <itunes:title>Non è quando si firmano i comunicati.</itunes:title>
       <itunes:author>Mario Mosca</itunes:author>
       <itunes:duration>6:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -134,12 +147,12 @@
       <itunes:summary>Pensa a quante volte hai sentito la parola "storico" applicata a qualcosa che nel giro di sei mesi nessuno ricordava più. I giornali la usano con la stessa disinvoltura con cui si usa "urgente" per una newsletter promozionale. Eppure ogni tanto capita che la parola sia giusta.</itunes:summary>
     </item>
     <item>
-      <title>C'è una parola che in finanza suona quasi rassicurante: *risiko*.</title>
+      <title>Come il gioco da tavolo, quello con le armate colorate e le carte che cambiano mano.</title>
       <description>C'è una parola che in finanza suona quasi rassicurante: *risiko*. Come il gioco da tavolo, quello con le armate colorate e le carte che cambiano mano.</description>
       <pubDate>Mon, 15 Jun 2026 08:00:00 +0000</pubDate>
       <guid isPermaLink="false">final-news-2026-06-15-v3.1-nobed</guid>
       <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-06-15-v3.1-nobed.mp3" length="9733292" type="audio/mpeg"/>
-      <itunes:title>C'è una parola che in finanza suona quasi rassicurante: *risiko*.</itunes:title>
+      <itunes:title>Come il gioco da tavolo, quello con le armate colorate e le carte che cambiano mano.</itunes:title>
       <itunes:author>Mario Mosca</itunes:author>
       <itunes:duration>6:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -186,12 +199,12 @@
       <itunes:summary>La banca più antica del mondo non sta a Wall Street, e nemmeno a Francoforte. Sta a Siena, dentro un palazzo di pietra, e ha cinquecentocinquanta anni: il Monte dei Paschi raccoglieva depositi vent'anni prima che Colombo salpasse per le Americhe.</itunes:summary>
     </item>
     <item>
-      <title>C'è una cosa che facciamo ogni volta che qualcuno ci promette il futuro: lo crediamo, finché non ci tocca aspettarlo.</title>
+      <title>Poi quella Siri non è arrivata.</title>
       <description>C'è una cosa che facciamo ogni volta che qualcuno ci promette il futuro: lo crediamo, finché non ci tocca aspettarlo. Apple un anno fa è salita su un palco e ha promesso una Siri nuova — più intelligente, più conversazionale, capace di capirci davvero. Poi quella Siri non è arrivata.</description>
       <pubDate>Mon, 08 Jun 2026 08:00:00 +0000</pubDate>
       <guid isPermaLink="false">final-news-2026-06-08-v3.1-nobed</guid>
       <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-06-08-v3.1-nobed.mp3" length="7404190" type="audio/mpeg"/>
-      <itunes:title>C'è una cosa che facciamo ogni volta che qualcuno ci promette il futuro: lo crediamo, finché non ci tocca aspettarlo.</itunes:title>
+      <itunes:title>Poi quella Siri non è arrivata.</itunes:title>
       <itunes:author>Mario Mosca</itunes:author>
       <itunes:duration>5:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -200,12 +213,12 @@
       <itunes:summary>C'è una cosa che facciamo ogni volta che qualcuno ci promette il futuro: lo crediamo, finché non ci tocca aspettarlo. Apple un anno fa è salita su un palco e ha promesso una Siri nuova — più intelligente, più conversazionale, capace di capirci davvero. Poi quella Siri non è arrivata.</itunes:summary>
     </item>
     <item>
-      <title>C'è una cosa che facciamo, quasi senza accorgercene, quando vediamo una folla.</title>
+      <title>Un milione, due milioni — il numero diventa la notizia, come se la dimensione fosse la prova di qualcosa.</title>
       <description>C'è una cosa che facciamo, quasi senza accorgercene, quando vediamo una folla. La contiamo. Un milione, due milioni — il numero diventa la notizia, come se la dimensione fosse la prova di qualcosa.</description>
       <pubDate>Sun, 07 Jun 2026 08:00:00 +0000</pubDate>
       <guid isPermaLink="false">final-news-2026-06-07-v3.1-nobed-papa</guid>
       <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-06-07-v3.1-nobed-papa.mp3" length="7296236" type="audio/mpeg"/>
-      <itunes:title>C'è una cosa che facciamo, quasi senza accorgercene, quando vediamo una folla.</itunes:title>
+      <itunes:title>Un milione, due milioni — il numero diventa la notizia, come se la dimensione fosse la prova di qualcosa.</itunes:title>
       <itunes:author>Mario Mosca</itunes:author>
       <itunes:duration>5:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -282,12 +295,12 @@
       <itunes:summary>C'è una parola che il governatore di Banca d'Italia ha pronunciato la settimana scorsa, e che dovrebbe farci alzare un sopracciglio. Non perché sia falsa. Perché è vera, e questo la rende più pericolosa. La parola è "decollare".</itunes:summary>
     </item>
     <item>
-      <title>C'è una parola che usiamo per descrivere le persone che ci proteggono — eroi, vittime, sopravvissuti.</title>
+      <title>Oggi è una giornata fatta di accordi che non si chiudono, di tesori sequestrati, di treni fermi.</title>
       <description>C'è una parola che usiamo per descrivere le persone che ci proteggono — eroi, vittime, sopravvissuti. E poi ce n'è un'altra, più scomoda, che fatichiamo a pronunciare quando i protagonisti sono i nostri alleati, i nostri soldati, le nostre democrazie. La parola è "carnefice".</description>
       <pubDate>Fri, 29 May 2026 08:00:00 +0000</pubDate>
       <guid isPermaLink="false">final-news-2026-05-29-v3.1-nobed</guid>
       <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-05-29-v3.1-nobed.mp3" length="6975404" type="audio/mpeg"/>
-      <itunes:title>C'è una parola che usiamo per descrivere le persone che ci proteggono — eroi, vittime, sopravvissuti.</itunes:title>
+      <itunes:title>Oggi è una giornata fatta di accordi che non si chiudono, di tesori sequestrati, di treni fermi.</itunes:title>
       <itunes:author>Mario Mosca</itunes:author>
       <itunes:duration>4:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -295,12 +308,12 @@
       <itunes:summary>C'è una parola che usiamo per descrivere le persone che ci proteggono — eroi, vittime, sopravvissuti. E poi ce n'è un'altra, più scomoda, che fatichiamo a pronunciare quando i protagonisti sono i nostri alleati, i nostri soldati, le nostre democrazie. La parola è "carnefice".</itunes:summary>
     </item>
     <item>
-      <title>C'è una stanza, da qualche parte alla Casa Bianca, dove in queste settimane si decide una cosa che non riguarda solo l'America.</title>
+      <title>Eppure in quella stanza non ci sono ingegneri, non ci sono filosofi, non ci sono cittadini.</title>
       <description>C'è una stanza, da qualche parte alla Casa Bianca, dove in queste settimane si decide una cosa che non riguarda solo l'America. Riguarda anche te, riguarda il modo in cui userai i tuoi strumenti di lavoro tra sei mesi, riguarda quanto potere avranno cinque aziende sulla tua vita digitale.</description>
       <pubDate>Thu, 28 May 2026 08:00:00 +0000</pubDate>
       <guid isPermaLink="false">final-news-2026-05-28-v3.1-nobed</guid>
       <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-05-28-v3.1-nobed.mp3" length="9285164" type="audio/mpeg"/>
-      <itunes:title>C'è una stanza, da qualche parte alla Casa Bianca, dove in queste settimane si decide una cosa che non riguarda solo l'America.</itunes:title>
+      <itunes:title>Eppure in quella stanza non ci sono ingegneri, non ci sono filosofi, non ci sono cittadini.</itunes:title>
       <itunes:author>Mario Mosca</itunes:author>
       <itunes:duration>6:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -321,12 +334,12 @@
       <itunes:summary>C'è una parola che torna in ogni discorso del governo italiano da mesi, e che è scomparsa quasi completamente dal dibattito pubblico europeo. La parola è salari. Non riforme, non competitività, non transizione. Salari.</itunes:summary>
     </item>
     <item>
-      <title>C'è una mappa, da qualche parte negli uffici di Washington, dove lo Stretto di Hormuz è disegnato come un imbuto.</title>
+      <title>Per decenni quell'imbuto è stato il simbolo della vulnerabilità occidentale.</title>
       <description>C'è una mappa, da qualche parte negli uffici di Washington, dove lo Stretto di Hormuz è disegnato come un imbuto.</description>
       <pubDate>Tue, 26 May 2026 08:00:00 +0000</pubDate>
       <guid isPermaLink="false">final-news-2026-05-26-v3.2-nobed</guid>
       <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-05-26-v3.2-nobed.mp3" length="8654305" type="audio/mpeg"/>
-      <itunes:title>C'è una mappa, da qualche parte negli uffici di Washington, dove lo Stretto di Hormuz è disegnato come un imbuto.</itunes:title>
+      <itunes:title>Per decenni quell'imbuto è stato il simbolo della vulnerabilità occidentale.</itunes:title>
       <itunes:author>Mario Mosca</itunes:author>
       <itunes:duration>6:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -334,12 +347,12 @@
       <itunes:summary>C'è una mappa, da qualche parte negli uffici di Washington, dove lo Stretto di Hormuz è disegnato come un imbuto.</itunes:summary>
     </item>
     <item>
-      <title>C'è una cosa strana che sta succedendo questa settimana.</title>
+      <title>Il Papa, la BCE, il Corriere, Google e la Gen Z stanno dicendo, ognuno con il proprio linguaggio, esattamente la stessa frase.</title>
       <description>C'è una cosa strana che sta succedendo questa settimana. Il Papa, la BCE, il Corriere, Google e la Gen Z stanno dicendo, ognuno con il proprio linguaggio, esattamente la stessa frase. E nessuno la sta ascoltando.</description>
       <pubDate>Tue, 26 May 2026 08:00:00 +0000</pubDate>
       <guid isPermaLink="false">final-news-2026-05-26-v3.1-short</guid>
       <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-05-26-v3.1-short.mp3" length="3159187" type="audio/mpeg"/>
-      <itunes:title>C'è una cosa strana che sta succedendo questa settimana.</itunes:title>
+      <itunes:title>Il Papa, la BCE, il Corriere, Google e la Gen Z stanno dicendo, ognuno con il proprio linguaggio, esattamente la stessa frase.</itunes:title>
       <itunes:author>Mario Mosca</itunes:author>
       <itunes:duration>2:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -347,12 +360,12 @@
       <itunes:summary>C'è una cosa strana che sta succedendo questa settimana. Il Papa, la BCE, il Corriere, Google e la Gen Z stanno dicendo, ognuno con il proprio linguaggio, esattamente la stessa frase. E nessuno la sta ascoltando.</itunes:summary>
     </item>
     <item>
-      <title>C'è una mappa, da qualche parte negli uffici di Washington, dove lo Stretto di Hormuz è disegnato come un imbuto.</title>
+      <title>Per decenni quell'imbuto è stato il simbolo della vulnerabilità occidentale.</title>
       <description>C'è una mappa, da qualche parte negli uffici di Washington, dove lo Stretto di Hormuz è disegnato come un imbuto.</description>
       <pubDate>Tue, 26 May 2026 08:00:00 +0000</pubDate>
       <guid isPermaLink="false">final-news-2026-05-26-v3.1-nobed</guid>
       <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-05-26-v3.1-nobed.mp3" length="8831852" type="audio/mpeg"/>
-      <itunes:title>C'è una mappa, da qualche parte negli uffici di Washington, dove lo Stretto di Hormuz è disegnato come un imbuto.</itunes:title>
+      <itunes:title>Per decenni quell'imbuto è stato il simbolo della vulnerabilità occidentale.</itunes:title>
       <itunes:author>Mario Mosca</itunes:author>
       <itunes:duration>6:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -360,12 +373,12 @@
       <itunes:summary>C'è una mappa, da qualche parte negli uffici di Washington, dove lo Stretto di Hormuz è disegnato come un imbuto.</itunes:summary>
     </item>
     <item>
-      <title>C'è un rame nei cavi del tuo caricabatterie.</title>
+      <title>Ce n'è uno nel motore della macchina elettrica che il governo vuole farti comprare entro il 2035.</title>
       <description>C'è un rame nei cavi del tuo caricabatterie. Ce n'è uno nel motore della macchina elettrica che il governo vuole farti comprare entro il 2035. Ce n'è dentro l'inverter del pannello solare sul tetto di tuo cugino. E quasi sicuramente, quel rame, è passato da una città che si chiama Calama.</description>
       <pubDate>Tue, 26 May 2026 08:00:00 +0000</pubDate>
       <guid isPermaLink="false">final-news-2026-05-26-v3.1</guid>
       <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-05-26-v3.1.mp3" length="8817310" type="audio/mpeg"/>
-      <itunes:title>C'è un rame nei cavi del tuo caricabatterie.</itunes:title>
+      <itunes:title>Ce n'è uno nel motore della macchina elettrica che il governo vuole farti comprare entro il 2035.</itunes:title>
       <itunes:author>Mario Mosca</itunes:author>
       <itunes:duration>6:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
