@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Tue, 30 Jun 2026 04:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 04:06:15 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,19 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>Il ministero della Salute italiano dice che non gli risulta.</title>
+      <description>Il ministero della Salute italiano dice che non gli risulta. L'OMS dice che sono cinque. Cinque persone morte in Italia in ventiquattro ore per il caldo.</description>
+      <pubDate>Wed, 01 Jul 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-07-01-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-07-01-v3.1-nobed.mp3" length="8679788" type="audio/mpeg"/>
+      <itunes:title>Il ministero della Salute italiano dice che non gli risulta.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>6:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Il ministero della Salute italiano dice che non gli risulta. L'OMS dice che sono cinque. Cinque persone morte in Italia in ventiquattro ore per il caldo.</itunes:summary>
+    </item>
     <item>
       <title>Nel 2018, i climatologi europei pubblicarono una serie di proiezioni sul caldo estremo in Francia.</title>
       <description>Nel 2018, i climatologi europei pubblicarono una serie di proiezioni sul caldo estremo in Francia. Dicevano: entro il 2050, nelle estati peggiori, potremmo superare i quarantasei gradi. Era una stima considerata allarmista. Esagerata. Forse catastrofista. Siamo nel 2026.</description>
