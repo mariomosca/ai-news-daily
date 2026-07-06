@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Fri, 03 Jul 2026 04:05:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 04:03:09 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,19 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>È stato estratto vivo dalle macerie del Venezuela dopo sei giorni.</title>
+      <description>Carlos ha tre anni. È stato estratto vivo dalle macerie del Venezuela dopo sei giorni. Sei giorni sotto le macerie.</description>
+      <pubDate>Mon, 06 Jul 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-07-06-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-07-06-v3.1-nobed.mp3" length="8120492" type="audio/mpeg"/>
+      <itunes:title>È stato estratto vivo dalle macerie del Venezuela dopo sei giorni.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>5:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Carlos ha tre anni. È stato estratto vivo dalle macerie del Venezuela dopo sei giorni. Sei giorni sotto le macerie.</itunes:summary>
+    </item>
     <item>
       <title>Cinque morti in ventiquattr'ore.</title>
       <description>Cinque morti in ventiquattr'ore. È il numero che l'Organizzazione Mondiale della Sanità ha comunicato sull'Italia nel mezzo di questa ondata di calore. Il Ministero della Salute italiano ha risposto: non ci risultano. Non è una disputa tecnica su un modello statistico.</description>
