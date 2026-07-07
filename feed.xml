@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Mon, 06 Jul 2026 04:03:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 04:06:25 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,19 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>E non vedono la stessa cosa.</title>
+      <description>Il ministero della Salute italiano e l'Organizzazione Mondiale della Sanità guardano lo stesso paese, le stesse giornate, lo stesso luglio 2026. E non vedono la stessa cosa. L'OMS dice: cinque morti in ventiquattro ore per il caldo, in Italia. Il ministero dice: non ci risultano.</description>
+      <pubDate>Tue, 07 Jul 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-07-07-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-07-07-v3.1-nobed.mp3" length="9547244" type="audio/mpeg"/>
+      <itunes:title>E non vedono la stessa cosa.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>6:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Il ministero della Salute italiano e l'Organizzazione Mondiale della Sanità guardano lo stesso paese, le stesse giornate, lo stesso luglio 2026. E non vedono la stessa cosa. L'OMS dice: cinque morti in ventiquattro ore per il caldo, in Italia. Il ministero dice: non ci risultano.</itunes:summary>
+    </item>
     <item>
       <title>È stato estratto vivo dalle macerie del Venezuela dopo sei giorni.</title>
       <description>Carlos ha tre anni. È stato estratto vivo dalle macerie del Venezuela dopo sei giorni. Sei giorni sotto le macerie.</description>
