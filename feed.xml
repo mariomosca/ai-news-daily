@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Thu, 09 Jul 2026 04:07:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 04:08:48 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,19 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>Otto bicchieri d'acqua al giorno.</title>
+      <description>Otto bicchieri d'acqua al giorno. Quante volte l'hai sentita, questa regola? Aspetta — questo episodio l'abbiamo già fatto. Il 9 luglio 2026. Stessa apertura, stesso tema. --- Ricominciamo. --- Trentotto gradi. Torna il caldo, torna l'allarme, tornano i consigli.</description>
+      <pubDate>Fri, 10 Jul 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-07-10-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-07-10-v3.1-nobed.mp3" length="9956204" type="audio/mpeg"/>
+      <itunes:title>Otto bicchieri d'acqua al giorno.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>6:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Otto bicchieri d'acqua al giorno. Quante volte l'hai sentita, questa regola? Aspetta — questo episodio l'abbiamo già fatto. Il 9 luglio 2026. Stessa apertura, stesso tema. --- Ricominciamo. --- Trentotto gradi. Torna il caldo, torna l'allarme, tornano i consigli.</itunes:summary>
+    </item>
     <item>
       <title>Otto bicchieri d'acqua al giorno.</title>
       <description>Otto bicchieri d'acqua al giorno. Quante volte l'hai sentita, questa regola? Dalla maestra alle elementari, dalla nonna, dal medico di base. Otto bicchieri. Come se il corpo umano funzionasse a misure standard, come una ricetta. Quella regola non ha nessuna base scientifica solida.</description>
