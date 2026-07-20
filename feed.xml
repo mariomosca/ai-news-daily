@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Fri, 17 Jul 2026 04:08:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 04:08:13 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,19 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>I piani alti della Casa di Giulietta, a Verona, sono chiusi.</title>
+      <description>I piani alti della Casa di Giulietta, a Verona, sono chiusi. Non per lavori, non per restauro. Per il caldo. Il monumento più romantico d'Italia, quello dei balconi e delle lettere d'amore, ha abbassato i cancelli davanti a un'ondata di calore.</description>
+      <pubDate>Mon, 20 Jul 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-07-20-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-07-20-v3.1-nobed.mp3" length="9224684" type="audio/mpeg"/>
+      <itunes:title>I piani alti della Casa di Giulietta, a Verona, sono chiusi.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>6:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>I piani alti della Casa di Giulietta, a Verona, sono chiusi. Non per lavori, non per restauro. Per il caldo. Il monumento più romantico d'Italia, quello dei balconi e delle lettere d'amore, ha abbassato i cancelli davanti a un'ondata di calore.</itunes:summary>
+    </item>
     <item>
       <title>Era considerato l'evento più forte mai registrato.</title>
       <description>Nel 1997, El Niño uccise duemilaquattrocento persone, distrusse il sedici percento della barriera corallina mondiale e costò all'economia globale quarantacinque miliardi di dollari. Era considerato l'evento più forte mai registrato.</description>
