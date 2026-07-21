@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Mon, 20 Jul 2026 04:08:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 04:07:53 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,19 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>Gli scienziati di NOAA l'hanno già classificato come il più intenso mai registrato, e siamo solo a luglio.</title>
+      <description>Super El Niño 2026. Gli scienziati di NOAA l'hanno già classificato come il più intenso mai registrato, e siamo solo a luglio. Nel frattempo, l'Italia si è spaccata in due. Letteralmente.</description>
+      <pubDate>Tue, 21 Jul 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-07-21-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-07-21-v3.1-nobed.mp3" length="9417068" type="audio/mpeg"/>
+      <itunes:title>Gli scienziati di NOAA l'hanno già classificato come il più intenso mai registrato, e siamo solo a luglio.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>6:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Super El Niño 2026. Gli scienziati di NOAA l'hanno già classificato come il più intenso mai registrato, e siamo solo a luglio. Nel frattempo, l'Italia si è spaccata in due. Letteralmente.</itunes:summary>
+    </item>
     <item>
       <title>I piani alti della Casa di Giulietta, a Verona, sono chiusi.</title>
       <description>I piani alti della Casa di Giulietta, a Verona, sono chiusi. Non per lavori, non per restauro. Per il caldo. Il monumento più romantico d'Italia, quello dei balconi e delle lettere d'amore, ha abbassato i cancelli davanti a un'ondata di calore.</description>
