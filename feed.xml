@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Tue, 21 Jul 2026 04:07:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 04:04:29 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,19 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>Giugno 2026: la domanda di elettricità in Italia ha toccato il livello più alto da dieci anni.</title>
+      <description>Giugno 2026: la domanda di elettricità in Italia ha toccato il livello più alto da dieci anni. Non da cinque. Da dieci.</description>
+      <pubDate>Wed, 22 Jul 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-07-22-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-07-22-v3.1-nobed.mp3" length="9404972" type="audio/mpeg"/>
+      <itunes:title>Giugno 2026: la domanda di elettricità in Italia ha toccato il livello più alto da dieci anni.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>6:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Giugno 2026: la domanda di elettricità in Italia ha toccato il livello più alto da dieci anni. Non da cinque. Da dieci.</itunes:summary>
+    </item>
     <item>
       <title>Gli scienziati di NOAA l'hanno già classificato come il più intenso mai registrato, e siamo solo a luglio.</title>
       <description>Super El Niño 2026. Gli scienziati di NOAA l'hanno già classificato come il più intenso mai registrato, e siamo solo a luglio. Nel frattempo, l'Italia si è spaccata in due. Letteralmente.</description>
