@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Thu, 23 Jul 2026 04:08:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 04:08:13 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,19 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>Ozempic nasce per controllare la glicemia nei diabetici di tipo due.</title>
+      <description>Ozempic nasce per controllare la glicemia nei diabetici di tipo due. Diventano famosi come farmaci dimagranti. E adesso, nel 2026, i ricercatori si trovano davanti a qualcosa che non avevano cercato: ripara il cervello. Il principio attivo si chiama semaglutide.</description>
+      <pubDate>Fri, 24 Jul 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-07-24-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-07-24-v3.1-nobed.mp3" length="9695276" type="audio/mpeg"/>
+      <itunes:title>Ozempic nasce per controllare la glicemia nei diabetici di tipo due.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>6:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Ozempic nasce per controllare la glicemia nei diabetici di tipo due. Diventano famosi come farmaci dimagranti. E adesso, nel 2026, i ricercatori si trovano davanti a qualcosa che non avevano cercato: ripara il cervello. Il principio attivo si chiama semaglutide.</itunes:summary>
+    </item>
     <item>
       <title>Roma, quartiere Pigneto, domenica sera.</title>
       <description>Roma, quartiere Pigneto, domenica sera. Un blackout. Frigoriferi spenti, spesa da buttare, quartieri al buio. Non per un guasto, non per lavori in corso: per il caldo.</description>
