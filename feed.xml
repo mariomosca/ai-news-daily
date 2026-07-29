@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 04:06:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 04:07:53 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,19 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>Mohammed Abukar, quarantadue anni, muore in una serra nel Ragusano il 29 luglio 2026.</title>
+      <description>Mohammed Abukar, quarantadue anni, muore in una serra nel Ragusano il 29 luglio 2026. Fuori ci sono quarantuno gradi. Dentro una serra fa sempre almeno dieci gradi in più. Non è un incidente. Non è una fatalità.</description>
+      <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-07-29-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-07-29-v3.1-nobed.mp3" length="8703980" type="audio/mpeg"/>
+      <itunes:title>Mohammed Abukar, quarantadue anni, muore in una serra nel Ragusano il 29 luglio 2026.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>6:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Mohammed Abukar, quarantadue anni, muore in una serra nel Ragusano il 29 luglio 2026. Fuori ci sono quarantuno gradi. Dentro una serra fa sempre almeno dieci gradi in più. Non è un incidente. Non è una fatalità.</itunes:summary>
+    </item>
     <item>
       <title>Martedì 29 luglio 2026, sirene di temporale sull'Emilia-Romagna.</title>
       <description>Martedì 29 luglio 2026, sirene di temporale sull'Emilia-Romagna. Allerta arancione, parchi chiusi a Bologna, eventi annullati, frane attese. Tre settimane fa eravamo a cinquantotto gradi percepiti a Palermo. Oggi rischio idrogeologico.</description>
