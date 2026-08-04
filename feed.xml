@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Mon, 03 Aug 2026 04:05:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 04:07:01 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,19 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>Danubio in secca, esercito rumeno fa saltare rocce con la dinamite per tenere in vita una centrale nucleare.</title>
+      <description>Danubio in secca, esercito rumeno fa saltare rocce con la dinamite per tenere in vita una centrale nucleare. Francia spegne due reattori per mancanza d'acqua. Ungheria chiude la sua.</description>
+      <pubDate>Tue, 04 Aug 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-08-04-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-08-04-v3.1-nobed.mp3" length="9756908" type="audio/mpeg"/>
+      <itunes:title>Danubio in secca, esercito rumeno fa saltare rocce con la dinamite per tenere in vita una centrale nucleare.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>6:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Danubio in secca, esercito rumeno fa saltare rocce con la dinamite per tenere in vita una centrale nucleare. Francia spegne due reattori per mancanza d'acqua. Ungheria chiude la sua.</itunes:summary>
+    </item>
     <item>
       <title>Primo semestre 2026: i condizionatori vendono centocinquantamila unità in meno rispetto all'anno scorso.</title>
       <description>Primo semestre 2026: i condizionatori vendono centocinquantamila unità in meno rispetto all'anno scorso. Non è un errore di stampa. È il dato di Assoclima, l'associazione di categoria.</description>
