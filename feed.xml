@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Wed, 05 Aug 2026 04:07:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 04:09:10 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,19 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>Centosettantasette euro per megawattora.</title>
+      <description>Centosettantasette euro per megawattora. Tre anni e mezzo fa l'ultimo picco. Ieri il prezzo dell'elettricità in Italia ha eguagliato quel record. E non è successo per caso.</description>
+      <pubDate>Thu, 06 Aug 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-08-06-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-08-06-v3.1-nobed.mp3" length="9422828" type="audio/mpeg"/>
+      <itunes:title>Centosettantasette euro per megawattora.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>6:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Centosettantasette euro per megawattora. Tre anni e mezzo fa l'ultimo picco. Ieri il prezzo dell'elettricità in Italia ha eguagliato quel record. E non è successo per caso.</itunes:summary>
+    </item>
     <item>
       <title>Giovedì 7 agosto 2026, ventisette città italiane con bollino rosso simultaneamente.</title>
       <description>Giovedì 7 agosto 2026, ventisette città italiane con bollino rosso simultaneamente. Non è un record meteorologico. È un record di sistema — perché quando ventisette città vanno in rosso nello stesso giorno, quello che crolla non è solo il termometro. Crolla la rete elettrica che le alimenta.</description>
