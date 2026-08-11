@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Mon, 10 Aug 2026 04:08:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 04:06:33 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,19 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>E da qualche parte, in un ufficio climatizzato a Chicago o a Londra, qualcuno sta guardando questi dati e sta sorridendo.</title>
+      <description>Quaranta gradi all'ombra, diciannove città con il bollino rosso, i fiumi in secca, gli incendi che risalgono i versanti della Toscana e del Piemonte. E da qualche parte, in un ufficio climatizzato a Chicago o a Londra, qualcuno sta guardando questi dati e sta sorridendo. Non per cinismo.</description>
+      <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-08-11-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-08-11-v3.1-nobed.mp3" length="9046700" type="audio/mpeg"/>
+      <itunes:title>E da qualche parte, in un ufficio climatizzato a Chicago o a Londra, qualcuno sta guardando questi dati e sta sorridendo.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>6:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Quaranta gradi all'ombra, diciannove città con il bollino rosso, i fiumi in secca, gli incendi che risalgono i versanti della Toscana e del Piemonte. E da qualche parte, in un ufficio climatizzato a Chicago o a Londra, qualcuno sta guardando questi dati e sta sorridendo. Non per cinismo.</itunes:summary>
+    </item>
     <item>
       <title>Quattro miliardi di dollari.</title>
       <description>Quattro miliardi di dollari. Non è il PIL di un paese piccolo, non è il budget di un'azienda farmaceutica: è quanto ha guadagnato un settore finanziario di nicchia quest'estate scommettendo sul caldo. Mentre noi cerchiamo un posto all'ombra, qualcuno ha già incassato.</description>
