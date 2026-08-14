@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 04:07:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 04:07:12 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,19 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>Luglio 2026: gli italiani hanno consumato l'otto per cento di elettricità in più rispetto allo stesso mese dell'anno scorso.</title>
+      <description>Luglio 2026: gli italiani hanno consumato l'otto per cento di elettricità in più rispetto allo stesso mese dell'anno scorso. Record assoluto. Terna, il gestore della rete, lo ha certificato con i numeri in mano.</description>
+      <pubDate>Fri, 14 Aug 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-08-14-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-08-14-v3.1-nobed.mp3" length="9051884" type="audio/mpeg"/>
+      <itunes:title>Luglio 2026: gli italiani hanno consumato l'otto per cento di elettricità in più rispetto allo stesso mese dell'anno scorso.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>6:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Luglio 2026: gli italiani hanno consumato l'otto per cento di elettricità in più rispetto allo stesso mese dell'anno scorso. Record assoluto. Terna, il gestore della rete, lo ha certificato con i numeri in mano.</itunes:summary>
+    </item>
     <item>
       <title>Wistar Institute, Philadelphia, agosto 2026.</title>
       <description>Wistar Institute, Philadelphia, agosto 2026. I ricercatori pubblicano su Nature Aging uno studio che sembra parlare di biochimica molecolare — e invece sta parlando di quello che hai mangiato a colazione.</description>
