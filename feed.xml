@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Mon, 24 Aug 2026 04:09:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 04:09:25 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,19 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>Per milioni di persone, quella frase non è un sollievo.</title>
+      <description>Hai presente quando vai dal medico, spieghi quello che senti — un dolore diffuso, persistente, che non ha una causa visibile, che gli esami non trovano — e il medico ti guarda, annuisce, e alla fine ti dice: "Non vedo niente di anomalo"? Per milioni di persone, quella frase non è un sollievo.</description>
+      <pubDate>Tue, 25 Aug 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-08-25-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-08-25-v3.1-nobed.mp3" length="10709036" type="audio/mpeg"/>
+      <itunes:title>Per milioni di persone, quella frase non è un sollievo.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>7:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Hai presente quando vai dal medico, spieghi quello che senti — un dolore diffuso, persistente, che non ha una causa visibile, che gli esami non trovano — e il medico ti guarda, annuisce, e alla fine ti dice: "Non vedo niente di anomalo"? Per milioni di persone, quella frase non è un sollievo.</itunes:summary>
+    </item>
     <item>
       <title>Hai mangiato bene, hai camminato, hai fatto quello che dovevi fare — eppure la bilancia sale.</title>
       <description>La bilancia sale. Hai mangiato bene, hai camminato, hai fatto quello che dovevi fare — eppure la bilancia sale. E il medico non trova niente. Gli esami sono a posto, la tiroide è normale, il metabolismo "nella norma".</description>
