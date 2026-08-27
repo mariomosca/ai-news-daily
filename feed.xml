@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Wed, 26 Aug 2026 04:05:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 04:08:39 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,19 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>Quarantuno gradi a Caserta, giovedì.</title>
+      <description>Quarantuno gradi a Caserta, giovedì. Trentanove a Benevento, venerdì. L'allerta è scattata ieri mattina alle otto e durerà fino a domenica sera: quattro giorni di fila, definiti ufficialmente "ondata di calore". Non una notizia meteo. Un'emergenza sanitaria programmata nel calendario.</description>
+      <pubDate>Thu, 27 Aug 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">final-news-2026-08-27-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-08-27-v3.1-nobed.mp3" length="10117484" type="audio/mpeg"/>
+      <itunes:title>Quarantuno gradi a Caserta, giovedì.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>7:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Quarantuno gradi a Caserta, giovedì. Trentanove a Benevento, venerdì. L'allerta è scattata ieri mattina alle otto e durerà fino a domenica sera: quattro giorni di fila, definiti ufficialmente "ondata di calore". Non una notizia meteo. Un'emergenza sanitaria programmata nel calendario.</itunes:summary>
+    </item>
     <item>
       <title>Meno carboidrati, più verdura, meno aperitivi, più passeggiate.</title>
       <description>Stai seguendo una dieta. Da settimane. Meno carboidrati, più verdura, meno aperitivi, più passeggiate. La bilancia però non si muove — o peggio, sale. Il tuo medico ti guarda, ti dice che i conti non tornano. Hai ragione tu: i conti non tornano.</description>
