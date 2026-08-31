@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Fri, 28 Aug 2026 04:08:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 04:05:12 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,20 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>Settembre arriva tra tre giorni, e la bolletta dell'energia è già aumentata del quaranta per cento.</title>
+      <description>Settembre arriva tra tre giorni, e la bolletta dell'energia è già aumentata del quaranta per cento. Non è una previsione, non è un allarme preventivo: è quello che troverete nella cassetta della posta — o più probabilmente nell'inbox — tra fine settembre e dicembre di quest'anno.</description>
+      <pubDate>Mon, 31 Aug 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">final-news-2026-08-31-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-08-31-v3.1-nobed.mp3" length="9134252" type="audio/mpeg"/>
+      <itunes:title>Settembre arriva tra tre giorni, e la bolletta dell'energia è già aumentata del quaranta per cento.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>6:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>73</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Settembre arriva tra tre giorni, e la bolletta dell'energia è già aumentata del quaranta per cento. Non è una previsione, non è un allarme preventivo: è quello che troverete nella cassetta della posta — o più probabilmente nell'inbox — tra fine settembre e dicembre di quest'anno.</itunes:summary>
+    </item>
     <item>
       <title>Tre fatti che sembrano tre notizie separate.</title>
       <description>Quarantuno gradi in Sicilia, un ghiacciaio che crolla in montagna, e una bolletta che a settembre aumenterà del quaranta per cento. Tre fatti che sembrano tre notizie separate. Non lo sono. Questo è il caldo che paghiamo due volte. Una volta col corpo, una volta col portafoglio.</description>
@@ -114,12 +128,12 @@
       <itunes:summary>Tre chili in più, dieta rispettata, palestra tre volte a settimana. Aspetta — questo l'abbiamo già detto ieri. O l'altroieri. O forse è proprio il punto: lo ripetiamo perché la storia si ripete, cambia solo il dettaglio che non torna.</itunes:summary>
     </item>
     <item>
-      <title>Tre chili in più, dieta rispettata, palestra tre volte a settimana. (20/08)</title>
+      <title>Tre chili in più, dieta rispettata, palestra tre volte a settimana.</title>
       <description>Tre chili in più, dieta rispettata, palestra tre volte a settimana. È il racconto che si sente sempre più spesso negli ambulatori degli endocrinologi italiani: pazienti, quasi sempre donne, che non capiscono perché la bilancia non scenda. O perché continui a salire.</description>
       <pubDate>Thu, 20 Aug 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">final-news-2026-08-20-v3.1-nobed</guid>
       <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-08-20-v3.1-nobed.mp3" length="9820268" type="audio/mpeg"/>
-      <itunes:title>Tre chili in più, dieta rispettata, palestra tre volte a settimana. (20/08)</itunes:title>
+      <itunes:title>Tre chili in più, dieta rispettata, palestra tre volte a settimana.</itunes:title>
       <itunes:author>Mario Mosca</itunes:author>
       <itunes:duration>6:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -534,12 +548,12 @@
       <itunes:summary>Otto bicchieri d'acqua al giorno. Quante volte l'hai sentita, questa regola? Aspetta — questo episodio l'abbiamo già fatto. Il 9 luglio 2026. Stessa apertura, stesso tema. --- Ricominciamo. --- Trentotto gradi. Torna il caldo, torna l'allarme, tornano i consigli.</itunes:summary>
     </item>
     <item>
-      <title>Otto bicchieri d'acqua al giorno. (09/07)</title>
+      <title>Otto bicchieri d'acqua al giorno.</title>
       <description>Otto bicchieri d'acqua al giorno. Quante volte l'hai sentita, questa regola? Dalla maestra alle elementari, dalla nonna, dal medico di base. Otto bicchieri. Come se il corpo umano funzionasse a misure standard, come una ricetta. Quella regola non ha nessuna base scientifica solida.</description>
       <pubDate>Thu, 09 Jul 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">final-news-2026-07-09-v3.1-nobed</guid>
       <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-07-09-v3.1-nobed.mp3" length="9858284" type="audio/mpeg"/>
-      <itunes:title>Otto bicchieri d'acqua al giorno. (09/07)</itunes:title>
+      <itunes:title>Otto bicchieri d'acqua al giorno.</itunes:title>
       <itunes:author>Mario Mosca</itunes:author>
       <itunes:duration>6:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -1015,12 +1029,12 @@
       <itunes:summary>C'è una cosa strana che sta succedendo questa settimana. Il Papa, la BCE, il Corriere, Google e la Gen Z stanno dicendo, ognuno con il proprio linguaggio, esattamente la stessa frase. E nessuno la sta ascoltando.</itunes:summary>
     </item>
     <item>
-      <title>Per decenni quell'imbuto è stato il simbolo della vulnerabilità occidentale. (26/05)</title>
+      <title>Per decenni quell'imbuto è stato il simbolo della vulnerabilità occidentale.</title>
       <description>C'è una mappa, da qualche parte negli uffici di Washington, dove lo Stretto di Hormuz è disegnato come un imbuto.</description>
       <pubDate>Tue, 26 May 2026 06:00:00 +0200</pubDate>
       <guid isPermaLink="false">final-news-2026-05-26-v3.1-nobed</guid>
       <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-05-26-v3.1-nobed.mp3" length="8831852" type="audio/mpeg"/>
-      <itunes:title>Per decenni quell'imbuto è stato il simbolo della vulnerabilità occidentale. (26/05)</itunes:title>
+      <itunes:title>Per decenni quell'imbuto è stato il simbolo della vulnerabilità occidentale.</itunes:title>
       <itunes:author>Mario Mosca</itunes:author>
       <itunes:duration>6:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
