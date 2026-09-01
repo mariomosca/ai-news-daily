@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Mon, 31 Aug 2026 04:05:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 04:08:51 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,20 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>Non in aria, non sulla sabbia — sull'acqua.</title>
+      <description>Trenta gradi. Non in aria, non sulla sabbia — sull'acqua. Il Mediterraneo, in questo agosto 2026, ha raggiunto una temperatura di superficie che non aveva mai toccato nella storia delle rilevazioni. Trenta gradi centigradi. Come una piscina riscaldata. Come un bagno turco a cielo aperto.</description>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">final-news-2026-09-01-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-09-01-v3.1-nobed.mp3" length="9261548" type="audio/mpeg"/>
+      <itunes:title>Non in aria, non sulla sabbia — sull'acqua.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>6:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>74</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Trenta gradi. Non in aria, non sulla sabbia — sull'acqua. Il Mediterraneo, in questo agosto 2026, ha raggiunto una temperatura di superficie che non aveva mai toccato nella storia delle rilevazioni. Trenta gradi centigradi. Come una piscina riscaldata. Come un bagno turco a cielo aperto.</itunes:summary>
+    </item>
     <item>
       <title>Settembre arriva tra tre giorni, e la bolletta dell'energia è già aumentata del quaranta per cento.</title>
       <description>Settembre arriva tra tre giorni, e la bolletta dell'energia è già aumentata del quaranta per cento. Non è una previsione, non è un allarme preventivo: è quello che troverete nella cassetta della posta — o più probabilmente nell'inbox — tra fine settembre e dicembre di quest'anno.</description>
