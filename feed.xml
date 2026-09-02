@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Tue, 01 Sep 2026 04:08:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 04:05:20 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,20 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>[curious] Quindici morti in Italia dall'inizio dell'estate.</title>
+      <description>[curious] Quindici morti in Italia dall'inizio dell'estate. Non per un incidente, non per una calamità. Per la puntura di una zanzara. Il virus West Nile è tornato, e questa volta con numeri che non si possono ignorare.</description>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">final-news-2026-09-02-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-09-02-v3.1-nobed.mp3" length="8251244" type="audio/mpeg"/>
+      <itunes:title>[curious] Quindici morti in Italia dall'inizio dell'estate.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>5:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>75</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>[curious] Quindici morti in Italia dall'inizio dell'estate. Non per un incidente, non per una calamità. Per la puntura di una zanzara. Il virus West Nile è tornato, e questa volta con numeri che non si possono ignorare.</itunes:summary>
+    </item>
     <item>
       <title>Non in aria, non sulla sabbia — sull'acqua.</title>
       <description>Trenta gradi. Non in aria, non sulla sabbia — sull'acqua. Il Mediterraneo, in questo agosto 2026, ha raggiunto una temperatura di superficie che non aveva mai toccato nella storia delle rilevazioni. Trenta gradi centigradi. Come una piscina riscaldata. Come un bagno turco a cielo aperto.</description>
