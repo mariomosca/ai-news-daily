@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Thu, 03 Sep 2026 04:07:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 04:09:02 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,20 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>Tommaso Paradiso ha scritto su Instagram: "Un pappatacio ha deciso di pungermi".</title>
+      <description>Tommaso Paradiso ha scritto su Instagram: "Un pappatacio ha deciso di pungermi". Una frase quasi comica, detta da uno che fa canzoni e sa come scegliere le parole. E il Toscana Virus — questo è il nome reale — lo ha steso prima dei Power Hits di RTL all'Arena di Verona.</description>
+      <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">final-news-2026-09-04-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-09-04-v3.1-nobed.mp3" length="8685548" type="audio/mpeg"/>
+      <itunes:title>Tommaso Paradiso ha scritto su Instagram: "Un pappatacio ha deciso di pungermi".</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>6:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>77</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Tommaso Paradiso ha scritto su Instagram: "Un pappatacio ha deciso di pungermi". Una frase quasi comica, detta da uno che fa canzoni e sa come scegliere le parole. E il Toscana Virus — questo è il nome reale — lo ha steso prima dei Power Hits di RTL all'Arena di Verona.</itunes:summary>
+    </item>
     <item>
       <title>Da giugno a oggi, solo in Italia.</title>
       <description>Quindici morti. Da giugno a oggi, solo in Italia. Non per un'ondata di calore, non per un incidente stradale, non per una malattia rara. Per la puntura di una zanzara.</description>
