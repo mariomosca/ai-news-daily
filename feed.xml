@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Tue, 08 Sep 2026 04:11:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 04:08:13 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,20 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>[curious] Chi decide quando fa troppo caldo per imparare?</title>
+      <description>[curious] Chi decide quando fa troppo caldo per imparare? Settembre. Scuole che riaprono, zaini nuovi, il rituale collettivo del primo giorno.</description>
+      <pubDate>Wed, 09 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">final-news-2026-09-09-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-09-09-v3.1-nobed.mp3" length="11141036" type="audio/mpeg"/>
+      <itunes:title>[curious] Chi decide quando fa troppo caldo per imparare?</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>7:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>79</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>[curious] Chi decide quando fa troppo caldo per imparare? Settembre. Scuole che riaprono, zaini nuovi, il rituale collettivo del primo giorno.</itunes:summary>
+    </item>
     <item>
       <title>Un cantautore che salta un concerto all'Arena di Verona.</title>
       <description>Quindici morti. Un pappatacio. Un cantautore che salta un concerto all'Arena di Verona. Tre notizie separate, tre puntini che sembrano non parlarsi. Ma se li unisci — e io penso che valga la pena farlo — raccontano una storia sola.</description>
