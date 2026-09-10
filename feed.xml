@@ -10,7 +10,7 @@
     <description>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</description>
     <language>it-IT</language>
     <copyright>(c) 2026 Mario Mosca</copyright>
-    <lastBuildDate>Wed, 09 Sep 2026 04:08:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 04:07:09 +0000</lastBuildDate>
     <generator>news-bot/publish/generate_feed.py</generator>
     <itunes:author>Mario Mosca</itunes:author>
     <itunes:summary>Podcast giornaliero AI su attualita'. Una notizia data, non raccontata: un angolo, un paradosso, una posizione. Voce sintetica in stile editoriale.</itunes:summary>
@@ -29,6 +29,20 @@
       <title>AI News Daily — Briefing Mario</title>
       <link>https://mariomosca.github.io/ai-news-daily</link>
     </image>
+    <item>
+      <title>Duecento milioni di euro.</title>
+      <description>Duecento milioni di euro. Li ha annunciati la Commissione europea questa settimana, destinazione Groenlandia. Non è un sussidio umanitario. Non è cooperazione allo sviluppo nel senso classico del termine.</description>
+      <pubDate>Thu, 10 Sep 2026 06:00:00 +0200</pubDate>
+      <guid isPermaLink="false">final-news-2026-09-10-v3.1-nobed</guid>
+      <enclosure url="https://pub-e81ebbea380c45659c9029fc6fe84844.r2.dev/news-podcast/episodes/final-news-2026-09-10-v3.1-nobed.mp3" length="9489644" type="audio/mpeg"/>
+      <itunes:title>Duecento milioni di euro.</itunes:title>
+      <itunes:author>Mario Mosca</itunes:author>
+      <itunes:duration>6:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>80</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Duecento milioni di euro. Li ha annunciati la Commissione europea questa settimana, destinazione Groenlandia. Non è un sussidio umanitario. Non è cooperazione allo sviluppo nel senso classico del termine.</itunes:summary>
+    </item>
     <item>
       <title>[curious] Chi decide quando fa troppo caldo per imparare?</title>
       <description>[curious] Chi decide quando fa troppo caldo per imparare? Settembre. Scuole che riaprono, zaini nuovi, il rituale collettivo del primo giorno.</description>
