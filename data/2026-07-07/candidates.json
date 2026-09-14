@@ -1,0 +1,925 @@
+{
+  "date": "2026-07-07",
+  "top_topics": [
+    {
+      "keyword": "nato",
+      "n_items": 20,
+      "n_sources": 9,
+      "category": "geopolitica",
+      "score": 186,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Classifica 2026 sindaci e governatori: Funaro prima in Italia, Giani al settimo posto - La Nazione",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeGpsUDFZVExSajVlemRYN2dkam5FTVhTejZfVjZwRXQ5VEFScGdvRld0akFRa0dxLTVINnZ1Y0NFbWFHMEpuSzZ1ay1ZaHBJXzIyRjN4Y2RtWTRlVW9Uel9VUVlWdC1EdllnMDFKS0hxWG5jV3BRY0kwNDQ5dHllS0tUcVVqRWc?oc=5",
+          "description": "Classifica 2026 sindaci e governatori: Funaro prima in Italia, Giani al settimo posto La Nazione La classifica 2026 dei sindaci e governatori più amati Lab24 - Sole 24 ORE Sara Funaro è la sindaca più amata in Italia: «Bene ma restiamo pancia a terra a lavorare per Firenze» Corriere Fiorentino Chiara Frontini la sindaca più amata nel Lazio, settima a livello nazionale ANSA Gradimento sindaci e pre",
+          "pubDate": "Mon, 06 Jul 2026 10:51:19 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Accoltellamento in spiaggia a Savona, morto l’uomo colpito. L’aggressore si è costituito a Lambrate - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaG83VzNlNlFVNi1pVFRxV2s1aUdHR2xYUVBfRUl6U1RWSGZjMlE0cmYxX1o4Wml4YnRBcE56NmZwSEdpWVp4RXVYWjF5Q3VnRUJfNzFmaVExYk5IeVRyWmtOSGI2QjBGczNXNlY3azY3VjBaZmNqZER0WVZ2VmFWVFhLajJROVQ1MWxyYlY4MTdPYlJaQ2hlTXNjR2tsZG9GTk1FTlZUZE5VeXFGQWdHNERmUkIwU1A5a01IX09EN3ZMa3VWN1MwVDRNaFJ5VlJjZDVic3B6Nmp0eG9MNlVqMGR30gHnAUFVX3lxTE8zSG1sV1VkUFFMNDZNMUxsY0JIUTBaVnV2MHdfcnpuVEpwbzBRNV9mNXV6N2RvY1JmUHNxMHlaMGQ0UE1IWThhcUNjQm0weGFzdk5WRkxZZjFxM3BjVVpBbHB0RDBHV1FfMEs3dl9JYzZLN0M5TktwZmdVdy0wOHk3Z3JndzNyeVJYSFFlUUdLai1ielhzTEpHcWtPOFZac0wyUk9jaXF5ZHc4R3pnYnlGeU45T3BlSGdKa1diZzExQzVZeWUwT0x1YmZpejFkS29RNlFqb2tpaWJteS1rYUJPNElxRjlWcw?oc=5",
+          "description": "Accoltellamento in spiaggia a Savona, morto l’uomo colpito. L’aggressore si è costituito a Lambrate la Repubblica Morto Yassine accoltellato in spiaggia, una lite per il posto-letto ANSA Milano, arrestato a Lambrate il killer di Savona: ha telefonato al 112 da un bar. In spiaggia aveva ucciso un uomo Corriere Milano Omicidio a Savona sulla spiaggia libera del Prolungamento, uomo accoltellato: kill",
+          "pubDate": "Mon, 06 Jul 2026 07:18:45 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Rutte: 'Putin sempre più disperato ma gli alleati devono sostenere Kiev' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX2ltQ1VoWjlYZUlDM0ppeVV4OUhXM2RoSE96alZlWHQzbGdlREdhZE1iQWdDNUxuWDhsRXg4c25wZlg5TDlmOThFMkozb281TEJwajVMcGJRa2VyMmdpNVZTc04xTnN5WENoSUhTdXNyOTRsdnVsZ09hN2Vpei1hUGtBNF9GelFxVno5NTdXdGthYXZGZDdESk9QN1J4T3B1STdrOTNjUGFGcmZUTkM2UnFGRTRhZi14MkJyM1IzTHUwNXBEdG9UdGd6bURwc0VUNTdkQzdsb3NpZ2c5Qlc0NThmbE9pbldlZ2VqYTcwV1pxblXSAfgBQVVfeXFMTkc5Nkw3UDNhekE0N1Y5YVF5M3JaYUNNQXFrWXBURnFueHBkUlpuZGVkRzNDZjhyXzB0VnQwRll1UjhQcVllUnN3ZWRfTHhpMTZZVXdWNjZ5RTVlOFVSLXgzVDBLVDd6T0hiWl9SbGpuS2RMTXg0NV9xMmowUS1YYnE5dU5CVkF1dHA2bGVUN2JVVDZjOG9TM2VTYnRINnQ5UnRybjRCTVlNMF9zZllCVEVNY3ZnMkhWUDBTdkI3MG1tbDF5ZFdXNi1mdVdOVm1IS0s3TDVkZk1Jbmd5SmZNdmhIUTZENWpsT1ZKMmhsZ0JyM20wMGU2X1Q?oc=5",
+          "description": "Rutte: 'Putin sempre più disperato ma gli alleati devono sostenere Kiev' ANSA Lanciati dall'Ucraina oltre 400 droni verso Mosca ANSA Guerra Ucraina-Russia, le notizie in diretta | Raid russi su Kiev: 22 morti, oggi giornata lutto Corriere della Sera La proposta del ministro ucraino Fedorov prima del vertice Nato: dateci i vostri Patriot Il Foglio 22 vittime. Seconda giornata di lutto a Kiev il man",
+          "pubDate": "Mon, 06 Jul 2026 17:16:38 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Il sultano al centro dello scacchiere, Erdogan e il nuovo peso di Ankara - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRVFVdXhSRVUxYzBoQWU5dzdndTk4SF9hNjViRlAzUDJaWnY2Zjh0cEljRWtxb3Rzc3FlWHZ5TUlvZUNMMWFTRHUxc2s0bVJQdllzOFhyckFDdkVyYzI0OTlQeENxczZTRUdnOGtlVmpSV21hODVvQVVUTGE0RFFFN29Ia0J5N1hwbkpmb3ltUkt5RVlxb1JoY1dNV1NmellnRFhvMjc0ZkV5V3RGdVdhREIwVUlRM3VGTUNBR3lwRlBIZ2hiS3F4c3M2WTV1VnVIcHZacjcyRFVYMWdicUUxNERkN3RTQU1sd0FXdThFOVpuVU9wNFHSAfsBQVVfeXFMT0lFTXZybWdGSG80S0poTWlvUWZnb1o4WEQ2b1JJTDZBcGJUUDEtYkNWVG1ZV0RpUFo1Sk42RkhJc1dxNVJKU3o5dXZDdzcwZ19McmU1X1U1TWEyM2QxLWZGdzBBck5WM245emQxWk5vd0F3YzA0UnBJNFBIMUhXb2gxR1JGOVJ6a2hIRk03dC1BbzJLOHhDU0k3eTJzd21seXZtZXNwb05maXRUZHVKNzNlYzFPekU5MjI5V0g5Wll5VGZWT0lfTXJVUlBBcC0zX1YzMUNJNkRMd2JrQnpIandxdkh0LTM0Q3MydmlYTkRCS2VfXzV6QVBpYTQ?oc=5",
+          "description": "Il sultano al centro dello scacchiere, Erdogan e il nuovo peso di Ankara ANSA Turchia, la rivincita di Erdogan: da «socio» scomodo a partner militare strategico Corriere della Sera Intervista a Samuele Abrami, ricercatore presso il Barcelona Center for international affairs (CIDOB) su ruolo Turchia nell’architettura di sicurezza Europea e nella NATO alla vigilia del Vertice dell'Alleanza Atlantica",
+          "pubDate": "Mon, 06 Jul 2026 17:04:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Stangata carburanti, addio sconto sulle accise: a Modena rincari fulminei - ModenaToday",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOODZDVE83bl91WGVRTnNfU1JWbktQcy1iRTBkNUJxaEt2ekcxamw4amdEZEZRNWtVSE11cEI1VGp5aFZqVXdJQnkxMWRJaDF2b0hPQTUzSVQ0b3VrSkROdFBzQ2FHN3l1SnJPYTNRZUxhNmN5MG8xcUxrZGRESkM4MG00d2pMTFR4Mkw4VE11NENMRGlOdlFMR0FrMmVibEN0TWl4RWtWWmhBNl9JbnhUdw?oc=5",
+          "description": "Stangata carburanti, addio sconto sulle accise: a Modena rincari fulminei ModenaToday Diesel e benzina tornano verso i 2 euro: con la fine degli sconti sulle accise risalgono i prezzi Corriere della Sera Carburanti, Murano (Unem): “Senza guerra i listini possono scendere anche di 17 centesimi” la Repubblica Finito lo sconto accise, gasolio oltre i 2 euro in autostrada. Consumatori: in un anno +1,4",
+          "pubDate": "Mon, 06 Jul 2026 13:57:35 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "roma",
+      "n_items": 15,
+      "n_sources": 8,
+      "category": "geopolitica",
+      "score": 126,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump e Meloni, lo psichiatra: «Questo post mette in ridicolo il presidente Usa. Il silenzio di Meloni è una forma di superiorità» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNd0ZOaFJDek1GWnZiZFNaN2ZMN2hJTGVQSldZdXcxQ3BGX0hneGRvY19BcldVcGFpQWh0eEpEUjhUcGNaaXlfZ3R0Q0o1WlNGNV9vMjNYOWtYaFgzX0tDb0dxVHAzbzdJd0xQY1hxYWNaTXBPR1gtalNUZmItTkhha19hWm0xN0JFcDhvbW80UEpIZXNtN3pnUEkzNE1ma3JYU1pDUE9CVUF5Z3lVZnVMM2NSVEItLW93ZlRSTUxCUEVna2k4VkVyc1J2OXJqbmlIdTVIeDJybnVVckk1X0tSVnREbEEwZ3MxSEQydUJjYVRGVmRwYnJQdXAwbENVUDNiWVUzN1B6Wk5PMUk30gGSAkFVX3lxTE1lR214dUxsUm5VR3NnLS10Mjl2RXlmVUE3Vzl2V3BfWjVseFE3N0QtVjdoUWJpTUlxQXlCSEt4aFlwQzFiZDRNWG4ybUZjdlJpNWEtVUJDMFJhMlRHQjhzZ3NfTXJZZXIySnVEN3RtcGFnMGxySjBSck9qZllzWnNRVnRTTkJmTHlaOFVaeTFRbFBwR3p5VE9sb3lmdUdEWGZET2VpeGZaRjJ6OFBOOHZwbkVQd0s2dFprS3ZNbERlSzVHT21PNWRTRWpMRklXWkJXN0dycVJocVpKaWxKSWFoZGlESVVVcnFFMFFUbVdLSC16c0Y2bXdVanBJRFpab2JMd2I3OEFEOWZZOXJKcGJtTnc?oc=5",
+          "description": "Trump e Meloni, lo psichiatra: «Questo post mette in ridicolo il presidente Usa. Il silenzio di Meloni è una forma di superiorità» Corriere della Sera Un ruolo sulla Libia, così la Casa Bianca prova a ricucire con Roma dopo il nuovo attacco di Trump la Repubblica Trump ha di nuovo preso di mira Meloni Il Post Tajani: “Non risponderemo più a Trump. I fondi Safe? C’è tempo fino a fine anno” La Stamp",
+          "pubDate": "Mon, 06 Jul 2026 17:25:56 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "I disagi per i lavori sulla linea ferroviaria a Firenze - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90WnhrU2l2cWFUdC1KWWM2b2VsTll6aF82dWdDbERmS1Y2cHpZaUtUYm1XRXpNYWZMaTdpbFBYeGFJc3VDcE12OUJUTmZMbzJBaEJybVpxOWJkbHM2RzNHMnlNeEZLTWRtZGF3cnlmMnV4NExGRTB1eDk3UQ?oc=5",
+          "description": "I disagi per i lavori sulla linea ferroviaria a Firenze Il Post Caos treni, lo scandalo del caro voli: fino a 800 euro per un aereo Torino-Roma La Stampa Ferrovie: lavori al ponte di Firenze, 'Volume dei treni ridotto del 50% ANSA Ponte al Pino, appello ai toscani: “E’ un’emergenza nazionale, verificate gli orari” Toscana Notizie Firenze alla prova del primo giorno di interruzione dei treni a Camp",
+          "pubDate": "Mon, 06 Jul 2026 13:40:27 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Hamas scioglie il governo di Gaza. \"Ora tocca ai tecnocrati\" - AGI",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ3dwTDNLRklBek9MZVU2YzUyQTdvLVgwX1gxV0N1WlgtVTZ2Q3ozcXF0MFZhWnhvNzFiaTN4TUc3V2EwdllmNzhxWHA1VUNJZVEwZmFGMXE1em1Ba2pZak1QVzJlN0YteXVtRldBYjVLYmFmaEk0T0doOWtLcWo3Y3R1T25Pdw?oc=5",
+          "description": "Hamas scioglie il governo di Gaza. \"Ora tocca ai tecnocrati\" AGI Gaza, Hamas scioglie l'organismo di governo nella Striscia Vatican News Hamas scioglie l’organismo di governo di Gaza. Israele: non è la soluzione Il Sole 24 ORE Gaza, Hamas annuncia lo scioglimento dell’organismo di governo. A Roma il nuovo round di negoziati Israele-Libano Il Fatto Quotidiano Hamas,'mediatori e Board of Peace respo",
+          "pubDate": "Mon, 06 Jul 2026 16:23:24 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Il prossimo round di negoziati Israele-Libano si terrà a Roma il 15-16 luglio - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOG14dU1DNi1uRmI1OUNobkFEX2E2ME4tbk10UUNidUpVNlp1SkRiMlQyRlU2Y3BSbV9nNjhJQW5qR2hPOWVPdk01cUJxUjdGVmFUWlJSenkyWVZBdlZQSkIyQnh0bGNxYkRpSDNiYThYYkN0LXluUVNzR0lZdmxON2xFX2V2UQ?oc=5",
+          "description": "Il prossimo round di negoziati Israele-Libano si terrà a Roma il 15-16 luglio Sky TG24 A Roma il nuovo round dei negoziati Israele-Libano la prossima settimana ANSA Guerra in Iran, le news di oggi in diretta. A Roma nuovi negoziati Israele-Libano la Repubblica Israele-Libano, nuovo round di negoziati a Roma il 15-16 luglio Tgcom24 L’ambasciatore israeliano negli Usa: prossimi negoziati Israele-Lib",
+          "pubDate": "Mon, 06 Jul 2026 19:16:42 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Crosetto: “Impegni presi, quello di Ankara sarà un summit breve”. Ma Trump vuole contratti - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWklJVVBheHZ0ZTZtRGVKWjdaMGV1aWRhOW1NRjVrWUxGUXFSWTNlRy05RUJZUm5Zc0dwUWJwTXdLcVY1U3BHZjRoZGg2OWJwUmQ4ekhWeHhhdVNJdThnTlc4OGIwa2k3V0J3TWdPallFd21FWGpIZzJwSVpNTG9sam9HTVpjUGhXSDdXeFkxYWlEZTNTdGN4SGg2N2k2Y2ppUmJtdWpjcGZBakpDMk51ejNMYkEtczkwcDRhTHZFNkkxblZHOS1XY0paTzJyaGVMOWw1UmhDM0k?oc=5",
+          "description": "Crosetto: “Impegni presi, quello di Ankara sarà un summit breve”. Ma Trump vuole contratti Il Fatto Quotidiano Vertice Nato, gli Stati e la rincorsa al 5% davanti all'alleato Usa. L'attenzione «speciale» sui progressi italiani Corriere Roma Rutte, 'gli Usa non stanno spaccando la Nato, è giusto riequilibrare' ANSA Tutte le divisioni nel pilastro europeo: chi sostiene la Casa Bianca e chi no La Sta",
+          "pubDate": "Sun, 05 Jul 2026 22:01:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "milano",
+      "n_items": 15,
+      "n_sources": 8,
+      "category": "tech-ai",
+      "score": 126,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Accoltellamento Milano, il legale dell'aggressore: 'Non ricorda nulla' - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT0RnaklqUGkxNWJSMWczY3FUS3pFQWh4enMwenJkOWJiSDg1Mlc2clFXRE5DTmdsTGZXckhNOVo2MUFVTTl5aGVYd2RFMHdrTlRBZWNZeEVUOF9SVzQ0dGVvbHRYZUw1cjB1RjI3cEptRHlQWThONnhvbEtNZjFoX0l5WHlCMEFF?oc=5",
+          "description": "Accoltellamento Milano, il legale dell'aggressore: 'Non ricorda nulla' Sky TG24 Lamin Saidilly aveva \"già accoltellato in Inghilterra\". La furia dopo la lite col padre MilanoToday Lamin Saidilly, l'aggressore di Milano non risponde al gip. Il suo legale: «Non ricorda nulla, è molto scosso» Corriere Milano L'aggressore di Milano non risponde al gip, 'non ricordo nulla' ANSA Accoltellamento per stra",
+          "pubDate": "Mon, 06 Jul 2026 11:33:52 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Accoltellamento in spiaggia a Savona, morto l’uomo colpito. L’aggressore si è costituito a Lambrate - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaG83VzNlNlFVNi1pVFRxV2s1aUdHR2xYUVBfRUl6U1RWSGZjMlE0cmYxX1o4Wml4YnRBcE56NmZwSEdpWVp4RXVYWjF5Q3VnRUJfNzFmaVExYk5IeVRyWmtOSGI2QjBGczNXNlY3azY3VjBaZmNqZER0WVZ2VmFWVFhLajJROVQ1MWxyYlY4MTdPYlJaQ2hlTXNjR2tsZG9GTk1FTlZUZE5VeXFGQWdHNERmUkIwU1A5a01IX09EN3ZMa3VWN1MwVDRNaFJ5VlJjZDVic3B6Nmp0eG9MNlVqMGR30gHnAUFVX3lxTE8zSG1sV1VkUFFMNDZNMUxsY0JIUTBaVnV2MHdfcnpuVEpwbzBRNV9mNXV6N2RvY1JmUHNxMHlaMGQ0UE1IWThhcUNjQm0weGFzdk5WRkxZZjFxM3BjVVpBbHB0RDBHV1FfMEs3dl9JYzZLN0M5TktwZmdVdy0wOHk3Z3JndzNyeVJYSFFlUUdLai1ielhzTEpHcWtPOFZac0wyUk9jaXF5ZHc4R3pnYnlGeU45T3BlSGdKa1diZzExQzVZeWUwT0x1YmZpejFkS29RNlFqb2tpaWJteS1rYUJPNElxRjlWcw?oc=5",
+          "description": "Accoltellamento in spiaggia a Savona, morto l’uomo colpito. L’aggressore si è costituito a Lambrate la Repubblica Morto Yassine accoltellato in spiaggia, una lite per il posto-letto ANSA Milano, arrestato a Lambrate il killer di Savona: ha telefonato al 112 da un bar. In spiaggia aveva ucciso un uomo Corriere Milano Omicidio a Savona sulla spiaggia libera del Prolungamento, uomo accoltellato: kill",
+          "pubDate": "Mon, 06 Jul 2026 07:18:45 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Cuba al buio, blackout record: senza elettricità il 72% dell'isola - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVU1aTFJFYzBYQmpHUS1vX0QwXzdWYTBkNk5HX3NhWmx0N2hxNUFydkc2djV0ZlBzNmltaHlxRF9kZEYwM1BUT1BGblYwTUYwLTZBeHF5UnFrU1hrRzVuQ0pHeTZqT0stLWtPRjNVRGx3UjJMSjVLYmpSUTBUcXBtSHRSbGZRVjd4M0HSAWhBVV95cUxOQXJmOTAyY0pFaGlNZjBSelNWOVVnTWVSQkRjV0VpNVZwci10eHY4QlpJNHZURXhaNTJNcWV2ZEw0MW5UdExFbC05MTJROFJyVGJMcjBQVTF1S0hCZGk5WWZWS0xWa1NPaA?oc=5",
+          "description": "Cuba al buio, blackout record: senza elettricità il 72% dell'isola Tgcom24 In tutta Cuba manca la corrente per il collasso della rete elettrica Il Post Domenica da record per i blackout a Cuba, senza luce il 72% dell'isola ANSA Cuba, maxi-blackout: l'intera isola è senza corrente Tgcom24 Cuba sull’orlo del baratro: il collasso quotidiano nel racconto di un missionario ambrosiano Chiesa di Milano",
+          "pubDate": "Sun, 05 Jul 2026 21:29:07 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Milano, coppia di turisti rapinata davanti alla caserma dei carabinieri",
+          "link": "https://www.ansa.it/sito/videogallery/italia/2026/07/06/milano-coppia-di-turisti-rapinata-davanti-alla-caserma-dei-carabinieri_da7c1b9d-7769-4b51-a90c-30005423affc.html",
+          "description": "Sabato presso la stazione Duomo. Arrestato un 18enne, il complice fugge con un orologio",
+          "pubDate": "Mon, 6 Jul 2026 18:14:04 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "L'Odissea dei treni, ritardi e guasti da Milano a Firenze",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/06/guasto-alla-stazione-di-milano-centrale-treni-in-ritardo-fino-a-1-ora_86894a3b-e9a6-432c-9fa6-3c04cabe0f91.html",
+          "description": "Lavori e danni a linea alternativa, -50% convogli. Salvini: 'disagi per linea più moderna'",
+          "pubDate": "Mon, 6 Jul 2026 20:12:30 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "nuova",
+      "n_items": 11,
+      "n_sources": 9,
+      "category": "tech-ai",
+      "score": 105,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Meteo, nuova ondata di caldo e temperature fino a 38°. Le previsioni - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJQU9tX1VDRk5NOXJSN2JCYTJqN2R2ZGR5RXJ2a09hR2RsaFBKT0ZIcjRtNHNtZi1IMTlsV3JaLXptVUZqZWdnWWhkNFB2QXVmaUtfWElhbjNoQUE1aGFzcHpHb3kxbEw2eE04ejJMczZGczA1ZlpN?oc=5",
+          "description": "Meteo, nuova ondata di caldo e temperature fino a 38°. Le previsioni Sky TG24 Ancora sole e caldo: mercoledì tra le 9 città con bollino arancione anche Venezia e Verona RaiNews Finita la tregua, torna il caldo. E si riaffaccia il rischio siccità L'Arena Quando arriva il caldo rovente (di nuovo): picchi oltre i 38 gradi. “Vi spiego le differenze di questa ondata” Quotidiano Nazionale Settimana di s",
+          "pubDate": "Mon, 06 Jul 2026 09:13:56 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Ankara, città blindata: arrestati i manifestanti contrari al summit Nato - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVm5ScGlYZFZES2c5blI4emVYa0RoOFVybFBDRG95Mlg0SDl6ZjUweFRBRlU4ZGxsb0V1bXlqY1ltN3NERjdUVm5mdjl6YmgyUzlqTExaUllwa3RzTk1vTzBzQWsza0xQaXEzeENibVN1YjBCNGhxa0treVFpLTE0UFZEbnB3a09HNDZWbnh2VVUzWDZEeEFxTDJrUlJmdG0yY2hOTUNidWhjbEljNmZlS9IBtgFBVV95cUxOb3hISlhIS0F3Y0ViZ2lndzR2Q2xON1NDc05oUlppenpXYVpLcTVDN3VidW4yLVB6Vm5zWmlDSW4tR1FCNk5mZGtOQzVHajYtSFdZVnpuYUJRT280bGFySkVpU0lMeTBDZ1VmWFZwdUZDcnVfcXVsbzlVOGJaVml6d3FnX09GSDF2MEw3LTRkQ2E2bjJvZ0pCeDY0VXdxbHRsdnFLRlA0cG55N0ZNOTJHZEJja1ZFZw?oc=5",
+          "description": "Ankara, città blindata: arrestati i manifestanti contrari al summit Nato la Repubblica La Turchia sta usando l’incontro della Nato per aumentare la repressione Il Post Nardella (Pd), 'la Turchia calpesta lo Stato di diritto durante il vertice Nato' ANSA Erdogan super-star fa pulizia delle proteste il manifesto Nuova ondata di arresti in Turchia: nel mirino giornalisti e avvocati Il Dubbio",
+          "pubDate": "Sun, 05 Jul 2026 20:05:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Nuova strage a Kiev, ma i droni di Zelensky sfidano Mosca",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/06/missili-russi-su-kiev-e-la-sua-regione-il-bilancio-sale-a-18-morti.-e-un-crimine-di-guerra_22610798-6c9d-4433-b57b-120b1c2ab5bc.html",
+          "description": "Oltre 20 morti in Ucraina. Raid su una raffineria a 2.500 chilometri in territorio russo",
+          "pubDate": "Mon, 6 Jul 2026 19:31:58 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Terremoto, partita dall'Italia per il Venezuela una nuova delegazione di medici",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/07/terremoto-partita-dallitalia-per-il-venezuela-una-nuova-delegazione-di-medici_7c9211b8-6f26-433b-a6c9-790d4b4d2de0.html",
+          "description": "Sette camici bianchi in missione sotto la guida della Protezione Civile",
+          "pubDate": "Tue, 7 Jul 2026 03:22:17 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Gigafactory, il giorno della prima pietra per \"rendere Brindisi un polo fondamentale\" - BrindisiReport",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNGN5MmhyN0RyUUZqTFYyQk51bzgyZHlHYjBIQUVCaFFXTEJMVmNlMFR3V25Vb0RnbW5BeEZHR0x0NVo3XzlZWlgwS2x2NGFCQWJtUnNNbjI3SUp0Y2IxSkNjVFpkM2szTlN3VjJoXzFNa09TT2VzT0N3MU5hZDlFb1FTZUU2Vnhaa013MFhqemk3WFU5a1llWTVxbHA?oc=5",
+          "description": "Gigafactory, il giorno della prima pietra per \"rendere Brindisi un polo fondamentale\" BrindisiReport Decaro: \"Con la prima pietra del polo di Brindisi nuova stagione industriale\" La Gazzetta del Mezzogiorno Ricci (Eni): \"Polo di Brindisi operativo a tappe, prima sezione in esercizio a metà 2027\" OglioPoNews A Brindisi apre il cantiere per il nuovo polo Eni per le batterie stazionarie Adnkronos Urs",
+          "pubDate": "Mon, 06 Jul 2026 12:38:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "nuovo",
+      "n_items": 15,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 96,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump e Meloni, lo psichiatra: «Questo post mette in ridicolo il presidente Usa. Il silenzio di Meloni è una forma di superiorità» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNd0ZOaFJDek1GWnZiZFNaN2ZMN2hJTGVQSldZdXcxQ3BGX0hneGRvY19BcldVcGFpQWh0eEpEUjhUcGNaaXlfZ3R0Q0o1WlNGNV9vMjNYOWtYaFgzX0tDb0dxVHAzbzdJd0xQY1hxYWNaTXBPR1gtalNUZmItTkhha19hWm0xN0JFcDhvbW80UEpIZXNtN3pnUEkzNE1ma3JYU1pDUE9CVUF5Z3lVZnVMM2NSVEItLW93ZlRSTUxCUEVna2k4VkVyc1J2OXJqbmlIdTVIeDJybnVVckk1X0tSVnREbEEwZ3MxSEQydUJjYVRGVmRwYnJQdXAwbENVUDNiWVUzN1B6Wk5PMUk30gGSAkFVX3lxTE1lR214dUxsUm5VR3NnLS10Mjl2RXlmVUE3Vzl2V3BfWjVseFE3N0QtVjdoUWJpTUlxQXlCSEt4aFlwQzFiZDRNWG4ybUZjdlJpNWEtVUJDMFJhMlRHQjhzZ3NfTXJZZXIySnVEN3RtcGFnMGxySjBSck9qZllzWnNRVnRTTkJmTHlaOFVaeTFRbFBwR3p5VE9sb3lmdUdEWGZET2VpeGZaRjJ6OFBOOHZwbkVQd0s2dFprS3ZNbERlSzVHT21PNWRTRWpMRklXWkJXN0dycVJocVpKaWxKSWFoZGlESVVVcnFFMFFUbVdLSC16c0Y2bXdVanBJRFpab2JMd2I3OEFEOWZZOXJKcGJtTnc?oc=5",
+          "description": "Trump e Meloni, lo psichiatra: «Questo post mette in ridicolo il presidente Usa. Il silenzio di Meloni è una forma di superiorità» Corriere della Sera Un ruolo sulla Libia, così la Casa Bianca prova a ricucire con Roma dopo il nuovo attacco di Trump la Repubblica Trump ha di nuovo preso di mira Meloni Il Post Tajani: “Non risponderemo più a Trump. I fondi Safe? C’è tempo fino a fine anno” La Stamp",
+          "pubDate": "Mon, 06 Jul 2026 17:25:56 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Meteo, nuova ondata di caldo e temperature fino a 38°. Le previsioni - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJQU9tX1VDRk5NOXJSN2JCYTJqN2R2ZGR5RXJ2a09hR2RsaFBKT0ZIcjRtNHNtZi1IMTlsV3JaLXptVUZqZWdnWWhkNFB2QXVmaUtfWElhbjNoQUE1aGFzcHpHb3kxbEw2eE04ejJMczZGczA1ZlpN?oc=5",
+          "description": "Meteo, nuova ondata di caldo e temperature fino a 38°. Le previsioni Sky TG24 Ancora sole e caldo: mercoledì tra le 9 città con bollino arancione anche Venezia e Verona RaiNews Finita la tregua, torna il caldo. E si riaffaccia il rischio siccità L'Arena Quando arriva il caldo rovente (di nuovo): picchi oltre i 38 gradi. “Vi spiego le differenze di questa ondata” Quotidiano Nazionale Settimana di s",
+          "pubDate": "Mon, 06 Jul 2026 09:13:56 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Hamas scioglie il governo di Gaza. \"Ora tocca ai tecnocrati\" - AGI",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ3dwTDNLRklBek9MZVU2YzUyQTdvLVgwX1gxV0N1WlgtVTZ2Q3ozcXF0MFZhWnhvNzFiaTN4TUc3V2EwdllmNzhxWHA1VUNJZVEwZmFGMXE1em1Ba2pZak1QVzJlN0YteXVtRldBYjVLYmFmaEk0T0doOWtLcWo3Y3R1T25Pdw?oc=5",
+          "description": "Hamas scioglie il governo di Gaza. \"Ora tocca ai tecnocrati\" AGI Gaza, Hamas scioglie l'organismo di governo nella Striscia Vatican News Hamas scioglie l’organismo di governo di Gaza. Israele: non è la soluzione Il Sole 24 ORE Gaza, Hamas annuncia lo scioglimento dell’organismo di governo. A Roma il nuovo round di negoziati Israele-Libano Il Fatto Quotidiano Hamas,'mediatori e Board of Peace respo",
+          "pubDate": "Mon, 06 Jul 2026 16:23:24 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Il prossimo round di negoziati Israele-Libano si terrà a Roma il 15-16 luglio - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOG14dU1DNi1uRmI1OUNobkFEX2E2ME4tbk10UUNidUpVNlp1SkRiMlQyRlU2Y3BSbV9nNjhJQW5qR2hPOWVPdk01cUJxUjdGVmFUWlJSenkyWVZBdlZQSkIyQnh0bGNxYkRpSDNiYThYYkN0LXluUVNzR0lZdmxON2xFX2V2UQ?oc=5",
+          "description": "Il prossimo round di negoziati Israele-Libano si terrà a Roma il 15-16 luglio Sky TG24 A Roma il nuovo round dei negoziati Israele-Libano la prossima settimana ANSA Guerra in Iran, le news di oggi in diretta. A Roma nuovi negoziati Israele-Libano la Repubblica Israele-Libano, nuovo round di negoziati a Roma il 15-16 luglio Tgcom24 L’ambasciatore israeliano negli Usa: prossimi negoziati Israele-Lib",
+          "pubDate": "Mon, 06 Jul 2026 19:16:42 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Il sultano al centro dello scacchiere, Erdogan e il nuovo peso di Ankara - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRVFVdXhSRVUxYzBoQWU5dzdndTk4SF9hNjViRlAzUDJaWnY2Zjh0cEljRWtxb3Rzc3FlWHZ5TUlvZUNMMWFTRHUxc2s0bVJQdllzOFhyckFDdkVyYzI0OTlQeENxczZTRUdnOGtlVmpSV21hODVvQVVUTGE0RFFFN29Ia0J5N1hwbkpmb3ltUkt5RVlxb1JoY1dNV1NmellnRFhvMjc0ZkV5V3RGdVdhREIwVUlRM3VGTUNBR3lwRlBIZ2hiS3F4c3M2WTV1VnVIcHZacjcyRFVYMWdicUUxNERkN3RTQU1sd0FXdThFOVpuVU9wNFHSAfsBQVVfeXFMT0lFTXZybWdGSG80S0poTWlvUWZnb1o4WEQ2b1JJTDZBcGJUUDEtYkNWVG1ZV0RpUFo1Sk42RkhJc1dxNVJKU3o5dXZDdzcwZ19McmU1X1U1TWEyM2QxLWZGdzBBck5WM245emQxWk5vd0F3YzA0UnBJNFBIMUhXb2gxR1JGOVJ6a2hIRk03dC1BbzJLOHhDU0k3eTJzd21seXZtZXNwb05maXRUZHVKNzNlYzFPekU5MjI5V0g5Wll5VGZWT0lfTXJVUlBBcC0zX1YzMUNJNkRMd2JrQnpIandxdkh0LTM0Q3MydmlYTkRCS2VfXzV6QVBpYTQ?oc=5",
+          "description": "Il sultano al centro dello scacchiere, Erdogan e il nuovo peso di Ankara ANSA Turchia, la rivincita di Erdogan: da «socio» scomodo a partner militare strategico Corriere della Sera Intervista a Samuele Abrami, ricercatore presso il Barcelona Center for international affairs (CIDOB) su ruolo Turchia nell’architettura di sicurezza Europea e nella NATO alla vigilia del Vertice dell'Alleanza Atlantica",
+          "pubDate": "Mon, 06 Jul 2026 17:04:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "luglio",
+      "n_items": 12,
+      "n_sources": 8,
+      "category": "general",
+      "score": 96,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Il prossimo round di negoziati Israele-Libano si terrà a Roma il 15-16 luglio - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOG14dU1DNi1uRmI1OUNobkFEX2E2ME4tbk10UUNidUpVNlp1SkRiMlQyRlU2Y3BSbV9nNjhJQW5qR2hPOWVPdk01cUJxUjdGVmFUWlJSenkyWVZBdlZQSkIyQnh0bGNxYkRpSDNiYThYYkN0LXluUVNzR0lZdmxON2xFX2V2UQ?oc=5",
+          "description": "Il prossimo round di negoziati Israele-Libano si terrà a Roma il 15-16 luglio Sky TG24 A Roma il nuovo round dei negoziati Israele-Libano la prossima settimana ANSA Guerra in Iran, le news di oggi in diretta. A Roma nuovi negoziati Israele-Libano la Repubblica Israele-Libano, nuovo round di negoziati a Roma il 15-16 luglio Tgcom24 L’ambasciatore israeliano negli Usa: prossimi negoziati Israele-Lib",
+          "pubDate": "Mon, 06 Jul 2026 19:16:42 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Usa-Iran, le notizie in diretta | I familiari al corteo per Khamenei, manca Mojtaba. «Gli attacchi di Teheran hanno causato danni ingenti alle basi Usa in Medio Oriente». «I prossimi negoziati Israele-Libano a Roma il 15-16 luglio» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNLTNEUWx5RUxXMjFwN0xDS2FTNG1zWGtrVnZZZFl5UnBZWmE4V2JPaTVQR3B0Rzg0azY5blNEc2cycGJNY2NwNGNodEVKQjFzOEVabms5LVFubDJPdTZhYlRfTnVydFlLZEJEaEtObHlpQVhzcXdYZlU1MUt3Y2ZGQmphWF80aTRvTlIwc19jenhhSmhVaE4tTHdJaHpOblo3YnBJdm1Ua1BKNW5oSWYyWjNROHZBQ3FxQmt2eFlTRnJOaE5YdmRBZ2h1cklwZW1LR3lEMGMyeDd0S3R6dWlSdmJvZDVEZTFyeVpKdXR4TWdLUUIyTzZkcTBIaEpZRmlpTC14bXhaSFA2bzZuNUdjLVVySkRmVk82OVHSAZ8CQVVfeXFMTlV6SVNlczhmQlA3X2JUcTNUT1Z1am5UdVNtY2xxallVaDF4YnhsYWhmeFVSUHIzU3JKN3lCWFBuVUVOc01QRWptZkRYSE5kTDNVQV9VWi14dXA3WFJGWGJBa2Q0eUV5UDBjeTVnMXRlWnRiRVJXUjgyQzJXX3ZEWUFzcTFESDdtMVBzanRTQW04S3hwUHdnT1JFWElOWVYzeXhDT0FPU0E2eDNoRm8xNjN0RW5DejdFS3hUOFcwdURRTkk2cHFNNnZDaGEzVWNfOTVUV28ta0U3UFV4X3Z5aWVNZkRtdGdXUE8tQ3FVUVpFbld1SnFiTS1LMUxjaHFYd1pYc0pndjAtRlZUeTJvS3N5eDFSMTlJaFY4ZVNNZkk?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | I familiari al corteo per Khamenei, manca Mojtaba. «Gli attacchi di Teheran hanno causato danni ingenti alle basi Usa in Medio Oriente». «I prossimi negoziati Israele-Libano a Roma il 15-16 luglio» Corriere della Sera La bara di Khamenei sfila a Teheran al grido 'vendetta', riappare Ahmadinejad ANSA Il feretro di Khamenei nella città santa di Qom. Hamas sci",
+          "pubDate": "Mon, 06 Jul 2026 23:38:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Prossimo round negoziati Israele-Libano a Roma il 15-16 luglio",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/06/prossimo-round-negoziati-israele-libano-a-roma-il-15-16-luglio_64886144-6a7b-4083-bf85-0ddac341e68b.html",
+          "description": "",
+          "pubDate": "Mon, 6 Jul 2026 20:24:57 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Chiusura mista per le Borse europee. Milano in verde con balzo Fincantieri - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYWVkMVdUNlNwMzlZMjc4T1Q1LUNGY19QNG9OdWhHUDZybkM5d29tZE5fVVpjTVNCUTVwNGxySEVTcXhlMzVfNlp0MWpUVXNtZThFeHJKV0tLWHJHU1N2VmlEb1JOSmpPV0xxZWVjaWZmRjhWWU1xNlVMZDFXVFlzOVJWS1pvU25Nay1QSHR4TjhVdXlGYWJ3YkZjQmFUdzREeWNhOW1QcG5VTVBZMWQ0Q2FYTVlxd1NGSm5veVEtSG9lZFk5SUU3OXpUOHU3dGwzVkE1QloxeUpCT1BzdEUtM3MyZndNcWFmRTBOcDNUOFFrUQ?oc=5",
+          "description": "Chiusura mista per le Borse europee. Milano in verde con balzo Fincantieri Borsa Italiana Fincantieri punta 600 milioni sul settore strategico della difesa sottomarina Il Fatto Quotidiano Nuovo polo subacqueo di Fincantieri: la bergamasca Remazel protagonista della sfida dei droni marini L'Eco di Bergamo Borse in diretta, petrolio oggi 6 luglio | Europa in cauto rialzo, Asia debole con i titoli te",
+          "pubDate": "Mon, 06 Jul 2026 16:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Redditi Pf 2026 precompilato: a chi interessa, come utilizzarlo - Fisco Oggi",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzTGI4XzFqLVYyUnRVa2tpS3oxT3NyNy1lRnlzMDJXT2pmaTNaRERSQWV2RUVIcXcyUWJBSDVaeGNMS05kb0JsVWV2S2pUMEFEODlUajN4NGVPOWZ3cnF3b05Ia09OQVJrNko1S0ZMQk5Zdw?oc=5",
+          "description": "Redditi Pf 2026 precompilato: a chi interessa, come utilizzarlo Fisco Oggi Webinar CPB: Modelli Redditi e IRAP 2026 in diretta 7 luglio MySolution CPB nel Quadro RR: contributi tra concordato ed effettivo - EC News - Area fiscale EC News Modello Redditi 2026: saldo 2025 e acconto 2026 contributi INPS Commercialista Telematico",
+          "pubDate": "Mon, 06 Jul 2026 12:38:43 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "trump",
+      "n_items": 15,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 81,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump e Meloni, lo psichiatra: «Questo post mette in ridicolo il presidente Usa. Il silenzio di Meloni è una forma di superiorità» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNd0ZOaFJDek1GWnZiZFNaN2ZMN2hJTGVQSldZdXcxQ3BGX0hneGRvY19BcldVcGFpQWh0eEpEUjhUcGNaaXlfZ3R0Q0o1WlNGNV9vMjNYOWtYaFgzX0tDb0dxVHAzbzdJd0xQY1hxYWNaTXBPR1gtalNUZmItTkhha19hWm0xN0JFcDhvbW80UEpIZXNtN3pnUEkzNE1ma3JYU1pDUE9CVUF5Z3lVZnVMM2NSVEItLW93ZlRSTUxCUEVna2k4VkVyc1J2OXJqbmlIdTVIeDJybnVVckk1X0tSVnREbEEwZ3MxSEQydUJjYVRGVmRwYnJQdXAwbENVUDNiWVUzN1B6Wk5PMUk30gGSAkFVX3lxTE1lR214dUxsUm5VR3NnLS10Mjl2RXlmVUE3Vzl2V3BfWjVseFE3N0QtVjdoUWJpTUlxQXlCSEt4aFlwQzFiZDRNWG4ybUZjdlJpNWEtVUJDMFJhMlRHQjhzZ3NfTXJZZXIySnVEN3RtcGFnMGxySjBSck9qZllzWnNRVnRTTkJmTHlaOFVaeTFRbFBwR3p5VE9sb3lmdUdEWGZET2VpeGZaRjJ6OFBOOHZwbkVQd0s2dFprS3ZNbERlSzVHT21PNWRTRWpMRklXWkJXN0dycVJocVpKaWxKSWFoZGlESVVVcnFFMFFUbVdLSC16c0Y2bXdVanBJRFpab2JMd2I3OEFEOWZZOXJKcGJtTnc?oc=5",
+          "description": "Trump e Meloni, lo psichiatra: «Questo post mette in ridicolo il presidente Usa. Il silenzio di Meloni è una forma di superiorità» Corriere della Sera Un ruolo sulla Libia, così la Casa Bianca prova a ricucire con Roma dopo il nuovo attacco di Trump la Repubblica Trump ha di nuovo preso di mira Meloni Il Post Tajani: “Non risponderemo più a Trump. I fondi Safe? C’è tempo fino a fine anno” La Stamp",
+          "pubDate": "Mon, 06 Jul 2026 17:25:56 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Crosetto: “Impegni presi, quello di Ankara sarà un summit breve”. Ma Trump vuole contratti - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWklJVVBheHZ0ZTZtRGVKWjdaMGV1aWRhOW1NRjVrWUxGUXFSWTNlRy05RUJZUm5Zc0dwUWJwTXdLcVY1U3BHZjRoZGg2OWJwUmQ4ekhWeHhhdVNJdThnTlc4OGIwa2k3V0J3TWdPallFd21FWGpIZzJwSVpNTG9sam9HTVpjUGhXSDdXeFkxYWlEZTNTdGN4SGg2N2k2Y2ppUmJtdWpjcGZBakpDMk51ejNMYkEtczkwcDRhTHZFNkkxblZHOS1XY0paTzJyaGVMOWw1UmhDM0k?oc=5",
+          "description": "Crosetto: “Impegni presi, quello di Ankara sarà un summit breve”. Ma Trump vuole contratti Il Fatto Quotidiano Vertice Nato, gli Stati e la rincorsa al 5% davanti all'alleato Usa. L'attenzione «speciale» sui progressi italiani Corriere Roma Rutte, 'gli Usa non stanno spaccando la Nato, è giusto riequilibrare' ANSA Tutte le divisioni nel pilastro europeo: chi sostiene la Casa Bianca e chi no La Sta",
+          "pubDate": "Sun, 05 Jul 2026 22:01:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Bufera sul caso Balogun, Uefa e Belgio contro la Fifa. Trump: 'Ho parlato con Infantino, il fallo non c'era' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPZklzVjdoZ21MejlzZ2hXQ1djYTBQbU9uTUp3dU8zeXdkTnk3dU5odTNKTFEwTHlMcW1uUkJMZkNWU1NtN193Y3ZfOUluNk9OdmZCS2pqUzZMVE5VRUJ2WFNPU1lhU1FwSDNLRkl3ZmFqXzZKdjZxeXJwb3htNzMyZ3hWRndjdXFzQXdib3RGM2FXYUV4LVk4Tkk1SThVVDl2VkV2d0RhdUV3VWV3MFRwc28yN2FVdVFQemdVQmVCVXBkdklWY0NpdDkwelBhZDhFczh1UTRkSkpJbXQ5RmNtdEpFckhrc1hXYUVKbzY1U21zQlBKSkx6VkUtcDk5ck0tUGlpcVdyWl9oR1dkZENrTXZpYW9kQ2o2QVhneWFkaVZYd9IBpwJBVV95cUxQMG1VVGI1b2pwczlkemNMdHl6M2ozYnJNSGw3cDBlYTN2WEVEbkdQTTRjUlVob05MLTQ2ZXZXZHlLVG1udWsta1FiOUdjaEowbnhuWWtoNk9uOE9ZX0N0U1N4RkxPWXdRQ0dtRUpqNVgwVzQwVktoUUhDMDA3S0YzTXltekV0LUZFdENqcjVtRm9seDY5bG1tb0dRUk9EMXlNZEN1ZlZ3TUZGTVB0OHZ4QmN5dUN2QmViZHZHTVkwdUZKMU9pUzNndEt5aE5ZemMwdkNqbzhyMmQ5WGJ6LVJkZEtuREFhektKVUtKbnlmNXJWby1XUkhZSWI1U0E5enRjeFhLcERZQUJJcE1Zd3dLakdRdUJUUGVHYTI1VW5JVHVjVUpVb1pF?oc=5",
+          "description": "Bufera sul caso Balogun, Uefa e Belgio contro la Fifa. Trump: 'Ho parlato con Infantino, il fallo non c'era' ANSA Trump a gamba tesa sui Mondiali: «Sì, ho telefonato a Infantino». Le critiche all'arbitro, gli indizi cancellati. Ora Francia e Inghilterra vogliono togliere due ammonizioni Corriere della Sera Mondiali: ironia del Belgio dopo vittoria sugli Usa, 'ribaltate questo' ANSA Perché Trump ha",
+          "pubDate": "Mon, 06 Jul 2026 16:18:38 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Il retroscena sulla crepa tra Europa e Usa e la frase di Meloni ai leader Nato: \"Trump non è ragionevole\" - il Giornale",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNnlRQVBUdjhwd1BxaFFUbEV4elcxekd2T3FWa0g4RHR4TUlsWjRaOHA4cUxpMEp6d1pOV2RoVVZQQ21qNC0xa1FJZUswRHlMMWdnWlM2TFR3dm8wVHAxS21FcExvMHJUcnYyTjlrRDlZbUd6Q29aLWtEblJOdHoyM1ZMNjZ0SWY1VkRTUk1MNDZfdjV4dHY0cFF1eXluYUR5ZUVBRGhNNW5SdVB1Qmk0LXFIVVFIVUR4VlE?oc=5",
+          "description": "Il retroscena sulla crepa tra Europa e Usa e la frase di Meloni ai leader Nato: \"Trump non è ragionevole\" il Giornale Wsj: ecco come l’Europa lavora alla “de-americanizzazione” Askanews GLI USA DI TRUMP GUARDANO ALLA POLITICA DELL’IMPERO BRITANNICO L'Opinione delle Libertà",
+          "pubDate": "Mon, 06 Jul 2026 15:55:41 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Ucraina, nuovi raid su Kiev, Trump: Putin è pronto a fine guerra - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTElQa1AtZ3otd3dRN3VaZkh4aHFMbjJ3NXJRZm5YZE5HR1VmNWFNdjdFcjh1RlhraDdvTzE3S3ZzdjFDY3ZYUG5WZkpZaXJ1b2hzWmh3bW1hVzZxMUExYkNuQUV5dmhNTW5pQ20wSkgxcDdhTFFkeU1BYXFBQkhWMkhXTlU4cXBj?oc=5",
+          "description": "Ucraina, nuovi raid su Kiev, Trump: Putin è pronto a fine guerra Sky TG24 Trump al vertice Nato: 'Putin vuole la pace, parliamone' ANSA Trump chiama Putin, il Cremlino esulta: «Washington non sarà dalla parte di Zelensky» Corriere della Sera Trump al summit Nato per chiedere altri soldi: “Ma Putin vuole la pace” la Repubblica Trump: “Putin vuole finire la guerra, ne parleremo alla Nato”. Brucia la",
+          "pubDate": "Mon, 06 Jul 2026 22:03:33 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "after",
+      "n_items": 18,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 78,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Belgium Ends Team USA’s World Cup Run After Political Firestorm - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNUzNhRkZRYmdjR2FFMTNHdUkxUVJJWGZSU0dsdVg3bVdwWm5aZ2RvZ0pQay14VTU4MVRUNUgzcmFwQVJJS0tkWnItNkZCcFc4eFROOWwxblQ5N2FVYmxBU2dPbnZGWDVFWktLRFpHZXoyOGFWLUdaaTJTMnY?oc=5",
+          "description": "Belgium Ends Team USA’s World Cup Run After Political Firestorm WSJ Chicago fans at World Cup watch party left bummed after U.S. loss to Belgium in knockout match CBS News USMNT player ratings: Pulisic & Co. struggle in World Cup exit ESPN Team USA's World Cup run ends as Belgium wins Round of 16 matchup to advance Fox News USMNT Player Ratings For The 2026 World Cup After Loss To Belgium FOX Spor",
+          "pubDate": "Tue, 07 Jul 2026 02:05:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Platner’s Democratic Support Evaporates After Sexual Assault Allegation - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQmdwTkRRbEJCRGtjQ0xKWGZoSldhVnNIUWowR2NQajZFTmFONWZFNkFuUkZKaHhyRjR2S3hudXpIeTRzeFVweVZjOEZ5RzljODk5d3VlUWk2ME9rSUZRV0hrV0trd2tBb1V0ZUVUcEJhRmt5ZU9XaWRyUy0zT0xBU3djWXd5cEU?oc=5",
+          "description": "Platner’s Democratic Support Evaporates After Sexual Assault Allegation The New York Times Exclusive: Woman who dated Graham Platner says he sexually assaulted her Politico Who Might Replace Graham Platner if He Drops Out of the Maine Senate Race? The New York Times Democratic hopes to win back the Senate hang by a thread as Graham Platner weighs dropping out NBC News Top Democrats press Maine sen",
+          "pubDate": "Tue, 07 Jul 2026 02:33:43 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Here’s what Charlie Kirk’s family said as the preliminary hearing for his accused killer begins - The Salt Lake Tribune",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iYUNEblowQmZQRXRYQ1VPUkFuRG8waVNOd29KX2F1UUZFZkhOandzOFJ4dm1VM3R0VGM5WEpTeW9rcVROckxjZE0tX1diUGQzSV9MSHNLSmN1cDV1dVJIeDFEdmFuaFpjRHkyeXlUYXIxdVE3a2E1YQ?oc=5",
+          "description": "Here’s what Charlie Kirk’s family said as the preliminary hearing for his accused killer begins The Salt Lake Tribune Charlie Kirk’s widow faces his accused killer in court for the first time as prosecutors start presenting evidence CNN Charlie Kirk's family comes face to face with accused assassin for first time Fox News Former officer describes finding a 'sniper pad' on nearby rooftop after Char",
+          "pubDate": "Tue, 07 Jul 2026 00:55:08 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "ICE sent officers to a man’s home over an email. Now he’s suing - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZlBKS3gzSDB4SHR1NDRCRXZIMVN0YnNzWHlGZ29BVk96UWJ1VXdtRldPZ1AxOTR2NUc2OU9WcEx4WTJLV09tOTgxcHpnLVJjVzZmaW9VQXczTk1XV2c5Wkk3YkdXaDRuLVZLU3FlbTNndGNrNDZVMVpNdWFraGFNbVhITTEtTktZMW5NakZKdWZUSjEtTURMR3JFS1NZMnJ0cmk4SHptM0tHTTAwNFowaw?oc=5",
+          "description": "ICE sent officers to a man’s home over an email. Now he’s suing AP News Man sues DHS after agents tracked him down for sending a scathing email to ICE NPR He wrote a scathing message to ICE. Federal agents showed up at his door. The Washington Post An Email. A Knock at the Door. A Suit Alleges a Threat to Free Speech. The New York Times FIRE files lawsuit after federal agents confront New Yorker o",
+          "pubDate": "Mon, 06 Jul 2026 16:06:40 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump says he asked FIFA head to review red card but ‘didn’t tell him what to do’ - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaTVTZE0xMkRJSjVzTHFIUFYxUnRFcVZwOGptSldTRXNNOFIyMTYtYmYxb1NSeDMtV0NXcW54ZG1QNEZvajFwTmFrQ1RoTnl2Q1VRSWwzc1poSWRSTUV5R3BQU2VIdl9RWUZSM2RLTzkydkZINUE5NkNnaURBdHZ3Q1U3eF80dWlWRmdBTHlsLTFFSk84Q3dHWjZkSHgwSGJIYmhpQ1U2S2RwdHZhMmxIM3pfT3dDMkQ0Y0hmag?oc=5",
+          "description": "Trump says he asked FIFA head to review red card but ‘didn’t tell him what to do’ The Washington Post World Cup 2026: Belgium has appeal denied after FIFA reversed USMNT's Folarin Balogun 1-game ban after red card Yahoo Sports U.S. star Folarin Balogun went from the center of controversy to a nonfactor NBC News Trump Wanted a U.S. Soccer Star to Play in the World Cup. FIFA Found a Way. The New Yor",
+          "pubDate": "Tue, 07 Jul 2026 01:23:28 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "europa",
+      "n_items": 9,
+      "n_sources": 5,
+      "category": "economia",
+      "score": 51,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Turismo, l’Italia regina d’Europa anche d’estate: quali sono le località più visitate. Meloni: \"Premiata bellezza della nazione e qualità dell'offerta\" - il Giornale",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNHgtWU1UdVdUNVpZOW9tNi1ZMHg1T0JMTEs0Q3NGeE9XYm9mT0tKenVxMDdBZHZRRENtdXNNR2doZ2hmRHBweGx4ZzFGNnp3SXNkQU1ZRHFGREJJb2lzYy1PZnpKNzRTTm5mWjJzYjhlalIxWjJRbEdyT3NzQnByV1lyYWVxT09Ga3BoMjZKUTFwT0xwcWcwQVZxeGd2Y3F1cHhXTERKNXB0RTNmejlsTmR3?oc=5",
+          "description": "Turismo, l’Italia regina d’Europa anche d’estate: quali sono le località più visitate. Meloni: \"Premiata bellezza della nazione e qualità dell'offerta\" il Giornale Quest’estate tutti vogliono andare qui: l’Italia guida le prenotazioni in Europa SiViaggia Notizie dalla Giunta regione.fvg.it Turismo, italiani in crescita (+1,5%) e più arrivi dall’Europa Il Sole 24 ORE Meloni, 'Italia al top del turi",
+          "pubDate": "Sun, 05 Jul 2026 14:13:57 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Il retroscena sulla crepa tra Europa e Usa e la frase di Meloni ai leader Nato: \"Trump non è ragionevole\" - il Giornale",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNnlRQVBUdjhwd1BxaFFUbEV4elcxekd2T3FWa0g4RHR4TUlsWjRaOHA4cUxpMEp6d1pOV2RoVVZQQ21qNC0xa1FJZUswRHlMMWdnWlM2TFR3dm8wVHAxS21FcExvMHJUcnYyTjlrRDlZbUd6Q29aLWtEblJOdHoyM1ZMNjZ0SWY1VkRTUk1MNDZfdjV4dHY0cFF1eXluYUR5ZUVBRGhNNW5SdVB1Qmk0LXFIVVFIVUR4VlE?oc=5",
+          "description": "Il retroscena sulla crepa tra Europa e Usa e la frase di Meloni ai leader Nato: \"Trump non è ragionevole\" il Giornale Wsj: ecco come l’Europa lavora alla “de-americanizzazione” Askanews GLI USA DI TRUMP GUARDANO ALLA POLITICA DELL’IMPERO BRITANNICO L'Opinione delle Libertà",
+          "pubDate": "Mon, 06 Jul 2026 15:55:41 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Chiusura mista per le Borse europee. Milano in verde con balzo Fincantieri - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYWVkMVdUNlNwMzlZMjc4T1Q1LUNGY19QNG9OdWhHUDZybkM5d29tZE5fVVpjTVNCUTVwNGxySEVTcXhlMzVfNlp0MWpUVXNtZThFeHJKV0tLWHJHU1N2VmlEb1JOSmpPV0xxZWVjaWZmRjhWWU1xNlVMZDFXVFlzOVJWS1pvU25Nay1QSHR4TjhVdXlGYWJ3YkZjQmFUdzREeWNhOW1QcG5VTVBZMWQ0Q2FYTVlxd1NGSm5veVEtSG9lZFk5SUU3OXpUOHU3dGwzVkE1QloxeUpCT1BzdEUtM3MyZndNcWFmRTBOcDNUOFFrUQ?oc=5",
+          "description": "Chiusura mista per le Borse europee. Milano in verde con balzo Fincantieri Borsa Italiana Fincantieri punta 600 milioni sul settore strategico della difesa sottomarina Il Fatto Quotidiano Nuovo polo subacqueo di Fincantieri: la bergamasca Remazel protagonista della sfida dei droni marini L'Eco di Bergamo Borse in diretta, petrolio oggi 6 luglio | Europa in cauto rialzo, Asia debole con i titoli te",
+          "pubDate": "Mon, 06 Jul 2026 16:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Valbondione: il futuro dell’idroelettrico passa dalla Centrale Dossi - MyValley.it notizie!",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdmxocXBfMXE1X201RjdnNDJTclFJc1U4cHNZOUFyRk5MUDJ2dWhVN0VsR2c3MzNydS1ENktuMUxST201VklHNHNBUWRjUnBrMVNBZlNyb29iaERvNnNrSnlwMFdZYll0dTJxS1RzeEhmUm1BdHYwRlhXcVljXzVCTkRxemZEcS1KUGdGZjJuN0tzVG9uVTB4YkdLQQ?oc=5",
+          "description": "Valbondione: il futuro dell’idroelettrico passa dalla Centrale Dossi MyValley.it notizie! In Lombardia un impianto idroelettrico con batteria integrata, è il primo in Europa ANSA L'acqua e le batterie: come un borgo dell'Alta Val Seriana è diventato un modello energetico per l'Europa Quotidiano Nazionale Bless4Hydro, presentato a Valbondione il nuovo progetto idroelettrico Bergamonews Enel, in Lom",
+          "pubDate": "Mon, 06 Jul 2026 16:09:19 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse europee piatte, petrolio e gas in calo: brilla Fincantieri (+10,8%) - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd3BORHlYWjJZRzlLU05TTEpEZkdpNnlhbkNrX1JVelROZXdWRHVZV0pJdWstbXJ4dlhXaHF0T0NrQmlCWGVYbl84MnlUcHhUYkVvWGJPQzVtWWlsTDNKMXVPOFN2Z1E2cDZOd1lFc24xVUZ2Mmd4NWY3QUtralZncnZQWC1qTEZTQnNOanBnUy1vVWFZTDdXX21RT256SmNrRlR0T3ZrSXNZMFNpV2RGakowWGI2dHM?oc=5",
+          "description": "Borse europee piatte, petrolio e gas in calo: brilla Fincantieri (+10,8%) SoldiOnline.it Mercati cauti. Tonica Piazza Affari Borsa Italiana Borsa: l'Europa avanti fiacca con i tecnologici e il petrolio ANSA Ftse Mib debole, investitori guardano a G7 Milano Finanza Borse deboli in Europa, corre il Nasdaq RaiNews",
+          "pubDate": "Mon, 06 Jul 2026 13:51:00 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "what",
+      "n_items": 9,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 51,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Here’s what Charlie Kirk’s family said as the preliminary hearing for his accused killer begins - The Salt Lake Tribune",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iYUNEblowQmZQRXRYQ1VPUkFuRG8waVNOd29KX2F1UUZFZkhOandzOFJ4dm1VM3R0VGM5WEpTeW9rcVROckxjZE0tX1diUGQzSV9MSHNLSmN1cDV1dVJIeDFEdmFuaFpjRHkyeXlUYXIxdVE3a2E1YQ?oc=5",
+          "description": "Here’s what Charlie Kirk’s family said as the preliminary hearing for his accused killer begins The Salt Lake Tribune Charlie Kirk’s widow faces his accused killer in court for the first time as prosecutors start presenting evidence CNN Charlie Kirk's family comes face to face with accused assassin for first time Fox News Former officer describes finding a 'sniper pad' on nearby rooftop after Char",
+          "pubDate": "Tue, 07 Jul 2026 00:55:08 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump says he asked FIFA head to review red card but ‘didn’t tell him what to do’ - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaTVTZE0xMkRJSjVzTHFIUFYxUnRFcVZwOGptSldTRXNNOFIyMTYtYmYxb1NSeDMtV0NXcW54ZG1QNEZvajFwTmFrQ1RoTnl2Q1VRSWwzc1poSWRSTUV5R3BQU2VIdl9RWUZSM2RLTzkydkZINUE5NkNnaURBdHZ3Q1U3eF80dWlWRmdBTHlsLTFFSk84Q3dHWjZkSHgwSGJIYmhpQ1U2S2RwdHZhMmxIM3pfT3dDMkQ0Y0hmag?oc=5",
+          "description": "Trump says he asked FIFA head to review red card but ‘didn’t tell him what to do’ The Washington Post World Cup 2026: Belgium has appeal denied after FIFA reversed USMNT's Folarin Balogun 1-game ban after red card Yahoo Sports U.S. star Folarin Balogun went from the center of controversy to a nonfactor NBC News Trump Wanted a U.S. Soccer Star to Play in the World Cup. FIFA Found a Way. The New Yor",
+          "pubDate": "Tue, 07 Jul 2026 01:23:28 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "National Guard soldiers fatally shoot man who had gun in downtown Memphis - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORUQ3ZnZHRW5vQlM5ZGIwaGwxXzR5aktQNTd5ZFZBa1d4S0d6MzRoSkltbnBMWkRfZjR5ZURoT0drclVJU0hvTGR0SDRRRVpQSXJDdlRVYmNldlZFZlg0Zm1vODlZSUUzSGlZcTItekZpeE5sLWNDaDgtaEZiOFRlTXI4RnhHeWFSNFNSME5LMVc1UW9BWTlmVFpSaU03Mjh6Z05iNU9PcVM4VmlGazR3?oc=5",
+          "description": "National Guard soldiers fatally shoot man who had gun in downtown Memphis NBC News ‘We knew this would happen’: Lawmakers seek answers after fatal Guard shooting in Memphis WREG.com Tennessee national guard troops shoot man dead in Memphis The Guardian Former TSU student shot, killed by National Guard in Memphis. Here’s what we know WSMV National Guard members on patrol in Memphis fatally shoot ma",
+          "pubDate": "Mon, 06 Jul 2026 21:32:27 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Robots available for rent: But what can they do?",
+          "link": "https://www.bbc.co.uk/news/articles/c4gymkg9lr2o?at_medium=RSS&at_campaign=rss",
+          "description": "Robotics tech is changing fast, so for many it makes sense to rent a robot.",
+          "pubDate": "Mon, 06 Jul 2026 23:48:55 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Wegovy weight loss pill now available in UK - here's what you need to know",
+          "link": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo?at_medium=RSS&at_campaign=rss",
+          "description": "The once-a-day pill, from the makers of the Wegovy weight-loss jab, can now be bought privately in UK pharmacies.",
+          "pubDate": "Mon, 06 Jul 2026 11:09:54 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "york",
+      "n_items": 9,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 42,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Platner’s Democratic Support Evaporates After Sexual Assault Allegation - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQmdwTkRRbEJCRGtjQ0xKWGZoSldhVnNIUWowR2NQajZFTmFONWZFNkFuUkZKaHhyRjR2S3hudXpIeTRzeFVweVZjOEZ5RzljODk5d3VlUWk2ME9rSUZRV0hrV0trd2tBb1V0ZUVUcEJhRmt5ZU9XaWRyUy0zT0xBU3djWXd5cEU?oc=5",
+          "description": "Platner’s Democratic Support Evaporates After Sexual Assault Allegation The New York Times Exclusive: Woman who dated Graham Platner says he sexually assaulted her Politico Who Might Replace Graham Platner if He Drops Out of the Maine Senate Race? The New York Times Democratic hopes to win back the Senate hang by a thread as Graham Platner weighs dropping out NBC News Top Democrats press Maine sen",
+          "pubDate": "Tue, 07 Jul 2026 02:33:43 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "ICE sent officers to a man’s home over an email. Now he’s suing - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZlBKS3gzSDB4SHR1NDRCRXZIMVN0YnNzWHlGZ29BVk96UWJ1VXdtRldPZ1AxOTR2NUc2OU9WcEx4WTJLV09tOTgxcHpnLVJjVzZmaW9VQXczTk1XV2c5Wkk3YkdXaDRuLVZLU3FlbTNndGNrNDZVMVpNdWFraGFNbVhITTEtTktZMW5NakZKdWZUSjEtTURMR3JFS1NZMnJ0cmk4SHptM0tHTTAwNFowaw?oc=5",
+          "description": "ICE sent officers to a man’s home over an email. Now he’s suing AP News Man sues DHS after agents tracked him down for sending a scathing email to ICE NPR He wrote a scathing message to ICE. Federal agents showed up at his door. The Washington Post An Email. A Knock at the Door. A Suit Alleges a Threat to Free Speech. The New York Times FIRE files lawsuit after federal agents confront New Yorker o",
+          "pubDate": "Mon, 06 Jul 2026 16:06:40 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Nolan Wells’ Mother Confirms His Death After Ranger Finds Body on Horn Island - Mississippi Free Press",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU1I3dWFONHF4dk9qRkU5RjlIRkk5T2hRSVZ1U2I5Zm5WYVR4b3FCbGotVFBPN3MxbXpiY18tREJ5UlVPR3JBald0VnFFRUFuQ21nMGl3Sl9udlVnaUZ4eHdDdEZzd3I4UEVnVmFqUEdrQ2o0QXE2aXJ5cHNMUUI1ZU5YSlB2OUd1YzRtWnZpTXY5WUJJZlpEbDFhSFRWTjdWaDNDdnpHYkxiR1huemw1elcwNFc?oc=5",
+          "description": "Nolan Wells’ Mother Confirms His Death After Ranger Finds Body on Horn Island Mississippi Free Press UPDATE: Family identifies body found on Horn Island as 18-year-old Nolan Wells WLOX 18-year-old found dead on island after vanishing on Fourth of July trip, family says WAFB Nolan Wells' devastated mom asks for 'time to grieve' as body found in search for 'special soul' son New York Post UPDATE: Oc",
+          "pubDate": "Mon, 06 Jul 2026 23:17:03 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Weather recap: BJ's roof collapses as NJ floods, while Long Island sees heavy rain - NBC New York",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcjl0aHAxV1dIdkhqZjBTcXA4emNoY1FJSkFpVWhtUTBkRzZ4VWZ5S3E3V2E1dUp6S3F5MUlPWjRmRUpMWFFZMVhUMEh2bk81ekQ1aHFWbzJVUGFrSV9wSVl0b0x5Vkx6dmNLZ09ySTZZZXJkSmthQmVXSS00REViY3RTMEpWdEpmLW14bVZUVEgtdGRyNk55bnhnQm1adU1odVZjcVFoTlJac0FqTklBLXJUX056OXJOVm5OQU9Fd9IBxwFBVV95cUxPY2plRnB5MEFMWWJjTU9BT3NaT1lrU2lZLTFGR1h2VzVqWlhZZFI5YlpiNlFBczFoZ0tDTGNnbWNTTzNRSmZFbXNIWW0tbzl1Vm1SM3VlYWlPRE9zcl9tUFU3XzVDdnpvbDAxRUtaT0tFNnY0U1k3dEdjN2JJN3JEZHdPN2lLdzNRaE84dGt6Ynk2MUdnR1JhS1VrZXVLZGxselhpM2ZtanBUZUhkc0I2RjR1T2pfdURCakQ3RmRyTU9WQ2haNzdr?oc=5",
+          "description": "Weather recap: BJ's roof collapses as NJ floods, while Long Island sees heavy rain NBC New York NJ flooding and storms cause roof collapse at BJ's Wholesale Club in Ocean Township on Route 35 ABC7 New York No injuries reported after roof collapses at BJ's Wholesale Club in Ocean Township News12 | New Jersey Dramatic video shows BJ's roof collapse during NJ rain storm FOX 5 New York BJ’s roof colla",
+          "pubDate": "Mon, 06 Jul 2026 22:34:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Deadly Russian strikes hit Ukraine’s capital ahead of key NATO meeting - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGxOUlRqVHFrTkl0U0IzR1kwRjlHN1VHa2ZKNkdTZEhGaVh3RTIyaHJNalBLX3A0Y3VaeEp3aUgxdklXQXQwRnU5eUdHZWJ0OHNXd3FoUXpGVFU5SVJQMlJ5czdVZHkzdEU1eGIzSFBjX1p3aEE1SkJybFVTYl91bUNPTzVxQWFpQ3hYUnJuaHJacXUtMzhLWjI0dkk3dWs0MUVNU0pvZTFWTmYzVE1qZXRaOVZ3R3VV?oc=5",
+          "description": "Deadly Russian strikes hit Ukraine’s capital ahead of key NATO meeting The Washington Post Russian Offensive Campaign Assessment, July 6, 2026 Institute for the Study of War Deadly Russian Strikes Hit Kyiv on Eve of NATO Summit The New York Times Russia's missile and drone attacks on Ukraine kill at least 22 NPR Deadly Russian strikes hammer Kyiv on eve of Trump trip to critical NATO summit CNN",
+          "pubDate": "Tue, 07 Jul 2026 00:47:41 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "droni",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Rutte: 'Putin sempre più disperato ma gli alleati devono sostenere Kiev' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX2ltQ1VoWjlYZUlDM0ppeVV4OUhXM2RoSE96alZlWHQzbGdlREdhZE1iQWdDNUxuWDhsRXg4c25wZlg5TDlmOThFMkozb281TEJwajVMcGJRa2VyMmdpNVZTc04xTnN5WENoSUhTdXNyOTRsdnVsZ09hN2Vpei1hUGtBNF9GelFxVno5NTdXdGthYXZGZDdESk9QN1J4T3B1STdrOTNjUGFGcmZUTkM2UnFGRTRhZi14MkJyM1IzTHUwNXBEdG9UdGd6bURwc0VUNTdkQzdsb3NpZ2c5Qlc0NThmbE9pbldlZ2VqYTcwV1pxblXSAfgBQVVfeXFMTkc5Nkw3UDNhekE0N1Y5YVF5M3JaYUNNQXFrWXBURnFueHBkUlpuZGVkRzNDZjhyXzB0VnQwRll1UjhQcVllUnN3ZWRfTHhpMTZZVXdWNjZ5RTVlOFVSLXgzVDBLVDd6T0hiWl9SbGpuS2RMTXg0NV9xMmowUS1YYnE5dU5CVkF1dHA2bGVUN2JVVDZjOG9TM2VTYnRINnQ5UnRybjRCTVlNMF9zZllCVEVNY3ZnMkhWUDBTdkI3MG1tbDF5ZFdXNi1mdVdOVm1IS0s3TDVkZk1Jbmd5SmZNdmhIUTZENWpsT1ZKMmhsZ0JyM20wMGU2X1Q?oc=5",
+          "description": "Rutte: 'Putin sempre più disperato ma gli alleati devono sostenere Kiev' ANSA Lanciati dall'Ucraina oltre 400 droni verso Mosca ANSA Guerra Ucraina-Russia, le notizie in diretta | Raid russi su Kiev: 22 morti, oggi giornata lutto Corriere della Sera La proposta del ministro ucraino Fedorov prima del vertice Nato: dateci i vostri Patriot Il Foglio 22 vittime. Seconda giornata di lutto a Kiev il man",
+          "pubDate": "Mon, 06 Jul 2026 17:16:38 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Nuova strage a Kiev, ma i droni di Zelensky sfidano Mosca",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/06/missili-russi-su-kiev-e-la-sua-regione-il-bilancio-sale-a-18-morti.-e-un-crimine-di-guerra_22610798-6c9d-4433-b57b-120b1c2ab5bc.html",
+          "description": "Oltre 20 morti in Ucraina. Raid su una raffineria a 2.500 chilometri in territorio russo",
+          "pubDate": "Mon, 6 Jul 2026 19:31:58 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Chiusura mista per le Borse europee. Milano in verde con balzo Fincantieri - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYWVkMVdUNlNwMzlZMjc4T1Q1LUNGY19QNG9OdWhHUDZybkM5d29tZE5fVVpjTVNCUTVwNGxySEVTcXhlMzVfNlp0MWpUVXNtZThFeHJKV0tLWHJHU1N2VmlEb1JOSmpPV0xxZWVjaWZmRjhWWU1xNlVMZDFXVFlzOVJWS1pvU25Nay1QSHR4TjhVdXlGYWJ3YkZjQmFUdzREeWNhOW1QcG5VTVBZMWQ0Q2FYTVlxd1NGSm5veVEtSG9lZFk5SUU3OXpUOHU3dGwzVkE1QloxeUpCT1BzdEUtM3MyZndNcWFmRTBOcDNUOFFrUQ?oc=5",
+          "description": "Chiusura mista per le Borse europee. Milano in verde con balzo Fincantieri Borsa Italiana Fincantieri punta 600 milioni sul settore strategico della difesa sottomarina Il Fatto Quotidiano Nuovo polo subacqueo di Fincantieri: la bergamasca Remazel protagonista della sfida dei droni marini L'Eco di Bergamo Borse in diretta, petrolio oggi 6 luglio | Europa in cauto rialzo, Asia debole con i titoli te",
+          "pubDate": "Mon, 06 Jul 2026 16:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Nuova strage a Kiev, ma i droni di Zelensky sfidano Mosca - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNTDdCeUtKc2V5LVZONllYbEs2ZDJfQ0hucGtPeU52bjhOWXRVajd4LWFFaFljNnUzeUpSX2ZnRDh6X1hpY2IyRjFWRDhScEEzZ0lFLVRNaWdtYldOZmR6TGlxN1MwU0VkUWFMNlBFb0U4S3lGMFcwdkxGZC16Q0R2U2pVTV9vaktia2V4cFloamIzdHIzZkNkVTM2YXMwV09YbHhkRUZSN2E5VGV5YnVMMmtOMHc1bVNFUVgwQ1VINUtFbTcwQnZnQzN3VWxnY3NKUUtIbTdDQnI0NHNlWGkwRHRyVXA2Q2gwaGtSbWNjZ3JYOVVRNENsZlE3MF9BMWVYZ3l2eWpBNTE2NHFLZFQ40gGUAkFVX3lxTFBrdGJNbEMxOHRLU1d3VF9VNzJIUDM1YWtHSmVPWDU3bVZmX040bU5Ha2FXTVBRR1ZQaENOVXdnZXV5c0U3bU05cTNiNFlQb0k0d2xLTEFBb1VjYV9MdWFCdF95THRLalNFYnRWcVJmOFJ1M3VJcnNmNnNVZG9TbWRuS2luRkZXWWhuN2R3RmNYZWd6cVlKWHV1a29GS1h3NzdwenQzeDJxZXpyT0RVdm5xNUtqN2o1cWJDV1BabDRyVHE2YXI2NE5lVFAzd24tbkhzLS1NaG13aWZpUlNqcFhheFlxWXdTbUZLXy1FMDE0VmJLcU96YlR5RTNnb3Nac1pLemppenJTUTR0Q0NsTnh5ZU9oZA?oc=5",
+          "description": "Nuova strage a Kiev, ma i droni di Zelensky sfidano Mosca ANSA",
+          "pubDate": "Mon, 06 Jul 2026 17:31:00 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "La Russia minaccia la Polonia: “Varsavia rifletta sulla sua sicurezza se produce droni per l’Ucraina” - Quotidiano Nazionale",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTnlfcFllY3IzWGFKWU4wYTUtSkRQZkpHaF9IZWVqRzVVUkI0OTR4eHUtbmtPZzJOSWxETnRWeUJjQTVxQmdjMlppamw5OHNJaVNuY0lxS3liUWY4aHdyZEhCZ2IyOW9BQUNEc1YyRWd1RFFlMnBRdWxXYVJaN01WT2RvVFp4UzZ6UEtnRXhfOEJvUQ?oc=5",
+          "description": "La Russia minaccia la Polonia: “Varsavia rifletta sulla sua sicurezza se produce droni per l’Ucraina” Quotidiano Nazionale",
+          "pubDate": "Sun, 05 Jul 2026 12:12:18 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "italia",
+      "n_items": 24,
+      "n_sources": 11,
+      "category": "tech-ai",
+      "score": 27.0,
+      "cooldown": true,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Classifica 2026 sindaci e governatori: Funaro prima in Italia, Giani al settimo posto - La Nazione",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeGpsUDFZVExSajVlemRYN2dkam5FTVhTejZfVjZwRXQ5VEFScGdvRld0akFRa0dxLTVINnZ1Y0NFbWFHMEpuSzZ1ay1ZaHBJXzIyRjN4Y2RtWTRlVW9Uel9VUVlWdC1EdllnMDFKS0hxWG5jV3BRY0kwNDQ5dHllS0tUcVVqRWc?oc=5",
+          "description": "Classifica 2026 sindaci e governatori: Funaro prima in Italia, Giani al settimo posto La Nazione La classifica 2026 dei sindaci e governatori più amati Lab24 - Sole 24 ORE Sara Funaro è la sindaca più amata in Italia: «Bene ma restiamo pancia a terra a lavorare per Firenze» Corriere Fiorentino Chiara Frontini la sindaca più amata nel Lazio, settima a livello nazionale ANSA Gradimento sindaci e pre",
+          "pubDate": "Mon, 06 Jul 2026 10:51:19 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Turismo, l’Italia regina d’Europa anche d’estate: quali sono le località più visitate. Meloni: \"Premiata bellezza della nazione e qualità dell'offerta\" - il Giornale",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNHgtWU1UdVdUNVpZOW9tNi1ZMHg1T0JMTEs0Q3NGeE9XYm9mT0tKenVxMDdBZHZRRENtdXNNR2doZ2hmRHBweGx4ZzFGNnp3SXNkQU1ZRHFGREJJb2lzYy1PZnpKNzRTTm5mWjJzYjhlalIxWjJRbEdyT3NzQnByV1lyYWVxT09Ga3BoMjZKUTFwT0xwcWcwQVZxeGd2Y3F1cHhXTERKNXB0RTNmejlsTmR3?oc=5",
+          "description": "Turismo, l’Italia regina d’Europa anche d’estate: quali sono le località più visitate. Meloni: \"Premiata bellezza della nazione e qualità dell'offerta\" il Giornale Quest’estate tutti vogliono andare qui: l’Italia guida le prenotazioni in Europa SiViaggia Notizie dalla Giunta regione.fvg.it Turismo, italiani in crescita (+1,5%) e più arrivi dall’Europa Il Sole 24 ORE Meloni, 'Italia al top del turi",
+          "pubDate": "Sun, 05 Jul 2026 14:13:57 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Crosetto: “Impegni presi, quello di Ankara sarà un summit breve”. Ma Trump vuole contratti - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWklJVVBheHZ0ZTZtRGVKWjdaMGV1aWRhOW1NRjVrWUxGUXFSWTNlRy05RUJZUm5Zc0dwUWJwTXdLcVY1U3BHZjRoZGg2OWJwUmQ4ekhWeHhhdVNJdThnTlc4OGIwa2k3V0J3TWdPallFd21FWGpIZzJwSVpNTG9sam9HTVpjUGhXSDdXeFkxYWlEZTNTdGN4SGg2N2k2Y2ppUmJtdWpjcGZBakpDMk51ejNMYkEtczkwcDRhTHZFNkkxblZHOS1XY0paTzJyaGVMOWw1UmhDM0k?oc=5",
+          "description": "Crosetto: “Impegni presi, quello di Ankara sarà un summit breve”. Ma Trump vuole contratti Il Fatto Quotidiano Vertice Nato, gli Stati e la rincorsa al 5% davanti all'alleato Usa. L'attenzione «speciale» sui progressi italiani Corriere Roma Rutte, 'gli Usa non stanno spaccando la Nato, è giusto riequilibrare' ANSA Tutte le divisioni nel pilastro europeo: chi sostiene la Casa Bianca e chi no La Sta",
+          "pubDate": "Sun, 05 Jul 2026 22:01:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Terremoto, partita dall'Italia per il Venezuela una nuova delegazione di medici",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/07/terremoto-partita-dallitalia-per-il-venezuela-una-nuova-delegazione-di-medici_7c9211b8-6f26-433b-a6c9-790d4b4d2de0.html",
+          "description": "Sette camici bianchi in missione sotto la guida della Protezione Civile",
+          "pubDate": "Tue, 7 Jul 2026 03:22:17 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Chiusura mista per le Borse europee. Milano in verde con balzo Fincantieri - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYWVkMVdUNlNwMzlZMjc4T1Q1LUNGY19QNG9OdWhHUDZybkM5d29tZE5fVVpjTVNCUTVwNGxySEVTcXhlMzVfNlp0MWpUVXNtZThFeHJKV0tLWHJHU1N2VmlEb1JOSmpPV0xxZWVjaWZmRjhWWU1xNlVMZDFXVFlzOVJWS1pvU25Nay1QSHR4TjhVdXlGYWJ3YkZjQmFUdzREeWNhOW1QcG5VTVBZMWQ0Q2FYTVlxd1NGSm5veVEtSG9lZFk5SUU3OXpUOHU3dGwzVkE1QloxeUpCT1BzdEUtM3MyZndNcWFmRTBOcDNUOFFrUQ?oc=5",
+          "description": "Chiusura mista per le Borse europee. Milano in verde con balzo Fincantieri Borsa Italiana Fincantieri punta 600 milioni sul settore strategico della difesa sottomarina Il Fatto Quotidiano Nuovo polo subacqueo di Fincantieri: la bergamasca Remazel protagonista della sfida dei droni marini L'Eco di Bergamo Borse in diretta, petrolio oggi 6 luglio | Europa in cauto rialzo, Asia debole con i titoli te",
+          "pubDate": "Mon, 06 Jul 2026 16:02:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "meloni",
+      "n_items": 5,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "score": 26,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump e Meloni, lo psichiatra: «Questo post mette in ridicolo il presidente Usa. Il silenzio di Meloni è una forma di superiorità» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNd0ZOaFJDek1GWnZiZFNaN2ZMN2hJTGVQSldZdXcxQ3BGX0hneGRvY19BcldVcGFpQWh0eEpEUjhUcGNaaXlfZ3R0Q0o1WlNGNV9vMjNYOWtYaFgzX0tDb0dxVHAzbzdJd0xQY1hxYWNaTXBPR1gtalNUZmItTkhha19hWm0xN0JFcDhvbW80UEpIZXNtN3pnUEkzNE1ma3JYU1pDUE9CVUF5Z3lVZnVMM2NSVEItLW93ZlRSTUxCUEVna2k4VkVyc1J2OXJqbmlIdTVIeDJybnVVckk1X0tSVnREbEEwZ3MxSEQydUJjYVRGVmRwYnJQdXAwbENVUDNiWVUzN1B6Wk5PMUk30gGSAkFVX3lxTE1lR214dUxsUm5VR3NnLS10Mjl2RXlmVUE3Vzl2V3BfWjVseFE3N0QtVjdoUWJpTUlxQXlCSEt4aFlwQzFiZDRNWG4ybUZjdlJpNWEtVUJDMFJhMlRHQjhzZ3NfTXJZZXIySnVEN3RtcGFnMGxySjBSck9qZllzWnNRVnRTTkJmTHlaOFVaeTFRbFBwR3p5VE9sb3lmdUdEWGZET2VpeGZaRjJ6OFBOOHZwbkVQd0s2dFprS3ZNbERlSzVHT21PNWRTRWpMRklXWkJXN0dycVJocVpKaWxKSWFoZGlESVVVcnFFMFFUbVdLSC16c0Y2bXdVanBJRFpab2JMd2I3OEFEOWZZOXJKcGJtTnc?oc=5",
+          "description": "Trump e Meloni, lo psichiatra: «Questo post mette in ridicolo il presidente Usa. Il silenzio di Meloni è una forma di superiorità» Corriere della Sera Un ruolo sulla Libia, così la Casa Bianca prova a ricucire con Roma dopo il nuovo attacco di Trump la Repubblica Trump ha di nuovo preso di mira Meloni Il Post Tajani: “Non risponderemo più a Trump. I fondi Safe? C’è tempo fino a fine anno” La Stamp",
+          "pubDate": "Mon, 06 Jul 2026 17:25:56 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Turismo, l’Italia regina d’Europa anche d’estate: quali sono le località più visitate. Meloni: \"Premiata bellezza della nazione e qualità dell'offerta\" - il Giornale",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNHgtWU1UdVdUNVpZOW9tNi1ZMHg1T0JMTEs0Q3NGeE9XYm9mT0tKenVxMDdBZHZRRENtdXNNR2doZ2hmRHBweGx4ZzFGNnp3SXNkQU1ZRHFGREJJb2lzYy1PZnpKNzRTTm5mWjJzYjhlalIxWjJRbEdyT3NzQnByV1lyYWVxT09Ga3BoMjZKUTFwT0xwcWcwQVZxeGd2Y3F1cHhXTERKNXB0RTNmejlsTmR3?oc=5",
+          "description": "Turismo, l’Italia regina d’Europa anche d’estate: quali sono le località più visitate. Meloni: \"Premiata bellezza della nazione e qualità dell'offerta\" il Giornale Quest’estate tutti vogliono andare qui: l’Italia guida le prenotazioni in Europa SiViaggia Notizie dalla Giunta regione.fvg.it Turismo, italiani in crescita (+1,5%) e più arrivi dall’Europa Il Sole 24 ORE Meloni, 'Italia al top del turi",
+          "pubDate": "Sun, 05 Jul 2026 14:13:57 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Il retroscena sulla crepa tra Europa e Usa e la frase di Meloni ai leader Nato: \"Trump non è ragionevole\" - il Giornale",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNnlRQVBUdjhwd1BxaFFUbEV4elcxekd2T3FWa0g4RHR4TUlsWjRaOHA4cUxpMEp6d1pOV2RoVVZQQ21qNC0xa1FJZUswRHlMMWdnWlM2TFR3dm8wVHAxS21FcExvMHJUcnYyTjlrRDlZbUd6Q29aLWtEblJOdHoyM1ZMNjZ0SWY1VkRTUk1MNDZfdjV4dHY0cFF1eXluYUR5ZUVBRGhNNW5SdVB1Qmk0LXFIVVFIVUR4VlE?oc=5",
+          "description": "Il retroscena sulla crepa tra Europa e Usa e la frase di Meloni ai leader Nato: \"Trump non è ragionevole\" il Giornale Wsj: ecco come l’Europa lavora alla “de-americanizzazione” Askanews GLI USA DI TRUMP GUARDANO ALLA POLITICA DELL’IMPERO BRITANNICO L'Opinione delle Libertà",
+          "pubDate": "Mon, 06 Jul 2026 15:55:41 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Il silenzio di Meloni, non rispondere alle provocazioni di Trump",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/06/trump-attacca-meloni-serve-ordine-restrittivo.-tajani-parole-che-si-commentano_5c7d2e10-a87e-4318-a0cb-3fec90a74812.html",
+          "description": "Salvini:' Non commento più queste cose'. Crosetto: 'Le persone passano ma con gli Usa i rapporti devono restare'. Tajani: 'Parole che si commentano da sole'. Calenda: 'Bullo da quattro soldi'",
+          "pubDate": "Mon, 6 Jul 2026 21:22:25 +0200"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Rai, arrivano i canali Italiana e V/BE. L’ad Rossi: «Telemeloni? Solo marketing»",
+          "link": "https://www.ilsole24ore.com/art/rai-arrivano-canali-italiana-e-vbe-l-ad-rossi-telemeloni-solo-marketing-AIyc8J0D",
+          "description": "Due nuovi canali, una nuova strategia per intercettare il pubblico che si allontana dalla televisione tradizionale e una difesa senza arretramenti della gestione Rai. E tutto questo mentre infuria lo...",
+          "pubDate": "Fri, 3 Jul 2026 15:56:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "stop",
+      "n_items": 5,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 26,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "bbc-business",
+          "title": "Three things you can do to stop EU border checks at the airport costing you",
+          "link": "https://www.bbc.co.uk/news/articles/cg4w39gvdw1o?at_medium=RSS&at_campaign=rss",
+          "description": "Queues are expected at airports this summer owing to EU's new digital border control system.",
+          "pubDate": "Sun, 05 Jul 2026 23:18:27 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "The Ferrari 12Cilindri Manuale's Stick-Shift Might Not Be 'Real' But You've Gotta Stop Freaking Out About It - Jalopnik",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNHFHNVJWUVhDYUdsZDRLendwNVlHUVJkSzc5NXZpUXM2Y3BXQ2hRTHpuNDA0WGJ4UFBzWG1naHQ0LW1qdlpMWjRYclV6YU1BT3htTTRyN2dqaGg5YVI0aWlXYjVzVzdZN2RwY2loMmdWTmkwMmRIRUI0dlhZcVp2VWVVOHdUMGFFV2h1TEh1MUIxWDBJ?oc=5",
+          "description": "The Ferrari 12Cilindri Manuale's Stick-Shift Might Not Be 'Real' But You've Gotta Stop Freaking Out About It Jalopnik See Photos of the 12Cilindri Manuale, the First New Ferrari with a Gated Shifter Since 2012 Car and Driver Ferrari's New 'Manual' Isn't What You Think. Here's How It Works Motor1.com Ferrari appeals to traditionalists with new V12 manual gearbox limited edition Reuters This Ferrari",
+          "pubDate": "Mon, 06 Jul 2026 15:21:58 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Caldo estremo tra USA e Francia: annullata la parata del 4 luglio, Tour de France a rischio stop di alcune tappe - 3BMeteo",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcDQ4MU90NFdON0hJSjA3aEJGdW1CclAtLUxkTDB4SUE1MUNjNU9Yak9Vd0xhRWx0dWhpVV8xZlV5MGQzZzZ1VFlTZFRPR0JsVUlXOWE5d1JVdmdCeUZyU0E5SFJtSlZHdUk4LUFPSUx2MTdkY2txak1KRklzOGtJeUw1ZTVoejM5MTVTMzYzU1F2Q0M4VEVacXlBUndYbk9oT2s4T2MzY19fRU1hS2tJUVNvX1ZmQjI4SDlfZXlHeXRLQzIxNm9OaFFKdHZGaGRCODFDakdSZnA?oc=5",
+          "description": "Caldo estremo tra USA e Francia: annullata la parata del 4 luglio, Tour de France a rischio stop di alcune tappe 3BMeteo",
+          "pubDate": "Sun, 05 Jul 2026 07:36:44 GMT"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Lavori Ponte al Pino, primo giorno di stop ai treni: “Disagi ma situazione sotto controllo” - La Nazione",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vUllqblNhQUUwc3FmXzBJNXJKWkdpMlFFZUNqTFR0aTBWOHY3QlE5RkJNNXJCODQ1NFRVeklGREliS29GOWtmNTN6eEhIdEtTM2l4c3BObzZKand3OThFQ3RTcjc4X2h4Z2paeGFkc0tVX2N4QUE?oc=5",
+          "description": "Lavori Ponte al Pino, primo giorno di stop ai treni: “Disagi ma situazione sotto controllo” La Nazione Caos treni, lo scandalo del caro voli: fino a 800 euro per un aereo Torino-Roma La Stampa Ferrovie: lavori al ponte di Firenze, 'Volume dei treni ridotto del 50% ANSA Ponte al Pino, appello ai toscani: “E’ un’emergenza nazionale, verificate gli orari” Toscana Notizie Firenze alla prova del primo ",
+          "pubDate": "Mon, 06 Jul 2026 08:05:00 GMT"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Etna, stop ai voli da e per Catania prolungato fino alle 10 di martedì. Chiuso lo spazio aereo sulle basi di Sigonella. La Regione: «Transfer e treni speciali» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNc05Bb04yY0Zma3MzaFVESjZRVVNCTF9Uc3pOUnhZR3pPb1ZRV1ZYdGU2d21RREV6WkxyYWphX1IyN29EcGFKQnZFeFE0amJZU1QyNHJDR0wweGgtSXhkak5pZlhFYUhaVUczSlhtYnNNMWtTRVU4dXR4YzdFbDVIN0kta2JYY0pBdEJTSm9iYXpsN25lQzVFbWRZRC0xSV9JVmhiTWZBT2Q2SHpPZzU3UFJoMVJfYkZ4WlYybTNCR0pBWjhQY09WYm9lYVQ1dGZfQU5JdW4wNXJhV1pwNXB5eV9UNEVuMXZuYlF6eEN5UG5zWHMwUERwUWtVQThnTDFYZUwxdi1lN003aGtrUXViU0RzZEFNVmY0OVpXbU5qZmpDSVdZaFRha2szUUVURXp2bGfSAbcCQVVfeXFMTnhtZzBPRktqVlVhYzJuZ0RPN2d0dVlMNFlNb3d6b2JRLURfYUwzdnVkeWdBNHZheUctdHU5MlJsRmFWM0hwLW1PRzVvWEs2SHFVVmZWbnlwcW4xWEJURWRiRkh5ZEZqdkNMN2NGcDJPdjRNUUs4SnBPYmpqakM0SHpBZXR6Zk5oVFdaemdHakFJRVAxdDM1OUszYkpJcXZxQnNscVZXWkhaWVJrdE8zVjdXUXN4YUpOOFdkM1oxdHE1Z1N2NlJoeDF4ZU1PT2wxVElQZW16V2RFVVJBdV9vd0FUcmN1TW1md0p0aEx0SlNUdlNwcEU5UHJZdklDZWJLZ0xIMWtqZjV6Y2xVSmJybU5KN2w2UzNkM1ZzcHBrbTdveFNSMk4wOC1JVXp6cUV5ajhZelNlMkE?oc=5",
+          "description": "Etna, stop ai voli da e per Catania prolungato fino alle 10 di martedì. Chiuso lo spazio aereo sulle basi di Sigonella. La Regione: «Transfer e treni speciali» Corriere della Sera Eruzione Etna – Aggiornamenti lunedì 6 luglio Aeroporto Internazionale di Catania Etna, transfer e treni speciali da Comiso, Trapani e Palermo per Catania | Regione Siciliana Si intensifica l'attività stromboliana dell'E",
+          "pubDate": "Mon, 06 Jul 2026 16:59:35 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "lavori",
+      "n_items": 5,
+      "n_sources": 5,
+      "category": "general",
+      "score": 25,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "I disagi per i lavori sulla linea ferroviaria a Firenze - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90WnhrU2l2cWFUdC1KWWM2b2VsTll6aF82dWdDbERmS1Y2cHpZaUtUYm1XRXpNYWZMaTdpbFBYeGFJc3VDcE12OUJUTmZMbzJBaEJybVpxOWJkbHM2RzNHMnlNeEZLTWRtZGF3cnlmMnV4NExGRTB1eDk3UQ?oc=5",
+          "description": "I disagi per i lavori sulla linea ferroviaria a Firenze Il Post Caos treni, lo scandalo del caro voli: fino a 800 euro per un aereo Torino-Roma La Stampa Ferrovie: lavori al ponte di Firenze, 'Volume dei treni ridotto del 50% ANSA Ponte al Pino, appello ai toscani: “E’ un’emergenza nazionale, verificate gli orari” Toscana Notizie Firenze alla prova del primo giorno di interruzione dei treni a Camp",
+          "pubDate": "Mon, 06 Jul 2026 13:40:27 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "L'Odissea dei treni, ritardi e guasti da Milano a Firenze",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/06/guasto-alla-stazione-di-milano-centrale-treni-in-ritardo-fino-a-1-ora_86894a3b-e9a6-432c-9fa6-3c04cabe0f91.html",
+          "description": "Lavori e danni a linea alternativa, -50% convogli. Salvini: 'disagi per linea più moderna'",
+          "pubDate": "Mon, 6 Jul 2026 20:12:30 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Anas, al via i lavori di costruzione della Pedemontana piemontese",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/06/anas-al-via-i-lavori-di-costruzione-della-pedemontana-piemontese_bfeb161c-7c6a-4f1e-adc5-fe5b2bbb702b.html",
+          "description": "Cirio e Bussalino: \"Momento storico per il nostro territorio\"",
+          "pubDate": "Mon, 6 Jul 2026 13:55:33 +0200"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Ferrovie, lavori sullo snodo di Firenze ma situazione sotto controllo. Guasto a Milano Centrale: ritardi e cancellazioni",
+          "link": "https://www.ilsole24ore.com/art/firenze-5-10-luglio-e-26-30-luglio-due-finestre-interruzione-circolazione-ferroviaria-AIw1CM0D",
+          "description": "Entrano nel vivo i lavori per la sostituzione del cavalcaferrovia stradale Ponte al Pino. Numerosi convogli deviati lungo la linea Tirrenica",
+          "pubDate": "Fri, 3 Jul 2026 17:38:00 GMT"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Lavori Ponte al Pino, primo giorno di stop ai treni: “Disagi ma situazione sotto controllo” - La Nazione",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vUllqblNhQUUwc3FmXzBJNXJKWkdpMlFFZUNqTFR0aTBWOHY3QlE5RkJNNXJCODQ1NFRVeklGREliS29GOWtmNTN6eEhIdEtTM2l4c3BObzZKand3OThFQ3RTcjc4X2h4Z2paeGFkc0tVX2N4QUE?oc=5",
+          "description": "Lavori Ponte al Pino, primo giorno di stop ai treni: “Disagi ma situazione sotto controllo” La Nazione Caos treni, lo scandalo del caro voli: fino a 800 euro per un aereo Torino-Roma La Stampa Ferrovie: lavori al ponte di Firenze, 'Volume dei treni ridotto del 50% ANSA Ponte al Pino, appello ai toscani: “E’ un’emergenza nazionale, verificate gli orari” Toscana Notizie Firenze alla prova del primo ",
+          "pubDate": "Mon, 06 Jul 2026 08:05:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "borsa",
+      "n_items": 7,
+      "n_sources": 2,
+      "category": "economia",
+      "score": 20,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Chiusura mista per le Borse europee. Milano in verde con balzo Fincantieri - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYWVkMVdUNlNwMzlZMjc4T1Q1LUNGY19QNG9OdWhHUDZybkM5d29tZE5fVVpjTVNCUTVwNGxySEVTcXhlMzVfNlp0MWpUVXNtZThFeHJKV0tLWHJHU1N2VmlEb1JOSmpPV0xxZWVjaWZmRjhWWU1xNlVMZDFXVFlzOVJWS1pvU25Nay1QSHR4TjhVdXlGYWJ3YkZjQmFUdzREeWNhOW1QcG5VTVBZMWQ0Q2FYTVlxd1NGSm5veVEtSG9lZFk5SUU3OXpUOHU3dGwzVkE1QloxeUpCT1BzdEUtM3MyZndNcWFmRTBOcDNUOFFrUQ?oc=5",
+          "description": "Chiusura mista per le Borse europee. Milano in verde con balzo Fincantieri Borsa Italiana Fincantieri punta 600 milioni sul settore strategico della difesa sottomarina Il Fatto Quotidiano Nuovo polo subacqueo di Fincantieri: la bergamasca Remazel protagonista della sfida dei droni marini L'Eco di Bergamo Borse in diretta, petrolio oggi 6 luglio | Europa in cauto rialzo, Asia debole con i titoli te",
+          "pubDate": "Mon, 06 Jul 2026 16:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "In che senso adesso c’è troppo petrolio?!? - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50aXIxUzMxSmlaT29MQkRtQXk5dGxTaXUtbUhMVTh2V1ZGUWpCNGhZczlUSEYxdF83TUg1Y3ZiUWhWRFJBakZ5d3l6UDBpOGJzWm1ZVTBDZFNqenJ3clhHV3gybFZoaVU?oc=5",
+          "description": "In che senso adesso c’è troppo petrolio?!? Il Post Il petrolio in calo a New York a 68,33 dollari ANSA Analisi Tecnica: Light Sweet Crude Oil del 3/07/2026 Teleborsa Petrolio in avvio cauto: Wti a 68,85 dollari, Brent stabile SoldiOnline.it Il petrolio scende mentre crescono le speranze di progressi nei colloqui tra Stati Uniti e Iran Yahoo Finanza",
+          "pubDate": "Mon, 06 Jul 2026 15:04:03 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Rapporto del Mes, 'eurozona sotto pressione, sfide senza precedenti' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZmxkd01jWjRZMmM1bkI0ZmgzQkdDTVdDaC1RS20yeXJJNXV1TUJPT0VPckpodUtfdGlmQmVOUzBJeVROSFVjS1lzZldiTm9iNmp5TzZBb0JRdkI4d3lTMVhvTWZFOVJVMTEtdHRxVjNOcnBwTjRscWhkVnJXaGxLWGtCaGJheVlKZjhUX195SEtNeE51S2RETFlVb0k1ZlJsVjVxRGh0RlVDNTU4TkZZbmhVX2hPU29FckNTWmtVNHNCRUM2a2RIR0hGNFNQRld4TXB0SGk3SDk4T3F4MEtpOVF2RTVPZkJPZ0ZOd1FCTQ?oc=5",
+          "description": "Rapporto del Mes, 'eurozona sotto pressione, sfide senza precedenti' ANSA \"Eurozona sotto pressione, sfide senza precedenti\": il rapporto del MES Borsa Italiana Il Mes sprona la Ue sulla difesa: più investimenti e acquisti intraeuropei Il Sole 24 ORE Rapporto Mes: \"Eurozona sotto pressione, sfide senza precedenti\" Sky TG24 Fondi esteri, grande caccia al debito sovrano europeo Il Messaggero",
+          "pubDate": "Mon, 06 Jul 2026 10:45:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse europee piatte, petrolio e gas in calo: brilla Fincantieri (+10,8%) - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd3BORHlYWjJZRzlLU05TTEpEZkdpNnlhbkNrX1JVelROZXdWRHVZV0pJdWstbXJ4dlhXaHF0T0NrQmlCWGVYbl84MnlUcHhUYkVvWGJPQzVtWWlsTDNKMXVPOFN2Z1E2cDZOd1lFc24xVUZ2Mmd4NWY3QUtralZncnZQWC1qTEZTQnNOanBnUy1vVWFZTDdXX21RT256SmNrRlR0T3ZrSXNZMFNpV2RGakowWGI2dHM?oc=5",
+          "description": "Borse europee piatte, petrolio e gas in calo: brilla Fincantieri (+10,8%) SoldiOnline.it Mercati cauti. Tonica Piazza Affari Borsa Italiana Borsa: l'Europa avanti fiacca con i tecnologici e il petrolio ANSA Ftse Mib debole, investitori guardano a G7 Milano Finanza Borse deboli in Europa, corre il Nasdaq RaiNews",
+          "pubDate": "Mon, 06 Jul 2026 13:51:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: l'Europa chiude incerta, Parigi -0,33%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/06/borsa-leuropa-chiude-incerta-parigi-033_327627ee-f63a-4ed9-bf93-a6b343061f99.html",
+          "description": "Londra -0,26%, Francoforte +0,15%",
+          "pubDate": "Mon, 6 Jul 2026 17:52:53 +0200"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "xbox",
+      "n_items": 5,
+      "n_sources": 4,
+      "category": "general",
+      "score": 20,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Former Xbox studios Double Fine and Compulsion will keep games after going indie - The Verge",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbUNaeHNpMjBTaHZULUFHemI3SVZfX24yYnhiVkFtRjlTMzRNSk9IcC16VVdtQmFVRVBHMHBpU08yZzZUNjhZZm1GZkNiU2FzbUFnVDNQN2ctaHVmd01pUjFhbERqUTlIZnVRWlpVRk9XVEIyUmZxNXdaMjlzb2tSc25EUnN4Zw?oc=5",
+          "description": "Former Xbox studios Double Fine and Compulsion will keep games after going indie The Verge Resetting XBOX XBOX Wire Microsoft cuts 4,800 jobs, as Xbox unit downsizes and plans to spin off four gaming studios CNBC Microsoft’s Xbox to Cut 3,200 Jobs, Divest Five Studios in Major Overhaul Bloomberg.com Microsoft Lays Off Thousands of Xbox Employees, Closes Game Studios The New York Times",
+          "pubDate": "Mon, 06 Jul 2026 16:22:34 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Microsoft taglia 4.800 posti, pesa la riorganizzazione di Xbox",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/06/microsoft-taglia-4.800-posti-pesa-la-riorganizzazione-di-xbox_409d8888-797f-4a7a-96a7-52ac7da412b8.html",
+          "description": "Riduzione pari al 2,1% della forza lavoro",
+          "pubDate": "Mon, 6 Jul 2026 16:15:17 +0200"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
+          "link": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss",
+          "description": "The sweeping layoffs equate to 2.1% of Microsoft's workforce, with 1,600 immediate job losses at Xbox.",
+          "pubDate": "Mon, 06 Jul 2026 15:18:53 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Microsoft vende due team di Xbox e altri diventano indipendenti: licenziate 4.800 persone - Multiplayer",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd0dHZlZDRm83aHdld1E3RDhlM1BwOGFseENoNHpWRDFhSmdGQ3RUSXBPVFR3WU1HSXUtNl9Ra0tZMjEtZkdrYWJmYnBlMlRJd1l4cV9pekV0dEtBaGEwSDAtSm9RNFA1X194NUpnZWpabHJEXzhDOHU3NHlnX0RBUXZzUFlBQXZwNVI1NVp3Vnk2bG9ES0ZXTnZuQk9tUnB4R19qdG5VR1h1OHgyRjhTUTV6SzVVd2IzQmZsOTVJOTA?oc=5",
+          "description": "Microsoft vende due team di Xbox e altri diventano indipendenti: licenziate 4.800 persone Multiplayer",
+          "pubDate": "Mon, 06 Jul 2026 13:56:01 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Xbox Game Pass sarebbe ancora fermo a circa 30 milioni di abbonati - Multiplayer",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT3hJUHJWNE84eEcwZERFaGgyQTByVGVYVUpvUXRtTlZUZmY2Y0Fub29oR3A5dTBXTVFLMlowSFdydnNTdm1PeEVRRUhnUHNCQ0RQeDAtNWZXSERtSVNTWFNqMFZxRW12UGdwZXMyblpMdnJXR3RtbHhTd0JnYllBYVNUS0xvbU54dTg4WV85aDlKYnhkQjFFemdyVjhFSldSd3MxdA?oc=5",
+          "description": "Xbox Game Pass sarebbe ancora fermo a circa 30 milioni di abbonati Multiplayer",
+          "pubDate": "Mon, 06 Jul 2026 17:15:51 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "petrolio",
+      "n_items": 5,
+      "n_sources": 2,
+      "category": "economia",
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Chiusura mista per le Borse europee. Milano in verde con balzo Fincantieri - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYWVkMVdUNlNwMzlZMjc4T1Q1LUNGY19QNG9OdWhHUDZybkM5d29tZE5fVVpjTVNCUTVwNGxySEVTcXhlMzVfNlp0MWpUVXNtZThFeHJKV0tLWHJHU1N2VmlEb1JOSmpPV0xxZWVjaWZmRjhWWU1xNlVMZDFXVFlzOVJWS1pvU25Nay1QSHR4TjhVdXlGYWJ3YkZjQmFUdzREeWNhOW1QcG5VTVBZMWQ0Q2FYTVlxd1NGSm5veVEtSG9lZFk5SUU3OXpUOHU3dGwzVkE1QloxeUpCT1BzdEUtM3MyZndNcWFmRTBOcDNUOFFrUQ?oc=5",
+          "description": "Chiusura mista per le Borse europee. Milano in verde con balzo Fincantieri Borsa Italiana Fincantieri punta 600 milioni sul settore strategico della difesa sottomarina Il Fatto Quotidiano Nuovo polo subacqueo di Fincantieri: la bergamasca Remazel protagonista della sfida dei droni marini L'Eco di Bergamo Borse in diretta, petrolio oggi 6 luglio | Europa in cauto rialzo, Asia debole con i titoli te",
+          "pubDate": "Mon, 06 Jul 2026 16:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "In che senso adesso c’è troppo petrolio?!? - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50aXIxUzMxSmlaT29MQkRtQXk5dGxTaXUtbUhMVTh2V1ZGUWpCNGhZczlUSEYxdF83TUg1Y3ZiUWhWRFJBakZ5d3l6UDBpOGJzWm1ZVTBDZFNqenJ3clhHV3gybFZoaVU?oc=5",
+          "description": "In che senso adesso c’è troppo petrolio?!? Il Post Il petrolio in calo a New York a 68,33 dollari ANSA Analisi Tecnica: Light Sweet Crude Oil del 3/07/2026 Teleborsa Petrolio in avvio cauto: Wti a 68,85 dollari, Brent stabile SoldiOnline.it Il petrolio scende mentre crescono le speranze di progressi nei colloqui tra Stati Uniti e Iran Yahoo Finanza",
+          "pubDate": "Mon, 06 Jul 2026 15:04:03 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse europee piatte, petrolio e gas in calo: brilla Fincantieri (+10,8%) - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd3BORHlYWjJZRzlLU05TTEpEZkdpNnlhbkNrX1JVelROZXdWRHVZV0pJdWstbXJ4dlhXaHF0T0NrQmlCWGVYbl84MnlUcHhUYkVvWGJPQzVtWWlsTDNKMXVPOFN2Z1E2cDZOd1lFc24xVUZ2Mmd4NWY3QUtralZncnZQWC1qTEZTQnNOanBnUy1vVWFZTDdXX21RT256SmNrRlR0T3ZrSXNZMFNpV2RGakowWGI2dHM?oc=5",
+          "description": "Borse europee piatte, petrolio e gas in calo: brilla Fincantieri (+10,8%) SoldiOnline.it Mercati cauti. Tonica Piazza Affari Borsa Italiana Borsa: l'Europa avanti fiacca con i tecnologici e il petrolio ANSA Ftse Mib debole, investitori guardano a G7 Milano Finanza Borse deboli in Europa, corre il Nasdaq RaiNews",
+          "pubDate": "Mon, 06 Jul 2026 13:51:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: l'Europa avanti fiacca con i tecnologici e il petrolio",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/06/borsa-leuropa-avanti-fiacca-con-i-tecnologici-e-il-petrolio_1f3ccf85-5dfc-4298-a9e0-ecaa795cd8bf.html",
+          "description": "Lo spread è piatto a 77 punti. L'euro è in calo sul dollaro",
+          "pubDate": "Mon, 6 Jul 2026 15:44:47 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Il petrolio in calo a New York a 68,33 dollari",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/06/il-petrolio-in-calo-a-new-york-a-6833-dollari_c90fa6cd-0780-402e-ab53-477d3fa466c8.html",
+          "description": "Quotazioni perdono lo 0,52%",
+          "pubDate": "Mon, 6 Jul 2026 15:12:36 +0200"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "caldo",
+      "n_items": 5,
+      "n_sources": 4,
+      "category": "clima",
+      "score": 2.6,
+      "cooldown": true,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Meteo, nuova ondata di caldo e temperature fino a 38°. Le previsioni - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJQU9tX1VDRk5NOXJSN2JCYTJqN2R2ZGR5RXJ2a09hR2RsaFBKT0ZIcjRtNHNtZi1IMTlsV3JaLXptVUZqZWdnWWhkNFB2QXVmaUtfWElhbjNoQUE1aGFzcHpHb3kxbEw2eE04ejJMczZGczA1ZlpN?oc=5",
+          "description": "Meteo, nuova ondata di caldo e temperature fino a 38°. Le previsioni Sky TG24 Ancora sole e caldo: mercoledì tra le 9 città con bollino arancione anche Venezia e Verona RaiNews Finita la tregua, torna il caldo. E si riaffaccia il rischio siccità L'Arena Quando arriva il caldo rovente (di nuovo): picchi oltre i 38 gradi. “Vi spiego le differenze di questa ondata” Quotidiano Nazionale Settimana di s",
+          "pubDate": "Mon, 06 Jul 2026 09:13:56 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "I sindacati: «il Comune di Milano tuteli i lavoratori contro il caldo»",
+          "link": "https://www.ilsole24ore.com/art/i-sindacati-il-comune-milano-tuteli-lavoratori-contro-caldo-AIBHJL0D",
+          "description": "In attesa di un provvedimento che si è arenato a Palazzo Marino, Cgil Cisl e Uil chiedono di proteggere le categorie più esposte",
+          "pubDate": "Fri, 3 Jul 2026 15:51:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Caldo record, dagli otto bicchieri d'acqua al giorno alla congestione: i cinque \"falsi miti\" sull'idratazione - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNGxGOE96VDE0RmZPWWJHMzdGTXladVJLencwTmxoT092RUNJbTRhWmFZZTVoX1JwY0tyX0txYUE2RktnTU5acm5pN1d5elE3azFYWmF6THFac2NsaWZoUi1sUlVrelJzSEZjNEp1RUhmZnpvWEN6M3A1TjZfUExGYkFDSzdJMF9NV1hnWUlMYTBTYjhxV3BoNy12WG54LUhHZ3JQdkVpRFphNHFXUllnQ250Sm81Z9IBaEFVX3lxTFA3NTJaMXVqeXVLTjNEd19qU01CdTNkaVVzUmI2emdCdDFZZzdYSEVJQUpncGtwMWJjdFlyczU5TXhudzViTmVjd0tUTzNLc29sTFYxOXZUTVBENWJlaElxSkZ3REJnMkJD?oc=5",
+          "description": "Caldo record, dagli otto bicchieri d'acqua al giorno alla congestione: i cinque \"falsi miti\" sull'idratazione Tgcom24",
+          "pubDate": "Sun, 05 Jul 2026 04:35:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Caldo estremo tra USA e Francia: annullata la parata del 4 luglio, Tour de France a rischio stop di alcune tappe - 3BMeteo",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcDQ4MU90NFdON0hJSjA3aEJGdW1CclAtLUxkTDB4SUE1MUNjNU9Yak9Vd0xhRWx0dWhpVV8xZlV5MGQzZzZ1VFlTZFRPR0JsVUlXOWE5d1JVdmdCeUZyU0E5SFJtSlZHdUk4LUFPSUx2MTdkY2txak1KRklzOGtJeUw1ZTVoejM5MTVTMzYzU1F2Q0M4VEVacXlBUndYbk9oT2s4T2MzY19fRU1hS2tJUVNvX1ZmQjI4SDlfZXlHeXRLQzIxNm9OaFFKdHZGaGRCODFDakdSZnA?oc=5",
+          "description": "Caldo estremo tra USA e Francia: annullata la parata del 4 luglio, Tour de France a rischio stop di alcune tappe 3BMeteo",
+          "pubDate": "Sun, 05 Jul 2026 07:36:44 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Proteggendomi dal sole rischio carenze di vitamina D? Ecco quanto e come esporsi - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT091by05NndYRlFfcTdNWVZ6UjQtMmREVm5qdzRnWXdlLTRqUlZUMGExX25laXNFREY5TXdtTnNvbHkzdWNTOGYzYWIydXhqY1dHRXBsUDR0Z2dIWUFObjZqb0VwbUFyeTNDWDhSVTZnQzRmTWJ0T191cDVLcElPM2YxbS1DdzlENy10WXM2bXg0RnBDMmtrVm5BYldEX3NEajVHSlhLR1hBSXRKMkdleA?oc=5",
+          "description": "Proteggendomi dal sole rischio carenze di vitamina D? Ecco quanto e come esporsi Il Sole 24 ORE La crema solare tutti i giorni fa male? Ecco la verità Amica.it Nei e sole, le 10 regole dei dermatologi per proteggere la pelle Dica33 Molti ancora pensano che con l'SPF 50 non ci si abbronzi. In realtà non è così, una dermatologa fa chiarezza una volta e per tutte Vanity Fair Italia Caldo e raggi UV, ",
+          "pubDate": "Mon, 06 Jul 2026 22:30:32 GMT"
+        }
+      ],
+      "macro_area": "clima-salute"
+    }
+  ]
+}

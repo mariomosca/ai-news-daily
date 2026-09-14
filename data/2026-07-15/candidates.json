@@ -1,0 +1,918 @@
+{
+  "date": "2026-07-15",
+  "top_topics": [
+    {
+      "keyword": "iran",
+      "n_items": 20,
+      "n_sources": 8,
+      "category": "geopolitica",
+      "score": 166,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump: 'No pedaggio al 20% ma accordi commerciali con Stati del Golfo' - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WYlVkcHd2VGdCa2NSSGF0NmIzQlc2a1VtNm5sbV9wWE82VXdhZkN2NWlmcXRfWGRPUUd6aGVqWEF2U0I5RW13Q2dFUHZlNTdVZmJvR1dxREtLbmRXMXJuMVBpV2JZRkp4RDdpTkF4dk41V0xpYUlZZGtkMA?oc=5",
+          "description": "Trump: 'No pedaggio al 20% ma accordi commerciali con Stati del Golfo' Sky TG24 Iran: Hormuz resterà chiuso fino a che non cesseranno le aggressioni Usa ANSA Petrolio e gas continuano a correre dopo ripristino del blocco statunitense contro l'Iran Borsa Italiana I pasdaran bloccano Hormuz: missili su cargo e petroliere. E Trump batte in ritirata sui pedaggi la Repubblica Iran, Centcom: Avviati nuo",
+          "pubDate": "Tue, 14 Jul 2026 21:42:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Iran, colpiti depositi di armi e altre strutture militari Usa in Bahrein - Il Tirreno",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZGphWVdBOUhzbzJwRXZuQy0xZF9yY0pDRzFzcnFoa3pieWxONlJxbHJWVFlmbkVqVnVVazFmdGt6ZDdobF8tNVQ4N09RZXZFMlNZM1V0bHpNcmZmMWNDSG5pck9VZU9ES2E3ZXJJeUszc0pqWGxnNHZ6dWstc2dlRG5ESjU4NTcxQ1hsUlFrWDNJdVVYTS1lUkJ2cUlWWXdIc05fb0Yta1h3dVNSdF9pR085amNKVHFTY2FfVU1RdHJBQmVzYTM2Ni1oem43V0tTMVVZbHphOXlfRms?oc=5",
+          "description": "Iran, colpiti depositi di armi e altre strutture militari Usa in Bahrein Il Tirreno Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Tue, 14 Jul 2026 05:40:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Iran, Centcom: Avviati nuovi attacchi Usa e ripristinato il blocco navale - Trump sull'Iran: \"Attacchi continui, nel mirino centrali elettriche e ponti\" - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOUDEwMmg1a1ltQzYzcDcxMGVNei1CTFlWalVseUNKWVFpdkkwQ25iSll4aDZxdVY3WGwwSVlucDY0aXFISFlEanZEMW5GME5lcGF5LXdNYzJEbktWaS00ejlKc2tFN1FLQWVBNHYtakxtN1dVSWNJZVlOb0pNOGdDRU9jRGtRX3VfNlh6VXVvSDRKZl94U19oYUo2RU9pcGN1YzlZYVRTbTVuXzF5UURfZTZHMjJVT2lIUnM3Q2ZmMU85bnpwUENGZkJpRXJuOGc4Q2hMUHd4dVl3ejVnQ0FreUNnRjNwVmItcWdZQkhfX1lMUkdDWmplLWh6R1cxZzJpZ2o00gGIAkFVX3lxTFBFR20yeFRIR0VYNXQ0aG4yR1Z2ald2c3VkMU9tb3pWbEJvczEwdkh2YlhkbHFpUEl5eFlZbVg2V2tVWXFwUHdGeU1WNldhWW56OHljc3JRYXUyaTRHUzQzaDRsZWk4SVl3S3pzMHMzSi0zaTd4cEdVUkRsejZZaGxIVHZ3VXNtNkdsVnZHZjRDWnFPOHlISUxaOF9jU3hJdWlKdjBSd0kzeTFyQklJUzI2UU9vaFk4c1BGZjFleEFRVVZTbGh0V3pUQXpXMjBJOUlrbEdtS2RkSUpoMk13Skt0MG1EbFVRQTV5VERITXU0Mm1KSTlHRXRsaFRFVHdDcXVMcW02SDJFTQ?oc=5",
+          "description": "Iran, Centcom: Avviati nuovi attacchi Usa e ripristinato il blocco navale - Trump sull'Iran: \"Attacchi continui, nel mirino centrali elettriche e ponti\" RaiNews Trump: 'No pedaggio al 20% ma accordi commerciali con Stati del Golfo' Sky TG24 Iran: Hormuz resterà chiuso fino a che non cesseranno le aggressioni Usa ANSA Petrolio e gas continuano a correre dopo ripristino del blocco statunitense contr",
+          "pubDate": "Tue, 14 Jul 2026 23:36:56 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Live updates: US carries out more strikes on Iran and begins blockade of Iranian ports - CNN",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mclRqN1M1Z0RvTWloR0xWUE5tdlJLQnNuMjVQNnlZNVpSWWgyUmtkMDVodVBzU1RKTnVPbUt6MDJ2Q1B0QS0xeWR1U0RLRW9feEdpQU1CbUw4S3VmMy1PREVGbl9KaFhaa3RFQTFB?oc=5",
+          "description": "Live updates: US carries out more strikes on Iran and begins blockade of Iranian ports CNN See more headlines & perspectives on Google News",
+          "pubDate": "Wed, 15 Jul 2026 03:04:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XSndWRHNWTGJQU0VCZ28yTVRwNFdVeVZmNVVsMDdWUlJSaGg0dzZ4UGdsVTFSTFpvVW1zSGswWnNLZnNiaGNBSmNuUG82eERCQWpnTDNlbnplUQ?oc=5",
+          "description": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports BBC Trump Drops Plan to Charge Ships Fees in the Strait but Will Restore Blockade: Iran War Live Updates The New York Times US reimposes its blockade on Iran after Tehran’s attacks on ships in the Strait of Hormuz AP News Inside the 24-hour sprint to convince Trump to drop his plans to toll Strait of Hormuz CNN The",
+          "pubDate": "Tue, 14 Jul 2026 20:10:37 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "hormuz",
+      "n_items": 12,
+      "n_sources": 9,
+      "category": "geopolitica",
+      "score": 114,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump: 'No pedaggio al 20% ma accordi commerciali con Stati del Golfo' - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WYlVkcHd2VGdCa2NSSGF0NmIzQlc2a1VtNm5sbV9wWE82VXdhZkN2NWlmcXRfWGRPUUd6aGVqWEF2U0I5RW13Q2dFUHZlNTdVZmJvR1dxREtLbmRXMXJuMVBpV2JZRkp4RDdpTkF4dk41V0xpYUlZZGtkMA?oc=5",
+          "description": "Trump: 'No pedaggio al 20% ma accordi commerciali con Stati del Golfo' Sky TG24 Iran: Hormuz resterà chiuso fino a che non cesseranno le aggressioni Usa ANSA Petrolio e gas continuano a correre dopo ripristino del blocco statunitense contro l'Iran Borsa Italiana I pasdaran bloccano Hormuz: missili su cargo e petroliere. E Trump batte in ritirata sui pedaggi la Repubblica Iran, Centcom: Avviati nuo",
+          "pubDate": "Tue, 14 Jul 2026 21:42:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Iran, Centcom: Avviati nuovi attacchi Usa e ripristinato il blocco navale - Trump sull'Iran: \"Attacchi continui, nel mirino centrali elettriche e ponti\" - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOUDEwMmg1a1ltQzYzcDcxMGVNei1CTFlWalVseUNKWVFpdkkwQ25iSll4aDZxdVY3WGwwSVlucDY0aXFISFlEanZEMW5GME5lcGF5LXdNYzJEbktWaS00ejlKc2tFN1FLQWVBNHYtakxtN1dVSWNJZVlOb0pNOGdDRU9jRGtRX3VfNlh6VXVvSDRKZl94U19oYUo2RU9pcGN1YzlZYVRTbTVuXzF5UURfZTZHMjJVT2lIUnM3Q2ZmMU85bnpwUENGZkJpRXJuOGc4Q2hMUHd4dVl3ejVnQ0FreUNnRjNwVmItcWdZQkhfX1lMUkdDWmplLWh6R1cxZzJpZ2o00gGIAkFVX3lxTFBFR20yeFRIR0VYNXQ0aG4yR1Z2ald2c3VkMU9tb3pWbEJvczEwdkh2YlhkbHFpUEl5eFlZbVg2V2tVWXFwUHdGeU1WNldhWW56OHljc3JRYXUyaTRHUzQzaDRsZWk4SVl3S3pzMHMzSi0zaTd4cEdVUkRsejZZaGxIVHZ3VXNtNkdsVnZHZjRDWnFPOHlISUxaOF9jU3hJdWlKdjBSd0kzeTFyQklJUzI2UU9vaFk4c1BGZjFleEFRVVZTbGh0V3pUQXpXMjBJOUlrbEdtS2RkSUpoMk13Skt0MG1EbFVRQTV5VERITXU0Mm1KSTlHRXRsaFRFVHdDcXVMcW02SDJFTQ?oc=5",
+          "description": "Iran, Centcom: Avviati nuovi attacchi Usa e ripristinato il blocco navale - Trump sull'Iran: \"Attacchi continui, nel mirino centrali elettriche e ponti\" RaiNews Trump: 'No pedaggio al 20% ma accordi commerciali con Stati del Golfo' Sky TG24 Iran: Hormuz resterà chiuso fino a che non cesseranno le aggressioni Usa ANSA Petrolio e gas continuano a correre dopo ripristino del blocco statunitense contr",
+          "pubDate": "Tue, 14 Jul 2026 23:36:56 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XSndWRHNWTGJQU0VCZ28yTVRwNFdVeVZmNVVsMDdWUlJSaGg0dzZ4UGdsVTFSTFpvVW1zSGswWnNLZnNiaGNBSmNuUG82eERCQWpnTDNlbnplUQ?oc=5",
+          "description": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports BBC Trump Drops Plan to Charge Ships Fees in the Strait but Will Restore Blockade: Iran War Live Updates The New York Times US reimposes its blockade on Iran after Tehran’s attacks on ships in the Strait of Hormuz AP News Inside the 24-hour sprint to convince Trump to drop his plans to toll Strait of Hormuz CNN The",
+          "pubDate": "Tue, 14 Jul 2026 20:10:37 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Medio Oriente; dietrofront di Trump su Hormuz, 'niente pedaggio del 20%'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/15/medio-oriente-dietrofront-di-trump-su-hormuz-niente-pedaggio-del-20_4e0fe8e5-6a0e-4e18-9871-bcc7da3ed00b.html",
+          "description": "Al suo posto accordi commerciali col Golfo. Teheran colpisce 3 petroliere, ancora raid Usa",
+          "pubDate": "Wed, 15 Jul 2026 00:49:16 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Iran: Hormuz resterà chiuso fino a che non cesseranno le aggressioni Usa",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/15/iran-hormuz-restera-chiuso-fino-a-che-non-cesseranno-le-aggressioni-usa_aac1f5fd-5d10-4700-bc50-25f270933278.html",
+          "description": "'Colpite strutture militari americane in Bahrein'",
+          "pubDate": "Wed, 15 Jul 2026 04:48:28 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "europa",
+      "n_items": 15,
+      "n_sources": 7,
+      "category": "geopolitica",
+      "score": 111,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ucraina, Zelensky: \"Accordo con Parigi, primi ad avere missili Samp/t potenziati\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMlN5THlPUjJocU84MzRHeHhsS0ZaeXlhaGVkMkg3VTJFX3Bkb2pNN3pMQVZuMnBWd2VhbzhPNjNtZ19QdXBpS0huUVgtbnRmWFhIQmtLazlPQUJmSG96M0tnWUJNN211VW0zcEVacDBNWk1BRzNIdkRGcHZoQktJOXo1T181Wndj?oc=5",
+          "description": "Ucraina, Zelensky: \"Accordo con Parigi, primi ad avere missili Samp/t potenziati\" Sky TG24 Europa senza scudo né spada: ecco perché non abbiamo barriere contro i missili russi la Repubblica Guerra Ucraina-Russia, le notizie in diretta | Zelensky: «Accordo con Parigi, noi primi a ricevere Samp/t potenziati». Zuppi in Ucraina vede i prigionieri russi: «Il Papa vi è vicino» Corriere della Sera Dichia",
+          "pubDate": "Tue, 14 Jul 2026 21:58:58 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Industria auto al collasso, Urso attacca l'Ue: \"Il Green Deal ha messo in crisi il settore auto\" - Virgilio",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS3BjdU1QaGpNNHpMWGsyUlk2WDhzQjlfVTBtTVluLUQ5U1pKNWVPcHloejVaSUNIN2swdGNHZE5MQWM5TjVIZXVXWmpCLXg4b0VZUjZjZWlSVXVvMS13TnVwWkllV2d0OHVaaWQ1MEE1UjZ2b2xjbnNnVjhxekYtYzR3bkVTbGs1Ql8zX19kZjF5YkREczlIREswQQ?oc=5",
+          "description": "Industria auto al collasso, Urso attacca l'Ue: \"Il Green Deal ha messo in crisi il settore auto\" Virgilio Auto, sindacati contro il governo: “Soldi insufficienti, tavolo senza gambe” la Repubblica Urso all’Europa: “Entro l’anno le riforme per l’industria”. Le Regioni: una Zes per l’auto La Stampa Cappellano, le regole europee stanno penalizzando tutta l'industria automotive ANSA Crisi Volkswagen e",
+          "pubDate": "Tue, 14 Jul 2026 13:31:02 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "In Francia un 14 luglio tra difesa europea e omaggio alle vittime di Nizza - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbEtOdUFQaFdQaGFhVHRacXJYczI1WER2dlFkNlRGZVQ3ZlQyZnE1ZFN6aklaWVRqVk5neU9CT0NyQTROVlJpcWRLOEhwLTdQSmR5aVltYTN3a2dMM0ZBUTRGdGMzM1BvbHhkWXBOcm9kMk1SRDE5UjhrYmVBV05xWEh1R2QtSXg2bTZSRzduNjNXWE9TUUViVHJ2YUJmV1prTnRpUWtsbTg2M1l5Y1duSEU1UHNOU3Btd2czMW5jMUMwdzMyVXd2QWFqcjFlOTI3eVpFQmFIRUFoMjVndWk3MXc4OHVxWHZwNWlvWm45ZEdBUE9aaUg2TVZ30gH_AUFVX3lxTE9qTFZLYV9KUDF5STY1aC0yRkpQWDB1ZW9STVpKSWd2djlFMFVtZGRkb0lRM25zNk1reXVMeWNRSDFIRE1RVlhndy1SR2xUU3ZFeWxiektROF9aZ1FsdVV0Y0QzQml6eXUwWTNqak5JcG1oX1FXZWVXYjZYTW1LOWRmQVFaVUk3RnNkWVhrUkJ5WENOd25FSkFLUHhKbV8zb0RES1hTR19JeWg1TEtCU2hSVnJKRVhTYVk4Q0dDR29HcWE4elJRZzZkUXFMSFJCNEtDbDBvRWkxOEk1YUtROEhNOGlqTXJrenI0Y2JCcEl4b181bF8xb1B3VW5kbUVSWQ?oc=5",
+          "description": "In Francia un 14 luglio tra difesa europea e omaggio alle vittime di Nizza ANSA Sui Campi Elisi con Macron sfilano i soldati di Zelensky: “A Kiev il bivio dell’Europa” la Repubblica 14 luglio: Macron trasforma la festa in un inno al riarmo Il Fatto Quotidiano Il Presidente Mattarella alla parata militare in occasione della Festa Nazionale francese Quirinale Parata a Parigi dedicata all'Ucraina Rai",
+          "pubDate": "Tue, 14 Jul 2026 07:38:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Se si arma la Russia, è difesa. Se si arma l’Europa, è escalation - Il Foglio",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUTR6R3ZGSUlnUUdZZDhsTExaV1hjb3hiOFhJTXdOODhqZUhDLWZlWmtHcllZUF95QUwyVnBRNUFuaU9mUHhXVGdCUlU5OXhCNzVoX19EWmVIZ2dJdXhXMXpoZk1YQi1VUEpzMW9jcWYzMHJtSnREV3hvZlNaSF93dE0tanJrNEwza042c0hpSkxBem8zaktLMFBwWEFhSzZnTUY0Q2FoSXVOOW5WVFdmYWxtLTkyOTJtdkVMSHRYTEIzenBQbk9PSjhB?oc=5",
+          "description": "Se si arma la Russia, è difesa. Se si arma l’Europa, è escalation Il Foglio Che vuol dire difesa comune ? la Repubblica L’economia delle armi: cresce il made in Europe. “La sfida unisce industrie e governi” Quotidiano Nazionale Europa, NATO, Stati Uniti, Cina o Russia: chi dovrebbe garantire la nostra sicurezza? Difesa Online",
+          "pubDate": "Tue, 14 Jul 2026 04:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Giuliano (UGL): \"Crisi posti letto, serve un piano straordinario di investimenti e assunzioni\" - Il Tempo",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOFZIeUhVcVRoR1VUZjU5OVpHb1NvWE9wY2lYclhkN3BBSkVXWm42ZmI4N0d3MEluSUVBYmZidXNqdVhHT19DWlRiMC0xWEZpa09FWkt2M2l3ZE9nNkxlMTNxUDdEczZlSUZ3ekJyVkVXZ2ppUFU4OUNuaVBtUDFLbWJya0Z4TUlSWkNPY0NrRDJfWnhxdW1ZQ0tycElmYVNfZ0M5THNydzJSV0FUVG5kaV9FWVNSY0IwZkVSTnhWejhEd9IBxwFBVV95cUxQUWFLeGc2azVLczRkTEJORHZUTlpUb3lxblM1MEtKcjFBWVB6dmEwRXlFXzhFVUxnc3B1YWF1cVdnR3JRd1NpM1VoVWRoOFZ3dEJrNE1oOHF4LUo0aW51bDhOZFoyQlpCbzJ6by1kV0kwQVloTFNiYzFwRDdoNy1MNEt4ZE41WGh5X0Fvb1NWaGRnQ3Rtb1lIY2YteFhIYVUtMUpPOVJWRHNpMmJVWFI2d0haSkhwMmx1VXpvQmRacEV6V2FYYmV3?oc=5",
+          "description": "Giuliano (UGL): \"Crisi posti letto, serve un piano straordinario di investimenti e assunzioni\" Il Tempo Ospedali. L'Italia resta tra gli ultimi in Europa per posti letto, il divario con la media Ue sfiora il 40% Quotidiano Sanità Posti letto ospedalieri, Italia lontana dall'Europa: Anaao Assomed presenta la sua ricetta anaao.it Sanità non è solo posti letto Il Foglio Posti letto, Italia sotto la m",
+          "pubDate": "Tue, 14 Jul 2026 10:10:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "trump",
+      "n_items": 14,
+      "n_sources": 7,
+      "category": "geopolitica",
+      "score": 104,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump: 'No pedaggio al 20% ma accordi commerciali con Stati del Golfo' - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WYlVkcHd2VGdCa2NSSGF0NmIzQlc2a1VtNm5sbV9wWE82VXdhZkN2NWlmcXRfWGRPUUd6aGVqWEF2U0I5RW13Q2dFUHZlNTdVZmJvR1dxREtLbmRXMXJuMVBpV2JZRkp4RDdpTkF4dk41V0xpYUlZZGtkMA?oc=5",
+          "description": "Trump: 'No pedaggio al 20% ma accordi commerciali con Stati del Golfo' Sky TG24 Iran: Hormuz resterà chiuso fino a che non cesseranno le aggressioni Usa ANSA Petrolio e gas continuano a correre dopo ripristino del blocco statunitense contro l'Iran Borsa Italiana I pasdaran bloccano Hormuz: missili su cargo e petroliere. E Trump batte in ritirata sui pedaggi la Repubblica Iran, Centcom: Avviati nuo",
+          "pubDate": "Tue, 14 Jul 2026 21:42:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Trump ordina: stop ai controlli dell'Ice sui veicoli degli immigrati - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOXZCWFVLVHIxNlJSdTdHbExtUmpNVkNUdWp6ck5GRUFjeE9JNmQzVndvRHRJM3VuYjZYVWl5S2FwYVd5NmVaaWNjT0lDMkhZaG9UejZkLWVqQ1Nrelp0c19Rc0xuTjZicDd0ekZJZ3pFQ1QtLTlfQWxuaG9HVENpblFud1M5dUFGZC1ubmhHbkZ4V3dtNWw3cFVfOEhRRmh4dS1janlZaDEzYmlwQlItdXR6eEtWd1dkOXZqRUtOWEZhNk5TREwtOFM1SVFYTms4U05Jdk0wV1dRR1Yzb1VEWmRCOE54Qm1FbnfSAe8BQVVfeXFMTWxrZTlKN0czWFM1dnJwZ3lJeU5tSi13MmsyU3N5TE1CcTczemZtdzFVc1BRRS1BbDBidUUtSnV6dVNEU181THNITWFSMjFBakFMUnZ6SmJ6djhMU1Zxa2k1VUVvWjYyRFdienZhamlLdEJYQ1UyTDA0M3JMQ3ZuWjJHeVlfSjNQZ09OaWZma0J6bTNRZFNYb0FyVXR6OUpacWZjQ2RSMGpfRnVGUlNLOUhtZHJaWl9HVTVEZHpvUEhfbUdqOUs0M0pCTEU0NzBEMWdBcXZwbjdRZUFqMlUtbl9qeDkwMVRZN0I0cmY0OUU?oc=5",
+          "description": "Trump ordina: stop ai controlli dell'Ice sui veicoli degli immigrati Corriere della Sera L’Ice sospende i controlli stradali dopo gli ultimi due morti negli Usa la Repubblica «A sangue freddo», proteste per l’omicidio di Guerrero il manifesto Operazione dell'Ice nel Maine, ucciso un giovane colombiano Vatican News Un altro omicidio durante un controllo dell’ICE Il Post",
+          "pubDate": "Tue, 14 Jul 2026 16:55:28 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Iran, Centcom: Avviati nuovi attacchi Usa e ripristinato il blocco navale - Trump sull'Iran: \"Attacchi continui, nel mirino centrali elettriche e ponti\" - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOUDEwMmg1a1ltQzYzcDcxMGVNei1CTFlWalVseUNKWVFpdkkwQ25iSll4aDZxdVY3WGwwSVlucDY0aXFISFlEanZEMW5GME5lcGF5LXdNYzJEbktWaS00ejlKc2tFN1FLQWVBNHYtakxtN1dVSWNJZVlOb0pNOGdDRU9jRGtRX3VfNlh6VXVvSDRKZl94U19oYUo2RU9pcGN1YzlZYVRTbTVuXzF5UURfZTZHMjJVT2lIUnM3Q2ZmMU85bnpwUENGZkJpRXJuOGc4Q2hMUHd4dVl3ejVnQ0FreUNnRjNwVmItcWdZQkhfX1lMUkdDWmplLWh6R1cxZzJpZ2o00gGIAkFVX3lxTFBFR20yeFRIR0VYNXQ0aG4yR1Z2ald2c3VkMU9tb3pWbEJvczEwdkh2YlhkbHFpUEl5eFlZbVg2V2tVWXFwUHdGeU1WNldhWW56OHljc3JRYXUyaTRHUzQzaDRsZWk4SVl3S3pzMHMzSi0zaTd4cEdVUkRsejZZaGxIVHZ3VXNtNkdsVnZHZjRDWnFPOHlISUxaOF9jU3hJdWlKdjBSd0kzeTFyQklJUzI2UU9vaFk4c1BGZjFleEFRVVZTbGh0V3pUQXpXMjBJOUlrbEdtS2RkSUpoMk13Skt0MG1EbFVRQTV5VERITXU0Mm1KSTlHRXRsaFRFVHdDcXVMcW02SDJFTQ?oc=5",
+          "description": "Iran, Centcom: Avviati nuovi attacchi Usa e ripristinato il blocco navale - Trump sull'Iran: \"Attacchi continui, nel mirino centrali elettriche e ponti\" RaiNews Trump: 'No pedaggio al 20% ma accordi commerciali con Stati del Golfo' Sky TG24 Iran: Hormuz resterà chiuso fino a che non cesseranno le aggressioni Usa ANSA Petrolio e gas continuano a correre dopo ripristino del blocco statunitense contr",
+          "pubDate": "Tue, 14 Jul 2026 23:36:56 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump administration orders ICE to suspend most vehicle stops after 2 deadly shootings - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNem9hWHVZSHg3WE0zdFBvdXd0UFlpaEFETGpxN1d5RVNhZnQ4UGNVMFFNTzNxVmEyUmY3NEVBQUlGM09GdFNhWkl5ampQcC0yVHZpZWFCMmNrS2kwbVplZjJXU3g4emVjYmJpVDZVZ1J0VWVIQmdaSjQ0Q1NWSlVvY201OTI5UFl6Y1BHR2YweXZOY0E?oc=5",
+          "description": "Trump administration orders ICE to suspend most vehicle stops after 2 deadly shootings AP News Fatal shooting by ICE puts Susan Collins’s role as a Trump administration middleman under scrutiny The Boston Globe ICE and the Senate react to the latest shootings: From the Politics Desk NBC News ICE Ordered to Cease Most Vehicle Stops After Fatal Shootings in Maine and Houston The New York Times Fatal",
+          "pubDate": "Wed, 15 Jul 2026 02:02:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "House Votes for Permanent Daylight Saving Time - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdmNfZW04SUtzNWdzZkJIcVdRT0QtZmtmM0g3MnpIZjhVcGFzaHZRb0RDZnh5eVVDNnpuamgyNEVnV3pPbmVPdk8wcmZaLTg0dTRrYmd4MG54THdMMHFibElwMFpYeHRoY1pSaXBiSDliR2hZNWJDd25ycGl0N25xVm5kV3NyeTNpSlJrSDJFdmZWVVBQcjh6aHp0T3pQS3VoT2NmSG1B?oc=5",
+          "description": "House Votes for Permanent Daylight Saving Time The New York Times House passes Daylight Saving Time reform as Trump signals support for ending clock change Fox News House passes bill to make Daylight Saving Time permanent CNN House to vote on measure making daylight saving time permanent The Hill House Backs Making Daylight-Saving Time Permanent WSJ",
+          "pubDate": "Wed, 15 Jul 2026 01:33:07 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "milano",
+      "n_items": 14,
+      "n_sources": 6,
+      "category": "economia",
+      "score": 90,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Cremona, undicenne chiuso in auto sotto il sole si sente male ma riesce ad allertare il 112: salvo. Denunciata la mamma - Corriere Milano",
+          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNNkJsNTU5WlFVZGlEWHUycXdUdnhpbFZuTmNVLW1YemhRdE04Q0NXS0loYkNXREZYZmZXMHJydmhCQzVaMDNQcGxELWc3UmxHWkNVWE9CcGlxRko4WGEzX0FGeXhpTkFOVlp4WjBDeEoxTU5rdHhNWnUxSEhScDF6bVU2c1p3Z29tUVdlYUdRUXRKM1Z0WEhnbU51bGJManpMSDBlZzBGQWxxQzZjUTBJdk03VDZQQ0xoTGl4S1RwaHJ2UExqdHhtbWFtVEtET196VDViNWQ4R1NrbFpfTFRCQUswRmtKbkV4YzNxaE5SdHlmZTRUS184R3VpeUM0czhYakdXRUxMMzhKVjFCWjF4eVZsRnNPMVVaMExrT1ZzNkwxc1VGTlFIejRIRF93S3MycVY2ZmotLXkzREHSAcACQVVfeXFMTXk5U2NpNjJkbTlGSjEzLWN4c1l5MVFucjBHeUZrY0VhM0FYUXBBSDh6bXhaZ3QxN0lEc2c5VTA0dUIzcUxCbU9UMlRDaDNteVdJQ2RmVjdIX0ZGOTFnRGRWV0NWQm8tNDdvbmRiOFhPVlMwbm1aSEFSbmZLTVRxTjB2eXZBMlhoZE9IVFFoa0ZjZll5cGVoeVpjanUybjVxYnZYcjZHV24tRS00Nk82dy01RVdFQWY5Z0t4SXlwcEtFbDdIVGZhMHBzaGRfcTN3WnIxYnRUUm92Ty1WVXViMnpjTlB4VWE5UFkwTTJhMm1JczZDZWZKUUthUWEwNEpiSHl4N3U1WEZ5b3R4NVNqN1FYZmVEa2RiVWExU0NqbXlhQl9raTlVTmFGb3FnUmJSRnhJY3lFWkV5T1FRTTBNNXU?oc=5",
+          "description": "Cremona, undicenne chiuso in auto sotto il sole si sente male ma riesce ad allertare il 112: salvo. Denunciata la mamma Corriere Milano Bambino chiuso in auto con difficoltà respiratorie: salvato dall’intervento della Polizia Cremonaoggi Controlli della Polizia, 140 persone identificate: denunce, allontanamenti ed espulsioni La Provincia di Cremona Undicenne chiuso in auto si sente male, liberato ",
+          "pubDate": "Tue, 14 Jul 2026 16:49:05 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Decreto «Autovelox», esposto contro il ministro Matteo Salvini e tre dirigenti del Mit: «Mancano le prove tecniche» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPOEtYRk16eS1ZcmswRENPeUk1NTZ3WnlIY1hSZV9LRWRmRndJUTlmaGdrbW1kLXotQ2FkNjREQU9BQ1ZUY0pCejNHU0hmcEJrZnRoalNkT1pHaUt4bXVrOG5tNDdScVB6bUIxSU1McFIwSVN2MlJISHd0bFNnVm5Ga0NPWE85RWZiSDBUVXFiMmlfWHJUZFp4b0hXZlh0OHcwQnFiOVc4cWdraENEbzVuQ0ZrSmhyRmp5RjBQeUhKSVJDZmNzU3RPWUtqTVF1dDFyN3VRVW5zUHpfcEplSWk1SXY1S2h6NUQzSU50MGN6YWF0aEpCT05CNHg1NnFYcmt2Y0NXTFhxQjktOG9PWTNVZS0zb0Z0NFF0ZElKanAxNFhPZDRU0gGqAkFVX3lxTE5FdkRBR1JFZ2F5RFgzcmRWTjRNeDdON0VQY1lJbHEwdWMyVWRXTWNYV3h4MUZ3X0lqbFdGSi1NdlVhSDlFMEltYVYyVWoxZWJ1TWs4Z2xYMlBBcWtfRWNTQ0ZEQnpXMmhJUVd5UGlxOTZHb0lwYklGVXhKdU50Vm1yZUtRQW03dlR0bnZFRFFjS2Uxanl2UTNLRHlQS0NpVl9XWHZyR3NJZ0Q5cTZBakJVS0dtUm1fUE14dkdyRFZtd25oLVk4aDVSUTNSNWJlVk1UVXNBdzM3RlQxWFlBWFg3aXplQzNwdkRIdkhOTGgwXzIteEJOeEwwYklBSlB6NUtqem5jalpJc19YSUwxWU5NYm9RSkcxbnF6YWU0VDd2blVDY1Jrd0tZQ1E?oc=5",
+          "description": "Decreto «Autovelox», esposto contro il ministro Matteo Salvini e tre dirigenti del Mit: «Mancano le prove tecniche» Corriere della Sera Velox, Provincia fa partire i contro ricorsi sui contenziosi aperti. In studio un nuovo dispositivo La Stampa Autovelox, l'associazione Altvelox querela il ministro Salvini RaiNews Svolta sugli autovelox anche a Milano: quali sono stati spenti e dove si rischia an",
+          "pubDate": "Tue, 14 Jul 2026 17:51:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse europee prudenti, Milano si allinea - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaDQxY0phV1IxUzB4UzBMU1B1akNZUDlDcVZsekM4ZGlVaWdGdU9iTzhucW9iVFdLVFd3Z0N6aTZFdHRuYzc4Z0ZSTy1XWWI3U3Y4aWMwbnlxZ3QxZHdjelVkb0xiXzk2RGhPZng0UmNZMG0wQXZvaHM4TGpVNE5JMmh1aExMaFBveEVpbTdMRkZhMG9hNzhVSmtYRndpVEZpbXNuT28zeEp3LVVLLUl4YkQ3WnNlWExmYWR0OG1PWmFrbXM4d0E?oc=5",
+          "description": "Borse europee prudenti, Milano si allinea Borsa Italiana Borse e petrolio 14 luglio | L'Europa chiude in positivo, il greggio supera gli 80 dollari al barile con lo scontro su Hormuz Corriere della Sera PUNTO DEL MATTINO EUROPEO: 14 LUGLIO 2026 Milano Finanza Guerra Usa-Iran, borse Europa in calo RaiNews Borsa: Europa apre in calo, Milano -0,6% ANSA",
+          "pubDate": "Tue, 14 Jul 2026 16:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Euro digitale, al test della Bce anche otto banche italiane: ecco quali sono quelle che partecipano al progetto pilota - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOdEpjZ0tIdll3Y2liSlNDQ0k4UzB6a0FWT2VsQlZpSm1sQ0NwUmMwYzNWUjU4bVYtY1pJcWpsX0J4QmYzSjBLQjhfVGdBcVZvVkI4Tk9ZTFZGaTRmMVlfY2lKLV9paHY3bVlMOVVZMXhfQkRsLUh0QVc4RU8zWE9KYlRSazJ3YmtKWTVRU1VzSXlvQjd6VGFzOHRHZTlGenBGN2VrLWZacERjZEo2S1VPVHhfcnEzaGJCUm5qRVVMR3NsZmREb015STN2TElQOWlkRWsyOHM3YzNhTzMzWXRWaGVBa0Nwd2l5ZVR3LTQyVVJ2Wndna1dGS3NwUE9McE1LbV9IRE55Ymw4SXB5QUJfcG5EY19fWmZBdXNNang3aXRCei1HU0NOSDFpQnBMQll1S21iZV9NSDfSAb4CQVVfeXFMUDIxREhLVUtlanpWX1ZMTjNUaG42ckVaT3g1bTd0czRmb0U0SUUzTHJQNUc4OF8yRURCeXFtSEwtSDZTLVRyNnZwaW5YMDJRckZZeE8yWDdLdEtkVEJkZTB3YWw1bU1pdUhLRWRVLW9GX3NRZEJnY1RNZFhyc25yQzd0engxVnpXRlp1ODBWSy1WcG1yOU9IU0hGS2o5eEIxbGcteFI0cVNSSmRCZldoYWdROVQ1ZUhGdFhnaWt3U0xKYXVtakFrUkdNR3RhWTA4cjBQMmNRbVRKNXpaQV8tbGUwMzltRkRzY2dfUGdZMEhfaWF4TVNCTGNtS2tfbzdxZGdKUHd5bHRYMlI4d1hINDMwN1QwU3hVYzU4TXhlYVZwSV9BbjItX1IyYWFlclJNaWNFWDBITkVDSjkxREZR?oc=5",
+          "description": "Euro digitale, al test della Bce anche otto banche italiane: ecco quali sono quelle che partecipano al progetto pilota Corriere della Sera Valitutti, isybank contribuirà all'evoluzione dei pagamenti europei ANSA BCE seleziona 36 fornitori per progetto pilota dell'euro digitale: 8 le aziende italiane Borsa Italiana Nexi, Il ceo Bernanrdo Mingrone: ecco perché l’euro digitale potrà favorirci Milano ",
+          "pubDate": "Tue, 14 Jul 2026 13:50:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borsa Italiana, il commento della seduta del 14 luglio 2026 - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTXdlUVlZcElySnVRMWRnWE1fNnFqUm5oWHg3cnZlN3pYOHg1OTBUN1g5cGl1LUEtSG1FYnNKVkxaci1vY1I3VmdVZjhYc0xZS0NZaEdwMTJnemh1a3BQLXdFWnNnNFd6Wmpzak5halRvOHZZZm0wMDFMeVdmZVllSFdQSGVuZ1dNTHZJYVhkNFlHSlYwV0tWNmo5c2Q?oc=5",
+          "description": "Borsa Italiana, il commento della seduta del 14 luglio 2026 SoldiOnline.it In rosso le borse europee, a Milano bene Prysmian Borsa Italiana Mercato piatto Milano Finanza I titoli del giorno a Piazza Affari, giù i titoli bancari. Bene il tech Borse.it Borsa: Milano chiude in lieve rialzo a +0,1% con Prysmian in testa ANSA",
+          "pubDate": "Tue, 14 Jul 2026 15:48:00 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "nuovo",
+      "n_items": 10,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 66,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Sicurezza, ok a nuovo ddl in Cdm: esteso fermo preventivo a minorenni - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ERGpwQjVtRlA4VUQ1RHhKUHZuMVFfZU9pMmxxeWV4RlA3X21DdkNyUXZlWXd4QkY5TXhvV1RfWURRUHBpM1RPWXZmZW9BMWtkZV80WlBZYkhDZUhFUXBXejQ4RG9UNUlVcy0ySzBia1Y0Zw?oc=5",
+          "description": "Sicurezza, ok a nuovo ddl in Cdm: esteso fermo preventivo a minorenni Sky TG24 Movida e maranza, il fermo preventivo anche per i minorenni ANSA Il ddl sicurezza. Chi può essere trattenuto prima di un corteo e a chi si vietano i raduni? Quali sono le norme per i raduni? Corriere della Sera Piantedosi: “Fermo preventivo esteso ai minorenni” la Repubblica Il Cdm approva il nuovo ddl Sicurezza. Piante",
+          "pubDate": "Tue, 14 Jul 2026 04:34:32 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Decreto «Autovelox», esposto contro il ministro Matteo Salvini e tre dirigenti del Mit: «Mancano le prove tecniche» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPOEtYRk16eS1ZcmswRENPeUk1NTZ3WnlIY1hSZV9LRWRmRndJUTlmaGdrbW1kLXotQ2FkNjREQU9BQ1ZUY0pCejNHU0hmcEJrZnRoalNkT1pHaUt4bXVrOG5tNDdScVB6bUIxSU1McFIwSVN2MlJISHd0bFNnVm5Ga0NPWE85RWZiSDBUVXFiMmlfWHJUZFp4b0hXZlh0OHcwQnFiOVc4cWdraENEbzVuQ0ZrSmhyRmp5RjBQeUhKSVJDZmNzU3RPWUtqTVF1dDFyN3VRVW5zUHpfcEplSWk1SXY1S2h6NUQzSU50MGN6YWF0aEpCT05CNHg1NnFYcmt2Y0NXTFhxQjktOG9PWTNVZS0zb0Z0NFF0ZElKanAxNFhPZDRU0gGqAkFVX3lxTE5FdkRBR1JFZ2F5RFgzcmRWTjRNeDdON0VQY1lJbHEwdWMyVWRXTWNYV3h4MUZ3X0lqbFdGSi1NdlVhSDlFMEltYVYyVWoxZWJ1TWs4Z2xYMlBBcWtfRWNTQ0ZEQnpXMmhJUVd5UGlxOTZHb0lwYklGVXhKdU50Vm1yZUtRQW03dlR0bnZFRFFjS2Uxanl2UTNLRHlQS0NpVl9XWHZyR3NJZ0Q5cTZBakJVS0dtUm1fUE14dkdyRFZtd25oLVk4aDVSUTNSNWJlVk1UVXNBdzM3RlQxWFlBWFg3aXplQzNwdkRIdkhOTGgwXzIteEJOeEwwYklBSlB6NUtqem5jalpJc19YSUwxWU5NYm9RSkcxbnF6YWU0VDd2blVDY1Jrd0tZQ1E?oc=5",
+          "description": "Decreto «Autovelox», esposto contro il ministro Matteo Salvini e tre dirigenti del Mit: «Mancano le prove tecniche» Corriere della Sera Velox, Provincia fa partire i contro ricorsi sui contenziosi aperti. In studio un nuovo dispositivo La Stampa Autovelox, l'associazione Altvelox querela il ministro Salvini RaiNews Svolta sugli autovelox anche a Milano: quali sono stati spenti e dove si rischia an",
+          "pubDate": "Tue, 14 Jul 2026 17:51:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Super Tuesday dell'Ue: quattro conferenze di adesione in un giorno - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ0VEYnA5YkQ5bW9lajM2ZlRYZkM1TFV6TjcyQUlLb3h5MF9iLUhJSTRONV9yOHdWbDFFUzgzbUJhaUZRRXB2RnJWX3g5RmdBazFKMlpTdWNHMTNHQkVlTXlQS2V4aGVfUTM5U0dPRDRRbWI1X0NxbFM3TmFiYUpMZVh4bWg0NjV4Zkt3eUM3bno1TmVOLURlM2VLRWd0ckd2YmQw?oc=5",
+          "description": "Super Tuesday dell'Ue: quattro conferenze di adesione in un giorno Il Fatto Quotidiano UE: nuovi membri in arrivo? ISPI L'Ue apre nuovo cluster nei negoziati di adesione con l'Ucraina. Kiev: 'Iniziata la fase finale dell'iter' ANSA Il SuperTuesday dell'allargamento Ue. Avanti con Albania, Moldavia, Montenegro e Ucraina: Ursula vola a Kiev HuffPost Italia Allargamento UE, quattro candidati accelera",
+          "pubDate": "Tue, 14 Jul 2026 13:33:07 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Firmata ufficialmente l'intesa Ue-Regno Unito per il nuovo status di Gibilterra - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPb2ljV3V6V3dRMC04VFFBdFc1TVFRWDZ4aXZFNXU5UHlCcnExR1p6dFFNTkNoTk56QnJTUHVIQ1poXzAxQU1IcmxyQTdWM3NQSENkMERUZ0pVRWVZMU0xTDBBNXFNOUhTVmpHemhDNTN2cktIZmprNlY3aUszWWxVWU1kMlBWbzhVZ1NLYUVVV1BfS3FPUlJBM2EwamhwTURmdktRMGd2TnVMYzUzdnNQNlNmSWR2QTc3NFFYRE45TVJqVmEzcGZ0bG9ZZGVuQkJOS19hNklFd29HRm1CNFNzTTFqVXhUNHhBbnZKSlA3emw4WW55TTJVd1JZeFd5aFlYaTFpSEpGZnPSAY4CQVVfeXFMT1ZBZlZpR2pUcE9hM3JsMDRKQ0NITmR2WUQzdmxmUVVmYUVXQ0ROZXJuaHRjaVB1Y1pnMEFsR2V4LTRUaS1QbkRpd3BTTmJ2aVBtODdhYTJjQVNzWFA5VHJTbDdMTldaTFczVTY1VEJ0c19xOWdtN2VKeU5yNEtFMXdFREVaWUVUTkhqai1YX2E2V1BWZ3FEcHFRYjJtbW0yV2FwdXJPbV9iQmRvVVduOEttdWJtMDJJTU4yWW5ydDdzVjQyaGxuSDFDd2xzNy1mSUFKQnZjRURBSG5QNWJHLVlfcG12bWJfd0l3dU16OHFNY1Jxc1JaSmJoTkxWRVJCVXBKOF9RNXdpUUhHbWtn?oc=5",
+          "description": "Firmata ufficialmente l'intesa Ue-Regno Unito per il nuovo status di Gibilterra ANSA Gibilterra, addio alla frontiera tra Spagna e Regno Unito: così cade l'ultimo muro, dopo la ferita della Brexit Corriere della Sera Regno Unito e Unione Europea hanno formalizzato l'accordo per mantenere la libera circolazione tra Gibilterra e Spagna Il Post A Gibilterra cade l'ultimo muro dell'Europa Occidentale ",
+          "pubDate": "Tue, 14 Jul 2026 12:38:29 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "L'Ue apre nuovo cluster nei negoziati di adesione con l'Ucraina. Kiev: 'Iniziata la fase finale dell'iter'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/14/lue-apre-nuovo-cluster-nei-negoziati-di-adesione-con-lucraina.-kiev_128aea6a-6758-4eeb-92cf-135620643e73.html",
+          "description": "La presidenza: 'Importante pietra miliare, confermato l'impegno sull'allargamento'",
+          "pubDate": "Tue, 14 Jul 2026 09:54:25 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "perché",
+      "n_items": 11,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 61,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ucraina, Zelensky: \"Accordo con Parigi, primi ad avere missili Samp/t potenziati\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMlN5THlPUjJocU84MzRHeHhsS0ZaeXlhaGVkMkg3VTJFX3Bkb2pNN3pMQVZuMnBWd2VhbzhPNjNtZ19QdXBpS0huUVgtbnRmWFhIQmtLazlPQUJmSG96M0tnWUJNN211VW0zcEVacDBNWk1BRzNIdkRGcHZoQktJOXo1T181Wndj?oc=5",
+          "description": "Ucraina, Zelensky: \"Accordo con Parigi, primi ad avere missili Samp/t potenziati\" Sky TG24 Europa senza scudo né spada: ecco perché non abbiamo barriere contro i missili russi la Repubblica Guerra Ucraina-Russia, le notizie in diretta | Zelensky: «Accordo con Parigi, noi primi a ricevere Samp/t potenziati». Zuppi in Ucraina vede i prigionieri russi: «Il Papa vi è vicino» Corriere della Sera Dichia",
+          "pubDate": "Tue, 14 Jul 2026 21:58:58 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Euro digitale, al test della Bce anche otto banche italiane: ecco quali sono quelle che partecipano al progetto pilota - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOdEpjZ0tIdll3Y2liSlNDQ0k4UzB6a0FWT2VsQlZpSm1sQ0NwUmMwYzNWUjU4bVYtY1pJcWpsX0J4QmYzSjBLQjhfVGdBcVZvVkI4Tk9ZTFZGaTRmMVlfY2lKLV9paHY3bVlMOVVZMXhfQkRsLUh0QVc4RU8zWE9KYlRSazJ3YmtKWTVRU1VzSXlvQjd6VGFzOHRHZTlGenBGN2VrLWZacERjZEo2S1VPVHhfcnEzaGJCUm5qRVVMR3NsZmREb015STN2TElQOWlkRWsyOHM3YzNhTzMzWXRWaGVBa0Nwd2l5ZVR3LTQyVVJ2Wndna1dGS3NwUE9McE1LbV9IRE55Ymw4SXB5QUJfcG5EY19fWmZBdXNNang3aXRCei1HU0NOSDFpQnBMQll1S21iZV9NSDfSAb4CQVVfeXFMUDIxREhLVUtlanpWX1ZMTjNUaG42ckVaT3g1bTd0czRmb0U0SUUzTHJQNUc4OF8yRURCeXFtSEwtSDZTLVRyNnZwaW5YMDJRckZZeE8yWDdLdEtkVEJkZTB3YWw1bU1pdUhLRWRVLW9GX3NRZEJnY1RNZFhyc25yQzd0engxVnpXRlp1ODBWSy1WcG1yOU9IU0hGS2o5eEIxbGcteFI0cVNSSmRCZldoYWdROVQ1ZUhGdFhnaWt3U0xKYXVtakFrUkdNR3RhWTA4cjBQMmNRbVRKNXpaQV8tbGUwMzltRkRzY2dfUGdZMEhfaWF4TVNCTGNtS2tfbzdxZGdKUHd5bHRYMlI4d1hINDMwN1QwU3hVYzU4TXhlYVZwSV9BbjItX1IyYWFlclJNaWNFWDBITkVDSjkxREZR?oc=5",
+          "description": "Euro digitale, al test della Bce anche otto banche italiane: ecco quali sono quelle che partecipano al progetto pilota Corriere della Sera Valitutti, isybank contribuirà all'evoluzione dei pagamenti europei ANSA BCE seleziona 36 fornitori per progetto pilota dell'euro digitale: 8 le aziende italiane Borsa Italiana Nexi, Il ceo Bernanrdo Mingrone: ecco perché l’euro digitale potrà favorirci Milano ",
+          "pubDate": "Tue, 14 Jul 2026 13:50:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Crisi dell'auto, quanti sono i dipendenti del gruppo Volkswagen: gli stabilimenti, i numeri, i più a rischio - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOZUJPSE5xRTdOc1N0OVZlTmdHQW5MeUthR3gyUHlOd2E0WkM1VzhIb1Azd0NZcGJVRjEyT2syNTA5TV9fUmNsRmhxVVRUdG5DY1JiOG1QMHI2RzVzT2dPNU1hYWMtWEtPX3ozTG4wVnJnRG5TSUhmaDU0WDAxaEdIcUYtWjYzY3RBZ1JzUjdMMTF0WFB1Y0c5ZnczYVpOOEtZQTRRdlpFSE53akdKb0dKaXN4SS1WNjF5MWxFeVFkZ1U4WmEtTFhzQ1BVX096eG1zRzF6MHhEcXdrSG1KXzVGRHZoVG02TEZRNEpNY1FMWU1IVW5DejE5UXJnNG50SHlFRTczaXRneHhjbjZsVmlhZHRtTEwzOXRkd0wwMzZWUlB6NGx5eFJZUdIBrgJBVV95cUxObGxjeWtfTDl2MFk2VkNwVkhxZHdhME1ON0ZIT3Vzem91Q2ZUckZSc1p4c3lOdkhoX0FwSDg1VlpxSDhRUnRZOXRJQnhEX1ZLOUc5dkxCT1FvbW9lcnVfSmR3a0owLXRIUnVhbzVxVHpKODBac3ZFaFRjbnAxNnhFLU9id3RWai1hZTlMMTZZVk44OUR0a054aWkyYmtZWGdlTFFKMTJIUFNQY3JUNHlvdlVxYjF4ZS03WDFlS010YzByc0VBcV9fY29WWWktMkJxYkd1cVJ4MVdtcGhqbDlGTXNNTXpscFdRbEU2RHdqWmZHbTBJYWVEZEdDeTRxN0x5dF9tZ1RSV01rZm9neTFaVDB6N0h6SEh4VHRHYXp3dzVNS1JtdTE5aEN2UXV6QQ?oc=5",
+          "description": "Crisi dell'auto, quanti sono i dipendenti del gruppo Volkswagen: gli stabilimenti, i numeri, i più a rischio Corriere della Sera Gruppo Volkswagen: quali modelli finiranno sotto la scure dei tagli? alVolante Perché la crisi di Volkswagen continua Il Post Crisi Volkswagen, l'ad Oliver Blume: \"A rischio fino a 50mila posti lavoro nel gruppo\" Sky TG24 Crisi Volkswagen, Blume conferma fino a 100.000 l",
+          "pubDate": "Mon, 13 Jul 2026 15:27:36 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Carburanti, rialzi alla pompa dopo la nuova crisi USA-Iran: perché sono ingiustificati - HDmotori",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZX3RFQmRhRGVGTGZoWXBnRnppSl9wRGpaTE5tdDVjTWJlbDRKWW1TTFh5RVI3YWVnZEZKRFUwOHlBRUpzTlBneEIyS0hsaG9GNmVvc3NDdzBnYjN1QjRmcTJyUkZXcG45Uk0wcWswZGVYbkJvZzVlTHpRWk4?oc=5",
+          "description": "Carburanti, rialzi alla pompa dopo la nuova crisi USA-Iran: perché sono ingiustificati HDmotori Mimit, prezzi carburanti in aumento, benzina self venduta a 1,884 euro ANSA Carburanti, Urso: se blocco Hormuz persiste pronti a interventi mirati Borsa Italiana Carburanti in continua salita: il diesel ha superato i 2 euro in dieci regioni italiane | Quattroruote.it Quattroruote Prezzi carburanti, scop",
+          "pubDate": "Tue, 14 Jul 2026 08:48:46 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Perché le zanzare pungono solo alcune persone: la verità scientifica oltre il mito del sangue dolce - Il Mattino",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdnZUU0tnVXNTUEpPdEdERF9YaF82REhtcnFQbEVzZnBCTi15bGktanZHVTR4UDFhSkhudWNicVRnNHNNN1FIUVJvUnQ5NU5mQm1VWmVSNDhFQWthcDhKZ0wtczUyNlVmVVhyRFJCNUMwUFBvSWJTWC1Iblc3ZDFXaUw3ONIBiAFBVV95cUxQSlB5MHA2Sml3TkpQWVJORjJSVEJONGEydkJET05yVEJWVkFaWVpiU2d1UXJqZVNEV0g4Qk1FRzRvUDk5d05sZFJNNDF2aFpDQTBRUHAyekgzVkZZRGZ5SHRyRXMwYS1CdGhyWi1YOElZMEpCMXBIdl83S21zYkdWSnhWbkFNdlNJ?oc=5",
+          "description": "Perché le zanzare pungono solo alcune persone: la verità scientifica oltre il mito del sangue dolce Il Mattino",
+          "pubDate": "Tue, 14 Jul 2026 12:14:16 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "rischio",
+      "n_items": 9,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 60,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ondata di calore, in Veneto allerta gialla. Verona è «bollino arancione». E chiudono i piani alti della Casa di Giulietta - L'Arena",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPRC1mc1FvSU84bVJsdEozS1lPMnk0YTJkXzktQnlrRjdiQ01ET2g4S3phTVBvbVNlUWRTeGlnMjNxaE9DREFWZmttdnZncHBVcTFzX0dmWklkS0owdnlEVm1icDJUa19xUnQtaDktQ2VWbW56cVRUS0liR19ka1dYRHNKWmlDMHVfcm1YUVFfeWpjbWNmM0FvTERhbUo5NERjNTd6U1RpRXg4enZQZjFDczFKWWd0bnctdWZtb1g5eXQ5bVFCeTRSbUc4NXN1c2pzOUhVdUlKc0NRWmVTMlcwOHZ3YmdUbzRPZ1N2RXBzMkU3YkRiR1NEOF9jUnBUZ2FwSFhFdHhB0gGLAkFVX3lxTFBfbzRldmhDTVBuQllubEZ0OG5jSVdJYk9BbE9hS1RRM3hHNmt5ZlhBa2Y4SVM3SUxJalp3TVNRd2JYMTA0ZVZidEtVZklCZW0xeHQycWtPWVNUc0JGbFh3bTFfZWxSTXVJOXgzaTB3M2ZNYkRMMHE1WkVfRUNVV29ScDlXam5lVU40LUt6clIybzNhdGxqQ2ZoTm5Gem15ZTRDMk5xNmFfcW9UaGZpb2VVdXRnaDV1SHhnQ2FvdERwa2dUM1dQZjNKM3RaX2YxbFFGRkotdXl1bTUxZ0VGWW9qX1RnMG9BTExpR1VCTE5oeDFGOHJoR09TUXhhVGtQeHlQU2xkaGJ5eHlmOA?oc=5",
+          "description": "Ondata di calore, in Veneto allerta gialla. Verona è «bollino arancione». E chiudono i piani alti della Casa di Giulietta L'Arena Caldo: due anziani ricoverati per un malore. Domani torna il rischio di temporali TrevisoToday In Veneto allerta gialla per caldo, domani anche per temporali ANSA Veneto, arriva la nuova ondata di calore: temperature fino a 38 gradi e umidità alta RaiNews Temperature in",
+          "pubDate": "Tue, 14 Jul 2026 15:58:39 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Agcom, Lasorella: 'L'IA mantenga una guida umana, tutelare il pluralismo' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQYUZMOF9kOFNrVmttVUVVZkt5N2M1Rm1PSFBiU0EyWERyV1k4QXZJSGFpckNyRVVLSWVtdWlSRzNyU3FMQUMta2pEM3JkbTFZWkkwVUJNNVJjMHozY01DZklKNUJFSDltSFFwaTJXTlNJZ3BGb3RubmF1OTNJWDh0RlpNUC1jZXY2bDV0MDVXd3ExdjNmSEp2VkY3Rllad0hFOVVuNV94N1FCa1E1MzJZTjc3U3JnOVo5UFNRY2xWeUtzRXQ3YWx3eGxiTUItZGZqUjRoVTF1aHFDUDlqQXViLU9LWV9heFJiYURPR2FkczdnNkRaeTVSa0xabHZ5RElxWTB4dXNSSnhYaDBkdjNJT9IBlgJBVV95cUxQeHNHbWhKOWhXWjZWODNrSHBxQ2dUUXZOSFFFRzJKT1huaGVibVBaWU5TVFlSTm1QWWlpVmxmMHRUcHBTSHo0WV9hUWNJelNnQUw5VXJsSkJmVUlwdFh3SDFjTHhEeUJRUmVJZjdvSEstMEJEM0RpRXlmekJSWi1Gdk9JOXN6eDU0R0xTMVh2aGNCVmhyQXZrdW5VRUFYTDQ4TG5HZVY5NlJ0UGlyU011el9ObVZWTEx4aGh4dEhJSE5ORFRhMGowZnJnX1VHa3lQeGxaZncwdWl1UUZQZmNyeU1ZV25xR2NONHBxUUYtTFExSG1kRW94ZkFkNG9Vdkp6WnBKOFN1T3Z6RWNCekZ3b184OTlMZw?oc=5",
+          "description": "Agcom, Lasorella: 'L'IA mantenga una guida umana, tutelare il pluralismo' ANSA “L’IA impoverisce l’informazione, pluralismo a rischio. Giganti web paghino gli editori” la Repubblica Rai, Mediaset e Sky al 67% ma piattaforme in crescita e ormai quarto polo Il Sole 24 ORE Relazione Agcom, Lasorella: \"Nell'era dell'AI salvaguardare il pluralismo informativo\" RaiNews Agcom, dal mondo reale a quello ar",
+          "pubDate": "Tue, 14 Jul 2026 11:28:32 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Crisi dell'auto, quanti sono i dipendenti del gruppo Volkswagen: gli stabilimenti, i numeri, i più a rischio - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOZUJPSE5xRTdOc1N0OVZlTmdHQW5MeUthR3gyUHlOd2E0WkM1VzhIb1Azd0NZcGJVRjEyT2syNTA5TV9fUmNsRmhxVVRUdG5DY1JiOG1QMHI2RzVzT2dPNU1hYWMtWEtPX3ozTG4wVnJnRG5TSUhmaDU0WDAxaEdIcUYtWjYzY3RBZ1JzUjdMMTF0WFB1Y0c5ZnczYVpOOEtZQTRRdlpFSE53akdKb0dKaXN4SS1WNjF5MWxFeVFkZ1U4WmEtTFhzQ1BVX096eG1zRzF6MHhEcXdrSG1KXzVGRHZoVG02TEZRNEpNY1FMWU1IVW5DejE5UXJnNG50SHlFRTczaXRneHhjbjZsVmlhZHRtTEwzOXRkd0wwMzZWUlB6NGx5eFJZUdIBrgJBVV95cUxObGxjeWtfTDl2MFk2VkNwVkhxZHdhME1ON0ZIT3Vzem91Q2ZUckZSc1p4c3lOdkhoX0FwSDg1VlpxSDhRUnRZOXRJQnhEX1ZLOUc5dkxCT1FvbW9lcnVfSmR3a0owLXRIUnVhbzVxVHpKODBac3ZFaFRjbnAxNnhFLU9id3RWai1hZTlMMTZZVk44OUR0a054aWkyYmtZWGdlTFFKMTJIUFNQY3JUNHlvdlVxYjF4ZS03WDFlS010YzByc0VBcV9fY29WWWktMkJxYkd1cVJ4MVdtcGhqbDlGTXNNTXpscFdRbEU2RHdqWmZHbTBJYWVEZEdDeTRxN0x5dF9tZ1RSV01rZm9neTFaVDB6N0h6SEh4VHRHYXp3dzVNS1JtdTE5aEN2UXV6QQ?oc=5",
+          "description": "Crisi dell'auto, quanti sono i dipendenti del gruppo Volkswagen: gli stabilimenti, i numeri, i più a rischio Corriere della Sera Gruppo Volkswagen: quali modelli finiranno sotto la scure dei tagli? alVolante Perché la crisi di Volkswagen continua Il Post Crisi Volkswagen, l'ad Oliver Blume: \"A rischio fino a 50mila posti lavoro nel gruppo\" Sky TG24 Crisi Volkswagen, Blume conferma fino a 100.000 l",
+          "pubDate": "Mon, 13 Jul 2026 15:27:36 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'allarme dei big, 'rischio estinzione con l'IA, è come le pandemie'",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/lallarme-dei-big-rischio-estinzione-con-ia-e-come-pandemie_3afde5e5-7bcf-464e-b3aa-aee6577a9b23.html",
+          "description": "Nyt riporta lettera di 350 leader industria, anche ceo OpenAI",
+          "pubDate": "Tue, 30 May 2023 14:12:41 +0200"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Salami richiamati nei supermercati, rischio salmonella e microbiologico: i lotti interessati - QuiFinanza",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObmt0VTNNU3NBb3hXWVNLZDhoYVJnWFU5SzZXZ09VaU5JV3hUZzBUS1lxOG5ndE1fWUg5RWdSUUM0enRrZm83S2RRdk96c1FPRjdLbzFRV2RsWWo0MU5MT2xwTElEWFNhVG40T2Q5ekpUZ3JQaTlIMVpBSncwUE9TTFQxR3M4YU10SS1nd29ja2hzZmdlMXBj?oc=5",
+          "description": "Salami richiamati nei supermercati, rischio salmonella e microbiologico: i lotti interessati QuiFinanza",
+          "pubDate": "Tue, 14 Jul 2026 13:49:02 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "after",
+      "n_items": 13,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 58,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Trump administration orders ICE to suspend most vehicle stops after 2 deadly shootings - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNem9hWHVZSHg3WE0zdFBvdXd0UFlpaEFETGpxN1d5RVNhZnQ4UGNVMFFNTzNxVmEyUmY3NEVBQUlGM09GdFNhWkl5ampQcC0yVHZpZWFCMmNrS2kwbVplZjJXU3g4emVjYmJpVDZVZ1J0VWVIQmdaSjQ0Q1NWSlVvY201OTI5UFl6Y1BHR2YweXZOY0E?oc=5",
+          "description": "Trump administration orders ICE to suspend most vehicle stops after 2 deadly shootings AP News Fatal shooting by ICE puts Susan Collins’s role as a Trump administration middleman under scrutiny The Boston Globe ICE and the Senate react to the latest shootings: From the Politics Desk NBC News ICE Ordered to Cease Most Vehicle Stops After Fatal Shootings in Maine and Houston The New York Times Fatal",
+          "pubDate": "Wed, 15 Jul 2026 02:02:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XSndWRHNWTGJQU0VCZ28yTVRwNFdVeVZmNVVsMDdWUlJSaGg0dzZ4UGdsVTFSTFpvVW1zSGswWnNLZnNiaGNBSmNuUG82eERCQWpnTDNlbnplUQ?oc=5",
+          "description": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports BBC Trump Drops Plan to Charge Ships Fees in the Strait but Will Restore Blockade: Iran War Live Updates The New York Times US reimposes its blockade on Iran after Tehran’s attacks on ships in the Strait of Hormuz AP News Inside the 24-hour sprint to convince Trump to drop his plans to toll Strait of Hormuz CNN The",
+          "pubDate": "Tue, 14 Jul 2026 20:10:37 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "E. Jean Carroll receives $5.6 million from Trump in sexual abuse and defamation case - NPR",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZzk3dm9YOVBPeUpxMVBpUVJiSGJWTXdDS1FXekh2RWlBMGhxNWVpbDZHLWdSVkVjOTJSNURjRHVTRmwxNV81QkxkTEg5bEwtZ2dleWF1VjlPTWE5MEQ4b1QxcGFyOU96dU1GQjlhVlk5d1dKbThGUWNUSGxQZldsZEFGR1pYLXpjcm1uVUFvM25YNUE?oc=5",
+          "description": "E. Jean Carroll receives $5.6 million from Trump in sexual abuse and defamation case NPR E. Jean Carroll Receives $5.6 Million Payment From Trump in Civil Case The New York Times E. Jean Carroll receives $5.62 million payment from Trump in sex abuse and defamation case after yearslong wait CBS News E. Jean Carroll receives $5.6M from Trump in sex abuse, defamation case CNBC E. Jean Carroll channel",
+          "pubDate": "Tue, 14 Jul 2026 18:00:35 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Alcatraz boat rescue: 1 killed, 2 missing after pontoon boat sinks in San Francisco Bay; SFFD rescue underway - ABC7 Bay Area",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMThqaFQ1akJiMzhPMFhGQjNITS1yMlUzQjlwVGhGb3E1b0xsR0hTa0VoRXVaRWFNYnQ2MnVrdC00TkVILVVyVDdzYlpPdUlQbk5xQk9UWFRNQ0tXNjlMN3BBX0l4N1BCeFNKOHNUZnlqVmF4NUVVRU5UT3RGUmVzYVBLdnN4LVRpNXF0WG1MSV9kNEJiMmdxeS1oNDRZVUU4c1V4QmNwZU3SAa4BQVVfeXFMTl9JbFBvbmpKMWd2VHJQOExud0dHREZEWDJRRmg1b1RTN0M1TEtOV2pJT3V5QU5Jall2QlZsWHlpc29wRy0yUTZaQ1lXdl8tWXQ3QVRkeWtRR0pHemx4Z0puX2gtMVRBY09MblJyUHRPM3BEc3R5cU5JTzAxRHo1VlppQ0JKVkkxdlZBelozT3hoYlZaeE11VTFlbFZLRUF0VzVFcU9lSWh2c3RScURB?oc=5",
+          "description": "Alcatraz boat rescue: 1 killed, 2 missing after pontoon boat sinks in San Francisco Bay; SFFD rescue underway ABC7 Bay Area One Dead and Two Missing in San Francisco Bay After Boat Capsizes Near Alcatraz The New York Times 1 Dead, 2 Missing After Pontoon Boat Capsizes Near Alcatraz Island People.com LIVE: 1 dead, 1 missing and 17 rescued after a boat exploded near Alcatraz Island KSBW Multiple res",
+          "pubDate": "Wed, 15 Jul 2026 02:34:37 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Man in Florida Fatally Hit by Truck While Fleeing ICE, Official Says - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91OUJXV012dDZoTDFSTHFxVnNUdmIwYWtqYm0xSTFVakp2VzFyV0t1YkZKNW9YLTNnb3pGZl95YnB2QmMzaEhQM2xVRHhUWUdwLUpFcEUxZ3F5NXd3QWZ2aE5YU1BJeGtIbWNpSzhRQjJraFowbEVhbFdfbUc?oc=5",
+          "description": "Man in Florida Fatally Hit by Truck While Fleeing ICE, Official Says The New York Times Encounter with ICE turns deadly when man runs from agents into path of semi in St. Johns County: FHP News4JAX Man fleeing immigration officers in Florida is struck and killed by tractor trailer, police say AP News Man killed after encounter with ICE in St. Augustine marks 3rd death involving agency nationwide i",
+          "pubDate": "Wed, 15 Jul 2026 02:04:39 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "borsa",
+      "n_items": 14,
+      "n_sources": 3,
+      "category": "economia",
+      "score": 48,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump: 'No pedaggio al 20% ma accordi commerciali con Stati del Golfo' - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WYlVkcHd2VGdCa2NSSGF0NmIzQlc2a1VtNm5sbV9wWE82VXdhZkN2NWlmcXRfWGRPUUd6aGVqWEF2U0I5RW13Q2dFUHZlNTdVZmJvR1dxREtLbmRXMXJuMVBpV2JZRkp4RDdpTkF4dk41V0xpYUlZZGtkMA?oc=5",
+          "description": "Trump: 'No pedaggio al 20% ma accordi commerciali con Stati del Golfo' Sky TG24 Iran: Hormuz resterà chiuso fino a che non cesseranno le aggressioni Usa ANSA Petrolio e gas continuano a correre dopo ripristino del blocco statunitense contro l'Iran Borsa Italiana I pasdaran bloccano Hormuz: missili su cargo e petroliere. E Trump batte in ritirata sui pedaggi la Repubblica Iran, Centcom: Avviati nuo",
+          "pubDate": "Tue, 14 Jul 2026 21:42:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse europee prudenti, Milano si allinea - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaDQxY0phV1IxUzB4UzBMU1B1akNZUDlDcVZsekM4ZGlVaWdGdU9iTzhucW9iVFdLVFd3Z0N6aTZFdHRuYzc4Z0ZSTy1XWWI3U3Y4aWMwbnlxZ3QxZHdjelVkb0xiXzk2RGhPZng0UmNZMG0wQXZvaHM4TGpVNE5JMmh1aExMaFBveEVpbTdMRkZhMG9hNzhVSmtYRndpVEZpbXNuT28zeEp3LVVLLUl4YkQ3WnNlWExmYWR0OG1PWmFrbXM4d0E?oc=5",
+          "description": "Borse europee prudenti, Milano si allinea Borsa Italiana Borse e petrolio 14 luglio | L'Europa chiude in positivo, il greggio supera gli 80 dollari al barile con lo scontro su Hormuz Corriere della Sera PUNTO DEL MATTINO EUROPEO: 14 LUGLIO 2026 Milano Finanza Guerra Usa-Iran, borse Europa in calo RaiNews Borsa: Europa apre in calo, Milano -0,6% ANSA",
+          "pubDate": "Tue, 14 Jul 2026 16:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Euro digitale, al test della Bce anche otto banche italiane: ecco quali sono quelle che partecipano al progetto pilota - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOdEpjZ0tIdll3Y2liSlNDQ0k4UzB6a0FWT2VsQlZpSm1sQ0NwUmMwYzNWUjU4bVYtY1pJcWpsX0J4QmYzSjBLQjhfVGdBcVZvVkI4Tk9ZTFZGaTRmMVlfY2lKLV9paHY3bVlMOVVZMXhfQkRsLUh0QVc4RU8zWE9KYlRSazJ3YmtKWTVRU1VzSXlvQjd6VGFzOHRHZTlGenBGN2VrLWZacERjZEo2S1VPVHhfcnEzaGJCUm5qRVVMR3NsZmREb015STN2TElQOWlkRWsyOHM3YzNhTzMzWXRWaGVBa0Nwd2l5ZVR3LTQyVVJ2Wndna1dGS3NwUE9McE1LbV9IRE55Ymw4SXB5QUJfcG5EY19fWmZBdXNNang3aXRCei1HU0NOSDFpQnBMQll1S21iZV9NSDfSAb4CQVVfeXFMUDIxREhLVUtlanpWX1ZMTjNUaG42ckVaT3g1bTd0czRmb0U0SUUzTHJQNUc4OF8yRURCeXFtSEwtSDZTLVRyNnZwaW5YMDJRckZZeE8yWDdLdEtkVEJkZTB3YWw1bU1pdUhLRWRVLW9GX3NRZEJnY1RNZFhyc25yQzd0engxVnpXRlp1ODBWSy1WcG1yOU9IU0hGS2o5eEIxbGcteFI0cVNSSmRCZldoYWdROVQ1ZUhGdFhnaWt3U0xKYXVtakFrUkdNR3RhWTA4cjBQMmNRbVRKNXpaQV8tbGUwMzltRkRzY2dfUGdZMEhfaWF4TVNCTGNtS2tfbzdxZGdKUHd5bHRYMlI4d1hINDMwN1QwU3hVYzU4TXhlYVZwSV9BbjItX1IyYWFlclJNaWNFWDBITkVDSjkxREZR?oc=5",
+          "description": "Euro digitale, al test della Bce anche otto banche italiane: ecco quali sono quelle che partecipano al progetto pilota Corriere della Sera Valitutti, isybank contribuirà all'evoluzione dei pagamenti europei ANSA BCE seleziona 36 fornitori per progetto pilota dell'euro digitale: 8 le aziende italiane Borsa Italiana Nexi, Il ceo Bernanrdo Mingrone: ecco perché l’euro digitale potrà favorirci Milano ",
+          "pubDate": "Tue, 14 Jul 2026 13:50:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Negli Stati Uniti l'inflazione è calata molto, ma rimane alta: a giugno i prezzi sono saliti del 3,5% rispetto all'anno prima - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTHM0NG1RYTRacl85YkI4dzQyeThhMWlGUkV4YWNvck5qeTRIMGs3N1JhU0tSN2V6TDRMVlUtbUdDd0ljZjZNWEttdmNLNzBGR0VEVzhLN1VucFI2aG5ZTUYyX0xmUXhPTi1lYzJSdnBfX0g2eFhQVDd4amMxMy14amp0RnJfVVJlcG13Ums2U3ZIRkQzS0RiVWZzRGM?oc=5",
+          "description": "Negli Stati Uniti l'inflazione è calata molto, ma rimane alta: a giugno i prezzi sono saliti del 3,5% rispetto all'anno prima Il Post Wall Street mista con focus su inflazione, trimestrali e Warsh Borsa Italiana L'inflazione rallenta negli Usa, a giugno al 3,5%, prezzi giù dello 0,4% ANSA Sale il prezzo di gas e petrolio, inflazione Usa in calo a giugno RaiNews Sorpresa CPI: inflazione cala più de",
+          "pubDate": "Tue, 14 Jul 2026 13:38:11 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Le azioni giapponesi perdono 82.000 miliardi di yen in 3 settimane: crollo dei chip AI o sano ritracciamento? - Yahoo Finanza",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZGNGOUJNMlpNWms4YnViNEc1Y09PeG5tM3p6Y3VRZGFHblJfOWNCdDdJaTEyaUxqVlZpNzBTRFh3bFU4dlBxYUJYVjV4eDM4VVJETGJ6VFN4RXNZYzhHTGRtc3M3cGxDeEVEeUZwUHQ0dC11MVR1cW1TUXJSaERndzdmb3RJY0RBTTJv?oc=5",
+          "description": "Le azioni giapponesi perdono 82.000 miliardi di yen in 3 settimane: crollo dei chip AI o sano ritracciamento? Yahoo Finanza Borsa: Tokyo, apertura in rialzo (+0,41%) ANSA Borse asiatiche in recupero: Shanghai vola a +1,98% SoldiOnline.it Borsa: Profondo rosso per Tokyo, in forte ribasso -2,74% alle 04:50 Borsa Italiana Borsa Tokyo: indice Nikkei chiude a 67.743,50 punti, +0,74% Il Sole 24 ORE",
+          "pubDate": "Mon, 13 Jul 2026 11:45:45 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "guerra",
+      "n_items": 7,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 48,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ucraina, Zelensky: \"Accordo con Parigi, primi ad avere missili Samp/t potenziati\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMlN5THlPUjJocU84MzRHeHhsS0ZaeXlhaGVkMkg3VTJFX3Bkb2pNN3pMQVZuMnBWd2VhbzhPNjNtZ19QdXBpS0huUVgtbnRmWFhIQmtLazlPQUJmSG96M0tnWUJNN211VW0zcEVacDBNWk1BRzNIdkRGcHZoQktJOXo1T181Wndj?oc=5",
+          "description": "Ucraina, Zelensky: \"Accordo con Parigi, primi ad avere missili Samp/t potenziati\" Sky TG24 Europa senza scudo né spada: ecco perché non abbiamo barriere contro i missili russi la Repubblica Guerra Ucraina-Russia, le notizie in diretta | Zelensky: «Accordo con Parigi, noi primi a ricevere Samp/t potenziati». Zuppi in Ucraina vede i prigionieri russi: «Il Papa vi è vicino» Corriere della Sera Dichia",
+          "pubDate": "Tue, 14 Jul 2026 21:58:58 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Parigi denuncia attacco ibrido russo contro l’Europa. Francia e Germania convocano gli ambasciatori - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT2FHSVpVcHc4MkVvcDBxalNYUjZyZk1keUlnem5kNTdGa1dmaFlVeG9Edk10aW1OcVBUTURfUGt3cnJVNElYQWNSdm9LYWRoMFVSMWVadUI0dWxYaXphLV9SZVlnQW83c3ZNNnYtYi1UM2w1QkxfaC1mZDFTX0FCSE9vOHg1YjU1ZjBtcFpqSDZwVGtGUGVTVk1HRnJoYzdtZGlDcHVGVG9HdTBqUXliaWwtd0hqOHRZSE5fZFdxMUI3YmpKUW5tSdIBzgFBVV95cUxQd0FsdHF0dUJCcS1hekZOMkw2bDBkUjlmdE53VmZsMkcxd2JyOVBIMUpFdk1uV0ZYd2ZwcTNHRHBNTE9KamlkRXo0RUdhckdNNW9uVEhXMW9YQkZYMnlRanNLUTBWZ0d6VVNfVnFpek16Nzh4d2tvcDFDNTQ4MVFfaUVMeUdUQ01WVHFGelY0MEhaOWNCTHI0dndwSHFmTXIzamRPYWQ0bkN2MjhUUGFqcmFjT2VNODRNXzg5MURCcjJONFQ4QXM2anFXaW9vdw?oc=5",
+          "description": "Parigi denuncia attacco ibrido russo contro l’Europa. Francia e Germania convocano gli ambasciatori la Repubblica L’Occidente reagisce alla cyberguerra di Putin, hacker russi sanzionati la Repubblica Cremlino, 'infondate le accuse alla Russia di attacchi informatici' ANSA L’Unità 71330, da Turla al Gru: chi sono e come agiscono gli hacker d’élite russa che minacciano l'Europa La Stampa Ue, Kallas:",
+          "pubDate": "Mon, 13 Jul 2026 10:45:26 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Blog | No a un altro anno di guerra in Ucraina per 'mettere in ginocchio la Russia': Putin ha già perso - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTWJyX1dTYzRkTzRDaVBKSndPVkM2UjRkM21yOWlSSW0tOXdtZTlzYVR4ZzR3Vjc1Q3J6ZnRIbzFpcUFZQlFHNHg4UmFya29xLVIyM241MkxLaG1wTDlDSTdWV0RSb0JGOFZiMW1aU3dFYUNKY1BtZWtIamt5cU9kcjYtQzlPaUl2ZDR3T19ncl9JOGstSmZFRjhKWVQ?oc=5",
+          "description": "Blog | No a un altro anno di guerra in Ucraina per 'mettere in ginocchio la Russia': Putin ha già perso Il Fatto Quotidiano Lavrov: “L’Europa tenta di minare gli accordi tra Usa e Russia sull’Ucraina” Il Sole 24 ORE L'Ayatollah Putin e i servizi segreti al comando: così la Russia prepara la mobilitazione strisciante (e riguarda anche noi) Corriere della Sera Ucraina: il rallentamento dell’avanzata",
+          "pubDate": "Tue, 14 Jul 2026 04:05:43 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "La Procura della Bolivia indaga sul reclutamento di giovani per la guerra in Ucraina",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/15/la-procura-della-bolivia-indaga-sul-reclutamento-di-giovani-per-la-guerra-in-ucraina_041b437f-5f4a-49cf-b2a1-ddf4735c4ccd.html",
+          "description": "Inchiesta aperta dopo il caso di due cugini partiti per la Russia e dati per morti",
+          "pubDate": "Wed, 15 Jul 2026 00:30:11 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse europee prudenti, Milano si allinea - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaDQxY0phV1IxUzB4UzBMU1B1akNZUDlDcVZsekM4ZGlVaWdGdU9iTzhucW9iVFdLVFd3Z0N6aTZFdHRuYzc4Z0ZSTy1XWWI3U3Y4aWMwbnlxZ3QxZHdjelVkb0xiXzk2RGhPZng0UmNZMG0wQXZvaHM4TGpVNE5JMmh1aExMaFBveEVpbTdMRkZhMG9hNzhVSmtYRndpVEZpbXNuT28zeEp3LVVLLUl4YkQ3WnNlWExmYWR0OG1PWmFrbXM4d0E?oc=5",
+          "description": "Borse europee prudenti, Milano si allinea Borsa Italiana Borse e petrolio 14 luglio | L'Europa chiude in positivo, il greggio supera gli 80 dollari al barile con lo scontro su Hormuz Corriere della Sera PUNTO DEL MATTINO EUROPEO: 14 LUGLIO 2026 Milano Finanza Guerra Usa-Iran, borse Europa in calo RaiNews Borsa: Europa apre in calo, Milano -0,6% ANSA",
+          "pubDate": "Tue, 14 Jul 2026 16:02:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "sempre",
+      "n_items": 7,
+      "n_sources": 6,
+      "category": "general",
+      "score": 42,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "Brand e tendenze influenzano la moda, ma il come 'mi fa sentire' vince su tutto",
+          "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/07/14/brand-e-tendenze-influenzano-la-moda-ma-il-come-mi-fa-sentire-vince-su-tutto_af2ca5eb-f2f9-4a33-981f-e80ac63bf106.html",
+          "description": "Vestibilità, comfort, esperienza personale sempre più rilevanti",
+          "pubDate": "Tue, 14 Jul 2026 23:15:47 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: l'Europa cerca il recupero, Milano +0,2% con Fincantieri in testa",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/14/borsa-leuropa-cerca-il-recupero-milano-02-con-fincantieri-in-testa_dc5d898c-5b50-480c-a49b-90ee20a845ba.html",
+          "description": "Lente su Hormuz con il petrolio e il gas sempre in rialzo",
+          "pubDate": "Tue, 14 Jul 2026 16:37:03 +0200"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "RedHook, il trojan bancario per Android diventa sempre più difficile da contrastare - HDblog.it",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOclR1eENJeklMQXFudk9oNWIyQnZuNG5aUm16RmZOaUQ2RFpGWlVGakdGaGJMV0o5VTRsYlFSaXc3TjlHb29oX2xEekdmUGF3ZU4zOVVoWTUzRjBvbmpNYzY5OC1BcTJfdExnX1Y1WkNJc3IwY1pDTE5maWNsYlE5T3U5ZTJUcXprNkJwMDVB?oc=5",
+          "description": "RedHook, il trojan bancario per Android diventa sempre più difficile da contrastare HDblog.it",
+          "pubDate": "Mon, 13 Jul 2026 17:08:12 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "Pagamenti sempre più digitali, spinta da Covid",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/pagamenti-sempre-piu-digitali-spinta-da-covid_730ee14b-27f0-49f4-b8a3-70d4ebf2476b.html",
+          "description": "Bankitalia, crescita per carte, bancomat e app fintech",
+          "pubDate": "Tue, 30 May 2023 10:41:09 +0200"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Ricchezza, non sempre la statistica fotografa la verità - Corriere del Ticino",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbE5kWk9zak5heEhoTXctczdTbk5SRXg2Ym9PamN5Sk5RSnpNck4zdWZlOUhhbnI4SXFEYWlhUWhHVVkwNnpfa2M1d0RqWnBIbFBKNTQ5RTFVQzRDQThiRllRdl93STMxZTNpbEJNLWhGN1NPaWhQeTgzSHBVWkE3b1ZqbTdxcFFjal8yOTNB?oc=5",
+          "description": "Ricchezza, non sempre la statistica fotografa la verità Corriere del Ticino",
+          "pubDate": "Tue, 14 Jul 2026 04:00:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "caldo",
+      "n_items": 9,
+      "n_sources": 4,
+      "category": "clima",
+      "score": 42,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ondata di calore, in Veneto allerta gialla. Verona è «bollino arancione». E chiudono i piani alti della Casa di Giulietta - L'Arena",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPRC1mc1FvSU84bVJsdEozS1lPMnk0YTJkXzktQnlrRjdiQ01ET2g4S3phTVBvbVNlUWRTeGlnMjNxaE9DREFWZmttdnZncHBVcTFzX0dmWklkS0owdnlEVm1icDJUa19xUnQtaDktQ2VWbW56cVRUS0liR19ka1dYRHNKWmlDMHVfcm1YUVFfeWpjbWNmM0FvTERhbUo5NERjNTd6U1RpRXg4enZQZjFDczFKWWd0bnctdWZtb1g5eXQ5bVFCeTRSbUc4NXN1c2pzOUhVdUlKc0NRWmVTMlcwOHZ3YmdUbzRPZ1N2RXBzMkU3YkRiR1NEOF9jUnBUZ2FwSFhFdHhB0gGLAkFVX3lxTFBfbzRldmhDTVBuQllubEZ0OG5jSVdJYk9BbE9hS1RRM3hHNmt5ZlhBa2Y4SVM3SUxJalp3TVNRd2JYMTA0ZVZidEtVZklCZW0xeHQycWtPWVNUc0JGbFh3bTFfZWxSTXVJOXgzaTB3M2ZNYkRMMHE1WkVfRUNVV29ScDlXam5lVU40LUt6clIybzNhdGxqQ2ZoTm5Gem15ZTRDMk5xNmFfcW9UaGZpb2VVdXRnaDV1SHhnQ2FvdERwa2dUM1dQZjNKM3RaX2YxbFFGRkotdXl1bTUxZ0VGWW9qX1RnMG9BTExpR1VCTE5oeDFGOHJoR09TUXhhVGtQeHlQU2xkaGJ5eHlmOA?oc=5",
+          "description": "Ondata di calore, in Veneto allerta gialla. Verona è «bollino arancione». E chiudono i piani alti della Casa di Giulietta L'Arena Caldo: due anziani ricoverati per un malore. Domani torna il rischio di temporali TrevisoToday In Veneto allerta gialla per caldo, domani anche per temporali ANSA Veneto, arriva la nuova ondata di calore: temperature fino a 38 gradi e umidità alta RaiNews Temperature in",
+          "pubDate": "Tue, 14 Jul 2026 15:58:39 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Ondata di caldo, sono sette le città da bollino rosso: temperature verso i 45 gradi - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbDgxaHpONWxOeHc1b2kwTjJvWmFtaW1fS2xtdXJVX1kxNHVtUmJqLUl1TTk0OUYtbEE4RDMyWUF1bjA2UHVOcmFYU0FCSS1PTWNOd1hIWjJHZmh1TUxBR3dmRFZCMVJQX1RtSDJjMWttd2E5aG5NS0t1M2E2Y2lLOVFSa2NRbFBEMDBmY3NWdDdPblRHTlVCNWwtZ0lKd0RSVGtESkpLRGE3Zms?oc=5",
+          "description": "Ondata di caldo, sono sette le città da bollino rosso: temperature verso i 45 gradi Tgcom24 Anticiclone subtropicale: quando finisce la terza ondata di caldo? iO Donna Previsioni meteo, verso l’apice di calore tra forti temporali al Nord e picchi di 40°C al Centro-Sud la Repubblica Meteo, ecco quando crollano le temperature e quando può finire davvero il caldo estremo Il Messaggero Che caldo fa a ",
+          "pubDate": "Tue, 14 Jul 2026 11:41:44 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "La città che ha abbassato il caldo di due gradi con appena 6 euro per abitante - today.it",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMkpnWWY5MEh0cVk1X2J4bDZ3TXhpMEZVejQ1NElBNXhfaXBnN2Q4T0pYekVJRG50bUhRT2tZeUtmZmEycjM5LUdKekVhYTZtWGFUYWQxczZ4eEVpOXBVOERCRXpqU0pLbGJwUjNIOWVHZ3VIOHJ3dGw4bEFWbDdUeWExTWszMzcyQUFrM21PQmtQRXVDSG94bVUzR1ZQZ9IBngFBVV95cUxOdHRqSzFsOE9KN0dKUlJhSmRuWDM3b3piMUlnOHBjd0JOM0JKVHNpc3A4WTBTTTEyMHl6TWN0UWl0ak5DRnFBd0c3eEJfMV9qZE5OWm9jZ3pvQVQtb01naHRlNmZibjJUMWN1MUJOWG1tVmx6Sm9Sa1Q2bURUZUE0bGF3d1BLY3FyTk1TNzM5RUJwbDZEc3Z5VDFSUTdQdw?oc=5",
+          "description": "La città che ha abbassato il caldo di due gradi con appena 6 euro per abitante today.it",
+          "pubDate": "Mon, 13 Jul 2026 15:54:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Caldo, Piemonte senza acqua: chiede aiuto a Valle d'Aosta e Canton Ticino - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5Q3FHWFpIUXZFdVp0WXZLSG1WR0VsZzgyNmVybWJJSU1SWmY2Ti0xcU9CaUVwNkp1MlhiUW8zQnhjRWg3bHVXVkJzVXlOejRoYTBuYmdEem85RWRINlVOeXdBMzR4WjVBMEVfQ01ydExMcmZLeU1FSENB?oc=5",
+          "description": "Caldo, Piemonte senza acqua: chiede aiuto a Valle d'Aosta e Canton Ticino Sky TG24",
+          "pubDate": "Mon, 13 Jul 2026 18:51:25 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Caldo estremo, cuore a rischio: il 70% delle morti per cause cardiovascolari - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONXhqYjFLYkU1M0FfTjBTaUFpb0dKLUxWaWpMYVlZbU9RY1BWVU9TbTN1QjdPdTZJaXhYUFUycFEta0Q1REs5Mk44b1RhQmhibEtSclBYNGJVdFYxaURtLVFPTnFlU19QaXdlSjFoY0J2cnFSblJaejBOek5lclN2WjF4YnBfektVUE1KR19QQUlJd19RQXVVRjVhYjBuYlBZY09IbUl6WVNLQQ?oc=5",
+          "description": "Caldo estremo, cuore a rischio: il 70% delle morti per cause cardiovascolari Il Sole 24 ORE Caldo estremo, come influenza le funzioni del nostro cervello: cinque strategie per proteggerlo (c'è anche il cioccolato) Corriere della Sera Ondate di calore: i 10 consigli per proteggersi dal caldo La Gazzetta dello Sport Il caldo mette alla prova la salute mentale, aumentano i ricoveri ANSA Caldo estremo",
+          "pubDate": "Tue, 14 Jul 2026 09:32:09 GMT"
+        }
+      ],
+      "macro_area": "clima-salute"
+    },
+    {
+      "keyword": "auto",
+      "n_items": 9,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 42,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Cremona, undicenne chiuso in auto sotto il sole si sente male ma riesce ad allertare il 112: salvo. Denunciata la mamma - Corriere Milano",
+          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNNkJsNTU5WlFVZGlEWHUycXdUdnhpbFZuTmNVLW1YemhRdE04Q0NXS0loYkNXREZYZmZXMHJydmhCQzVaMDNQcGxELWc3UmxHWkNVWE9CcGlxRko4WGEzX0FGeXhpTkFOVlp4WjBDeEoxTU5rdHhNWnUxSEhScDF6bVU2c1p3Z29tUVdlYUdRUXRKM1Z0WEhnbU51bGJManpMSDBlZzBGQWxxQzZjUTBJdk03VDZQQ0xoTGl4S1RwaHJ2UExqdHhtbWFtVEtET196VDViNWQ4R1NrbFpfTFRCQUswRmtKbkV4YzNxaE5SdHlmZTRUS184R3VpeUM0czhYakdXRUxMMzhKVjFCWjF4eVZsRnNPMVVaMExrT1ZzNkwxc1VGTlFIejRIRF93S3MycVY2ZmotLXkzREHSAcACQVVfeXFMTXk5U2NpNjJkbTlGSjEzLWN4c1l5MVFucjBHeUZrY0VhM0FYUXBBSDh6bXhaZ3QxN0lEc2c5VTA0dUIzcUxCbU9UMlRDaDNteVdJQ2RmVjdIX0ZGOTFnRGRWV0NWQm8tNDdvbmRiOFhPVlMwbm1aSEFSbmZLTVRxTjB2eXZBMlhoZE9IVFFoa0ZjZll5cGVoeVpjanUybjVxYnZYcjZHV24tRS00Nk82dy01RVdFQWY5Z0t4SXlwcEtFbDdIVGZhMHBzaGRfcTN3WnIxYnRUUm92Ty1WVXViMnpjTlB4VWE5UFkwTTJhMm1JczZDZWZKUUthUWEwNEpiSHl4N3U1WEZ5b3R4NVNqN1FYZmVEa2RiVWExU0NqbXlhQl9raTlVTmFGb3FnUmJSRnhJY3lFWkV5T1FRTTBNNXU?oc=5",
+          "description": "Cremona, undicenne chiuso in auto sotto il sole si sente male ma riesce ad allertare il 112: salvo. Denunciata la mamma Corriere Milano Bambino chiuso in auto con difficoltà respiratorie: salvato dall’intervento della Polizia Cremonaoggi Controlli della Polizia, 140 persone identificate: denunce, allontanamenti ed espulsioni La Provincia di Cremona Undicenne chiuso in auto si sente male, liberato ",
+          "pubDate": "Tue, 14 Jul 2026 16:49:05 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Decreto «Autovelox», esposto contro il ministro Matteo Salvini e tre dirigenti del Mit: «Mancano le prove tecniche» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPOEtYRk16eS1ZcmswRENPeUk1NTZ3WnlIY1hSZV9LRWRmRndJUTlmaGdrbW1kLXotQ2FkNjREQU9BQ1ZUY0pCejNHU0hmcEJrZnRoalNkT1pHaUt4bXVrOG5tNDdScVB6bUIxSU1McFIwSVN2MlJISHd0bFNnVm5Ga0NPWE85RWZiSDBUVXFiMmlfWHJUZFp4b0hXZlh0OHcwQnFiOVc4cWdraENEbzVuQ0ZrSmhyRmp5RjBQeUhKSVJDZmNzU3RPWUtqTVF1dDFyN3VRVW5zUHpfcEplSWk1SXY1S2h6NUQzSU50MGN6YWF0aEpCT05CNHg1NnFYcmt2Y0NXTFhxQjktOG9PWTNVZS0zb0Z0NFF0ZElKanAxNFhPZDRU0gGqAkFVX3lxTE5FdkRBR1JFZ2F5RFgzcmRWTjRNeDdON0VQY1lJbHEwdWMyVWRXTWNYV3h4MUZ3X0lqbFdGSi1NdlVhSDlFMEltYVYyVWoxZWJ1TWs4Z2xYMlBBcWtfRWNTQ0ZEQnpXMmhJUVd5UGlxOTZHb0lwYklGVXhKdU50Vm1yZUtRQW03dlR0bnZFRFFjS2Uxanl2UTNLRHlQS0NpVl9XWHZyR3NJZ0Q5cTZBakJVS0dtUm1fUE14dkdyRFZtd25oLVk4aDVSUTNSNWJlVk1UVXNBdzM3RlQxWFlBWFg3aXplQzNwdkRIdkhOTGgwXzIteEJOeEwwYklBSlB6NUtqem5jalpJc19YSUwxWU5NYm9RSkcxbnF6YWU0VDd2blVDY1Jrd0tZQ1E?oc=5",
+          "description": "Decreto «Autovelox», esposto contro il ministro Matteo Salvini e tre dirigenti del Mit: «Mancano le prove tecniche» Corriere della Sera Velox, Provincia fa partire i contro ricorsi sui contenziosi aperti. In studio un nuovo dispositivo La Stampa Autovelox, l'associazione Altvelox querela il ministro Salvini RaiNews Svolta sugli autovelox anche a Milano: quali sono stati spenti e dove si rischia an",
+          "pubDate": "Tue, 14 Jul 2026 17:51:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Industria auto al collasso, Urso attacca l'Ue: \"Il Green Deal ha messo in crisi il settore auto\" - Virgilio",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS3BjdU1QaGpNNHpMWGsyUlk2WDhzQjlfVTBtTVluLUQ5U1pKNWVPcHloejVaSUNIN2swdGNHZE5MQWM5TjVIZXVXWmpCLXg4b0VZUjZjZWlSVXVvMS13TnVwWkllV2d0OHVaaWQ1MEE1UjZ2b2xjbnNnVjhxekYtYzR3bkVTbGs1Ql8zX19kZjF5YkREczlIREswQQ?oc=5",
+          "description": "Industria auto al collasso, Urso attacca l'Ue: \"Il Green Deal ha messo in crisi il settore auto\" Virgilio Auto, sindacati contro il governo: “Soldi insufficienti, tavolo senza gambe” la Repubblica Urso all’Europa: “Entro l’anno le riforme per l’industria”. Le Regioni: una Zes per l’auto La Stampa Cappellano, le regole europee stanno penalizzando tutta l'industria automotive ANSA Crisi Volkswagen e",
+          "pubDate": "Tue, 14 Jul 2026 13:31:02 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borsa: banche sotto pressione tra attesa trimestrali Usa e mosse risiko, Bpm -2% - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNM0hfLUxDNWJOWFI3U2NYXzU1TDg5RHJOclFma2tpYXlPb3M1ZFh2eC1YMlE2d01yY3NMSUZGNFN0M2JfOXN2Tm54cGJ2NVM3cG53d2JabUZtM1JXcUxoSFJoeWZ5MVhiVjhKS25vVE1UZlZBRC1MaHpLMHFqTEVnaG9ZclN1cXJISHNnd05GR3J2TzdlYXFWakdRWjVPbXNJM2dTTzJFWE9DdTBLcE5yc25MeVhWTVNzazRneVFtZ1Nad2UwTU1uUnVXb2xuZHZKRk1MSzJmMldibE1RM2FXZzVfWWJpT1lrd1ZOWDhtSGJTazVubVRIcGJkOVFxWjhZWHhxUDVtSElLOGg4?oc=5",
+          "description": "Borsa: banche sotto pressione tra attesa trimestrali Usa e mosse risiko, Bpm -2% Borsa Italiana Banco Bpm passa al board di Montepaschi la palla sulla fusione Milano Finanza Banco Bpm in pressing su Credit Agricole per preservare l'autonomia Adnkronos Mps, ancora suspense sulle offerte. Bpm aspetta a scoprire le carte Quotidiano Nazionale Bpm, oggi il cda sul risiko bancario il Giornale",
+          "pubDate": "Tue, 14 Jul 2026 09:20:29 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Crisi dell'auto, quanti sono i dipendenti del gruppo Volkswagen: gli stabilimenti, i numeri, i più a rischio - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOZUJPSE5xRTdOc1N0OVZlTmdHQW5MeUthR3gyUHlOd2E0WkM1VzhIb1Azd0NZcGJVRjEyT2syNTA5TV9fUmNsRmhxVVRUdG5DY1JiOG1QMHI2RzVzT2dPNU1hYWMtWEtPX3ozTG4wVnJnRG5TSUhmaDU0WDAxaEdIcUYtWjYzY3RBZ1JzUjdMMTF0WFB1Y0c5ZnczYVpOOEtZQTRRdlpFSE53akdKb0dKaXN4SS1WNjF5MWxFeVFkZ1U4WmEtTFhzQ1BVX096eG1zRzF6MHhEcXdrSG1KXzVGRHZoVG02TEZRNEpNY1FMWU1IVW5DejE5UXJnNG50SHlFRTczaXRneHhjbjZsVmlhZHRtTEwzOXRkd0wwMzZWUlB6NGx5eFJZUdIBrgJBVV95cUxObGxjeWtfTDl2MFk2VkNwVkhxZHdhME1ON0ZIT3Vzem91Q2ZUckZSc1p4c3lOdkhoX0FwSDg1VlpxSDhRUnRZOXRJQnhEX1ZLOUc5dkxCT1FvbW9lcnVfSmR3a0owLXRIUnVhbzVxVHpKODBac3ZFaFRjbnAxNnhFLU9id3RWai1hZTlMMTZZVk44OUR0a054aWkyYmtZWGdlTFFKMTJIUFNQY3JUNHlvdlVxYjF4ZS03WDFlS010YzByc0VBcV9fY29WWWktMkJxYkd1cVJ4MVdtcGhqbDlGTXNNTXpscFdRbEU2RHdqWmZHbTBJYWVEZEdDeTRxN0x5dF9tZ1RSV01rZm9neTFaVDB6N0h6SEh4VHRHYXp3dzVNS1JtdTE5aEN2UXV6QQ?oc=5",
+          "description": "Crisi dell'auto, quanti sono i dipendenti del gruppo Volkswagen: gli stabilimenti, i numeri, i più a rischio Corriere della Sera Gruppo Volkswagen: quali modelli finiranno sotto la scure dei tagli? alVolante Perché la crisi di Volkswagen continua Il Post Crisi Volkswagen, l'ad Oliver Blume: \"A rischio fino a 50mila posti lavoro nel gruppo\" Sky TG24 Crisi Volkswagen, Blume conferma fino a 100.000 l",
+          "pubDate": "Mon, 13 Jul 2026 15:27:36 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "governo",
+      "n_items": 7,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 41,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Il fratello del premier Sánchez condannato a 9 anni di interdizione dai pubblici uffici - AGI",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ0xFZmsxVm4yOTZ2TGpfMHFCZGl3YnVoRmNUSkhZSmtkd3M3dS11cmhabU9wZE9jY214cWNjcktTTmNBb05BVWdPdkpvMWx1SkpSM2hiYW1sUGItTmgwdEgyVFl1UV9VQjlfWEdMWThfM1EyVXc4a0FCVm4zcXlRcTZyRGdBa2RZaXVTWWJIMA?oc=5",
+          "description": "Il fratello del premier Sánchez condannato a 9 anni di interdizione dai pubblici uffici AGI Condannato per abuso d'ufficio il fratello di Pedro Sánchez Corriere della Sera Condannato il fratello di Sànchez: il governo spagnolo torna in bilico Il Fatto Quotidiano Il fratello del primo ministro spagnolo Pedro Sánchez è stato condannato per abuso d’ufficio Il Post Spagna, il fratello del premier Sánc",
+          "pubDate": "Tue, 14 Jul 2026 13:23:05 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Industria auto al collasso, Urso attacca l'Ue: \"Il Green Deal ha messo in crisi il settore auto\" - Virgilio",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS3BjdU1QaGpNNHpMWGsyUlk2WDhzQjlfVTBtTVluLUQ5U1pKNWVPcHloejVaSUNIN2swdGNHZE5MQWM5TjVIZXVXWmpCLXg4b0VZUjZjZWlSVXVvMS13TnVwWkllV2d0OHVaaWQ1MEE1UjZ2b2xjbnNnVjhxekYtYzR3bkVTbGs1Ql8zX19kZjF5YkREczlIREswQQ?oc=5",
+          "description": "Industria auto al collasso, Urso attacca l'Ue: \"Il Green Deal ha messo in crisi il settore auto\" Virgilio Auto, sindacati contro il governo: “Soldi insufficienti, tavolo senza gambe” la Repubblica Urso all’Europa: “Entro l’anno le riforme per l’industria”. Le Regioni: una Zes per l’auto La Stampa Cappellano, le regole europee stanno penalizzando tutta l'industria automotive ANSA Crisi Volkswagen e",
+          "pubDate": "Tue, 14 Jul 2026 13:31:02 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Panama, il governo studia il futuro della miniera da 10 miliardi",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/15/panama-il-governo-studia-il-futuro-della-miniera-da-10-miliardi_f0048489-d584-49e4-bf27-c0d259c3b9e0.html",
+          "description": "Nei prossimi mesi raccomandazione al presidente Mulino sul giacimento chiuso nel 2023",
+          "pubDate": "Wed, 15 Jul 2026 04:17:51 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Venezuela, Machado-González convocano opposizione dopo apertura del governo al dialogo",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/15/venezuela-machado-gonzalez-convocano-opposizione-dopo-apertura-del-governo-al-dialogo_cc53dffe-023a-4750-a547-1e1a9bcbda2e.html",
+          "description": "Vertice domani per valutare la road map proposta tra esecutivo e il Parlamento del 2015",
+          "pubDate": "Wed, 15 Jul 2026 00:47:01 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Il governo accelera sulla Consob, possibile martedì in cdm - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNkZKVFVhVmFwSzM3V09NeFVZdDJYMEdjSm9DSm1reFEwZUFob1F1Y2tXeTRGWWJHMW4xVVlNN2NZWFkxMWtYdDlSZGdyWTFrUk5BY0NlRmlSX2JCeVVycGo4VjRtQUpsZEtTVjE5V2hjTWE3bmdxY0tOd3BCTjBIWW5LRXp2SDlxRHBCOWJiRFJ2dXp2a09WbmZWNWoyOG1CNDNoaFhWa2c3N1hSRWZyZkplRTZSNFh2MGg2VkhrQ1h2MW1jWTgtY0pLY0w3MEJNT1RVSWszbzU1LXMzTHNGS2pmQ0VnbUFuUk9N0gHwAUFVX3lxTE5nN1hGWWtWZWtkWUU4TUhqRG1DX2lteXF3SmhZbEwxM3ZOUWZtYU0yUE1DV0JfdzZxV1R6bHRzRnpXUVpHNllEbHAtZkg2LWVmUlF3QzhhT0xPZ1EwUGVOZWI1VG1CR1JvUzZWYThpMU1Fem5fazNhOGdRcDA5WG9OU3A1enNqcFJwMGFRMEgxQ2U0T1EyeTVNazVlZTJSRTBYbUdzWGdSNmdXQmhMZEJXajhFMUdiN19nZ2E5ZWRZem9idGdWSElveXdrcERKYlZjOEVTaUNhMmZPdUQzX0Nuc3RaNUhWUmRVZ0p5WGtLMg?oc=5",
+          "description": "Il governo accelera sulla Consob, possibile martedì in cdm ANSA Il governo scioglie il nodo Consob, si tratta sul pacchetto di nomine ANSA Stazi, il tecnico pacato che guiderà la Consob negli incastri del risiko la Repubblica Consob: da Cdm ok a procedura di nomina Stazi nuovo presidente Il Sole 24 ORE Consob, Guido Stazi verso la presidenza: oggi la nomina in CdM Borsa Italiana",
+          "pubDate": "Mon, 13 Jul 2026 18:15:41 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "crisi",
+      "n_items": 7,
+      "n_sources": 5,
+      "category": "general",
+      "score": 35,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Paolo Cremonesi, il medico dei ragazzi della Diaz: “Vi racconto la notte della macelleria messicana” - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdUpXRGlSamdLSXhVaV9oN3U1Y0JFRHozMHh1dXhYUVN5Q2czMjUwV0JzazZkajFQVWpRdk1tR0FaN1FzS3dTWUI0VEl5bUstUXNKcksyNFdQM2UyOE1Ec09xZGltYjNwUTMzam5iZUJGSVlLVExYTWFnYlFrZkNKQW1QbHloMTh6bUROVzlwRVlsNzRhSFBBSkNLWl9fRWhXTGgzWnJJeHhQR1VIdVNmOVNNU05XbW51blNsWFd3a1N6Zl82eVJmbmRUS25WdDDSAdQBQVVfeXFMT25XNGdLOVA3dmttcjhkUFowSVlCUU1IYmpncUhMOW44M29SSkt1UnBaOUJlU1RVZ2s4MGNyVW9lcjRzM0RvOFdrT195OG1ucHpSMXRWQU9ZZDR1VWFqSm5BYUJrQWdlUkxhdEhOR3ZFWUZSS1NQTXRtTUtYY0xabmZmYjVkZGxRV2F4azZIWUxrS1J5bXdLS3A1MjBrRDFneEp0ZWpTSVdyQ3FmNDJGeV9XQ2hHUXFTUjF6MVE2ZDM1bUQxMjd3Y0N4bHhORWxOZ3pZN1o?oc=5",
+          "description": "Paolo Cremonesi, il medico dei ragazzi della Diaz: “Vi racconto la notte della macelleria messicana” la Repubblica G8 di Genova, la sferzata di Landini: “Da lì iniziò la crisi della democrazia” Il Secolo XIX Il G8 di Genova del 2001: Diaz, Bolzaneto e Carlo Giuliani, una ferita ancora aperta Amnesty International Italia MillenniuM presenta a Genova numero speciale sui fatti del G8 Il Fatto Quotidi",
+          "pubDate": "Mon, 13 Jul 2026 23:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Industria auto al collasso, Urso attacca l'Ue: \"Il Green Deal ha messo in crisi il settore auto\" - Virgilio",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS3BjdU1QaGpNNHpMWGsyUlk2WDhzQjlfVTBtTVluLUQ5U1pKNWVPcHloejVaSUNIN2swdGNHZE5MQWM5TjVIZXVXWmpCLXg4b0VZUjZjZWlSVXVvMS13TnVwWkllV2d0OHVaaWQ1MEE1UjZ2b2xjbnNnVjhxekYtYzR3bkVTbGs1Ql8zX19kZjF5YkREczlIREswQQ?oc=5",
+          "description": "Industria auto al collasso, Urso attacca l'Ue: \"Il Green Deal ha messo in crisi il settore auto\" Virgilio Auto, sindacati contro il governo: “Soldi insufficienti, tavolo senza gambe” la Repubblica Urso all’Europa: “Entro l’anno le riforme per l’industria”. Le Regioni: una Zes per l’auto La Stampa Cappellano, le regole europee stanno penalizzando tutta l'industria automotive ANSA Crisi Volkswagen e",
+          "pubDate": "Tue, 14 Jul 2026 13:31:02 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Giuliano (UGL): \"Crisi posti letto, serve un piano straordinario di investimenti e assunzioni\" - Il Tempo",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOFZIeUhVcVRoR1VUZjU5OVpHb1NvWE9wY2lYclhkN3BBSkVXWm42ZmI4N0d3MEluSUVBYmZidXNqdVhHT19DWlRiMC0xWEZpa09FWkt2M2l3ZE9nNkxlMTNxUDdEczZlSUZ3ekJyVkVXZ2ppUFU4OUNuaVBtUDFLbWJya0Z4TUlSWkNPY0NrRDJfWnhxdW1ZQ0tycElmYVNfZ0M5THNydzJSV0FUVG5kaV9FWVNSY0IwZkVSTnhWejhEd9IBxwFBVV95cUxQUWFLeGc2azVLczRkTEJORHZUTlpUb3lxblM1MEtKcjFBWVB6dmEwRXlFXzhFVUxnc3B1YWF1cVdnR3JRd1NpM1VoVWRoOFZ3dEJrNE1oOHF4LUo0aW51bDhOZFoyQlpCbzJ6by1kV0kwQVloTFNiYzFwRDdoNy1MNEt4ZE41WGh5X0Fvb1NWaGRnQ3Rtb1lIY2YteFhIYVUtMUpPOVJWRHNpMmJVWFI2d0haSkhwMmx1VXpvQmRacEV6V2FYYmV3?oc=5",
+          "description": "Giuliano (UGL): \"Crisi posti letto, serve un piano straordinario di investimenti e assunzioni\" Il Tempo Ospedali. L'Italia resta tra gli ultimi in Europa per posti letto, il divario con la media Ue sfiora il 40% Quotidiano Sanità Posti letto ospedalieri, Italia lontana dall'Europa: Anaao Assomed presenta la sua ricetta anaao.it Sanità non è solo posti letto Il Foglio Posti letto, Italia sotto la m",
+          "pubDate": "Tue, 14 Jul 2026 10:10:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Crisi dell'auto, quanti sono i dipendenti del gruppo Volkswagen: gli stabilimenti, i numeri, i più a rischio - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOZUJPSE5xRTdOc1N0OVZlTmdHQW5MeUthR3gyUHlOd2E0WkM1VzhIb1Azd0NZcGJVRjEyT2syNTA5TV9fUmNsRmhxVVRUdG5DY1JiOG1QMHI2RzVzT2dPNU1hYWMtWEtPX3ozTG4wVnJnRG5TSUhmaDU0WDAxaEdIcUYtWjYzY3RBZ1JzUjdMMTF0WFB1Y0c5ZnczYVpOOEtZQTRRdlpFSE53akdKb0dKaXN4SS1WNjF5MWxFeVFkZ1U4WmEtTFhzQ1BVX096eG1zRzF6MHhEcXdrSG1KXzVGRHZoVG02TEZRNEpNY1FMWU1IVW5DejE5UXJnNG50SHlFRTczaXRneHhjbjZsVmlhZHRtTEwzOXRkd0wwMzZWUlB6NGx5eFJZUdIBrgJBVV95cUxObGxjeWtfTDl2MFk2VkNwVkhxZHdhME1ON0ZIT3Vzem91Q2ZUckZSc1p4c3lOdkhoX0FwSDg1VlpxSDhRUnRZOXRJQnhEX1ZLOUc5dkxCT1FvbW9lcnVfSmR3a0owLXRIUnVhbzVxVHpKODBac3ZFaFRjbnAxNnhFLU9id3RWai1hZTlMMTZZVk44OUR0a054aWkyYmtZWGdlTFFKMTJIUFNQY3JUNHlvdlVxYjF4ZS03WDFlS010YzByc0VBcV9fY29WWWktMkJxYkd1cVJ4MVdtcGhqbDlGTXNNTXpscFdRbEU2RHdqWmZHbTBJYWVEZEdDeTRxN0x5dF9tZ1RSV01rZm9neTFaVDB6N0h6SEh4VHRHYXp3dzVNS1JtdTE5aEN2UXV6QQ?oc=5",
+          "description": "Crisi dell'auto, quanti sono i dipendenti del gruppo Volkswagen: gli stabilimenti, i numeri, i più a rischio Corriere della Sera Gruppo Volkswagen: quali modelli finiranno sotto la scure dei tagli? alVolante Perché la crisi di Volkswagen continua Il Post Crisi Volkswagen, l'ad Oliver Blume: \"A rischio fino a 50mila posti lavoro nel gruppo\" Sky TG24 Crisi Volkswagen, Blume conferma fino a 100.000 l",
+          "pubDate": "Mon, 13 Jul 2026 15:27:36 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Carburanti, rialzi alla pompa dopo la nuova crisi USA-Iran: perché sono ingiustificati - HDmotori",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZX3RFQmRhRGVGTGZoWXBnRnppSl9wRGpaTE5tdDVjTWJlbDRKWW1TTFh5RVI3YWVnZEZKRFUwOHlBRUpzTlBneEIyS0hsaG9GNmVvc3NDdzBnYjN1QjRmcTJyUkZXcG45Uk0wcWswZGVYbkJvZzVlTHpRWk4?oc=5",
+          "description": "Carburanti, rialzi alla pompa dopo la nuova crisi USA-Iran: perché sono ingiustificati HDmotori Mimit, prezzi carburanti in aumento, benzina self venduta a 1,884 euro ANSA Carburanti, Urso: se blocco Hormuz persiste pronti a interventi mirati Borsa Italiana Carburanti in continua salita: il diesel ha superato i 2 euro in dieci regioni italiane | Quattroruote.it Quattroruote Prezzi carburanti, scop",
+          "pubDate": "Tue, 14 Jul 2026 08:48:46 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "chiude",
+      "n_items": 8,
+      "n_sources": 3,
+      "category": "economia",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Borse europee prudenti, Milano si allinea - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaDQxY0phV1IxUzB4UzBMU1B1akNZUDlDcVZsekM4ZGlVaWdGdU9iTzhucW9iVFdLVFd3Z0N6aTZFdHRuYzc4Z0ZSTy1XWWI3U3Y4aWMwbnlxZ3QxZHdjelVkb0xiXzk2RGhPZng0UmNZMG0wQXZvaHM4TGpVNE5JMmh1aExMaFBveEVpbTdMRkZhMG9hNzhVSmtYRndpVEZpbXNuT28zeEp3LVVLLUl4YkQ3WnNlWExmYWR0OG1PWmFrbXM4d0E?oc=5",
+          "description": "Borse europee prudenti, Milano si allinea Borsa Italiana Borse e petrolio 14 luglio | L'Europa chiude in positivo, il greggio supera gli 80 dollari al barile con lo scontro su Hormuz Corriere della Sera PUNTO DEL MATTINO EUROPEO: 14 LUGLIO 2026 Milano Finanza Guerra Usa-Iran, borse Europa in calo RaiNews Borsa: Europa apre in calo, Milano -0,6% ANSA",
+          "pubDate": "Tue, 14 Jul 2026 16:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Le azioni giapponesi perdono 82.000 miliardi di yen in 3 settimane: crollo dei chip AI o sano ritracciamento? - Yahoo Finanza",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZGNGOUJNMlpNWms4YnViNEc1Y09PeG5tM3p6Y3VRZGFHblJfOWNCdDdJaTEyaUxqVlZpNzBTRFh3bFU4dlBxYUJYVjV4eDM4VVJETGJ6VFN4RXNZYzhHTGRtc3M3cGxDeEVEeUZwUHQ0dC11MVR1cW1TUXJSaERndzdmb3RJY0RBTTJv?oc=5",
+          "description": "Le azioni giapponesi perdono 82.000 miliardi di yen in 3 settimane: crollo dei chip AI o sano ritracciamento? Yahoo Finanza Borsa: Tokyo, apertura in rialzo (+0,41%) ANSA Borse asiatiche in recupero: Shanghai vola a +1,98% SoldiOnline.it Borsa: Profondo rosso per Tokyo, in forte ribasso -2,74% alle 04:50 Borsa Italiana Borsa Tokyo: indice Nikkei chiude a 67.743,50 punti, +0,74% Il Sole 24 ORE",
+          "pubDate": "Mon, 13 Jul 2026 11:45:45 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borsa Italiana, il commento della seduta del 14 luglio 2026 - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTXdlUVlZcElySnVRMWRnWE1fNnFqUm5oWHg3cnZlN3pYOHg1OTBUN1g5cGl1LUEtSG1FYnNKVkxaci1vY1I3VmdVZjhYc0xZS0NZaEdwMTJnemh1a3BQLXdFWnNnNFd6Wmpzak5halRvOHZZZm0wMDFMeVdmZVllSFdQSGVuZ1dNTHZJYVhkNFlHSlYwV0tWNmo5c2Q?oc=5",
+          "description": "Borsa Italiana, il commento della seduta del 14 luglio 2026 SoldiOnline.it In rosso le borse europee, a Milano bene Prysmian Borsa Italiana Mercato piatto Milano Finanza I titoli del giorno a Piazza Affari, giù i titoli bancari. Bene il tech Borse.it Borsa: Milano chiude in lieve rialzo a +0,1% con Prysmian in testa ANSA",
+          "pubDate": "Tue, 14 Jul 2026 15:48:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Il petrolio sfiora 80 dollari, chiude in rialzo a New York a 79,07 dollari",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/14/il-petrolio-sfiora-80-dollari-chiude-in-rialzo-a-new-york-a-7907-dollari_c8c894c6-d13b-41b8-a332-98050938d156.html",
+          "description": "Le quotazioni guadagnano l'1,19%",
+          "pubDate": "Tue, 14 Jul 2026 20:45:28 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Lo spread tra Btp e Bund chiude a 77 punti base",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/14/lo-spread-tra-btp-e-bund-chiude-a-77-punti-base_dbf15895-9698-4192-b8e5-c1c11b587aee.html",
+          "description": "Il rendimento del decennale italiano sale al 3,88%",
+          "pubDate": "Tue, 14 Jul 2026 18:08:08 +0200"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "città",
+      "n_items": 6,
+      "n_sources": 4,
+      "category": "clima",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ondata di caldo, sono sette le città da bollino rosso: temperature verso i 45 gradi - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbDgxaHpONWxOeHc1b2kwTjJvWmFtaW1fS2xtdXJVX1kxNHVtUmJqLUl1TTk0OUYtbEE4RDMyWUF1bjA2UHVOcmFYU0FCSS1PTWNOd1hIWjJHZmh1TUxBR3dmRFZCMVJQX1RtSDJjMWttd2E5aG5NS0t1M2E2Y2lLOVFSa2NRbFBEMDBmY3NWdDdPblRHTlVCNWwtZ0lKd0RSVGtESkpLRGE3Zms?oc=5",
+          "description": "Ondata di caldo, sono sette le città da bollino rosso: temperature verso i 45 gradi Tgcom24 Anticiclone subtropicale: quando finisce la terza ondata di caldo? iO Donna Previsioni meteo, verso l’apice di calore tra forti temporali al Nord e picchi di 40°C al Centro-Sud la Repubblica Meteo, ecco quando crollano le temperature e quando può finire davvero il caldo estremo Il Messaggero Che caldo fa a ",
+          "pubDate": "Tue, 14 Jul 2026 11:41:44 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Festino, la notte che muove Palermo: attese 400 mila persone",
+          "link": "https://www.ilsole24ore.com/art/festino-notte-che-muove-palermo-attese-400-mila-persone-AJXLs4H",
+          "description": "Quando stasera il carro di Santa Rosalia partirà da Palazzo Reale e imboccherà il Cassaro, Palermo sarà già una città diversa. Il Cassaro è l’attuale corso Vittorio Emanuele, la strada...",
+          "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Liquid Planet: microalghe e biotecnologie per rigenerare l’aria nelle città con tre piattaforme integrate",
+          "link": "https://www.ilsole24ore.com/art/liquid-planet-microalghe-e-biotecnologie-rigenerare-l-aria-citta-tre-piattaforme-integrate-AJWafyH",
+          "description": "Immaginate una città che respira, in grado di trasformare ciò che oggi è considerato uno scarto in una risorsa. È questa la visione dell’imprenditore Giuliano Regonesi , che nel suo libro...",
+          "pubDate": "Mon, 13 Jul 2026 15:16:01 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "La città che ha abbassato il caldo di due gradi con appena 6 euro per abitante - today.it",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMkpnWWY5MEh0cVk1X2J4bDZ3TXhpMEZVejQ1NElBNXhfaXBnN2Q4T0pYekVJRG50bUhRT2tZeUtmZmEycjM5LUdKekVhYTZtWGFUYWQxczZ4eEVpOXBVOERCRXpqU0pLbGJwUjNIOWVHZ3VIOHJ3dGw4bEFWbDdUeWExTWszMzcyQUFrM21PQmtQRXVDSG94bVUzR1ZQZ9IBngFBVV95cUxOdHRqSzFsOE9KN0dKUlJhSmRuWDM3b3piMUlnOHBjd0JOM0JKVHNpc3A4WTBTTTEyMHl6TWN0UWl0ak5DRnFBd0c3eEJfMV9qZE5OWm9jZ3pvQVQtb01naHRlNmZibjJUMWN1MUJOWG1tVmx6Sm9Sa1Q2bURUZUE0bGF3d1BLY3FyTk1TNzM5RUJwbDZEc3Z5VDFSUTdQdw?oc=5",
+          "description": "La città che ha abbassato il caldo di due gradi con appena 6 euro per abitante today.it",
+          "pubDate": "Mon, 13 Jul 2026 15:54:00 GMT"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Meteo, domani 7 città col bollino rosso e giovedì 15. Ecco quali sono - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS2d5REJfOC1rVllFOXRfTFpQWlFRXzF1TEl1aGJjTEF1bnpKTmhISEpJN1RXYnAxejZOMDE3aE5KMHFUNmNIVFFzRVZZcnh1UDZWQzNXM1RtM0hlTTUycEFZSVJMMFU5QVc3YkRkdHdPbklOV3VqZ0xfTTBXcUpPb0hVUmZVbWh6eXo5YU9VTzhXUQ?oc=5",
+          "description": "Meteo, domani 7 città col bollino rosso e giovedì 15. Ecco quali sono Sky TG24 Anticiclone subtropicale: quando finisce la terza ondata di caldo? iO Donna Previsioni meteo, verso l’apice di calore tra forti temporali al Nord e picchi di 40°C al Centro-Sud la Repubblica Meteo, ecco quando crollano le temperature e quando può finire davvero il caldo estremo Il Messaggero Che caldo fa a Roma. Ecco qu",
+          "pubDate": "Tue, 14 Jul 2026 13:02:15 GMT"
+        }
+      ],
+      "macro_area": "clima-salute"
+    },
+    {
+      "keyword": "record",
+      "n_items": 4,
+      "n_sources": 4,
+      "category": "general",
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-tech",
+          "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack - The Hacker News",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tUEtxSnlDYm5YT3ZFZDBoTXhsT05fOVpMOFZxMEI0cGladnNxdlNEM25JMkdkMjhPVTR3eU5SWGJxTndRRTh3YndPSjdvbEUwNl9ueHpneF9Rdk1fR0ZGRFRnVERZWjdKdk9VVVdQdnBIVjdtTXBlUl9Fc3QyUQ?oc=5",
+          "description": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack The Hacker News Microsoft Patches a Record 570 Security Flaws Krebs on Security Windows 11’s big patch Tuesday allows you to hold off on updates for longer The Verge Microsoft discloses ‘the mother of all’ vulnerability loads, tripling June’s previous record CyberScoop Windows 11 finally lets you pause updates forever ",
+          "pubDate": "Tue, 14 Jul 2026 20:25:00 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "ChatGpt su iPhone, record di download negli Usa",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/29/chatgpt-su-iphone-record-di-download-negli-usa_7d3e2539-a340-4303-b03f-627225d66de7.html",
+          "description": "Dal lancio oltre 500 mila utenti hanno scaricato il chatbot",
+          "pubDate": "Mon, 29 May 2023 14:29:19 +0200"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Record al \"Max Planck\", diciotto cento con tre lodi alla maturità - TrevisoToday",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR2FPQXVNX2g2ZlBGQXk4alA2VTlIekJONGlWVDdENEhHWDhEZUJjczFJaUdHdklSRV9PVTNocmwwOWQwaVNqMnhuS2I2Tl8zcGVwXzlseE5wdUJHcWNLVHRKTTQtc21fTERIY1laY1R5NmdMRE1NOGNTRmtxNUlRNmtZZ1JoeExiaEE?oc=5",
+          "description": "Record al \"Max Planck\", diciotto cento con tre lodi alla maturità TrevisoToday",
+          "pubDate": "Tue, 14 Jul 2026 09:21:42 GMT"
+        },
+        {
+          "source": "ansa-cultura",
+          "title": "Record da Sotheby's per Gus Rex, uno dei T-Rex più grandi del mondo",
+          "link": "https://www.ansa.it/sito/notizie/cultura/2026/07/14/record-da-sothebys-per-gus-rex-uno-dei-t-rex-piu-grandi_94b83f5e-4f0c-454b-98d1-27c8e754bbde.html",
+          "description": "Scoperto nel 2021 è passato di mano per 50,1 milioni di dollari",
+          "pubDate": "Tue, 14 Jul 2026 18:22:55 +0200"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "allerta",
+      "n_items": 6,
+      "n_sources": 3,
+      "category": "clima",
+      "score": 2.4,
+      "cooldown": true,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ondata di calore, in Veneto allerta gialla. Verona è «bollino arancione». E chiudono i piani alti della Casa di Giulietta - L'Arena",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPRC1mc1FvSU84bVJsdEozS1lPMnk0YTJkXzktQnlrRjdiQ01ET2g4S3phTVBvbVNlUWRTeGlnMjNxaE9DREFWZmttdnZncHBVcTFzX0dmWklkS0owdnlEVm1icDJUa19xUnQtaDktQ2VWbW56cVRUS0liR19ka1dYRHNKWmlDMHVfcm1YUVFfeWpjbWNmM0FvTERhbUo5NERjNTd6U1RpRXg4enZQZjFDczFKWWd0bnctdWZtb1g5eXQ5bVFCeTRSbUc4NXN1c2pzOUhVdUlKc0NRWmVTMlcwOHZ3YmdUbzRPZ1N2RXBzMkU3YkRiR1NEOF9jUnBUZ2FwSFhFdHhB0gGLAkFVX3lxTFBfbzRldmhDTVBuQllubEZ0OG5jSVdJYk9BbE9hS1RRM3hHNmt5ZlhBa2Y4SVM3SUxJalp3TVNRd2JYMTA0ZVZidEtVZklCZW0xeHQycWtPWVNUc0JGbFh3bTFfZWxSTXVJOXgzaTB3M2ZNYkRMMHE1WkVfRUNVV29ScDlXam5lVU40LUt6clIybzNhdGxqQ2ZoTm5Gem15ZTRDMk5xNmFfcW9UaGZpb2VVdXRnaDV1SHhnQ2FvdERwa2dUM1dQZjNKM3RaX2YxbFFGRkotdXl1bTUxZ0VGWW9qX1RnMG9BTExpR1VCTE5oeDFGOHJoR09TUXhhVGtQeHlQU2xkaGJ5eHlmOA?oc=5",
+          "description": "Ondata di calore, in Veneto allerta gialla. Verona è «bollino arancione». E chiudono i piani alti della Casa di Giulietta L'Arena Caldo: due anziani ricoverati per un malore. Domani torna il rischio di temporali TrevisoToday In Veneto allerta gialla per caldo, domani anche per temporali ANSA Veneto, arriva la nuova ondata di calore: temperature fino a 38 gradi e umidità alta RaiNews Temperature in",
+          "pubDate": "Tue, 14 Jul 2026 15:58:39 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Cremona, undicenne chiuso in auto sotto il sole si sente male ma riesce ad allertare il 112: salvo. Denunciata la mamma - Corriere Milano",
+          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNNkJsNTU5WlFVZGlEWHUycXdUdnhpbFZuTmNVLW1YemhRdE04Q0NXS0loYkNXREZYZmZXMHJydmhCQzVaMDNQcGxELWc3UmxHWkNVWE9CcGlxRko4WGEzX0FGeXhpTkFOVlp4WjBDeEoxTU5rdHhNWnUxSEhScDF6bVU2c1p3Z29tUVdlYUdRUXRKM1Z0WEhnbU51bGJManpMSDBlZzBGQWxxQzZjUTBJdk03VDZQQ0xoTGl4S1RwaHJ2UExqdHhtbWFtVEtET196VDViNWQ4R1NrbFpfTFRCQUswRmtKbkV4YzNxaE5SdHlmZTRUS184R3VpeUM0czhYakdXRUxMMzhKVjFCWjF4eVZsRnNPMVVaMExrT1ZzNkwxc1VGTlFIejRIRF93S3MycVY2ZmotLXkzREHSAcACQVVfeXFMTXk5U2NpNjJkbTlGSjEzLWN4c1l5MVFucjBHeUZrY0VhM0FYUXBBSDh6bXhaZ3QxN0lEc2c5VTA0dUIzcUxCbU9UMlRDaDNteVdJQ2RmVjdIX0ZGOTFnRGRWV0NWQm8tNDdvbmRiOFhPVlMwbm1aSEFSbmZLTVRxTjB2eXZBMlhoZE9IVFFoa0ZjZll5cGVoeVpjanUybjVxYnZYcjZHV24tRS00Nk82dy01RVdFQWY5Z0t4SXlwcEtFbDdIVGZhMHBzaGRfcTN3WnIxYnRUUm92Ty1WVXViMnpjTlB4VWE5UFkwTTJhMm1JczZDZWZKUUthUWEwNEpiSHl4N3U1WEZ5b3R4NVNqN1FYZmVEa2RiVWExU0NqbXlhQl9raTlVTmFGb3FnUmJSRnhJY3lFWkV5T1FRTTBNNXU?oc=5",
+          "description": "Cremona, undicenne chiuso in auto sotto il sole si sente male ma riesce ad allertare il 112: salvo. Denunciata la mamma Corriere Milano Bambino chiuso in auto con difficoltà respiratorie: salvato dall’intervento della Polizia Cremonaoggi Controlli della Polizia, 140 persone identificate: denunce, allontanamenti ed espulsioni La Provincia di Cremona Undicenne chiuso in auto si sente male, liberato ",
+          "pubDate": "Tue, 14 Jul 2026 16:49:05 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'IA può portare all'estinzione, l'allerta di decine di ricercatori",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/-lia-puo-portare-allestinzione-lallerta-di-decine-di-ricercatori-_f2907c59-c053-4af7-b511-410cbb0bc59b.html",
+          "description": "Tra i firmatari gli ad di OpenAI e Google Deepmind, ci sono anche italiani tra cui l'esperto di tecnologie dell'informazione Luca Simoncini",
+          "pubDate": "Tue, 30 May 2023 17:55:51 +0200"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Undicenne lasciato chiuso in auto si sente male per il caldo: denunciata la mamma - Cremonaoggi",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZWZscVA4WlZ0bkFXRjNac0ZSamVuazEzX3ZFektjVng2d25YZ3ZiYWFyNUJ6SHdidVd4ZG9GaEE4bWs5MlFQT0dvTzE2aFM5Uzc3ZHhwY3UtRDhfX1RxS3VMNHp6YUdETzJmVktBWUdfWGVBYndsT0dNclRDQnhGYzhrTmZZdjZFa1hKdkw1eXNSeXkxM215b3NCd296amZSMTZ3VE5jVDRaelY2eVJvTHRKSF93YzlQLVZR?oc=5",
+          "description": "Undicenne lasciato chiuso in auto si sente male per il caldo: denunciata la mamma Cremonaoggi Bambino chiuso in auto con difficoltà respiratorie: salvato dall’intervento della Polizia Cremonaoggi Cremona, undicenne chiuso in auto sotto il sole si sente male ma riesce ad allertare il 112: salvo. Denunciata la mamma Corriere Milano Controlli della Polizia, 140 persone identificate: denunce, allontan",
+          "pubDate": "Tue, 14 Jul 2026 17:38:55 GMT"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Il caldo anomalo lascia spazio ai temporali: diramata una allerta 'gialla' per la giornata di mercoledì - CesenaToday",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR3BIbkFlWnhVWGhHbEF5U1d1MnRjS01CTUFpdHd6aGhOOTVwX29KYldBSlBwLWxhS1Q1NUlFYVZ1b0d2cEd0VW1CcXpNZnhZSGtHay13MDkzX3BfdGpJQ1pzZjlTTmZ5aWlWbkdMSEJCTDNkZWljbjk1LUZobWE1eFhwRDU?oc=5",
+          "description": "Il caldo anomalo lascia spazio ai temporali: diramata una allerta 'gialla' per la giornata di mercoledì CesenaToday Quanto dura questo caldo: allerta meteo per temporali (brevi) con sabbia dal deserto. “Afa e umidità anche lungo la costa della Romagna” Il Resto del Carlino Piogge e temperature estreme: domani allerta gialla anche a Parma -Dettagli Gazzetta di Parma Caldo africano e afa, poi la sfu",
+          "pubDate": "Tue, 14 Jul 2026 10:53:51 GMT"
+        }
+      ],
+      "macro_area": "clima-salute"
+    }
+  ]
+}

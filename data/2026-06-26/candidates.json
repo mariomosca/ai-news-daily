@@ -1,0 +1,911 @@
+{
+  "date": "2026-06-26",
+  "top_topics": [
+    {
+      "keyword": "venezuela",
+      "n_items": 20,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 126,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Terremoto in Venezuela, scosse di magnitudo 7.1 e 7.5. Oltre 40mila i dispersi segnalati - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOUkFyM3M5WlJjcndWOEhoWjdWR0hpSHZPTC00dldfd0RHR09wM0xRNVBvalg1QnBpMzFhalJoRFRnUHFFaDlZdTBLR21nM19SU0ExMmR3THRxZlFyRl9RdnI0TXJqYWdGYVFYZXVKVlBVQkc3Ukt4czVVTVB2aU1vb0hHUmhlWlhKVWtDTVRVNmR1T2phX0xhbWdoQnI2TzYyRnhmSURoUWNNRzlaMkhhcXd6ck82UVBueXZGMF8yWng1Vk1INWpxUkFQV0tlekRQajlWdXJVX3pHWGV6VE9ZREJsb1YwU1Q2STVNU3owUmlvNm5XY0x6QnBpbDVkZ1k2NFdJTG5ZRFphc29qekFUTg?oc=5",
+          "description": "Terremoto in Venezuela, scosse di magnitudo 7.1 e 7.5. Oltre 40mila i dispersi segnalati RaiNews Terremoto in Venezuela, \"almeno 188 vittime e 42mila dispersi\" | Farnesina: \"Morto cittadino italo-venezuelano, verifiche su connazionali\" Tgcom24 Venezuela, il bilancio del terremoto sale ad almeno 235 morti ANSA Maledizione La Guaira: la città più devastata, già sepolta con Chávez la Repubblica Le ch",
+          "pubDate": "Fri, 26 Jun 2026 02:50:25 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Violenta scossa in Venezuela, crollano edifici a Caracas - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdHB4T0NLeWZDSWJFOTFxeUt0ZnRaOW5vU09hZHRSU1VWNk15RXQ4eWVOdnluMUh2dF9SOWRQMWpEaGs4R2pFUjhEUWV5LVd0ZGE5U3pXekxUU1M0ZHR3dzJuTHI5ZmRqNlBpdjd2VGFnc04wdUxiYWI3YzFwMF9LX0hRNTNscWNsR3V6V2gzdTNQYmpzbDNuT2FiQ2tRb254TkdMR3YxdFZaRWd2aFhFczBiNS1LakNHdmt4UUVnSjhnc3FodHNNbUo0cVBHV1NUZTBudTFMZEJ0SDMyMHVPTdIB5gFBVV95cUxNeGJzZ0hqVXRpU2pXajBEM3lGRkFCUnRJSW93dHpNZ3V3XzhDWmVVR2xQdS1fTnROTVY1SjdZUjQ2cUFIdnZEU09qWkE5RnN4QndNVlFhWTV1ZDVJdExKSnBVdTdDcV9Rb3hPOW5fYkN6akl0a0VoLUt4XzFENHRFUExNelRYX3FaQ3F6cnpfZGZtUGRjOVhhS0gxZ29EZDBNUmJ3TWZTVnNEVmpKdVB4Tlp5ODYtSngtZ0lLUkp4bHVNaXpEbUdoN3E4bC1TZFZ0TnJxelFoNGl3T09GOFB6ZEhmWVpBUQ?oc=5",
+          "description": "Violenta scossa in Venezuela, crollano edifici a Caracas ANSA Terremoto in Venezuela, \"almeno 188 vittime e 42mila dispersi\" | Farnesina: \"Morto cittadino italo-venezuelano, verifiche su connazionali\" Tgcom24 Venezuela, il bilancio del terremoto sale ad almeno 235 morti ANSA Maledizione La Guaira: la città più devastata, già sepolta con Chávez la Repubblica Le chat e la corsa agli ospedali, la sol",
+          "pubDate": "Thu, 25 Jun 2026 02:14:43 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Venezuela earthquake: Staggering destruction signals urgent warning for California - Los Angeles Times",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaV82OUE2eFRnb0J6SVdmelJnVnFvYWNrOHAtUVhuMGFsS2pqY1p5bGVRTWthN0JObjViN3BBUnJTU1lSbFUyc3hrUVlNSlRlZk00Q1pBWjNnZkxOVEdrQUZvQUszSnI0aDhHRGFSY0lkd3J1cEhfUDFVUWlBY1RTcUthVE1pRFlPYlA0N1Vub25pTVdOTkZtNnpPUkNQQUoyZ2JDNUdTR003dl8xc3J2NWFmcVlGdGowdjhUX0NOcmZSSlRORWYzdGxn?oc=5",
+          "description": "Venezuela earthquake: Staggering destruction signals urgent warning for California Los Angeles Times What made the deadly Venezuelan earthquakes different NPR Venezuela health minister says around 235 people dead and 4,300 injured in catastrophic earthquakes AP News Oil Tankers, Ports And Supply Chain: What Venezuela Quake Means For India NDTV M 7.5 - 28 km SE of Yumare, Venezuela USGS (.gov)",
+          "pubDate": "Fri, 26 Jun 2026 01:13:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Terremoto in Venezuela, il bilancio sale ad almeno 235 morti e 4.300 feriti",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/25/terremoto-morto-un-italo-venezuelano-nel-crollo-di-un-edificio-a-la-guaira.-centinaia-di-vittime_5794b65c-936e-41f6-97bc-50d731019990.html",
+          "description": "Si scava tra le macerie. Parte la macchina della solidarietà, Farnesina monitora gli italiani",
+          "pubDate": "Fri, 26 Jun 2026 04:14:53 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Il terremoto in Venezuela: 'Siamo in tre', il miracolo dei fratellini estratti vivi",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/25/il-terremoto-in-venezuela-siamo-in-tre-il-miracolo-dei-fratellini-estratti-vivi_94de9a6b-f7eb-405f-9995-2c2589c9c420.html",
+          "description": "Li hanno trovati tra i solai crollati di un edificio, il video dei soccorsi diventa virale",
+          "pubDate": "Thu, 25 Jun 2026 19:01:26 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "milano",
+      "n_items": 14,
+      "n_sources": 8,
+      "category": "economia",
+      "score": 118,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Omicidio dell'interprete Guerrino a Milano, fermato un 19enne - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYTEzQlhNT0ZlWlM0ZHRnSUdzWm0yVXhwd1ZBVUZnRmt0UjBLWjcxeDBlVjFKRkh0QVBVNzdtM3dfN3d6VEF3eUJBSGZCbC05NnJsTzhIVWJIQV9HckZOSGpnckwtMTBuOGREa24zUzVjN3h6c0FEMTFMX2U3M0xpc3JMMkRISXlWeDlrVVBUSzRYYkRjbXBUejR5NGFmUkJoY25IaEFyWk16LTExamgwX2MtZw?oc=5",
+          "description": "Omicidio dell'interprete Guerrino a Milano, fermato un 19enne Tgcom24 Omicidio dell'interprete Roberto Guerrino, fermato un 19enne: bloccato in stazione con le valigie MilanoToday Telecamere e intuito: così si è arrivati al killer dell’omicidio di via Oxilia la Repubblica Omicidio di Roberto Guerrino, l'interprete ucciso nella sua casa in via Oxilia a Milano: preso il killer, è un 19enne Corriere ",
+          "pubDate": "Thu, 25 Jun 2026 09:53:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Giovedì della settimana della IV Domenica dopo Pentecoste - Chiesa di Milano",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSFpsbHp0OGxkY05XakNaUkRNekFHNDhKOXFBMDFhNDNBYWgzclppbkMzRjM1eVdoTVVLNzZ2RWx6VS1nRHl1dnhxUkRucjZtTFlTbTgtMjRCQnBuU2NJQi1ETzZIcEUyeUNnY091Z0RmRGwtN2xxNktiVFBuODJwaEZjZWlUSmJiVDNGT1JQSUFWanV1MkFJRGRlZ3lBNmptenRvcWNLY3c3Ui1RYU9rbzZMQldLcjh3VmVaS1JyYWdMLU5RMWNzY1NObWpScGpXUi1FSC1Sc3BKVFBqa3RUSllINDAxOUg0cmJrUA?oc=5",
+          "description": "Giovedì della settimana della IV Domenica dopo Pentecoste Chiesa di Milano",
+          "pubDate": "Wed, 24 Jun 2026 22:03:03 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Le Borse europee provano il rimbalzo, a Piazza Affari corre Stm - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWHp1NkJtSDBnOXNtdGU1Q3FBSFZYU3ZKOExrQ3JtTVlqbXRna2QwNnJWb01QQkgtVFQxZE9LakdubWd5aWR5ZEZUTjFZWDFFS3Y1NzU1d1FPTEtaZS05Z040LTJtQUxnMDBzNXI0aHM0d1Z2X0l4RmFXRTVCR2dkdmFUMnRXU00wS2JkS3BCTGFzN0o3RUQtMWJPVlRfSktFdk5GbzRoeHc1RU1IUTVQLXlJeGtLT0hBNEd5ZlJfN29aUFhpaVUwQnpoXzkyNmhRc3pQblYzTGY0bFBaenp2U1pJdFNIcTRRcWh5c1hn?oc=5",
+          "description": "Le Borse europee provano il rimbalzo, a Piazza Affari corre Stm Borsa Italiana Mercati positivi, Milano resta alla finestra Borsa Italiana Borsa: il tech spinge l'Europa, giù petrolio e gas ANSA Le borse europee chiudono in verde. Rimbalza il tech, ma il Nasdaq è in rosso RaiNews Borsa Italiana, il commento della seduta del 25 giugno 2026 Soldionline",
+          "pubDate": "Thu, 25 Jun 2026 11:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Asta BOT giugno 2026: rendimento oltre il 2,4% per il titolo semestrale - Soldionline",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMHozNklsVFluTXNRcDFIa0xvLUFfbERBTmxSVk5hU2czeEtoTERvRHRiU3Y5TVlXN0hZMmlFcWNaSkpVdDZJTkl6aDhNcV9fcEl6MnBFa2pzRklFR1ZPUm5PcUtkVnE4eHZYV2gxd2VfaHR0bHdCLWswTUFaajVIWWpfbEtXVWY2RWlCV1daaHlham9LZV9nbzJ4VEE3TWZFUFo4WGlSY0VjcjVucUJB?oc=5",
+          "description": "Asta BOT giugno 2026: rendimento oltre il 2,4% per il titolo semestrale Soldionline Tre Btp in asta il 26 giugno 2026. Le caratteristiche Soldionline BoT: assegnati 4,5 miliardi semestrali, rendimento sale al 2,479% Il Sole 24 ORE TITOLI DI STATO: Italia colloca 1,5 mld Bot a novembre 2026 al 2,446%, cover 1,86 Milano Finanza Tesoro, per il resto dell'anno emissioni nette di titoli a medio-lungo p",
+          "pubDate": "Thu, 25 Jun 2026 10:12:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse 24 giugno | Europa contrastata, Milano la peggiore (-0,7%): petrolio a 70 dollari, per la prima volta ai livelli pre-guerra - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLXFMNmxJZW5KQW1GU2pEU3k1WnFoTUZsNVYzRlhnc2FVSU53UkktcUtKczgyenR2Y1owdkRMT1VaUVBsZU5hQjZoaVBnby05Y3JHdkd4T08wVWpROGFkUzg2OTJISjNaQkk1TUVnY3R0LWFMLXJmeVNTeEdHcS03bEhVMlJ0VHF2aTd1VmNmaWcyeUpXUndKU3N5RjZfU0toOHRIeDQ1V0c3a2RPNkVQUjlLUWhTeXpsSjZwQzViTzVyVjNvUHM3cjlDLVF3LVlla1dUSHJ0WnI2amVUVldj0gHkAUFVX3lxTE9VcERBaTNBSEJweDJOb2xIeC1Fa2p0ZHhweGFmSVhXZnRyRHRpQUJSUGtSQUlrQjd1cDk2bEdoZllnYzM3UHRENkQzekhxVDhKSFM5bjRnX1VibVZyZ3ozaWxreURjYU9nTzNNTFdLUnFUalp2eVI4SFpoMW5qOS11ZXN6MXl5YXZCME1TUGc5WExhYzQ2cG9ocHdWQjNiclI5R3ppUzIwMFJwT3hCMFlYS2VKNEZWanJEbUQxTWE5SU8tMXBJN084SDdGS2VFeUlESFBQT0thY1BnZk9zWDdNMjJtSw?oc=5",
+          "description": "Borse 24 giugno | Europa contrastata, Milano la peggiore (-0,7%): petrolio a 70 dollari, per la prima volta ai livelli pre-guerra Corriere della Sera Borsa: Milano in calo con l'energia, scivola Leonardo ANSA Borse oggi in diretta | Il Ftse Mib chiude in rosso (-0,7%). A Francoforte crolla Rheinmetall, oro sulla soglia dei 4.000 dollari Milano Finanza Piazza Affari chiude a -0,74%, terzo giorno in",
+          "pubDate": "Wed, 24 Jun 2026 17:23:33 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "caldo",
+      "n_items": 12,
+      "n_sources": 7,
+      "category": "clima",
+      "score": 90,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Caldo africano, il picco lunedì prossimo. Bollino rosso in 17 città - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IVzhiNlQ1SGtVU3R0ZTdUbzIxbXExaVVIckZlLXZZWFBTdUVvNnhMbDhvOE1xb1l4ODNVTDlwVEJpRGVlcHN6TlBNZXFiZzJReC1DUmVfdUpJaEQ0Yk1pVmp1UTNrLU9pR3VlZnlrWmduTk1XcFA0alBn?oc=5",
+          "description": "Caldo africano, il picco lunedì prossimo. Bollino rosso in 17 città Sky TG24 Ondata di caldo, il picco previsto lunedì. Disagi nelle scuole: «Si sono visti studenti collassare durante la maturità» Corriere della Sera Temporali (forti?) e incognite meteo: come finirà il caldo record in Emilia-Romagna Il Resto del Carlino 11 giorni torridi, mai un'ondata di caldo così lunga ANSA Emergenza caldo, bol",
+          "pubDate": "Thu, 25 Jun 2026 22:01:47 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Europa bollente, 212 morti in Spagna. E Parigi vieta gli alcolici - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORWJLT25fd1gwNU9RWjJDYWlyR0NVeWJ3UXJoX3dIdS1acVJtV3BIMGxCSTZhRUdHYVZiQldMYzNYQXdCMDZJa3E5X2JTeWpaVThERGZqZlJKSmJPdzRXMlF1ZjJTUG1fVWZ4MFptZ1ZsWllyR0N6REYydmhZUHM0bVdNWlZtTi1KOEZzXzJkbkNRc1h3SXlib3VScVFjS2JEWVdnSkRCZFVVeV9INEpTU0FtdXlkNjdXOGpTYVVCNlloVlBjVTdGdkFZdHNHOU0zRENRcThJVmZPOGk3bjFKbFpIM0QyRFJlSlhjN1hkONIB9AFBVV95cUxQTThZZG9zeGJYZFVlY2FRTkhhUTdMRGdYWHpDVVZiT29ka2Z6VncyTHB1RDVVUmZSeFVDenhZMXB3MkJKUWYwZ01qQlV1Z0RBUUJQRHRwR3NZTTlod2JtY1dXMDM2UjB2cUZFTVVSYm9USGpFdUZYVkN3NHdIazl5c1Q4YURTZUJyVlZOeWk4UmR2eU1fczhDTktBbllxN19xczNvVkNnY1FhU3o3ekRtdU9GTXNzLU8wZ2FPUFJTS0N6VE5vWEhUY19Vcy1yLV95UXV1ak1HcFUtZzZpdEw4cDJnaUJ4Z1QtazNWYmM0OVdFZTNT?oc=5",
+          "description": "Europa bollente, 212 morti in Spagna. E Parigi vieta gli alcolici ANSA Colpo di calore nei bambini: bastano 20 minuti chiusi in macchina (non al sole) per morire Corriere della Sera Le città spente dai blackout, le prime vittime: il caldo ora è emergenza. Il vertice del governo Avvenire Circolare del ministero della Salute: \"Triage dedicato al caldo nei Pronto soccorso\" RaiNews Non basta bere acqu",
+          "pubDate": "Thu, 25 Jun 2026 19:55:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Caldo record e notti insonni, otto suggerimenti anti-afa oltre l'aria condizionata",
+          "link": "https://www.ansa.it/canale_lifestyle/notizie/design_giardino/2026/06/24/caldo-record-e-notti-insonni-otto-suggerimenti-anti-afa-oltre-laria_9a090408-7ee9-4f81-8209-16db7628dcf9.html",
+          "description": "Dai riscontri d'aria alla biancheria da letto con microcapsule rinfrescanti",
+          "pubDate": "Thu, 25 Jun 2026 14:02:23 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Col caldo il Grand Tour si fa indoor, in hotel tra cucina d'autore, arte e letteratura",
+          "link": "https://www.ansa.it/canale_terraegusto/notizie/in_breve/2026/06/25/col-caldo-il-grand-tour-si-fa-indoor-in-hotel-tra-cucina-dautore-arte_a356538b-5842-41a5-a880-2572d920ed37.html",
+          "description": "Affinity Kitchen Alchemy, salotto culturale e gastronomico del The Goethe Hotel a Roma",
+          "pubDate": "Thu, 25 Jun 2026 16:18:51 +0200"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Blackout elettrici per il caldo: perché succedono",
+          "link": "https://www.ilsole24ore.com/art/blackout-elettrici-il-caldo-perche-succedono-AIBpwaqD",
+          "description": "L’elevata domanda di elettricità, trainata dall’uso dei condizionatori, e le perduranti alte temperature che non accennano a scendere nemmeno la notte stanno mettendo sotto pressione l’infrastruttura elettrica italiana. In numerose...",
+          "pubDate": "Thu, 25 Jun 2026 05:17:01 GMT"
+        }
+      ],
+      "macro_area": "clima-salute"
+    },
+    {
+      "keyword": "nuovo",
+      "n_items": 11,
+      "n_sources": 8,
+      "category": "general",
+      "score": 88,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ucraina, raid russo a Kiev: ci sono feriti. L'Ue proroga di un anno le sanzioni per Mosca - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmIxYkxJc01yRzZyU3pZNEEtRjlGbl81dDh2TEFaTlI0YnpFcWkxWUxVVXVXVGNtUlhHYkN6WFJyd3hJTklhTDVBRlctVUhCSlN3M3Z1WkxxdkNNeUM2Z2E3RzUzUmlEZlVDZkNTOUt6TnVZNlVfNkNORjZkTHphUE1sMXVlekgz?oc=5",
+          "description": "Ucraina, raid russo a Kiev: ci sono feriti. L'Ue proroga di un anno le sanzioni per Mosca Sky TG24 ++ L'Ue proroga di un anno delle sanzioni economiche contro Mosca ++ ANSA L'Ue proroga di un anno le sanzioni economiche contro la Russia Tgcom24 Sanzioni a Mosca, ma l’Ue compra ancora energia russa: 2,3 miliardi a maggio Secolo d'Italia Gas, nuovo regolamento UE: i timori per gli approvvigionamenti",
+          "pubDate": "Thu, 25 Jun 2026 21:12:57 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Elezioni in Perù: Keiko Fujimori sarà presidente - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMFNxOEtQc1A2QmxZeEVSTk82S3hnUXJITEF2aUZkZEN0bFNKQ3VuU0MzZVhsMnNZeUNvU1JIMUN3TnZVOXVKMksxa2dFVjdxd2xVV0pRSHZJMThLWXYtTGVpWFp5MEhpN0M0cjVnWXNVb2ZMcXJwN1o5cGVTR2FmNDZOZl9sUnFQbGxCZHFmWVlHM1paaFRYTEdEeXBrNmdkR3A5bF83ZVc2Ukw1djgwWHJ4OWtXSG9xVWNnT1dDYUNmWWlubFQxRGQzWjhTYzdxd1FieXA1OVZNb1V6clV1cUFVNldhM1RoZmVxcGpCcTktOXU5SS1wdjZnbUwxdWozSXhqTTV3WHfSAY4CQVVfeXFMTlJPM1hBaHZSVi1YemRWenY2TThBRnU2MlJlR283ZnZCZC1oWWtDNDJjU2txZTFWLWtwam5HWDdENWZmZ2lzRXppOE5OLTJrbG1sdDhOQ3NCdG1NTmVYNDFQYjAtZ2d3V2tHSTMzdXNabVJKLUR6Q3dDdWpIS0ZmVUpYMlVFeXBFM2JSdkU3Mjd3cGdfdWh0RlJ6VXFGVjNvNXRkTUhUdDV0anhJX1lTODZTbTYybTFnVHVyQ3NFSHdSRWtqVFVBYWxFSjlWMlNFM184dFFQdEdQX1lmN2oxX2I2aGFnclJqYS0tMXIwcmlnaGp3RUlTR2EtS0NtNVZDcm5iejJOejR1eXZVR1NB?oc=5",
+          "description": "Elezioni in Perù: Keiko Fujimori sarà presidente RaiNews In Perù tutto ruota intorno ai Fujimori Il Post Chi è Keiko Fujimori, presidente (per un soffio) del Perù Avvenire Elezioni in Perù, Keiko Fujimori è il nuovo presidente Sky TG24 Perù: Sanchez non riconoscerà Fujimori e chiama alla mobilitazione nazionale ANSA",
+          "pubDate": "Wed, 24 Jun 2026 15:07:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Le feste di Trump sono diventate una tragica parodia - Domani",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYmJWWG9LbGM2RmY1OEVKUnA3XzFvMXlFcndfMTVpUUx6OFVaUTJGekJaQUUxYU1hdTdZZ2RsTmpxQ3B0a2NPN2ZKd0dMbXA2M1FBTUJWRHF2WDcwUlRoYzVmWnZQNTdjaWpIZlI3M3Y4VDRXNTV6YlU5NFJyTUpmWU5TVklsLWUtVEZlUkVFUUlnZWFXcWtQakdMM3VudElSdENQQkU4UXlVZFNfSWc?oc=5",
+          "description": "Le feste di Trump sono diventate una tragica parodia Domani Trump celebra i 250 anni degli Usa con un comizio da campagna elettorale: «Dovremo sconfiggere di nuovo il comunismo» Corriere della Sera I due volti della bandiera americana la Repubblica Trump, il discorso al comizio Maga: \"Ogni giorno otteniamo una vittoria\" Sky TG24 Trump celebra i 250 anni degli Stati Uniti con un comizio in stile Ma",
+          "pubDate": "Thu, 25 Jun 2026 17:52:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Tim fa causa a FiberCop. È scontro sui listini fibra - il Giornale",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS1FZTzI5MV9hT1lqSGFTY1NHMU96ZUh1aU9Ea2lhN20ybzhra1A1X0NMeU1yWlF3cnlSNzVPVlA0SmVZRmtkVl9BNWJIQkFiUDRBWm9jMk5fTFFWSExtWWpSbzRzQV9Qbk1CSDQtaHdrNnFsS3ZlcGlMRFFmUVVJcVY3YS0xallONlJ5UlRiNlB1MjNmamI0ZU03ckE2cW9R?oc=5",
+          "description": "Tim fa causa a FiberCop. È scontro sui listini fibra il Giornale Fibercop, fronte unito degli operatori contro i rincari della rete Il Sole 24 ORE Nuovo listino fibra, prezzi FiberCop restano i più bassi d’Europa Key4biz Tim-Fibercop: il caso rincari in Tribunale la Repubblica Ultrabroadband, i prezzi italiani sono i più bassi d'Europa CorCom",
+          "pubDate": "Thu, 25 Jun 2026 05:26:40 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Ludoil, Green Bond da 40 milioni per il biometano: a Dittaino impianto Engas",
+          "link": "https://www.ilsole24ore.com/art/ludoil-green-bond-40-milioni-il-biometano-dittaino-impianto-engas-AIzjfurD",
+          "description": "Un Green Bond da 40 milioni di euro per finanziare la costruzione di un nuovo impianto di biometano nell’area industriale di Dittaino, nel territorio di Enna. Il Gruppo Ludoil entra...",
+          "pubDate": "Thu, 25 Jun 2026 13:06:26 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "europa",
+      "n_items": 13,
+      "n_sources": 6,
+      "category": "economia",
+      "score": 84,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Europa bollente, 212 morti in Spagna. E Parigi vieta gli alcolici - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORWJLT25fd1gwNU9RWjJDYWlyR0NVeWJ3UXJoX3dIdS1acVJtV3BIMGxCSTZhRUdHYVZiQldMYzNYQXdCMDZJa3E5X2JTeWpaVThERGZqZlJKSmJPdzRXMlF1ZjJTUG1fVWZ4MFptZ1ZsWllyR0N6REYydmhZUHM0bVdNWlZtTi1KOEZzXzJkbkNRc1h3SXlib3VScVFjS2JEWVdnSkRCZFVVeV9INEpTU0FtdXlkNjdXOGpTYVVCNlloVlBjVTdGdkFZdHNHOU0zRENRcThJVmZPOGk3bjFKbFpIM0QyRFJlSlhjN1hkONIB9AFBVV95cUxQTThZZG9zeGJYZFVlY2FRTkhhUTdMRGdYWHpDVVZiT29ka2Z6VncyTHB1RDVVUmZSeFVDenhZMXB3MkJKUWYwZ01qQlV1Z0RBUUJQRHRwR3NZTTlod2JtY1dXMDM2UjB2cUZFTVVSYm9USGpFdUZYVkN3NHdIazl5c1Q4YURTZUJyVlZOeWk4UmR2eU1fczhDTktBbllxN19xczNvVkNnY1FhU3o3ekRtdU9GTXNzLU8wZ2FPUFJTS0N6VE5vWEhUY19Vcy1yLV95UXV1ak1HcFUtZzZpdEw4cDJnaUJ4Z1QtazNWYmM0OVdFZTNT?oc=5",
+          "description": "Europa bollente, 212 morti in Spagna. E Parigi vieta gli alcolici ANSA Colpo di calore nei bambini: bastano 20 minuti chiusi in macchina (non al sole) per morire Corriere della Sera Le città spente dai blackout, le prime vittime: il caldo ora è emergenza. Il vertice del governo Avvenire Circolare del ministero della Salute: \"Triage dedicato al caldo nei Pronto soccorso\" RaiNews Non basta bere acqu",
+          "pubDate": "Thu, 25 Jun 2026 19:55:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Più soldi alle armi, droni e una nuova missione militare: la mano tesa di Meloni a Trump (e cosa cambia per l'Italia) - Europa Today",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hVWRHRkFWWHQ5Wkw4dzJaUXVzM1VGMF9nYThsNERqSUVzbWNOallmcmh0T2M4YmVMODRuTWZRaUxUTGFENm0zWXFoT2lKejdDRUlILXpaSVhqOTN5RUNBdnkzYjVCcE5DQ3I0TXhqZw?oc=5",
+          "description": "Più soldi alle armi, droni e una nuova missione militare: la mano tesa di Meloni a Trump (e cosa cambia per l'Italia) Europa Today Il coro dei 5 leader al summit di Berlino: «Rafforziamo la Nato europea» Corriere della Sera Ucraina: Meloni, da Mosca precondizioni irricevibili, vi sia spazio per Ue Il Sole 24 ORE Conferenza stampa dei leader dell'E5 (Germania, Francia, Italia, Polonia e Regno Unito",
+          "pubDate": "Wed, 24 Jun 2026 17:58:46 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Il piano per la difesa inglese raggela la transizione da Starmer a Burnham - Il Foglio",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWFdMaGhZLUl5OFAyNHZKOHhxSWM3Nm1KenlrUnkySVZiM2t4M0FlZFR1WW5xS1B0Wm9xNDl1YXNlVExQRWdNMU5hWFpCU2JsVVZseXhncWFRdzc5NlBOMkpVRy1zczBvQmVnY2JKNXVWeVFUM3J6WGtGVTMzY0VHZHRHS29MWU13TkRoVXhuaWVfdlN4ZV9Hd2J1ZGcxdmhERGJqZE9aUUFtcTc0Zy1zLTVoTjhwUWlPVWg4Z2g5eEpTbktIVC1ycA?oc=5",
+          "description": "Il piano per la difesa inglese raggela la transizione da Starmer a Burnham Il Foglio Blog | Dal fallimento delle politiche laburiste di Starmer arriva una lezione per il campo largo Il Fatto Quotidiano L’inarrestabile ascesa di Andy Burnham - Tom Clark Internazionale Il paziente inglese La psicosi democratica del Regno Unito è il trionfo della guerra ibrida all’Europa Linkiesta.it Il ministro Darr",
+          "pubDate": "Thu, 25 Jun 2026 04:00:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Europa bollente, 212 morti in Spagna. E Parigi vieta gli alcolici",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/06/25/europa-bollente-212-morti-in-spagna.-e-parigi-vieta-gli-alcolici_29101a56-1ebd-48fb-adab-23b5e588efe0.html",
+          "description": "Bimbo di 3 anni muore in auto in Francia. Circolare ministero, attenzione ai grandi eventi",
+          "pubDate": "Thu, 25 Jun 2026 21:55:37 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Le Borse europee provano il rimbalzo, a Piazza Affari corre Stm - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWHp1NkJtSDBnOXNtdGU1Q3FBSFZYU3ZKOExrQ3JtTVlqbXRna2QwNnJWb01QQkgtVFQxZE9LakdubWd5aWR5ZEZUTjFZWDFFS3Y1NzU1d1FPTEtaZS05Z040LTJtQUxnMDBzNXI0aHM0d1Z2X0l4RmFXRTVCR2dkdmFUMnRXU00wS2JkS3BCTGFzN0o3RUQtMWJPVlRfSktFdk5GbzRoeHc1RU1IUTVQLXlJeGtLT0hBNEd5ZlJfN29aUFhpaVUwQnpoXzkyNmhRc3pQblYzTGY0bFBaenp2U1pJdFNIcTRRcWh5c1hn?oc=5",
+          "description": "Le Borse europee provano il rimbalzo, a Piazza Affari corre Stm Borsa Italiana Mercati positivi, Milano resta alla finestra Borsa Italiana Borsa: il tech spinge l'Europa, giù petrolio e gas ANSA Le borse europee chiudono in verde. Rimbalza il tech, ma il Nasdaq è in rosso RaiNews Borsa Italiana, il commento della seduta del 25 giugno 2026 Soldionline",
+          "pubDate": "Thu, 25 Jun 2026 11:00:00 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "apple",
+      "n_items": 9,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 60,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Si sgonfia l’IA: crollano le Borse Ue - La Verità",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEcUphUGRKLXV3MV9VcElhMUptM0dIRFhqNnl1S2VLbkFnSjBYeGVVXzVUeG5pZDBHcWNSTkdtRi02TVJyV21mb001TzNmaWxxcFJ1bTFTOEpncGlVcUkwYWFRR3hJZVNPVEdkVVh1alJtdw?oc=5",
+          "description": "Si sgonfia l’IA: crollano le Borse Ue La Verità Per i titoli tecnologici alti e bassi, non crollo L'Eco di Bergamo Le borse sono andate male per il secondo giorno consecutivo, a causa del pessimo andamento delle azioni delle società tecnologiche Il Post Chiusura mista per Wall Street, giù il Nasdaq con il tech Borsa Italiana Wall Street: S&P e Nasdaq ora in calo, pesano ribassi Apple (-4,7%) e Nvi",
+          "pubDate": "Thu, 25 Jun 2026 06:37:19 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Apple raises iPad and MacBook prices, blaming cost of chips amid AI boom - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQNkdmTUU1MzhrU1lvdkN1Rnc1ckRRSkhnRWdKUlRyVTBTclR5dHA1SkEzcTVaYnExSzFIdy1tdXlyWHFOVkpHQkZCWFFhNlUtQUNHVDR6Q1N6aFdrN1pUNFBETHZNZzdzSkJsSnRnWlVHYml0LUE?oc=5",
+          "description": "Apple raises iPad and MacBook prices, blaming cost of chips amid AI boom The Guardian Apple posts worst day in over a year after MacBook and iPad price hikes CNBC Apple raises prices of MacBooks, iPads as memory costs skyrocket Reuters Apple Hikes Mac, iPad Prices on Memory Shortage; Shares Fall Bloomberg.com RAMageddon just got extremely real The Verge",
+          "pubDate": "Fri, 26 Jun 2026 00:48:00 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
+          "link": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
+          "description": "Apple said it had \"never seen a component price increase this much, this quickly\".",
+          "pubDate": "Thu, 25 Jun 2026 19:41:22 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Apple aumenta i prezzi di Mac e iPad: rincari anche oltre i 500 euro - HDblog.it",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRlRyVXJ0QlQycnJaMEhpZEhRQml5VGR4VUtxQ0hoWmhxSVd3WjZza0tDRzUteTBvMmZSaEZoR3pqVkNPUXlwbEtmVVVSSWVWX25rVU1OR1pPbHctb3hhdG92UjZHVnJEcTBmbThRTzNSYkhlLVRQbXpNMTd2WlQ4MHhETDltVUtzWFJZaWVmU3c?oc=5",
+          "description": "Apple aumenta i prezzi di Mac e iPad: rincari anche oltre i 500 euro HDblog.it",
+          "pubDate": "Thu, 25 Jun 2026 13:22:38 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Microsoft lifts price of Xbox consoles due to soaring component costs - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMFZmX2ZDRTFuMFlkcFBfc3A2Y0tiSTVyWTVfN2JEeVNZMVVFNWVxUGpzZFNtVVJmRlBSUTJxcWMxcW9nbmJJZ1NNd2Z6bUVDdFBtZ2E5N0REdFVsN0YxNE84QTZBX0hFRUN4bmZiVy1RU3NGXzJlRTB4UXUxOFdhQWNEYXYxQUIyQml1RDFUcWZaQ0JUZGt1bFQ3UmFVYWNQV1RWT1pOYXhoUdIBrwFBVV95cUxNd0lTbVFPM0drUkZmVGY1V0JCRFRqajQ4NkJqLWVzSEZaNFliMGVOLTVGakhnVjVpNV90T0ZEN1oybFluY1Etakd4VzZmRkQ1a19hZWxHZnNXYlZhRHo1VnZ5RTZiUGJqeU10RWV3Y1NJMVZpQ3NpZkFFdXRtTVFkSFZuWllGSFRpYnYxcDZhbnVVZGpUa09JeGdDZWpYSldlNHhSY2tERzMySW9XaWFR?oc=5",
+          "description": "Microsoft lifts price of Xbox consoles due to soaring component costs CNBC Updated XBOX Console Prices XBOX Wire Microsoft joins Apple in raising prices as fans await new 'Grand Theft Auto' game ABC News - Breaking News, Latest News and Videos Retailer warns of GTA console stock shock. Plus, why is Russian propaganda still on Steam? The Game Business Microsoft significantly increases Xbox prices w",
+          "pubDate": "Thu, 25 Jun 2026 17:34:13 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "record",
+      "n_items": 7,
+      "n_sources": 7,
+      "category": "tech-ai",
+      "score": 55,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Caldo africano, il picco lunedì prossimo. Bollino rosso in 17 città - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IVzhiNlQ1SGtVU3R0ZTdUbzIxbXExaVVIckZlLXZZWFBTdUVvNnhMbDhvOE1xb1l4ODNVTDlwVEJpRGVlcHN6TlBNZXFiZzJReC1DUmVfdUpJaEQ0Yk1pVmp1UTNrLU9pR3VlZnlrWmduTk1XcFA0alBn?oc=5",
+          "description": "Caldo africano, il picco lunedì prossimo. Bollino rosso in 17 città Sky TG24 Ondata di caldo, il picco previsto lunedì. Disagi nelle scuole: «Si sono visti studenti collassare durante la maturità» Corriere della Sera Temporali (forti?) e incognite meteo: come finirà il caldo record in Emilia-Romagna Il Resto del Carlino 11 giorni torridi, mai un'ondata di caldo così lunga ANSA Emergenza caldo, bol",
+          "pubDate": "Thu, 25 Jun 2026 22:01:47 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Britain, Switzerland break June temperature record as deadly heatwave grips Europe - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT2ZQY0JGRXNTMDE3X0o1dDR3Yy1Kd0pTbHUtXzE2N1dOWXQ4VE5fS1psTS02ZGs2d3J6YS1jNU93VXRsdEc1VGc4QndhN3lOQjR5aldtd3c1QXRVdGRHQUo4ZjZKYjZ0SVZNcVI4T1lUc09KbjY1Y09Ockd0V3VvQTJjQUZUX3BzWkl1RDJCS2ZldXlsOXBLYmh2VF9yUkFQeFFhRGhnZlVVeWJaOWk3YmxidnZWZGo2d1MxZmVn?oc=5",
+          "description": "Britain, Switzerland break June temperature record as deadly heatwave grips Europe Reuters Deadly Heat Wave in Europe Continues to Smash Temperature Records The New York Times Paris to ban drinking alcohol in public as hospitals hit heatwave breaking point The Guardian France’s heat this week was worse than a dire scenario imagined for 2050 The Washington Post The hottest day in French history was",
+          "pubDate": "Thu, 25 Jun 2026 22:03:59 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Caldo record e notti insonni, otto suggerimenti anti-afa oltre l'aria condizionata",
+          "link": "https://www.ansa.it/canale_lifestyle/notizie/design_giardino/2026/06/24/caldo-record-e-notti-insonni-otto-suggerimenti-anti-afa-oltre-laria_9a090408-7ee9-4f81-8209-16db7628dcf9.html",
+          "description": "Dai riscontri d'aria alla biancheria da letto con microcapsule rinfrescanti",
+          "pubDate": "Thu, 25 Jun 2026 14:02:23 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Micron Technology: fatturato trimestrale record grazie a domanda di chip per data center AI - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbXhqTUZXR1ZibFZUel9CQVBQQTBSY1BHOEcwazZQM0w4WGxDYk5iNkY1Y0g3V2FtZ1d4YjU2N19YNm9sMklWOHNkQkkyWWFqVUlZeGpMMlFaa19Rb0lWLUxrOVFyelA4MlJFMW9HLUxIU1NicFc3LWF5Wi1yRXBmaEUyMmhLV0x6UzhBU19tUTRFcUJCMWl3QTRYNU1wT1lhXzRrYnhBQmNxRklmTUloWm05STlJaFpKRHl1SEozUQ?oc=5",
+          "description": "Micron Technology: fatturato trimestrale record grazie a domanda di chip per data center AI Il Sole 24 ORE Partono in territorio positivo i listini europei trainati dal tech Borsa Italiana Micron vola del 15% dopo ricavi record e una guidance positiva Forbes Italia Partenza in sordina per le borse europee. Micron convince e petrolio cala ancora, oggi Pce Usa Borse.it Effetto Micron su Wall Street:",
+          "pubDate": "Thu, 25 Jun 2026 06:39:06 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "How you can save money on your energy bill as debts rise",
+          "link": "https://www.bbc.co.uk/news/articles/cwy2e3wx7xwo?at_medium=RSS&at_campaign=rss",
+          "description": "Experts say support is available as total debt and arrears to suppliers hit a new record.",
+          "pubDate": "Thu, 25 Jun 2026 11:04:09 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "after",
+      "n_items": 12,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 54,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Iran strikes cargo ship on U.N.-backed route in Strait of Hormuz - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb2hvUU8ta3ZNNEpHLXViODlSdk1odzlhUUtPLUtLWkV3ZWtaVi02RmxKbTdjbnNGUjk2SVhxQWVwVjdDbURXdUMyWW9vX2R2Y1V2bWZKLVpnLWc4eWJsUDd0RW5sZWxYTFMzZ1RKNE5vSTFMUkUtOG50LTVJM3NRaW5ERXdnUmhwNHhjYWo2enhOWENiQWJTWHdzNnhfTXEyNWNYbEVobzh1a2Z2RjdZ?oc=5",
+          "description": "Iran strikes cargo ship on U.N.-backed route in Strait of Hormuz The Washington Post Iran strikes vessel pausing UN efforts to evacuate ships from Hormuz CNN Oil prices climb after attack in Strait of Hormuz halts evacuation plan Al Jazeera Iran Strikes Ship in Strait of Hormuz, Undermining Efforts to Restore Traffic The New York Times Iran-U.S. Updates: Iran strikes vessel in Strait of Hormuz ami",
+          "pubDate": "Fri, 26 Jun 2026 01:09:02 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian migrants - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEemtaeFUxeVh3a21uU0hEei1NODJRVnYxeE5wMkFrYXVwLUlSbm40R1VPelNscmowVWRDOWlubTNYd3FNa2pxRVpELXpQcTJWNG01c2Mxanpzdw?oc=5",
+          "description": "Supreme Court allows Trump to end protected status for Haitian and Syrian migrants BBC Justices Clash on Whether Race Played a Role in Trump’s Bid to Deport Haitians The New York Times Takeaways: Supreme Court hands Trump massive wins on immigration agenda CNN WATCH: Stephen Miller says 'America's doors are closed fully to asylum seekers' after Supreme Court rulings PBS Springfield residents rally",
+          "pubDate": "Fri, 26 Jun 2026 02:18:04 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Cassidy says he passed a note to Witkoff to request briefing during heated Trump meeting - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ1BST1VWeVJaUXVTZ1pkYkN1ODVfQ3g5bk1MdWpqb3d3V1hTcUZqM3NoR082NHFUbk9UVlczdGNzT0xiOElqdmY3Zl9vOUdNenVFNzFHb3N2XzM0Vi04eEpUdU1ocTVHZ3h5dkdxWGhCZG00M2xtUkxIRVZMcDNCY3UwM3pWNnMyLXdiM1pqbzg?oc=5",
+          "description": "Cassidy says he passed a note to Witkoff to request briefing during heated Trump meeting CBS News Trump has testy meeting with GOP senators, telling Cassidy at one point to sit down CBS News Trump’s Capitol visit devolves into shouting match with GOP senator he helped oust in primary fight CNN After Trump’s Outburst, Senate Republicans Reject Iran War Powers Resolution The New York Times It could ",
+          "pubDate": "Thu, 25 Jun 2026 16:29:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "12-year-old boy rushed to hospital after shark attacks him in Bahamas, police say - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV3F6SVIyQ2dfc2FEMEZIdW10V09YajRvd29fOTlySk9aZ0VwUjFnR2M2YkVBcVQtcVZHZjJabFc2VkFUMmthNWd6ZXA4YXp4czNvZHJWRGNhYzlULWNYUldPTWRRRS05cjAzcXdCMXBhQkVkS0I5d2xaZVRWc0FUOEthVWZFSmlFMTdSY1N1VWtyT2dtNnfSAZsBQVVfeXFMTlgwZ2dkcmJ5aXN3NkY4OUEtSVA3OW5aODdaV21oVFYwczR6VUt5NmlHZTY2MUxOa3NVS2lJckpoRzVGaVB2Q0RuVi0zRTFkZ2RKajJhZFRHenpIbDVKQzQwQnVIX2JUSG9zUENJMnI5cE0zdWJ0ZHVFRUdJcFBvUU50X0JxbGtyN2pPQ29yMkFxNVlFNW5zMHk2UG8?oc=5",
+          "description": "12-year-old boy rushed to hospital after shark attacks him in Bahamas, police say Fox News 12-year-old American boy attacked by shark while vacationing in the Bahamas FOX Weather 12-year-old boy attacked by shark while swimming in Bahamas Global News 12-year-old American boy injured in shark encounter in Bahamas ABC News - Breaking News, Latest News and Videos American boy, 12, attacked by shark i",
+          "pubDate": "Thu, 25 Jun 2026 16:44:51 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Apple raises iPad and MacBook prices, blaming cost of chips amid AI boom - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQNkdmTUU1MzhrU1lvdkN1Rnc1ckRRSkhnRWdKUlRyVTBTclR5dHA1SkEzcTVaYnExSzFIdy1tdXlyWHFOVkpHQkZCWFFhNlUtQUNHVDR6Q1N6aFdrN1pUNFBETHZNZzdzSkJsSnRnWlVHYml0LUE?oc=5",
+          "description": "Apple raises iPad and MacBook prices, blaming cost of chips amid AI boom The Guardian Apple posts worst day in over a year after MacBook and iPad price hikes CNBC Apple raises prices of MacBooks, iPads as memory costs skyrocket Reuters Apple Hikes Mac, iPad Prices on Memory Shortage; Shares Fall Bloomberg.com RAMageddon just got extremely real The Verge",
+          "pubDate": "Fri, 26 Jun 2026 00:48:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "terremoto",
+      "n_items": 11,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 50,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Terremoto in Venezuela, scosse di magnitudo 7.1 e 7.5. Oltre 40mila i dispersi segnalati - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOUkFyM3M5WlJjcndWOEhoWjdWR0hpSHZPTC00dldfd0RHR09wM0xRNVBvalg1QnBpMzFhalJoRFRnUHFFaDlZdTBLR21nM19SU0ExMmR3THRxZlFyRl9RdnI0TXJqYWdGYVFYZXVKVlBVQkc3Ukt4czVVTVB2aU1vb0hHUmhlWlhKVWtDTVRVNmR1T2phX0xhbWdoQnI2TzYyRnhmSURoUWNNRzlaMkhhcXd6ck82UVBueXZGMF8yWng1Vk1INWpxUkFQV0tlekRQajlWdXJVX3pHWGV6VE9ZREJsb1YwU1Q2STVNU3owUmlvNm5XY0x6QnBpbDVkZ1k2NFdJTG5ZRFphc29qekFUTg?oc=5",
+          "description": "Terremoto in Venezuela, scosse di magnitudo 7.1 e 7.5. Oltre 40mila i dispersi segnalati RaiNews Terremoto in Venezuela, \"almeno 188 vittime e 42mila dispersi\" | Farnesina: \"Morto cittadino italo-venezuelano, verifiche su connazionali\" Tgcom24 Venezuela, il bilancio del terremoto sale ad almeno 235 morti ANSA Maledizione La Guaira: la città più devastata, già sepolta con Chávez la Repubblica Le ch",
+          "pubDate": "Fri, 26 Jun 2026 02:50:25 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Violenta scossa in Venezuela, crollano edifici a Caracas - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdHB4T0NLeWZDSWJFOTFxeUt0ZnRaOW5vU09hZHRSU1VWNk15RXQ4eWVOdnluMUh2dF9SOWRQMWpEaGs4R2pFUjhEUWV5LVd0ZGE5U3pXekxUU1M0ZHR3dzJuTHI5ZmRqNlBpdjd2VGFnc04wdUxiYWI3YzFwMF9LX0hRNTNscWNsR3V6V2gzdTNQYmpzbDNuT2FiQ2tRb254TkdMR3YxdFZaRWd2aFhFczBiNS1LakNHdmt4UUVnSjhnc3FodHNNbUo0cVBHV1NUZTBudTFMZEJ0SDMyMHVPTdIB5gFBVV95cUxNeGJzZ0hqVXRpU2pXajBEM3lGRkFCUnRJSW93dHpNZ3V3XzhDWmVVR2xQdS1fTnROTVY1SjdZUjQ2cUFIdnZEU09qWkE5RnN4QndNVlFhWTV1ZDVJdExKSnBVdTdDcV9Rb3hPOW5fYkN6akl0a0VoLUt4XzFENHRFUExNelRYX3FaQ3F6cnpfZGZtUGRjOVhhS0gxZ29EZDBNUmJ3TWZTVnNEVmpKdVB4Tlp5ODYtSngtZ0lLUkp4bHVNaXpEbUdoN3E4bC1TZFZ0TnJxelFoNGl3T09GOFB6ZEhmWVpBUQ?oc=5",
+          "description": "Violenta scossa in Venezuela, crollano edifici a Caracas ANSA Terremoto in Venezuela, \"almeno 188 vittime e 42mila dispersi\" | Farnesina: \"Morto cittadino italo-venezuelano, verifiche su connazionali\" Tgcom24 Venezuela, il bilancio del terremoto sale ad almeno 235 morti ANSA Maledizione La Guaira: la città più devastata, già sepolta con Chávez la Repubblica Le chat e la corsa agli ospedali, la sol",
+          "pubDate": "Thu, 25 Jun 2026 02:14:43 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Terremoto in Venezuela, il bilancio sale ad almeno 235 morti e 4.300 feriti",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/25/terremoto-morto-un-italo-venezuelano-nel-crollo-di-un-edificio-a-la-guaira.-centinaia-di-vittime_5794b65c-936e-41f6-97bc-50d731019990.html",
+          "description": "Si scava tra le macerie. Parte la macchina della solidarietà, Farnesina monitora gli italiani",
+          "pubDate": "Fri, 26 Jun 2026 04:14:53 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Il terremoto in Venezuela: 'Siamo in tre', il miracolo dei fratellini estratti vivi",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/25/il-terremoto-in-venezuela-siamo-in-tre-il-miracolo-dei-fratellini-estratti-vivi_94de9a6b-f7eb-405f-9995-2c2589c9c420.html",
+          "description": "Li hanno trovati tra i solai crollati di un edificio, il video dei soccorsi diventa virale",
+          "pubDate": "Thu, 25 Jun 2026 19:01:26 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Terremoto in Venezuela, la scossa ripresa in diretta - I VIDEO",
+          "link": "https://www.ansa.it/sito/videogallery/primopiano/2026/06/25/terremoto-in-venezuela-la-scossa-ripresa-in-diretta-i-video_43fa2622-31dd-448c-a8f6-3c7e5d0d5f33.html",
+          "description": "",
+          "pubDate": "Thu, 25 Jun 2026 21:29:47 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "italia",
+      "n_items": 39,
+      "n_sources": 12,
+      "category": "tech-ai",
+      "score": 47.4,
+      "cooldown": true,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Rutte fa marcia indietro sulle basi: \"Italia si è attenuta agli accordi, nulla di più\". L'Iran cavalca il caso, Meloni: \"incomprensione, hanno capito\" - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNcW9kUjR6Y2pTZVBkRjFLMjFfdGgwOHJ5bHhkeGpvMF81T0NONUhKOENUVmhNOTZlU0tfeGdpT3BnbTliMVRONTVhNEV4Z0t4eWltSTZpY3BiR3NXZXdHYWVPUkhMVWtKZllMcFF0a3VOS1dJa0p1Yk14UTRuU3RBbVVQNGRnSU9mV04zaGVsaGx5VEJwa3poemRQR3lLemlZV01wMEt4VWdOMnIyQUFVVTlRQmdpWlkzd2hMdzBQSEtRLUpWaGN6b1dLWFlMbHNtVnVBaXlRNXRpQkplMzBEeHpOWU1vWHV1cnhKQ0l1ejRPcy05eWZFZUxnMXpMZHQtZlQyRGZfU0wtOHp1TXhQRzF1cmF3TERTMEp2ZmtvTS13Zw?oc=5",
+          "description": "Rutte fa marcia indietro sulle basi: \"Italia si è attenuta agli accordi, nulla di più\". L'Iran cavalca il caso, Meloni: \"incomprensione, hanno capito\" Il Fatto Quotidiano Iran, Meloni a Rutte: 'Solo confusione, serve prudenza'. Teheran cavalca il caso ANSA Difesa o catenaccio? L’Italia discute di sicurezza nazionale senza una cultura per comprenderla Linkiesta.it Basi Usa in Italia, il generale Tr",
+          "pubDate": "Thu, 25 Jun 2026 20:31:47 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Dimissioni Donnarumma, Salvini costringe l'ad di Fs a lasciare dopo i ritardi dei treni e i lavori sulla rete - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNNDQ3UFJHZ1F1djVvbkExdy1Dd0N2ajlOMWJHeWpENFd4T3lHVGQ0RVRpS3FNQkZNUFo4RlNHS2RRX3BYVkc0OEhTQ1JZZ3dDSGRCZ2lJQnozc2N4SUdHNE4zaG9jcFNrcW5EMEN5SmduTmFyYWp3dlF3QjZMTV9reFpUbmc1T0Nob1BRczdmZks1MVJnMUx1ZjAtTG1DenBjWE80aXR6UjJMVmh5YUVsckxTNmdrZGFXMFpvZW9JUTFjYUhqOEwtaTVZMVVWMVlRVTlSaGpER1hwWmFzTGdBNVl3enNNYlZGTW1EY2FzNm4xcVU3ZGNYSjJpR2pUVmxnNFk2MzRUanNKWEFOWVQwNWtZeG9zRXBES0E?oc=5",
+          "description": "Dimissioni Donnarumma, Salvini costringe l'ad di Fs a lasciare dopo i ritardi dei treni e i lavori sulla rete Corriere della Sera Fine corsa per Donnarumma a Fs, lascia nei prossimi giorni ANSA Stefano Donnarumma. Il matto che (quasi) risanò le Ferrovie (di R. Giovannini) HuffPost Italia Le ferrovie al disastro: il governo fa dimettere l’Ad Donnarumma Il Fatto Quotidiano Donnarumma lascia Fs. Casu",
+          "pubDate": "Thu, 25 Jun 2026 13:49:33 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra in Iran, Trump: \"Il Medio Oriente è più sicuro\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTEc4MkoxT25TOGtvcUtRb0U4OXB0OGtodTY4Z1RkMS1lcno4VEl2QjBJa09feWRpNHZxRXlEemZESUJDdmtVMmpBNGpPU1dUUkpTMlR6SnR5Zjc3VW81bzBPVkllU1cxcTc2WGljalluclROMzZsUzFGZFFrWkE4ZWswdWJlZGV5NmtfNEFkM1Q3NGl6cE5qejMwWEl5NFZvV0hBVWsybFV0V1k4V1FR?oc=5",
+          "description": "Guerra in Iran, Trump: \"Il Medio Oriente è più sicuro\" Tgcom24 Wall Street Journal: l'Iran non cede sui pedaggi a Hormuz. In ballo 40miliardi di dollari - Crosetto: \"Italia e Francia preparano proposte per il dopo-Unifil\" RaiNews Media, 1.100 marittimi evacuati dall'Onu a Hormuz ANSA Pedaggio alla turca o libero passaggio? Si litiga su Hormuz, smaltito un decimo della coda (di L. Santucci) HuffPos",
+          "pubDate": "Thu, 25 Jun 2026 21:59:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Ucraina, raid russo a Kiev: ci sono feriti. L'Ue proroga di un anno le sanzioni per Mosca - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmIxYkxJc01yRzZyU3pZNEEtRjlGbl81dDh2TEFaTlI0YnpFcWkxWUxVVXVXVGNtUlhHYkN6WFJyd3hJTklhTDVBRlctVUhCSlN3M3Z1WkxxdkNNeUM2Z2E3RzUzUmlEZlVDZkNTOUt6TnVZNlVfNkNORjZkTHphUE1sMXVlekgz?oc=5",
+          "description": "Ucraina, raid russo a Kiev: ci sono feriti. L'Ue proroga di un anno le sanzioni per Mosca Sky TG24 ++ L'Ue proroga di un anno delle sanzioni economiche contro Mosca ++ ANSA L'Ue proroga di un anno le sanzioni economiche contro la Russia Tgcom24 Sanzioni a Mosca, ma l’Ue compra ancora energia russa: 2,3 miliardi a maggio Secolo d'Italia Gas, nuovo regolamento UE: i timori per gli approvvigionamenti",
+          "pubDate": "Thu, 25 Jun 2026 21:12:57 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Più soldi alle armi, droni e una nuova missione militare: la mano tesa di Meloni a Trump (e cosa cambia per l'Italia) - Europa Today",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hVWRHRkFWWHQ5Wkw4dzJaUXVzM1VGMF9nYThsNERqSUVzbWNOallmcmh0T2M4YmVMODRuTWZRaUxUTGFENm0zWXFoT2lKejdDRUlILXpaSVhqOTN5RUNBdnkzYjVCcE5DQ3I0TXhqZw?oc=5",
+          "description": "Più soldi alle armi, droni e una nuova missione militare: la mano tesa di Meloni a Trump (e cosa cambia per l'Italia) Europa Today Il coro dei 5 leader al summit di Berlino: «Rafforziamo la Nato europea» Corriere della Sera Ucraina: Meloni, da Mosca precondizioni irricevibili, vi sia spazio per Ue Il Sole 24 ORE Conferenza stampa dei leader dell'E5 (Germania, Francia, Italia, Polonia e Regno Unito",
+          "pubDate": "Wed, 24 Jun 2026 17:58:46 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "trump",
+      "n_items": 10,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "score": 46,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra in Iran, Trump: \"Il Medio Oriente è più sicuro\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTEc4MkoxT25TOGtvcUtRb0U4OXB0OGtodTY4Z1RkMS1lcno4VEl2QjBJa09feWRpNHZxRXlEemZESUJDdmtVMmpBNGpPU1dUUkpTMlR6SnR5Zjc3VW81bzBPVkllU1cxcTc2WGljalluclROMzZsUzFGZFFrWkE4ZWswdWJlZGV5NmtfNEFkM1Q3NGl6cE5qejMwWEl5NFZvV0hBVWsybFV0V1k4V1FR?oc=5",
+          "description": "Guerra in Iran, Trump: \"Il Medio Oriente è più sicuro\" Tgcom24 Wall Street Journal: l'Iran non cede sui pedaggi a Hormuz. In ballo 40miliardi di dollari - Crosetto: \"Italia e Francia preparano proposte per il dopo-Unifil\" RaiNews Media, 1.100 marittimi evacuati dall'Onu a Hormuz ANSA Pedaggio alla turca o libero passaggio? Si litiga su Hormuz, smaltito un decimo della coda (di L. Santucci) HuffPos",
+          "pubDate": "Thu, 25 Jun 2026 21:59:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Più soldi alle armi, droni e una nuova missione militare: la mano tesa di Meloni a Trump (e cosa cambia per l'Italia) - Europa Today",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hVWRHRkFWWHQ5Wkw4dzJaUXVzM1VGMF9nYThsNERqSUVzbWNOallmcmh0T2M4YmVMODRuTWZRaUxUTGFENm0zWXFoT2lKejdDRUlILXpaSVhqOTN5RUNBdnkzYjVCcE5DQ3I0TXhqZw?oc=5",
+          "description": "Più soldi alle armi, droni e una nuova missione militare: la mano tesa di Meloni a Trump (e cosa cambia per l'Italia) Europa Today Il coro dei 5 leader al summit di Berlino: «Rafforziamo la Nato europea» Corriere della Sera Ucraina: Meloni, da Mosca precondizioni irricevibili, vi sia spazio per Ue Il Sole 24 ORE Conferenza stampa dei leader dell'E5 (Germania, Francia, Italia, Polonia e Regno Unito",
+          "pubDate": "Wed, 24 Jun 2026 17:58:46 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Iran, come funzionerà la caccia all'uranio: sensori, sigilli e controlli da remoto - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPemdROWdZNDZwTzMteWt5dEg2NjJaRm9Bb0FldTRpbUZHUlJtRzkwblNLakVxT0VjZVdoWTRmR2JaTUhvUXU0ZzQyekF2T2w2Ry1LWGI0eWxIVElXaHBBcXdFVFM5WlcxNGFxdllvVUl1YmVtZDhvcEVNQXNaR1dTM3dzN3JWSkFiTURqRjNWUlZrNmIzbTgtS092ZXg4Y2h5YWE4SGlJN21tZ0lkX2dicFV3LTdhd2hW0gG-AUFVX3lxTE5ucURid2djU3NFX3pyMldINnNCSEdzM1FycExSWU04eXhMbVljOHpBRkN5M1JUVjV4R1liUFM5NUlrZ3RDYXR3WXZQRndmMXlQU1dCNkJ0TGVBS3IwR2Y4MU5uOXlxWnRKTk04MVJDSTVYbkVzYndPODF6RndsbVR3eEZ3Nk9YNkhqSlQxMHotOEw4TVo2NDRBV1Nzd3BiaHprWHkyNWhxZm5ld3ZvNUZ3SVYwcEdVZWNSMjlpMGc?oc=5",
+          "description": "Iran, come funzionerà la caccia all'uranio: sensori, sigilli e controlli da remoto Corriere della Sera Iran: l'Aiea conferma le ispezioni, il 29 o 30 giugno riprendono i colloqui tecnici ANSA Trump litiga con Teheran sulle ispezioni nei siti atomici Il Fatto Quotidiano Proiettili e minacce, tra Usa e Iran il nodo resta Hormuz il manifesto Medio Oriente, si tratta sulle ispezioni dell'AIEA in Iran ",
+          "pubDate": "Thu, 25 Jun 2026 05:07:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Dalla frase shock sulle basi italiane al “Daddy” a Trump: le gaffe di Rutte alla guida della Nato - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcGU2dlRXUnBoRGg3NWVEVUNKVFhOVjk5dHVSUF9OQ3c3ZUpER3MwdmNxbTNSblpLVC11TDVyZjQ0SEpFek5CUF9obW9JVWwyX1lXa1V0RHFSc0xqR3VjaVpBbzdIOFowNnViemQ0dzJxcHo2U0thNlU2MEt5M01PX0tQNkxwSC1MOFhGcnRDQk1mN05YclE0dHYtd0l4QnFhc3FwR3ZrNFNGT0Q4dmFfaUVhNGlmd0o0anJOdFJTdllUeTJPRGlJUUoyMjV5T0nSAdQBQVVfeXFMTlhLbGZpWnJPa0VUbnVXY3dJaDJKVUY0RWFIYnBwLXhrZGhDSlVEQUFJZlhmd1BoRm16X3c0VlRaYzhPT1BMZlRiZ3B2Y3NYc2piWmJtS3lzZWNTM2p0U3ZrWE9LSG9WcklTZlNCWnNKVUpGNzZqbW5aZlQxY3B3OWJQTkdjaTZ5LTRoZzMtRUJ4ZFZ4NG5OTU94ekZaMDc3TlVQUjZOaS1KbzNlbHNiZlY2TXhKdmloRHpLVDBtaXF1WXBXVWpvWTNFbXNxam1IMUc5cTI?oc=5",
+          "description": "Dalla frase shock sulle basi italiane al “Daddy” a Trump: le gaffe di Rutte alla guida della Nato la Repubblica Rubio: 'Trump molto deluso dall'Italia, ma le relazioni avanti senza intoppi' ANSA Iperattivo e influente anche oltre la carica. E i legami col tycoon il Giornale Iran: Rubio, Trump molto arrabbiato con l’Italia e altri Paesi Il Sole 24 ORE Rubio, 'Trump molto deluso da Italia, ma relazi",
+          "pubDate": "Thu, 25 Jun 2026 10:03:02 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Le feste di Trump sono diventate una tragica parodia - Domani",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYmJWWG9LbGM2RmY1OEVKUnA3XzFvMXlFcndfMTVpUUx6OFVaUTJGekJaQUUxYU1hdTdZZ2RsTmpxQ3B0a2NPN2ZKd0dMbXA2M1FBTUJWRHF2WDcwUlRoYzVmWnZQNTdjaWpIZlI3M3Y4VDRXNTV6YlU5NFJyTUpmWU5TVklsLWUtVEZlUkVFUUlnZWFXcWtQakdMM3VudElSdENQQkU4UXlVZFNfSWc?oc=5",
+          "description": "Le feste di Trump sono diventate una tragica parodia Domani Trump celebra i 250 anni degli Usa con un comizio da campagna elettorale: «Dovremo sconfiggere di nuovo il comunismo» Corriere della Sera I due volti della bandiera americana la Repubblica Trump, il discorso al comizio Maga: \"Ogni giorno otteniamo una vittoria\" Sky TG24 Trump celebra i 250 anni degli Stati Uniti con un comizio in stile Ma",
+          "pubDate": "Thu, 25 Jun 2026 17:52:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "borsa",
+      "n_items": 12,
+      "n_sources": 3,
+      "category": "economia",
+      "score": 42,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Si sgonfia l’IA: crollano le Borse Ue - La Verità",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEcUphUGRKLXV3MV9VcElhMUptM0dIRFhqNnl1S2VLbkFnSjBYeGVVXzVUeG5pZDBHcWNSTkdtRi02TVJyV21mb001TzNmaWxxcFJ1bTFTOEpncGlVcUkwYWFRR3hJZVNPVEdkVVh1alJtdw?oc=5",
+          "description": "Si sgonfia l’IA: crollano le Borse Ue La Verità Per i titoli tecnologici alti e bassi, non crollo L'Eco di Bergamo Le borse sono andate male per il secondo giorno consecutivo, a causa del pessimo andamento delle azioni delle società tecnologiche Il Post Chiusura mista per Wall Street, giù il Nasdaq con il tech Borsa Italiana Wall Street: S&P e Nasdaq ora in calo, pesano ribassi Apple (-4,7%) e Nvi",
+          "pubDate": "Thu, 25 Jun 2026 06:37:19 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Le Borse europee provano il rimbalzo, a Piazza Affari corre Stm - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWHp1NkJtSDBnOXNtdGU1Q3FBSFZYU3ZKOExrQ3JtTVlqbXRna2QwNnJWb01QQkgtVFQxZE9LakdubWd5aWR5ZEZUTjFZWDFFS3Y1NzU1d1FPTEtaZS05Z040LTJtQUxnMDBzNXI0aHM0d1Z2X0l4RmFXRTVCR2dkdmFUMnRXU00wS2JkS3BCTGFzN0o3RUQtMWJPVlRfSktFdk5GbzRoeHc1RU1IUTVQLXlJeGtLT0hBNEd5ZlJfN29aUFhpaVUwQnpoXzkyNmhRc3pQblYzTGY0bFBaenp2U1pJdFNIcTRRcWh5c1hn?oc=5",
+          "description": "Le Borse europee provano il rimbalzo, a Piazza Affari corre Stm Borsa Italiana Mercati positivi, Milano resta alla finestra Borsa Italiana Borsa: il tech spinge l'Europa, giù petrolio e gas ANSA Le borse europee chiudono in verde. Rimbalza il tech, ma il Nasdaq è in rosso RaiNews Borsa Italiana, il commento della seduta del 25 giugno 2026 Soldionline",
+          "pubDate": "Thu, 25 Jun 2026 11:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Micron Technology: fatturato trimestrale record grazie a domanda di chip per data center AI - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbXhqTUZXR1ZibFZUel9CQVBQQTBSY1BHOEcwazZQM0w4WGxDYk5iNkY1Y0g3V2FtZ1d4YjU2N19YNm9sMklWOHNkQkkyWWFqVUlZeGpMMlFaa19Rb0lWLUxrOVFyelA4MlJFMW9HLUxIU1NicFc3LWF5Wi1yRXBmaEUyMmhLV0x6UzhBU19tUTRFcUJCMWl3QTRYNU1wT1lhXzRrYnhBQmNxRklmTUloWm05STlJaFpKRHl1SEozUQ?oc=5",
+          "description": "Micron Technology: fatturato trimestrale record grazie a domanda di chip per data center AI Il Sole 24 ORE Partono in territorio positivo i listini europei trainati dal tech Borsa Italiana Micron vola del 15% dopo ricavi record e una guidance positiva Forbes Italia Partenza in sordina per le borse europee. Micron convince e petrolio cala ancora, oggi Pce Usa Borse.it Effetto Micron su Wall Street:",
+          "pubDate": "Thu, 25 Jun 2026 06:39:06 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Mps punta al Golden Power. E Unicredit dribbla il risiko - il Giornale",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVVRvcENsRWdfWUFvTUJPb1ZncEgwdTFYcl90NWpzbFo1Qm0tdWg2NTZLR0dnaDR3cEZOeXdZajMxMXUtMGx6WHZGaEF3aTFOdm11T3lWNUgwbldBb3ZjUmNWMTItaHFzRlJPVTN3bHRyNlBzQnVCd3FDTmZQS2I0N1hOM3M0bVFXUjNvTGNwUm1PUS1WRWQxSFZPYVVVaURDYVE?oc=5",
+          "description": "Mps punta al Golden Power. E Unicredit dribbla il risiko il Giornale MPS, Consiglio comunale di Siena approva mozione su salvaguardia: si valuti Golden Power Borsa Italiana Lovaglio: “Mps un gioiello, esamineremo tutte le opzioni nell’interesse di tutti” la Repubblica Mps valuta offerte Intesa Sanpaolo e Banco Bpm. Lovaglio: \"Siamo un gioiello\" Sky TG24 Mps, Bocca (Fond CR Firenze): quando IntesaS",
+          "pubDate": "Wed, 24 Jun 2026 05:00:15 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Inflazione e tassi, la BCE raffredda i mercati: cosa cambia per l’Eurozona - FinanzaOnline",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQi1leGFwRHJHa09ieV8xMkZBSnNqbDhqRlR5aFkySkpkaW1BZ0xEVUF3YnVtbnRGTVBQUDc0am1mZnBISHJvSU5hbUdNaWZjNFlRMV9vZGlDSFhpVVV5QWhyaUdSMXVrN0MzQ21uQ3dYVUotQWVpRkR1ZHlZUlRSV0FvZnpIOW95Ym5mSFhNSFlFMlZwT2wyTXdHb3ItemVHSlZlbEFPUDlNbzRYVHc?oc=5",
+          "description": "Inflazione e tassi, la BCE raffredda i mercati: cosa cambia per l’Eurozona FinanzaOnline Bce, da indici pmi segni di peggioramento della crescita nel secondo trimestre ANSA BCE, Schnabel: dovremo aumentare ulteriormente i tassi di interesse Borsa Italiana Bce, allarme sull’Europa: la guerra frena la crescita e riaccende l’inflazione La Stampa Bce: guerra in M.O. grava sia su attività economica cor",
+          "pubDate": "Thu, 25 Jun 2026 09:04:00 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "caso",
+      "n_items": 7,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 41,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Rutte fa marcia indietro sulle basi: \"Italia si è attenuta agli accordi, nulla di più\". L'Iran cavalca il caso, Meloni: \"incomprensione, hanno capito\" - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNcW9kUjR6Y2pTZVBkRjFLMjFfdGgwOHJ5bHhkeGpvMF81T0NONUhKOENUVmhNOTZlU0tfeGdpT3BnbTliMVRONTVhNEV4Z0t4eWltSTZpY3BiR3NXZXdHYWVPUkhMVWtKZllMcFF0a3VOS1dJa0p1Yk14UTRuU3RBbVVQNGRnSU9mV04zaGVsaGx5VEJwa3poemRQR3lLemlZV01wMEt4VWdOMnIyQUFVVTlRQmdpWlkzd2hMdzBQSEtRLUpWaGN6b1dLWFlMbHNtVnVBaXlRNXRpQkplMzBEeHpOWU1vWHV1cnhKQ0l1ejRPcy05eWZFZUxnMXpMZHQtZlQyRGZfU0wtOHp1TXhQRzF1cmF3TERTMEp2ZmtvTS13Zw?oc=5",
+          "description": "Rutte fa marcia indietro sulle basi: \"Italia si è attenuta agli accordi, nulla di più\". L'Iran cavalca il caso, Meloni: \"incomprensione, hanno capito\" Il Fatto Quotidiano Iran, Meloni a Rutte: 'Solo confusione, serve prudenza'. Teheran cavalca il caso ANSA Difesa o catenaccio? L’Italia discute di sicurezza nazionale senza una cultura per comprenderla Linkiesta.it Basi Usa in Italia, il generale Tr",
+          "pubDate": "Thu, 25 Jun 2026 20:31:47 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Iran, Meloni a Rutte: 'Solo confusione, serve prudenza'. Teheran cavalca il caso",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/25/iran-meloni-a-rutte-solo-confusione-serve-prudenza.-teheran-cavalca-il-caso_3a1b9fa1-5add-4d00-82be-47ebb19b11e6.html",
+          "description": "'Mai nel conflitto, abbiamo fatto quanto detto in Parlamento'. Tajani sente Araghchi",
+          "pubDate": "Thu, 25 Jun 2026 20:49:18 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Tim fa causa a FiberCop. È scontro sui listini fibra - il Giornale",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS1FZTzI5MV9hT1lqSGFTY1NHMU96ZUh1aU9Ea2lhN20ybzhra1A1X0NMeU1yWlF3cnlSNzVPVlA0SmVZRmtkVl9BNWJIQkFiUDRBWm9jMk5fTFFWSExtWWpSbzRzQV9Qbk1CSDQtaHdrNnFsS3ZlcGlMRFFmUVVJcVY3YS0xallONlJ5UlRiNlB1MjNmamI0ZU03ckE2cW9R?oc=5",
+          "description": "Tim fa causa a FiberCop. È scontro sui listini fibra il Giornale Fibercop, fronte unito degli operatori contro i rincari della rete Il Sole 24 ORE Nuovo listino fibra, prezzi FiberCop restano i più bassi d’Europa Key4biz Tim-Fibercop: il caso rincari in Tribunale la Repubblica Ultrabroadband, i prezzi italiani sono i più bassi d'Europa CorCom",
+          "pubDate": "Thu, 25 Jun 2026 05:26:40 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "In Francia è stato rilevato il primo caso di ebola fuori dall'Africa: è un medico rientrato dalla Repubblica Democratica del Congo - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xUENORlNMa3p2YnJ4eTNPV3ZnRzVUMjMzSzBSZ21qWVRlYVVxQTZDRHRmNzBtbWdsS25MOFpNN09rQ2lCTVB3UXpVTWdSVkJPRXdXM0NrRWRQT010MGw2cW53cDFzckdMUDFMcF9kQ0tUUXNmR0MzTm5zRQ?oc=5",
+          "description": "In Francia è stato rilevato il primo caso di ebola fuori dall'Africa: è un medico rientrato dalla Repubblica Democratica del Congo Il Post Ebola. Primo caso importato in Europa. L'Ecdc: \"Il rischio di trasmissione sostenuta è molto basso, ma serve preparazione\" Quotidiano Sanità \"L'epidemia di Ebola in Congo è sottostimata\": Oxfam lancia l'allarme Il Fatto Quotidiano Ecdc, 'Stati Ue rafforzino la ",
+          "pubDate": "Thu, 25 Jun 2026 06:23:37 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Sospetto caso di chikungunya a Reggio Emilia, stanotte scatta la disinfestazione: finestre chiuse e stop agli impianti di ricambio dell’aria. Ecco dove - Gazzetta di Reggio",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNT3FZWEFTNEhCOGw3bjBDZExaMDhZMnlLSXF2TTl5UmdvVmNySkZpYUhuSWFVbW05cHhkTDJ2eXFqS1p3bjdUMkhRbXdGOC1VVXBwbVNxaXdBQXhkZ2lfVWk5d1FTZTA4MTlZTG5HY1BrMTFRMVpuQ2Q1T1NSRzR2MlVLaUNQNUpfQzBhaU8xUHYxUEdoYktGSlhVWVBrUjNqQndUMHppamRiSUhROVI1b1Jzdng2UVJTaW44YlpFX0hpVmxKWUFQT3RqWXNlV1JodE16QVJCbS1iaVVrRFkxeFBQb29VdE9Wa193M1AwMjJualZRa2ljRW1aQWdLc0NYWWZ1V25sNmFmZjhka1psbkE1ajNEMm1OZ3pxZktyTVNIWlhXcVFMak5GVVhuQQ?oc=5",
+          "description": "Sospetto caso di chikungunya a Reggio Emilia, stanotte scatta la disinfestazione: finestre chiuse e stop agli impianti di ricambio dell’aria. Ecco dove Gazzetta di Reggio Sospetto caso di Chikungunya: al via gli interventi precauzionali Il Resto del Carlino Sospetto caso di Chikungunya: disinfestazione a Mancasale e Pappagnocca Reggionline Caso sospetto di arbovirosi a Ravenna, scattano le misure ",
+          "pubDate": "Thu, 25 Jun 2026 17:06:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "rutte",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Vertice Meloni-Macron, la premier: «Non abbiamo partecipato al conflitto in Iran, Rutte ha confuso i voli autorizzati - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV1JTcjdEQkxhMUpwQS1Vb3FLYVB4b1VuZ0xLQ0NfX2JCcWlDeVRobjJBMkNSV1pLX0k3TDJrMk5CSE43NHhtVXZTbTdsOFZZZnc4amdnS0FKOWo1SDNLNVhiNGRkcFVFSDdZZ1FtX2hXQ2dGZWlyb1FxbU8zYjRnT3pPQlpXUDE5NEtybEUyNlNWZjBRU2tpeXNPQWFWVVZFS09EM1VNaE54UDV4Q2oyR3VYcW0yMTFSX0xtYg?oc=5",
+          "description": "Vertice Meloni-Macron, la premier: «Non abbiamo partecipato al conflitto in Iran, Rutte ha confuso i voli autorizzati Il Sole 24 ORE Asse Meloni-Macron: 'Roma e Parigi partner indispensabili' ANSA Libano, Nato, bilancio europeo: di cosa hanno parlato ad Antibes Macron e Meloni Avvenire Ad \"Agorà Estate\" il vertice Meloni – Macron Rai.it Meloni-Macron, l’asse ritrovato La Stampa",
+          "pubDate": "Thu, 25 Jun 2026 18:07:09 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Rutte fa marcia indietro sulle basi: \"Italia si è attenuta agli accordi, nulla di più\". L'Iran cavalca il caso, Meloni: \"incomprensione, hanno capito\" - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNcW9kUjR6Y2pTZVBkRjFLMjFfdGgwOHJ5bHhkeGpvMF81T0NONUhKOENUVmhNOTZlU0tfeGdpT3BnbTliMVRONTVhNEV4Z0t4eWltSTZpY3BiR3NXZXdHYWVPUkhMVWtKZllMcFF0a3VOS1dJa0p1Yk14UTRuU3RBbVVQNGRnSU9mV04zaGVsaGx5VEJwa3poemRQR3lLemlZV01wMEt4VWdOMnIyQUFVVTlRQmdpWlkzd2hMdzBQSEtRLUpWaGN6b1dLWFlMbHNtVnVBaXlRNXRpQkplMzBEeHpOWU1vWHV1cnhKQ0l1ejRPcy05eWZFZUxnMXpMZHQtZlQyRGZfU0wtOHp1TXhQRzF1cmF3TERTMEp2ZmtvTS13Zw?oc=5",
+          "description": "Rutte fa marcia indietro sulle basi: \"Italia si è attenuta agli accordi, nulla di più\". L'Iran cavalca il caso, Meloni: \"incomprensione, hanno capito\" Il Fatto Quotidiano Iran, Meloni a Rutte: 'Solo confusione, serve prudenza'. Teheran cavalca il caso ANSA Difesa o catenaccio? L’Italia discute di sicurezza nazionale senza una cultura per comprenderla Linkiesta.it Basi Usa in Italia, il generale Tr",
+          "pubDate": "Thu, 25 Jun 2026 20:31:47 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Dalla frase shock sulle basi italiane al “Daddy” a Trump: le gaffe di Rutte alla guida della Nato - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcGU2dlRXUnBoRGg3NWVEVUNKVFhOVjk5dHVSUF9OQ3c3ZUpER3MwdmNxbTNSblpLVC11TDVyZjQ0SEpFek5CUF9obW9JVWwyX1lXa1V0RHFSc0xqR3VjaVpBbzdIOFowNnViemQ0dzJxcHo2U0thNlU2MEt5M01PX0tQNkxwSC1MOFhGcnRDQk1mN05YclE0dHYtd0l4QnFhc3FwR3ZrNFNGT0Q4dmFfaUVhNGlmd0o0anJOdFJTdllUeTJPRGlJUUoyMjV5T0nSAdQBQVVfeXFMTlhLbGZpWnJPa0VUbnVXY3dJaDJKVUY0RWFIYnBwLXhrZGhDSlVEQUFJZlhmd1BoRm16X3c0VlRaYzhPT1BMZlRiZ3B2Y3NYc2piWmJtS3lzZWNTM2p0U3ZrWE9LSG9WcklTZlNCWnNKVUpGNzZqbW5aZlQxY3B3OWJQTkdjaTZ5LTRoZzMtRUJ4ZFZ4NG5OTU94ekZaMDc3TlVQUjZOaS1KbzNlbHNiZlY2TXhKdmloRHpLVDBtaXF1WXBXVWpvWTNFbXNxam1IMUc5cTI?oc=5",
+          "description": "Dalla frase shock sulle basi italiane al “Daddy” a Trump: le gaffe di Rutte alla guida della Nato la Repubblica Rubio: 'Trump molto deluso dall'Italia, ma le relazioni avanti senza intoppi' ANSA Iperattivo e influente anche oltre la carica. E i legami col tycoon il Giornale Iran: Rubio, Trump molto arrabbiato con l’Italia e altri Paesi Il Sole 24 ORE Rubio, 'Trump molto deluso da Italia, ma relazi",
+          "pubDate": "Thu, 25 Jun 2026 10:03:02 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Iran, Meloni a Rutte: 'Solo confusione, serve prudenza'. Teheran cavalca il caso",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/25/iran-meloni-a-rutte-solo-confusione-serve-prudenza.-teheran-cavalca-il-caso_3a1b9fa1-5add-4d00-82be-47ebb19b11e6.html",
+          "description": "'Mai nel conflitto, abbiamo fatto quanto detto in Parlamento'. Tajani sente Araghchi",
+          "pubDate": "Thu, 25 Jun 2026 20:49:18 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Rutte, 'l'Italia ha fatto quello che è previsto dagli accordi bilaterali con Usa'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/06/25/rutte-litalia-ha-fatto-quello-che-e-previsto-dagli-accordi-bilaterali-con_b2ae092f-9043-40e5-a0ec-410544a351eb.html",
+          "description": "'Non ho mai detto che ha fatto di più nella guerra per l'Iran'",
+          "pubDate": "Thu, 25 Jun 2026 20:51:32 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "tgcom24",
+      "n_items": 7,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "score": 34,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Terremoto in Venezuela, scosse di magnitudo 7.1 e 7.5. Oltre 40mila i dispersi segnalati - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOUkFyM3M5WlJjcndWOEhoWjdWR0hpSHZPTC00dldfd0RHR09wM0xRNVBvalg1QnBpMzFhalJoRFRnUHFFaDlZdTBLR21nM19SU0ExMmR3THRxZlFyRl9RdnI0TXJqYWdGYVFYZXVKVlBVQkc3Ukt4czVVTVB2aU1vb0hHUmhlWlhKVWtDTVRVNmR1T2phX0xhbWdoQnI2TzYyRnhmSURoUWNNRzlaMkhhcXd6ck82UVBueXZGMF8yWng1Vk1INWpxUkFQV0tlekRQajlWdXJVX3pHWGV6VE9ZREJsb1YwU1Q2STVNU3owUmlvNm5XY0x6QnBpbDVkZ1k2NFdJTG5ZRFphc29qekFUTg?oc=5",
+          "description": "Terremoto in Venezuela, scosse di magnitudo 7.1 e 7.5. Oltre 40mila i dispersi segnalati RaiNews Terremoto in Venezuela, \"almeno 188 vittime e 42mila dispersi\" | Farnesina: \"Morto cittadino italo-venezuelano, verifiche su connazionali\" Tgcom24 Venezuela, il bilancio del terremoto sale ad almeno 235 morti ANSA Maledizione La Guaira: la città più devastata, già sepolta con Chávez la Repubblica Le ch",
+          "pubDate": "Fri, 26 Jun 2026 02:50:25 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Omicidio dell'interprete Guerrino a Milano, fermato un 19enne - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYTEzQlhNT0ZlWlM0ZHRnSUdzWm0yVXhwd1ZBVUZnRmt0UjBLWjcxeDBlVjFKRkh0QVBVNzdtM3dfN3d6VEF3eUJBSGZCbC05NnJsTzhIVWJIQV9HckZOSGpnckwtMTBuOGREa24zUzVjN3h6c0FEMTFMX2U3M0xpc3JMMkRISXlWeDlrVVBUSzRYYkRjbXBUejR5NGFmUkJoY25IaEFyWk16LTExamgwX2MtZw?oc=5",
+          "description": "Omicidio dell'interprete Guerrino a Milano, fermato un 19enne Tgcom24 Omicidio dell'interprete Roberto Guerrino, fermato un 19enne: bloccato in stazione con le valigie MilanoToday Telecamere e intuito: così si è arrivati al killer dell’omicidio di via Oxilia la Repubblica Omicidio di Roberto Guerrino, l'interprete ucciso nella sua casa in via Oxilia a Milano: preso il killer, è un 19enne Corriere ",
+          "pubDate": "Thu, 25 Jun 2026 09:53:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra in Iran, Trump: \"Il Medio Oriente è più sicuro\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTEc4MkoxT25TOGtvcUtRb0U4OXB0OGtodTY4Z1RkMS1lcno4VEl2QjBJa09feWRpNHZxRXlEemZESUJDdmtVMmpBNGpPU1dUUkpTMlR6SnR5Zjc3VW81bzBPVkllU1cxcTc2WGljalluclROMzZsUzFGZFFrWkE4ZWswdWJlZGV5NmtfNEFkM1Q3NGl6cE5qejMwWEl5NFZvV0hBVWsybFV0V1k4V1FR?oc=5",
+          "description": "Guerra in Iran, Trump: \"Il Medio Oriente è più sicuro\" Tgcom24 Wall Street Journal: l'Iran non cede sui pedaggi a Hormuz. In ballo 40miliardi di dollari - Crosetto: \"Italia e Francia preparano proposte per il dopo-Unifil\" RaiNews Media, 1.100 marittimi evacuati dall'Onu a Hormuz ANSA Pedaggio alla turca o libero passaggio? Si litiga su Hormuz, smaltito un decimo della coda (di L. Santucci) HuffPos",
+          "pubDate": "Thu, 25 Jun 2026 21:59:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Ucraina, raid russo a Kiev: ci sono feriti. L'Ue proroga di un anno le sanzioni per Mosca - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmIxYkxJc01yRzZyU3pZNEEtRjlGbl81dDh2TEFaTlI0YnpFcWkxWUxVVXVXVGNtUlhHYkN6WFJyd3hJTklhTDVBRlctVUhCSlN3M3Z1WkxxdkNNeUM2Z2E3RzUzUmlEZlVDZkNTOUt6TnVZNlVfNkNORjZkTHphUE1sMXVlekgz?oc=5",
+          "description": "Ucraina, raid russo a Kiev: ci sono feriti. L'Ue proroga di un anno le sanzioni per Mosca Sky TG24 ++ L'Ue proroga di un anno delle sanzioni economiche contro Mosca ++ ANSA L'Ue proroga di un anno le sanzioni economiche contro la Russia Tgcom24 Sanzioni a Mosca, ma l’Ue compra ancora energia russa: 2,3 miliardi a maggio Secolo d'Italia Gas, nuovo regolamento UE: i timori per gli approvvigionamenti",
+          "pubDate": "Thu, 25 Jun 2026 21:12:57 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Violenta scossa in Venezuela, crollano edifici a Caracas - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdHB4T0NLeWZDSWJFOTFxeUt0ZnRaOW5vU09hZHRSU1VWNk15RXQ4eWVOdnluMUh2dF9SOWRQMWpEaGs4R2pFUjhEUWV5LVd0ZGE5U3pXekxUU1M0ZHR3dzJuTHI5ZmRqNlBpdjd2VGFnc04wdUxiYWI3YzFwMF9LX0hRNTNscWNsR3V6V2gzdTNQYmpzbDNuT2FiQ2tRb254TkdMR3YxdFZaRWd2aFhFczBiNS1LakNHdmt4UUVnSjhnc3FodHNNbUo0cVBHV1NUZTBudTFMZEJ0SDMyMHVPTdIB5gFBVV95cUxNeGJzZ0hqVXRpU2pXajBEM3lGRkFCUnRJSW93dHpNZ3V3XzhDWmVVR2xQdS1fTnROTVY1SjdZUjQ2cUFIdnZEU09qWkE5RnN4QndNVlFhWTV1ZDVJdExKSnBVdTdDcV9Rb3hPOW5fYkN6akl0a0VoLUt4XzFENHRFUExNelRYX3FaQ3F6cnpfZGZtUGRjOVhhS0gxZ29EZDBNUmJ3TWZTVnNEVmpKdVB4Tlp5ODYtSngtZ0lLUkp4bHVNaXpEbUdoN3E4bC1TZFZ0TnJxelFoNGl3T09GOFB6ZEhmWVpBUQ?oc=5",
+          "description": "Violenta scossa in Venezuela, crollano edifici a Caracas ANSA Terremoto in Venezuela, \"almeno 188 vittime e 42mila dispersi\" | Farnesina: \"Morto cittadino italo-venezuelano, verifiche su connazionali\" Tgcom24 Venezuela, il bilancio del terremoto sale ad almeno 235 morti ANSA Maledizione La Guaira: la città più devastata, già sepolta con Chávez la Repubblica Le chat e la corsa agli ospedali, la sol",
+          "pubDate": "Thu, 25 Jun 2026 02:14:43 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "morti",
+      "n_items": 7,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 34,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Terremoto in Venezuela, scosse di magnitudo 7.1 e 7.5. Oltre 40mila i dispersi segnalati - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOUkFyM3M5WlJjcndWOEhoWjdWR0hpSHZPTC00dldfd0RHR09wM0xRNVBvalg1QnBpMzFhalJoRFRnUHFFaDlZdTBLR21nM19SU0ExMmR3THRxZlFyRl9RdnI0TXJqYWdGYVFYZXVKVlBVQkc3Ukt4czVVTVB2aU1vb0hHUmhlWlhKVWtDTVRVNmR1T2phX0xhbWdoQnI2TzYyRnhmSURoUWNNRzlaMkhhcXd6ck82UVBueXZGMF8yWng1Vk1INWpxUkFQV0tlekRQajlWdXJVX3pHWGV6VE9ZREJsb1YwU1Q2STVNU3owUmlvNm5XY0x6QnBpbDVkZ1k2NFdJTG5ZRFphc29qekFUTg?oc=5",
+          "description": "Terremoto in Venezuela, scosse di magnitudo 7.1 e 7.5. Oltre 40mila i dispersi segnalati RaiNews Terremoto in Venezuela, \"almeno 188 vittime e 42mila dispersi\" | Farnesina: \"Morto cittadino italo-venezuelano, verifiche su connazionali\" Tgcom24 Venezuela, il bilancio del terremoto sale ad almeno 235 morti ANSA Maledizione La Guaira: la città più devastata, già sepolta con Chávez la Repubblica Le ch",
+          "pubDate": "Fri, 26 Jun 2026 02:50:25 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Europa bollente, 212 morti in Spagna. E Parigi vieta gli alcolici - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORWJLT25fd1gwNU9RWjJDYWlyR0NVeWJ3UXJoX3dIdS1acVJtV3BIMGxCSTZhRUdHYVZiQldMYzNYQXdCMDZJa3E5X2JTeWpaVThERGZqZlJKSmJPdzRXMlF1ZjJTUG1fVWZ4MFptZ1ZsWllyR0N6REYydmhZUHM0bVdNWlZtTi1KOEZzXzJkbkNRc1h3SXlib3VScVFjS2JEWVdnSkRCZFVVeV9INEpTU0FtdXlkNjdXOGpTYVVCNlloVlBjVTdGdkFZdHNHOU0zRENRcThJVmZPOGk3bjFKbFpIM0QyRFJlSlhjN1hkONIB9AFBVV95cUxQTThZZG9zeGJYZFVlY2FRTkhhUTdMRGdYWHpDVVZiT29ka2Z6VncyTHB1RDVVUmZSeFVDenhZMXB3MkJKUWYwZ01qQlV1Z0RBUUJQRHRwR3NZTTlod2JtY1dXMDM2UjB2cUZFTVVSYm9USGpFdUZYVkN3NHdIazl5c1Q4YURTZUJyVlZOeWk4UmR2eU1fczhDTktBbllxN19xczNvVkNnY1FhU3o3ekRtdU9GTXNzLU8wZ2FPUFJTS0N6VE5vWEhUY19Vcy1yLV95UXV1ak1HcFUtZzZpdEw4cDJnaUJ4Z1QtazNWYmM0OVdFZTNT?oc=5",
+          "description": "Europa bollente, 212 morti in Spagna. E Parigi vieta gli alcolici ANSA Colpo di calore nei bambini: bastano 20 minuti chiusi in macchina (non al sole) per morire Corriere della Sera Le città spente dai blackout, le prime vittime: il caldo ora è emergenza. Il vertice del governo Avvenire Circolare del ministero della Salute: \"Triage dedicato al caldo nei Pronto soccorso\" RaiNews Non basta bere acqu",
+          "pubDate": "Thu, 25 Jun 2026 19:55:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Chi era don Francesco Andreoli: il sorriso che illuminava l’oratorio di Schio - L'Arena",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQemc3dlFPUnFmaDdzdUxQdnNJTEtqeFdyUTZhbklHcktpb2FIZmY3eEpTc0NzTmFMcEluMVowOUhTb0p2bXVRcWJZNW92THFXVW94RGozdFExZUdGSDYxQ2NCSWZVdXN5cFRvdTBjRXZZTHFBX2YtaEptZVFjQTgzdFlsMWRCYXk2Q1ZudS1wdl9OMmJGc2V1aWUxT3pMQm9sOGJ3UGQ5WkJELXhEUmfSAbMBQVVfeXFMTWtMMEhSZWYzOXgyVVpUN1BtOW13clFfWTRYTGZsYjhZbXFaYmlzUDRSdG1xTl9MdXoyVXRFX0hRaFZDS28yZjJ3T0tlY1RXckI3bW5zZVJRd0N2bjdKb053OU1fVFh4eTg5VEZXcC1maHdZOVRXU3ozN050MmNya01ZU3FYVUI1WkE3cXVoc0w2TU9UZThjclMtQ1QtX1lkZG9KZ2lseFlFcEtZUzJ5bzcyZE0?oc=5",
+          "description": "Chi era don Francesco Andreoli: il sorriso che illuminava l’oratorio di Schio L'Arena Incidente sulla Pedemontana Veneta, a Malo muoiono un sacerdote e un animatore di 16 anni RaiNews Addio a don Francesco Andreoli, giovane salesiano che lasciò il segno al Bearzi UdineToday Scontro fra auto sulla Pedemontana Veneta, due morti e un ferito ANSA Chi era Alberto Fioretto: 16 anni e una vita di impegno",
+          "pubDate": "Thu, 25 Jun 2026 16:02:22 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Violenta scossa in Venezuela, crollano edifici a Caracas - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdHB4T0NLeWZDSWJFOTFxeUt0ZnRaOW5vU09hZHRSU1VWNk15RXQ4eWVOdnluMUh2dF9SOWRQMWpEaGs4R2pFUjhEUWV5LVd0ZGE5U3pXekxUU1M0ZHR3dzJuTHI5ZmRqNlBpdjd2VGFnc04wdUxiYWI3YzFwMF9LX0hRNTNscWNsR3V6V2gzdTNQYmpzbDNuT2FiQ2tRb254TkdMR3YxdFZaRWd2aFhFczBiNS1LakNHdmt4UUVnSjhnc3FodHNNbUo0cVBHV1NUZTBudTFMZEJ0SDMyMHVPTdIB5gFBVV95cUxNeGJzZ0hqVXRpU2pXajBEM3lGRkFCUnRJSW93dHpNZ3V3XzhDWmVVR2xQdS1fTnROTVY1SjdZUjQ2cUFIdnZEU09qWkE5RnN4QndNVlFhWTV1ZDVJdExKSnBVdTdDcV9Rb3hPOW5fYkN6akl0a0VoLUt4XzFENHRFUExNelRYX3FaQ3F6cnpfZGZtUGRjOVhhS0gxZ29EZDBNUmJ3TWZTVnNEVmpKdVB4Tlp5ODYtSngtZ0lLUkp4bHVNaXpEbUdoN3E4bC1TZFZ0TnJxelFoNGl3T09GOFB6ZEhmWVpBUQ?oc=5",
+          "description": "Violenta scossa in Venezuela, crollano edifici a Caracas ANSA Terremoto in Venezuela, \"almeno 188 vittime e 42mila dispersi\" | Farnesina: \"Morto cittadino italo-venezuelano, verifiche su connazionali\" Tgcom24 Venezuela, il bilancio del terremoto sale ad almeno 235 morti ANSA Maledizione La Guaira: la città più devastata, già sepolta con Chávez la Repubblica Le chat e la corsa agli ospedali, la sol",
+          "pubDate": "Thu, 25 Jun 2026 02:14:43 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Terremoto in Venezuela, il bilancio sale ad almeno 235 morti e 4.300 feriti",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/25/terremoto-morto-un-italo-venezuelano-nel-crollo-di-un-edificio-a-la-guaira.-centinaia-di-vittime_5794b65c-936e-41f6-97bc-50d731019990.html",
+          "description": "Si scava tra le macerie. Parte la macchina della solidarietà, Farnesina monitora gli italiani",
+          "pubDate": "Fri, 26 Jun 2026 04:14:53 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "parigi",
+      "n_items": 6,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Vertice Meloni-Macron, la premier: «Non abbiamo partecipato al conflitto in Iran, Rutte ha confuso i voli autorizzati - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV1JTcjdEQkxhMUpwQS1Vb3FLYVB4b1VuZ0xLQ0NfX2JCcWlDeVRobjJBMkNSV1pLX0k3TDJrMk5CSE43NHhtVXZTbTdsOFZZZnc4amdnS0FKOWo1SDNLNVhiNGRkcFVFSDdZZ1FtX2hXQ2dGZWlyb1FxbU8zYjRnT3pPQlpXUDE5NEtybEUyNlNWZjBRU2tpeXNPQWFWVVZFS09EM1VNaE54UDV4Q2oyR3VYcW0yMTFSX0xtYg?oc=5",
+          "description": "Vertice Meloni-Macron, la premier: «Non abbiamo partecipato al conflitto in Iran, Rutte ha confuso i voli autorizzati Il Sole 24 ORE Asse Meloni-Macron: 'Roma e Parigi partner indispensabili' ANSA Libano, Nato, bilancio europeo: di cosa hanno parlato ad Antibes Macron e Meloni Avvenire Ad \"Agorà Estate\" il vertice Meloni – Macron Rai.it Meloni-Macron, l’asse ritrovato La Stampa",
+          "pubDate": "Thu, 25 Jun 2026 18:07:09 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Europa bollente, 212 morti in Spagna. E Parigi vieta gli alcolici - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORWJLT25fd1gwNU9RWjJDYWlyR0NVeWJ3UXJoX3dIdS1acVJtV3BIMGxCSTZhRUdHYVZiQldMYzNYQXdCMDZJa3E5X2JTeWpaVThERGZqZlJKSmJPdzRXMlF1ZjJTUG1fVWZ4MFptZ1ZsWllyR0N6REYydmhZUHM0bVdNWlZtTi1KOEZzXzJkbkNRc1h3SXlib3VScVFjS2JEWVdnSkRCZFVVeV9INEpTU0FtdXlkNjdXOGpTYVVCNlloVlBjVTdGdkFZdHNHOU0zRENRcThJVmZPOGk3bjFKbFpIM0QyRFJlSlhjN1hkONIB9AFBVV95cUxQTThZZG9zeGJYZFVlY2FRTkhhUTdMRGdYWHpDVVZiT29ka2Z6VncyTHB1RDVVUmZSeFVDenhZMXB3MkJKUWYwZ01qQlV1Z0RBUUJQRHRwR3NZTTlod2JtY1dXMDM2UjB2cUZFTVVSYm9USGpFdUZYVkN3NHdIazl5c1Q4YURTZUJyVlZOeWk4UmR2eU1fczhDTktBbllxN19xczNvVkNnY1FhU3o3ekRtdU9GTXNzLU8wZ2FPUFJTS0N6VE5vWEhUY19Vcy1yLV95UXV1ak1HcFUtZzZpdEw4cDJnaUJ4Z1QtazNWYmM0OVdFZTNT?oc=5",
+          "description": "Europa bollente, 212 morti in Spagna. E Parigi vieta gli alcolici ANSA Colpo di calore nei bambini: bastano 20 minuti chiusi in macchina (non al sole) per morire Corriere della Sera Le città spente dai blackout, le prime vittime: il caldo ora è emergenza. Il vertice del governo Avvenire Circolare del ministero della Salute: \"Triage dedicato al caldo nei Pronto soccorso\" RaiNews Non basta bere acqu",
+          "pubDate": "Thu, 25 Jun 2026 19:55:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Europa bollente, 212 morti in Spagna. E Parigi vieta gli alcolici",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/06/25/europa-bollente-212-morti-in-spagna.-e-parigi-vieta-gli-alcolici_29101a56-1ebd-48fb-adab-23b5e588efe0.html",
+          "description": "Bimbo di 3 anni muore in auto in Francia. Circolare ministero, attenzione ai grandi eventi",
+          "pubDate": "Thu, 25 Jun 2026 21:55:37 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Asse Meloni-Macron: 'Roma e Parigi partner indispensabili'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/25/asse-meloni-macron-roma-e-parigi-partner-indispensabili_ec9cdaf2-0139-43c3-85b1-ea6a610665bc.html",
+          "description": "I due ad Antibes, 'mai rapporti glaciali'. E lanciano la coalizione per il Libano",
+          "pubDate": "Thu, 25 Jun 2026 21:42:36 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: l'Europa conclude in crescita, Londra +0,7%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/06/25/borsa-leuropa-conclude-in-crescita-londra-07_73039eac-9de4-4acf-bf9c-16cc16faac8f.html",
+          "description": "Bene Francoforte, caute Parigi e Amsterdam",
+          "pubDate": "Thu, 25 Jun 2026 17:44:40 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "says",
+      "n_items": 8,
+      "n_sources": 3,
+      "category": "tech-ai",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Venezuela earthquake: Staggering destruction signals urgent warning for California - Los Angeles Times",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaV82OUE2eFRnb0J6SVdmelJnVnFvYWNrOHAtUVhuMGFsS2pqY1p5bGVRTWthN0JObjViN3BBUnJTU1lSbFUyc3hrUVlNSlRlZk00Q1pBWjNnZkxOVEdrQUZvQUszSnI0aDhHRGFSY0lkd3J1cEhfUDFVUWlBY1RTcUthVE1pRFlPYlA0N1Vub25pTVdOTkZtNnpPUkNQQUoyZ2JDNUdTR003dl8xc3J2NWFmcVlGdGowdjhUX0NOcmZSSlRORWYzdGxn?oc=5",
+          "description": "Venezuela earthquake: Staggering destruction signals urgent warning for California Los Angeles Times What made the deadly Venezuelan earthquakes different NPR Venezuela health minister says around 235 people dead and 4,300 injured in catastrophic earthquakes AP News Oil Tankers, Ports And Supply Chain: What Venezuela Quake Means For India NDTV M 7.5 - 28 km SE of Yumare, Venezuela USGS (.gov)",
+          "pubDate": "Fri, 26 Jun 2026 01:13:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian migrants - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEemtaeFUxeVh3a21uU0hEei1NODJRVnYxeE5wMkFrYXVwLUlSbm40R1VPelNscmowVWRDOWlubTNYd3FNa2pxRVpELXpQcTJWNG01c2Mxanpzdw?oc=5",
+          "description": "Supreme Court allows Trump to end protected status for Haitian and Syrian migrants BBC Justices Clash on Whether Race Played a Role in Trump’s Bid to Deport Haitians The New York Times Takeaways: Supreme Court hands Trump massive wins on immigration agenda CNN WATCH: Stephen Miller says 'America's doors are closed fully to asylum seekers' after Supreme Court rulings PBS Springfield residents rally",
+          "pubDate": "Fri, 26 Jun 2026 02:18:04 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Why the trail went cold in Nancy Guthrie case - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44TVhLVnN5SDYwN1lsNUtWZFNqTnlvYWlrVnF5VHlfLU00X3U1NkxIS052bnhqU181dGxDMkY1Vzhja0YyWm9uR1Nvb3VQR3YtNUFZWS1SckpzQQ?oc=5",
+          "description": "Why the trail went cold in Nancy Guthrie case BBC Why law enforcement wanted to keep details private in Nancy Guthrie’s kidnapping notes CNN Nancy Guthrie ransom notes don't match suspect's behavior, profiler says: 'I don't believe they're real' Fox News Savannah Guthrie Responds to Update on Missing Mom Nancy, Renews Plea for Answers: ‘We Cannot Be at Peace’ TODAY.com Nancy Guthrie kidnapping: Ex",
+          "pubDate": "Thu, 25 Jun 2026 23:12:22 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Cassidy says he passed a note to Witkoff to request briefing during heated Trump meeting - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ1BST1VWeVJaUXVTZ1pkYkN1ODVfQ3g5bk1MdWpqb3d3V1hTcUZqM3NoR082NHFUbk9UVlczdGNzT0xiOElqdmY3Zl9vOUdNenVFNzFHb3N2XzM0Vi04eEpUdU1ocTVHZ3h5dkdxWGhCZG00M2xtUkxIRVZMcDNCY3UwM3pWNnMyLXdiM1pqbzg?oc=5",
+          "description": "Cassidy says he passed a note to Witkoff to request briefing during heated Trump meeting CBS News Trump has testy meeting with GOP senators, telling Cassidy at one point to sit down CBS News Trump’s Capitol visit devolves into shouting match with GOP senator he helped oust in primary fight CNN After Trump’s Outburst, Senate Republicans Reject Iran War Powers Resolution The New York Times It could ",
+          "pubDate": "Thu, 25 Jun 2026 16:29:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Ukrainian commander says the way NATO's trying to develop naval drones makes him uneasy - Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOXVXcmpaRzU5dWdDcWJRcExYWEc1aER1cXYyZ2l5ZHZ4QVZ3OFNiT2V1XzBMLWdOclNUc3ZZV05HaUdBeEJEMnVxalMtd3haYXJpaHl3RFN5YXVXUVR0MFpnanZwTXNNdWxDSENKSEVFOER4YXJNdHhlbFdPeXJFSnpRZUJxS2daVVZQUHBWS3g?oc=5",
+          "description": "Ukrainian commander says the way NATO's trying to develop naval drones makes him uneasy Business Insider What U.S. Special Operations Veterans Are Learning From Ukraine's War Forbes The Rise of Autonomous Drone Warfare EE Times Kyiv using AI-powered Hornet drones to strike deep into Russian territory France 24 Ukraine’s Growing Drone Armada Is Overwhelming Russia’s Air Defenses WSJ",
+          "pubDate": "Thu, 25 Jun 2026 11:43:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "media",
+      "n_items": 5,
+      "n_sources": 3,
+      "category": "general",
+      "score": 15,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra in Iran, Trump: \"Il Medio Oriente è più sicuro\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTEc4MkoxT25TOGtvcUtRb0U4OXB0OGtodTY4Z1RkMS1lcno4VEl2QjBJa09feWRpNHZxRXlEemZESUJDdmtVMmpBNGpPU1dUUkpTMlR6SnR5Zjc3VW81bzBPVkllU1cxcTc2WGljalluclROMzZsUzFGZFFrWkE4ZWswdWJlZGV5NmtfNEFkM1Q3NGl6cE5qejMwWEl5NFZvV0hBVWsybFV0V1k4V1FR?oc=5",
+          "description": "Guerra in Iran, Trump: \"Il Medio Oriente è più sicuro\" Tgcom24 Wall Street Journal: l'Iran non cede sui pedaggi a Hormuz. In ballo 40miliardi di dollari - Crosetto: \"Italia e Francia preparano proposte per il dopo-Unifil\" RaiNews Media, 1.100 marittimi evacuati dall'Onu a Hormuz ANSA Pedaggio alla turca o libero passaggio? Si litiga su Hormuz, smaltito un decimo della coda (di L. Santucci) HuffPos",
+          "pubDate": "Thu, 25 Jun 2026 21:59:00 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "‘Grand Theft Auto VI’ Going Digital-Only Is a Car Crash for Physical Media - The Hollywood Reporter",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRVM4WkFCMEhwSjUwZmxVLTJtaEZab0ZGQTZGNGpjV282dHppYkVUc1RWc0Z5QVdVU0Z5U3BLazQ1ejF4MnBiaExvaUt3WGgxbnRHa2x0S3hMT0d2X3RITVJ5V01NdHg0YmpYU3JURVZWaE4zbVlYdDhLR2tJdVJ3M0FYV3htanl2eHZwOTQ5N2I1cjBGUWxiUW1ybDQ5RFhxQUVvY3o2dHU1cGEyV0RCelphSDJLeFJtd19PV0hCZkJNMGFOWWRJ?oc=5",
+          "description": "‘Grand Theft Auto VI’ Going Digital-Only Is a Car Crash for Physical Media The Hollywood Reporter Pre-Order Grand Theft Auto VI on June 25 Rockstar Games GTA 6 Pre-Order Bonuses and Price Confirmed – All Ultimate Edition Rewards VICE Rockstar Just Released 63 New GTA 6 Screenshots - Here's What We Spotted Digital Foundry After More Than a Decade of Waiting, ‘GTA VI’ Is Finally Around the Corner WI",
+          "pubDate": "Thu, 25 Jun 2026 22:29:36 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "L’urlo nero dell‘orizzonte degli eventi - Media INAF",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpWjJNekhtelRfb2RIUDQxRjB1TlhjaUZhVDFKMzBoV2twdFowOXdvdndWVEo4SVlIZjEyak1pUWtkSll6RWRGaEhOVG9lRDhkQWRRdVVhTTZnVnNiSVJhOXd6SGNMb1ktNUluWHBnNEI?oc=5",
+          "description": "L’urlo nero dell‘orizzonte degli eventi Media INAF",
+          "pubDate": "Wed, 24 Jun 2026 15:00:41 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Due mondi giganti più leggeri dello zucchero filato - Media INAF",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM1V0U205WFdPOTZfcHNWVDVKYm9YSExmWERtRjRKWGNESTRHRjZtRHBnVWVuczZJdVdBSjRGMlYtdzhUTmZ4Qy1RRjZsV2xOSUl4YkpiOVhIb2xUU1A2RlBPRno4RWtrTl9iQ1NBcExtV0cyRlJyRmpjYmlBeC1jdUZweG9tUnQtNGc?oc=5",
+          "description": "Due mondi giganti più leggeri dello zucchero filato Media INAF",
+          "pubDate": "Thu, 25 Jun 2026 12:11:45 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "L’ammasso che globulare non è - Media INAF",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UYzlualNUQzJ0R1BFUzh4Zi1mZk9iZHRsSGdrTFNWc05pN21rZnFiTENvM2I4SmxwNnNUMUVBek9uODZKVzlnYzktbFlPUWtKbVQ4TFZzSmpGQ182amZmdHhtVlAxSFk0SXc?oc=5",
+          "description": "L’ammasso che globulare non è Media INAF",
+          "pubDate": "Thu, 25 Jun 2026 12:53:58 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "strage",
+      "n_items": 3,
+      "n_sources": 3,
+      "category": "diritti",
+      "score": 15,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Definitive le condanne per la strage di Viareggio, Moretti va in carcere - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcGxJRlhpMmtEOXZVbjd1YzdPb1JmUkQtQS1TaUQyVEdjOHppUWNKVldrMml1UG5sRkxHWlpvMVM0UG9CYXk4VXZ5eGVWSm1RTmxNSlMtRExIWWhZSllXSkpSakl2cDJJMFVqT3ZNRkFXSy0yTWZPSWFOU3hHeHZEU1BuRUdKdm5FWHJJVzhTU2NtU2RMWEYwdXBFeEEyOVQyclRJc3MyWFp4SUkydnpOS3U2ZkN3Mmlla05qUks1S05mWUpyajJpMjBXVDhuT05udk1pMFhnUnJsU0gwZ0NDVTFlakdSWUk2blk1cGREcXVEQ0UtMEI1NdIB_gFBVV95cUxQTGdvbzhoeWNnd3Q3RDFTSEFMZDdtQUI1ZTZ0OUpDeEFvQW0xREJUUWNKYUhiMHIzYmlUX1hJOEVZcWgwdXZkeGx3LVc3YkVlZlJqV19jdFlDMldER2p5ajVPWUtES2xNODY1Q25iRjh6QkRWS2VycVhXWURRWEZtWFJ4YmxyQ25KakJEZXdoVkU2Q2hxS1Jlc1NSOUVwRjlKYTlUMEROV0lSQ0ptMnNXMDh1YTJlNE5IQUUxNll2UGVzTDlpa1BPcHltT21wOUl2Q2EwQXgzaXl0bUxBQV9fWWVEczk2aXlpUFFKb1pNVEJ1cFdzZXczSWZ5Tnludw?oc=5",
+          "description": "Definitive le condanne per la strage di Viareggio, Moretti va in carcere ANSA Strage di Viareggio, diventano definitive le condanne. Mauro Moretti andrà in carcere Sky TG24 L’ultimo sfogo di Mauro Moretti: “Affronterò la galera, ferita la certezza del diritto” la Repubblica Moretti: «Sono pronto alla cella, vado con la schiena dritta. Ma per tutti i manager è un precedente pericoloso» Corriere Rom",
+          "pubDate": "Thu, 25 Jun 2026 21:19:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Gaza, un report Onu documenta la strage deliberata dei bimbi - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTC1PV1FsVk84cFIybmxtSWJBd0xsYnZiY1NjQlA0ZGYxOGpSekI0YkhHYXpEOW1IczJTMnA2UVpnam1fa0NtMWctVWNLTVYyQTc3a09wRkJUaEVNQW82VVRWLVMyaWJtaVZPS3RySGEtUE02djd5ZHVSanU5M0d2V3Y5emRIN2FybmdSYTNzU0pHS1VRWlpudDlhMzVraUFmSXVGNTgxUkdQUHcxbXFZVU8ycEdJeExyQ01XT3RCVEszR3B6NkZBWFp4N0U?oc=5",
+          "description": "Gaza, un report Onu documenta la strage deliberata dei bimbi Il Fatto Quotidiano La Commissione d’inchiesta Onu: i bambini di Gaza presi di mira, “è genocidio” Vatican News Israele-Palestina e la guerra ai bambini ISPI Bambini palestinesi uccisi con intenzione. Onu: «È genocidio» il manifesto Rapporto ONU su Gaza e Cisgiordania: nessun bambino deve essere un bersaglio Save the Children Italia",
+          "pubDate": "Wed, 24 Jun 2026 22:01:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Definitive le condanne per la strage di Viareggio, Moretti va in carcere",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/06/25/definitive-le-condanne-per-la-strage-di-viareggio-moretti-va-in-carcere_0a7d6caa-f698-40e0-8847-e5f05944f439.html",
+          "description": "La Cassazione rigetta i ricorsi. Nel 2009 morirono 32 persone. La difesa dell'ex ad di Ferrovie: 'Siamo indignati'",
+          "pubDate": "Thu, 25 Jun 2026 23:19:43 +0200"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    }
+  ]
+}

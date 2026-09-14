@@ -1,0 +1,925 @@
+{
+  "date": "2026-08-17",
+  "top_topics": [
+    {
+      "keyword": "italia",
+      "n_items": 26,
+      "n_sources": 12,
+      "category": "tech-ai",
+      "score": 318,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Meteo, le previsioni di domani: allerta gialla in 13 regioni per temporali e grandine - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVHRfREhzTG91dEZmdVV3SGNBM2J0N3diWTZ1NGZTd2ZHSHV5dlZ1NG5RSzZyWld0SlROUzJmWmQ4Snltd3lGNHlDR05pelZZU0g3cnp4eVhzd2NKdWQ2WExsLWVYUnpUUnNvaU95MlUtQ3ljdVRxc0g0S0FzMzVZYW5jM1JDSFkyMGZRNGtyX2E?oc=5",
+          "description": "Meteo, le previsioni di domani: allerta gialla in 13 regioni per temporali e grandine Sky TG24 Ore contate per il grande caldo, adesso è allerta temporali ANSA Finisce l’afa, arrivano i temporali: l’Italia tra grandine, vento e nuovi disagi. La mappa delle previsioni Il Fatto Quotidiano Le previsioni per i prossimi giorni sull’Italia, temperature in calo da metà settimana Il Sole 24 ORE Meteo, in ",
+          "pubDate": "Sun, 16 Aug 2026 20:14:07 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Farnesina, sono circa 700 gli italiani sull'isola di Flores in Indonesia - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNd2VJd2FVZVdaRDIyd2trbFYzSnVBLURnRzRwcnZsVEpRUlJudThYZTNvVWxnR2hFbXNqRGNleHk4TnJHa3NfQzRqWXhrRUFWN2RYLXJ4bF9tS0dCbU5qWVMwMFA0ekdiSGJWRlBRTTg4dXRLZHFYb2Rza21sTk5taWluQzFOQ242Q2NKUDhHREVJdjg4VVA0QUVxOGJxMENycHlEczVPMlJBZVZILWx5d2l1WnU1WGVhMUwwcjVsYzYxbVRlSUd0bng2QUJRb3lfa21QSVhEWVRtU0JKTmpDNS1YYjBJanFiRzB1Z3BEaUhyODlmLVlv?oc=5",
+          "description": "Farnesina, sono circa 700 gli italiani sull'isola di Flores in Indonesia ANSA Indonesia, sono 53 i morti nel terremoto. La Farnesina: «Ecco i numeri per gli italiani nella zona» Corriere della Sera Il terremoto scuote l'Indonesia, si scava tra le macerie ANSA Terremoto a Flores: 51 morti e 5.000 sfollati dopo il sisma 7.7 Il Fatto Quotidiano Indonesia, il vescovo di Ruteng: \"Dio porterà alba nuova",
+          "pubDate": "Sun, 16 Aug 2026 13:18:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra ultime notizie. Tregua Iran-Usa verso scadenza del 17 agosto senza accordo, escalation in Libano - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSHZQbGpzWHZHYkVLTi1kZXlQUmlWR0lSa1VUN0FYWmd4M0RVM2RSemMwRUlfeE1LYWxCVGd6YjhVQ2x2WGdla3VpUW1yZVJLYXVMMTl0V0xYTlVhWkZBdUt3S1NScGZ0d3E2Y2c4ZmxWMmd1M25KTENxZlJkeXZ6VGloVEZRamh1RVdvSjNQdmNteHlSc0l2QlZrT2lHMFBCVjJQSVl5ODI5S2hjY1E3My1KXzI?oc=5",
+          "description": "Guerra ultime notizie. Tregua Iran-Usa verso scadenza del 17 agosto senza accordo, escalation in Libano Il Sole 24 ORE Khamenei in punto di morte e tensioni regionali: ecco perché questo è \"il momento migliore\" per un accordo con gli Usa, come dice l'Iran affaritaliani.it Iran, media Turchia: accordo con Usa per prorogare cessate fuoco in scadenza 17 agosto Il Quotidiano del Sud TASS (TELEGRAM) * ",
+          "pubDate": "Sun, 16 Aug 2026 21:35:42 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Quinta ondata di caldo sull'Europa: ecco dove è arrivata, le temperature e le previsioni sull'Italia - Il Mattino",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbFNGVDU0REIxWVN5eTJOQV85OXM0cTZJM0ZJZ3VjYXpWWnJWY3RwNG1jaG1WX2ViekVwdHRzT3JCYUg1U1VVSkQ0bFdsSkgzQlpVRVdkTU5UekZJUmYtY2hxM3JCNlR6WFFhWENLblZ4ZG9VZUJZSW1YWmdOTlVELXZTbVowOHRzdUJjRXF2Zlk4TTVZWnhtWU4xLVdQRHo2Z0k3REN5cUNDdjNseE9F0gG0AUFVX3lxTE1DUUVJSExtbFVoRVVCNTZCczhrUFJGeE1KSmgteWRDdE54WW00WnE5bWtuY2pFcGZpTzBWb1U5elNKSUhuS2RfbzN2TnFBZTBnYXRlTW9tQjZqWUFNY0tucWNFSW8zY21HdXdvVUtxMU83M0tmWElkeDh1aXZpa1JrenFzZ2QyLTkwb3pVcUlWZ00xN3JlZ2dqaGR4TkxwdkRzVmZ1ZzRyZFNOT2ZjQXl6ZHQtMA?oc=5",
+          "description": "Quinta ondata di caldo sull'Europa: ecco dove è arrivata, le temperature e le previsioni sull'Italia Il Mattino L'Europa stretta nella morsa del caldo: 150 milioni persone a oltre 35 gradi RaiNews È l’anno più torrido di sempre. L’allarme clima non finisce più repubblica.it Quinta ondata di caldo, dopo i nuovi picchi in Europa si rischia anche in Italia: giorni e regioni colpite Virgilio Cambiamen",
+          "pubDate": "Sun, 16 Aug 2026 16:49:15 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Capolavoro Italia: oro di Iapichino e della 4x400, gli azzurri sono campioni d'Europa - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPY1p5WXVZWXZsQmpxRGlydG9uNzNBcndBbXRLdjhoQ0cwaDV0Q2Q4dGQ0SnBQMHc2LWxCb3ZBUTFJenI3bTU0WXViUW9PVXg2TlVhY3VDb1BDaENOS0tzdjFmVGlZMHlxZHpWV2VxVjlkS1dHRjJwcVpmSVJBR2hoaHRpczZibzNlUy1HMFBhaG42aElkZ3VNX29NamsyMGo5TkdONjJETFBBTzlaNEt2SWVLa0VPRUxpZ1pOWWVWODNhVVZleF9VNVkxSEQzNEE4d1lBNFRpVUI2V0pPMkdLVHVZQjhWVTREd3V6eVh1cEFQdzc3UU1nUTV30gH_AUFVX3lxTE93VWdRN2hlZzVyVnNSWjlEOWRDMjFTWHpaZWVsQ29hQ040Qy1fQnNBaTlzTGJqNHpBTmNNcVZ0MDViMWZITWpaS09pSDNZWVZDa1Fickg2UTdQR1BsS3VJSWJtOFg4cW1lUXg1UUpHZDZUMnBSQ2Q4dEIwamxibkRxSDBDLVVtODd1eTZQempSSDhHbGxKVjdEOXZaMjJSSmNFMXB3T2pwNGNtaTZlNjV4TnN5d2QteXd4R2htRG9TNVJDRE5hTFd4TUJhODRST01JMG03X21BeW15M2VxU0MwTm1Hc0twM1RSQjhFMEt6VXNIek1VcWNwT3lBOHNTVQ?oc=5",
+          "description": "Capolavoro Italia: oro di Iapichino e della 4x400, gli azzurri sono campioni d'Europa ANSA Italia da leggenda: è trionfo a Birmingham! www.fidal.it Europei, il medagliere: è grande Italia! Gli azzurri chiudono in vetta davanti alla Gran Bretagna gazzetta.it Europei di Atletica 2026, i risultati di oggi in diretta live Sky Sport L’Italia ha vinto il medagliere degli Europei di atletica leggera Il P",
+          "pubDate": "Sun, 16 Aug 2026 22:57:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "trump",
+      "n_items": 17,
+      "n_sources": 7,
+      "category": "geopolitica",
+      "score": 125,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump annuncia 'significativa riduzione' delle manovre militari con Seul - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWDFla1FYMTNRLWFDOXMySEp6cllXTmVuek95bjdVT3pIb3UwVUpGQU92bGVHWUhHTHYxX3g0NVgzNVpmcVAweUsxUlRjbW9acnRDSDVaX252eFMyeXlHZ1RSbXVKc3JBQ29IVkVPYWlwczdmeEVxbldENkQ0MmdZQ0JtZG45Rkh0eHJHcTRDYlJ4Ty1DU1ZWWUowUkU5eFh0ZC1LRlhYdXE0eGl3LTRtRWlyZVJhb3FGalRsRkwxY3RHX0QtM21ESjkzV1VkSE5OVzRieTBhaGdjSGdvdjEtZE1BX3c4NVZqZGpYTkpSSV95TXBXRjRB?oc=5",
+          "description": "Trump annuncia 'significativa riduzione' delle manovre militari con Seul ANSA Trump: \"Riducete le esercitazioni con la Corea del Sud\". Ma non per ora RaiNews Esercitazioni militari congiunte Corea del Sud-Usa. Così Trump fa il doppio gioco con il suo \"amico\" Kim affaritaliani.it Seul: \"Pyongyang ha lanciato missile balistico verso mar del Giappone\" Sky TG24 Esercitazioni militati Usa‑Corea del Sud",
+          "pubDate": "Sun, 16 Aug 2026 21:56:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Il presidente della Colombia ha chiesto a Donald Trump di sospendere i dazi, per via del terremoto - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zYzJGZnV2anZqU256eXg0cTYxQ0NDT2lmSmk1eVhVX2szOWtlRmlQc1E4bjhxdGktX3J0YWg4eFFTdjJrRmpGRFZjNjF0RmxUN3E2QlQ0X1BYM2s0TDVxRUh1dlRKLXljOXdzMmFpQmdaYmJKdUE4?oc=5",
+          "description": "Il presidente della Colombia ha chiesto a Donald Trump di sospendere i dazi, per via del terremoto Il Post Terremoto in Colombia, la sfida di fare scuola dove la scuola non c'è Sky TG24 Colombia, corsa contro il tempo per trovare sopravvissuti Vatican News Colombia, non ce l'ha fatta la donna estratta dalle macerie a Cali dopo 40 ore Giornale di Brescia Terremoto in Colombia: approvato un pacchett",
+          "pubDate": "Sun, 16 Aug 2026 07:01:04 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Axios, amministrazione Trump ha aperto canale segreto con i pasdaran a maggio - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZnAtWXNOc0hpdkdQeXZUVU4td1ZqR2RaUG0xaXBvMTl1VXlJREhXcmh3ckFORUx1VXhHS0JvaGxlQjhvVktPWG1ZaUhoYldyTi1WX2hLaG5zdFJFc084ZUE3M3VMdlJyMHdKRWdhSXNoaWVpNDd4QWRHYlo5WU5idEl0aE1aQW9PTXZyVmFUV2pfUHNIWWNBM3BYRGVoaFRVNUFHU2hBckN1TktLSUhreW93WTRsRnh6WE0ySXBKcy0weWRKUmRaQWZfRmhtcVhlVWdRNHIycE8xZnNtWGR5LUJfanFObWU5TnVZZnFpX1VVU2pwcDFXT1B0VDVPMzg?oc=5",
+          "description": "Axios, amministrazione Trump ha aperto canale segreto con i pasdaran a maggio ANSA Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Sun, 16 Aug 2026 13:16:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZjhLYWc5Uld6bFdvNHRRU3dsVTB6N3FBUVo0SFIwZ0xpTjlfQ0s0QmJhWEpsdUVsTXlrOWlZRnlXZzJqUVBOa3FjS1RZNGxJTjRXRUN2SWhLUQ?oc=5",
+          "description": "Trump says US to scale back South Korea military drills after it stayed out of Iran war BBC Trump says US will reduce military exercises with South Korea, citing lack of help with Iran CNN Trump Administration Live Updates: President Orders Reduction of Military Exercises With South Korea, a Key Ally The New York Times Trump tells Hegseth to cut back U.S.-South Korea drills Axios Trump orders Pent",
+          "pubDate": "Mon, 17 Aug 2026 02:51:27 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Live updates: Jared Kushner meets with regional leaders as multiple conflicts roil the Middle East - CNN",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40V2dqMUJIcWdndGVfSXlVeDRKbmkzU3hrTTRyeXBrSWR3NGtUNzNkSm54X19kcDNBNzJBaVV0NEJTNVdLVVRrUlNHLXZETnFwMEIyekJhOTduVWxZQWZyVW5WQ0xua1ByTDc0OG1B?oc=5",
+          "description": "Live updates: Jared Kushner meets with regional leaders as multiple conflicts roil the Middle East CNN Kushner Meets With Hamas to Advance Trump’s Gaza Plan The New York Times Trump envoy Kushner meets Hamas leader to push Gaza peace plan BBC Inside Kushner's Hamas meeting: What comes next in Gaza Axios Trump's envoys meet mediators, Israel strikes Gaza Reuters",
+          "pubDate": "Mon, 17 Aug 2026 01:45:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "iran",
+      "n_items": 13,
+      "n_sources": 8,
+      "category": "geopolitica",
+      "score": 110,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra ultime notizie. Tregua Iran-Usa verso scadenza del 17 agosto senza accordo, escalation in Libano - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSHZQbGpzWHZHYkVLTi1kZXlQUmlWR0lSa1VUN0FYWmd4M0RVM2RSemMwRUlfeE1LYWxCVGd6YjhVQ2x2WGdla3VpUW1yZVJLYXVMMTl0V0xYTlVhWkZBdUt3S1NScGZ0d3E2Y2c4ZmxWMmd1M25KTENxZlJkeXZ6VGloVEZRamh1RVdvSjNQdmNteHlSc0l2QlZrT2lHMFBCVjJQSVl5ODI5S2hjY1E3My1KXzI?oc=5",
+          "description": "Guerra ultime notizie. Tregua Iran-Usa verso scadenza del 17 agosto senza accordo, escalation in Libano Il Sole 24 ORE Khamenei in punto di morte e tensioni regionali: ecco perché questo è \"il momento migliore\" per un accordo con gli Usa, come dice l'Iran affaritaliani.it Iran, media Turchia: accordo con Usa per prorogare cessate fuoco in scadenza 17 agosto Il Quotidiano del Sud TASS (TELEGRAM) * ",
+          "pubDate": "Sun, 16 Aug 2026 21:35:42 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Iran Usa, 8 Paesi accusano Israele di aver ostacolato piano pace per Gaza - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwUHRoLXBQeWMxNy1jUDkxV2xKNFV0bVQyU1lfY1h5RFd6SFBMMlI2dzJaZGoxX1RDeTE4X0hYQVgwLXdsVkMzT1ZERERnNFVvVHN2WUlvX2ptaG4yaHZHVlg2VjhzYmo4aXRtMkkyUzJiSlo1U1NRT05QTQ?oc=5",
+          "description": "Guerra Iran Usa, 8 Paesi accusano Israele di aver ostacolato piano pace per Gaza Sky TG24 Gaza, Kushner vede Hamas: “Avanti con il disarmo ma Israele cessi i raid” repubblica.it Per salvare il “Board of Peace” Kushner vede Hamas e poi Bibi Il Fatto Quotidiano Sei mesi dopo | Quello che il satellite vede a Gaza, e che la ricostruzione non racconta Linkiesta.it Hamas a Board of Peace, 'costringa Isr",
+          "pubDate": "Sun, 16 Aug 2026 21:44:14 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Usa-Iran, le notizie del 16 dicembre | Nuovi raid israeliani in Libano. L'Idf: «Ucciso un comandante di Hezbollah». Si aggrava il bilancio degli attacchi di ieri: 11 morti. L'Iran mette una taglia di 30mila dollari sui soldati Usa - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWVpjajNhd3VCNGEtUjJQWW9KTk1PZjhoZTVvNFJiMDk2RGxud0xtTGRkSG1udGpNTDBJcmlraV9EUm1FUV9NMGFSaGhVMXZMMVktREJ3bjFyazEwZHNUaHA4cWFHbk1RdGRmWEk1bWZsdGQzZEZRSzdMazNZdTh1QWxiX2FsMk1GTHlad0xnUdIBlAFBVV95cUxNMkFwb0k5TE9kNlVSQXFvYjJEWTQ2eWExeWpHZTUtOVRRWmVRWS1KalJqNmxZVjZZbXNHcktiekNFYzZJOWtuM2tPV1JOeHBSUzh0T2pnUGRJakFfbTJSczRRcVVJd3NEQzJZYUNnc19oN2l5Z2RSNkZrUkhYTVh4dklrdWFDbHlzUExEM1hCWkpsSGkw?oc=5",
+          "description": "Guerra Usa-Iran, le notizie del 16 dicembre | Nuovi raid israeliani in Libano. L'Idf: «Ucciso un comandante di Hezbollah». Si aggrava il bilancio degli attacchi di ieri: 11 morti. L'Iran mette una taglia di 30mila dollari sui soldati Usa Corriere della Sera Guerra Usa-Iran, le notizie in diretta | Hamas agli Usa: costringano Israele ad accettare il piano di pace per Gaza Corriere della Sera Hormuz",
+          "pubDate": "Sat, 15 Aug 2026 22:40:19 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZjhLYWc5Uld6bFdvNHRRU3dsVTB6N3FBUVo0SFIwZ0xpTjlfQ0s0QmJhWEpsdUVsTXlrOWlZRnlXZzJqUVBOa3FjS1RZNGxJTjRXRUN2SWhLUQ?oc=5",
+          "description": "Trump says US to scale back South Korea military drills after it stayed out of Iran war BBC Trump says US will reduce military exercises with South Korea, citing lack of help with Iran CNN Trump Administration Live Updates: President Orders Reduction of Military Exercises With South Korea, a Key Ally The New York Times Trump tells Hegseth to cut back U.S.-South Korea drills Axios Trump orders Pent",
+          "pubDate": "Mon, 17 Aug 2026 02:51:27 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Centcom commander addresses mental health concerns for troops on USS Abraham Lincoln - The Hill",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONWcwLVRpOGozZy03czk4c0I1N2RSY1RmZWJXQmY0dzJUS3dzM1E3WHVTYkpHODN4TkdPOFowXzhQaDZrQ3FNLWMwZTJnLW9YZzh5VGJhNnlzU0FCZUVGUzZWdnlhdGxYNGJOOTNWRlczNGQzVmJvWVZoOHRfT004eGlMdnFJUdIBiwFBVV95cUxPRTVFNURYZFJKRWR0XzZOMnJmSThnLUJ1MzB2VVlHdURnWkY3MVJWbEljZm5Jd3hmX3pPMU45Q1JIemQ5enlRM1N0blNYcEpUTl9Fc3g4VzgzbS1nTnlUa0ZQak40VDk5MldkUGx1YUxaSk9qcW9CWXJVSzY5U1lrQjVtU3pTcGFoNU1R?oc=5",
+          "description": "Centcom commander addresses mental health concerns for troops on USS Abraham Lincoln The Hill Top Admiral Praises Sailors but Concedes Hardships After Visit to U.S.S. Lincoln The New York Times Top U.S. commander visits aircraft carrier, Gaza talks in Egypt and other Mideast news Pittsburgh Post-Gazette US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere AP N",
+          "pubDate": "Sun, 16 Aug 2026 21:54:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "droni",
+      "n_items": 10,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 66,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra ultime notizie. Proseguono attacchi: almeno otto morti in Ucraina, sette in Russia - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcl84U2ZSVTdYUjBjMGgzT0JVT2trNVc0dG5mcVAzcURtdWp6SUpXbS1tNFZ0blBIRDVBa3pBU2RleE5xLVdrakVZTkRldW92WFh1dElFODR1Vm13YnEtblp3b2dqVGFZaXlUVTdTSDF3d0JXSEJxSVVQMXcxTnc1ZHBkdkpqTVlMdDg1UkxWSC0yc3Y4QnNGQnhldEVDVGNaMXNTRUdKcVM5dzE5SVhCRzRyd0tWLV9CUnI5dW9fQ0FHTXMzSFF4eXdmdF9GcWR1TmtENzZn?oc=5",
+          "description": "Guerra ultime notizie. Proseguono attacchi: almeno otto morti in Ucraina, sette in Russia Il Sole 24 ORE Guerra Ucraina-Russia, le notizie in diretta | Mosca: «Quasi 1500 droni ucraini lanciati contro la Russia in 24 ore» Corriere della Sera Il grande attacco ucraino coi droni verso la Russia Il Post Raid russo su Kiev: distrutto dalle fiamme lo storico mercato dei libri di Petrivka RaiNews Mosca,",
+          "pubDate": "Sun, 16 Aug 2026 06:49:15 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Maxi-attacco ucraino su Mosca, bruciano due hub. Romania: jet spagnolo abbatte drone, \"sembra russo\" - Escalation senza precedenti: maxi attacco di droni tra Russia e Ucraina mentre l’Europa cerca un ruolo nella pace - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPcXNTbFZkMm9OWkRkaFRwTTVTMXFGTjgyamRta0hlLXpscU5aeEFDSmVFd0FySjZUVkxZNjl5QjRMWXRfR0Z5bmxKM3FzZUFnQ09DMFJBb0pHeW1CSWRRamwzUVVFb2pMQkpZMW9lRU9BZFRFbnZ2N0NfRkNOZlZOS0h5bURCeUlmSUJVNnp2U1owdlhqQ3RiSVo4cHdnMEtkc0o4dzZCc0NnMU1mMjhGSUpiQnRPTTZNa2dBVTVnMTRWa3pvdU5ZUU1WWmtQYTJfamNER2IzM0NvX2tfZGYySDhycXkyXzBvRWhCbUFoc3BleDF6X0RLMEJRd0I2UDRt0gGGAkFVX3lxTE0tU3Z5bjJGSVh2RmY4eTg5Q1ZucjZDZ1ZzTmxBRUhRTDBzREt5Vlg1eTNvWFZfVVgxemZmWFBZQkZDUW9YUGVEUllKRHE0MEpJUkpnQURoR0dzUTlmalVUSXpCUE1IQnhKeG11eWJtTTlGclhYTjFOWHdOUzFIa3ZsbW05Z1pyV04wcWdIUW1lZlhDRkZvM0tlM3RvTXBlajZobW9jemtMU3R2cHZGVnk0aDYybnRpU05SSVRZbVBLZE5mdkNTaHhnRHJsTDEyY2tWV2I1QWhqXzA4X1JXMTFpaWhlTVBTdzNQTld5YjBHakkzVXBWWVZCTkpoS2xRWVJzSGswOGc?oc=5",
+          "description": "Maxi-attacco ucraino su Mosca, bruciano due hub. Romania: jet spagnolo abbatte drone, \"sembra russo\" - Escalation senza precedenti: maxi attacco di droni tra Russia e Ucraina mentre l’Europa cerca un ruolo nella pace RaiNews Ucraina, pioggia di droni su Mosca. Uno russo abbattuto da un caccia Nato in Romania ANSA Guerra Ucraina - Russia, le news di oggi repubblica.it Due F-18 spagnoli della Nato a",
+          "pubDate": "Sun, 16 Aug 2026 23:19:12 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Mosca: '1500 droni ucraini lanciati contro la Russia in 24 ore' - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOUxaWjItSS1aZG9YblFfMkpiSGIxME1nd3hPQVJxdUZ1Y2RYaWZ4bV9LWXV6YUNUeG5raFc4djluUkNXT0l0MzJIMU1EaFNRNTNaZ0J3X3BuSWJPcGJLbzdOQTFhR3Vxd0lzNDFhMmtIczVoNWg3TFctQ0Q3RFhkVm85eWxrQWdB?oc=5",
+          "description": "Mosca: '1500 droni ucraini lanciati contro la Russia in 24 ore' Sky TG24 Guerra Ucraina-Russia, le notizie in diretta | Mosca: «Quasi 1500 droni ucraini lanciati contro la Russia in 24 ore» Corriere della Sera Il grande attacco ucraino coi droni verso la Russia Il Post Raid russo su Kiev: distrutto dalle fiamme lo storico mercato dei libri di Petrivka RaiNews Guerra ultime notizie. Proseguono atta",
+          "pubDate": "Sun, 16 Aug 2026 22:09:58 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Capolavoro Italia: oro di Iapichino e della 4x400, gli azzurri sono campioni d'Europa",
+          "link": "https://www.ansa.it/sito/notizie/sport/2026/08/17/capolavoro-italia-oro-di-iapichino-e-della-4x400-gli-azzurri-sono-campioni_c9866f9d-ce58-4315-bcce-98ae9a01c293.html",
+          "description": "Decisiva la vittoria nella staffetta del miglio, battuti i britannici padroni di casa",
+          "pubDate": "Mon, 17 Aug 2026 00:57:34 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Ucraina, pioggia di droni su Mosca. Uno russo abbattuto da un caccia Nato in Romania",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/16/ucraina-pioggia-di-droni-su-mosca.-uno-russo-abbattuto-da-un-caccia-nato-in-romania_11aaae52-1c29-461e-b386-8f7c58516060.html",
+          "description": "Parigi, Londra e Berlino al lavoro per portare l'Europa al tavolo del negoziato",
+          "pubDate": "Sun, 16 Aug 2026 18:57:51 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "nuova",
+      "n_items": 9,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 60,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Farnesina, sono circa 700 gli italiani sull'isola di Flores in Indonesia - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNd2VJd2FVZVdaRDIyd2trbFYzSnVBLURnRzRwcnZsVEpRUlJudThYZTNvVWxnR2hFbXNqRGNleHk4TnJHa3NfQzRqWXhrRUFWN2RYLXJ4bF9tS0dCbU5qWVMwMFA0ekdiSGJWRlBRTTg4dXRLZHFYb2Rza21sTk5taWluQzFOQ242Q2NKUDhHREVJdjg4VVA0QUVxOGJxMENycHlEczVPMlJBZVZILWx5d2l1WnU1WGVhMUwwcjVsYzYxbVRlSUd0bng2QUJRb3lfa21QSVhEWVRtU0JKTmpDNS1YYjBJanFiRzB1Z3BEaUhyODlmLVlv?oc=5",
+          "description": "Farnesina, sono circa 700 gli italiani sull'isola di Flores in Indonesia ANSA Indonesia, sono 53 i morti nel terremoto. La Farnesina: «Ecco i numeri per gli italiani nella zona» Corriere della Sera Il terremoto scuote l'Indonesia, si scava tra le macerie ANSA Terremoto a Flores: 51 morti e 5.000 sfollati dopo il sisma 7.7 Il Fatto Quotidiano Indonesia, il vescovo di Ruteng: \"Dio porterà alba nuova",
+          "pubDate": "Sun, 16 Aug 2026 13:18:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Etna, nuova allerta rossa, nube di cenere verso nord est. Restrizione dei voli a Catania - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQWQtYjk0Zk5rUHltb1dKU1V1eXBuRTlwZW92VU55cy1HcHFMcWVjZ3lSaDVQajlCNjFzTGZzNTN4OFo4dGg4TnAyUjlBcVR0V05icUQwZUxVRzBkQzRWTndLcHlyV0x2NE1PNFQ2b096d2ZvRU5NT1Bjdk5DcHdKR2p2aGFlLVN0bk5Tc0tXWFFsR3NsSFYxVDQ0cFR2TFVES0M0a1lVSGRxZkp0S1NfWDdHV3R0UVlVT18yQTFKMHhnUFdMT28xWEk1WnA4MmlteHM1cDdTNFNuenFKZEVSc2tScUlueWZlTTgyMS1NR1dFZ9IB9wFBVV95cUxOdzZHWlZGU0VTQTFNRFNRRHF3eGViaVhITnN6S3J4UkF3a1hIWWtZaDUwTlV6RG1CT0k1T2Ywck5fVGpVTS1hc2lFM25fQkFfQk56N1N4T0tpOG1aSGtGbll2X1I1VDI2eVBkTGlyc2xCc1g0VEtIOWc0Z0VfcEI1b2cxODBqcGh4R3JobERkOFM5SWZUZFRpLXlTdkZLX0hhZXoxRjhuM1lWVjNNaXhnSjlqRDl1bExKZDFZNmoyTC1rR1U3WVhnZkU4ZU9FTmlQOGt0a3A3VEFZQWd0eWtHTmMxQ3A2amlCd0lKWjdQWE9hdU5yYjVv?oc=5",
+          "description": "Etna, nuova allerta rossa, nube di cenere verso nord est. Restrizione dei voli a Catania RaiNews Etna, l'aeroporto di Catania verso la normalità ANSA Caos voli e aeroporti chiusi, la guida dell’esperto: “Non arrendetevi, rivendicate i vostri diritti” la Repubblica Etna, nuova debole emissione di cenere: il livello di allerta per l’aviazione resta arancione CataniaToday L'Etna torna a eruttare: esp",
+          "pubDate": "Mon, 17 Aug 2026 03:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Terremoto in Indonesia: 40 morti e nuova scossa a Sumatra - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcFhXbkd2akJlV0RuSUItSTFnYzhfYXRJX2RoaXFEMm9RMmprbU51SjR2SmFYQXVqeGJJVlBFRHNRRE9ZMXZkb0REbnFCSm5INFVLQUpzYXVHZl9FQWNMdlh1QjJBdUdGVGRRSGRvZS1XNVh1TGxDSy1HU2I4UzE1aXRONVBRNGhsaTZyWVc0Z0lrd3FLbDJZRWFySFI?oc=5",
+          "description": "Terremoto in Indonesia: 40 morti e nuova scossa a Sumatra Il Fatto Quotidiano Indonesia, sono 53 i morti nel terremoto. La Farnesina: «Ecco i numeri per gli italiani nella zona» Corriere della Sera Il terremoto scuote l'Indonesia, si scava tra le macerie ANSA Terremoto a Flores: 51 morti e 5.000 sfollati dopo il sisma 7.7 Il Fatto Quotidiano Indonesia, il vescovo di Ruteng: \"Dio porterà alba nuova",
+          "pubDate": "Sat, 15 Aug 2026 13:12:45 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borsa, verso nuova settimana senza sussulti: tech alla prova dell’Ipo Unitree - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYm1yWVpRWVlpMVl4dTBQZm5lUU1KSXZfSS1xREpXaGJLSWFpeFBHekpfaDF6UUdHOWYwcTR2bC14SXlPeEgtNUlBcGQwaDNCWHBiQURLc1k0THpnOU1mZVQ4RzhoUlhQZGRFU0FKbVBTcHV6QklFQk9lcVVabm9tdkxKaW5IbjhrYVlTQzIyY0ZJREk1SVhOTmN4dG5XMDVmcjcyLTRxTQ?oc=5",
+          "description": "Borsa, verso nuova settimana senza sussulti: tech alla prova dell’Ipo Unitree Il Sole 24 ORE FOCUS: prossima settimana verbali Fomc e indici Pmi in Usa e Eurozona (Mps) milanofinanza.it Market mover 17-21 agosto 2026: occhi su inflazione, PMI e verbali Fed Investire.biz Borsa: verso nuova settimana senza sussulti, tech alla prova dell'Ipo Unitree Il Sole 24 ORE",
+          "pubDate": "Sun, 16 Aug 2026 13:50:57 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Ferrari Luce venduta a 40 milioni: record d'asta a Monterey - AGI",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMG9mZVROV2hDa01UdE5STUNYaURDM01VZUl0cmpfUlBUVGpqYW9kRDBoQXlSTjFwMVU4ZHlCZGZlMWZZYzJmWjYyV2lYdFNpQ0hBQnZDNVZrdC1JUTA0bjkwbWJ6bi1ZWjE1bVFYN25DaG5ibXBHTXBCMTZVd2FPNXVUU3E?oc=5",
+          "description": "Ferrari Luce venduta a 40 milioni: record d'asta a Monterey AGI Ferrari Luce, asta record: battuta a 40 milioni di dollari, mai una cifra simile per un’auto nuova repubblica.it Aste ultra milionarie a Monterey, ma Shelby e Corvette rovinano la festa Ferrari ANSA 40 milioni di dollari per la Ferrari Luce Telaio 0: follie californiane TopSpeed Blog La Ferrari Luce va all'asta e batte tutti i record:",
+          "pubDate": "Sun, 16 Aug 2026 10:55:06 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "says",
+      "n_items": 13,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 58,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZjhLYWc5Uld6bFdvNHRRU3dsVTB6N3FBUVo0SFIwZ0xpTjlfQ0s0QmJhWEpsdUVsTXlrOWlZRnlXZzJqUVBOa3FjS1RZNGxJTjRXRUN2SWhLUQ?oc=5",
+          "description": "Trump says US to scale back South Korea military drills after it stayed out of Iran war BBC Trump says US will reduce military exercises with South Korea, citing lack of help with Iran CNN Trump Administration Live Updates: President Orders Reduction of Military Exercises With South Korea, a Key Ally The New York Times Trump tells Hegseth to cut back U.S.-South Korea drills Axios Trump orders Pent",
+          "pubDate": "Mon, 17 Aug 2026 02:51:27 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump's views can factor into prosecutions, Attorney General Todd Blanche says - Axios",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10SzdSZUZuNEVRWmtycDdjWFRsRUhoZ0dlXzdZa2Y4X0dCdWFNYUVacXVtWEJCeUNiQkJhdG4tdEROQldYSTdEQ0Y2OXRmTkZJdEcycGd6N2pld3RiS3ZZTW9lM1JrWEJfTWk4V0xHTklBNjJhcmlV?oc=5",
+          "description": "Trump's views can factor into prosecutions, Attorney General Todd Blanche says Axios Blanche declines to pledge independence from the White House CNN Blanche Refuses to Say He’ll Always Be Independent of Trump as Attorney General The New York Times Blanche on whether DOJ will be independent: ‘I’m not going to pledge that’ The Washington Post Blanche says he's not Trump's personal servant Politico",
+          "pubDate": "Sun, 16 Aug 2026 21:53:31 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Republican senator denounces Trump’s ‘crazy, stupid’ claims about MMR vaccine safety | Trump administration - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVjh2YTBFXy1FMS1sRmo1NlRtdE9TX0laZ1RWbUdnNWJvNUVPRGZNckxRZ3NBeXZvdW5SSERSUTJZeVh5TTl5SS02YTRQX011SnFMWkxoN1FnbEFuZnhEUTFxR19rclZlR2ZFQS1KSjJzY1I3dmkxM29GVFkzeE1MMWZpZ05LMFVqd1VuQnV4akVoZkZnaWVDMlpNOVZKZ1I5RlZnQXR6VDZJcUVMX0RF?oc=5",
+          "description": "Republican senator denounces Trump’s ‘crazy, stupid’ claims about MMR vaccine safety | Trump administration The Guardian Trump’s vaccine order is counterproductive and ‘wrong on so many levels,’ GOP lawmaker says CNN Opinion | Trump is undermining his biggest accomplishment MS NOW Cassidy on Trump’s vaccine order, ‘crazy, stupid’ claims: ‘This is why the president’s poll numbers are going down’ Th",
+          "pubDate": "Sun, 16 Aug 2026 20:00:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Iran betting it can outlast Trump if Dems take Congress, Gingrich says - New York Post",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkNjSG1MTGI4WGl4dTZIMUMwU0pDMGpwNDFoVHBsam5FY3Nvb09zMkVESWNoU0tfbDNCejdYWkJyR3JLN3ltcXQtd001dG5TMmhvRUJZaFZKa0xvWFlqanc1Rldza3N0alRTaDVwcWZOcTJXSUV1SXdTbWJad0I5VzI3ODQ0N2VKQWVMb3RvSzE1WXVRX2diZno0R2lZZk5Ta3Z2THFhQllDaGpG?oc=5",
+          "description": "Iran betting it can outlast Trump if Dems take Congress, Gingrich says New York Post Iran’s Secret Plan to Escalate the War WSJ What Total Iranian Victory Over Trump Looks Like: Five War Goals Explained Newsweek Iran’s strategy to simply outlast Trump’s presidency Salon.com Editorial: Iran plays games with talks Toledo Blade",
+          "pubDate": "Sun, 16 Aug 2026 20:26:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Kyiv launches large attack on Russian military and energy facilities - Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ2hhaUsxR3BDcm92cTJiclVLLVNIQ1kxZktzajNHSkRNN0t5LTdKVGVDS05XaTZZTldZOUdZWDR1dHFiWGZrYjV6di1qMmZydW5tbGd5eEFQLTA5THRuV1k4MGN4cUxjY3BXTTkxOVFyaUNBNUNqQnFHZzBYOWdqQlRBZTA0UWh1NTNXcW5XaXliSXM0UlFMX3E1dkp1aGFkajdrb09DY2FJSHoydm1ESjRDdEJMSVh1YVBiM3FrTEc1LXhram56WmpkcmJxVlk?oc=5",
+          "description": "Kyiv launches large attack on Russian military and energy facilities Euronews.com Ukraine attacks Russia with hundreds of drones - one of Kyiv’s largest assaults of the conflict CNN Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia Dallas News Ukrainian drone attack on Russia kills at least six, says Moscow The Guardian Ukraine launches 600 drones t",
+          "pubDate": "Sun, 16 Aug 2026 14:29:51 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "after",
+      "n_items": 19,
+      "n_sources": 3,
+      "category": "general",
+      "score": 57,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZjhLYWc5Uld6bFdvNHRRU3dsVTB6N3FBUVo0SFIwZ0xpTjlfQ0s0QmJhWEpsdUVsTXlrOWlZRnlXZzJqUVBOa3FjS1RZNGxJTjRXRUN2SWhLUQ?oc=5",
+          "description": "Trump says US to scale back South Korea military drills after it stayed out of Iran war BBC Trump says US will reduce military exercises with South Korea, citing lack of help with Iran CNN Trump Administration Live Updates: President Orders Reduction of Military Exercises With South Korea, a Key Ally The New York Times Trump tells Hegseth to cut back U.S.-South Korea drills Axios Trump orders Pent",
+          "pubDate": "Mon, 17 Aug 2026 02:51:27 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Hurricane Lala cuts power to thousands in Hawaii — rural outages could last months - San Francisco Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc2toQ3FCZUlPcXc4NUlxMk9ZYnFGSVUxVmdRWUZBOWhIUUFXT19WeU9mN3FTX1RyLUdDTmdmVEtfZm5JQTB2MUIwRlUwX05uUlFndUpEU0VBZVlIbjFQaVl1WEprUURYdDlkNjZuZkQwV1lnd3dxc2k2SlA2NGJwRFc1Z3dtSDlhZVl6N1BCWGhkS0QtVDBUTQ?oc=5",
+          "description": "Hurricane Lala cuts power to thousands in Hawaii — rural outages could last months San Francisco Chronicle Thousands without power and at least 100 homes damaged after Tropical Storm Lala starts to move away from Hawaii KXLY.com Tropical Storm Lala tracking westward, threat of heaviest rain, strongest wind diminishing hawaiinewsnow.com Over 250,900 HECO customers remain without power across Hawaii",
+          "pubDate": "Mon, 17 Aug 2026 00:57:32 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Centcom commander addresses mental health concerns for troops on USS Abraham Lincoln - The Hill",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONWcwLVRpOGozZy03czk4c0I1N2RSY1RmZWJXQmY0dzJUS3dzM1E3WHVTYkpHODN4TkdPOFowXzhQaDZrQ3FNLWMwZTJnLW9YZzh5VGJhNnlzU0FCZUVGUzZWdnlhdGxYNGJOOTNWRlczNGQzVmJvWVZoOHRfT004eGlMdnFJUdIBiwFBVV95cUxPRTVFNURYZFJKRWR0XzZOMnJmSThnLUJ1MzB2VVlHdURnWkY3MVJWbEljZm5Jd3hmX3pPMU45Q1JIemQ5enlRM1N0blNYcEpUTl9Fc3g4VzgzbS1nTnlUa0ZQak40VDk5MldkUGx1YUxaSk9qcW9CWXJVSzY5U1lrQjVtU3pTcGFoNU1R?oc=5",
+          "description": "Centcom commander addresses mental health concerns for troops on USS Abraham Lincoln The Hill Top Admiral Praises Sailors but Concedes Hardships After Visit to U.S.S. Lincoln The New York Times Top U.S. commander visits aircraft carrier, Gaza talks in Egypt and other Mideast news Pittsburgh Post-Gazette US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere AP N",
+          "pubDate": "Sun, 16 Aug 2026 21:54:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Years of Trump Support Came Undone in 15 Minutes in an Airport. - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00TjMtZ0FneTdkYTZSUnFaNmprTmNucC01NWRGWlVnZXJYNVVxVjVIaWtNSlhwLUZqMkh0enE0QWp6STBhZHhkNzNsQlgwNVJweXZ0MDZWWUg1bTNCMGlwN005N013WmtGWlNPZWVhX2U0amxkNjlpcTdR?oc=5",
+          "description": "Years of Trump Support Came Undone in 15 Minutes in an Airport. The New York Times MAGA man loses wife to ICE: “I never thought that it was so easy to take freedom from anyone” Daily Kos Tech Exec Voted for Trump Three Times — Then ICE Arrested His Russian Wife During Her Birthday Trip International Business Times UK 'Terrified' MAGA couple turns on Trump after brutal encounter: 'We are living in ",
+          "pubDate": "Sun, 16 Aug 2026 16:05:44 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "L.A. street takeover acts as cover while thieves ransack local business - KTLA",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdzlpSm5KblBNUXg3Sk1IRnNzM1cwc21wY2o4bkdPX1BTbWRfTF96TldlTmxQOXJPZ3R2bGRuZ0lkOTFuYWxjSFhLU29PZ2piOG5pcW9UTUNVbDlZVVh6aGhKOXk1TXlPYlh5VFMwcUluZFpjM1FjV0VlRGQ5c2xpNVh3ZDV1Z9IBiwFBVV95cUxObEY3LTFnLWw3RTctdElMTGgwSDlYTHpwMFJNMnJmQ0hCVmJoaWNobVR0Y1RmUW1KZzlFVzcxYUR4WmhKZ004Q3Z3UkRQSi0wRTRfMzdGSnE5U2cxYXRUbDBONGROX3czbk9nNVRnVG0xWTVpTFgzZHIxNDV6SVhkUElHS0VPUUY0d3Vv?oc=5",
+          "description": "L.A. street takeover acts as cover while thieves ransack local business KTLA Sheriff posts photos of 27 suspected of ransacking AutoZone during East L.A. street takeovers Los Angeles Times LA County detectives share 27 photos as they seek to identify East LA AutoZone burglary suspects CBS News Looters target Bellflower liquor store after street takeover, owners say NBC Los Angeles Chaos as L.A. st",
+          "pubDate": "Mon, 17 Aug 2026 00:07:40 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "nuovo",
+      "n_items": 9,
+      "n_sources": 6,
+      "category": "general",
+      "score": 54,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "La Russa: “Report va cambiato, non eliminato. Speriamo non arrivi uno peggio di Ranucci” - repubblica.it",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVk40NzFVSF96V0FtNEEzcF9FeFBGZERzcDNEdVZJemRaVEVKZ0ZEUDl2aUUtY2JfdTVnNzVVcEhZZTBvMkV0NGREYW43MHJmY01rM2NFUGgtZ2JFS0s4VXlLNDFrSjA0MzZiSlk5RURWRU9QSHJ6elN5N3hFUVhJR0ZxZ1dxY2l4eFVpci1yU3pzSjFDalc40gGcAUFVX3lxTE9KLWFlSTI3d1lha2Vkd0N2R2hJbEoyT1Q2N3RRbDlMX3ZXMmJWLVNnQmo0NThBc0dHNkJLeFN3a1JuRVJhTkhjOVcxYXdOSEZKM3FSeEdDUngwbHJ6ZmU3cVFwTDMxX0JremNhRG12S0FfanNyZlhudHBCTTdMUDN4TFV6SzNmNVp4SlFjR2UySW5UZUZha1dJLXp5QQ?oc=5",
+          "description": "La Russa: “Report va cambiato, non eliminato. Speriamo non arrivi uno peggio di Ranucci” repubblica.it La Russa attacca di nuovo Report: “Va cambiato, ma non vorrei che arrivi uno peggio di Ranucci” Il Fatto Quotidiano La Russa: a prescindere da Vannacci il centrodestra batterà la sinistra Askanews La Russa su Report: “Va cambiato, non eliminato”. Ma il M5s lo attacca: “Unico scopo è fare fuori Ra",
+          "pubDate": "Sun, 16 Aug 2026 16:41:08 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Nuovo attacco dell'Eln contro l'esercito in Colombia, un soldato morto e cinque feriti",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/16/nuovo-attacco-delleln-contro-lesercito-in-colombia-un-soldato-morto-e-cinque-feriti_2664af42-b222-482e-8160-9437e1d840cf.html",
+          "description": "L'agguato eseguito con droni. Presidente De la Espriella, 'la pagheranno cara'",
+          "pubDate": "Sun, 16 Aug 2026 17:53:14 +0200"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Ferrero, nuova acquisizione negli Usa, la granola Purely Elizabeth entra nel Gruppo",
+          "link": "https://www.ilsole24ore.com/art/ferrero-nuova-acquisizione-usa-granola-purely-elizabeth-entra-gruppo-AJbKoem",
+          "description": "Il nuovo deal rafforza la presenza nel comparto Wellness e segna una nuova tappa del gigante di Alba sul mercato americano - Presidente Giovanni Ferrero: «Ottimo arricchimento per Ferrero»",
+          "pubDate": "Fri, 14 Aug 2026 16:15:03 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Lavoro: nel mondo 67 mln di giovani disoccupati, meno opportunità per l’IA",
+          "link": "https://www.ilsole24ore.com/art/lavoro-mondo-67-mln-giovani-disoccupati-meno-opportunita-l-ia-AJIQpem",
+          "description": "La disoccupazione giovanile aumenta. I giovani incontrano maggiori difficoltà nell’accesso a un lavoro dignitoso. Lo rileva un nuovo rapporto dell’ Organizzazione internazionale del lavoro (Ilo, agenzia delle Nazioni Unite) , che segnala...",
+          "pubDate": "Fri, 14 Aug 2026 15:32:03 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Da Xiaomi a Xpeng, perché Monaco è diventato il nuovo centro di sviluppo delle auto cinesi in Europa - Automoto.it",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZTNxZ1NhcG9ETHVKbjl0X1kzTGRoV25JQW94SDZ3MVFxTUVGakYyVzdVTHd0OXNLQ3hrQnZUa1hlcmpxbmdURWtsRHZ3cXR5LUNzUVpNM3YxeGhaZDJKUXNlMmVxY1FUZHpfTy10Q1NoLTBFOU5WVWNfUjkxbnExRXNuNndsMndCQ0E0REJGSUNvbjRRVUY5blFnMWNQOGxTNm1tb2t3eDk0a1FwcW5nUGNXOWNnWmJtMmRmTjdmc2pTU3FYYUk0WE9MQkN5dw?oc=5",
+          "description": "Da Xiaomi a Xpeng, perché Monaco è diventato il nuovo centro di sviluppo delle auto cinesi in Europa Automoto.it",
+          "pubDate": "Sun, 16 Aug 2026 08:35:33 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "into",
+      "n_items": 8,
+      "n_sources": 6,
+      "category": "general",
+      "score": 48,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Capolavoro Italia: oro di Iapichino e della 4x400, gli azzurri sono campioni d'Europa - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPY1p5WXVZWXZsQmpxRGlydG9uNzNBcndBbXRLdjhoQ0cwaDV0Q2Q4dGQ0SnBQMHc2LWxCb3ZBUTFJenI3bTU0WXViUW9PVXg2TlVhY3VDb1BDaENOS0tzdjFmVGlZMHlxZHpWV2VxVjlkS1dHRjJwcVpmSVJBR2hoaHRpczZibzNlUy1HMFBhaG42aElkZ3VNX29NamsyMGo5TkdONjJETFBBTzlaNEt2SWVLa0VPRUxpZ1pOWWVWODNhVVZleF9VNVkxSEQzNEE4d1lBNFRpVUI2V0pPMkdLVHVZQjhWVTREd3V6eVh1cEFQdzc3UU1nUTV30gH_AUFVX3lxTE93VWdRN2hlZzVyVnNSWjlEOWRDMjFTWHpaZWVsQ29hQ040Qy1fQnNBaTlzTGJqNHpBTmNNcVZ0MDViMWZITWpaS09pSDNZWVZDa1Fickg2UTdQR1BsS3VJSWJtOFg4cW1lUXg1UUpHZDZUMnBSQ2Q4dEIwamxibkRxSDBDLVVtODd1eTZQempSSDhHbGxKVjdEOXZaMjJSSmNFMXB3T2pwNGNtaTZlNjV4TnN5d2QteXd4R2htRG9TNVJDRE5hTFd4TUJhODRST01JMG03X21BeW15M2VxU0MwTm1Hc0twM1RSQjhFMEt6VXNIek1VcWNwT3lBOHNTVQ?oc=5",
+          "description": "Capolavoro Italia: oro di Iapichino e della 4x400, gli azzurri sono campioni d'Europa ANSA Italia da leggenda: è trionfo a Birmingham! www.fidal.it Europei, il medagliere: è grande Italia! Gli azzurri chiudono in vetta davanti alla Gran Bretagna gazzetta.it Europei di Atletica 2026, i risultati di oggi in diretta live Sky Sport L’Italia ha vinto il medagliere degli Europei di atletica leggera Il P",
+          "pubDate": "Sun, 16 Aug 2026 22:57:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump's views can factor into prosecutions, Attorney General Todd Blanche says - Axios",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10SzdSZUZuNEVRWmtycDdjWFRsRUhoZ0dlXzdZa2Y4X0dCdWFNYUVacXVtWEJCeUNiQkJhdG4tdEROQldYSTdEQ0Y2OXRmTkZJdEcycGd6N2pld3RiS3ZZTW9lM1JrWEJfTWk4V0xHTklBNjJhcmlV?oc=5",
+          "description": "Trump's views can factor into prosecutions, Attorney General Todd Blanche says Axios Blanche declines to pledge independence from the White House CNN Blanche Refuses to Say He’ll Always Be Independent of Trump as Attorney General The New York Times Blanche on whether DOJ will be independent: ‘I’m not going to pledge that’ The Washington Post Blanche says he's not Trump's personal servant Politico",
+          "pubDate": "Sun, 16 Aug 2026 21:53:31 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+          "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+          "description": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+          "pubDate": "Sat, 15 Aug 2026 20:58:31 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Changing pubs into homes to be made harder under new rules",
+          "link": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
+          "description": "The rules will come into force on Monday along with other changes to planning policy.",
+          "pubDate": "Sun, 16 Aug 2026 15:04:13 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "I got an £89 refund – how to cancel and  avoid unwanted subscriptions",
+          "link": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
+          "description": "After the PM announced a crackdown on subscription traps, readers share how they got into and out of unwanted plans.",
+          "pubDate": "Fri, 14 Aug 2026 07:45:51 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "allerta",
+      "n_items": 7,
+      "n_sources": 6,
+      "category": "clima",
+      "score": 48,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Meteo, le previsioni di domani: allerta gialla in 13 regioni per temporali e grandine - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVHRfREhzTG91dEZmdVV3SGNBM2J0N3diWTZ1NGZTd2ZHSHV5dlZ1NG5RSzZyWld0SlROUzJmWmQ4Snltd3lGNHlDR05pelZZU0g3cnp4eVhzd2NKdWQ2WExsLWVYUnpUUnNvaU95MlUtQ3ljdVRxc0g0S0FzMzVZYW5jM1JDSFkyMGZRNGtyX2E?oc=5",
+          "description": "Meteo, le previsioni di domani: allerta gialla in 13 regioni per temporali e grandine Sky TG24 Ore contate per il grande caldo, adesso è allerta temporali ANSA Finisce l’afa, arrivano i temporali: l’Italia tra grandine, vento e nuovi disagi. La mappa delle previsioni Il Fatto Quotidiano Le previsioni per i prossimi giorni sull’Italia, temperature in calo da metà settimana Il Sole 24 ORE Meteo, in ",
+          "pubDate": "Sun, 16 Aug 2026 20:14:07 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Etna, nuova allerta rossa, nube di cenere verso nord est. Restrizione dei voli a Catania - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQWQtYjk0Zk5rUHltb1dKU1V1eXBuRTlwZW92VU55cy1HcHFMcWVjZ3lSaDVQajlCNjFzTGZzNTN4OFo4dGg4TnAyUjlBcVR0V05icUQwZUxVRzBkQzRWTndLcHlyV0x2NE1PNFQ2b096d2ZvRU5NT1Bjdk5DcHdKR2p2aGFlLVN0bk5Tc0tXWFFsR3NsSFYxVDQ0cFR2TFVES0M0a1lVSGRxZkp0S1NfWDdHV3R0UVlVT18yQTFKMHhnUFdMT28xWEk1WnA4MmlteHM1cDdTNFNuenFKZEVSc2tScUlueWZlTTgyMS1NR1dFZ9IB9wFBVV95cUxOdzZHWlZGU0VTQTFNRFNRRHF3eGViaVhITnN6S3J4UkF3a1hIWWtZaDUwTlV6RG1CT0k1T2Ywck5fVGpVTS1hc2lFM25fQkFfQk56N1N4T0tpOG1aSGtGbll2X1I1VDI2eVBkTGlyc2xCc1g0VEtIOWc0Z0VfcEI1b2cxODBqcGh4R3JobERkOFM5SWZUZFRpLXlTdkZLX0hhZXoxRjhuM1lWVjNNaXhnSjlqRDl1bExKZDFZNmoyTC1rR1U3WVhnZkU4ZU9FTmlQOGt0a3A3VEFZQWd0eWtHTmMxQ3A2amlCd0lKWjdQWE9hdU5yYjVv?oc=5",
+          "description": "Etna, nuova allerta rossa, nube di cenere verso nord est. Restrizione dei voli a Catania RaiNews Etna, l'aeroporto di Catania verso la normalità ANSA Caos voli e aeroporti chiusi, la guida dell’esperto: “Non arrendetevi, rivendicate i vostri diritti” la Repubblica Etna, nuova debole emissione di cenere: il livello di allerta per l’aviazione resta arancione CataniaToday L'Etna torna a eruttare: esp",
+          "pubDate": "Mon, 17 Aug 2026 03:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "L'estate di quest'anno? «A fine secolo sarà considerata fresca» - Corriere del Ticino",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdVdYeFFiQlVpLVQ0R01fQlJobDdfeDRZWDQ0SGQ2NWoxdGFyWmw3VUY2enNVRTZ2TlU3N0xkV1g3c28zajFKc2NsNVZLWFZEUlQyREQ1Q1pJWlpZTkZveWM1dEFDYTBaSUxFVG1rQ2I2ejNMYkdyRHQzcmtlUGRsZmVRX2FTcVptZHdWSTdEcURQOGs?oc=5",
+          "description": "L'estate di quest'anno? «A fine secolo sarà considerata fresca» Corriere del Ticino Estate caldissima, ma l'autunno come sarà? Corriere del Ticino Estate 2026: facciamo il punto della situazione MeteoSvizzera La canicola non dà tregua: allerta prolungata a sud delle Alpi rsi L'estate 2026? Da record, ma un giorno la ricorderemo come più fresca della media tio.ch",
+          "pubDate": "Sat, 15 Aug 2026 17:45:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Ore contate per il grande caldo, adesso è allerta temporali",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/ore-contate-per-il-grande-caldo-adesso-e-allerta-temporali_4b75af74-fc23-4f1f-a498-a90254266237.html",
+          "description": "Avviso 'giallo' in 13 regioni. Preoccupano gli incendi. Al via il controesodo",
+          "pubDate": "Sun, 16 Aug 2026 18:29:48 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Tre morti a Caracas per alluvioni e frane causate da piogge",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/16/tre-morti-a-caracas-per-alluvioni-e-frane-causate-da-piogge_b9a40d80-b918-41be-a464-2bcccd389003.html",
+          "description": "Dichiarato lo stato di allerta per la Protezione civile e i Vigili del Fuoco",
+          "pubDate": "Sun, 16 Aug 2026 21:05:03 +0200"
+        }
+      ],
+      "macro_area": "clima-salute"
+    },
+    {
+      "keyword": "europa",
+      "n_items": 8,
+      "n_sources": 5,
+      "category": "lavoro",
+      "score": 46,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Quinta ondata di caldo sull'Europa: ecco dove è arrivata, le temperature e le previsioni sull'Italia - Il Mattino",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbFNGVDU0REIxWVN5eTJOQV85OXM0cTZJM0ZJZ3VjYXpWWnJWY3RwNG1jaG1WX2ViekVwdHRzT3JCYUg1U1VVSkQ0bFdsSkgzQlpVRVdkTU5UekZJUmYtY2hxM3JCNlR6WFFhWENLblZ4ZG9VZUJZSW1YWmdOTlVELXZTbVowOHRzdUJjRXF2Zlk4TTVZWnhtWU4xLVdQRHo2Z0k3REN5cUNDdjNseE9F0gG0AUFVX3lxTE1DUUVJSExtbFVoRVVCNTZCczhrUFJGeE1KSmgteWRDdE54WW00WnE5bWtuY2pFcGZpTzBWb1U5elNKSUhuS2RfbzN2TnFBZTBnYXRlTW9tQjZqWUFNY0tucWNFSW8zY21HdXdvVUtxMU83M0tmWElkeDh1aXZpa1JrenFzZ2QyLTkwb3pVcUlWZ00xN3JlZ2dqaGR4TkxwdkRzVmZ1ZzRyZFNOT2ZjQXl6ZHQtMA?oc=5",
+          "description": "Quinta ondata di caldo sull'Europa: ecco dove è arrivata, le temperature e le previsioni sull'Italia Il Mattino L'Europa stretta nella morsa del caldo: 150 milioni persone a oltre 35 gradi RaiNews È l’anno più torrido di sempre. L’allarme clima non finisce più repubblica.it Quinta ondata di caldo, dopo i nuovi picchi in Europa si rischia anche in Italia: giorni e regioni colpite Virgilio Cambiamen",
+          "pubDate": "Sun, 16 Aug 2026 16:49:15 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Capolavoro Italia: oro di Iapichino e della 4x400, gli azzurri sono campioni d'Europa - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPY1p5WXVZWXZsQmpxRGlydG9uNzNBcndBbXRLdjhoQ0cwaDV0Q2Q4dGQ0SnBQMHc2LWxCb3ZBUTFJenI3bTU0WXViUW9PVXg2TlVhY3VDb1BDaENOS0tzdjFmVGlZMHlxZHpWV2VxVjlkS1dHRjJwcVpmSVJBR2hoaHRpczZibzNlUy1HMFBhaG42aElkZ3VNX29NamsyMGo5TkdONjJETFBBTzlaNEt2SWVLa0VPRUxpZ1pOWWVWODNhVVZleF9VNVkxSEQzNEE4d1lBNFRpVUI2V0pPMkdLVHVZQjhWVTREd3V6eVh1cEFQdzc3UU1nUTV30gH_AUFVX3lxTE93VWdRN2hlZzVyVnNSWjlEOWRDMjFTWHpaZWVsQ29hQ040Qy1fQnNBaTlzTGJqNHpBTmNNcVZ0MDViMWZITWpaS09pSDNZWVZDa1Fickg2UTdQR1BsS3VJSWJtOFg4cW1lUXg1UUpHZDZUMnBSQ2Q4dEIwamxibkRxSDBDLVVtODd1eTZQempSSDhHbGxKVjdEOXZaMjJSSmNFMXB3T2pwNGNtaTZlNjV4TnN5d2QteXd4R2htRG9TNVJDRE5hTFd4TUJhODRST01JMG03X21BeW15M2VxU0MwTm1Hc0twM1RSQjhFMEt6VXNIek1VcWNwT3lBOHNTVQ?oc=5",
+          "description": "Capolavoro Italia: oro di Iapichino e della 4x400, gli azzurri sono campioni d'Europa ANSA Italia da leggenda: è trionfo a Birmingham! www.fidal.it Europei, il medagliere: è grande Italia! Gli azzurri chiudono in vetta davanti alla Gran Bretagna gazzetta.it Europei di Atletica 2026, i risultati di oggi in diretta live Sky Sport L’Italia ha vinto il medagliere degli Europei di atletica leggera Il P",
+          "pubDate": "Sun, 16 Aug 2026 22:57:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Maxi-attacco ucraino su Mosca, bruciano due hub. Romania: jet spagnolo abbatte drone, \"sembra russo\" - Escalation senza precedenti: maxi attacco di droni tra Russia e Ucraina mentre l’Europa cerca un ruolo nella pace - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPcXNTbFZkMm9OWkRkaFRwTTVTMXFGTjgyamRta0hlLXpscU5aeEFDSmVFd0FySjZUVkxZNjl5QjRMWXRfR0Z5bmxKM3FzZUFnQ09DMFJBb0pHeW1CSWRRamwzUVVFb2pMQkpZMW9lRU9BZFRFbnZ2N0NfRkNOZlZOS0h5bURCeUlmSUJVNnp2U1owdlhqQ3RiSVo4cHdnMEtkc0o4dzZCc0NnMU1mMjhGSUpiQnRPTTZNa2dBVTVnMTRWa3pvdU5ZUU1WWmtQYTJfamNER2IzM0NvX2tfZGYySDhycXkyXzBvRWhCbUFoc3BleDF6X0RLMEJRd0I2UDRt0gGGAkFVX3lxTE0tU3Z5bjJGSVh2RmY4eTg5Q1ZucjZDZ1ZzTmxBRUhRTDBzREt5Vlg1eTNvWFZfVVgxemZmWFBZQkZDUW9YUGVEUllKRHE0MEpJUkpnQURoR0dzUTlmalVUSXpCUE1IQnhKeG11eWJtTTlGclhYTjFOWHdOUzFIa3ZsbW05Z1pyV04wcWdIUW1lZlhDRkZvM0tlM3RvTXBlajZobW9jemtMU3R2cHZGVnk0aDYybnRpU05SSVRZbVBLZE5mdkNTaHhnRHJsTDEyY2tWV2I1QWhqXzA4X1JXMTFpaWhlTVBTdzNQTld5YjBHakkzVXBWWVZCTkpoS2xRWVJzSGswOGc?oc=5",
+          "description": "Maxi-attacco ucraino su Mosca, bruciano due hub. Romania: jet spagnolo abbatte drone, \"sembra russo\" - Escalation senza precedenti: maxi attacco di droni tra Russia e Ucraina mentre l’Europa cerca un ruolo nella pace RaiNews Ucraina, pioggia di droni su Mosca. Uno russo abbattuto da un caccia Nato in Romania ANSA Guerra Ucraina - Russia, le news di oggi repubblica.it Due F-18 spagnoli della Nato a",
+          "pubDate": "Sun, 16 Aug 2026 23:19:12 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Bus di pellegrini si ribalta in autostrada: 12 morti e 10 feriti, tornavano da Medjugorje - Europa Today",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BNWN1SWNkTV9aWDIxQVFnS3h0cFRjeUhrVHA2NHhQaUFCRDY2TnVaR2owbDJPQVFmbE4xWWctY3RYNl9uQk5sREFuRUtJN0daRHhpS3lqLXlGRWZQUWNqUklZZXhmMGZyX0JvM2VLN3lSR2F2UUFlM1U0RXFSQzjSAYQBQVVfeXFMT1hTN3pldjBfZkU1Q3FUV1RsRkVxajdzZTgxYnZ6ODk1MDlVOE1mY2FxWEw2ZjhxaTg0UnVTRE0xeFNQNVZxMTY5a2ZSeVcyNFRHQjRjU0pfMmw0ejBneXhVbzVHN3NjS0I4dmRSa2ktTVQ1VVNjMnVKMWZvcUhabnpmRGVR?oc=5",
+          "description": "Bus di pellegrini si ribalta in autostrada: 12 morti e 10 feriti, tornavano da Medjugorje Europa Today Bus con pellegrini polacchi si ribalta in Ungheria: 12 morti Il Fatto Quotidiano Un autobus si è ribaltato in Ungheria, 12 morti e almeno 10 feriti gravi ANSA Tragedia pullman polacco in Ungheria: governo invia aereo speciale Euronews.com Incidente stradale in Ungheria, si ribalta bus: 12 morti R",
+          "pubDate": "Sun, 16 Aug 2026 13:53:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Capolavoro Italia: oro di Iapichino e della 4x400, gli azzurri sono campioni d'Europa",
+          "link": "https://www.ansa.it/sito/notizie/sport/2026/08/17/capolavoro-italia-oro-di-iapichino-e-della-4x400-gli-azzurri-sono-campioni_c9866f9d-ce58-4315-bcce-98ae9a01c293.html",
+          "description": "Decisiva la vittoria nella staffetta del miglio, battuti i britannici padroni di casa",
+          "pubDate": "Mon, 17 Aug 2026 00:57:34 +0200"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "russia",
+      "n_items": 8,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 46,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra ultime notizie. Proseguono attacchi: almeno otto morti in Ucraina, sette in Russia - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcl84U2ZSVTdYUjBjMGgzT0JVT2trNVc0dG5mcVAzcURtdWp6SUpXbS1tNFZ0blBIRDVBa3pBU2RleE5xLVdrakVZTkRldW92WFh1dElFODR1Vm13YnEtblp3b2dqVGFZaXlUVTdTSDF3d0JXSEJxSVVQMXcxTnc1ZHBkdkpqTVlMdDg1UkxWSC0yc3Y4QnNGQnhldEVDVGNaMXNTRUdKcVM5dzE5SVhCRzRyd0tWLV9CUnI5dW9fQ0FHTXMzSFF4eXdmdF9GcWR1TmtENzZn?oc=5",
+          "description": "Guerra ultime notizie. Proseguono attacchi: almeno otto morti in Ucraina, sette in Russia Il Sole 24 ORE Guerra Ucraina-Russia, le notizie in diretta | Mosca: «Quasi 1500 droni ucraini lanciati contro la Russia in 24 ore» Corriere della Sera Il grande attacco ucraino coi droni verso la Russia Il Post Raid russo su Kiev: distrutto dalle fiamme lo storico mercato dei libri di Petrivka RaiNews Mosca,",
+          "pubDate": "Sun, 16 Aug 2026 06:49:15 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Maxi-attacco ucraino su Mosca, bruciano due hub. Romania: jet spagnolo abbatte drone, \"sembra russo\" - Escalation senza precedenti: maxi attacco di droni tra Russia e Ucraina mentre l’Europa cerca un ruolo nella pace - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPcXNTbFZkMm9OWkRkaFRwTTVTMXFGTjgyamRta0hlLXpscU5aeEFDSmVFd0FySjZUVkxZNjl5QjRMWXRfR0Z5bmxKM3FzZUFnQ09DMFJBb0pHeW1CSWRRamwzUVVFb2pMQkpZMW9lRU9BZFRFbnZ2N0NfRkNOZlZOS0h5bURCeUlmSUJVNnp2U1owdlhqQ3RiSVo4cHdnMEtkc0o4dzZCc0NnMU1mMjhGSUpiQnRPTTZNa2dBVTVnMTRWa3pvdU5ZUU1WWmtQYTJfamNER2IzM0NvX2tfZGYySDhycXkyXzBvRWhCbUFoc3BleDF6X0RLMEJRd0I2UDRt0gGGAkFVX3lxTE0tU3Z5bjJGSVh2RmY4eTg5Q1ZucjZDZ1ZzTmxBRUhRTDBzREt5Vlg1eTNvWFZfVVgxemZmWFBZQkZDUW9YUGVEUllKRHE0MEpJUkpnQURoR0dzUTlmalVUSXpCUE1IQnhKeG11eWJtTTlGclhYTjFOWHdOUzFIa3ZsbW05Z1pyV04wcWdIUW1lZlhDRkZvM0tlM3RvTXBlajZobW9jemtMU3R2cHZGVnk0aDYybnRpU05SSVRZbVBLZE5mdkNTaHhnRHJsTDEyY2tWV2I1QWhqXzA4X1JXMTFpaWhlTVBTdzNQTld5YjBHakkzVXBWWVZCTkpoS2xRWVJzSGswOGc?oc=5",
+          "description": "Maxi-attacco ucraino su Mosca, bruciano due hub. Romania: jet spagnolo abbatte drone, \"sembra russo\" - Escalation senza precedenti: maxi attacco di droni tra Russia e Ucraina mentre l’Europa cerca un ruolo nella pace RaiNews Ucraina, pioggia di droni su Mosca. Uno russo abbattuto da un caccia Nato in Romania ANSA Guerra Ucraina - Russia, le news di oggi repubblica.it Due F-18 spagnoli della Nato a",
+          "pubDate": "Sun, 16 Aug 2026 23:19:12 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Mosca: '1500 droni ucraini lanciati contro la Russia in 24 ore' - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOUxaWjItSS1aZG9YblFfMkpiSGIxME1nd3hPQVJxdUZ1Y2RYaWZ4bV9LWXV6YUNUeG5raFc4djluUkNXT0l0MzJIMU1EaFNRNTNaZ0J3X3BuSWJPcGJLbzdOQTFhR3Vxd0lzNDFhMmtIczVoNWg3TFctQ0Q3RFhkVm85eWxrQWdB?oc=5",
+          "description": "Mosca: '1500 droni ucraini lanciati contro la Russia in 24 ore' Sky TG24 Guerra Ucraina-Russia, le notizie in diretta | Mosca: «Quasi 1500 droni ucraini lanciati contro la Russia in 24 ore» Corriere della Sera Il grande attacco ucraino coi droni verso la Russia Il Post Raid russo su Kiev: distrutto dalle fiamme lo storico mercato dei libri di Petrivka RaiNews Guerra ultime notizie. Proseguono atta",
+          "pubDate": "Sun, 16 Aug 2026 22:09:58 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Years of Trump Support Came Undone in 15 Minutes in an Airport. - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00TjMtZ0FneTdkYTZSUnFaNmprTmNucC01NWRGWlVnZXJYNVVxVjVIaWtNSlhwLUZqMkh0enE0QWp6STBhZHhkNzNsQlgwNVJweXZ0MDZWWUg1bTNCMGlwN005N013WmtGWlNPZWVhX2U0amxkNjlpcTdR?oc=5",
+          "description": "Years of Trump Support Came Undone in 15 Minutes in an Airport. The New York Times MAGA man loses wife to ICE: “I never thought that it was so easy to take freedom from anyone” Daily Kos Tech Exec Voted for Trump Three Times — Then ICE Arrested His Russian Wife During Her Birthday Trip International Business Times UK 'Terrified' MAGA couple turns on Trump after brutal encounter: 'We are living in ",
+          "pubDate": "Sun, 16 Aug 2026 16:05:44 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Kyiv launches large attack on Russian military and energy facilities - Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ2hhaUsxR3BDcm92cTJiclVLLVNIQ1kxZktzajNHSkRNN0t5LTdKVGVDS05XaTZZTldZOUdZWDR1dHFiWGZrYjV6di1qMmZydW5tbGd5eEFQLTA5THRuV1k4MGN4cUxjY3BXTTkxOVFyaUNBNUNqQnFHZzBYOWdqQlRBZTA0UWh1NTNXcW5XaXliSXM0UlFMX3E1dkp1aGFkajdrb09DY2FJSHoydm1ESjRDdEJMSVh1YVBiM3FrTEc1LXhram56WmpkcmJxVlk?oc=5",
+          "description": "Kyiv launches large attack on Russian military and energy facilities Euronews.com Ukraine attacks Russia with hundreds of drones - one of Kyiv’s largest assaults of the conflict CNN Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia Dallas News Ukrainian drone attack on Russia kills at least six, says Moscow The Guardian Ukraine launches 600 drones t",
+          "pubDate": "Sun, 16 Aug 2026 14:29:51 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "terremoto",
+      "n_items": 7,
+      "n_sources": 5,
+      "category": "clima",
+      "score": 41,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Farnesina, sono circa 700 gli italiani sull'isola di Flores in Indonesia - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNd2VJd2FVZVdaRDIyd2trbFYzSnVBLURnRzRwcnZsVEpRUlJudThYZTNvVWxnR2hFbXNqRGNleHk4TnJHa3NfQzRqWXhrRUFWN2RYLXJ4bF9tS0dCbU5qWVMwMFA0ekdiSGJWRlBRTTg4dXRLZHFYb2Rza21sTk5taWluQzFOQ242Q2NKUDhHREVJdjg4VVA0QUVxOGJxMENycHlEczVPMlJBZVZILWx5d2l1WnU1WGVhMUwwcjVsYzYxbVRlSUd0bng2QUJRb3lfa21QSVhEWVRtU0JKTmpDNS1YYjBJanFiRzB1Z3BEaUhyODlmLVlv?oc=5",
+          "description": "Farnesina, sono circa 700 gli italiani sull'isola di Flores in Indonesia ANSA Indonesia, sono 53 i morti nel terremoto. La Farnesina: «Ecco i numeri per gli italiani nella zona» Corriere della Sera Il terremoto scuote l'Indonesia, si scava tra le macerie ANSA Terremoto a Flores: 51 morti e 5.000 sfollati dopo il sisma 7.7 Il Fatto Quotidiano Indonesia, il vescovo di Ruteng: \"Dio porterà alba nuova",
+          "pubDate": "Sun, 16 Aug 2026 13:18:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Vittorio Sgarbi sul furto delle opere di Antonello da Messina: «Rubarle è senza senso. Il loro valore è inestimabile» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdXdwSFlQNm1fUWdpeVBoSU5Ic1pvRnlqbWUzSzF1NkFYamtlQ0k3U3RxZ09mTFlZSzJXLVQ3WURoaEp6THVEbzJ5WUZpMXhhNkdFSm1SWUM5eG5OZk9zSVdzSFVYX1hZYW5nM1FiRkFJYXR0Y1lmbDAwVElDaGJRckh2aXM1T3plYVdVbl94OU13UnpnMmxMTERJdWpyM1VnSzBhNE5iT0pRVkozXzZRbDVzZmRBcUdpRHVzZDZlVTZvYUNyLURkTHFKRzNDeDlRcXFCdGNMeEhrQzlZRnJqSFpNZ9IB6AFBVV95cUxQLTduUHZSdHdhYmZ1bmhyNHk1N2xYb2YwOGFGX2tyR2V2YnFIemtZd0t5Y2xGQ1IwU0JOaThMV1NzRFZsc082WVRWS2VpYkV0QXdVX0FLX3MtR2xYb1dBVFdpZmtBcEtMZHFLcmoxTWotR0RjcmNQZ0ZXODJEckl1ZERmdko0V0xVQ0dIdW9Ua0Jnd1Z6bFRvanlEQUxCcUdmbl81Vm9wM1RGWlZXNzV6WTJVTW11NVpyaWpuTENJdWJzaU1Zems0ckNKYzk5RVhhNjUyOUMtRC1MclkxNjJlU1ZNT0JaUTVs?oc=5",
+          "description": "Vittorio Sgarbi sul furto delle opere di Antonello da Messina: «Rubarle è senza senso. Il loro valore è inestimabile» Corriere della Sera Fiorella Sricchia Santoro: “Opera sopravvissuta anche al terremoto,è una perdita grave” repubblica.it Furto al Museo di Messina: rubate 4 opere di Antonello Il Fatto Quotidiano Furto di Antonello da Messina: i ladri sono più professionisti dei professionisti? Fi",
+          "pubDate": "Sun, 16 Aug 2026 19:40:52 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Il presidente della Colombia ha chiesto a Donald Trump di sospendere i dazi, per via del terremoto - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zYzJGZnV2anZqU256eXg0cTYxQ0NDT2lmSmk1eVhVX2szOWtlRmlQc1E4bjhxdGktX3J0YWg4eFFTdjJrRmpGRFZjNjF0RmxUN3E2QlQ0X1BYM2s0TDVxRUh1dlRKLXljOXdzMmFpQmdaYmJKdUE4?oc=5",
+          "description": "Il presidente della Colombia ha chiesto a Donald Trump di sospendere i dazi, per via del terremoto Il Post Terremoto in Colombia, la sfida di fare scuola dove la scuola non c'è Sky TG24 Colombia, corsa contro il tempo per trovare sopravvissuti Vatican News Colombia, non ce l'ha fatta la donna estratta dalle macerie a Cali dopo 40 ore Giornale di Brescia Terremoto in Colombia: approvato un pacchett",
+          "pubDate": "Sun, 16 Aug 2026 07:01:04 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Terremoto in Indonesia: 40 morti e nuova scossa a Sumatra - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcFhXbkd2akJlV0RuSUItSTFnYzhfYXRJX2RoaXFEMm9RMmprbU51SjR2SmFYQXVqeGJJVlBFRHNRRE9ZMXZkb0REbnFCSm5INFVLQUpzYXVHZl9FQWNMdlh1QjJBdUdGVGRRSGRvZS1XNVh1TGxDSy1HU2I4UzE1aXRONVBRNGhsaTZyWVc0Z0lrd3FLbDJZRWFySFI?oc=5",
+          "description": "Terremoto in Indonesia: 40 morti e nuova scossa a Sumatra Il Fatto Quotidiano Indonesia, sono 53 i morti nel terremoto. La Farnesina: «Ecco i numeri per gli italiani nella zona» Corriere della Sera Il terremoto scuote l'Indonesia, si scava tra le macerie ANSA Terremoto a Flores: 51 morti e 5.000 sfollati dopo il sisma 7.7 Il Fatto Quotidiano Indonesia, il vescovo di Ruteng: \"Dio porterà alba nuova",
+          "pubDate": "Sat, 15 Aug 2026 13:12:45 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Terremoto in Colombia, una donna è morta per salvare il suo cane",
+          "link": "https://www.ansa.it/sito/videogallery/mondo/2026/08/16/terremoto-in-colombia-una-donna-e-morta-per-salvare-il-suo-cane_b6baf28b-1dce-471e-bbb2-06813061110e.html",
+          "description": "Il fratello: \"È una storia d'amore\"",
+          "pubDate": "Sun, 16 Aug 2026 10:18:52 +0200"
+        }
+      ],
+      "macro_area": "clima-salute"
+    },
+    {
+      "keyword": "apple",
+      "n_items": 7,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 41,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "Utenti iPhone possibili vittime di attacchi cyber, Apple manda avvisi in 110 Paesi",
+          "link": "https://www.ansa.it/canale_tecnologia/notizie/cybersecurity/2026/08/14/utenti-iphone-possibili-vittime-di-attacchi-cyber-apple-manda-avvisi-in-110_d1d1f892-45b8-4f32-b631-f321af6112ff.html",
+          "description": "Le notifiche sulle schermate di blocco dei telefoni per segnalare minacce complesse",
+          "pubDate": "Fri, 14 Aug 2026 14:24:57 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Semiconduttori, veto di Washington ad Apple: \"No ai chip cinesi per l'iPhone\" - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWHpCd3RacWhZR0xzeXBOaEhFMy1VOFZ5Ukl1enByWFkwQUU5Rms1YlV0OE9pSzZnVmdtR29aUXlHZkg1SnhrNF9Zd3NveFNkejVFRWRXczRvblhaV3FKZGFtUThrMklGUkJ1bVFsekJuWkFsdHFRd2g1UEttLVBoMklWNVA2eEtTODZFdUdnRU80SWxuamh6ZkdNM1BCbmxuWlB0eGJSWEpIdWtib0sxNGoxMFpjNVN6Y21Gd3BVelBJNUFBZGdaOXVUcjdTMlJjTzZDbnRtb2xUZkdHcTZnZ3Q0N21QQWxYWWfSAe8BQVVfeXFMTjlSczFsYlpmb3dlU1d1TFZqbWUxdkJDZlppRnZ2c2hKeXY1Rzk3QWpTczdPTzZqTzRzZjNlUVNvXzJ3aFFQVE1oR3ZuUHhFTEVlRFMtRGtpdEN6c2JYbjQ3SW50em90Z3dQbENKZS1vbXlFNk5ncGVtUFZZWjNPa20xMEhJWDNkWmFNeGowc0VGNndKUUw5OEVXbFRUMjJkRWNfbF9XWmJoUWVQcGEzbEpCZDBJVHVtcld0d3VYR2o4NEt3eVIySF9idnp4amxRQlhnTEl4cC1aQkJsVlFwOTVlWlBxcVU4MFlQUFRPanM?oc=5",
+          "description": "Semiconduttori, veto di Washington ad Apple: \"No ai chip cinesi per l'iPhone\" RaiNews Wsj, Lutnick chiede a Apple di non acquistare chip di memoria cinesi Il Sole 24 ORE Gli USA pressano Apple a evitare i chip di memoria cinesi Investing.com Apple testa le DRAM di CXMT, ma la fornitura resta in dubbio tomshw.it La crisi dei chip spinge Apple a valutare memorie cinesi per iPhone e Mac HDblog.it",
+          "pubDate": "Sun, 16 Aug 2026 01:41:00 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "«Il tuo iPhone è spiato»: Apple avvisa gli utenti di 110 Paesi di un attacco spyware in corso - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPUVNhRi1ISHdVX3AzZEU1SWhHYUZ0UWwzTkV3LTI1NWRibFJQQ1RQbzdpVFBoU2l2Q1VKNG1kY3hYZHhnRmNFMHRoVUJvT2VFZUFfUnJBaURkTGY4X1dXQzVTOWFDaERXSk5mcHptb2FSZ0FKZ3JkVFpPWWZqRE5teDZ5dUhwc0VHLTI2R2ppX3k5aWpBUXBhcE92U2syaWJQY3gwdFVWQmVQSExOUTM5dXNXZUQ4SklyVVhHaG5PRC1fa0YybjhWTGd2TWNtX0pwOW1CVkNrX215ZzBhR01FM2tySWZyM3luRUJMSDhrTEpROVlFVV8zN3IxcHFDQWFNSjBDakY5WE5NNS01YXfSAZMCQVVfeXFMUDVmT0R3aDA4aUdrb20tYTR4eGNYcjJDeVRZZklBMllEaDNxU01hdXFacXdQRnkwWGZYMjhzV0JaMjZqR0ZjMHdHdFRwVkRRc3BzUEZkVG0xdmk5WWF4UVRuV2t4elM0Q1RHOTkwUS1rTlVvUVNfTFFNaG84ajBNLUE5STFYSzNCMFE1QWZRVVJseHhBUGExUzF0Q01tSWI2WGdXcGtxUWhwMXpocnRJZC1xbHNmaWd1bFdZZE93dXpGU19QckNyZ1pxVFNkYzRBR2wtcUV2bURPa0JHdElVZnVDUHJMcXR0Z2VoeXJneG9WcFZsNG1WTnRodVR3VGc5UE1OSHJhM1pVTnBjb3M1bklPZWc?oc=5",
+          "description": "«Il tuo iPhone è spiato»: Apple avvisa gli utenti di 110 Paesi di un attacco spyware in corso Corriere della Sera",
+          "pubDate": "Sun, 16 Aug 2026 08:38:37 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Apple iPhone 18 Pro Release Date: Discounted Day Re-Enters The September Schedule - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNlhBX1NVbGF0VTd4WkhLMnp2dXZ4M05kd1Bxd1JGRDFON2F4TzhKOGdOa2ZPTGZOa2RDU1VPWnZlOEFUMlRvUGI0cDFSRFJoNF9tLVRwenZNTVV1cU5oX1U4MUo1SG5XWTRjWDFpRGozU2ltQnRNR3o4VUp3bVBiUGVTLTRzQUtjNTUzQk9WeEU2MWNScWpqVXZkeFQ4MVRDcnZhRWhLYmY2Q2JXSVhCMzZyOVFaV0JIeW9OTzBmUm9SOUIzdlZwYkZKdHU0QQ?oc=5",
+          "description": "Apple iPhone 18 Pro Release Date: Discounted Day Re-Enters The September Schedule Forbes Apple Skipping iPhone 18 Launch This Year MacRumors Apple May Delay the iPhone 18 Until 2027 as Premium Models Get Fall Launch TechRepublic iPhone 18 Pro Max vs Pro: Here’s how Apple will differentiate models 9to5Mac Apple’s first foldable could reshape its entire iPhone launch thestreet.com",
+          "pubDate": "Sun, 16 Aug 2026 20:28:00 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "Apple risarcirà proprietari di MacBook per le tastiere difettose",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/apple-risarcira-proprietari-di-macbook-per-le-tastiere-difettose_ce9214c7-b68d-4d8e-ad5f-7bd5bd04ecbe.html",
+          "description": "Giudice Usa ha dato via libera all'intesa da 50 milioni di dollari",
+          "pubDate": "Tue, 30 May 2023 16:35:36 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "auto",
+      "n_items": 8,
+      "n_sources": 5,
+      "category": "general",
+      "score": 40,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Bus di pellegrini si ribalta in autostrada: 12 morti e 10 feriti, tornavano da Medjugorje - Europa Today",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BNWN1SWNkTV9aWDIxQVFnS3h0cFRjeUhrVHA2NHhQaUFCRDY2TnVaR2owbDJPQVFmbE4xWWctY3RYNl9uQk5sREFuRUtJN0daRHhpS3lqLXlGRWZQUWNqUklZZXhmMGZyX0JvM2VLN3lSR2F2UUFlM1U0RXFSQzjSAYQBQVVfeXFMT1hTN3pldjBfZkU1Q3FUV1RsRkVxajdzZTgxYnZ6ODk1MDlVOE1mY2FxWEw2ZjhxaTg0UnVTRE0xeFNQNVZxMTY5a2ZSeVcyNFRHQjRjU0pfMmw0ejBneXhVbzVHN3NjS0I4dmRSa2ktTVQ1VVNjMnVKMWZvcUhabnpmRGVR?oc=5",
+          "description": "Bus di pellegrini si ribalta in autostrada: 12 morti e 10 feriti, tornavano da Medjugorje Europa Today Bus con pellegrini polacchi si ribalta in Ungheria: 12 morti Il Fatto Quotidiano Un autobus si è ribaltato in Ungheria, 12 morti e almeno 10 feriti gravi ANSA Tragedia pullman polacco in Ungheria: governo invia aereo speciale Euronews.com Incidente stradale in Ungheria, si ribalta bus: 12 morti R",
+          "pubDate": "Sun, 16 Aug 2026 13:53:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "L.A. street takeover acts as cover while thieves ransack local business - KTLA",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdzlpSm5KblBNUXg3Sk1IRnNzM1cwc21wY2o4bkdPX1BTbWRfTF96TldlTmxQOXJPZ3R2bGRuZ0lkOTFuYWxjSFhLU29PZ2piOG5pcW9UTUNVbDlZVVh6aGhKOXk1TXlPYlh5VFMwcUluZFpjM1FjV0VlRGQ5c2xpNVh3ZDV1Z9IBiwFBVV95cUxObEY3LTFnLWw3RTctdElMTGgwSDlYTHpwMFJNMnJmQ0hCVmJoaWNobVR0Y1RmUW1KZzlFVzcxYUR4WmhKZ004Q3Z3UkRQSi0wRTRfMzdGSnE5U2cxYXRUbDBONGROX3czbk9nNVRnVG0xWTVpTFgzZHIxNDV6SVhkUElHS0VPUUY0d3Vv?oc=5",
+          "description": "L.A. street takeover acts as cover while thieves ransack local business KTLA Sheriff posts photos of 27 suspected of ransacking AutoZone during East L.A. street takeovers Los Angeles Times LA County detectives share 27 photos as they seek to identify East LA AutoZone burglary suspects CBS News Looters target Bellflower liquor store after street takeover, owners say NBC Los Angeles Chaos as L.A. st",
+          "pubDate": "Mon, 17 Aug 2026 00:07:40 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Ferrari Luce venduta a 40 milioni: record d'asta a Monterey - AGI",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMG9mZVROV2hDa01UdE5STUNYaURDM01VZUl0cmpfUlBUVGpqYW9kRDBoQXlSTjFwMVU4ZHlCZGZlMWZZYzJmWjYyV2lYdFNpQ0hBQnZDNVZrdC1JUTA0bjkwbWJ6bi1ZWjE1bVFYN25DaG5ibXBHTXBCMTZVd2FPNXVUU3E?oc=5",
+          "description": "Ferrari Luce venduta a 40 milioni: record d'asta a Monterey AGI Ferrari Luce, asta record: battuta a 40 milioni di dollari, mai una cifra simile per un’auto nuova repubblica.it Aste ultra milionarie a Monterey, ma Shelby e Corvette rovinano la festa Ferrari ANSA 40 milioni di dollari per la Ferrari Luce Telaio 0: follie californiane TopSpeed Blog La Ferrari Luce va all'asta e batte tutti i record:",
+          "pubDate": "Sun, 16 Aug 2026 10:55:06 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Campania ultima in Italia per auto nuove: crollano gli acquisti - Il Mattino",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNanYyR1VKQ0tLQ085Ri1XbldTWmlRYXdMNng0b3VSdDlkWWlHOEl4c015b2wtNkhVSDBrbEh5UzBFVThCa19OTEtZMUtlVlo4Yk1RcmlHbHNGSGJoa0ViYUtiWGo0ek1QWWZ2bWczaGNaaEExajU3a19mQnotWnRmWmNPN21Gd3ZvYVg0RTkwQzdoemhXRzJMNW9VS1I4X0xqYUEycUZR0gGrAUFVX3lxTE5UTUMxUjVMbHVxa1NibmtCc3pMOVY3ejNDWG8tcWZMUXJGOEZkZk51RDhqcW5kR3pyTVo0S0NBUmFwdm5XLTUxb0t0bDl5ekVWb29QM1dWM1hSVGh2TmZXLXlQZ0U2dVBlS050M0hGU2hTZ0U0VjkwUE9LaVZXR0g2UGszUU4xVzZHbzBTMndpdTFUYUVwWjlhRlBMYkE2TzNTRUpXSVBVd19Xcw?oc=5",
+          "description": "Campania ultima in Italia per auto nuove: crollano gli acquisti Il Mattino Auto nuove: vendite a picco. Ma tiene il mercato dell’usato. Le spese virano sui telefonini La Nazione Crollano gli acquisti di auto nuove nel casertano: -14,6% nel 2025 CasertaNews I campani non comprano auto nuove, ultimi in Italia Il Quotidiano del Sud",
+          "pubDate": "Sun, 16 Aug 2026 08:20:08 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Robot umanoidi cinesi sbarcano in borsa, debutto record da 1 miliardo per Unitree - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTWtKT1FZbW02SmZyRDd0WVJ6Z0x4UlAzLWdiWmRvMEhuS3hjRzNkZ1IxT2E2cGxhV21JYkNtdkU5NXAxOFJRSHVhYm1HamFIVUxTTUVpMEllazJSQVR3ODN0cTBiQmljbWRuZlJtUWRnRlppejJmbzVzV1VDMk43S0pKekpHR3NoclFmZDZEUnNhYXI1REc3MWViVG9MMmN0ajNMajZqakI3OHhZWFMzdlpQcXBaS2d0aTF0bk5hZnlVLTJCX3N0NkVBUGVUUmRlZUZmS0dHbDUtOHBDVEJ1Y1hHRVptbFdXd1V6eGhpeGRCcW1N0gH6AUFVX3lxTE9NOTdMV19wd3BrYUczRURkR29xcGlaejRmZTdnX09LTFZ4eWNSOHV6aFptVmNhZFRyQkNfbUhlOTE0QnBkeDFYTnJib01xNnFGcy1yMWtCQkQ5SjR0NHloc0ZDQjZPaHhYM1NiWjNfcmZOeFdvU1BuRWoybm9NQVowYmluLUo1VmJuVnl1TWRjY0ZIZ1ZKY1pETl9hQTVhTExRSzFGQ29tUzllVS1RUDV3WkRiZ0ZDN2lRMmdXdjRtU2dOeE0xQjcxQ1p2Nld1MmJ3bzQ4X3Z5eXRLNGpWVXc3SnlWelpwRjJtQVpqb0lJMUI2SnpRcXJPRHc?oc=5",
+          "description": "Robot umanoidi cinesi sbarcano in borsa, debutto record da 1 miliardo per Unitree RaiNews St in calo con realizzi sui tech, sale attesa per Ipo di umanoidi cinesi Unitree Il Sole 24 ORE Unitree sbarca in Borsa: la Cina punta tutto sui robot umanoidi HDblog.it Robot umanoidi in Borsa, le PMI valutino destrezza e autonomia prima dell’acquisto tomshw.it Robot umanoidi, il divario tra la Cina e l’indu",
+          "pubDate": "Sun, 16 Aug 2026 04:50:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "guerra",
+      "n_items": 8,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "score": 38,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra ultime notizie. Proseguono attacchi: almeno otto morti in Ucraina, sette in Russia - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcl84U2ZSVTdYUjBjMGgzT0JVT2trNVc0dG5mcVAzcURtdWp6SUpXbS1tNFZ0blBIRDVBa3pBU2RleE5xLVdrakVZTkRldW92WFh1dElFODR1Vm13YnEtblp3b2dqVGFZaXlUVTdTSDF3d0JXSEJxSVVQMXcxTnc1ZHBkdkpqTVlMdDg1UkxWSC0yc3Y4QnNGQnhldEVDVGNaMXNTRUdKcVM5dzE5SVhCRzRyd0tWLV9CUnI5dW9fQ0FHTXMzSFF4eXdmdF9GcWR1TmtENzZn?oc=5",
+          "description": "Guerra ultime notizie. Proseguono attacchi: almeno otto morti in Ucraina, sette in Russia Il Sole 24 ORE Guerra Ucraina-Russia, le notizie in diretta | Mosca: «Quasi 1500 droni ucraini lanciati contro la Russia in 24 ore» Corriere della Sera Il grande attacco ucraino coi droni verso la Russia Il Post Raid russo su Kiev: distrutto dalle fiamme lo storico mercato dei libri di Petrivka RaiNews Mosca,",
+          "pubDate": "Sun, 16 Aug 2026 06:49:15 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra ultime notizie. Tregua Iran-Usa verso scadenza del 17 agosto senza accordo, escalation in Libano - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSHZQbGpzWHZHYkVLTi1kZXlQUmlWR0lSa1VUN0FYWmd4M0RVM2RSemMwRUlfeE1LYWxCVGd6YjhVQ2x2WGdla3VpUW1yZVJLYXVMMTl0V0xYTlVhWkZBdUt3S1NScGZ0d3E2Y2c4ZmxWMmd1M25KTENxZlJkeXZ6VGloVEZRamh1RVdvSjNQdmNteHlSc0l2QlZrT2lHMFBCVjJQSVl5ODI5S2hjY1E3My1KXzI?oc=5",
+          "description": "Guerra ultime notizie. Tregua Iran-Usa verso scadenza del 17 agosto senza accordo, escalation in Libano Il Sole 24 ORE Khamenei in punto di morte e tensioni regionali: ecco perché questo è \"il momento migliore\" per un accordo con gli Usa, come dice l'Iran affaritaliani.it Iran, media Turchia: accordo con Usa per prorogare cessate fuoco in scadenza 17 agosto Il Quotidiano del Sud TASS (TELEGRAM) * ",
+          "pubDate": "Sun, 16 Aug 2026 21:35:42 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Maxi-attacco ucraino su Mosca, bruciano due hub. Romania: jet spagnolo abbatte drone, \"sembra russo\" - Escalation senza precedenti: maxi attacco di droni tra Russia e Ucraina mentre l’Europa cerca un ruolo nella pace - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPcXNTbFZkMm9OWkRkaFRwTTVTMXFGTjgyamRta0hlLXpscU5aeEFDSmVFd0FySjZUVkxZNjl5QjRMWXRfR0Z5bmxKM3FzZUFnQ09DMFJBb0pHeW1CSWRRamwzUVVFb2pMQkpZMW9lRU9BZFRFbnZ2N0NfRkNOZlZOS0h5bURCeUlmSUJVNnp2U1owdlhqQ3RiSVo4cHdnMEtkc0o4dzZCc0NnMU1mMjhGSUpiQnRPTTZNa2dBVTVnMTRWa3pvdU5ZUU1WWmtQYTJfamNER2IzM0NvX2tfZGYySDhycXkyXzBvRWhCbUFoc3BleDF6X0RLMEJRd0I2UDRt0gGGAkFVX3lxTE0tU3Z5bjJGSVh2RmY4eTg5Q1ZucjZDZ1ZzTmxBRUhRTDBzREt5Vlg1eTNvWFZfVVgxemZmWFBZQkZDUW9YUGVEUllKRHE0MEpJUkpnQURoR0dzUTlmalVUSXpCUE1IQnhKeG11eWJtTTlGclhYTjFOWHdOUzFIa3ZsbW05Z1pyV04wcWdIUW1lZlhDRkZvM0tlM3RvTXBlajZobW9jemtMU3R2cHZGVnk0aDYybnRpU05SSVRZbVBLZE5mdkNTaHhnRHJsTDEyY2tWV2I1QWhqXzA4X1JXMTFpaWhlTVBTdzNQTld5YjBHakkzVXBWWVZCTkpoS2xRWVJzSGswOGc?oc=5",
+          "description": "Maxi-attacco ucraino su Mosca, bruciano due hub. Romania: jet spagnolo abbatte drone, \"sembra russo\" - Escalation senza precedenti: maxi attacco di droni tra Russia e Ucraina mentre l’Europa cerca un ruolo nella pace RaiNews Ucraina, pioggia di droni su Mosca. Uno russo abbattuto da un caccia Nato in Romania ANSA Guerra Ucraina - Russia, le news di oggi repubblica.it Due F-18 spagnoli della Nato a",
+          "pubDate": "Sun, 16 Aug 2026 23:19:12 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Iran Usa, 8 Paesi accusano Israele di aver ostacolato piano pace per Gaza - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwUHRoLXBQeWMxNy1jUDkxV2xKNFV0bVQyU1lfY1h5RFd6SFBMMlI2dzJaZGoxX1RDeTE4X0hYQVgwLXdsVkMzT1ZERERnNFVvVHN2WUlvX2ptaG4yaHZHVlg2VjhzYmo4aXRtMkkyUzJiSlo1U1NRT05QTQ?oc=5",
+          "description": "Guerra Iran Usa, 8 Paesi accusano Israele di aver ostacolato piano pace per Gaza Sky TG24 Gaza, Kushner vede Hamas: “Avanti con il disarmo ma Israele cessi i raid” repubblica.it Per salvare il “Board of Peace” Kushner vede Hamas e poi Bibi Il Fatto Quotidiano Sei mesi dopo | Quello che il satellite vede a Gaza, e che la ricostruzione non racconta Linkiesta.it Hamas a Board of Peace, 'costringa Isr",
+          "pubDate": "Sun, 16 Aug 2026 21:44:14 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Mosca: '1500 droni ucraini lanciati contro la Russia in 24 ore' - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOUxaWjItSS1aZG9YblFfMkpiSGIxME1nd3hPQVJxdUZ1Y2RYaWZ4bV9LWXV6YUNUeG5raFc4djluUkNXT0l0MzJIMU1EaFNRNTNaZ0J3X3BuSWJPcGJLbzdOQTFhR3Vxd0lzNDFhMmtIczVoNWg3TFctQ0Q3RFhkVm85eWxrQWdB?oc=5",
+          "description": "Mosca: '1500 droni ucraini lanciati contro la Russia in 24 ore' Sky TG24 Guerra Ucraina-Russia, le notizie in diretta | Mosca: «Quasi 1500 droni ucraini lanciati contro la Russia in 24 ore» Corriere della Sera Il grande attacco ucraino coi droni verso la Russia Il Post Raid russo su Kiev: distrutto dalle fiamme lo storico mercato dei libri di Petrivka RaiNews Guerra ultime notizie. Proseguono atta",
+          "pubDate": "Sun, 16 Aug 2026 22:09:58 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "indonesia",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "clima",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Farnesina, sono circa 700 gli italiani sull'isola di Flores in Indonesia - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNd2VJd2FVZVdaRDIyd2trbFYzSnVBLURnRzRwcnZsVEpRUlJudThYZTNvVWxnR2hFbXNqRGNleHk4TnJHa3NfQzRqWXhrRUFWN2RYLXJ4bF9tS0dCbU5qWVMwMFA0ekdiSGJWRlBRTTg4dXRLZHFYb2Rza21sTk5taWluQzFOQ242Q2NKUDhHREVJdjg4VVA0QUVxOGJxMENycHlEczVPMlJBZVZILWx5d2l1WnU1WGVhMUwwcjVsYzYxbVRlSUd0bng2QUJRb3lfa21QSVhEWVRtU0JKTmpDNS1YYjBJanFiRzB1Z3BEaUhyODlmLVlv?oc=5",
+          "description": "Farnesina, sono circa 700 gli italiani sull'isola di Flores in Indonesia ANSA Indonesia, sono 53 i morti nel terremoto. La Farnesina: «Ecco i numeri per gli italiani nella zona» Corriere della Sera Il terremoto scuote l'Indonesia, si scava tra le macerie ANSA Terremoto a Flores: 51 morti e 5.000 sfollati dopo il sisma 7.7 Il Fatto Quotidiano Indonesia, il vescovo di Ruteng: \"Dio porterà alba nuova",
+          "pubDate": "Sun, 16 Aug 2026 13:18:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Terremoto in Indonesia: 40 morti e nuova scossa a Sumatra - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcFhXbkd2akJlV0RuSUItSTFnYzhfYXRJX2RoaXFEMm9RMmprbU51SjR2SmFYQXVqeGJJVlBFRHNRRE9ZMXZkb0REbnFCSm5INFVLQUpzYXVHZl9FQWNMdlh1QjJBdUdGVGRRSGRvZS1XNVh1TGxDSy1HU2I4UzE1aXRONVBRNGhsaTZyWVc0Z0lrd3FLbDJZRWFySFI?oc=5",
+          "description": "Terremoto in Indonesia: 40 morti e nuova scossa a Sumatra Il Fatto Quotidiano Indonesia, sono 53 i morti nel terremoto. La Farnesina: «Ecco i numeri per gli italiani nella zona» Corriere della Sera Il terremoto scuote l'Indonesia, si scava tra le macerie ANSA Terremoto a Flores: 51 morti e 5.000 sfollati dopo il sisma 7.7 Il Fatto Quotidiano Indonesia, il vescovo di Ruteng: \"Dio porterà alba nuova",
+          "pubDate": "Sat, 15 Aug 2026 13:12:45 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Nearly 1,000 aftershocks followed Indonesia earthquake that killed at least 53, officials say - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83T1pObWFEcjlUbml5M01PQTU1SGRNOWlBc2tvcmtrQVFqTXdMcFEwZE00THltVGdrZVRJNHcwdFJ3MHFWdHVucGNXdjFHTEh6RTY1Vi1KMVBsaUxMRjQ2Qk5YVks4NFNmMkZJOFhtS1Z1Vmhl?oc=5",
+          "description": "Nearly 1,000 aftershocks followed Indonesia earthquake that killed at least 53, officials say CBS News 2nd earthquake hits Indonesia following powerful magnitude 7.7 quake ABC News - Breaking News, Latest News and Videos Rescuers in Indonesia recover 6 more bodies in earthquake aftermath, raising death toll to 53 Los Angeles Times Indonesia's deadliest earthquakes of past decade Reuters M 7.7 - 68",
+          "pubDate": "Sun, 16 Aug 2026 23:54:11 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Terremoto di magnitudo 5.6 colpisce l'Indonesia",
+          "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/17/terremoto-di-magnitudo-5.6-colpisce-lindonesia_165059d7-276a-4303-98e7-f88e8c34b4dd.html",
+          "description": "Non è stato emesso alcun allarme tsunami.",
+          "pubDate": "Mon, 17 Aug 2026 03:34:15 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Farnesina, sono circa 700 gli italiani sull'isola di Flores in Indonesia",
+          "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/16/farnesina-sono-circa-700-gli-italiani-sullisola-di-flores-in-indonesia_2926d338-5684-42da-9c80-4f9642a2e9a4.html",
+          "description": "Aeroporti operativi ma pochi posti sui voli in partenza dall'area colpita dal sisma",
+          "pubDate": "Sun, 16 Aug 2026 15:19:12 +0200"
+        }
+      ],
+      "macro_area": "clima-salute"
+    },
+    {
+      "keyword": "paesi",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Iran Usa, 8 Paesi accusano Israele di aver ostacolato piano pace per Gaza - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwUHRoLXBQeWMxNy1jUDkxV2xKNFV0bVQyU1lfY1h5RFd6SFBMMlI2dzJaZGoxX1RDeTE4X0hYQVgwLXdsVkMzT1ZERERnNFVvVHN2WUlvX2ptaG4yaHZHVlg2VjhzYmo4aXRtMkkyUzJiSlo1U1NRT05QTQ?oc=5",
+          "description": "Guerra Iran Usa, 8 Paesi accusano Israele di aver ostacolato piano pace per Gaza Sky TG24 Gaza, Kushner vede Hamas: “Avanti con il disarmo ma Israele cessi i raid” repubblica.it Per salvare il “Board of Peace” Kushner vede Hamas e poi Bibi Il Fatto Quotidiano Sei mesi dopo | Quello che il satellite vede a Gaza, e che la ricostruzione non racconta Linkiesta.it Hamas a Board of Peace, 'costringa Isr",
+          "pubDate": "Sun, 16 Aug 2026 21:44:14 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "È online lo speciale di ANSA.it sui Giochi del Mediterraneo Taranto 2026",
+          "link": "https://www.ansa.it/puglia/notizie/speciali/xx_giochi_del_mediterraneo_taranto_2026/2026/08/16/e-online-lo-speciale-di-ansa.it-sui-giochi-del-mediterraneo-taranto-2026_6e0a4a53-6951-4877-b643-54f9fe745e50.html",
+          "description": "Oltre 4mila gli atleti da 26 Paesi, le gare dal 21 agosto al 3 settembre",
+          "pubDate": "Sun, 16 Aug 2026 15:22:41 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Utenti iPhone possibili vittime di attacchi cyber, Apple manda avvisi in 110 Paesi",
+          "link": "https://www.ansa.it/canale_tecnologia/notizie/cybersecurity/2026/08/14/utenti-iphone-possibili-vittime-di-attacchi-cyber-apple-manda-avvisi-in-110_d1d1f892-45b8-4f32-b631-f321af6112ff.html",
+          "description": "Le notifiche sulle schermate di blocco dei telefoni per segnalare minacce complesse",
+          "pubDate": "Fri, 14 Aug 2026 14:24:57 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Il paradosso di Hormuz: lo choc energetico non piega più i potenti. E il conto passa ai Paesi più fragili (e all'Europa) - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQVHp4ekQ2WThpZmRQZU5BQ1I0dkdEN2lKQ2x4Sno1OUVpcnpJVzBkaTcxN2taU1BHQjFOYVdSU01xZFFBUVUzTmE1SGlGZGp6N2theWdTTlJTSDA5OGUwRzZkVGM2ZG85eWdua21ETjFRM1pjZUlnTV80SnpMVGlaa3lQZ2gySExrQS1ka3VoR2lvVjF6ckRUTWUyak1kbzhEZ2ZGeHhFbHNZQlpoSm5VX2lWa0Z1U2JiemtWcUducUNxV0ZNdDF2RHlVektZeG9oZ0wya0tzUkN2dE12cmVXSU9QZ3hZSHZkVzRScHdNbG9WUXpaWVdpZXdnc3k3QldUdk54UUNFOHVPRlo3QTFIQXpfX21CNzk4VkpKMGV5Ym5UU1Fu0gGqAkFVX3lxTE5YazYwdmNwQ1FkUnlLdHBXR3htdnFzcVFqMUhibTVEQTZ0bVNPbjYyVmxyU3BzdlRVU0dDbEx3c253Z0JlQTQwc0J2N1pVV0ZPOWdPWExucm8tRnZkbVcwZjltN3UwR002ZnluZy1LbHBPZ0pSdjhGelRrbTExYlROMEFlRW9UbVdVTHlMVld0VkMwMmpQbFhzN3VaV3RIOUVfY25WOXhSRHRmM1V1S1MxaVpnUnpfaTJIcnJfYVFVY1V3Z3VsalEyUzIyTzh3TUlpNDFXaXhLUTZyVElLNTNMcW9QNDcwTWVQaS04TzMyU2QxTUJlLTV2TlhDN3lTVDlNb1J1NThVS1FRRDFKWEp0MWQyZ1N1SzU4YkI1cEhRYmhEcVhMbG50MXc?oc=5",
+          "description": "Il paradosso di Hormuz: lo choc energetico non piega più i potenti. E il conto passa ai Paesi più fragili (e all'Europa) Corriere della Sera Hormuz manda in crisi fiscale l’Iraq, mentre cerca di smantellare le milizie Il Sole 24 ORE Petrolio, calano consumi e scorte: Opec rivede le stime del 2026 Sky TG24 Petrolio verso un rialzo settimanale mentre persistono i rischi sulle forniture nello Stretto",
+          "pubDate": "Sun, 16 Aug 2026 05:31:00 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "«Il tuo iPhone è spiato»: Apple avvisa gli utenti di 110 Paesi di un attacco spyware in corso - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPUVNhRi1ISHdVX3AzZEU1SWhHYUZ0UWwzTkV3LTI1NWRibFJQQ1RQbzdpVFBoU2l2Q1VKNG1kY3hYZHhnRmNFMHRoVUJvT2VFZUFfUnJBaURkTGY4X1dXQzVTOWFDaERXSk5mcHptb2FSZ0FKZ3JkVFpPWWZqRE5teDZ5dUhwc0VHLTI2R2ppX3k5aWpBUXBhcE92U2syaWJQY3gwdFVWQmVQSExOUTM5dXNXZUQ4SklyVVhHaG5PRC1fa0YybjhWTGd2TWNtX0pwOW1CVkNrX215ZzBhR01FM2tySWZyM3luRUJMSDhrTEpROVlFVV8zN3IxcHFDQWFNSjBDakY5WE5NNS01YXfSAZMCQVVfeXFMUDVmT0R3aDA4aUdrb20tYTR4eGNYcjJDeVRZZklBMllEaDNxU01hdXFacXdQRnkwWGZYMjhzV0JaMjZqR0ZjMHdHdFRwVkRRc3BzUEZkVG0xdmk5WWF4UVRuV2t4elM0Q1RHOTkwUS1rTlVvUVNfTFFNaG84ajBNLUE5STFYSzNCMFE1QWZRVVJseHhBUGExUzF0Q01tSWI2WGdXcGtxUWhwMXpocnRJZC1xbHNmaWd1bFdZZE93dXpGU19QckNyZ1pxVFNkYzRBR2wtcUV2bURPa0JHdElVZnVDUHJMcXR0Z2VoeXJneG9WcFZsNG1WTnRodVR3VGc5UE1OSHJhM1pVTnBjb3M1bklPZWc?oc=5",
+          "description": "«Il tuo iPhone è spiato»: Apple avvisa gli utenti di 110 Paesi di un attacco spyware in corso Corriere della Sera",
+          "pubDate": "Sun, 16 Aug 2026 08:38:37 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "iphone",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "Utenti iPhone possibili vittime di attacchi cyber, Apple manda avvisi in 110 Paesi",
+          "link": "https://www.ansa.it/canale_tecnologia/notizie/cybersecurity/2026/08/14/utenti-iphone-possibili-vittime-di-attacchi-cyber-apple-manda-avvisi-in-110_d1d1f892-45b8-4f32-b631-f321af6112ff.html",
+          "description": "Le notifiche sulle schermate di blocco dei telefoni per segnalare minacce complesse",
+          "pubDate": "Fri, 14 Aug 2026 14:24:57 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Semiconduttori, veto di Washington ad Apple: \"No ai chip cinesi per l'iPhone\" - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWHpCd3RacWhZR0xzeXBOaEhFMy1VOFZ5Ukl1enByWFkwQUU5Rms1YlV0OE9pSzZnVmdtR29aUXlHZkg1SnhrNF9Zd3NveFNkejVFRWRXczRvblhaV3FKZGFtUThrMklGUkJ1bVFsekJuWkFsdHFRd2g1UEttLVBoMklWNVA2eEtTODZFdUdnRU80SWxuamh6ZkdNM1BCbmxuWlB0eGJSWEpIdWtib0sxNGoxMFpjNVN6Y21Gd3BVelBJNUFBZGdaOXVUcjdTMlJjTzZDbnRtb2xUZkdHcTZnZ3Q0N21QQWxYWWfSAe8BQVVfeXFMTjlSczFsYlpmb3dlU1d1TFZqbWUxdkJDZlppRnZ2c2hKeXY1Rzk3QWpTczdPTzZqTzRzZjNlUVNvXzJ3aFFQVE1oR3ZuUHhFTEVlRFMtRGtpdEN6c2JYbjQ3SW50em90Z3dQbENKZS1vbXlFNk5ncGVtUFZZWjNPa20xMEhJWDNkWmFNeGowc0VGNndKUUw5OEVXbFRUMjJkRWNfbF9XWmJoUWVQcGEzbEpCZDBJVHVtcld0d3VYR2o4NEt3eVIySF9idnp4amxRQlhnTEl4cC1aQkJsVlFwOTVlWlBxcVU4MFlQUFRPanM?oc=5",
+          "description": "Semiconduttori, veto di Washington ad Apple: \"No ai chip cinesi per l'iPhone\" RaiNews Wsj, Lutnick chiede a Apple di non acquistare chip di memoria cinesi Il Sole 24 ORE Gli USA pressano Apple a evitare i chip di memoria cinesi Investing.com Apple testa le DRAM di CXMT, ma la fornitura resta in dubbio tomshw.it La crisi dei chip spinge Apple a valutare memorie cinesi per iPhone e Mac HDblog.it",
+          "pubDate": "Sun, 16 Aug 2026 01:41:00 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "«Il tuo iPhone è spiato»: Apple avvisa gli utenti di 110 Paesi di un attacco spyware in corso - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPUVNhRi1ISHdVX3AzZEU1SWhHYUZ0UWwzTkV3LTI1NWRibFJQQ1RQbzdpVFBoU2l2Q1VKNG1kY3hYZHhnRmNFMHRoVUJvT2VFZUFfUnJBaURkTGY4X1dXQzVTOWFDaERXSk5mcHptb2FSZ0FKZ3JkVFpPWWZqRE5teDZ5dUhwc0VHLTI2R2ppX3k5aWpBUXBhcE92U2syaWJQY3gwdFVWQmVQSExOUTM5dXNXZUQ4SklyVVhHaG5PRC1fa0YybjhWTGd2TWNtX0pwOW1CVkNrX215ZzBhR01FM2tySWZyM3luRUJMSDhrTEpROVlFVV8zN3IxcHFDQWFNSjBDakY5WE5NNS01YXfSAZMCQVVfeXFMUDVmT0R3aDA4aUdrb20tYTR4eGNYcjJDeVRZZklBMllEaDNxU01hdXFacXdQRnkwWGZYMjhzV0JaMjZqR0ZjMHdHdFRwVkRRc3BzUEZkVG0xdmk5WWF4UVRuV2t4elM0Q1RHOTkwUS1rTlVvUVNfTFFNaG84ajBNLUE5STFYSzNCMFE1QWZRVVJseHhBUGExUzF0Q01tSWI2WGdXcGtxUWhwMXpocnRJZC1xbHNmaWd1bFdZZE93dXpGU19QckNyZ1pxVFNkYzRBR2wtcUV2bURPa0JHdElVZnVDUHJMcXR0Z2VoeXJneG9WcFZsNG1WTnRodVR3VGc5UE1OSHJhM1pVTnBjb3M1bklPZWc?oc=5",
+          "description": "«Il tuo iPhone è spiato»: Apple avvisa gli utenti di 110 Paesi di un attacco spyware in corso Corriere della Sera",
+          "pubDate": "Sun, 16 Aug 2026 08:38:37 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Apple iPhone 18 Pro Release Date: Discounted Day Re-Enters The September Schedule - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNlhBX1NVbGF0VTd4WkhLMnp2dXZ4M05kd1Bxd1JGRDFON2F4TzhKOGdOa2ZPTGZOa2RDU1VPWnZlOEFUMlRvUGI0cDFSRFJoNF9tLVRwenZNTVV1cU5oX1U4MUo1SG5XWTRjWDFpRGozU2ltQnRNR3o4VUp3bVBiUGVTLTRzQUtjNTUzQk9WeEU2MWNScWpqVXZkeFQ4MVRDcnZhRWhLYmY2Q2JXSVhCMzZyOVFaV0JIeW9OTzBmUm9SOUIzdlZwYkZKdHU0QQ?oc=5",
+          "description": "Apple iPhone 18 Pro Release Date: Discounted Day Re-Enters The September Schedule Forbes Apple Skipping iPhone 18 Launch This Year MacRumors Apple May Delay the iPhone 18 Until 2027 as Premium Models Get Fall Launch TechRepublic iPhone 18 Pro Max vs Pro: Here’s how Apple will differentiate models 9to5Mac Apple’s first foldable could reshape its entire iPhone launch thestreet.com",
+          "pubDate": "Sun, 16 Aug 2026 20:28:00 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Android 17 Pixel Update Adds Quick Settings Feature We've Dreamed Of - Droid Life",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM3pkcER4ckZtZEdpXzJmWjMxZS1zNml6SFlEczlQV1hVMzdUWVhZSnNQUHM3WUt5a3cxRTZYcHhCdmpBYkhVQXZXbUFWcVJySVRnc1RDRzRCcXAwR25ZUVMyOGNnQTZYZS03Sm5kNXFvZjM1VkJ2dUEzank3cnRnUHoxcHRVOGVxWFVPYVViR2hHNGtMWHpaNWRoRFQ5QQ?oc=5",
+          "description": "Android 17 Pixel Update Adds Quick Settings Feature We've Dreamed Of Droid Life Android 17 QPR2 adds App lock to Pixel 9to5Google Google is adding tons of new customization options to Android 17 - GSMArena.com news GSMArena.com Android 17 is getting a feature iPhone users have had for years Digital Trends Google Pixel: Android 17 QPR2 Beta 3 Released jetstream.blog",
+          "pubDate": "Sun, 16 Aug 2026 20:25:46 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "mondosanità",
+      "n_items": 15,
+      "n_sources": 2,
+      "category": "general",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-science",
+          "title": "Menopausa, perché arriva prima per alcune donne? Lo studio che guarda oltre geni e ormoni - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRFl0T2tlT2h4RU5YRlo2b193bWFFN0xWeExTUmctb2xyM3dMem9nQ3JORDFCUVhnOU5wX0IzUzVmM3lrbmUwc3J1VmhsdUE1UXdMemRqOTNENDZNTUJBdTJ1NUg1S1p0WXhnVy1QaXBJTDhJeUw1UmFuU3FqSjRSY3BaelJrU1pMTDFSNERES3lKa1hkNDJtMzZISWFSc3VnbjN4Ykp3Wm5LaEZyTGNrNzV4YXZTOU8yYnhzSnFsTUVuVWVqc3JMRHBfbENTMXJ5Tm5IUVFfbWVvRDJOR1hQdw?oc=5",
+          "description": "Menopausa, perché arriva prima per alcune donne? Lo studio che guarda oltre geni e ormoni Mondosanità",
+          "pubDate": "Sun, 16 Aug 2026 20:15:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Retina, quando le cellule immunitarie si riempiono di grasso e diventano dannose - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONTRyT1RqdmtldlJpR04tRUpmZGlvS0xsT0REVG1STGlLTGhILVpFcEVaTHVYRDVoVXBreEZEZ1Q5MXE0VDVpZ2lHclpmbnRmOTAwT0ViNDJac1g5R2FqSS1PRVE0NHFMcVktMjAyYlRoRDZMZUwxSzJIMjRNMmI4WHV0Rkd4WjE1VnVRc2xXcUxhZTBzVm1VcG43aC1SWWw3U21nQnlVMF9jQnNjNnhSbldvRG1PeXRLOTBmYnJXNEhRVzRGNXBSUG53c2xoUzZ0SndsTzln?oc=5",
+          "description": "Retina, quando le cellule immunitarie si riempiono di grasso e diventano dannose Mondosanità",
+          "pubDate": "Sat, 15 Aug 2026 16:15:00 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Colesterolo, perché alcune persone ne assorbono più di altre? - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOEJXdnpsN0V1QXMwQTFxSFdPYUNuekRYekJRTGNRUVZDV0pWZm5VSmNnNHVpU18zSzl1Y0dGZzdhb3g5UUdpTEdwcWF0WDBXU2FNN3VjVFBGOVRqZFhIMUtCeWVGVTZCbWJBeXk3WDkwSElTcUZKelVGY1pCMEJHUnpWMXZlTzA2Qk5IVkc2N0xra0VmX3E4UnRrTVE5SlZ4VUJ6WkltTGZ2UUZRY3U4X21iaENvMkhDV19n?oc=5",
+          "description": "Colesterolo, perché alcune persone ne assorbono più di altre? Mondosanità",
+          "pubDate": "Sun, 16 Aug 2026 20:45:00 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Kegel, sesso e incontinenza: allenare il pavimento pelvico può fare miracoli? - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRWZYYm1Kb2tCcUROV0syOEJvOGU5TGJ1YlhycUVIT0xBcmVnUl9RVVFzQkxxa1R3NzA3MUYxZDRnTC05YkRyYWVIMnBKdWZ4R0ZwRXM5SHcydjcxdkhUanFhM0RoeXJSSnZWVlVtcm1NX25fTnJMLS1obUM5YXdvQlhmcFZBc2E5a1dLMVlvelBmY1VrUGN6U1poV1drWlExOWM4ODlTQzdkaUMyYTQ1b1podmJZcVo5NnEydGV2NjNkejA?oc=5",
+          "description": "Kegel, sesso e incontinenza: allenare il pavimento pelvico può fare miracoli? Mondosanità",
+          "pubDate": "Sun, 16 Aug 2026 21:59:00 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Farmaci per l’erezione e retina: c’è davvero un rischio per la vista? - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLTN0WS1SSjVrQzBJWVFfaFVWNFFsNGVSUHdjNUJfX3RUb2V4N2VFU0tERjZodWhtQ19vUk1mb0pwbzZ4eVQ2N1laMGplVXhyTmZOc1ZWaE5KbUxQWl9ueDBVYUNHdkQtd1hNRjVBVE9URzAza3ZtQjREREIyODlBTUZXeGo5cUR5M2VNRjBMOGVCdU82Zmc1dzJITTNhZVdpcHZXY0RJRDU4bXJvU2pOYjQtMWlxcy1ic25TQ0dlc2RWVWM?oc=5",
+          "description": "Farmaci per l’erezione e retina: c’è davvero un rischio per la vista? Mondosanità Pillola del sesso, l'alert da maxi-studio: \"Possibile aumento rischio glaucoma\" RaiNews",
+          "pubDate": "Sun, 16 Aug 2026 22:38:18 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    }
+  ]
+}

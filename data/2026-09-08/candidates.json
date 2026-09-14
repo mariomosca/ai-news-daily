@@ -1,0 +1,925 @@
+{
+  "date": "2026-09-08",
+  "top_topics": [
+    {
+      "keyword": "italia",
+      "n_items": 26,
+      "n_sources": 9,
+      "category": "economia",
+      "score": 240,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Il trionfo dell’Afd spiazza la destra italiana. Meloni riflette su data del voto e Vannacci - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdGM4ZlQ4QnMtbVZNVjl3Z3hBdFJ0QmtCbkJyRmt5UldfMWQ2UmpKb1lGV2I2NURERXZnQ21ITWd1TEVLT0JneHZRR3M1RzNDV3dZeFZVdzJ4NEZBVUY3ZGY0bmctRUtNRlpITnpmS0h1LXV4cHVPbmhFZ1dHS3JvVGhNOXpRWnpmWUF0X0dpMGhxRmJIWndIR0k5WHM0M1ZDT0t5a1U1OEpsYzZwX1FERDJ0VGdZWFc1ZUdzNA?oc=5",
+          "description": "Il trionfo dell’Afd spiazza la destra italiana. Meloni riflette su data del voto e Vannacci Il Sole 24 ORE Elezioni in Sassonia-Anhalt, il giorno dopo il voto. La cronaca del 7 settembre ansa.it Trump e Putin si contendono la vittoria degli estremisti dell'AfD in Sassonia-Anhalt. Kallas rompe il silenzio Ue: «Minacce sempre più vicine» Corriere della Sera Lite Salvini-Tajani su Afd, il governo ade",
+          "pubDate": "Mon, 07 Sep 2026 16:36:29 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Meteo, maltempo in arrivo sull'Italia con rischio di ritorno del \"Medicane\". Le previsioni - tg24.sky.it",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qWHZXaGNFamctSXMxUmxKamJmRWVGODliNVJ0eVlBVWNvNmxNQkp2WlVpU3hiRGZjWDJRUlMwbVBYel9fUkgzRHdNQnFUbVJVOXJXMWw2WFM1OG8wSlNFVU1ULUdSZF9NTjgzV0d3VTlDNzBaS1ZoMzVWWXBuQQ?oc=5",
+          "description": "Meteo, maltempo in arrivo sull'Italia con rischio di ritorno del \"Medicane\". Le previsioni tg24.sky.it Caldo record, più 2,2 gradi in 6 anni, è allarme per il Piemonte Orientale La Stampa Meteo, in arrivo piogge e calo delle temperature ufficiostampa.provincia.tn.it Previsioni meteo, primo cambio stagionale: perturbazioni e rapido calo delle temperature la Repubblica Meteo, Giuliacci: «Data fine c",
+          "pubDate": "Mon, 07 Sep 2026 14:56:51 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Make Groenlandia Great Again. Von der Leyen ancora l'isola di ghiaccio all'Europa - HuffPost Italia",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLXVHS1ZMV2tSdlVzTzFZRHZKeGRzYlFtdTJhdFNjU0YyMlpFUmdOZXp1MXUtalZES01DdDRoZGpSWlZiMnJXX2ExTWpfWWZ0eE9QU1hiNzRpeUFkbUVuWGhqWGs1LWcxMFZUWDNDUGFFMEdXOFY3YWZXc1dfUW5sZTF3cDFjSWFSZ1YxRjUzb2dacUxEM0lmbXo5Q25idjFyZ3hIX0Y3QzhZNWtzZjd0Yk9WY210V245Mk9hZ3ptSkYxYUhiTjVPYWMtM2M1Zw?oc=5",
+          "description": "Make Groenlandia Great Again. Von der Leyen ancora l'isola di ghiaccio all'Europa HuffPost Italia Materie prime, rotte e geopolitica: perché i 200 milioni dell’Ue in Groenlandia contano RaiNews L'Ue risponde a Trump in Groenlandia: '200 milioni di investimenti' ansa.it Groenlandia, dall’UE una partnership rinnovata e 200 milioni di euro in investimenti Eunews Groenlandia: 200 milioni di euro dall'",
+          "pubDate": "Mon, 07 Sep 2026 15:12:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Indonesia, eruzione vulcano Anak Krakatoa, chiusi ancora 4 aeroporti - tg24.sky.it",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVWtGTm9CYm5TU0prTUE3X2UydjVxelNTNFVDWWxTU0x2UllQV3BCWTBMNFJkUDNkQnR6UlFLMk1UbGtJeHJaUDJIQ0w5NWtDbXZuSGV0cHNUNmg5SnVsZXdrN2xqd1J2NW1DRkVIVDJLTG5QUllTMDF1U2xDQlZYS0pRV1N0Zw?oc=5",
+          "description": "Indonesia, eruzione vulcano Anak Krakatoa, chiusi ancora 4 aeroporti tg24.sky.it Erutta un vulcano in Indonesia, fermo l'aeroporto di Giacarta ansa.it Vulcano Anak Krakatoa in eruzione: famiglia italiana bloccata a Giacarta Il Fatto Quotidiano In Indonesia diversi aeroporti continuano a essere chiusi a causa dell'eruzione di un vulcano Il Post Eruzione vulcano Anak Krakatau, riapre l'aeroporto di ",
+          "pubDate": "Mon, 07 Sep 2026 07:18:05 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Camicia bianca, sneakers e treccia a spiga: Leonor di Spagna debutta all'università - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc3UzaDhmWGlkZWxpdTJ1SnpQUmNvWjBYWXh6Ty1lZUFiY1hLT2stWDR3SnlQNlFYLUN5VjkxdzJCeTFsZkhBQ0kxczVfX1lRc01KME5EVlpaaFpTR3ZUNVZxaWhseGRSRTZNeDBlMWxxQ0lJWlg5ZXhQT19NME5zaWQ3MUF5WVpucUNxVjNzUUxNZFZDUlFWTDRRVFNGSEFmamVmWGtST25RclhGa3hRR0dsNTBqU1lWbWtVcndYVTBQSG5xRXc?oc=5",
+          "description": "Camicia bianca, sneakers e treccia a spiga: Leonor di Spagna debutta all'università Tgcom24 L'outfit regale di oggi: la principessa Leonor di Spagna, una di noi. In jeans e sneaker per il suo primo giorno di università Vanity Fair Italia Leonor di Spagna sceglie Scienze Politiche: il look per il primo giorno di università ilgazzettino.it La principessa Leonor debutta all'università con il look più",
+          "pubDate": "Mon, 07 Sep 2026 14:33:00 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "settembre",
+      "n_items": 15,
+      "n_sources": 7,
+      "category": "economia",
+      "score": 111,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Il trionfo dell’Afd spiazza la destra italiana. Meloni riflette su data del voto e Vannacci - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdGM4ZlQ4QnMtbVZNVjl3Z3hBdFJ0QmtCbkJyRmt5UldfMWQ2UmpKb1lGV2I2NURERXZnQ21ITWd1TEVLT0JneHZRR3M1RzNDV3dZeFZVdzJ4NEZBVUY3ZGY0bmctRUtNRlpITnpmS0h1LXV4cHVPbmhFZ1dHS3JvVGhNOXpRWnpmWUF0X0dpMGhxRmJIWndIR0k5WHM0M1ZDT0t5a1U1OEpsYzZwX1FERDJ0VGdZWFc1ZUdzNA?oc=5",
+          "description": "Il trionfo dell’Afd spiazza la destra italiana. Meloni riflette su data del voto e Vannacci Il Sole 24 ORE Elezioni in Sassonia-Anhalt, il giorno dopo il voto. La cronaca del 7 settembre ansa.it Trump e Putin si contendono la vittoria degli estremisti dell'AfD in Sassonia-Anhalt. Kallas rompe il silenzio Ue: «Minacce sempre più vicine» Corriere della Sera Lite Salvini-Tajani su Afd, il governo ade",
+          "pubDate": "Mon, 07 Sep 2026 16:36:29 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Sciopero treni 7-8-settembre 2026: a che ora inizia, durata e fasce di garanzia - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQUGdQVDlwUnp4VTd5REpTVXk5QWQ0dWUyaWtjNGNybGRkTjEwYnZ6enVDTUZ2VXpaS1U4QXpPWUN6djNLWkUwNkpnVjdkME94S3RTLTYxSldyck8zLXY3VXN5RjFvUzc4NGwyTUJzSTlUS3dIT0VYTlhPbXFBSTJLX3RVOG9sNnBQZk1oV05LNU1EcHFReF9QelRxcFk3S3RoSjRoN0M2NkwySy1Oa0c5N0JjdV9mM1E2VGlLOEVGMWdzY2J2dzZmWm5Rci10LUN4TmFkU2FtNExyTU03VkgwcUlwaFcwVGNvaTlmaDBia2ZuOGxlVHBOY2xOSlM0Q2M3bTY0eXpLMHRoLWFaa2FLb0Jn0gGXAkFVX3lxTE9HbkRjN1RmMUxnSjV6ZjNodnV4bmY5eE4tcU1GQ2xJcDdEVDBYal9hTjdMdThxV2FJdTJJQ1ZMUzFDUDJfdlBBSFZUS3F2bmw5WE1CYVdCd1NNOEtMTzNYRlhzQ3UtaTUyX1FPLXQwdVlOYkI0QTJBZHpvTkJfWXlHWi1hUTlxLVpCQk41dmtTVjVyaDctTUxCTno1TnA5cWJCbEUxZUh4YmNIeVJQMW50cENUMF9nRXliYkdjVkpXeXNMdGJDMVZZelIzakNHMGU2eFhXc3NFcHBmSFRFMHdRbDJqazJDRHpDXzRBeUVrejFGZWdXb3hsN095bmRuY3VMaVA5SDFoLVExMVFVbGI2TGdkTlVUQQ?oc=5",
+          "description": "Sciopero treni 7-8-settembre 2026: a che ora inizia, durata e fasce di garanzia Corriere della Sera Da stasera sciopero di 24 ore del personale Fs ansa.it Sciopero treni del 7 e 8 settembre: orari, fasce di garanzia e cancellazioni la Repubblica Sciopero treni, aerei e trasporti: da oggi a fine settembre, tutte le date degli stop Adnkronos Sciopero di 24 ore confermato: tutti i treni a rischio e g",
+          "pubDate": "Tue, 08 Sep 2026 01:09:53 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Russia riprende attacchi su Kiev dopo tregua. Scandalo corruzione, si dimette Procuratore generale - Aggiornamento del 08 Settembre delle ore 02:56 - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOakxRU1czYy1tWjBBaXAwd2JXYzJDUEdSYkExdXRFVnNadmRMZXNZV0l4bExmRm9xVmdaQ1FRbk15RHFLVXBiZkNBOTFiOXp4RnJScmdRV0dsUERwcy0xVzBUTVZ0NDJCX2Jwd0RUbGJJX2pnUmVubGk4RW4ta1JIMGd5cTFlYk54M2VTVVozQVVJanR4WDlUMGh4dFpZckhKTmxHbDBrTHJmemx5QlVGb2lvSnpSTkR6WlVucms0YXVVZWJfaDhXRlB4ME5lSlZyWGNfRmF2X1lXdFZ0Ylg5dWt2ZEZNNVpvc2dfNS1oYUVlZmVOQUw2NnBqajhWRXVzRUJ4c0tjdExpQdIBjwJBVV95cUxOOHBVZjBNeXB6YWpGa3RMb1o5R1Z2Q1JiUWozbDY0MVd3Y0dNd3JaSHZiNndhbTQ3TUJOWnNxVjRtTFA5d3NMSGxIVWE0cEhQVnJURGZRRTllMnlnalB1NFRVRkhWOXZZUzZEVS1pTk8tb2p6eGt0WTBDUmRpVUYxT2Y3YnBuelFzd0Fnb1V1aExpZDhLVDdGbExXcFhLd2RqR1R3VmpoY0Nud3l6MWdsUm1lUFJlNWx1czBQOHNGSXFCZDZTRVR2QWxReFo5UU9qSXZCcjNReFd5OV9zNENwOVFVaThaWmw4MTFIRnFybV9CWnc4X0dCejRmZUo0SjFIbi1vd1plQnRmd1Roc3JR?oc=5",
+          "description": "Russia riprende attacchi su Kiev dopo tregua. Scandalo corruzione, si dimette Procuratore generale - Aggiornamento del 08 Settembre delle ore 02:56 RaiNews Kravchenko si dimette: il Procuratore generale ucraino travolto dallo scandalo Il Fatto Quotidiano Ucraina, il procuratore generale si dimette dopo le accuse di corruzione RSI Terremoto a Kiev, si dimette il procuratore generale: l’ombra delle ",
+          "pubDate": "Tue, 08 Sep 2026 00:56:01 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Borse Ue, Francoforte maglia nera dopo vittoria Afd. Milano tiene con Lottomatica - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUk05bFM4dnBjSW03S1FGS0FFeS1kV3BDd0dYWG9fbEhWNFk1RlhyeFJ6V0NuOG5NQktlTThvZzlPQWVITzFIOU9Tb3Uwc1NGNFRRVDJ0WXZuMjlqNnpfeTM4X253S2VIWU45ZC1JR0pOa3JrUHRBTE9oNUFsYjdWUUdB?oc=5",
+          "description": "Borse Ue, Francoforte maglia nera dopo vittoria Afd. Milano tiene con Lottomatica Il Sole 24 ORE Borsa: riparte il petrolio, Europa fiacca e bond sotto pressione ansa.it Le Borse oggi, 7 settembre. Petrolio e gas in rialzo. Europa chiude incerta la Repubblica Borsa, petrolio in corsa e Btp sotto pressione: cosa sta succedendo soldionline.it Borse caute senza il faro di Wall Street. Piazza Affari c",
+          "pubDate": "Mon, 07 Sep 2026 08:32:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Elezioni Sassonia, risultati in diretta. AfD vede la vittoria: l’ultradestra sfida il tabù e la Germania si prapara al terremoto politico - Il Messaggero",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNFpld0FLWjJmaVJERjNCdjNwS1lKakRQcnlnaUxWUTJwcEw5RzBoRmhPcWdCUDhGVnY4VlRua2gzSXZ0SFphODd4VVA0YmhIWjl0VmJ6eUZuMUdXMEtheUNmZHFMR3cycnBlX000MkVuQnpLalZzdWRTRnViMl9DV2Ixd1FydXRjdG5GclE2Z3JnNFNkbEdZQVRyT3JGTl9KY2pWSUV6dUE0eG9Lano2azRB?oc=5",
+          "description": "Elezioni Sassonia, risultati in diretta. AfD vede la vittoria: l’ultradestra sfida il tabù e la Germania si prapara al terremoto politico Il Messaggero Elezioni in Sassonia-Anhalt, il giorno dopo il voto. La cronaca del 7 settembre ansa.it Trump e Putin si contendono la vittoria degli estremisti dell'AfD in Sassonia-Anhalt. Kallas rompe il silenzio Ue: «Minacce sempre più vicine» Corriere della Se",
+          "pubDate": "Sun, 06 Sep 2026 16:07:25 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "nuovo",
+      "n_items": 13,
+      "n_sources": 7,
+      "category": "general",
+      "score": 91,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "'Trump cambia look e diventa castano', le foto spopolano sui social",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/06/trump-cambia-look-e-diventa-castano-le-foto-spopolano-sui-social_1ffedf72-6de9-4cf5-9a8f-8d82529b77ca.html",
+          "description": "Si rincorrono i commenti sul nuovo colore dei capelli del tycoon",
+          "pubDate": "Mon, 7 Sep 2026 19:24:26 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Lorena era ancora viva quando l'ex l'ha gettata dal viadotto",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/07/lorena-era-ancora-viva-quando-lex-lha-gettata-dal-viadotto_8844a33a-4658-465b-b62a-ae9932303cad.html",
+          "description": "Esami tossicologici su Vella. Nuovo appello del padre: 'Non fate come lei, denunciate'",
+          "pubDate": "Mon, 7 Sep 2026 22:09:57 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Un titolo supera il +90% e Goldman vede petrolio a 120$: 2 azioni da comprare ora - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS053MVpiYmZCaUVTaXZCVm1kamJEV21pbkpfM0J0ZWZUWXdoUW5JZTIzLVU3cU5VdGZYOGdISjlrNzRkeTVmOFhXMlU4TkJobzNWdDlwQkFyZUJFaHg3TEw2MlVOclpQYW5wMC14dWZDVER1aVJBMWJfbkU4aXJWLXd1UEZ3WURzcnhWVGdOR2RlVlRWWWVQRGhPWGVLR01OZmttSmlsSDdxZUtoYms4bkdtUTJvMHhsYTZYOGE4UENPTVhocWg2ZQ?oc=5",
+          "description": "Un titolo supera il +90% e Goldman vede petrolio a 120$: 2 azioni da comprare ora Investing.com Gli scontri a Hormuz portano di nuovo il greggio verso i 100 dollari la Repubblica Petrolio vicino ai massimi di sei settimane, focus sugli attacchi USA-Iran e sui flussi a Hormuz Yahoo Finanza Prezzo del petrolio in rialzo, Wti scambiato a 92,61 dollari ansa.it Petrolio a 92,81 dollari alle 19:30 Borsa",
+          "pubDate": "Mon, 07 Sep 2026 17:51:23 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Elettronica, la lombarda Elemaster sbarca in India grazie a Syrma",
+          "link": "https://www.ilsole24ore.com/art/elettronica-lombarda-elemaster-sbarca-india-grazie-syrma-AJlb0t5",
+          "description": "Attraverso la joint venture con il Gruppo indiano la società apre un nuovo stabilimento a Bangalore da 1.800 metri quadri - Al centro dell’operazione le sinergie nel comparto dell’elettronica ad alta affidabilità per ferroviario, elettronica industriale, energia ed elettronica medicale",
+          "pubDate": "Tue, 8 Sep 2026 03:04:13 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Madonie, dal coworking ai nomadi digitali: un nuovo modello per le aree interne",
+          "link": "https://www.ilsole24ore.com/art/madonie-coworking-nomadi-digitali-nuovo-modello-le-aree-interne-AJTuAj5",
+          "description": "Il primo effetto arriva quasi fuori programma, tra una chiacchiera e l’altra. Nei tre giorni della Madonie Nomad Residency almeno un paio di imprenditori presenti a Castelbuono hanno chiesto informazioni...",
+          "pubDate": "Tue, 8 Sep 2026 03:00:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "trump",
+      "n_items": 13,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 84,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Il trionfo dell’Afd spiazza la destra italiana. Meloni riflette su data del voto e Vannacci - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdGM4ZlQ4QnMtbVZNVjl3Z3hBdFJ0QmtCbkJyRmt5UldfMWQ2UmpKb1lGV2I2NURERXZnQ21ITWd1TEVLT0JneHZRR3M1RzNDV3dZeFZVdzJ4NEZBVUY3ZGY0bmctRUtNRlpITnpmS0h1LXV4cHVPbmhFZ1dHS3JvVGhNOXpRWnpmWUF0X0dpMGhxRmJIWndIR0k5WHM0M1ZDT0t5a1U1OEpsYzZwX1FERDJ0VGdZWFc1ZUdzNA?oc=5",
+          "description": "Il trionfo dell’Afd spiazza la destra italiana. Meloni riflette su data del voto e Vannacci Il Sole 24 ORE Elezioni in Sassonia-Anhalt, il giorno dopo il voto. La cronaca del 7 settembre ansa.it Trump e Putin si contendono la vittoria degli estremisti dell'AfD in Sassonia-Anhalt. Kallas rompe il silenzio Ue: «Minacce sempre più vicine» Corriere della Sera Lite Salvini-Tajani su Afd, il governo ade",
+          "pubDate": "Mon, 07 Sep 2026 16:36:29 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Putin perde amici nel suo cortile di casa: ecco cosa c'è dietro l'incontro con gli inviati di Trump - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQalBKZnBqNFFLUzlLWnhGa3RMZmllOTdHOXBlUVZSUkloSGYxbG9vcUxabDI0RV9wRzh6dEVWc2FDNkNGUU1iR3FPdk9EQWFMWjhQd1M2UDlRZGIwQThRRTJQazc2NFNCRkZaRHBLUEFLV0pZTlIwT1I2aXdOQ3lYTmJJQ0wyMEN1M2ExOWVBcHRGV1NhMnYwNEVVR2J1RVVfVnNSNTRGTFFmTktEV3Vya2FzbGVSTEpHcUhpWkdLaUhRYjlpWUZQZmFOUk9MWkpB0gHWAUFVX3lxTE9QcXBESFdIUE1WcmdhRUhhYWZ0b0Nrb3hwRVd1WmVLSl95VzJyQjV2UFNobk9Wejl3UHY0dXpvWm5yM1B0YlJFU3dQaUdfRjFUSVNKUGl1dXJxV3FXNWRRYno5aVdTUDR1REF4YmZuREZjWWdGenc5RlJJUExzQlVoVThwWDYwWXlqS2wwRDJJaVpWeDFKeVVrZ2NaWXVxNjg1M01vWVprWmVmZHNPM0J3Y2RaRjFheEdOMEFQSmVGYlRJbDJrOFRCX3NXbnU3YUZiYXRkdUE?oc=5",
+          "description": "Putin perde amici nel suo cortile di casa: ecco cosa c'è dietro l'incontro con gli inviati di Trump Corriere della Sera Witkoff e Kushner tornano da Trump, 'progressi verso colloqui a tre' ansa.it Trump pronto a sentire Putin e Zelensky: “Punta alla de-escalation” la Repubblica Capo dell’intelligence ucraina: “La Russia ha risorse per continuare la guerra fino al 2028” Il Fatto Quotidiano Preparar",
+          "pubDate": "Mon, 07 Sep 2026 06:49:11 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa-Iran, le notizie in diretta | Panetta al Guardian: «La guerra Usa-Iran potrebbe durare altri 6 mesi». Traffico a Hormuz ai minimi da maggio. Raid di Israele in Libano: 11 morti tra i quali due neonati - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPWXU1SVdiVENvbHZsNzZZLXh2VldZQ1JyYkphZDNtNkdvWWdsVVJmQU05dk91LXZENW5YczUyejAtaGRIcGZZRGI3VUNHeUk0LTJ2RjVrTjBJNTFFQkJ6OG1WcWJDUFBOV3p0UExaTERVTUlTMUlzb3RTVW1mbGNMYjc0c2FoQ0syOTNMMlhyTFI1X0ZZNlZDWUoxQmZoaS0xaWFvbW9UZy1wN0UtdzljZTR3MEczTVdWanlQeTl5NDA2RkVmRGkzenFhT0NHUDFLNlBkWFZLWXEwbm9Ba0E1enhjMzVRWmNfN2RESkRqLTNPakwzSFAxT1RmMUF0Zko30gGGAkFVX3lxTE5SclVxQVN5aWs5U2xqa1JMaFRsSGFsOE1WNnJpQmJ6Sk0yRVBxRDJBNmh6cTRZR29oTGVmMWV2MVRJejdOWjQwWGdhSDFULVlOemxXY1ZRdHdjR21neFFBSkgtdFNzclpnNnBSenBFUUd1bmxGSFhKSFFuV1NSWktxWnctamRzY2ZwVUFJa1lSWEJRVEVkaGVXWG5CbWhCT3pSTl9ueXRqeGtPLXNOTFB4QzVzbF9HQ1k0Uk5XNV9HUm0xZFlKc04tVUYzaE54Z3Jibm05T0RPQWRPem9uelZNaks3TzBSQzhVTjUyb3JvbW0zaDlXR2dyRTlfNlpsSnpQQi1FaXc?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Panetta al Guardian: «La guerra Usa-Iran potrebbe durare altri 6 mesi». Traffico a Hormuz ai minimi da maggio. Raid di Israele in Libano: 11 morti tra i quali due neonati Corriere della Sera Guerra Usa-Iran, le notizie in diretta | Trump: «Il prezzo del petrolio scenderà quando vinceremo guerra» Corriere della Sera Il punto sulla guerra Iran-Usa giunta in u",
+          "pubDate": "Mon, 07 Sep 2026 15:00:44 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Make Groenlandia Great Again. Von der Leyen ancora l'isola di ghiaccio all'Europa - HuffPost Italia",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLXVHS1ZMV2tSdlVzTzFZRHZKeGRzYlFtdTJhdFNjU0YyMlpFUmdOZXp1MXUtalZES01DdDRoZGpSWlZiMnJXX2ExTWpfWWZ0eE9QU1hiNzRpeUFkbUVuWGhqWGs1LWcxMFZUWDNDUGFFMEdXOFY3YWZXc1dfUW5sZTF3cDFjSWFSZ1YxRjUzb2dacUxEM0lmbXo5Q25idjFyZ3hIX0Y3QzhZNWtzZjd0Yk9WY210V245Mk9hZ3ptSkYxYUhiTjVPYWMtM2M1Zw?oc=5",
+          "description": "Make Groenlandia Great Again. Von der Leyen ancora l'isola di ghiaccio all'Europa HuffPost Italia Materie prime, rotte e geopolitica: perché i 200 milioni dell’Ue in Groenlandia contano RaiNews L'Ue risponde a Trump in Groenlandia: '200 milioni di investimenti' ansa.it Groenlandia, dall’UE una partnership rinnovata e 200 milioni di euro in investimenti Eunews Groenlandia: 200 milioni di euro dall'",
+          "pubDate": "Mon, 07 Sep 2026 15:12:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Ucraina, ultime notizie. Zelensky: Usa valutano misure per ridurre escalation durante inverno. Mosca chiude il consolato tedesco a San Pietroburgo - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeVEydmhFaTkyd2c1UGx6bWI0NzUxNHpiaUNlYzR1UlFPRkpZbDQyMU1RNTVtcXZtQzFnWnlxaE1EeXpnWEZrdnFXbVhOVEZPcDdlVWZzV2MxaDR0Y2d0YV9yVGhnY0ZmeEkxSUZfRXVXRWpWUkpKeTVTZF9JOVFGa3FrSXQ0WHVoMFVrelVEeWxGOEVYVklYOVJ3a1FRRE9nZGdKUnhfRWZGSEZpV3NHa2tn?oc=5",
+          "description": "Guerra Ucraina, ultime notizie. Zelensky: Usa valutano misure per ridurre escalation durante inverno. Mosca chiude il consolato tedesco a San Pietroburgo Il Sole 24 ORE Witkoff e Kushner tornano da Trump, 'progressi verso colloqui a tre' ansa.it Trump pronto a sentire Putin e Zelensky: “Punta alla de-escalation” la Repubblica Capo dell’intelligence ucraina: “La Russia ha risorse per continuare la ",
+          "pubDate": "Mon, 07 Sep 2026 19:31:03 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "iran",
+      "n_items": 10,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 56,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa-Iran, le notizie in diretta | Panetta al Guardian: «La guerra Usa-Iran potrebbe durare altri 6 mesi». Traffico a Hormuz ai minimi da maggio. Raid di Israele in Libano: 11 morti tra i quali due neonati - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPWXU1SVdiVENvbHZsNzZZLXh2VldZQ1JyYkphZDNtNkdvWWdsVVJmQU05dk91LXZENW5YczUyejAtaGRIcGZZRGI3VUNHeUk0LTJ2RjVrTjBJNTFFQkJ6OG1WcWJDUFBOV3p0UExaTERVTUlTMUlzb3RTVW1mbGNMYjc0c2FoQ0syOTNMMlhyTFI1X0ZZNlZDWUoxQmZoaS0xaWFvbW9UZy1wN0UtdzljZTR3MEczTVdWanlQeTl5NDA2RkVmRGkzenFhT0NHUDFLNlBkWFZLWXEwbm9Ba0E1enhjMzVRWmNfN2RESkRqLTNPakwzSFAxT1RmMUF0Zko30gGGAkFVX3lxTE5SclVxQVN5aWs5U2xqa1JMaFRsSGFsOE1WNnJpQmJ6Sk0yRVBxRDJBNmh6cTRZR29oTGVmMWV2MVRJejdOWjQwWGdhSDFULVlOemxXY1ZRdHdjR21neFFBSkgtdFNzclpnNnBSenBFUUd1bmxGSFhKSFFuV1NSWktxWnctamRzY2ZwVUFJa1lSWEJRVEVkaGVXWG5CbWhCT3pSTl9ueXRqeGtPLXNOTFB4QzVzbF9HQ1k0Uk5XNV9HUm0xZFlKc04tVUYzaE54Z3Jibm05T0RPQWRPem9uelZNaks3TzBSQzhVTjUyb3JvbW0zaDlXR2dyRTlfNlpsSnpQQi1FaXc?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Panetta al Guardian: «La guerra Usa-Iran potrebbe durare altri 6 mesi». Traffico a Hormuz ai minimi da maggio. Raid di Israele in Libano: 11 morti tra i quali due neonati Corriere della Sera Guerra Usa-Iran, le notizie in diretta | Trump: «Il prezzo del petrolio scenderà quando vinceremo guerra» Corriere della Sera Il punto sulla guerra Iran-Usa giunta in u",
+          "pubDate": "Mon, 07 Sep 2026 15:00:44 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "In Libano '11 morti nei raid israeliani su un villaggio nel sud, anche due neonati' - ansa.it",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQVDQ1Wjd2aEU4QjRlT21NVVdtdkZvWHFzWUZETkROWFlVbHh5NjZKRjVjMXJlQm5RYW8xdmhKbWRqU3hLUUZ5NDl6bDZJeHYtcGdmdDhvclBmQVZhZ2RQaGVsLUtPaEFMMlpZM0RUN1QzUmVwX0ZhRnE3Q3dPZ2Z6em5FWnRpdmoxNXc3QUlqRTItd1NhamlrS29OQml3RjRWbk1wd0NFeVFiS0prc2lwaUJxZUJYWFFBVHNFc3lua2RBVC1DcHhWUi10QzJXd2FkcGtZSXJGNktDdll0R3VxWkE5ZDQtM0xYb0JoekNmSGM3N2JMLTdiNVowMUFPckxGUjBz0gGIAkFVX3lxTE42aU9kNVljV1dhY3JxQ0NBZllyNjY0Y2lNLTNaNnU4Z1I1YkdLcHBvdXNCeGJBSS1mdnR6a3dBMy1sdW1vZXNjc1VSVjhzZ0xLc1djOWYzSTRlMUFzX0JCOFFHZTJheUh6ZWhXRDRFNVo3bXRHd0VoejVBTEtpMjZ2STliT3FqLWs3emQ4MWVXc1dnRzc1SzgxNlpIQVd4a0EwMWdXVDdoLW5BRDdkbjZETWV6cFIyb0k1dVUyZmlZbk1qbUczdzhUWnVoaTJTM0xFQlVzNjhKTzRtODhvR1I5dWVNT1JGeHBBel9DdUh3N250S1NrM2o1MlFaTjcyQ1JMTWZmZWNROQ?oc=5",
+          "description": "In Libano '11 morti nei raid israeliani su un villaggio nel sud, anche due neonati' ansa.it Almeno 12 persone sono state uccise in un bombardamento israeliano nel sud del Libano Il Post Israele bombarda il sud del Libano, tra le vittime anche due neonati Vatican News Guerra in Iran, le news di oggi. L’Idf ordina evacuazione nel sud del Libano: “Raid contro Hezbollah” la Repubblica Israele avverte ",
+          "pubDate": "Mon, 07 Sep 2026 06:23:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Iran, due gemelle arrestate e picchiate, una rischia l'impiccagione - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVUtsTzFGckhiS0ZsdlZldVNKMkhES1Z5OWJxQVRiV0Q2eVBTUF9SS2o1MHRIMDBwY1ZZaTdjZll0U3cyajlRbDA3c1dWekpWS3RQMF9tcjVoM093M1lRV2VueURMM1RsakNXcGNsTFF6OF8xR2NhdFlST2ZWQ214a2xPN0wyR1ZfRG9VSjR4cWlDZXZTQm9MLXVzWU92UThoTFJfeVJzYmVRTVR3ZC1qbWFORTYzcVEyT0pLSEcwYTA1Njg2YnhaRXNzSS1wYnBPeHNRZWhZSHNGWDhMNGhJ0gHkAUFVX3lxTFBxWmJfbUs2MXNadnNxSnF0aFZDaDVVdUI2Vnl6U0w1WGF0d1d0aHU0aXpQYzNWMHJGSlJzNVlxY3ZJaHplMUhmU2VEbXM3Q0hqeHZrOXF1ME1raUdRU0xLTDBXeW9DZXVaZ25qRXEtRGhIVXZZMDd4Ulk2ZDlvX053Smh0TUZBem83bHJPN3lyVzBnbGxIQ1dxN1FhQVNjOVNyUGMwejU2cW5XZkhmMUNVZmY4UHFKdzcxeWZPMTAyUW1TWWw5LW05Y0hUTEVqb2txUFRtWXQxR252LXNCWEhqOFY4dQ?oc=5",
+          "description": "Iran, due gemelle arrestate e picchiate, una rischia l'impiccagione RaiNews Il volto livido e gonfio, i capelli strappati: le gemelle che il regime iraniano usa per fare paura Corriere della Sera Iran, gemelle di 19 anni torturate e condannate per le proteste contro il regime: una sarà impiccata la Repubblica Iran, gemelle di 19 anni torturate e condannate dopo le proteste: una sarà impiccata tg24",
+          "pubDate": "Mon, 07 Sep 2026 20:01:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Germany's Merz shocked by far-right state election triumph but doubles down on unpopular reforms - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM29qLVk4UUFIa1hOSHdIWVd1VWxZb1JVNGpRSXhoalhNU1NYMDJCRTZKc2tnMVdaajktRm5xME9DX1BuWVplZXBGWExHWlJOYjhEeXV4SUdmeVBERHZFMlZnU0FocDRySk5FWVNpOS1LalpKb1dMWGNZeWZkS1NEZHpjYzdRR1ZvdHE4YnIwcE8yWExibUNLd0V3?oc=5",
+          "description": "Germany's Merz shocked by far-right state election triumph but doubles down on unpopular reforms AP News Mass deportations and separate schools for refugees: The far-right AfD’s vision for Germany CNN World in Brief: Germany reacts to AfD win; Iran threatens energy firms The Economist Saxony-Anhalt election delivers a blow to Merz and a warning to Europe Reuters AfD Victory in Saxony-Anhalt Sends ",
+          "pubDate": "Tue, 08 Sep 2026 01:01:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "US moves to ramp up pressure on Iran at UN as Tehran warns of 'recalibrated' military posture - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc0FkU0lFTGVobHIwMThjWEhxeFIyUXhMNjk5Q0tjUjZ1d0o4ZmV0NldKWV9zc1QxMzNESnZQM2JCSE9PdzZiMjgxbF9hVVQ5M2hINUg0RW40MkJ0RzQtWHc4M2tMeTJWY1pKT00zekJMUUVEcXRYa095eVNkUk93cXFhX0hVVDBnZ0phX3Z3?oc=5",
+          "description": "US moves to ramp up pressure on Iran at UN as Tehran warns of 'recalibrated' military posture Fox News IAEA warns over Iran nuclear access as Western powers push UN referral Al Jazeera US Turns Diplomatic Screws on Iran for Atomic Non-Compliance Bloomberg.com US and European Powers Seek Referral of Iran’s File to UN Security Council IranWire IAEA says Iran blocking nuclear inspectors as Hormuz thr",
+          "pubDate": "Mon, 07 Sep 2026 23:45:47 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "perché",
+      "n_items": 10,
+      "n_sources": 5,
+      "category": "clima",
+      "score": 56,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Make Groenlandia Great Again. Von der Leyen ancora l'isola di ghiaccio all'Europa - HuffPost Italia",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLXVHS1ZMV2tSdlVzTzFZRHZKeGRzYlFtdTJhdFNjU0YyMlpFUmdOZXp1MXUtalZES01DdDRoZGpSWlZiMnJXX2ExTWpfWWZ0eE9QU1hiNzRpeUFkbUVuWGhqWGs1LWcxMFZUWDNDUGFFMEdXOFY3YWZXc1dfUW5sZTF3cDFjSWFSZ1YxRjUzb2dacUxEM0lmbXo5Q25idjFyZ3hIX0Y3QzhZNWtzZjd0Yk9WY210V245Mk9hZ3ptSkYxYUhiTjVPYWMtM2M1Zw?oc=5",
+          "description": "Make Groenlandia Great Again. Von der Leyen ancora l'isola di ghiaccio all'Europa HuffPost Italia Materie prime, rotte e geopolitica: perché i 200 milioni dell’Ue in Groenlandia contano RaiNews L'Ue risponde a Trump in Groenlandia: '200 milioni di investimenti' ansa.it Groenlandia, dall’UE una partnership rinnovata e 200 milioni di euro in investimenti Eunews Groenlandia: 200 milioni di euro dall'",
+          "pubDate": "Mon, 07 Sep 2026 15:12:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Caro carburanti, la proroga del taglio delle accise è in bilico. Corsa agli aiuti mirati - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUJZTG93MzNBT0FrOGRBbWg5UGQtRjlSam8wTmNSSDh1bmRsWEpjMlgyWE9XQkZablFFanhpTUZjZmRaZzRBX2U4N0lIZDZKaFNlSHBxS2QxN0VGS2pha1RhUjRrTGF5Uzl5R0FscXRyVm5sX2dSdDU3S0VFalc1dEdoRG9TYTZoV2RjWC1zYjVvdTVVbzMzUlc4R3FVWHNQZmNEWFB1dkNESDdy?oc=5",
+          "description": "Caro carburanti, la proroga del taglio delle accise è in bilico. Corsa agli aiuti mirati la Repubblica Perché benzina e diesel costano tanto se il petrolio non è ai massimi storici? Euronews.com Caro carburanti, le ipotesi sugli aiuti del governo e le tempistiche tg24.sky.it Carburanti, prezzi ancora in salita sulle autostrade italiane Borsa Italiana Mimit, prezzo self benzina sale a 2,054 euro an",
+          "pubDate": "Mon, 07 Sep 2026 23:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Delfin, perché Leonardo Maria Del Vecchio non gradisce i sanitari di Ceramica Dolomite - Startmag",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZldmZnRNU1lCTDlMdlJqNWtsYkk2TmRFUE1IMkxxdWM3OUxWamYtVDdiZ0JjaXhxbTNPT2lKS2taT3FxR3kwcXdyS1FIY0htV05JdU9uMWNMa1BNNHpMNmdRZHZCUzFqdXRzQUpYMVNfZENjc1dsVTFtRUpnVmlNTHNOYnpNRVUtbW5xUWFWVlFRbk5DOUlrajJYNDg0aXNpY2FwdS1jUlNjSnQ0bVhfVTRLYTY?oc=5",
+          "description": "Delfin, perché Leonardo Maria Del Vecchio non gradisce i sanitari di Ceramica Dolomite Startmag EssilorLuxottica, Leonardo Maria Del Vecchio: «Milleri? I soci decideranno in base ai risultati e alle strategie». E apre all'intesa tra gli eredi Corriere della Sera Lmdv sul risiko: “Milleri decide da solo? Si chiamerebbe Millfin. Essilux primo investimento Delfin” la Repubblica Delfin, Del Vecchio ch",
+          "pubDate": "Mon, 07 Sep 2026 11:40:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Ora El Niño accelera, Pacifico sempre più caldo: l'atmosfera satura di vapore acqueo, ecco perché - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNUERqdU8zTzI0M215TE1RbDQ3WFgtblQ4UjlqeWp0RGN3akhEd0ZGbUk3czhEVDBldFlrN1pQU0lYcjN3ajg5T2dWSzFQT1BvTzZ0djFNRTlqLTVPQ0RhcHFyblBSOHJ4NTVEckplTFFsekNMVUhEd0ZIYVRIZTBseDFSX0xsZGREMzJ3eGdiWEdEb1VEeWlVX0FSR21rVE1lWlQ5T2x6UEc3T1FJUVNPNEJFbVcwLTVXZE1yQzFYN2dLalluNWVPa194SDU0SkhlX0N6bE5jOFNVdzR1R3ZoU2JaYlJUOTVWSmt0em9RYVBZUG5aTnRMS2t3Z2d2YzZFb21oalZMRlZaNVROMTJCU29KZDFuMC16ZW5NMUdn0gGjAkFVX3lxTE1Xb2JtOVdNU1hNVzJNSkYwclA0bHJkaGxFX2Y0Uy1qcXc5QlYwOUtMNDNHcnlFMElSVnNZNHh6SV92a2ZEOWE2ZVF3Rk9vaXFzODZGc3JmN1p5bmk0eWcwVFpnaS1YNmJibWdDMGE2ZjBtR2tTTnlKWVhGYmVJdy11WFJjRE9mQVo5eU1nem1IMHl1YnNSMzJqNGN4SFpDVFZKT21teDJOTFZjUERlSHhnUnJNSzFJdEJvaDh6YVJiMzB4bnVjMUFVN2hQOUlKeFJzXzlvOGZ4NVk5UnlPbjVkdE42eTlHQXdJelA1YnRSclZrOURhUkhvSmMwOWhZc1VBZk91UTAwcjZGRE1ZRHNuR0tIR3A2TFFYaVg4Vk9Ed21lUQ?oc=5",
+          "description": "Ora El Niño accelera, Pacifico sempre più caldo: l'atmosfera satura di vapore acqueo, ecco perché RaiNews",
+          "pubDate": "Mon, 07 Sep 2026 09:30:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Ecco perché non riuscirai mai a prendere una mosca: la verità sorprende - Futura, le média qui explore le monde",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUXBoVHdzMDNOTDNBTFhXdThXc003OW54NmZqZDdqVEZPM2FKUUgyZU4zMUltZURRMTB2WG91TWE0RjJwY3BPTTdxaDJpY1FmcEYxVmtTcHU4enFYNnp1TkFpNkxlY0NHRVZUS0pnNmgtVFdyYUdaZTBzVlJQem1lYUx6SHNHWWU2dmN6Ukh2czdVNHo4NEZ5NWd6X25VOTktU1dBem9mQjFEaGpwaVBXWVVsU3hTbDlTcV8tSg?oc=5",
+          "description": "Ecco perché non riuscirai mai a prendere una mosca: la verità sorprende Futura, le média qui explore le monde",
+          "pubDate": "Mon, 07 Sep 2026 16:22:12 GMT"
+        }
+      ],
+      "macro_area": "clima-salute"
+    },
+    {
+      "keyword": "russia",
+      "n_items": 8,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 54,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Putin perde amici nel suo cortile di casa: ecco cosa c'è dietro l'incontro con gli inviati di Trump - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQalBKZnBqNFFLUzlLWnhGa3RMZmllOTdHOXBlUVZSUkloSGYxbG9vcUxabDI0RV9wRzh6dEVWc2FDNkNGUU1iR3FPdk9EQWFMWjhQd1M2UDlRZGIwQThRRTJQazc2NFNCRkZaRHBLUEFLV0pZTlIwT1I2aXdOQ3lYTmJJQ0wyMEN1M2ExOWVBcHRGV1NhMnYwNEVVR2J1RVVfVnNSNTRGTFFmTktEV3Vya2FzbGVSTEpHcUhpWkdLaUhRYjlpWUZQZmFOUk9MWkpB0gHWAUFVX3lxTE9QcXBESFdIUE1WcmdhRUhhYWZ0b0Nrb3hwRVd1WmVLSl95VzJyQjV2UFNobk9Wejl3UHY0dXpvWm5yM1B0YlJFU3dQaUdfRjFUSVNKUGl1dXJxV3FXNWRRYno5aVdTUDR1REF4YmZuREZjWWdGenc5RlJJUExzQlVoVThwWDYwWXlqS2wwRDJJaVpWeDFKeVVrZ2NaWXVxNjg1M01vWVprWmVmZHNPM0J3Y2RaRjFheEdOMEFQSmVGYlRJbDJrOFRCX3NXbnU3YUZiYXRkdUE?oc=5",
+          "description": "Putin perde amici nel suo cortile di casa: ecco cosa c'è dietro l'incontro con gli inviati di Trump Corriere della Sera Witkoff e Kushner tornano da Trump, 'progressi verso colloqui a tre' ansa.it Trump pronto a sentire Putin e Zelensky: “Punta alla de-escalation” la Repubblica Capo dell’intelligence ucraina: “La Russia ha risorse per continuare la guerra fino al 2028” Il Fatto Quotidiano Preparar",
+          "pubDate": "Mon, 07 Sep 2026 06:49:11 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Russia riprende attacchi su Kiev dopo tregua. Scandalo corruzione, si dimette Procuratore generale - Aggiornamento del 08 Settembre delle ore 02:56 - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOakxRU1czYy1tWjBBaXAwd2JXYzJDUEdSYkExdXRFVnNadmRMZXNZV0l4bExmRm9xVmdaQ1FRbk15RHFLVXBiZkNBOTFiOXp4RnJScmdRV0dsUERwcy0xVzBUTVZ0NDJCX2Jwd0RUbGJJX2pnUmVubGk4RW4ta1JIMGd5cTFlYk54M2VTVVozQVVJanR4WDlUMGh4dFpZckhKTmxHbDBrTHJmemx5QlVGb2lvSnpSTkR6WlVucms0YXVVZWJfaDhXRlB4ME5lSlZyWGNfRmF2X1lXdFZ0Ylg5dWt2ZEZNNVpvc2dfNS1oYUVlZmVOQUw2NnBqajhWRXVzRUJ4c0tjdExpQdIBjwJBVV95cUxOOHBVZjBNeXB6YWpGa3RMb1o5R1Z2Q1JiUWozbDY0MVd3Y0dNd3JaSHZiNndhbTQ3TUJOWnNxVjRtTFA5d3NMSGxIVWE0cEhQVnJURGZRRTllMnlnalB1NFRVRkhWOXZZUzZEVS1pTk8tb2p6eGt0WTBDUmRpVUYxT2Y3YnBuelFzd0Fnb1V1aExpZDhLVDdGbExXcFhLd2RqR1R3VmpoY0Nud3l6MWdsUm1lUFJlNWx1czBQOHNGSXFCZDZTRVR2QWxReFo5UU9qSXZCcjNReFd5OV9zNENwOVFVaThaWmw4MTFIRnFybV9CWnc4X0dCejRmZUo0SjFIbi1vd1plQnRmd1Roc3JR?oc=5",
+          "description": "Russia riprende attacchi su Kiev dopo tregua. Scandalo corruzione, si dimette Procuratore generale - Aggiornamento del 08 Settembre delle ore 02:56 RaiNews Kravchenko si dimette: il Procuratore generale ucraino travolto dallo scandalo Il Fatto Quotidiano Ucraina, il procuratore generale si dimette dopo le accuse di corruzione RSI Terremoto a Kiev, si dimette il procuratore generale: l’ombra delle ",
+          "pubDate": "Tue, 08 Sep 2026 00:56:01 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Ucraina, ultime notizie. Zelensky: Usa valutano misure per ridurre escalation durante inverno. Mosca chiude il consolato tedesco a San Pietroburgo - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeVEydmhFaTkyd2c1UGx6bWI0NzUxNHpiaUNlYzR1UlFPRkpZbDQyMU1RNTVtcXZtQzFnWnlxaE1EeXpnWEZrdnFXbVhOVEZPcDdlVWZzV2MxaDR0Y2d0YV9yVGhnY0ZmeEkxSUZfRXVXRWpWUkpKeTVTZF9JOVFGa3FrSXQ0WHVoMFVrelVEeWxGOEVYVklYOVJ3a1FRRE9nZGdKUnhfRWZGSEZpV3NHa2tn?oc=5",
+          "description": "Guerra Ucraina, ultime notizie. Zelensky: Usa valutano misure per ridurre escalation durante inverno. Mosca chiude il consolato tedesco a San Pietroburgo Il Sole 24 ORE Witkoff e Kushner tornano da Trump, 'progressi verso colloqui a tre' ansa.it Trump pronto a sentire Putin e Zelensky: “Punta alla de-escalation” la Repubblica Capo dell’intelligence ucraina: “La Russia ha risorse per continuare la ",
+          "pubDate": "Mon, 07 Sep 2026 19:31:03 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Mosca chiude il consolato tedesco: Witkoff e Kushner da Putin - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQblRvek1tVFJjS09JLVpvNlpjQVc1Vnc3MFk1YmZ0ZGFFU1Nvclh3ZDRaakpzTl9NdkdDajI3aTNTdWJHUmVMU3BIa3lfZlhIMHZxUE55RTFaOUVubU1pYVdKNi1NLTY0M0wzOTE1dUt6MWRIWTE2aXR4MEE2eWsxZFFOVWhTR2ZUWWdZTW8ybVE2clRsWnR5NDVINlpXeTJV?oc=5",
+          "description": "Mosca chiude il consolato tedesco: Witkoff e Kushner da Putin Il Fatto Quotidiano Lavrov: 'Le accuse tedesche per l'aeroporto di Lipsia sono l'inizio di una vera guerra' ansa.it La Russia chiuderà il consolato tedesco a San Pietroburgo, in risposta alla chiusura di quello russo a Bonn, in Germania Il Post Tensione tra Russia e Germania.Chiuso consolato a San Pietroburgo AGI Bloomberg: “Putin punta",
+          "pubDate": "Mon, 07 Sep 2026 16:37:15 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "La Russia riprende gli attacchi su Kiev dopo tre giorni di tregua",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/08/la-russia-riprende-gli-attacchi-su-kiev-dopo-tre-giorni-di-tregua_8e9ad342-064f-49d9-be0c-02486376ddf4.html",
+          "description": "Allarme aereo nella capitale ucraina, edifici colpiti alla periferia della città",
+          "pubDate": "Tue, 8 Sep 2026 01:48:24 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "after",
+      "n_items": 13,
+      "n_sources": 4,
+      "category": "general",
+      "score": 52,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "After 9/11, Documents Suggest New Yorkers Were Misled About Air Quality - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUUVEbzRaTnM5NjV2bDRxYzFrVVU0TFVLWlNGeTJaZzRRbkRaNUw1eTllSWlKVVIwWENBOEFBOUtZVnV4azB6U1lrQi1yT1pLU251UmNZRUw4ZTFzOUxxbEk0U08yTVlRbVFoOTVmcW1qV0ptR2ZiN2tqakhsU2RuZg?oc=5",
+          "description": "After 9/11, Documents Suggest New Yorkers Were Misled About Air Quality The New York Times See more headlines & perspectives on Google News",
+          "pubDate": "Tue, 08 Sep 2026 00:30:08 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Amazon cargo plane crash victims were in vehicles that were hit, NTSB says - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWHEwUzVFRjhJMUp0TXNWdXZNZ0Jrc0ZCMm1WLVNWUzV2MW9ZT25DckxQTmF3b2V1QTlBREdvclRLclNTV20yaTVhSmEwWkVVTHBaa1h4ZWl3YVNKNWpTWkFRanVGSkc5UUJaNmU1X2tXT09XdXp2ZXVYMjMzR1pjaC14Yk5VTk8wbklYTUN1NmNkdTdYUkdSTDhB?oc=5",
+          "description": "Amazon cargo plane crash victims were in vehicles that were hit, NTSB says CBS News Amazon cargo plane struck a cleaning crew van and SUV as it overran runway, killing 5 people, officials say CNN Video shows pilot escape from Amazon cargo jet after fiery crash NBC 6 South Florida Orlando International Airport receives diverted flights after plane crash at Miami airport WESH NTSB Says Amazon Jet St",
+          "pubDate": "Tue, 08 Sep 2026 03:29:55 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Ohio Democrat Amy Acton reflects on a ‘rough day’ as witnesses recall ‘frightening’ confrontation - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdU43TWl5d1FNNEVLYlNiNHhpY2VUdjNXbkttYWQ3VGlCUXd1VDhtcEIyeFZ0cFdPUlVRaVU4ZFl0bTlyUkdyY1c0R2tMdnJiYWlSQm14cjNMUUhfVDNMc0NPcG1WNklPcEdTNTNSa3BLdW45QnpwU3psOGlWejJjNlNIZmRKWGhBRUxRaE5pelQtTU0zN0taRnRIYV9CbTVzdVUySkJIczNZdGhveW1YbDE3dnFOSWozMFlrczFvS2tSbFBwUFRV?oc=5",
+          "description": "Ohio Democrat Amy Acton reflects on a ‘rough day’ as witnesses recall ‘frightening’ confrontation NBC News Watch the moment: Ohio gubernatorial candidate Dr. Amy Acton helps during medical emergency at Cleveland Labor Day parade, day after Canfield incident WKYC With Ohio’s governorship up for grabs, a toxic race turns violent The Washington Post Armed Ohio man arrested after charging at Democrati",
+          "pubDate": "Mon, 07 Sep 2026 21:38:27 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Police seek to identify protesters behind Portsmouth anti-migrant disorder - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qaG5telpOVXg0aFJ6RnhCNzg5dWRZcHNyNDNHZzlUSHlWaHFvazFVcnRaTWEtUUhvUEp1MEJjNVVNMHZZRG92djJGdVhyc0p5c2JIMHBaal9Bdw?oc=5",
+          "description": "Police seek to identify protesters behind Portsmouth anti-migrant disorder BBC 'No excuse' for threatening behaviour or disruption, says minister after small boats protests BBC Why are far-right masked men protesting at British ports? CNN Policing minister makes statement on ‘intimidating and thuggish’ anti-migrant protests – as it happened | Politics The Guardian UK government condemns anti-migra",
+          "pubDate": "Mon, 07 Sep 2026 19:04:09 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Pope Leo XIV unveils a fresco at the sanctuary where he prayed after his election last year - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSTBfZVpuWEZhdTNBM3ByZFpOazRsWHltczliNF8wdk1MeUF6RlloZWJHM2FwM3VJT2RKNExnYk5MLWxoMmNPVDZlUnoya0ZKeUhNOTJva21TRzFLWGxVTll5NmhmanhRaWlYcW1oQlpqd29ZblJYbW9vcjNzTTdNZDFNWWVLalRsTkE?oc=5",
+          "description": "Pope Leo XIV unveils a fresco at the sanctuary where he prayed after his election last year AP News Pope Leo unveils new fresco at Genazzano sanctuary where he prayed after his election CBS News Pope celebrates Our Lady of Good Counsel with an appeal to cultivate peace Vatican News Leo XIV: Mary’s simple presence — and her Son within her — moves all of history Catholic World Report Italy Pope Blue",
+          "pubDate": "Tue, 08 Sep 2026 02:10:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "says",
+      "n_items": 13,
+      "n_sources": 4,
+      "category": "general",
+      "score": 52,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "US moves to ramp up pressure on Iran at UN as Tehran warns of 'recalibrated' military posture - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc0FkU0lFTGVobHIwMThjWEhxeFIyUXhMNjk5Q0tjUjZ1d0o4ZmV0NldKWV9zc1QxMzNESnZQM2JCSE9PdzZiMjgxbF9hVVQ5M2hINUg0RW40MkJ0RzQtWHc4M2tMeTJWY1pKT00zekJMUUVEcXRYa095eVNkUk93cXFhX0hVVDBnZ0phX3Z3?oc=5",
+          "description": "US moves to ramp up pressure on Iran at UN as Tehran warns of 'recalibrated' military posture Fox News IAEA warns over Iran nuclear access as Western powers push UN referral Al Jazeera US Turns Diplomatic Screws on Iran for Atomic Non-Compliance Bloomberg.com US and European Powers Seek Referral of Iran’s File to UN Security Council IranWire IAEA says Iran blocking nuclear inspectors as Hormuz thr",
+          "pubDate": "Mon, 07 Sep 2026 23:45:47 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Amazon cargo plane crash victims were in vehicles that were hit, NTSB says - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWHEwUzVFRjhJMUp0TXNWdXZNZ0Jrc0ZCMm1WLVNWUzV2MW9ZT25DckxQTmF3b2V1QTlBREdvclRLclNTV20yaTVhSmEwWkVVTHBaa1h4ZWl3YVNKNWpTWkFRanVGSkc5UUJaNmU1X2tXT09XdXp2ZXVYMjMzR1pjaC14Yk5VTk8wbklYTUN1NmNkdTdYUkdSTDhB?oc=5",
+          "description": "Amazon cargo plane crash victims were in vehicles that were hit, NTSB says CBS News Amazon cargo plane struck a cleaning crew van and SUV as it overran runway, killing 5 people, officials say CNN Video shows pilot escape from Amazon cargo jet after fiery crash NBC 6 South Florida Orlando International Airport receives diverted flights after plane crash at Miami airport WESH NTSB Says Amazon Jet St",
+          "pubDate": "Tue, 08 Sep 2026 03:29:55 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Iran says it plans new Gulf 'exclusion zone', threatens US with new missiles - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2RnNWprQ01ScjN2Q05RSHRWdmRqVzh2U01LUVVPVmhiRDVYNER3anQxQlNWV24wS3RZR2ZqS1FxNnFKWFRqSmlYbnQwSFk1eU5Cbnh1SVpxbTZCWUwtelFqbFV6LTNLVHZZbGRaYTVucy1VT1JwNDZPM3gydkZRU2VCWHFoVnpTVU9ILXlfRHpKMnBsT3RJOUlkejRzT1FJa25YekFnMVl6dUJnbERxeXo1UnpOZTVaQ281aFJrbjFEWmN3T2c?oc=5",
+          "description": "Iran says it plans new Gulf 'exclusion zone', threatens US with new missiles Reuters Live Updates: Iran says it will expand control in Strait of Hormuz as oil and gas prices continue to climb CBS News Iran live updates: Tehran plans new 'restricted zone' outside Strait of Hormuz abcnews.com Iran claims strike on a U.S. ship in the Strait of Hormuz but the U.S. denies it NBC News Can Iran enforce a",
+          "pubDate": "Tue, 08 Sep 2026 01:49:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Police seek to identify protesters behind Portsmouth anti-migrant disorder - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qaG5telpOVXg0aFJ6RnhCNzg5dWRZcHNyNDNHZzlUSHlWaHFvazFVcnRaTWEtUUhvUEp1MEJjNVVNMHZZRG92djJGdVhyc0p5c2JIMHBaal9Bdw?oc=5",
+          "description": "Police seek to identify protesters behind Portsmouth anti-migrant disorder BBC 'No excuse' for threatening behaviour or disruption, says minister after small boats protests BBC Why are far-right masked men protesting at British ports? CNN Policing minister makes statement on ‘intimidating and thuggish’ anti-migrant protests – as it happened | Politics The Guardian UK government condemns anti-migra",
+          "pubDate": "Mon, 07 Sep 2026 19:04:09 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+          "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+          "description": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
+          "pubDate": "Mon, 07 Sep 2026 14:04:01 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "europa",
+      "n_items": 9,
+      "n_sources": 5,
+      "category": "economia",
+      "score": 51,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Emma Bonino ricoverata a Roma per insufficienza respiratoria - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbVJrNUJmQ3k4VHpyVkFlbDZJQ0ZFWFQycUpoRjVOaHplTVhueDRqVGljVTNQb3pGRzhQMjlVRUhOeHZWQmJHUHd6ejA5YUVjRGtEU21oMDNoU2FPVmhiWXJhTVhxWkFtMjM5LTVzcnJyYTJneWNmU28zY2pSUWNZaWlycjhWN0NSVkhjTA?oc=5",
+          "description": "Emma Bonino ricoverata a Roma per insufficienza respiratoria Il Sole 24 ORE Emma Bonino ricoverata a Roma, trasportata in ospedale in codice rosso. Il medico: «Peggiorata la situazione respiratoria» Corriere Roma Emma Bonino, la carriera politica tra diritti ed Europa. FOTO tg24.sky.it Emma Bonino ricoverata d'urgenza, passerà la notte in ospedale per il monitoraggio RaiNews Emma Bonino ricoverata",
+          "pubDate": "Mon, 07 Sep 2026 19:05:55 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Make Groenlandia Great Again. Von der Leyen ancora l'isola di ghiaccio all'Europa - HuffPost Italia",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLXVHS1ZMV2tSdlVzTzFZRHZKeGRzYlFtdTJhdFNjU0YyMlpFUmdOZXp1MXUtalZES01DdDRoZGpSWlZiMnJXX2ExTWpfWWZ0eE9QU1hiNzRpeUFkbUVuWGhqWGs1LWcxMFZUWDNDUGFFMEdXOFY3YWZXc1dfUW5sZTF3cDFjSWFSZ1YxRjUzb2dacUxEM0lmbXo5Q25idjFyZ3hIX0Y3QzhZNWtzZjd0Yk9WY210V245Mk9hZ3ptSkYxYUhiTjVPYWMtM2M1Zw?oc=5",
+          "description": "Make Groenlandia Great Again. Von der Leyen ancora l'isola di ghiaccio all'Europa HuffPost Italia Materie prime, rotte e geopolitica: perché i 200 milioni dell’Ue in Groenlandia contano RaiNews L'Ue risponde a Trump in Groenlandia: '200 milioni di investimenti' ansa.it Groenlandia, dall’UE una partnership rinnovata e 200 milioni di euro in investimenti Eunews Groenlandia: 200 milioni di euro dall'",
+          "pubDate": "Mon, 07 Sep 2026 15:12:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Borse Ue, Francoforte maglia nera dopo vittoria Afd. Milano tiene con Lottomatica - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUk05bFM4dnBjSW03S1FGS0FFeS1kV3BDd0dYWG9fbEhWNFk1RlhyeFJ6V0NuOG5NQktlTThvZzlPQWVITzFIOU9Tb3Uwc1NGNFRRVDJ0WXZuMjlqNnpfeTM4X253S2VIWU45ZC1JR0pOa3JrUHRBTE9oNUFsYjdWUUdB?oc=5",
+          "description": "Borse Ue, Francoforte maglia nera dopo vittoria Afd. Milano tiene con Lottomatica Il Sole 24 ORE Borsa: riparte il petrolio, Europa fiacca e bond sotto pressione ansa.it Le Borse oggi, 7 settembre. Petrolio e gas in rialzo. Europa chiude incerta la Repubblica Borsa, petrolio in corsa e Btp sotto pressione: cosa sta succedendo soldionline.it Borse caute senza il faro di Wall Street. Piazza Affari c",
+          "pubDate": "Mon, 07 Sep 2026 08:32:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Emma Bonino ricoverata a Roma per insufficienza respiratoria, grave ma vigile",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/09/07/emma-bonino-ricoverata-in-ospedale-a-roma-e-grave_7b4947f8-04af-4663-a970-d39283ad2cc1.html",
+          "description": "Dopo un malore a casa la leader di +Europa è stata portata in ambulanza al pronto soccorso del Santo Spirito",
+          "pubDate": "Mon, 7 Sep 2026 21:23:57 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Robotica, una partnership italo-tedesca per rilanciare l’Europa - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLWZOckk0a2RZNE9YZDhub0FZNXN0Vk5VdUhiaUlhdXJzcVVUN0JRaVpyRGhDYlNFZXZ0RWN0cjQxam4tbi1ZMW9JQ2tmZlB2Q0k2YlhGUm9FSDAxcW10NHJCNUhsMWNDcmFSZm4tdUs2LXl2ZTU1THRDbloyTFRjMXMxenFuQ1J3azE3N0l0djZTOGxOcVg2MEZB?oc=5",
+          "description": "Robotica, una partnership italo-tedesca per rilanciare l’Europa Il Sole 24 ORE SECO guadagna il 38% in tre mesi: l’IA può fare salire ancora il titolo? Morningstar SECO, Intesa Sanpaolo ed Equita confermano giudizio e target price Borsa Italiana Seco e Neura, alleanza europea per portare la Physical AI nei robot e nelle fabbriche Milano Finanza NEURA Robotics e SECO uniscono le forze per lo svilup",
+          "pubDate": "Mon, 07 Sep 2026 12:44:52 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "borsa",
+      "n_items": 14,
+      "n_sources": 3,
+      "category": "economia",
+      "score": 48,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Borse Ue, Francoforte maglia nera dopo vittoria Afd. Milano tiene con Lottomatica - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUk05bFM4dnBjSW03S1FGS0FFeS1kV3BDd0dYWG9fbEhWNFk1RlhyeFJ6V0NuOG5NQktlTThvZzlPQWVITzFIOU9Tb3Uwc1NGNFRRVDJ0WXZuMjlqNnpfeTM4X253S2VIWU45ZC1JR0pOa3JrUHRBTE9oNUFsYjdWUUdB?oc=5",
+          "description": "Borse Ue, Francoforte maglia nera dopo vittoria Afd. Milano tiene con Lottomatica Il Sole 24 ORE Borsa: riparte il petrolio, Europa fiacca e bond sotto pressione ansa.it Le Borse oggi, 7 settembre. Petrolio e gas in rialzo. Europa chiude incerta la Repubblica Borsa, petrolio in corsa e Btp sotto pressione: cosa sta succedendo soldionline.it Borse caute senza il faro di Wall Street. Piazza Affari c",
+          "pubDate": "Mon, 07 Sep 2026 08:32:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Poste incrementa componente cash opas su Tim - ansa.it",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd014allsODBsV3dCTFFyTWdfVmZEZlRzUVgyRndXZ0NuWTFHek16RDZ1enNJbWdDZDc3dkFMaFF2Rk5BRVBjekdpVDBSZFp3OEdvQmFiVGpReVA5VFlyQVpwRjREZHBuUlJ5UXB6dDhycHRXZU1hZjVmNFI5dFprVllmS0toel9RbnBoWm5mOW9JaHJ0WEZPbXhZU0x5b1ltbEtUdnFyS3lmSzVRUkUyWDlmMElvMnRzSENVX3ZJdG94LVpvT1VzLWcyRG1ZMHhIaWdIdQ?oc=5",
+          "description": "Poste incrementa componente cash opas su Tim ansa.it Opas Tim, le mosse di Poste per evitare flop: cash e via soglia minima tg24.sky.it OPAS Telecom Italia, le adesioni superano il 6,15% Borsa Italiana Poste Italiane ritocca l’offerta su Tim, altri 0,3 euro in contanti la Repubblica Le Poste in gioco. L'assalto a Tim convince i manager, ma il mercato frena sul prezzo HuffPost Italia",
+          "pubDate": "Mon, 07 Sep 2026 21:15:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "L'azienda automobilistica Jaguar Land Rover ha detto che eliminerà quattromila posti di lavoro nei prossimi due anni - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYTdzUkh5eXNpb0ROcGV6aTVXdEpYa3ZzaV9lNmNTbEVJRlRBODRUemVUNXNkdDE2b0JvU25VbEVOSnpjaE5CZENFajJKNTVXWlZLQ25nRldScTBlYmxsald3bC12dFdEVDRVZEZjM0swdTZNdjR4aWtxY0RhV0QwXzAxYw?oc=5",
+          "description": "L'azienda automobilistica Jaguar Land Rover ha detto che eliminerà quattromila posti di lavoro nei prossimi due anni Il Post Jaguar prevede di tagliare 4.000 posti di lavoro nei prossimi due anni Borsa Italiana Jaguar Land Rover taglia 4.000 posti di lavoro: via alla ristrutturazione globale | Quattroruote.it Quattroruote Jaguar Land Rover taglia 4.000 posti di lavoro. Pesano dazi Usa e vendite in",
+          "pubDate": "Mon, 07 Sep 2026 19:23:53 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Intesa Sanpaolo: «Con Mps sinergie piene al 2029. Nessun controllo su Generali» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQRWl5ck1LWURuUUh6eEpMYy1rUGt0bDdyTVE0Q2tSbTJ2ME9hU2c2NFFucUE0OXM4TVlnLXNDRF9tWngxeGtOTFVid1RtRnZlQURkRXJPX3R3dFBKZGNleHVWeUNrcjVncTJIejNCY0VwdGRIa1JPSUdDMUNocFMwdlV1cFJMNHZwRWdGbW0tclRjQV9BZkY5UllGLWRoS0R1dmpzWnZrOG1vVzVDUzdCYUVpa2V5X1lrZ0xYUWg4UmJVNG1FZGEyaDhKMmZnbjdrRkl6UnFwNDc1MkVUTUFFa0NDcVU5RFlNVFNlNk9zellSMUlrcXoxVUpRVGh0S2hzNThzREVn0gGLAkFVX3lxTFBvMzJtUTNraHFWZkxiNGpWd0hsSzVCdmpVSkNXZl9lSzZYWFRPdU9lOHF5WTg0dGJ2c2syT1dCZld5ZzlhLWZOekV0ZFhxeTBJeVZxLWhDMG1fNDZMb1hFMml1SG42RzJoTEowZHBLblEzS2EwZkQ1SjQ0Q0FaWjVzRnZSaEp0WmxWdFVSU1NCbkFkbFBCNVZvMnJQcVBMNG1FMzF4WV9Kel9CUkYzV1VRbEY0b0hPRUhTR1pmZ2VVM29STEpGM2xMajE3aHpDYW5KWm5CVmhBQnN4M3UtTmFOemVMY2t1LUFRanNpSklRaW9kSlhLdVdkUkI5dUwzbTFOcmI3ME84cjVpOA?oc=5",
+          "description": "Intesa Sanpaolo: «Con Mps sinergie piene al 2029. Nessun controllo su Generali» Corriere della Sera Grande Mps targata Lovaglio un’intricata trama di rapporti la Repubblica Intesa Sanpaolo, previsti sì oltre il 90% all’assemblea per l’opas su Mps Milano Finanza Intesa: quota in Generali è un investimento azionario \"senza ingerenza nella governance\" Borsa Italiana Mps scopre le carte sulle offerte.",
+          "pubDate": "Mon, 07 Sep 2026 17:30:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Caro carburanti, la proroga del taglio delle accise è in bilico. Corsa agli aiuti mirati - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUJZTG93MzNBT0FrOGRBbWg5UGQtRjlSam8wTmNSSDh1bmRsWEpjMlgyWE9XQkZablFFanhpTUZjZmRaZzRBX2U4N0lIZDZKaFNlSHBxS2QxN0VGS2pha1RhUjRrTGF5Uzl5R0FscXRyVm5sX2dSdDU3S0VFalc1dEdoRG9TYTZoV2RjWC1zYjVvdTVVbzMzUlc4R3FVWHNQZmNEWFB1dkNESDdy?oc=5",
+          "description": "Caro carburanti, la proroga del taglio delle accise è in bilico. Corsa agli aiuti mirati la Repubblica Perché benzina e diesel costano tanto se il petrolio non è ai massimi storici? Euronews.com Caro carburanti, le ipotesi sugli aiuti del governo e le tempistiche tg24.sky.it Carburanti, prezzi ancora in salita sulle autostrade italiane Borsa Italiana Mimit, prezzo self benzina sale a 2,054 euro an",
+          "pubDate": "Mon, 07 Sep 2026 23:00:00 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "record",
+      "n_items": 7,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 48,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Meteo, maltempo in arrivo sull'Italia con rischio di ritorno del \"Medicane\". Le previsioni - tg24.sky.it",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qWHZXaGNFamctSXMxUmxKamJmRWVGODliNVJ0eVlBVWNvNmxNQkp2WlVpU3hiRGZjWDJRUlMwbVBYel9fUkgzRHdNQnFUbVJVOXJXMWw2WFM1OG8wSlNFVU1ULUdSZF9NTjgzV0d3VTlDNzBaS1ZoMzVWWXBuQQ?oc=5",
+          "description": "Meteo, maltempo in arrivo sull'Italia con rischio di ritorno del \"Medicane\". Le previsioni tg24.sky.it Caldo record, più 2,2 gradi in 6 anni, è allarme per il Piemonte Orientale La Stampa Meteo, in arrivo piogge e calo delle temperature ufficiostampa.provincia.tn.it Previsioni meteo, primo cambio stagionale: perturbazioni e rapido calo delle temperature la Repubblica Meteo, Giuliacci: «Data fine c",
+          "pubDate": "Mon, 07 Sep 2026 14:56:51 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Fuel prices at record Labor Day high in US thanks to Iran war and refinery issues - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOTRiRHBsTEFsQXpmU3VSSjg0N25rUC1NRzR2ZWlNc2RyallYN0xTX2U1NUJhTk9UZTdGM3NnYXJyZkV1dmx1VXpIdVpoS2dSVDJPMUZ5TzRka09pQklpWWtpVE5weTlFWDFYNmNadWw4UmdoY2NpTTFjS0plN1lGa1lDWF9LUWhsMUtyWjJ6QVA1WG5kNm1r?oc=5",
+          "description": "Fuel prices at record Labor Day high in US thanks to Iran war and refinery issues AP News See more headlines & perspectives on Google News",
+          "pubDate": "Mon, 07 Sep 2026 17:38:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Cuba denuncia i danni record dell'embargo Usa",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/08/cuba-denuncia-i-danni-record-dellembargo-usa_94e39a21-a77a-455e-8d67-595c54832b7d.html",
+          "description": "L'Avana chiede la fine delle sanzioni, pesanti le ricadute sui civili",
+          "pubDate": "Tue, 8 Sep 2026 03:13:21 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+          "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+          "description": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
+          "pubDate": "Mon, 07 Sep 2026 22:23:03 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
+          "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
+          "description": "Schools, businesses and public transport are all struggling with the surge in Russian air attacks.",
+          "pubDate": "Mon, 07 Sep 2026 07:03:44 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "milano",
+      "n_items": 8,
+      "n_sources": 5,
+      "category": "economia",
+      "score": 46,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Borse Ue, Francoforte maglia nera dopo vittoria Afd. Milano tiene con Lottomatica - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUk05bFM4dnBjSW03S1FGS0FFeS1kV3BDd0dYWG9fbEhWNFk1RlhyeFJ6V0NuOG5NQktlTThvZzlPQWVITzFIOU9Tb3Uwc1NGNFRRVDJ0WXZuMjlqNnpfeTM4X253S2VIWU45ZC1JR0pOa3JrUHRBTE9oNUFsYjdWUUdB?oc=5",
+          "description": "Borse Ue, Francoforte maglia nera dopo vittoria Afd. Milano tiene con Lottomatica Il Sole 24 ORE Borsa: riparte il petrolio, Europa fiacca e bond sotto pressione ansa.it Le Borse oggi, 7 settembre. Petrolio e gas in rialzo. Europa chiude incerta la Repubblica Borsa, petrolio in corsa e Btp sotto pressione: cosa sta succedendo soldionline.it Borse caute senza il faro di Wall Street. Piazza Affari c",
+          "pubDate": "Mon, 07 Sep 2026 08:32:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Intesa Sanpaolo: «Con Mps sinergie piene al 2029. Nessun controllo su Generali» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQRWl5ck1LWURuUUh6eEpMYy1rUGt0bDdyTVE0Q2tSbTJ2ME9hU2c2NFFucUE0OXM4TVlnLXNDRF9tWngxeGtOTFVid1RtRnZlQURkRXJPX3R3dFBKZGNleHVWeUNrcjVncTJIejNCY0VwdGRIa1JPSUdDMUNocFMwdlV1cFJMNHZwRWdGbW0tclRjQV9BZkY5UllGLWRoS0R1dmpzWnZrOG1vVzVDUzdCYUVpa2V5X1lrZ0xYUWg4UmJVNG1FZGEyaDhKMmZnbjdrRkl6UnFwNDc1MkVUTUFFa0NDcVU5RFlNVFNlNk9zellSMUlrcXoxVUpRVGh0S2hzNThzREVn0gGLAkFVX3lxTFBvMzJtUTNraHFWZkxiNGpWd0hsSzVCdmpVSkNXZl9lSzZYWFRPdU9lOHF5WTg0dGJ2c2syT1dCZld5ZzlhLWZOekV0ZFhxeTBJeVZxLWhDMG1fNDZMb1hFMml1SG42RzJoTEowZHBLblEzS2EwZkQ1SjQ0Q0FaWjVzRnZSaEp0WmxWdFVSU1NCbkFkbFBCNVZvMnJQcVBMNG1FMzF4WV9Kel9CUkYzV1VRbEY0b0hPRUhTR1pmZ2VVM29STEpGM2xMajE3aHpDYW5KWm5CVmhBQnN4M3UtTmFOemVMY2t1LUFRanNpSklRaW9kSlhLdVdkUkI5dUwzbTFOcmI3ME84cjVpOA?oc=5",
+          "description": "Intesa Sanpaolo: «Con Mps sinergie piene al 2029. Nessun controllo su Generali» Corriere della Sera Grande Mps targata Lovaglio un’intricata trama di rapporti la Repubblica Intesa Sanpaolo, previsti sì oltre il 90% all’assemblea per l’opas su Mps Milano Finanza Intesa: quota in Generali è un investimento azionario \"senza ingerenza nella governance\" Borsa Italiana Mps scopre le carte sulle offerte.",
+          "pubDate": "Mon, 07 Sep 2026 17:30:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "La settimana finanziaria. Bce, giovedì il giorno della stretta: quasi certo il rialzo dei tassi - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTF9UMlEwUEd1b3JjVF8yMGx4RHVXdFdjZTFlMDJWNWN2SERBYXVtRlJGWE5SWHNGRDQzclBRajltZFBvTnNDZmExYmRaVnlkaU4wMGdISmxoV1g1RGNkNGZkR2RfaXFMSVhWbjJhTmo1UzJSRFhtZ1VaV2U1TFZaLUNmX1lDSUVrS2RTY3BwVVV2S2g3MFdwS21OU3QyeGk1cWlWN1FTVUp0ZmhKT18ydUp6Ynh5Mlk1MnJBX2JSa2hkeVhCX0d1eVJReFZ5VlV1ZmxyN2w5VGxSUQ?oc=5",
+          "description": "La settimana finanziaria. Bce, giovedì il giorno della stretta: quasi certo il rialzo dei tassi la Repubblica Mercati: i dati macro italiani ed esteri della settimana (Mps) Milano Finanza Calendario economico: decisione della BCE, risultati di Oracle e inflazione USA – cosa aspettarsi? (07.09.2026) XTB.com Appuntamenti macroeconomici: settimana del 7 settembre 2026 Teleborsa Cinque cose da monitor",
+          "pubDate": "Sun, 06 Sep 2026 12:00:32 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Robotica, una partnership italo-tedesca per rilanciare l’Europa - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLWZOckk0a2RZNE9YZDhub0FZNXN0Vk5VdUhiaUlhdXJzcVVUN0JRaVpyRGhDYlNFZXZ0RWN0cjQxam4tbi1ZMW9JQ2tmZlB2Q0k2YlhGUm9FSDAxcW10NHJCNUhsMWNDcmFSZm4tdUs2LXl2ZTU1THRDbloyTFRjMXMxenFuQ1J3azE3N0l0djZTOGxOcVg2MEZB?oc=5",
+          "description": "Robotica, una partnership italo-tedesca per rilanciare l’Europa Il Sole 24 ORE SECO guadagna il 38% in tre mesi: l’IA può fare salire ancora il titolo? Morningstar SECO, Intesa Sanpaolo ed Equita confermano giudizio e target price Borsa Italiana Seco e Neura, alleanza europea per portare la Physical AI nei robot e nelle fabbriche Milano Finanza NEURA Robotics e SECO uniscono le forze per lo svilup",
+          "pubDate": "Mon, 07 Sep 2026 12:44:52 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: Milano chiude in lieve rialzo, Ftse Mib +0,25%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/07/borsa-milano-chiude-in-lieve-rialzo-ftse-mib-025_9d96d43c-f4d9-49d2-8fa8-3d7402e6b30f.html",
+          "description": "L'indice dei titoli principali di Piazza Affari a 52.229 punti",
+          "pubDate": "Mon, 7 Sep 2026 17:38:06 +0200"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "prezzo",
+      "n_items": 8,
+      "n_sources": 5,
+      "category": "general",
+      "score": 40,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa-Iran, le notizie in diretta | Panetta al Guardian: «La guerra Usa-Iran potrebbe durare altri 6 mesi». Traffico a Hormuz ai minimi da maggio. Raid di Israele in Libano: 11 morti tra i quali due neonati - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPWXU1SVdiVENvbHZsNzZZLXh2VldZQ1JyYkphZDNtNkdvWWdsVVJmQU05dk91LXZENW5YczUyejAtaGRIcGZZRGI3VUNHeUk0LTJ2RjVrTjBJNTFFQkJ6OG1WcWJDUFBOV3p0UExaTERVTUlTMUlzb3RTVW1mbGNMYjc0c2FoQ0syOTNMMlhyTFI1X0ZZNlZDWUoxQmZoaS0xaWFvbW9UZy1wN0UtdzljZTR3MEczTVdWanlQeTl5NDA2RkVmRGkzenFhT0NHUDFLNlBkWFZLWXEwbm9Ba0E1enhjMzVRWmNfN2RESkRqLTNPakwzSFAxT1RmMUF0Zko30gGGAkFVX3lxTE5SclVxQVN5aWs5U2xqa1JMaFRsSGFsOE1WNnJpQmJ6Sk0yRVBxRDJBNmh6cTRZR29oTGVmMWV2MVRJejdOWjQwWGdhSDFULVlOemxXY1ZRdHdjR21neFFBSkgtdFNzclpnNnBSenBFUUd1bmxGSFhKSFFuV1NSWktxWnctamRzY2ZwVUFJa1lSWEJRVEVkaGVXWG5CbWhCT3pSTl9ueXRqeGtPLXNOTFB4QzVzbF9HQ1k0Uk5XNV9HUm0xZFlKc04tVUYzaE54Z3Jibm05T0RPQWRPem9uelZNaks3TzBSQzhVTjUyb3JvbW0zaDlXR2dyRTlfNlpsSnpQQi1FaXc?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Panetta al Guardian: «La guerra Usa-Iran potrebbe durare altri 6 mesi». Traffico a Hormuz ai minimi da maggio. Raid di Israele in Libano: 11 morti tra i quali due neonati Corriere della Sera Guerra Usa-Iran, le notizie in diretta | Trump: «Il prezzo del petrolio scenderà quando vinceremo guerra» Corriere della Sera Il punto sulla guerra Iran-Usa giunta in u",
+          "pubDate": "Mon, 07 Sep 2026 15:00:44 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Arévalo propone un tetto al prezzo del diesel in Guatemala",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/08/arevalo-propone-un-tetto-al-prezzo-del-diesel-in-guatemala_d8a205ef-aefd-499d-a018-611c495ccf71.html",
+          "description": "Il presidente chiede al Congresso di intervenire contro i rincari",
+          "pubDate": "Tue, 8 Sep 2026 03:35:28 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Poste incrementa componente cash opas su Tim - ansa.it",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd014allsODBsV3dCTFFyTWdfVmZEZlRzUVgyRndXZ0NuWTFHek16RDZ1enNJbWdDZDc3dkFMaFF2Rk5BRVBjekdpVDBSZFp3OEdvQmFiVGpReVA5VFlyQVpwRjREZHBuUlJ5UXB6dDhycHRXZU1hZjVmNFI5dFprVllmS0toel9RbnBoWm5mOW9JaHJ0WEZPbXhZU0x5b1ltbEtUdnFyS3lmSzVRUkUyWDlmMElvMnRzSENVX3ZJdG94LVpvT1VzLWcyRG1ZMHhIaWdIdQ?oc=5",
+          "description": "Poste incrementa componente cash opas su Tim ansa.it Opas Tim, le mosse di Poste per evitare flop: cash e via soglia minima tg24.sky.it OPAS Telecom Italia, le adesioni superano il 6,15% Borsa Italiana Poste Italiane ritocca l’offerta su Tim, altri 0,3 euro in contanti la Repubblica Le Poste in gioco. L'assalto a Tim convince i manager, ma il mercato frena sul prezzo HuffPost Italia",
+          "pubDate": "Mon, 07 Sep 2026 21:15:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Caro carburanti, la proroga del taglio delle accise è in bilico. Corsa agli aiuti mirati - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUJZTG93MzNBT0FrOGRBbWg5UGQtRjlSam8wTmNSSDh1bmRsWEpjMlgyWE9XQkZablFFanhpTUZjZmRaZzRBX2U4N0lIZDZKaFNlSHBxS2QxN0VGS2pha1RhUjRrTGF5Uzl5R0FscXRyVm5sX2dSdDU3S0VFalc1dEdoRG9TYTZoV2RjWC1zYjVvdTVVbzMzUlc4R3FVWHNQZmNEWFB1dkNESDdy?oc=5",
+          "description": "Caro carburanti, la proroga del taglio delle accise è in bilico. Corsa agli aiuti mirati la Repubblica Perché benzina e diesel costano tanto se il petrolio non è ai massimi storici? Euronews.com Caro carburanti, le ipotesi sugli aiuti del governo e le tempistiche tg24.sky.it Carburanti, prezzi ancora in salita sulle autostrade italiane Borsa Italiana Mimit, prezzo self benzina sale a 2,054 euro an",
+          "pubDate": "Mon, 07 Sep 2026 23:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Un titolo supera il +90% e Goldman vede petrolio a 120$: 2 azioni da comprare ora - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS053MVpiYmZCaUVTaXZCVm1kamJEV21pbkpfM0J0ZWZUWXdoUW5JZTIzLVU3cU5VdGZYOGdISjlrNzRkeTVmOFhXMlU4TkJobzNWdDlwQkFyZUJFaHg3TEw2MlVOclpQYW5wMC14dWZDVER1aVJBMWJfbkU4aXJWLXd1UEZ3WURzcnhWVGdOR2RlVlRWWWVQRGhPWGVLR01OZmttSmlsSDdxZUtoYms4bkdtUTJvMHhsYTZYOGE4UENPTVhocWg2ZQ?oc=5",
+          "description": "Un titolo supera il +90% e Goldman vede petrolio a 120$: 2 azioni da comprare ora Investing.com Gli scontri a Hormuz portano di nuovo il greggio verso i 100 dollari la Repubblica Petrolio vicino ai massimi di sei settimane, focus sugli attacchi USA-Iran e sui flussi a Hormuz Yahoo Finanza Prezzo del petrolio in rialzo, Wti scambiato a 92,61 dollari ansa.it Petrolio a 92,81 dollari alle 19:30 Borsa",
+          "pubDate": "Mon, 07 Sep 2026 17:51:23 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "rischio",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "clima",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Sciopero treni 7-8-settembre 2026: a che ora inizia, durata e fasce di garanzia - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQUGdQVDlwUnp4VTd5REpTVXk5QWQ0dWUyaWtjNGNybGRkTjEwYnZ6enVDTUZ2VXpaS1U4QXpPWUN6djNLWkUwNkpnVjdkME94S3RTLTYxSldyck8zLXY3VXN5RjFvUzc4NGwyTUJzSTlUS3dIT0VYTlhPbXFBSTJLX3RVOG9sNnBQZk1oV05LNU1EcHFReF9QelRxcFk3S3RoSjRoN0M2NkwySy1Oa0c5N0JjdV9mM1E2VGlLOEVGMWdzY2J2dzZmWm5Rci10LUN4TmFkU2FtNExyTU03VkgwcUlwaFcwVGNvaTlmaDBia2ZuOGxlVHBOY2xOSlM0Q2M3bTY0eXpLMHRoLWFaa2FLb0Jn0gGXAkFVX3lxTE9HbkRjN1RmMUxnSjV6ZjNodnV4bmY5eE4tcU1GQ2xJcDdEVDBYal9hTjdMdThxV2FJdTJJQ1ZMUzFDUDJfdlBBSFZUS3F2bmw5WE1CYVdCd1NNOEtMTzNYRlhzQ3UtaTUyX1FPLXQwdVlOYkI0QTJBZHpvTkJfWXlHWi1hUTlxLVpCQk41dmtTVjVyaDctTUxCTno1TnA5cWJCbEUxZUh4YmNIeVJQMW50cENUMF9nRXliYkdjVkpXeXNMdGJDMVZZelIzakNHMGU2eFhXc3NFcHBmSFRFMHdRbDJqazJDRHpDXzRBeUVrejFGZWdXb3hsN095bmRuY3VMaVA5SDFoLVExMVFVbGI2TGdkTlVUQQ?oc=5",
+          "description": "Sciopero treni 7-8-settembre 2026: a che ora inizia, durata e fasce di garanzia Corriere della Sera Da stasera sciopero di 24 ore del personale Fs ansa.it Sciopero treni del 7 e 8 settembre: orari, fasce di garanzia e cancellazioni la Repubblica Sciopero treni, aerei e trasporti: da oggi a fine settembre, tutte le date degli stop Adnkronos Sciopero di 24 ore confermato: tutti i treni a rischio e g",
+          "pubDate": "Tue, 08 Sep 2026 01:09:53 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Meteo, maltempo in arrivo sull'Italia con rischio di ritorno del \"Medicane\". Le previsioni - tg24.sky.it",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qWHZXaGNFamctSXMxUmxKamJmRWVGODliNVJ0eVlBVWNvNmxNQkp2WlVpU3hiRGZjWDJRUlMwbVBYel9fUkgzRHdNQnFUbVJVOXJXMWw2WFM1OG8wSlNFVU1ULUdSZF9NTjgzV0d3VTlDNzBaS1ZoMzVWWXBuQQ?oc=5",
+          "description": "Meteo, maltempo in arrivo sull'Italia con rischio di ritorno del \"Medicane\". Le previsioni tg24.sky.it Caldo record, più 2,2 gradi in 6 anni, è allarme per il Piemonte Orientale La Stampa Meteo, in arrivo piogge e calo delle temperature ufficiostampa.provincia.tn.it Previsioni meteo, primo cambio stagionale: perturbazioni e rapido calo delle temperature la Repubblica Meteo, Giuliacci: «Data fine c",
+          "pubDate": "Mon, 07 Sep 2026 14:56:51 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "'Constellation a rischio incendio', il Comune di Crans sapeva",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/07/il-comune-di-crans-montana-sapeva-del-pericolo-incendio-lo-rivela-unemail_de8fe3a4-2295-42de-a559-3c53c9eb375b.html",
+          "description": "Nel 2019 una ex consigliera ora indagata avvertì: 'La schiuma è pericolosa'. Il papà di Chiara: 'Ora la verità'",
+          "pubDate": "Mon, 7 Sep 2026 19:16:09 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "730, ultime scadenze: rimborsi, correzioni e controlli del Fisco - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR09UZzZzTlJOeDlYRlFfYV80QWhMZ2lNS2FWTGxQS3hYWVJpdXFkMC1zMlRfYmhqUWtTeE1qYUp4RUZ1ZS1lWmtBTE5FNk1fTkNTbDZESnVadGM3MlhQTE1zSWdNUlQzM3dkaF9xUjYwX0pJMXZKWjczTG9pT3ZwQlhkRXdKVGpsSklwdGFxSUhWM2pQVnFXVGZUdkoxWk9JRWQ0?oc=5",
+          "description": "730, ultime scadenze: rimborsi, correzioni e controlli del Fisco Il Fatto Quotidiano Rimborso 730/2026, rischio di slittamento a marzo 2027 tg24.sky.it Rimborso 730/2026: chi rischia il rinvio a marzo 2027 e le scadenze Facile.it Modello 730: ultima chiamata. Rimborsi subito in busta paga. Le novità per bonus e sconti La Nazione 730/2026, scadenza il 30 settembre: tutte le novità da controllare pr",
+          "pubDate": "Mon, 07 Sep 2026 06:13:22 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Il clima mette a rischio le api: in Europa in declino il 37% delle specie",
+          "link": "https://www.ilsole24ore.com/art/il-clima-mette-rischio-api-europa-declino-37percento-specie-AJSGWL4",
+          "description": "Caldo, siccità e fioriture anticipate possono rompere la sincronizzazione fra piante e impollinatori. A Bologna quattro giorni di incontri fra ricercatori e scienziati di quasi 50 Paesi",
+          "pubDate": "Sat, 5 Sep 2026 17:11:20 GMT"
+        }
+      ],
+      "macro_area": "clima-salute"
+    },
+    {
+      "keyword": "raid",
+      "n_items": 5,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 31,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa-Iran, le notizie in diretta | Panetta al Guardian: «La guerra Usa-Iran potrebbe durare altri 6 mesi». Traffico a Hormuz ai minimi da maggio. Raid di Israele in Libano: 11 morti tra i quali due neonati - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPWXU1SVdiVENvbHZsNzZZLXh2VldZQ1JyYkphZDNtNkdvWWdsVVJmQU05dk91LXZENW5YczUyejAtaGRIcGZZRGI3VUNHeUk0LTJ2RjVrTjBJNTFFQkJ6OG1WcWJDUFBOV3p0UExaTERVTUlTMUlzb3RTVW1mbGNMYjc0c2FoQ0syOTNMMlhyTFI1X0ZZNlZDWUoxQmZoaS0xaWFvbW9UZy1wN0UtdzljZTR3MEczTVdWanlQeTl5NDA2RkVmRGkzenFhT0NHUDFLNlBkWFZLWXEwbm9Ba0E1enhjMzVRWmNfN2RESkRqLTNPakwzSFAxT1RmMUF0Zko30gGGAkFVX3lxTE5SclVxQVN5aWs5U2xqa1JMaFRsSGFsOE1WNnJpQmJ6Sk0yRVBxRDJBNmh6cTRZR29oTGVmMWV2MVRJejdOWjQwWGdhSDFULVlOemxXY1ZRdHdjR21neFFBSkgtdFNzclpnNnBSenBFUUd1bmxGSFhKSFFuV1NSWktxWnctamRzY2ZwVUFJa1lSWEJRVEVkaGVXWG5CbWhCT3pSTl9ueXRqeGtPLXNOTFB4QzVzbF9HQ1k0Uk5XNV9HUm0xZFlKc04tVUYzaE54Z3Jibm05T0RPQWRPem9uelZNaks3TzBSQzhVTjUyb3JvbW0zaDlXR2dyRTlfNlpsSnpQQi1FaXc?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Panetta al Guardian: «La guerra Usa-Iran potrebbe durare altri 6 mesi». Traffico a Hormuz ai minimi da maggio. Raid di Israele in Libano: 11 morti tra i quali due neonati Corriere della Sera Guerra Usa-Iran, le notizie in diretta | Trump: «Il prezzo del petrolio scenderà quando vinceremo guerra» Corriere della Sera Il punto sulla guerra Iran-Usa giunta in u",
+          "pubDate": "Mon, 07 Sep 2026 15:00:44 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "In Libano '11 morti nei raid israeliani su un villaggio nel sud, anche due neonati' - ansa.it",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQVDQ1Wjd2aEU4QjRlT21NVVdtdkZvWHFzWUZETkROWFlVbHh5NjZKRjVjMXJlQm5RYW8xdmhKbWRqU3hLUUZ5NDl6bDZJeHYtcGdmdDhvclBmQVZhZ2RQaGVsLUtPaEFMMlpZM0RUN1QzUmVwX0ZhRnE3Q3dPZ2Z6em5FWnRpdmoxNXc3QUlqRTItd1NhamlrS29OQml3RjRWbk1wd0NFeVFiS0prc2lwaUJxZUJYWFFBVHNFc3lua2RBVC1DcHhWUi10QzJXd2FkcGtZSXJGNktDdll0R3VxWkE5ZDQtM0xYb0JoekNmSGM3N2JMLTdiNVowMUFPckxGUjBz0gGIAkFVX3lxTE42aU9kNVljV1dhY3JxQ0NBZllyNjY0Y2lNLTNaNnU4Z1I1YkdLcHBvdXNCeGJBSS1mdnR6a3dBMy1sdW1vZXNjc1VSVjhzZ0xLc1djOWYzSTRlMUFzX0JCOFFHZTJheUh6ZWhXRDRFNVo3bXRHd0VoejVBTEtpMjZ2STliT3FqLWs3emQ4MWVXc1dnRzc1SzgxNlpIQVd4a0EwMWdXVDdoLW5BRDdkbjZETWV6cFIyb0k1dVUyZmlZbk1qbUczdzhUWnVoaTJTM0xFQlVzNjhKTzRtODhvR1I5dWVNT1JGeHBBel9DdUh3N250S1NrM2o1MlFaTjcyQ1JMTWZmZWNROQ?oc=5",
+          "description": "In Libano '11 morti nei raid israeliani su un villaggio nel sud, anche due neonati' ansa.it Almeno 12 persone sono state uccise in un bombardamento israeliano nel sud del Libano Il Post Israele bombarda il sud del Libano, tra le vittime anche due neonati Vatican News Guerra in Iran, le news di oggi. L’Idf ordina evacuazione nel sud del Libano: “Raid contro Hezbollah” la Repubblica Israele avverte ",
+          "pubDate": "Mon, 07 Sep 2026 06:23:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Nuovi raid israeliani in Libano, sterminata una famiglia",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/07/nuovi-raid-israeliani-in-libano-sterminata-una-famiglia_a65d8ecf-b5c7-46bf-a111-e4f911f7f832.html",
+          "description": "Morti anche 2 neonati. L'Idf accusa Hezbollah. Nel sud spuntano strade israeliane per restare",
+          "pubDate": "Mon, 7 Sep 2026 20:11:09 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
+          "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
+          "description": "Schools, businesses and public transport are all struggling with the surge in Russian air attacks.",
+          "pubDate": "Mon, 07 Sep 2026 07:03:44 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Nave cargo russa colpita attaccata nel Mediterraneo, il raid con i droni tra la Libia e Creta: era diretta in Siria. «Trasporta armi per... - Il Messaggero",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNnZMaWZzRGdmUkUzN19qTy0yYU02a1F4R3BEd0t1ZHhzME15UHlnMU1WNUlwWWF6blJwQWJIRi1RbW9zMmtZaWlEM0M1WWJYdFhkSEZEelk1VUM3STlScmxQcG9kQmlNdy1zYTRVR2x6YXc5NVNUYl9EZ3hFaGg4SmNfTEVMbHdDZHVpUjRLODI4SVZ4YjF2S3VETDhqNEpoTXFiUURiSlc2d9IBrwFBVV95cUxNSjZZSldJdy1mNWtDWVFLeTZ5UFd5d1Q3LWF6SVlhY05iMTNmQlNOTnZoM1p4ZFVlMkJaSmJSMDB6bHU2YW44VVdzVmxTSzUwU1FDTm5iYU16eU5VeEI2dXJPSzloSkRmb3FLTmZPdGNlN2dKNUpmQWtCU3g2aDYzQlhTcVA3ZFczbnRmMmhlS09EaS1Dclc0ZDBMU3VkWkV4U0RlWlVfbkJ0SnNfakk4?oc=5",
+          "description": "Nave cargo russa colpita attaccata nel Mediterraneo, il raid con i droni tra la Libia e Creta: era diretta in Siria. «Trasporta armi per... Il Messaggero",
+          "pubDate": "Mon, 07 Sep 2026 22:39:54 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "apple",
+      "n_items": 10,
+      "n_sources": 3,
+      "category": "general",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-tech",
+          "title": "Xiaomi 18 Fold ufficiale: il pieghevole wide sfida Samsung e Apple | Prezzo - hdblog.it",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1RqWjF2QzY0WmtkRThXaV9pZGtrN1BnRl85SHdEbTlsRGdNRFBKOEk1Y3RpamQ3RVBpdE5sd1VYVFJaVTBFOUV3TWdyWEp0d3RCaElqWDRjeklDR0xFTjQyNVRYLU8xYjZvMWxxeWNta2hFaFUzODRGQWNncDIwODFjeWJMUFJVaG9hNGtsZVQyY00xd1Iyc0JLM1FTTUU?oc=5",
+          "description": "Xiaomi 18 Fold ufficiale: il pieghevole wide sfida Samsung e Apple | Prezzo hdblog.it",
+          "pubDate": "Mon, 07 Sep 2026 13:55:54 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Three new iPhones launch this week, here’s what’s coming - 9to5Mac",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX2F6dUF5eEJKLUNoR2FlRWRHOVl4ZUpuQXluSnZfTGlLRmp6eFNNUXJBRmNHeVlwd1h0MHdzbkhaNXNyRnVVbXFnSS03RWN3cDZMTTBYVEJEN2s0RlVqRndOLXRmNXVzRVlKQ0ctcGFWa3BWem51dlZGdkF4am5GU2xwLXdxdkROZ0xMZERn?oc=5",
+          "description": "Three new iPhones launch this week, here’s what’s coming 9to5Mac Apple to Kick Off Ternus Era With Its Biggest-Ever Slate of New Products Bloomberg.com The best time to buy an iPhone may be right this minute The Washington Post Apple (AAPL) Sets iPhone Launch Event. The First Under New CEO John Ternus Yahoo Finance The real reason your phone is getting more expensive The Verge",
+          "pubDate": "Mon, 07 Sep 2026 12:23:00 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Huawei Has a New $3,000 Trifold, Just in Case Apple's Foldable iPhone Wasn't Expensive Enough for You - Gizmodo",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQXBTUFdtR1BuVWw4WVhtWndCRzJFdnRQLUpWTVhMM1gyMzdTengtM0NkSE9Bd3pNUEVxNXdEQTlaT2ZEYVZNQVYxbVU1cjBpMElpZXlrNEN4VzJuSGc2dXFkR2pJMjRhTTlQbVg4WkJtUUVzcENRaVAwOFBxTEg3dnYtMWpvZXZ1Y1M1Sk53YXJjRHF0TnZXcXRqNEg1aW55YzVPTW0wUTVCamNyanRoa3k5dF8xQVpHZ1I3TThCUDF3cjNQU0E?oc=5",
+          "description": "Huawei Has a New $3,000 Trifold, Just in Case Apple's Foldable iPhone Wasn't Expensive Enough for You Gizmodo See more headlines & perspectives on Google News",
+          "pubDate": "Mon, 07 Sep 2026 19:31:39 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "I Used the iPhone 17 Pro Max Without a Case for a Year. Here’s How It Looks Now - CNET",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUW9iMXNiSmxnamtlVEU0ZzhSaFdWbFdGb19ielVMczZRRU9LdE1ubjlHXzUxQWpOVjBKcjFscXVFUWhwQWlmTjBmbVR6SzZyZW9tY09xakN4Q3FnQklzX3JFOF9UNlFDMG5yZU5lTC03TlRfclNRWlpQVHhUSGtMSXBTWkYtSXZwQ09DRllDRGdEa2pPbGlPbDJndkZnb2l3akQ5LTZ6eU50SVA2aUZpOQ?oc=5",
+          "description": "I Used the iPhone 17 Pro Max Without a Case for a Year. Here’s How It Looks Now CNET Buy the iPhone 17 or wait for iPhone 18? My advice after years of phone reviews ZDNET Popularity Kills! iPhone 18 Pro Max Launch Will Spell The Death Of This iPhone 17 Pro Max Colour Esquire India Apple iPhone 18: Top 5 Reasons to Wait Before Buying iPhone 17 TelecomTalk How Has The iPhone 17 Aged After A Year? bg",
+          "pubDate": "Mon, 07 Sep 2026 12:00:00 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Disconnect your LG television from the internet, now - AppleInsider",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdmxON3EtdlNtaVJkeU8wclJ4Vm5jSERyT3ZlLXlWTlhBM3pFQmFMSXNaYUcyVktDZi0yQlhIQ2s1Rmtsc2ZDTklSN3pqZ29fWjNwdkxWbWpESmNfTG9qOThWUVY2dFhpeVBacHdta2UzY0xZRXlLWXU5Ul9LVl8zdGdHdURaR2NQa3Uxd1RpYUc1N0xrQlBpNHpB?oc=5",
+          "description": "Disconnect your LG television from the internet, now AppleInsider LG TV flaws could let attackers listen in, even in standby mode Malwarebytes LG smart TVs caught logging audio with screen off and snooping on local devices Notebookcheck 'We know who's in the LG household… we own the glass': A new report says LG TVs gather way more personal data than we feared — and comments from LG's own execs onl",
+          "pubDate": "Mon, 07 Sep 2026 17:20:51 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "chiude",
+      "n_items": 6,
+      "n_sources": 4,
+      "category": "economia",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Borse Ue, Francoforte maglia nera dopo vittoria Afd. Milano tiene con Lottomatica - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUk05bFM4dnBjSW03S1FGS0FFeS1kV3BDd0dYWG9fbEhWNFk1RlhyeFJ6V0NuOG5NQktlTThvZzlPQWVITzFIOU9Tb3Uwc1NGNFRRVDJ0WXZuMjlqNnpfeTM4X253S2VIWU45ZC1JR0pOa3JrUHRBTE9oNUFsYjdWUUdB?oc=5",
+          "description": "Borse Ue, Francoforte maglia nera dopo vittoria Afd. Milano tiene con Lottomatica Il Sole 24 ORE Borsa: riparte il petrolio, Europa fiacca e bond sotto pressione ansa.it Le Borse oggi, 7 settembre. Petrolio e gas in rialzo. Europa chiude incerta la Repubblica Borsa, petrolio in corsa e Btp sotto pressione: cosa sta succedendo soldionline.it Borse caute senza il faro di Wall Street. Piazza Affari c",
+          "pubDate": "Mon, 07 Sep 2026 08:32:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Ucraina, ultime notizie. Zelensky: Usa valutano misure per ridurre escalation durante inverno. Mosca chiude il consolato tedesco a San Pietroburgo - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeVEydmhFaTkyd2c1UGx6bWI0NzUxNHpiaUNlYzR1UlFPRkpZbDQyMU1RNTVtcXZtQzFnWnlxaE1EeXpnWEZrdnFXbVhOVEZPcDdlVWZzV2MxaDR0Y2d0YV9yVGhnY0ZmeEkxSUZfRXVXRWpWUkpKeTVTZF9JOVFGa3FrSXQ0WHVoMFVrelVEeWxGOEVYVklYOVJ3a1FRRE9nZGdKUnhfRWZGSEZpV3NHa2tn?oc=5",
+          "description": "Guerra Ucraina, ultime notizie. Zelensky: Usa valutano misure per ridurre escalation durante inverno. Mosca chiude il consolato tedesco a San Pietroburgo Il Sole 24 ORE Witkoff e Kushner tornano da Trump, 'progressi verso colloqui a tre' ansa.it Trump pronto a sentire Putin e Zelensky: “Punta alla de-escalation” la Repubblica Capo dell’intelligence ucraina: “La Russia ha risorse per continuare la ",
+          "pubDate": "Mon, 07 Sep 2026 19:31:03 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Mosca chiude il consolato tedesco: Witkoff e Kushner da Putin - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQblRvek1tVFJjS09JLVpvNlpjQVc1Vnc3MFk1YmZ0ZGFFU1Nvclh3ZDRaakpzTl9NdkdDajI3aTNTdWJHUmVMU3BIa3lfZlhIMHZxUE55RTFaOUVubU1pYVdKNi1NLTY0M0wzOTE1dUt6MWRIWTE2aXR4MEE2eWsxZFFOVWhTR2ZUWWdZTW8ybVE2clRsWnR5NDVINlpXeTJV?oc=5",
+          "description": "Mosca chiude il consolato tedesco: Witkoff e Kushner da Putin Il Fatto Quotidiano Lavrov: 'Le accuse tedesche per l'aeroporto di Lipsia sono l'inizio di una vera guerra' ansa.it La Russia chiuderà il consolato tedesco a San Pietroburgo, in risposta alla chiusura di quello russo a Bonn, in Germania Il Post Tensione tra Russia e Germania.Chiuso consolato a San Pietroburgo AGI Bloomberg: “Putin punta",
+          "pubDate": "Mon, 07 Sep 2026 16:37:15 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Witkoff dopo la visita a Mosca e Kiev, 'progressi sostanziali' - ansa.it",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWXE3Zzc3aEVLOTJhN210ODROb0c5UmoyWjFmYkJ1UDF1a095ekZodnFWSTdKRTQwTUlRS0c5djBIYjZHVXd6TFRMT2FNSk83QjhnQ3JlbGt4TGJ3eWFGNVlEbEwxbi1SSDNFY09EVVlfcjRJdVFtdWs1SFJIcElxRFg3MlJCTEwwaHVISnpObV92VHRMRUM4TmRzdElJYTYtX0s4UW5CdUlIMkVOTFg0cFNmMzFaODFSU3J3clVMU1NuSmlsTDJrN2xuSVUzN01PRnNpeWxOb2ZNNlU4dFJKUkVqbXkwTXd6?oc=5",
+          "description": "Witkoff dopo la visita a Mosca e Kiev, 'progressi sostanziali' ansa.it Lo spread tra Btp e Bund chiude stabile a 81 punti base ansa.it ***BTp: spread con Bund apre in rialzo a 82 punti, rendimento decennale al 4,17% Il Sole 24 ORE Spread Btp-Bund poco mosso, rendimenti in rialzo con Afd e Iran lagazzettadelmezzogiorno.it Btp, la strategia degli esperti: scadenze medie e acquisti graduali La Stampa",
+          "pubDate": "Mon, 07 Sep 2026 14:38:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Lo spread tra Btp e Bund chiude stabile a 81 punti base",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/07/lo-spread-tra-btp-e-bund-chiude-stabile-a-81-punti-base_bfb7e2ae-2805-411a-bfa3-6a9d39abc926.html",
+          "description": "Il rendimento del prodotto del Tesoro è al 4,2%",
+          "pubDate": "Mon, 7 Sep 2026 18:17:03 +0200"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "venezia",
+      "n_items": 9,
+      "n_sources": 3,
+      "category": "general",
+      "score": 27,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "Il red carpet di Venezia, i protagonisti",
+          "link": "https://www.ansa.it/sito/photogallery/primopiano/2026/09/07/il-red-carpet-di-venezia-i-protagonisti_f7ceac03-1ab7-42eb-8adf-0cbf32849502.html",
+          "description": "",
+          "pubDate": "Mon, 7 Sep 2026 16:26:40 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Venezia: Javier Bardem e Penelope Cruz al Lido",
+          "link": "https://www.ansa.it/sito/photogallery/spettacolo/2026/09/07/venezia-javier-bardem-e-penelope-cruz-al-lido-_dc4c836c-5044-48fc-96dd-03687129ae90.html",
+          "description": "Protagonisti di uno dei film del concorso, Bunker di Florian Zeller",
+          "pubDate": "Mon, 7 Sep 2026 21:13:07 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Venezia, l'hairstylist: 'Sul red carpet capelli lunghi e onde morbide'",
+          "link": "https://www.ansa.it/canale_lifestyle/videogallery/2026/09/07/venezia-lhairstylist-sul-red-carpet-capelli-lunghi-e-onde-morbide_f8af4bd2-a1fb-4c19-8839-d204b26f1a9d.html",
+          "description": "",
+          "pubDate": "Mon, 7 Sep 2026 19:13:01 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Venezia tra l'horror di Strippoli e l'incanto di Kore-eda",
+          "link": "https://www.ansa.it/sito/notizie/cultura/2026/09/07/venezia-tra-lhorror-di-strippoli-e-lincanto-di-kore-eda_2ecf4740-ff7a-4ccb-94fd-341ad9a70e52.html",
+          "description": "Leone alla carriera a Burstyn: 'Per le donne nel cinema situazione cambiata enormemente'",
+          "pubDate": "Mon, 7 Sep 2026 21:05:35 +0200"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Scuola, quando si torna in classe: il calendario 2026-2027 in Veneto, Friuli Venezia Giulia e Trentino-Alto Adige. Prima campanella oggi... - Il Gazzettino",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWFlIX0pFUjdHbGhrSl9PTllYbmoydEphdW9nMGFzWWZ5SVNSS3JCYW5wZ0V5cU9ybkRqbmY5UXpxTGNNTjJZNVJkZVo5bWI3TFA0aTZaX0J4dTI0RVZtdDZNNzNsNi1lV1lvZFBuZ1pUQXUzQlNxeUI2MlNsckVpMWFVMW9QYXBxaUZkTjBDNXVmb0VHejFma0RySHlUc2NkLWJyQ1MzMzVTTDE2RjNQX0d30gG3AUFVX3lxTFB0TUJ1NWpRdFJQaHhDdDR1TU04UjVUdFBpUTV1TUZJUllteldKeV9mWDhxOElrcWhrOEwwTEp2dmE4RmRqTEtFeXJjSHl0QmgtRWxMMFhaVHdadS0zOHhBTHdWTXh2UjlnT2R1LWFRRVk1R0ZJMDJQZGFFS0F3NXplUDVJSzBFVzZsMU5KZ2dpb21PcEJYYVd3MHNtbUxoUDBfWjBrUVlJZFFNWUtma19jbEtzeTUxZw?oc=5",
+          "description": "Scuola, quando si torna in classe: il calendario 2026-2027 in Veneto, Friuli Venezia Giulia e Trentino-Alto Adige. Prima campanella oggi... Il Gazzettino Primo giorno di scuola, chi torna tra i banchi oggi 7 settembre Virgilio Sapere Anno scolastico 2026/27 al via con l’incognita aule «roventi» Il Sole 24 ORE Prima campanella in Alto Adige, tornano sui banchi oltre 85mila studenti ansa.it Rientro ",
+          "pubDate": "Mon, 07 Sep 2026 08:20:09 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "rialzo",
+      "n_items": 7,
+      "n_sources": 3,
+      "category": "economia",
+      "score": 27,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Borse Ue, Francoforte maglia nera dopo vittoria Afd. Milano tiene con Lottomatica - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUk05bFM4dnBjSW03S1FGS0FFeS1kV3BDd0dYWG9fbEhWNFk1RlhyeFJ6V0NuOG5NQktlTThvZzlPQWVITzFIOU9Tb3Uwc1NGNFRRVDJ0WXZuMjlqNnpfeTM4X253S2VIWU45ZC1JR0pOa3JrUHRBTE9oNUFsYjdWUUdB?oc=5",
+          "description": "Borse Ue, Francoforte maglia nera dopo vittoria Afd. Milano tiene con Lottomatica Il Sole 24 ORE Borsa: riparte il petrolio, Europa fiacca e bond sotto pressione ansa.it Le Borse oggi, 7 settembre. Petrolio e gas in rialzo. Europa chiude incerta la Repubblica Borsa, petrolio in corsa e Btp sotto pressione: cosa sta succedendo soldionline.it Borse caute senza il faro di Wall Street. Piazza Affari c",
+          "pubDate": "Mon, 07 Sep 2026 08:32:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Un titolo supera il +90% e Goldman vede petrolio a 120$: 2 azioni da comprare ora - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS053MVpiYmZCaUVTaXZCVm1kamJEV21pbkpfM0J0ZWZUWXdoUW5JZTIzLVU3cU5VdGZYOGdISjlrNzRkeTVmOFhXMlU4TkJobzNWdDlwQkFyZUJFaHg3TEw2MlVOclpQYW5wMC14dWZDVER1aVJBMWJfbkU4aXJWLXd1UEZ3WURzcnhWVGdOR2RlVlRWWWVQRGhPWGVLR01OZmttSmlsSDdxZUtoYms4bkdtUTJvMHhsYTZYOGE4UENPTVhocWg2ZQ?oc=5",
+          "description": "Un titolo supera il +90% e Goldman vede petrolio a 120$: 2 azioni da comprare ora Investing.com Gli scontri a Hormuz portano di nuovo il greggio verso i 100 dollari la Repubblica Petrolio vicino ai massimi di sei settimane, focus sugli attacchi USA-Iran e sui flussi a Hormuz Yahoo Finanza Prezzo del petrolio in rialzo, Wti scambiato a 92,61 dollari ansa.it Petrolio a 92,81 dollari alle 19:30 Borsa",
+          "pubDate": "Mon, 07 Sep 2026 17:51:23 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Rialzo controllato per le Borse europee orfane di Wall Street - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRUdKQWpTZFFWTVRDZkNGWFdYYWNVcEthdnZjdHVTUEx4bFo2c2dMOGRGQzRhVTZ0QmtEaVluekRTRjBIRU9ab2VUOW9XRFlzbmpIeWpqSmFPWlB3U0NadlVydHlIcWhVR2tZcGdHZHFrekV6UzlUVE1TTEJLZEtJeERnNEFXdlViWUNKNlRldXh2M01VWVZsdEcyYVdSMG10VFg0UUM0R2V0SG9SeXpVaExTUVEtYWNtUXJzVE5Od1FMSEFrRXdWdkVDVjRFaDNBV2pzbjktdXZ0TDNLVk5la1Nn?oc=5",
+          "description": "Rialzo controllato per le Borse europee orfane di Wall Street Borsa Italiana Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Mon, 07 Sep 2026 14:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Witkoff dopo la visita a Mosca e Kiev, 'progressi sostanziali' - ansa.it",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWXE3Zzc3aEVLOTJhN210ODROb0c5UmoyWjFmYkJ1UDF1a095ekZodnFWSTdKRTQwTUlRS0c5djBIYjZHVXd6TFRMT2FNSk83QjhnQ3JlbGt4TGJ3eWFGNVlEbEwxbi1SSDNFY09EVVlfcjRJdVFtdWs1SFJIcElxRFg3MlJCTEwwaHVISnpObV92VHRMRUM4TmRzdElJYTYtX0s4UW5CdUlIMkVOTFg0cFNmMzFaODFSU3J3clVMU1NuSmlsTDJrN2xuSVUzN01PRnNpeWxOb2ZNNlU4dFJKUkVqbXkwTXd6?oc=5",
+          "description": "Witkoff dopo la visita a Mosca e Kiev, 'progressi sostanziali' ansa.it Lo spread tra Btp e Bund chiude stabile a 81 punti base ansa.it ***BTp: spread con Bund apre in rialzo a 82 punti, rendimento decennale al 4,17% Il Sole 24 ORE Spread Btp-Bund poco mosso, rendimenti in rialzo con Afd e Iran lagazzettadelmezzogiorno.it Btp, la strategia degli esperti: scadenze medie e acquisti graduali La Stampa",
+          "pubDate": "Mon, 07 Sep 2026 14:38:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "La settimana finanziaria. Bce, giovedì il giorno della stretta: quasi certo il rialzo dei tassi - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTF9UMlEwUEd1b3JjVF8yMGx4RHVXdFdjZTFlMDJWNWN2SERBYXVtRlJGWE5SWHNGRDQzclBRajltZFBvTnNDZmExYmRaVnlkaU4wMGdISmxoV1g1RGNkNGZkR2RfaXFMSVhWbjJhTmo1UzJSRFhtZ1VaV2U1TFZaLUNmX1lDSUVrS2RTY3BwVVV2S2g3MFdwS21OU3QyeGk1cWlWN1FTVUp0ZmhKT18ydUp6Ynh5Mlk1MnJBX2JSa2hkeVhCX0d1eVJReFZ5VlV1ZmxyN2w5VGxSUQ?oc=5",
+          "description": "La settimana finanziaria. Bce, giovedì il giorno della stretta: quasi certo il rialzo dei tassi la Repubblica Mercati: i dati macro italiani ed esteri della settimana (Mps) Milano Finanza Calendario economico: decisione della BCE, risultati di Oracle e inflazione USA – cosa aspettarsi? (07.09.2026) XTB.com Appuntamenti macroeconomici: settimana del 7 settembre 2026 Teleborsa Cinque cose da monitor",
+          "pubDate": "Sun, 06 Sep 2026 12:00:32 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    }
+  ]
+}

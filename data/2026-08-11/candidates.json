@@ -1,0 +1,925 @@
+{
+  "date": "2026-08-11",
+  "top_topics": [
+    {
+      "keyword": "italia",
+      "n_items": 28,
+      "n_sources": 12,
+      "category": "general",
+      "score": 336,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Terrorismo, espulso straniero: progettava un attentato in Italia - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU055V0VVZUo3c18yN1MxbHdSWEVQX2lGNE9qTHY1a1hMT2ZsQjlVTG5nYnk3Nm13dFR4emMtTG5BWU02U2ZNSDFvU01iV2J5WHpyX05lSGxVSkR2eTBzcmdmWDJHYmJCUmdXUm0wTVh5YjdSZ19PU0JGV2xrTEg2ZFVDazZSak9RVnI2SA?oc=5",
+          "description": "Terrorismo, espulso straniero: progettava un attentato in Italia Sky TG24 Progettava di far saltare un centro commerciale in Veneto, arrestato al \"Canova\" TrevisoToday Rischio terrorismo, cittadino straniero espulso dall’Italia. Piantedosi: \"Obiettivo un centro commerciale\" Virgilio",
+          "pubDate": "Mon, 10 Aug 2026 17:12:29 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "La Russa attacca Landini: \"Anche da lui commenti volgari e sessisti su una donna di Fratelli d'Italia a Marcinelle. Imbarazzante\" - today.it",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMXdZX0d1Rng5R19RZlJEY2pJeU1rRFRfQUxEeUVYTHl5VlJhbGhFVHJtRGZpU2VuQ1Jua2FXQmZqT1oxNWhURmMyVmJicXVIV3hJV3dJb0tlWF9nem9tV1UwQ1RrZ0RQMHhHUXZJUS1aTEZpbWtnV3pCclBETWlNdnN4N3dkaFpYTVpqeFVNbXAyQ1R3aF9QY1JFZVQ?oc=5",
+          "description": "La Russa attacca Landini: \"Anche da lui commenti volgari e sessisti su una donna di Fratelli d'Italia a Marcinelle. Imbarazzante\" today.it Marcinelle, il documentario su Rai1 a notte fonda. Ma la memoria non è un sottogenere tv per insonni Corriere della Sera L’invito di Mattarella a rispettare la «dignità delle persone» migranti ilpost.it Chi paga con il proprio corpo il benessere di qualcun altr",
+          "pubDate": "Mon, 10 Aug 2026 05:13:59 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "In 230 con un barchino raggiungono il Regno Unito attraverso la Manica, è record di migranti - AGI",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNVNmWC1EVjZCNDc0S1Y0YjUyYWVsWUVaUWtrZ2tUdDZNZmtiMGlGQnowQ25EWE5GOEZ4Um0zWnpWQ3hvWktGTXRsNmNVWWxMSWRvUnZRaWJvUzBfdXY5aXQxcDlldmh4czhqMWJQYXpYOE00RmhSemhjSld0R3JaNWxtejBZdw?oc=5",
+          "description": "In 230 con un barchino raggiungono il Regno Unito attraverso la Manica, è record di migranti AGI Nigel Farage vuole usare la Marina di Sua Maestà per bloccare i migranti nel Canale della Manica HuffPost Italia Migranti, sbarco record in Gran Bretagna: in 230 attraversano il Canale della Manica su una sola imbarcazione Il Messaggero Farage risponde alla linea dura di Burnham sui migranti, 'con noi ",
+          "pubDate": "Mon, 10 Aug 2026 11:12:36 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Rimpatri, i dati che smontano i teoremi. Piantedosi: altri 128 in una settimana - Il Tempo",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZHVTNUFVQTJtRXB6TURxaXpOYll1RVJEUjVhT2RKVUlaUEU0dy15TVFCaC1pMUd0QW1qNTU4Q1ZleGI1dUtCQ1hSSmpiX3BWSHBvWm5IMWF5aUZsRTFvT2tMSVF0QU9JUVZBRm0yYzFIV1dxckJDUDVTYU9PZml2RkVjWGFWYS1ESGJ5VkRKa0ZUVWc2LXhFR0ZXNUwzWnAzRTM5T1RMY0R1bWlWMndmSXFQMjdVYUdEcm9CVmhPRWdrQnFDVzBXV1N2MTRBdw?oc=5",
+          "description": "Rimpatri, i dati che smontano i teoremi. Piantedosi: altri 128 in una settimana Il Tempo Sbarcati 17mila migranti in Italia, meno della metà degli ultimi 2 anni ANSA Nel Mediterraneo crollano gli arrivi ma crescono i morti RSI",
+          "pubDate": "Mon, 10 Aug 2026 08:56:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Furti auto e moto, le regioni più colpite e i consigli per proteggersi - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLUFhYejBUdUl0Um9HeGM2ejZVd0UzUml4bUt1TzJJRkJGdklxeTNPWk1ibkgxRTBwa0J2aU80bWlPV09aX0hUdFhmM18xSGh2eF9xU2hjUHNTMGJKRTY1NEdNeFVEUzYzUEJzMDl3?oc=5",
+          "description": "Furti auto e moto, le regioni più colpite e i consigli per proteggersi Sky TG24 In Italia rubate 285 auto al giorno, 90 tra moto e motorini ANSA Furti d’auto, in Italia 285 al giorno. Campania, Lazio e Sicilia in testa ItaliaOggi In Italia rubate 136mila auto e moto l’anno: i numeri choc regione per regione SoldiOnline.it In Italia si registrano 285 furti d’auto al giorno. Scopri la classifica reg",
+          "pubDate": "Mon, 10 Aug 2026 10:03:09 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "trump",
+      "n_items": 16,
+      "n_sources": 7,
+      "category": "geopolitica",
+      "score": 118,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa-Iran, le notizie in diretta | Trump: «L'intero Stretto di Hormuz è stato sminato. Abbiamo ancora le capacità per un'escalation». Yemen, l'Onu: rischio di un conflitto su larga scala - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPdDBjdWQ2U3MyWGptaEt1QVFxeDdxXzhDY2s2dG5VSlFtRGc5QXVMd0JtWDZkRzZrZU4wZkVoVnNJckxnUnI1X01rTHk4NGRTQTFlNjR6V2p4eHVzTlJhNFpaV3hRM0twZXNxb1pBdFhPNW1HeGEySkVQRGNRU3gwTFNNSnRtSE1DUDZGSG1wbE1YRl9RMmJRTnhJVGhWWmI0YkFMTTBYd0xsXzdnNXpxS0l1SEJvbm14bmxJMk5vekg0dzlnVE5HYWt2TVllR2daMVl1SFZZVnB0MV8zRDdoV2huN0Q2ZHhtU3RnSXR3LWZ3QjBxeTRHdjlhdGt0bDhMVXhhUXpIZ2VXZEtDU1pMS9IBlgJBVV95cUxOQ3Rrcl9iMnY4ekVnTTRxaUNsM1dfd2daWEFNS3VlNGlxbW8zY0EzbEhIalloUEdyN2pzNDZJVmJRN19LRWg5RXJPbzlJR1NOdUZKcDYyRkcwUnZiREtFbUdQa2hPc0RVNTFpWkl2MFRPVktHa0FXOUJQODJjNGUtR0VESTh3d2I0cE1hZkJkbjhRaVUyN0Zzc1RhZl92dUhPbHo4WTdnZVhkbVloTVJLNVJtZTV3ejUxY3ZTeHB4dDhwZkRZX1J4NDZ6OTlWMDYxcHBkNmV3UktteU15U3lJVFhpWm9kWF9YelhXUDRmcFBJUW13RXlMZlUtMDlmTG5fdUdGNDZjcXYzWi1OVVNIR3ItbGcwQQ?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Trump: «L'intero Stretto di Hormuz è stato sminato. Abbiamo ancora le capacità per un'escalation». Yemen, l'Onu: rischio di un conflitto su larga scala Corriere della Sera Minaccia di un attentato iraniano e Trump lasciò la Turchia a bordo di un volo militare straordinario la Repubblica",
+          "pubDate": "Tue, 11 Aug 2026 01:38:42 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Netanyahu non preoccupa Trump, 'il piano per Gaza tiene' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOemJ6QVFYZnhZODhIUVlPMmEwd3BXYWNiLVpNQ0VHWHA1NEVlbjB0NURrVXg2WFA4aVdkTktFcEcyZFA3U25TZFlfekQ2TkdIUGFuREMxQ1RRU3FsSlJiVXl1ZFJKVkkzVEtUSzhiS3NKc2VwM0dwRC1YWGhZYnozdVlET2loM2FZSFFWVkxrbWFaTXF3MDQwaURiQTNOaDZPemFnWktTV2hLUGFPNUZZdGZIRXJfUlJDWVAzdGFjckxIUDQ4WGRJRXB5MUV6UkxoaFR1QmFrR1NvNFJBc2fSAeMBQVVfeXFMUGVnNndGWFFTNldXNW1PcFFVVVVXZHdjMGdERWk1VW1PWTJPZ3B3VEdvbmliQm96SVBBMnc4SFJGNHRXdnZuX1JTMXNYMDctRGRUWVNsazYwcU5xZ0JHa1ZZNHVFWHRSTDlNZXBkRkdDM0ZaUjdZY1dWb0dIZXhUZE5MOWE0Uk04WXJKdXg4WkJCaVo3OVJRVEpFUDYxMXVWSmpPYTJLWVIxaFhVamg4UlRCMzlJSFBjSW0zQ0wtZzJwMy1OQVg2YVhPVGhKUS0tOExUM0tlQmxzTkFnYWxkRGFqNWs?oc=5",
+          "description": "Netanyahu non preoccupa Trump, 'il piano per Gaza tiene' ANSA Piano per Gaza, Trump cita Hillary Clinton: \"Nessuna alternativa\" Il Fatto Quotidiano Medio Oriente, media: 'Netanyahu dà una chance al piano per Gaza' ANSA Iran, Pezeshkian sette ore a colloquio con Khamenei | Trump: \"Sminato tutto Hormuz, possiamo ancora decapitare Teheran\" tgcom24.mediaset.it La scommessa di Bibi: per rivincere pugno",
+          "pubDate": "Mon, 10 Aug 2026 18:31:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra ultime notizie. Trump: «Abbiamo sminato l’intero stretto di Hormuz, lo controlliamo al 100% - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNWRmQ19tRnE4NjIwaEx5UnIwZW03YWpwVkdhd0xvTDU2bW82NGV2M1dTQlVGdzdVejVsRWRwOFVUSElmTDJ5bFowMUF0YllfNHdZaGhWUDN2VnZ3S1ZFOHdwWjNjT1h5TUFjaHpFWFlyaG5FSUF3eFp0ZVN4SVREejc4Qk5jX21nUEhnem1XemRFUWxTOUNWYkpuZFNBTWFQQmJJRWZVRFJIc2N4RDZKU2hjS1p2NlAtQURqYlF4SFVxRjVnaUlvcUM1SQ?oc=5",
+          "description": "Guerra ultime notizie. Trump: «Abbiamo sminato l’intero stretto di Hormuz, lo controlliamo al 100% Il Sole 24 ORE Trump: \"Ho le capacità per decapitare l'Iran. Hormuz aperto e sotto controllo Usa\" - Esercito israeliano bombarda colline nel sud del Libano RaiNews Guerra in Iran, le news di oggi. Trump: “Hormuz lo controlliamo noi. Lo abbiamo sminato” la Repubblica 'Oleodotto di Kharg completamente ",
+          "pubDate": "Mon, 10 Aug 2026 22:56:11 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump signs order to limit childhood vaccines and split MMR shots - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nS0FWUjM1QzMtNlZ6T0t2anBSS1lKalMzRU9lVzkycmo5RXgycmZpLVkyTlI2SGpJd0lOR1FORnBmRVpDN1ZtVnAzX2lNUS1FRlNSWXIzUDZqdw?oc=5",
+          "description": "Trump signs order to limit childhood vaccines and split MMR shots BBC What Trump’s executive order means for vaccinations this fall CNN American Medical Association criticizes Trump executive order on childhood vaccine schedule thehill.com Doctors push back on Trump executive order to change childhood vaccine schedule 6abc Philadelphia Fact-Checking Trump’s Claims About Childhood Vaccines After Ex",
+          "pubDate": "Mon, 10 Aug 2026 23:03:52 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZFQ4RWFKS1pmY3Nha1Nad3NLd1lIVzU3aTRLM1pkZXFoWjN0R1RyQjdENDdaYmR5dlhFcWZRT0IybEFsdkxkY3k3TU96UEw0cWd4STlXSy1xVnV4QVdrV0dPWWVLZFh4dnlMaHF2eHBsQS1GaFNsa3lGVGtYOE9kOHFsbmpJdw?oc=5",
+          "description": "Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports The Guardian Contradicting public statements, Trump took secret flight from Turkey amid Iranian threat The Washington Post Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats The New York Times Trump used elaborate ruse to fly out of Turkey following summit because of Iran threat, report s",
+          "pubDate": "Tue, 11 Aug 2026 02:29:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "rischio",
+      "n_items": 14,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 90,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Terrorismo, espulso straniero: progettava un attentato in Italia - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU055V0VVZUo3c18yN1MxbHdSWEVQX2lGNE9qTHY1a1hMT2ZsQjlVTG5nYnk3Nm13dFR4emMtTG5BWU02U2ZNSDFvU01iV2J5WHpyX05lSGxVSkR2eTBzcmdmWDJHYmJCUmdXUm0wTVh5YjdSZ19PU0JGV2xrTEg2ZFVDazZSak9RVnI2SA?oc=5",
+          "description": "Terrorismo, espulso straniero: progettava un attentato in Italia Sky TG24 Progettava di far saltare un centro commerciale in Veneto, arrestato al \"Canova\" TrevisoToday Rischio terrorismo, cittadino straniero espulso dall’Italia. Piantedosi: \"Obiettivo un centro commerciale\" Virgilio",
+          "pubDate": "Mon, 10 Aug 2026 17:12:29 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "“Assalto oggi a Melilla alle 18”. I marocchini si danno appuntamento per invadere l’altra exclave spagnola in Africa - il Giornale",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcHE1RzBHRkI0Vzd3RVVock9VMlhpVzV1OTZXT0tGTzlLdnUwRXhFeHlBTi1DX1pXbnAzbV9zS1RPQXJDbmtBdDhES1BpemwtUTFtTVI2TnMtdnRWcG5uMDZ0bWp0anBTYUhEX09aaHBnYjJRMjRoQVRkNU9FSmpXUUI3ZFRWUXUwdFR4Q3FMZnZ3UXpXNnR1SDdpQ3VsclRfT2s5S3hDM3hzaEV5MHBrVDNxcXE1Z0w4R2FjcjJjSjRMVkZHVDMyZmdLM0hDcEtOdUp4LVFuZFVMX1ZQS0pOWUw4bTNtU1RJVldsRmJqMWdKSmRCN1gxQzRJbw?oc=5",
+          "description": "“Assalto oggi a Melilla alle 18”. I marocchini si danno appuntamento per invadere l’altra exclave spagnola in Africa il Giornale Ceuta, cresce l'allerta su un'altra ondata. E ora i governi locali si schierano contro Sánchez Corriere della Sera Migranti, a Ceuta “rischio terrorismo”. Meloni: \"No a immigrazione incontrollata\" Sky TG24 Tajani: 'I controlli restano fino al 15 agosto, rischio terrorism",
+          "pubDate": "Mon, 10 Aug 2026 10:10:46 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa-Iran, le notizie in diretta | Trump: «L'intero Stretto di Hormuz è stato sminato. Abbiamo ancora le capacità per un'escalation». Yemen, l'Onu: rischio di un conflitto su larga scala - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPdDBjdWQ2U3MyWGptaEt1QVFxeDdxXzhDY2s2dG5VSlFtRGc5QXVMd0JtWDZkRzZrZU4wZkVoVnNJckxnUnI1X01rTHk4NGRTQTFlNjR6V2p4eHVzTlJhNFpaV3hRM0twZXNxb1pBdFhPNW1HeGEySkVQRGNRU3gwTFNNSnRtSE1DUDZGSG1wbE1YRl9RMmJRTnhJVGhWWmI0YkFMTTBYd0xsXzdnNXpxS0l1SEJvbm14bmxJMk5vekg0dzlnVE5HYWt2TVllR2daMVl1SFZZVnB0MV8zRDdoV2huN0Q2ZHhtU3RnSXR3LWZ3QjBxeTRHdjlhdGt0bDhMVXhhUXpIZ2VXZEtDU1pMS9IBlgJBVV95cUxOQ3Rrcl9iMnY4ekVnTTRxaUNsM1dfd2daWEFNS3VlNGlxbW8zY0EzbEhIalloUEdyN2pzNDZJVmJRN19LRWg5RXJPbzlJR1NOdUZKcDYyRkcwUnZiREtFbUdQa2hPc0RVNTFpWkl2MFRPVktHa0FXOUJQODJjNGUtR0VESTh3d2I0cE1hZkJkbjhRaVUyN0Zzc1RhZl92dUhPbHo4WTdnZVhkbVloTVJLNVJtZTV3ejUxY3ZTeHB4dDhwZkRZX1J4NDZ6OTlWMDYxcHBkNmV3UktteU15U3lJVFhpWm9kWF9YelhXUDRmcFBJUW13RXlMZlUtMDlmTG5fdUdGNDZjcXYzWi1OVVNIR3ItbGcwQQ?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Trump: «L'intero Stretto di Hormuz è stato sminato. Abbiamo ancora le capacità per un'escalation». Yemen, l'Onu: rischio di un conflitto su larga scala Corriere della Sera Minaccia di un attentato iraniano e Trump lasciò la Turchia a bordo di un volo militare straordinario la Repubblica",
+          "pubDate": "Tue, 11 Aug 2026 01:38:42 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Migranti, a Ceuta “rischio terrorismo”. Meloni: \"No a immigrazione incontrollata\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX21SSTg2Y216Snh6cDhxZWlaakRLbVJJOVpyTEJyYndtQjhIeUZvLTIwT3FlX0NzaTFmZjZ4QWJWYUt0a2xoemJNazNzLVRWZ01RNDdwMVZMRE9GTUYwQ0RzbmlxSzJlTFBfVjFLQzZyc1puSDE5NUdseEU2Ti05enJaeGxTNS13?oc=5",
+          "description": "Migranti, a Ceuta “rischio terrorismo”. Meloni: \"No a immigrazione incontrollata\" Sky TG24 Ceuta, cresce l'allerta su un'altra ondata. E ora i governi locali si schierano contro Sánchez Corriere della Sera Tajani: 'I controlli restano fino al 15 agosto, rischio terrorismo' ANSA Ceuta, l'allarme dell'intelligence per il rischio terrorismo Il Fatto Quotidiano Ceuta militarizzata. Popolari e Vox grid",
+          "pubDate": "Mon, 10 Aug 2026 06:32:23 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Quinta ondata di caldo estremo in Gb, allerta siccità in due terzi dell'Inghilterra",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/10/quinta-ondata-di-caldo-estremo-in-gb-allerta-siccita-in-due-terzi-dellinghilterra_7c303264-cbd5-4bd8-86b2-80217314581c.html",
+          "description": "Si allarga ancora l'emergenza mentre gli incendi si moltiplicano. New Forest a rischio",
+          "pubDate": "Mon, 10 Aug 2026 19:05:20 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "record",
+      "n_items": 10,
+      "n_sources": 7,
+      "category": "general",
+      "score": 70,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "In 230 con un barchino raggiungono il Regno Unito attraverso la Manica, è record di migranti - AGI",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNVNmWC1EVjZCNDc0S1Y0YjUyYWVsWUVaUWtrZ2tUdDZNZmtiMGlGQnowQ25EWE5GOEZ4Um0zWnpWQ3hvWktGTXRsNmNVWWxMSWRvUnZRaWJvUzBfdXY5aXQxcDlldmh4czhqMWJQYXpYOE00RmhSemhjSld0R3JaNWxtejBZdw?oc=5",
+          "description": "In 230 con un barchino raggiungono il Regno Unito attraverso la Manica, è record di migranti AGI Nigel Farage vuole usare la Marina di Sua Maestà per bloccare i migranti nel Canale della Manica HuffPost Italia Migranti, sbarco record in Gran Bretagna: in 230 attraversano il Canale della Manica su una sola imbarcazione Il Messaggero Farage risponde alla linea dura di Burnham sui migranti, 'con noi ",
+          "pubDate": "Mon, 10 Aug 2026 11:12:36 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "World's oceans hit record-high July temperatures",
+          "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
+          "description": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.",
+          "pubDate": "Mon, 10 Aug 2026 10:24:46 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Confcommercio, i consumi superano il record del 2007, più tecnologia e tempo libero - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPX1hneDNUc2Excm54V1phWU04dkV6MmwyemhYRHdzbW9JZXlKdlQ1QjlVeENqcm8zd1ZtczFCT2hTWVpvTjdaOFRuUkFmektZZzBIRzB1TlJJcmx4ZVEwVmJHLTJ4cFlDWmdWWFpLUjRrdWFaaFJkVFdnMGtwOGkzNWljdUdJRDhGcmRJQlFIS0lnc09TS3Z1MVoxb2RxUzdLR1YtcWZkd2psTTFDRVl3dmdMZFlsWlZQV2V5cVprZEpWdHpoN3FPekFZUVZKZlBqY256bUpYUWk1bElqRzJmR3Q5M0s1VWtWSG9wUjE0VlZfcjJmTGdiWm5EMHRsMk3SAYQCQVVfeXFMTXViVE5NN2NUYnV3cWVTZkpHeEtvY25IVHlad1V6T2gyUS1rN2hXTkZYV3B4OHU1UFBtdkwtZmRJMFp4QUFEQklQY1FsbmJVN0lsRmdCa3ZkRkdscEdnNmVJMTFhQ2k3anNIRlJwaW9DSF8wakoyU21OTHk4b2pEdlJFSkxmNUJhQzRSTHpkbEtwdG90NC1pYVJ1M0NvRGlwMzk1MkVmTnA0ZGt4Q1RNRUIzZlZUWDdYZnVOVzQwaVQxaGx2a0VTSHg5Q2tLdkxPQTI3YkNEUGNTV0UzQnV3SjhwVUJmV3V4ZVhiZGhEMDlON3pjUjFpMDM0THNWWlc3ZF9kemY?oc=5",
+          "description": "Confcommercio, i consumi superano il record del 2007, più tecnologia e tempo libero ANSA I consumi oltre il record del 2007, più tecnologia e tempo libero ANSA Confcommercio:\"E' record per consumi famiglie\" RaiNews Famiglie: consumi oltre il picco del 2007 la Repubblica Pil: Confcommercio, stima +0,9% in 2026 con +1,2% consumi e inflazione a 2,7% Il Sole 24 ORE",
+          "pubDate": "Mon, 10 Aug 2026 08:48:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Condizionatori sempre accesi, bollette record: come risparmiare senza rinunciare al fresco - Il Messaggero",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdWFkNFpQenhHU1dLMmF0QWs1QW45ejU4NnNaamZJbE1yQjNOVXZaSmk3Q2ZMdTk4dHlsQVhpdnFJYVkyU0Z4aVl1Um94cVBfV2pycmxXZTkwQVllRGNKRDBMT0xfVUItNjZoR3M4cFJQM2FsQXZaSDQxZlhPWExvU1FtNzVjbGFRaHBQeGFOeHdxR3pCYmUxc1AyeE91NTBNR2xSWtIBqgFBVV95cUxOYTZZdHZPeGZuU0lfV0RKeTg5Wkd0UlNIdVJVaERWUllxNUFuOGRxVEx0STVqY3MyMkRHWlJfdmswMVNiQmRCdkE1NS04SmhPT0dnQ3dTU185N053MzNPSFVfMFRpVHB3Ny1VOUxDRXM3NzcxMVdZTzRaVEhjeFlwTmZFeEZDZ2ZXdWVnWjdNNVRsU1FrdUJjTGdDMWsxOE5makFYV1dSalRaQQ?oc=5",
+          "description": "Condizionatori sempre accesi, bollette record: come risparmiare senza rinunciare al fresco Il Messaggero Quanto ci costa dormire con il condizionatore (e il dolce inganno del deumidificatore). “Un grado in meno vale una colazione al bar in bolletta” Quotidiano Nazionale Borsa elettrica, prezzo medio acquisto in rialzo a 186,72 euro/MWh Borsa Italiana Guerre e condizionatori, l’estate di fuoco arri",
+          "pubDate": "Mon, 10 Aug 2026 21:24:30 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Mps, l’allarme dei sindacati: perché temono lo “smembramento” della banca - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMS1FZDVDSC1lQU9FV2pKY0ZNamkyUFZmSjQ0bE03QXFEbkUtZzZycy1vbGFjcjhwTHVPZjQ2ZURaRFdTNGtmQUdoclpRckVtY24wV3o1Qk1jbHBYSU80d0FDQXk3NWhmTDlkaVV1ekthLWh0MUxBdS1KMDR2QmpkcEUtUkZmNE53bmhNTWxheHE0dUsxS2ZDdVZuZ044OHJjNjk1Zmh4bVdfdHZENFFOaVlrNjBsbWdG?oc=5",
+          "description": "Mps, l’allarme dei sindacati: perché temono lo “smembramento” della banca SoldiOnline.it MPS: il valore dell’integrità del Gruppo FISAC CGIL NAZIONALE MPS, sindacati: \"il risanamento non è presupposto per lo smembramento della banca\" Borsa Italiana Mps, Giani: “Utile record conferma forza banca. Rafforzare Fondazione per futuro del Monte” Toscana Notizie Mps batte le attese, utile a 1,1 miliardi (",
+          "pubDate": "Mon, 10 Aug 2026 12:12:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "allerta",
+      "n_items": 9,
+      "n_sources": 7,
+      "category": "tech-ai",
+      "score": 69,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "“Assalto oggi a Melilla alle 18”. I marocchini si danno appuntamento per invadere l’altra exclave spagnola in Africa - il Giornale",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcHE1RzBHRkI0Vzd3RVVock9VMlhpVzV1OTZXT0tGTzlLdnUwRXhFeHlBTi1DX1pXbnAzbV9zS1RPQXJDbmtBdDhES1BpemwtUTFtTVI2TnMtdnRWcG5uMDZ0bWp0anBTYUhEX09aaHBnYjJRMjRoQVRkNU9FSmpXUUI3ZFRWUXUwdFR4Q3FMZnZ3UXpXNnR1SDdpQ3VsclRfT2s5S3hDM3hzaEV5MHBrVDNxcXE1Z0w4R2FjcjJjSjRMVkZHVDMyZmdLM0hDcEtOdUp4LVFuZFVMX1ZQS0pOWUw4bTNtU1RJVldsRmJqMWdKSmRCN1gxQzRJbw?oc=5",
+          "description": "“Assalto oggi a Melilla alle 18”. I marocchini si danno appuntamento per invadere l’altra exclave spagnola in Africa il Giornale Ceuta, cresce l'allerta su un'altra ondata. E ora i governi locali si schierano contro Sánchez Corriere della Sera Migranti, a Ceuta “rischio terrorismo”. Meloni: \"No a immigrazione incontrollata\" Sky TG24 Tajani: 'I controlli restano fino al 15 agosto, rischio terrorism",
+          "pubDate": "Mon, 10 Aug 2026 10:10:46 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Cina, allerta per il tifone Dolphin: evacuato oltre un milione di persone - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ3M4aWdSNm5mNW84ZWJ5cDZvXzZyZGFlOGYxZEJqS2RvNkxma2t6Q3BfanFOWW0zUjRLYXRXcktNRTJvNV9pQzQ3bkdDNTF3d2VjV3ZrWlVvY2NNTDVPdVRKRV95RDdXbjVMR0wwV0JOdnk1Y01Mb0doekkwMmxmNTc0SnI3NXl5N2NESldCR2FaenB6aEJR?oc=5",
+          "description": "Cina, allerta per il tifone Dolphin: evacuato oltre un milione di persone Il Fatto Quotidiano Il tifone Dolphin arriva in Cina: un milione di persone evacuate, un bambino è disperso Corriere della Sera Shanghai allagata per il tifone Dolphin, cancellati quasi mille voli ANSA Cina, stanziati 180 mln di yuan in aiuti per le aree colpite da tifone e siccità laprovinciacr.it Cina, allerta per il tifon",
+          "pubDate": "Mon, 10 Aug 2026 17:01:10 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Migranti, a Ceuta “rischio terrorismo”. Meloni: \"No a immigrazione incontrollata\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX21SSTg2Y216Snh6cDhxZWlaakRLbVJJOVpyTEJyYndtQjhIeUZvLTIwT3FlX0NzaTFmZjZ4QWJWYUt0a2xoemJNazNzLVRWZ01RNDdwMVZMRE9GTUYwQ0RzbmlxSzJlTFBfVjFLQzZyc1puSDE5NUdseEU2Ti05enJaeGxTNS13?oc=5",
+          "description": "Migranti, a Ceuta “rischio terrorismo”. Meloni: \"No a immigrazione incontrollata\" Sky TG24 Ceuta, cresce l'allerta su un'altra ondata. E ora i governi locali si schierano contro Sánchez Corriere della Sera Tajani: 'I controlli restano fino al 15 agosto, rischio terrorismo' ANSA Ceuta, l'allarme dell'intelligence per il rischio terrorismo Il Fatto Quotidiano Ceuta militarizzata. Popolari e Vox grid",
+          "pubDate": "Mon, 10 Aug 2026 06:32:23 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Oltre 130 morti nel terremoto che ha sconvolto la Colombia",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/11/oltre-130-morti-nel-terremoto-che-ha-sconvolto-la-colombia_b8993c64-8170-44cc-a748-df2f5a05150e.html",
+          "description": "Più di 570 i feriti, cinque città in allerta rossa, a Cali coprifuoco e militari",
+          "pubDate": "Tue, 11 Aug 2026 05:23:06 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Il caldo non molla l'Italia, risalgono i bollini rossi",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/italia-ancora-nella-morsa-del-caldo-domani-allerta-in-19-citta_ab22e81b-040c-48b1-b313-eebc405b12eb.html",
+          "description": "Martedì allerta in 20 città. Copernicus: 'Giugno e luglio più caldi di sempre in Europa'",
+          "pubDate": "Mon, 10 Aug 2026 19:26:56 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "tempo",
+      "n_items": 9,
+      "n_sources": 7,
+      "category": "tech-ai",
+      "score": 69,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "\"Dare spazio alle diplomazie per aprire la strada alla pace\" - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdW14TVY2ckczRTM0RkFDeTIzdWRERTNGLWVQYUpKUHNUQVJCMVdHa21OOGJLMGlicy1aRHlQYjR3cU8xdnVUTEZvNzZLMXk5QnpRdDhHdHpURV9NblZ5VHBwMktfNS0tSmxLUnlnRTF5MjBPTG9QQm9NZWQtMlRPOWhOa04yajJLZTBITExiUDFjcXR1U2U0?oc=5",
+          "description": "\"Dare spazio alle diplomazie per aprire la strada alla pace\" Il Fatto Quotidiano Il Papa: la guerra genera altra guerra, cessino da Russia e Ucraina gli attacchi sui civili Vatican News Nuovo appello del Papa: 'Basta violenze in Ucraina e Russia' ANSA Leone XIV: «La guerra genera altra guerra. Russia e Ucraina, basta attacchi sui civili» Avvenire Leone XIV: “Tempo di fermare la spirale di violenza",
+          "pubDate": "Sun, 09 Aug 2026 12:05:48 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Rimpatri, i dati che smontano i teoremi. Piantedosi: altri 128 in una settimana - Il Tempo",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZHVTNUFVQTJtRXB6TURxaXpOYll1RVJEUjVhT2RKVUlaUEU0dy15TVFCaC1pMUd0QW1qNTU4Q1ZleGI1dUtCQ1hSSmpiX3BWSHBvWm5IMWF5aUZsRTFvT2tMSVF0QU9JUVZBRm0yYzFIV1dxckJDUDVTYU9PZml2RkVjWGFWYS1ESGJ5VkRKa0ZUVWc2LXhFR0ZXNUwzWnAzRTM5T1RMY0R1bWlWMndmSXFQMjdVYUdEcm9CVmhPRWdrQnFDVzBXV1N2MTRBdw?oc=5",
+          "description": "Rimpatri, i dati che smontano i teoremi. Piantedosi: altri 128 in una settimana Il Tempo Sbarcati 17mila migranti in Italia, meno della metà degli ultimi 2 anni ANSA Nel Mediterraneo crollano gli arrivi ma crescono i morti RSI",
+          "pubDate": "Mon, 10 Aug 2026 08:56:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Judge Temporarily Blocks Mamdani’s Pied-à-Terre Tax - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYTA4MnNGaVNrdWxnYXRxcmtqWDZKVXVnRUhhQ3Q0czFZc2lrdnZYblpRMGY0MzBraFRCYUExcTFXN2I3cDVGVDJVLTJOSlJIZjlfQjg1Mlg4VE8wRUpkVlFYYnBLM1lCcm4wRE43SFFGa1lwU1VyWHhNUVlOUDZiMlhWOEhSRDZBemdvVDFTQ2I?oc=5",
+          "description": "Judge Temporarily Blocks Mamdani’s Pied-à-Terre Tax WSJ Judge’s Ruling on Second-Home Tax Deals Temporary Setback to Mamdani The New York Times New York City homeowners claim they're overpaying taxes: 'We want a refund' ABC7 New York Judge pauses pied-à-terre tax rollout after homeowners allege botched launch Crain's New York Business Mamdani’s luxury-home tax rollout derailed for now as judge del",
+          "pubDate": "Mon, 10 Aug 2026 22:18:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Confcommercio, i consumi superano il record del 2007, più tecnologia e tempo libero - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPX1hneDNUc2Excm54V1phWU04dkV6MmwyemhYRHdzbW9JZXlKdlQ1QjlVeENqcm8zd1ZtczFCT2hTWVpvTjdaOFRuUkFmektZZzBIRzB1TlJJcmx4ZVEwVmJHLTJ4cFlDWmdWWFpLUjRrdWFaaFJkVFdnMGtwOGkzNWljdUdJRDhGcmRJQlFIS0lnc09TS3Z1MVoxb2RxUzdLR1YtcWZkd2psTTFDRVl3dmdMZFlsWlZQV2V5cVprZEpWdHpoN3FPekFZUVZKZlBqY256bUpYUWk1bElqRzJmR3Q5M0s1VWtWSG9wUjE0VlZfcjJmTGdiWm5EMHRsMk3SAYQCQVVfeXFMTXViVE5NN2NUYnV3cWVTZkpHeEtvY25IVHlad1V6T2gyUS1rN2hXTkZYV3B4OHU1UFBtdkwtZmRJMFp4QUFEQklQY1FsbmJVN0lsRmdCa3ZkRkdscEdnNmVJMTFhQ2k3anNIRlJwaW9DSF8wakoyU21OTHk4b2pEdlJFSkxmNUJhQzRSTHpkbEtwdG90NC1pYVJ1M0NvRGlwMzk1MkVmTnA0ZGt4Q1RNRUIzZlZUWDdYZnVOVzQwaVQxaGx2a0VTSHg5Q2tLdkxPQTI3YkNEUGNTV0UzQnV3SjhwVUJmV3V4ZVhiZGhEMDlON3pjUjFpMDM0THNWWlc3ZF9kemY?oc=5",
+          "description": "Confcommercio, i consumi superano il record del 2007, più tecnologia e tempo libero ANSA I consumi oltre il record del 2007, più tecnologia e tempo libero ANSA Confcommercio:\"E' record per consumi famiglie\" RaiNews Famiglie: consumi oltre il picco del 2007 la Repubblica Pil: Confcommercio, stima +0,9% in 2026 con +1,2% consumi e inflazione a 2,7% Il Sole 24 ORE",
+          "pubDate": "Mon, 10 Aug 2026 08:48:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "L'indotto ex Ilva resta in mobilitazione e prepara i licenziamenti collettivi",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/lindotto-ex-ilva-resta-in-mobilitazione-e-prepara-i-licenziamenti-collettivi_0f5aadf2-3499-4aed-8834-0c0898ad1af5.html",
+          "description": "Le associazioni datoriali: \"Non c'è più tempo da perdrere\"",
+          "pubDate": "Mon, 10 Aug 2026 16:30:28 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "hormuz",
+      "n_items": 12,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 66,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa-Iran, le notizie in diretta | Trump: «L'intero Stretto di Hormuz è stato sminato. Abbiamo ancora le capacità per un'escalation». Yemen, l'Onu: rischio di un conflitto su larga scala - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPdDBjdWQ2U3MyWGptaEt1QVFxeDdxXzhDY2s2dG5VSlFtRGc5QXVMd0JtWDZkRzZrZU4wZkVoVnNJckxnUnI1X01rTHk4NGRTQTFlNjR6V2p4eHVzTlJhNFpaV3hRM0twZXNxb1pBdFhPNW1HeGEySkVQRGNRU3gwTFNNSnRtSE1DUDZGSG1wbE1YRl9RMmJRTnhJVGhWWmI0YkFMTTBYd0xsXzdnNXpxS0l1SEJvbm14bmxJMk5vekg0dzlnVE5HYWt2TVllR2daMVl1SFZZVnB0MV8zRDdoV2huN0Q2ZHhtU3RnSXR3LWZ3QjBxeTRHdjlhdGt0bDhMVXhhUXpIZ2VXZEtDU1pMS9IBlgJBVV95cUxOQ3Rrcl9iMnY4ekVnTTRxaUNsM1dfd2daWEFNS3VlNGlxbW8zY0EzbEhIalloUEdyN2pzNDZJVmJRN19LRWg5RXJPbzlJR1NOdUZKcDYyRkcwUnZiREtFbUdQa2hPc0RVNTFpWkl2MFRPVktHa0FXOUJQODJjNGUtR0VESTh3d2I0cE1hZkJkbjhRaVUyN0Zzc1RhZl92dUhPbHo4WTdnZVhkbVloTVJLNVJtZTV3ejUxY3ZTeHB4dDhwZkRZX1J4NDZ6OTlWMDYxcHBkNmV3UktteU15U3lJVFhpWm9kWF9YelhXUDRmcFBJUW13RXlMZlUtMDlmTG5fdUdGNDZjcXYzWi1OVVNIR3ItbGcwQQ?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Trump: «L'intero Stretto di Hormuz è stato sminato. Abbiamo ancora le capacità per un'escalation». Yemen, l'Onu: rischio di un conflitto su larga scala Corriere della Sera Minaccia di un attentato iraniano e Trump lasciò la Turchia a bordo di un volo militare straordinario la Repubblica",
+          "pubDate": "Tue, 11 Aug 2026 01:38:42 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Netanyahu non preoccupa Trump, 'il piano per Gaza tiene' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOemJ6QVFYZnhZODhIUVlPMmEwd3BXYWNiLVpNQ0VHWHA1NEVlbjB0NURrVXg2WFA4aVdkTktFcEcyZFA3U25TZFlfekQ2TkdIUGFuREMxQ1RRU3FsSlJiVXl1ZFJKVkkzVEtUSzhiS3NKc2VwM0dwRC1YWGhZYnozdVlET2loM2FZSFFWVkxrbWFaTXF3MDQwaURiQTNOaDZPemFnWktTV2hLUGFPNUZZdGZIRXJfUlJDWVAzdGFjckxIUDQ4WGRJRXB5MUV6UkxoaFR1QmFrR1NvNFJBc2fSAeMBQVVfeXFMUGVnNndGWFFTNldXNW1PcFFVVVVXZHdjMGdERWk1VW1PWTJPZ3B3VEdvbmliQm96SVBBMnc4SFJGNHRXdnZuX1JTMXNYMDctRGRUWVNsazYwcU5xZ0JHa1ZZNHVFWHRSTDlNZXBkRkdDM0ZaUjdZY1dWb0dIZXhUZE5MOWE0Uk04WXJKdXg4WkJCaVo3OVJRVEpFUDYxMXVWSmpPYTJLWVIxaFhVamg4UlRCMzlJSFBjSW0zQ0wtZzJwMy1OQVg2YVhPVGhKUS0tOExUM0tlQmxzTkFnYWxkRGFqNWs?oc=5",
+          "description": "Netanyahu non preoccupa Trump, 'il piano per Gaza tiene' ANSA Piano per Gaza, Trump cita Hillary Clinton: \"Nessuna alternativa\" Il Fatto Quotidiano Medio Oriente, media: 'Netanyahu dà una chance al piano per Gaza' ANSA Iran, Pezeshkian sette ore a colloquio con Khamenei | Trump: \"Sminato tutto Hormuz, possiamo ancora decapitare Teheran\" tgcom24.mediaset.it La scommessa di Bibi: per rivincere pugno",
+          "pubDate": "Mon, 10 Aug 2026 18:31:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "La mossa “artica” della Cina per aggirare Hormuz: riattivata la via della Seta Polare - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbjM3THF4MEJVSHRXSkpnOHVHWkM4TmtTYU5IclZ4cHdiNVJ6MzM2TVhhTWdRSjk3WGlKQjRldUJXaENJeFpsOHNKRlk3NzZXa2tBazBkZnBLLVRDRWZwekI1NlR0TVpVWERyNTdiWVZIMHAtWU1LNVpwQ1pVZ3l0X1dKUW9GYlQ3eHB0REtEeGZLMWo2MXQ4eXRoVnN1YmtLaTNxOWFUN29kaEVP0gGyAUFVX3lxTE9XYmg3T0lXMkNjZE4zcktybnJIRnVqbVc4M3h1cDY1QmlkNExDZ3dpN2JpUGNuem1fU3dIdHFONnVyU1BUbXU4RzNKNENSUG90LU0ydk9CTktTNlU1Ukd4OEJ5c242eEYzOGstN2Y3a204Wko1ZFN5cXNzZW84VWdtQlgtYmhYcVNfVm9PTE50RlVtSE4zcE80V2hNWHhzXzBMb3VxRG5YdzJyN0FuWVU0S0E?oc=5",
+          "description": "La mossa “artica” della Cina per aggirare Hormuz: riattivata la via della Seta Polare la Repubblica La Cina lancia la «Ice Silk Road», la nuova rotta dell'Artico che bypassa lo Stretto di Malacca: cos'è la Via della seta ghiacciata Corriere della Sera La Cina aggira gli Stretti e lancia il primo servizio di container artico La Stampa La Cina e la nuova rotta dell'Artico: l'alternativa strategica a",
+          "pubDate": "Mon, 10 Aug 2026 12:33:49 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra ultime notizie. Trump: «Abbiamo sminato l’intero stretto di Hormuz, lo controlliamo al 100% - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNWRmQ19tRnE4NjIwaEx5UnIwZW03YWpwVkdhd0xvTDU2bW82NGV2M1dTQlVGdzdVejVsRWRwOFVUSElmTDJ5bFowMUF0YllfNHdZaGhWUDN2VnZ3S1ZFOHdwWjNjT1h5TUFjaHpFWFlyaG5FSUF3eFp0ZVN4SVREejc4Qk5jX21nUEhnem1XemRFUWxTOUNWYkpuZFNBTWFQQmJJRWZVRFJIc2N4RDZKU2hjS1p2NlAtQURqYlF4SFVxRjVnaUlvcUM1SQ?oc=5",
+          "description": "Guerra ultime notizie. Trump: «Abbiamo sminato l’intero stretto di Hormuz, lo controlliamo al 100% Il Sole 24 ORE Trump: \"Ho le capacità per decapitare l'Iran. Hormuz aperto e sotto controllo Usa\" - Esercito israeliano bombarda colline nel sud del Libano RaiNews Guerra in Iran, le news di oggi. Trump: “Hormuz lo controlliamo noi. Lo abbiamo sminato” la Repubblica 'Oleodotto di Kharg completamente ",
+          "pubDate": "Mon, 10 Aug 2026 22:56:11 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump claims total control of Hormuz, demands Iran pay reparations as standoff deepens - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR1FEZVdBUzdSc3czbEpraXR5dWExdkY3LXhKelFBSmRNVkVhWVZOOUYxdWFPWGVDdWsyOGhqM3BEcks3N196Q3NWSXhaV1lDZE5jeE5mRWFqcTJibncwNzNmd3JzeTlrUkRGZ3dFWXFsbGVCSlhGRG5TeWVYOEhlRElHUlVkbDhWVTdVY3JKVXLSAZYBQVVfeXFMT3VnWE1jMWNkQ0cyY09YTW1kdXZZNTliWnRzWEk1b2M4SGVtc2RnRGtWa2hkYWxKZXZlSEhIdUcwR0M2cVVqVlR1U1AtVmd5X2pOb1U4MHhweFhsZFVhV1B2THdlc2JiQ0tJVldiOW9sVFlxTDJQd1Z6dXRIOXhCUnVPTlNFLVBON0dydjRBYVZ5OFNOVzFB?oc=5",
+          "description": "Trump claims total control of Hormuz, demands Iran pay reparations as standoff deepens CNBC Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation Al Jazeera Live Updates: Trump demands Iran pay compensation after Tehran makes conditions for reopening Strait of Hormuz CBS News Trump demands Iran pay compensation for decades of US soldier deaths The Guardian Trump demands Iran p",
+          "pubDate": "Tue, 11 Aug 2026 01:52:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "colombia",
+      "n_items": 10,
+      "n_sources": 6,
+      "category": "clima",
+      "score": 66,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Sisma Colombia, oltre cento i morti: numerosi edifici crollati - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LQkxIX0JnVHhuSWtWOENIVDhHOGVaSHhnSTRCNDVfZEJ6dkhUM2pDNnJlQk9FVEw4Q3lyUEZqeDRJNFNMcUoxM3ZVZjVWbENFejYyQTZVc3ZDMS1uQk9xaGl3aXMtVnBRS2hDVzBCQVRsdlVFeUlWUFNqckxuZw?oc=5",
+          "description": "Sisma Colombia, oltre cento i morti: numerosi edifici crollati Sky TG24 Violento terremoto in Colombia: oltre 120 morti, in tanti sotto le macerie ANSA I tanti danni del terremoto in Colombia ilpost.it Terremoto in Colombia, crollano la torre e la cupola della cattedrale di Manizales Il Fatto Quotidiano Sisma in Colombia, gli esperti: “Non c’è alcun collegamento con il terremoto del Venezuela” la ",
+          "pubDate": "Mon, 10 Aug 2026 21:47:19 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Terremoto in Colombia, scossa di magnitudo 6.8 - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tcmhHc3JBdVZxdmxWWW9KN0FYU2MyU3ZXWHNXaXlRNHRSZi12SFZpNTVRUkxDc2JOa1kyemMwd0lDNHdKb0VZdTF6VlZ6VENGaU1FSHNGTDhBRW82czlFOTJ2bXAwNGQ3R2R5RA?oc=5",
+          "description": "Terremoto in Colombia, scossa di magnitudo 6.8 Sky TG24 Violento terremoto in Colombia: oltre 120 morti, in tanti sotto le macerie ANSA I tanti danni del terremoto in Colombia ilpost.it Terremoto in Colombia, crollano la torre e la cupola della cattedrale di Manizales Il Fatto Quotidiano Sisma in Colombia, gli esperti: “Non c’è alcun collegamento con il terremoto del Venezuela” la Repubblica",
+          "pubDate": "Mon, 10 Aug 2026 12:52:24 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Live updates: Death toll rises to 132 following 7.4 magnitude earthquake in Colombia - CNN",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2E0OE5yZGJtT1ItYXF5SU9URXp2SzRFcWFIR0tvUmFFei1jcVFxUG4yVTZCb0F3N1hVZXMtalpjUEc0RmhNblhIN0F1ZXhJTHI1b3YyNnFmZE84T0FpWkdjdUVKWEVQb09MV0p2VllfYTJsVGpCMnk3WV9xdHM2dnJBWlc3ZExLSmp5SnlVUQ?oc=5",
+          "description": "Live updates: Death toll rises to 132 following 7.4 magnitude earthquake in Colombia CNN Magnitude 7.4 quake rocks western Colombia, killing at least 111 people NPR Colombia earthquake forces postponement of Conmebol, league games ESPN Colombia building collapses on camera as earthquake brings death, destruction Fox News Earthquake in Colombia: Queens Colombian community fear for loved ones safety",
+          "pubDate": "Tue, 11 Aug 2026 03:48:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Oltre 130 morti nel terremoto che ha sconvolto la Colombia",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/11/oltre-130-morti-nel-terremoto-che-ha-sconvolto-la-colombia_b8993c64-8170-44cc-a748-df2f5a05150e.html",
+          "description": "Più di 570 i feriti, cinque città in allerta rossa, a Cali coprifuoco e militari",
+          "pubDate": "Tue, 11 Aug 2026 05:23:06 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Terremoto in Colombia, il racconto dei minuti di terrore: 'Un boato spaventoso, poi l'inferno'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/10/il-racconto-dei-minuti-di-terrore-un-boato-spaventoso-poi-linferno_6272678d-b55e-459b-b495-1f0cb11c564f.html",
+          "description": "Le testimonianze dopo la scossa: 'Siamo abituati ai sisma ma questo è durato un'eternità'",
+          "pubDate": "Tue, 11 Aug 2026 05:19:38 +0200"
+        }
+      ],
+      "macro_area": "clima-salute"
+    },
+    {
+      "keyword": "italiana",
+      "n_items": 12,
+      "n_sources": 5,
+      "category": "general",
+      "score": 60,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-mondo",
+          "title": "In Messico slitta il varo della linea 3 del Mexicable, di costruzione italiana",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/11/in-messico-slitta-il-varo-della-linea-3-del-mexicable-di-costruzione-italiana_3ed3afb9-cdbe-41cb-9a0d-b9dbc0bcada9.html",
+          "description": "Modificato il tracciato per la sicurezza nazionale. Entrerà in funzione nel 2027",
+          "pubDate": "Tue, 11 Aug 2026 04:12:46 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borsa Milano gira in rialzo: Prysmian e Stm corrono, spread a 77 - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWtBeWJYX1FLVXZYdW1iWU1qYUdUSFBQTnZWRzJSeldKenhlZXdnN2JpdkZWc2lJTm1vakNWYkFvU2tZSUVDeS1hdjhFWHlNZlA5NnhLQ2h5Qmhkd2RmWUFQSkJYT0dyZTFaSWl1djRJYkpYRFRxVXFCOE1fNWFIemxlNzJxWUtHa19YNWFfNWt5NkZISEEwVzUtYUJFU05hd3RnR2czc1ZsNEpWSkM4LQ?oc=5",
+          "description": "Borsa Milano gira in rialzo: Prysmian e Stm corrono, spread a 77 SoldiOnline.it Mercati europei in stand-by Borsa Italiana Borse europee, avvio di settimana poco mosso. Sotto la lente le materie prime RaiNews Le Borse di oggi, 10 agosto. Mercati in attesa di schiarite su Hormuz, balzo del petrolio la Repubblica Borsa: Milano si riporta in parità, balzo di Prysmian, giù Diasorin ANSA",
+          "pubDate": "Mon, 10 Aug 2026 12:12:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Caro-carburanti a Modena: i prezzi non calano e in Appennino scatta il salasso - ModenaToday",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWnBHMzBNcEhKT0FGX1ROMUp3TnpCWnlmbHFUOS0xbmFMSjc1TVIycS1Db3dPRFhET3ptazhFb3k5RnRwMElscUZjb0pUNUlvTmt0aXNfT0JHQUl6NWJCR3UwQjUzbHZjcnRKdXJ2MVNhMThPdEhkREYwc2F0el9fR3FXNTRDbzVfT1gzdDRmMlctSlBV?oc=5",
+          "description": "Caro-carburanti a Modena: i prezzi non calano e in Appennino scatta il salasso ModenaToday Carburanti: su primo esodo estivo si abbatte stangata da 370 milioni euro Borsa Italiana Continua la lenta discesa di benzina e gasolio | Quattroruote.it quattroruote.it Carburanti, i prezzi di benzina, diesel, Gpl e metano il 10 agosto auto.it Caro carburanti: «Sanzionare chi specula sul gasolio» laprovinci",
+          "pubDate": "Mon, 10 Aug 2026 09:50:57 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Il paradosso energetico italiano: riserve piene, bollette ai massimi - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQY2xXUWs5RjdwWFd5TjFjblJmOWVWbmlMNFdpUWUySUpSeXVoOEo1WWkzbk5sOUZCRkF1QmNqaWtERmtIb1RHQVZHSUlyZ2hqU2FzOHNnRUhvTHY3XzBTUG9rRWRQdnpHWlIwRWpRY2lFOUtQOFhGLVJxWEJ1N085QTJpNnRxWWh1VDJvb0xEemN3cE1CeDVoaGo2eU5GVGhOSzlXQk1BUnF3S1o0MlJsaUlzOGJuN1llZDV4NEdycEZmdnJCZ2p3VklqWENBUVF6OGxTV2lLV1BETVQzelVqek1R0gHnAUFVX3lxTE1KcVhMV2p6NklYN2VDdmdvTXhhbUZDR2VrV3kzaGk4UGszQkYwcHU1ekdjSmRiWnJzbEpXU2ZNTEdwam1hRmxQNjY1YzIyaERIYlVmYzRuRS1wWVN3d1lpNjF3cE1HUmVnY256MkFBSEpSUHYzWWFuY213c0NrOTZQeGZGY1pDMTU5VXhYTG1kdDhxZTFqeFdvMktLaV91SkdSZ2hkWlZ3dTBnWHh3cmlWczIwN3pYYW9maHloaEoxdlRvWmFoS1BWR1VORmNhdk1aYndPMHJFcmd2WFhZUDNlWU9fbVFudw?oc=5",
+          "description": "Il paradosso energetico italiano: riserve piene, bollette ai massimi RaiNews Natural Gas (Amsterdam) a 61,69 euro per Megawatt-Ora alle 19:30 Borsa Italiana Il gas si attesta a 56,7 euro sulla piazza Ttf di Amsterdam ANSA Il gas europeo rimbalza mentre l’incertezza su Hormuz pesa sulle forniture Yahoo Finanza Gas, future europei +10%: perché il Ttf è tornato sopra 61 euro SoldiOnline.it",
+          "pubDate": "Mon, 10 Aug 2026 15:20:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "'Basket Bond Emilia-Romagna', continua programma Bper- Cdp - Il Tirreno",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPckJacG9LN1RzZ0lHWlZLRW1ZMFpuY0l6YXVielRPVXRIMVp1aXl5LTduMTRlWmtseDNCN3Y1TElxLXg2eG1rUnllT2p2MUtMaVFyTlZ2Yy1Xc1AyTmx1UmlEMTRFbnJmOThOZXpIWnlYMTV2WnlJNDAzVTMyWkh2TVFva2Y5Q2ZzTTREUUhPeUQ4cndFdmxPeWZqVXRQZHNEVmx0SzVwS1RrRXFGSkpoT3o0TmMzSVEta005VDBacy1zcUhE?oc=5",
+          "description": "'Basket Bond Emilia-Romagna', continua programma Bper- Cdp Il Tirreno Ecogest, nuovo bond da 3 milioni per accelerare espansione in Nord America Borsa Italiana 'Basket Bond Emilia-Romagna', continua programma Bper- Cdp﻿ Adnkronos Ecogest, nuovo bond da 3 milioni per spingere l’espansione in Nord America SoldiOnline.it Ecogest emette nuovo bond da 3 milioni di euro ANSA",
+          "pubDate": "Mon, 10 Aug 2026 12:40:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "morti",
+      "n_items": 9,
+      "n_sources": 5,
+      "category": "clima",
+      "score": 51,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Sisma Colombia, oltre cento i morti: numerosi edifici crollati - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LQkxIX0JnVHhuSWtWOENIVDhHOGVaSHhnSTRCNDVfZEJ6dkhUM2pDNnJlQk9FVEw4Q3lyUEZqeDRJNFNMcUoxM3ZVZjVWbENFejYyQTZVc3ZDMS1uQk9xaGl3aXMtVnBRS2hDVzBCQVRsdlVFeUlWUFNqckxuZw?oc=5",
+          "description": "Sisma Colombia, oltre cento i morti: numerosi edifici crollati Sky TG24 Violento terremoto in Colombia: oltre 120 morti, in tanti sotto le macerie ANSA I tanti danni del terremoto in Colombia ilpost.it Terremoto in Colombia, crollano la torre e la cupola della cattedrale di Manizales Il Fatto Quotidiano Sisma in Colombia, gli esperti: “Non c’è alcun collegamento con il terremoto del Venezuela” la ",
+          "pubDate": "Mon, 10 Aug 2026 21:47:19 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Mosca accusa: 'Strage ucraina, Zelensky vuole solo la guerra' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU3hHMVdzazRWX2ozZW4zUW9MSHhQcTYwYVZHM0dNUEhxTUNEM0o5MDF3Sl9IcUxoTXhEU1RNMHFSMGtfZ1prb3NiVHFCcHBaVC11aE1pQUt0cGxzcm5ua2s4MjBSNmNsZjNDZmV4bjktRmtyQ2NtdzMtY1p4UldPRWktSUY2dTItS0FGenNWNm9ycDdqd252eDBQYjNlQnprX0hFWEV3Q1F0SkdzTVRRdzdqZlltVWhJdmZ2Z2NfbEZQUWJxWVEzNnBPMXdkWnNOYmdKZ21TaEHSAd4BQVVfeXFMTkR6N25GcU5IeEYwVld4QmZwWnlaTWFUYXo3RkRpYS1RMUNjVHM2THppMmxhaGVnTkRtb3VVRlJWMXBZYkdDZGM0UHZETHpRdmw4U3Fia3RlcE5FYWo0eENvdVpZREFYQ25TR0UxM2dqMFNwMEhxZWdoRjhvek1kd2dCaXJvN0FCZjhYWHFOSmJzcVNJWXhIXzVhckQzYlZ3NDF4U2pMUVRXWGNicU4tckRDbFUzcE95QXA2aWZSQjRTd3hmSUhONXFaNEZWakRLZnBzUTg1NEJPQmIzeDVR?oc=5",
+          "description": "Mosca accusa: 'Strage ucraina, Zelensky vuole solo la guerra' ANSA Kiev rivendica: \"Colpita raffineria in Tatarstan\". Russia: \"13 morti, è un crimine di guerra\" - L'Austria smantella un sistema di elusione delle sanzioni a favore dell'industria bellica russa RaiNews Almeno 13 persone sono state uccise in un attacco ucraino con droni in Russia, mille chilometri a est di Mosca ilpost.it Raid ucraini",
+          "pubDate": "Tue, 11 Aug 2026 03:28:28 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Drone russo bombarda lo stabilmento di Bottega in Ucraina: «Seconda volta in 2 anni» - TrevisoToday",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdFBHaVJWLVpGaXlsRTBBMlU4VEVFMU1mUU1oYjVlUFYwaThRSi1Eb2pRNTRjRXFCVkNoaHFaWGxldFd4MWFuRFlzc1FKNTFZdHRLMFJJb20xNEJ6aWs3emN6QVB6OWxqSUdHUXdzV2VJV0lHYWt2bmNLWEstemZUX3kzODZpTGFTM2tGM0FINHRFc3YtcWVDd3dDeEp4VG9Yd21xZnFJYnZ3QQ?oc=5",
+          "description": "Drone russo bombarda lo stabilmento di Bottega in Ucraina: «Seconda volta in 2 anni» TrevisoToday Le notizie di lunedì 10 agosto sulla guerra Ucraina-Russia Corriere della Sera Missili russi su Zaporizhzhia nellla notte, cinque morti e 20 feriti. Attaccata anche Kiev ANSA Ucraina, nuovi raid russi: sotto attacco Kharkhiv, Odessa e Sumy Vatican News Forti esplosioni scuotono Kiev e Zaporizhzhia, al",
+          "pubDate": "Sun, 09 Aug 2026 15:45:55 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Terremoto in Colombia, scossa di magnitudo 6.8 - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tcmhHc3JBdVZxdmxWWW9KN0FYU2MyU3ZXWHNXaXlRNHRSZi12SFZpNTVRUkxDc2JOa1kyemMwd0lDNHdKb0VZdTF6VlZ6VENGaU1FSHNGTDhBRW82czlFOTJ2bXAwNGQ3R2R5RA?oc=5",
+          "description": "Terremoto in Colombia, scossa di magnitudo 6.8 Sky TG24 Violento terremoto in Colombia: oltre 120 morti, in tanti sotto le macerie ANSA I tanti danni del terremoto in Colombia ilpost.it Terremoto in Colombia, crollano la torre e la cupola della cattedrale di Manizales Il Fatto Quotidiano Sisma in Colombia, gli esperti: “Non c’è alcun collegamento con il terremoto del Venezuela” la Repubblica",
+          "pubDate": "Mon, 10 Aug 2026 12:52:24 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Rimpatri, i dati che smontano i teoremi. Piantedosi: altri 128 in una settimana - Il Tempo",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZHVTNUFVQTJtRXB6TURxaXpOYll1RVJEUjVhT2RKVUlaUEU0dy15TVFCaC1pMUd0QW1qNTU4Q1ZleGI1dUtCQ1hSSmpiX3BWSHBvWm5IMWF5aUZsRTFvT2tMSVF0QU9JUVZBRm0yYzFIV1dxckJDUDVTYU9PZml2RkVjWGFWYS1ESGJ5VkRKa0ZUVWc2LXhFR0ZXNUwzWnAzRTM5T1RMY0R1bWlWMndmSXFQMjdVYUdEcm9CVmhPRWdrQnFDVzBXV1N2MTRBdw?oc=5",
+          "description": "Rimpatri, i dati che smontano i teoremi. Piantedosi: altri 128 in una settimana Il Tempo Sbarcati 17mila migranti in Italia, meno della metà degli ultimi 2 anni ANSA Nel Mediterraneo crollano gli arrivi ma crescono i morti RSI",
+          "pubDate": "Mon, 10 Aug 2026 08:56:00 GMT"
+        }
+      ],
+      "macro_area": "clima-salute"
+    },
+    {
+      "keyword": "iran",
+      "n_items": 10,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "score": 46,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa-Iran, le notizie in diretta | Trump: «L'intero Stretto di Hormuz è stato sminato. Abbiamo ancora le capacità per un'escalation». Yemen, l'Onu: rischio di un conflitto su larga scala - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPdDBjdWQ2U3MyWGptaEt1QVFxeDdxXzhDY2s2dG5VSlFtRGc5QXVMd0JtWDZkRzZrZU4wZkVoVnNJckxnUnI1X01rTHk4NGRTQTFlNjR6V2p4eHVzTlJhNFpaV3hRM0twZXNxb1pBdFhPNW1HeGEySkVQRGNRU3gwTFNNSnRtSE1DUDZGSG1wbE1YRl9RMmJRTnhJVGhWWmI0YkFMTTBYd0xsXzdnNXpxS0l1SEJvbm14bmxJMk5vekg0dzlnVE5HYWt2TVllR2daMVl1SFZZVnB0MV8zRDdoV2huN0Q2ZHhtU3RnSXR3LWZ3QjBxeTRHdjlhdGt0bDhMVXhhUXpIZ2VXZEtDU1pMS9IBlgJBVV95cUxOQ3Rrcl9iMnY4ekVnTTRxaUNsM1dfd2daWEFNS3VlNGlxbW8zY0EzbEhIalloUEdyN2pzNDZJVmJRN19LRWg5RXJPbzlJR1NOdUZKcDYyRkcwUnZiREtFbUdQa2hPc0RVNTFpWkl2MFRPVktHa0FXOUJQODJjNGUtR0VESTh3d2I0cE1hZkJkbjhRaVUyN0Zzc1RhZl92dUhPbHo4WTdnZVhkbVloTVJLNVJtZTV3ejUxY3ZTeHB4dDhwZkRZX1J4NDZ6OTlWMDYxcHBkNmV3UktteU15U3lJVFhpWm9kWF9YelhXUDRmcFBJUW13RXlMZlUtMDlmTG5fdUdGNDZjcXYzWi1OVVNIR3ItbGcwQQ?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Trump: «L'intero Stretto di Hormuz è stato sminato. Abbiamo ancora le capacità per un'escalation». Yemen, l'Onu: rischio di un conflitto su larga scala Corriere della Sera Minaccia di un attentato iraniano e Trump lasciò la Turchia a bordo di un volo militare straordinario la Repubblica",
+          "pubDate": "Tue, 11 Aug 2026 01:38:42 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Netanyahu non preoccupa Trump, 'il piano per Gaza tiene' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOemJ6QVFYZnhZODhIUVlPMmEwd3BXYWNiLVpNQ0VHWHA1NEVlbjB0NURrVXg2WFA4aVdkTktFcEcyZFA3U25TZFlfekQ2TkdIUGFuREMxQ1RRU3FsSlJiVXl1ZFJKVkkzVEtUSzhiS3NKc2VwM0dwRC1YWGhZYnozdVlET2loM2FZSFFWVkxrbWFaTXF3MDQwaURiQTNOaDZPemFnWktTV2hLUGFPNUZZdGZIRXJfUlJDWVAzdGFjckxIUDQ4WGRJRXB5MUV6UkxoaFR1QmFrR1NvNFJBc2fSAeMBQVVfeXFMUGVnNndGWFFTNldXNW1PcFFVVVVXZHdjMGdERWk1VW1PWTJPZ3B3VEdvbmliQm96SVBBMnc4SFJGNHRXdnZuX1JTMXNYMDctRGRUWVNsazYwcU5xZ0JHa1ZZNHVFWHRSTDlNZXBkRkdDM0ZaUjdZY1dWb0dIZXhUZE5MOWE0Uk04WXJKdXg4WkJCaVo3OVJRVEpFUDYxMXVWSmpPYTJLWVIxaFhVamg4UlRCMzlJSFBjSW0zQ0wtZzJwMy1OQVg2YVhPVGhKUS0tOExUM0tlQmxzTkFnYWxkRGFqNWs?oc=5",
+          "description": "Netanyahu non preoccupa Trump, 'il piano per Gaza tiene' ANSA Piano per Gaza, Trump cita Hillary Clinton: \"Nessuna alternativa\" Il Fatto Quotidiano Medio Oriente, media: 'Netanyahu dà una chance al piano per Gaza' ANSA Iran, Pezeshkian sette ore a colloquio con Khamenei | Trump: \"Sminato tutto Hormuz, possiamo ancora decapitare Teheran\" tgcom24.mediaset.it La scommessa di Bibi: per rivincere pugno",
+          "pubDate": "Mon, 10 Aug 2026 18:31:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra ultime notizie. Trump: «Abbiamo sminato l’intero stretto di Hormuz, lo controlliamo al 100% - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNWRmQ19tRnE4NjIwaEx5UnIwZW03YWpwVkdhd0xvTDU2bW82NGV2M1dTQlVGdzdVejVsRWRwOFVUSElmTDJ5bFowMUF0YllfNHdZaGhWUDN2VnZ3S1ZFOHdwWjNjT1h5TUFjaHpFWFlyaG5FSUF3eFp0ZVN4SVREejc4Qk5jX21nUEhnem1XemRFUWxTOUNWYkpuZFNBTWFQQmJJRWZVRFJIc2N4RDZKU2hjS1p2NlAtQURqYlF4SFVxRjVnaUlvcUM1SQ?oc=5",
+          "description": "Guerra ultime notizie. Trump: «Abbiamo sminato l’intero stretto di Hormuz, lo controlliamo al 100% Il Sole 24 ORE Trump: \"Ho le capacità per decapitare l'Iran. Hormuz aperto e sotto controllo Usa\" - Esercito israeliano bombarda colline nel sud del Libano RaiNews Guerra in Iran, le news di oggi. Trump: “Hormuz lo controlliamo noi. Lo abbiamo sminato” la Repubblica 'Oleodotto di Kharg completamente ",
+          "pubDate": "Mon, 10 Aug 2026 22:56:11 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZFQ4RWFKS1pmY3Nha1Nad3NLd1lIVzU3aTRLM1pkZXFoWjN0R1RyQjdENDdaYmR5dlhFcWZRT0IybEFsdkxkY3k3TU96UEw0cWd4STlXSy1xVnV4QVdrV0dPWWVLZFh4dnlMaHF2eHBsQS1GaFNsa3lGVGtYOE9kOHFsbmpJdw?oc=5",
+          "description": "Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports The Guardian Contradicting public statements, Trump took secret flight from Turkey amid Iranian threat The Washington Post Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats The New York Times Trump used elaborate ruse to fly out of Turkey following summit because of Iran threat, report s",
+          "pubDate": "Tue, 11 Aug 2026 02:29:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump claims total control of Hormuz, demands Iran pay reparations as standoff deepens - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR1FEZVdBUzdSc3czbEpraXR5dWExdkY3LXhKelFBSmRNVkVhWVZOOUYxdWFPWGVDdWsyOGhqM3BEcks3N196Q3NWSXhaV1lDZE5jeE5mRWFqcTJibncwNzNmd3JzeTlrUkRGZ3dFWXFsbGVCSlhGRG5TeWVYOEhlRElHUlVkbDhWVTdVY3JKVXLSAZYBQVVfeXFMT3VnWE1jMWNkQ0cyY09YTW1kdXZZNTliWnRzWEk1b2M4SGVtc2RnRGtWa2hkYWxKZXZlSEhIdUcwR0M2cVVqVlR1U1AtVmd5X2pOb1U4MHhweFhsZFVhV1B2THdlc2JiQ0tJVldiOW9sVFlxTDJQd1Z6dXRIOXhCUnVPTlNFLVBON0dydjRBYVZ5OFNOVzFB?oc=5",
+          "description": "Trump claims total control of Hormuz, demands Iran pay reparations as standoff deepens CNBC Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation Al Jazeera Live Updates: Trump demands Iran pay compensation after Tehran makes conditions for reopening Strait of Hormuz CBS News Trump demands Iran pay compensation for decades of US soldier deaths The Guardian Trump demands Iran p",
+          "pubDate": "Tue, 11 Aug 2026 01:52:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "terremoto",
+      "n_items": 9,
+      "n_sources": 4,
+      "category": "clima",
+      "score": 42,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Sisma Colombia, oltre cento i morti: numerosi edifici crollati - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LQkxIX0JnVHhuSWtWOENIVDhHOGVaSHhnSTRCNDVfZEJ6dkhUM2pDNnJlQk9FVEw4Q3lyUEZqeDRJNFNMcUoxM3ZVZjVWbENFejYyQTZVc3ZDMS1uQk9xaGl3aXMtVnBRS2hDVzBCQVRsdlVFeUlWUFNqckxuZw?oc=5",
+          "description": "Sisma Colombia, oltre cento i morti: numerosi edifici crollati Sky TG24 Violento terremoto in Colombia: oltre 120 morti, in tanti sotto le macerie ANSA I tanti danni del terremoto in Colombia ilpost.it Terremoto in Colombia, crollano la torre e la cupola della cattedrale di Manizales Il Fatto Quotidiano Sisma in Colombia, gli esperti: “Non c’è alcun collegamento con il terremoto del Venezuela” la ",
+          "pubDate": "Mon, 10 Aug 2026 21:47:19 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Trema ancora la terra nei Campi Flegrei, scossa di magnitudo 3.0 - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPclVjdC1Kd2o3ZUFuUVpJOFowYmVFUl94Z1R5V2lXNzB6NFhqSVBBT1RnQnRCSlc4dXFoMGZVN2s3S2pQTWJxSG1BZl84NEhVU2JmdFBDWFRRX1d2Mzh2QURlSXhrZllOWThKV1JoOHBCaFpIVENNa2NFNGpReGNLUlV4TTlLc0c5SmowQ1dqOEtIX3hMQjhUMENiRE8wenk1WTZQQzBTLTF2REtGSU9RZFZGY3lXOUVGZ0F1QkVnWm5tT3g4c0V6UVQ5S0lWVklWM1N4T2I1NTl3bDdLZmRpYlR3NW02ZnRnbkpqMDJhV2JVSFNKMXlmMzN0TGJhUDEtOWpCSWNYQlFyQnJ3alHSAZMCQVVfeXFMUGk5eGxGc0txR1pvOEZfc1NPbzZnM2MxazNUSGw4bFZFdW1Fc0RNeDRhbFR3dE4xT1hEeWozY1pZUHpfeGpfdlpxUElwSmJoX1NoT2YyTE1LQjVTV0d5TWJYVVhlSV84dlg5Q0szMTBkbGJzNXV4dWEwNUtrX3A1NGs2MjdjUHFjZzB2Z2E4dzdMcjhBT2FvOEhOMnhHN2lleF9pQW9oTXlPWmVJdEVyUWF6R3NzLUEwMF9GWUdjZVpCanpUZzJJUVRIWEU1MjF2aEY5TnVIUlo3dXRGOGlpN3RSMV8yUy0tdkx3OFRYX19Kb1ZFdjlpX210S0YyeW9TZ1NfRW5NMDhaZmFTU1dTS3pTa0k?oc=5",
+          "description": "Trema ancora la terra nei Campi Flegrei, scossa di magnitudo 3.0 ANSA Pozzuoli, 2288 sfollati e 131 edifici evacuati RaiNews Terremoto Campi Flegrei, scossa di magnitudo 3 nella notte a Pozzuoli Sky TG24 Pozzuoli, appello dei parroci:“Stop speculazioni sugli affitti” la Repubblica Nuova scossa ai Campi Flegrei, magnitudo 3.0: oltre 2.200 persone ancora fuori casa Il Fatto Quotidiano",
+          "pubDate": "Mon, 10 Aug 2026 11:56:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Terremoto in Colombia, scossa di magnitudo 6.8 - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tcmhHc3JBdVZxdmxWWW9KN0FYU2MyU3ZXWHNXaXlRNHRSZi12SFZpNTVRUkxDc2JOa1kyemMwd0lDNHdKb0VZdTF6VlZ6VENGaU1FSHNGTDhBRW82czlFOTJ2bXAwNGQ3R2R5RA?oc=5",
+          "description": "Terremoto in Colombia, scossa di magnitudo 6.8 Sky TG24 Violento terremoto in Colombia: oltre 120 morti, in tanti sotto le macerie ANSA I tanti danni del terremoto in Colombia ilpost.it Terremoto in Colombia, crollano la torre e la cupola della cattedrale di Manizales Il Fatto Quotidiano Sisma in Colombia, gli esperti: “Non c’è alcun collegamento con il terremoto del Venezuela” la Repubblica",
+          "pubDate": "Mon, 10 Aug 2026 12:52:24 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Oltre 130 morti nel terremoto che ha sconvolto la Colombia",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/11/oltre-130-morti-nel-terremoto-che-ha-sconvolto-la-colombia_b8993c64-8170-44cc-a748-df2f5a05150e.html",
+          "description": "Più di 570 i feriti, cinque città in allerta rossa, a Cali coprifuoco e militari",
+          "pubDate": "Tue, 11 Aug 2026 05:23:06 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Terremoto in Colombia, il racconto dei minuti di terrore: 'Un boato spaventoso, poi l'inferno'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/10/il-racconto-dei-minuti-di-terrore-un-boato-spaventoso-poi-linferno_6272678d-b55e-459b-b495-1f0cb11c564f.html",
+          "description": "Le testimonianze dopo la scossa: 'Siamo abituati ai sisma ma questo è durato un'eternità'",
+          "pubDate": "Tue, 11 Aug 2026 05:19:38 +0200"
+        }
+      ],
+      "macro_area": "clima-salute"
+    },
+    {
+      "keyword": "borsa",
+      "n_items": 11,
+      "n_sources": 2,
+      "category": "economia",
+      "score": 28,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Borsa Milano gira in rialzo: Prysmian e Stm corrono, spread a 77 - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWtBeWJYX1FLVXZYdW1iWU1qYUdUSFBQTnZWRzJSeldKenhlZXdnN2JpdkZWc2lJTm1vakNWYkFvU2tZSUVDeS1hdjhFWHlNZlA5NnhLQ2h5Qmhkd2RmWUFQSkJYT0dyZTFaSWl1djRJYkpYRFRxVXFCOE1fNWFIemxlNzJxWUtHa19YNWFfNWt5NkZISEEwVzUtYUJFU05hd3RnR2czc1ZsNEpWSkM4LQ?oc=5",
+          "description": "Borsa Milano gira in rialzo: Prysmian e Stm corrono, spread a 77 SoldiOnline.it Mercati europei in stand-by Borsa Italiana Borse europee, avvio di settimana poco mosso. Sotto la lente le materie prime RaiNews Le Borse di oggi, 10 agosto. Mercati in attesa di schiarite su Hormuz, balzo del petrolio la Repubblica Borsa: Milano si riporta in parità, balzo di Prysmian, giù Diasorin ANSA",
+          "pubDate": "Mon, 10 Aug 2026 12:12:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Piazza Affari chiude in lieve calo: Ftse Mib -0,1%, brillano Eni e Stellantis - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSE90WWJ1UlFENzg3N1BJUk5KRUpnX3c5MWZFY1ZtRWlWcUpZeFpaVVU1VTR5VjhYTmxUdzZ4MzhQeXVUQy1UcmlsVFdUUEdHVGQzZzBucFp0SEhpbmtUd0plSERjQ3NrbEl1Smw4U1dqdUh2ZURsblMwWDdPRnIzRkdqQU1XR2k0VnJSSTFJaVNZeXdFX1FmWkREWmtuSlJGUnhTUW5IR3FzNlIzOUstUm5pc0Y0R1U4bTFUYlR3?oc=5",
+          "description": "Piazza Affari chiude in lieve calo: Ftse Mib -0,1%, brillano Eni e Stellantis SoldiOnline.it Borse oggi in diretta | Piazza Affari chiude quasi invariata (-0,1%): pesa l’incertezza in Medio Oriente. Bene Stellantis, Saipem ed Eni milanofinanza.it Borsa Milano vira in rosso: Ftse Mib -0,15%, sprint Tisg e Stm SoldiOnline.it Borsa: Milano chiude in calo, Ftse Mib -0,1% ANSA Borsa: Milano gira subito",
+          "pubDate": "Mon, 10 Aug 2026 16:01:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Caro-carburanti a Modena: i prezzi non calano e in Appennino scatta il salasso - ModenaToday",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWnBHMzBNcEhKT0FGX1ROMUp3TnpCWnlmbHFUOS0xbmFMSjc1TVIycS1Db3dPRFhET3ptazhFb3k5RnRwMElscUZjb0pUNUlvTmt0aXNfT0JHQUl6NWJCR3UwQjUzbHZjcnRKdXJ2MVNhMThPdEhkREYwc2F0el9fR3FXNTRDbzVfT1gzdDRmMlctSlBV?oc=5",
+          "description": "Caro-carburanti a Modena: i prezzi non calano e in Appennino scatta il salasso ModenaToday Carburanti: su primo esodo estivo si abbatte stangata da 370 milioni euro Borsa Italiana Continua la lenta discesa di benzina e gasolio | Quattroruote.it quattroruote.it Carburanti, i prezzi di benzina, diesel, Gpl e metano il 10 agosto auto.it Caro carburanti: «Sanzionare chi specula sul gasolio» laprovinci",
+          "pubDate": "Mon, 10 Aug 2026 09:50:57 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Il paradosso energetico italiano: riserve piene, bollette ai massimi - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQY2xXUWs5RjdwWFd5TjFjblJmOWVWbmlMNFdpUWUySUpSeXVoOEo1WWkzbk5sOUZCRkF1QmNqaWtERmtIb1RHQVZHSUlyZ2hqU2FzOHNnRUhvTHY3XzBTUG9rRWRQdnpHWlIwRWpRY2lFOUtQOFhGLVJxWEJ1N085QTJpNnRxWWh1VDJvb0xEemN3cE1CeDVoaGo2eU5GVGhOSzlXQk1BUnF3S1o0MlJsaUlzOGJuN1llZDV4NEdycEZmdnJCZ2p3VklqWENBUVF6OGxTV2lLV1BETVQzelVqek1R0gHnAUFVX3lxTE1KcVhMV2p6NklYN2VDdmdvTXhhbUZDR2VrV3kzaGk4UGszQkYwcHU1ekdjSmRiWnJzbEpXU2ZNTEdwam1hRmxQNjY1YzIyaERIYlVmYzRuRS1wWVN3d1lpNjF3cE1HUmVnY256MkFBSEpSUHYzWWFuY213c0NrOTZQeGZGY1pDMTU5VXhYTG1kdDhxZTFqeFdvMktLaV91SkdSZ2hkWlZ3dTBnWHh3cmlWczIwN3pYYW9maHloaEoxdlRvWmFoS1BWR1VORmNhdk1aYndPMHJFcmd2WFhZUDNlWU9fbVFudw?oc=5",
+          "description": "Il paradosso energetico italiano: riserve piene, bollette ai massimi RaiNews Natural Gas (Amsterdam) a 61,69 euro per Megawatt-Ora alle 19:30 Borsa Italiana Il gas si attesta a 56,7 euro sulla piazza Ttf di Amsterdam ANSA Il gas europeo rimbalza mentre l’incertezza su Hormuz pesa sulle forniture Yahoo Finanza Gas, future europei +10%: perché il Ttf è tornato sopra 61 euro SoldiOnline.it",
+          "pubDate": "Mon, 10 Aug 2026 15:20:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "'Basket Bond Emilia-Romagna', continua programma Bper- Cdp - Il Tirreno",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPckJacG9LN1RzZ0lHWlZLRW1ZMFpuY0l6YXVielRPVXRIMVp1aXl5LTduMTRlWmtseDNCN3Y1TElxLXg2eG1rUnllT2p2MUtMaVFyTlZ2Yy1Xc1AyTmx1UmlEMTRFbnJmOThOZXpIWnlYMTV2WnlJNDAzVTMyWkh2TVFva2Y5Q2ZzTTREUUhPeUQ4cndFdmxPeWZqVXRQZHNEVmx0SzVwS1RrRXFGSkpoT3o0TmMzSVEta005VDBacy1zcUhE?oc=5",
+          "description": "'Basket Bond Emilia-Romagna', continua programma Bper- Cdp Il Tirreno Ecogest, nuovo bond da 3 milioni per accelerare espansione in Nord America Borsa Italiana 'Basket Bond Emilia-Romagna', continua programma Bper- Cdp﻿ Adnkronos Ecogest, nuovo bond da 3 milioni per spingere l’espansione in Nord America SoldiOnline.it Ecogest emette nuovo bond da 3 milioni di euro ANSA",
+          "pubDate": "Mon, 10 Aug 2026 12:40:00 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "york",
+      "n_items": 10,
+      "n_sources": 2,
+      "category": "tech-ai",
+      "score": 26,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZFQ4RWFKS1pmY3Nha1Nad3NLd1lIVzU3aTRLM1pkZXFoWjN0R1RyQjdENDdaYmR5dlhFcWZRT0IybEFsdkxkY3k3TU96UEw0cWd4STlXSy1xVnV4QVdrV0dPWWVLZFh4dnlMaHF2eHBsQS1GaFNsa3lGVGtYOE9kOHFsbmpJdw?oc=5",
+          "description": "Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports The Guardian Contradicting public statements, Trump took secret flight from Turkey amid Iranian threat The Washington Post Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats The New York Times Trump used elaborate ruse to fly out of Turkey following summit because of Iran threat, report s",
+          "pubDate": "Tue, 11 Aug 2026 02:29:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "From Nest to Deathbed, Jackie the Eagle Entranced California and Beyond - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX1A3amRDbk5Ka29QR01HYjdLMzlWOWQxbVQ4VmpRbHU1V2hTLVZ3TE0tcUdqdWpOYVJhUDdWVUExdlJWcTdnd1lycVpzU3JVellLcXZXRFpSdzNaYXhwVUlMRF9XVjZUeldKR2NyWWg0bk5HU2dLaGlLbzhWMjYtLVF3?oc=5",
+          "description": "From Nest to Deathbed, Jackie the Eagle Entranced California and Beyond The New York Times Jackie, beloved Big Bear bald eagle watched by millions, dies The Desert Sun Donations continue to pour in as online community mourns Jackie the bald eagle’s death KTLA Big Bear’s famous bald eagle Jackie has died LAist Beloved Big Bear eagle Jackie dies after prolonged illness, wildlife officials say ABC7 L",
+          "pubDate": "Mon, 10 Aug 2026 23:14:57 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Judge Temporarily Blocks Mamdani’s Pied-à-Terre Tax - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYTA4MnNGaVNrdWxnYXRxcmtqWDZKVXVnRUhhQ3Q0czFZc2lrdnZYblpRMGY0MzBraFRCYUExcTFXN2I3cDVGVDJVLTJOSlJIZjlfQjg1Mlg4VE8wRUpkVlFYYnBLM1lCcm4wRE43SFFGa1lwU1VyWHhNUVlOUDZiMlhWOEhSRDZBemdvVDFTQ2I?oc=5",
+          "description": "Judge Temporarily Blocks Mamdani’s Pied-à-Terre Tax WSJ Judge’s Ruling on Second-Home Tax Deals Temporary Setback to Mamdani The New York Times New York City homeowners claim they're overpaying taxes: 'We want a refund' ABC7 New York Judge pauses pied-à-terre tax rollout after homeowners allege botched launch Crain's New York Business Mamdani’s luxury-home tax rollout derailed for now as judge del",
+          "pubDate": "Mon, 10 Aug 2026 22:18:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Captain of boat that capsized near Statue of Liberty charged in deaths of mother and baby - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNemZoYmVqV3llRmdRYjI0eWdYOWlBRlcyU1JzSzhhRzdFWVRnTGE5UlZmTTRsclJrTTk3QVVpQndSSlZNYzdtRm12NldURmJSWEYyZ05BdFF2MUtvZlROMDA5bXBXeUpMN01yNkZ1eFlyS19rNTFWaXk1WEpkN1RxVzF3anBTTEJQU3hCN3drVlJ6UzFIb3RMVjFhQkN0djVaeWF6bTNzTDh2aGZWMzczcw?oc=5",
+          "description": "Captain of boat that capsized near Statue of Liberty charged in deaths of mother and baby NBC News A Nighttime New York Boat Tour Turned Deadly in a Matter of Moments The New York Times Speedboat driver charged after capsizing on Statue of Liberty tour, killing infant and mother AP News Friends, coworkers support grieving father after deadly boat disaster near the Statue of Liberty ABC7 New York F",
+          "pubDate": "Tue, 11 Aug 2026 00:47:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Washington grapples with a $1.4 billion National Guard deployment extension until 2029 - PBS",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaVhudkZCYXBMd1Y1NXdpYWdiS2YyR3N3WV9FNWVVMXJSQ2djQVZmQ2dxd0cxSXVVZ1FTUWdfNTI4UThHYW5lU0p1RVdLOVBRS2N3cnR3UzFVLXRDeUlBNUtrTUpwRDZabUt0WktSdkhzbU12eWRZSk5yY28tYmVqUFNJYUt0X2lpZkZpdlpEOWdqV3NoV3dfN3YwUnpvczFqcXFpUFZWMUVtS2RYQ25Kd3ZmWGRSQU5QclpCWDVR?oc=5",
+          "description": "Washington grapples with a $1.4 billion National Guard deployment extension until 2029 PBS Washington grapples with a National Guard deployment extended until 2029 AP News One Year Later, Trump’s ‘Takeover’ Has Changed D.C. Is It Better Off? The New York Times Trump’s DC law-and-order blitz marks one year with eye-popping haul of suspects Fox News Tuesday marks one year since federal surge in DC F",
+          "pubDate": "Mon, 10 Aug 2026 16:10:38 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "allarme",
+      "n_items": 5,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 26,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Migranti, a Ceuta “rischio terrorismo”. Meloni: \"No a immigrazione incontrollata\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX21SSTg2Y216Snh6cDhxZWlaakRLbVJJOVpyTEJyYndtQjhIeUZvLTIwT3FlX0NzaTFmZjZ4QWJWYUt0a2xoemJNazNzLVRWZ01RNDdwMVZMRE9GTUYwQ0RzbmlxSzJlTFBfVjFLQzZyc1puSDE5NUdseEU2Ti05enJaeGxTNS13?oc=5",
+          "description": "Migranti, a Ceuta “rischio terrorismo”. Meloni: \"No a immigrazione incontrollata\" Sky TG24 Ceuta, cresce l'allerta su un'altra ondata. E ora i governi locali si schierano contro Sánchez Corriere della Sera Tajani: 'I controlli restano fino al 15 agosto, rischio terrorismo' ANSA Ceuta, l'allarme dell'intelligence per il rischio terrorismo Il Fatto Quotidiano Ceuta militarizzata. Popolari e Vox grid",
+          "pubDate": "Mon, 10 Aug 2026 06:32:23 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Mps, l’allarme dei sindacati: perché temono lo “smembramento” della banca - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMS1FZDVDSC1lQU9FV2pKY0ZNamkyUFZmSjQ0bE03QXFEbkUtZzZycy1vbGFjcjhwTHVPZjQ2ZURaRFdTNGtmQUdoclpRckVtY24wV3o1Qk1jbHBYSU80d0FDQXk3NWhmTDlkaVV1ekthLWh0MUxBdS1KMDR2QmpkcEUtUkZmNE53bmhNTWxheHE0dUsxS2ZDdVZuZ044OHJjNjk1Zmh4bVdfdHZENFFOaVlrNjBsbWdG?oc=5",
+          "description": "Mps, l’allarme dei sindacati: perché temono lo “smembramento” della banca SoldiOnline.it MPS: il valore dell’integrità del Gruppo FISAC CGIL NAZIONALE MPS, sindacati: \"il risanamento non è presupposto per lo smembramento della banca\" Borsa Italiana Mps, Giani: “Utile record conferma forza banca. Rafforzare Fondazione per futuro del Monte” Toscana Notizie Mps batte le attese, utile a 1,1 miliardi (",
+          "pubDate": "Mon, 10 Aug 2026 12:12:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Auto e caldo estremo, l'allarme di Federcarrozzieri: possibili fino a 16mila euro di danni - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSnlIVWpISVMtaWpFSFUyREZUeDlFaUptamZNamlkT0plYnR3RGlORVZlQnFjeGVhblBJVGlVMEFTLW81MXVPSXFYVTlXMFloQVBKQXRVc3V5djRiVGs2SXZVYmJ6N3ZTQU9HdHNVOW5kRERqOERIUi1SUVBfbmloV1p6ZGJzS01KYS1aN1BUUEJVdjJDb3lKbnlnaHVhMHVJd0tnX3FETDdZLXhtemRKWGxDQnJrbEl6Szh2R3pSRkhWQ19Zdy1xS3JUVkhzeXBfRk8yWGEwWHQ0cEo4d0pETHlQY3ROeWtpNUVLM2FGazZPRkQ4SmZCVVYtdFFJUdIBgwJBVV95cUxNY3RvelBQSVFsTUllWk9OdTZGRkZzYk5CU3ZQXzlqZ3VEWWRvWkY4YVVrUWFRVGFLN3RieklwU1hISVVCeF80UjVyd2REMU9NODRuUzJHWHc2eTMxblNPbHhaTlpSalpJOG1XQ0NDajlaR1dDdl9QSnB4UHN3Z01SNS0zWGE5czMyZUpGRndrSUlwM2JBWWs0SWlmeFl5WGsxWW91d3E3ZEdqQk43Wk42V2hoWXZkSnJRV3RpSnFPVnJiSzFKaFdJWC16UjZrRDNieGIzZElpSDdNTGRBZ19TcUdhLU5GYTBZZzNmdGVyRWhrV3daRTA3VUxFTm84bHpqczNj?oc=5",
+          "description": "Auto e caldo estremo, l'allarme di Federcarrozzieri: possibili fino a 16mila euro di danni RaiNews Caldo estremo e danni alle auto, i consigli di Federcarrozzieri QN Motori Il caldo estremo cambierà per sempre le nostre auto Virgilio Con caldo rovente danni potenziali fino a 16mila euro per le auto ANSA Auto e caldo estremo, danni fino a 16.400 euro: cosa rischi davvero SoldiOnline.it",
+          "pubDate": "Mon, 10 Aug 2026 11:28:00 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'allarme dei big, 'rischio estinzione con l'IA, è come le pandemie'",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/lallarme-dei-big-rischio-estinzione-con-ia-e-come-pandemie_3afde5e5-7bcf-464e-b3aa-aee6577a9b23.html",
+          "description": "Nyt riporta lettera di 350 leader industria, anche ceo OpenAI",
+          "pubDate": "Tue, 30 May 2023 14:12:41 +0200"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Polpi crudi, i baresi rispondono all'allarme di Bassetti sui rischi - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzYXpSS3duZmNUdUhqMUFMT25jb3ZGdlM4NHBaZnA2T2FUSnJhbFctU05Jay1DRGdtWU5JZnJadlNmajFBV3NVSlJ3cjNmcmZBZHIwdjBCMTdDa1NpZTNHTGxFM3MxQzh4eVBnYjF1X29qQ0x6MUstaDB4VGJDLWs?oc=5",
+          "description": "Polpi crudi, i baresi rispondono all'allarme di Bassetti sui rischi Sky TG24 L'infettivologo Bassetti contro i 'mangiatori di polpo crudo': \"Seri rischi per la salute\" BariToday Lo chef Caldarulo provoca Bassetti: “Generazioni di baresi cresciuti con polpo crudo nel biberon” la Repubblica Dal polpo crudo alle friselle bagnate nel mare, Bassetti contro le 'mode' dell'estate: \"Seri rischi\" genovatod",
+          "pubDate": "Mon, 10 Aug 2026 19:57:15 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "tecnologia",
+      "n_items": 5,
+      "n_sources": 5,
+      "category": "general",
+      "score": 25,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-mondo",
+          "title": "Svolta per la metro di Ny, banchine meno roventi d'estate con tecnologia cattura caldo",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/10/svolta-per-la-metro-di-ny-banchine-meno-roventi-destate-con-tecnologia-cattura_06ae3db7-63a0-4154-b7bb-572d1807921e.html",
+          "description": "Annunciato uno studio di fattibilità per la prima rete di energia termica in metropolitana",
+          "pubDate": "Mon, 10 Aug 2026 19:07:44 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Confcommercio, i consumi superano il record del 2007, più tecnologia e tempo libero - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPX1hneDNUc2Excm54V1phWU04dkV6MmwyemhYRHdzbW9JZXlKdlQ1QjlVeENqcm8zd1ZtczFCT2hTWVpvTjdaOFRuUkFmektZZzBIRzB1TlJJcmx4ZVEwVmJHLTJ4cFlDWmdWWFpLUjRrdWFaaFJkVFdnMGtwOGkzNWljdUdJRDhGcmRJQlFIS0lnc09TS3Z1MVoxb2RxUzdLR1YtcWZkd2psTTFDRVl3dmdMZFlsWlZQV2V5cVprZEpWdHpoN3FPekFZUVZKZlBqY256bUpYUWk1bElqRzJmR3Q5M0s1VWtWSG9wUjE0VlZfcjJmTGdiWm5EMHRsMk3SAYQCQVVfeXFMTXViVE5NN2NUYnV3cWVTZkpHeEtvY25IVHlad1V6T2gyUS1rN2hXTkZYV3B4OHU1UFBtdkwtZmRJMFp4QUFEQklQY1FsbmJVN0lsRmdCa3ZkRkdscEdnNmVJMTFhQ2k3anNIRlJwaW9DSF8wakoyU21OTHk4b2pEdlJFSkxmNUJhQzRSTHpkbEtwdG90NC1pYVJ1M0NvRGlwMzk1MkVmTnA0ZGt4Q1RNRUIzZlZUWDdYZnVOVzQwaVQxaGx2a0VTSHg5Q2tLdkxPQTI3YkNEUGNTV0UzQnV3SjhwVUJmV3V4ZVhiZGhEMDlON3pjUjFpMDM0THNWWlc3ZF9kemY?oc=5",
+          "description": "Confcommercio, i consumi superano il record del 2007, più tecnologia e tempo libero ANSA I consumi oltre il record del 2007, più tecnologia e tempo libero ANSA Confcommercio:\"E' record per consumi famiglie\" RaiNews Famiglie: consumi oltre il picco del 2007 la Repubblica Pil: Confcommercio, stima +0,9% in 2026 con +1,2% consumi e inflazione a 2,7% Il Sole 24 ORE",
+          "pubDate": "Mon, 10 Aug 2026 08:48:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "I consumi oltre il record del 2007, più tecnologia e tempo libero",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/i-consumi-oltre-il-record-2007-piu-tecnologia-e-tempo-libero_54e99b4f-854b-451d-b5ae-fcf1fe6b68d2.html",
+          "description": "Tengono abbigliamento e beni per la casa, più fast fashion",
+          "pubDate": "Mon, 10 Aug 2026 15:46:28 +0200"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Il gruppo Recchia porta sui gommoni la tecnologia dell’aerospazio",
+          "link": "https://www.ilsole24ore.com/art/il-gruppo-recchia-porta-gommoni-tecnologia-dell-aerospazio-AJVjLah",
+          "description": "Dall’aerospazio alla nautica. Il gruppo Recchia, proveniente, appunto, dal settore aerospaziale, punta su un progetto industriale che ha il suo perno nel doppio uso del know-how che l’azienda ha sviluppato...",
+          "pubDate": "Sun, 9 Aug 2026 06:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "I consumi oltre il record del 2007, più tecnologia e tempo libero - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPXzYyZGk4X212WjJNd2h1TUlIOS1hSUZ3WDllMXRDRDcwV0JJWm9yS0VOdDRHSUNwN002SXZXUnRsUTYtRVl4QkdqMjh6c0gtYWtmSXYyNmY3OVM4X0stdGdvNF9YcGlrZmtlUjkyZnFDcTFfUGR6OC1iNG1hT1VXQzRRMlc5ZkllNDVnU0V0eXQxUTBzcDg2NlZUT1A3dzJBaFFUY25pZWJOVElfTXhKZGpsUVhTbzlwRmhoaUlQSnhCUFc0eFdYNWgwWko1dzhzTktHMGN4RVowc0VjSTZNV0ZBMkkySl9PSWdZ0gHwAUFVX3lxTFAwUDl3UUdLaXlRRnZ5LUJoWkRXNFVleGppN2RvanBEZ3QzTG1oamhtcVVJSXEzejlsdHdtYnlUd2VkRkZ5eXR0Zk96QWg4S3Z6cnBRdU5taUJnZGJ0bDcyb1ozSDdCdnBKU1FXMVZORmVaRnZvQVVnTWZfaFlUekRTYUdPQ0pONG9hek5XYi04RHdnaklDd1hha1g5bXRsLWZFVklNZ3BxSlJfT2plYURBOXdCamNIOXJVUm9mekVEdDVrVVYwSEpvRjNhaF9ObkpyTmZlbW5pbmxXMEZYc3JiM0NkZGhXMk1aQkVtYmxlQQ?oc=5",
+          "description": "I consumi oltre il record del 2007, più tecnologia e tempo libero ANSA",
+          "pubDate": "Mon, 10 Aug 2026 13:45:46 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "calo",
+      "n_items": 6,
+      "n_sources": 3,
+      "category": "economia",
+      "score": 24,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Piazza Affari chiude in lieve calo: Ftse Mib -0,1%, brillano Eni e Stellantis - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSE90WWJ1UlFENzg3N1BJUk5KRUpnX3c5MWZFY1ZtRWlWcUpZeFpaVVU1VTR5VjhYTmxUdzZ4MzhQeXVUQy1UcmlsVFdUUEdHVGQzZzBucFp0SEhpbmtUd0plSERjQ3NrbEl1Smw4U1dqdUh2ZURsblMwWDdPRnIzRkdqQU1XR2k0VnJSSTFJaVNZeXdFX1FmWkREWmtuSlJGUnhTUW5IR3FzNlIzOUstUm5pc0Y0R1U4bTFUYlR3?oc=5",
+          "description": "Piazza Affari chiude in lieve calo: Ftse Mib -0,1%, brillano Eni e Stellantis SoldiOnline.it Borse oggi in diretta | Piazza Affari chiude quasi invariata (-0,1%): pesa l’incertezza in Medio Oriente. Bene Stellantis, Saipem ed Eni milanofinanza.it Borsa Milano vira in rosso: Ftse Mib -0,15%, sprint Tisg e Stm SoldiOnline.it Borsa: Milano chiude in calo, Ftse Mib -0,1% ANSA Borsa: Milano gira subito",
+          "pubDate": "Mon, 10 Aug 2026 16:01:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: Europa fiacca, Londra chiude in calo dello 0,35%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/borsa-europa-fiacca-londra-chiude-in-calo-dello-035_9283ae7c-fb15-4a48-bcd5-121296e40bca.html",
+          "description": "Parigi +0,13%, Francoforte +0,02%, Madrid -0,01%",
+          "pubDate": "Mon, 10 Aug 2026 18:05:42 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: Milano chiude in calo, Ftse Mib -0,1%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/borsa-milano-chiude-in-calo-ftse-mib-01_4345a1de-5989-4f6b-8005-e45a339e7548.html",
+          "description": "Eni e Stellantis tra i migliori. Deboli Terna, Poste e Tim",
+          "pubDate": "Mon, 10 Aug 2026 17:59:13 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: Europa gira in calo con Wall Street",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/borsa-europa-gira-in-calo-con-wall-street_90037ad9-5af8-4232-a849-e8d2470dfd54.html",
+          "description": "Londra cede lo 0,35%, Milano lo 0,16%, Parigi e Francoforte sono piatte",
+          "pubDate": "Mon, 10 Aug 2026 16:03:55 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Wall Street apre negativa con incertezze Hormuz, Dj a -0,07% e Nasdaq a -0,06%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/wall-street-apre-negativa-con-incertezze-hormuz-dj-a-007-e-nasdaq-a-006_d0ffdfe5-702e-4ead-942e-e2d95460f4a8.html",
+          "description": "In calo anche l'S 500 a -0,02%",
+          "pubDate": "Mon, 10 Aug 2026 15:40:56 +0200"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "eclissi",
+      "n_items": 6,
+      "n_sources": 4,
+      "category": "general",
+      "score": 24,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "Eclissi solare, per proteggere gli occhi non bastano i normali occhiali da sole",
+          "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/08/03/eclissi-solare-lunico-modo-per-proteggere-gli-occhi-e-con-gli_18b84ef7-9405-46b0-8cfd-bb5560e590db.html",
+          "description": "Il fenomeno il 12 agosto, 'danni anche permanenti, effetti non percepibili nell'immediato'",
+          "pubDate": "Sun, 9 Aug 2026 18:22:59 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Tra nave e treno, in viaggio verso l'eclissi più bella",
+          "link": "https://www.ansa.it/canale_viaggi/notizie/itinerari/2026/08/09/tra-nave-e-treno-in-viaggio-verso-leclissi-piu-bella_70442749-6f2c-4939-913e-830b26db4ce9.html",
+          "description": "Omio stila la classifica delle mete migliori, mentre Costa lancia la Crociera dell'Eclissi",
+          "pubDate": "Sun, 9 Aug 2026 15:21:48 +0200"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Eclissi solare, chi produce gli occhiali per guardarla",
+          "link": "https://www.ilsole24ore.com/art/eclissi-solare-chi-produce-occhiali-guardarla-AJEHmmh",
+          "description": "Stati Uniti e Cina in testa, ma cresce la produzione europea. In Italia diverse aziende rivendono i dispositivi",
+          "pubDate": "Sun, 9 Aug 2026 08:02:01 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "L’eclissi mette sotto pressione la rete elettrica europea, già sfiancata dal caldo - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMHdNZVJ6cGtwUElUUGw5NUQySncyNjU0S0Z1amc4bWNkZ1VteXVlTDZ1X1ZDNUV1UTVySDAzZERPNUVtZ19BMTJUS180TjdqYlFyU1RRb2hwLWhxTUZtVElpbnF4SDY3Uno5OG8zOVlMN2xSTEVxM3dSNlNhMGxTV1oxMUtycHlKS0N2cndkb1NrY1pSZXhjNEVhUEY2MzFTcGZERXFyeXJIbXJTWVFXNVBHbUswU29rT1gwMWxab3d2ZENJMldqVGJB?oc=5",
+          "description": "L’eclissi mette sotto pressione la rete elettrica europea, già sfiancata dal caldo la Repubblica",
+          "pubDate": "Sun, 09 Aug 2026 12:30:23 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Eclissi di Sole del 12 agosto: orari, curiosità e dove vederla in Italia - focus.it",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZHFmQTktT3dlTnZXeXBzWktBNkRIeUFxZk1QcEx3N1NYX2RuSTV3M05GM2JWR1VNNHdLSjRfRWIwQVlZYjFuVTVXY0lpMzdGcVJiYnREei1PS2RqMVQ4c0xaWlkwUllZbDc4VEFkdzdzU3lJU3NweHp0SG9nX2tnRzV0aWpIaDVSTnNUcWUtZEI3R3dCQnBQTk52ZWtscUxkMEVSQ0padFREOFprS3UxM3NvYW5zdUdZbDNCOXJ1RE9PTlE?oc=5",
+          "description": "Eclissi di Sole del 12 agosto: orari, curiosità e dove vederla in Italia focus.it",
+          "pubDate": "Tue, 11 Aug 2026 00:44:23 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "perché",
+      "n_items": 6,
+      "n_sources": 3,
+      "category": "tech-ai",
+      "score": 24,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Il paradosso energetico italiano: riserve piene, bollette ai massimi - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQY2xXUWs5RjdwWFd5TjFjblJmOWVWbmlMNFdpUWUySUpSeXVoOEo1WWkzbk5sOUZCRkF1QmNqaWtERmtIb1RHQVZHSUlyZ2hqU2FzOHNnRUhvTHY3XzBTUG9rRWRQdnpHWlIwRWpRY2lFOUtQOFhGLVJxWEJ1N085QTJpNnRxWWh1VDJvb0xEemN3cE1CeDVoaGo2eU5GVGhOSzlXQk1BUnF3S1o0MlJsaUlzOGJuN1llZDV4NEdycEZmdnJCZ2p3VklqWENBUVF6OGxTV2lLV1BETVQzelVqek1R0gHnAUFVX3lxTE1KcVhMV2p6NklYN2VDdmdvTXhhbUZDR2VrV3kzaGk4UGszQkYwcHU1ekdjSmRiWnJzbEpXU2ZNTEdwam1hRmxQNjY1YzIyaERIYlVmYzRuRS1wWVN3d1lpNjF3cE1HUmVnY256MkFBSEpSUHYzWWFuY213c0NrOTZQeGZGY1pDMTU5VXhYTG1kdDhxZTFqeFdvMktLaV91SkdSZ2hkWlZ3dTBnWHh3cmlWczIwN3pYYW9maHloaEoxdlRvWmFoS1BWR1VORmNhdk1aYndPMHJFcmd2WFhZUDNlWU9fbVFudw?oc=5",
+          "description": "Il paradosso energetico italiano: riserve piene, bollette ai massimi RaiNews Natural Gas (Amsterdam) a 61,69 euro per Megawatt-Ora alle 19:30 Borsa Italiana Il gas si attesta a 56,7 euro sulla piazza Ttf di Amsterdam ANSA Il gas europeo rimbalza mentre l’incertezza su Hormuz pesa sulle forniture Yahoo Finanza Gas, future europei +10%: perché il Ttf è tornato sopra 61 euro SoldiOnline.it",
+          "pubDate": "Mon, 10 Aug 2026 15:20:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Mps, l’allarme dei sindacati: perché temono lo “smembramento” della banca - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMS1FZDVDSC1lQU9FV2pKY0ZNamkyUFZmSjQ0bE03QXFEbkUtZzZycy1vbGFjcjhwTHVPZjQ2ZURaRFdTNGtmQUdoclpRckVtY24wV3o1Qk1jbHBYSU80d0FDQXk3NWhmTDlkaVV1ekthLWh0MUxBdS1KMDR2QmpkcEUtUkZmNE53bmhNTWxheHE0dUsxS2ZDdVZuZ044OHJjNjk1Zmh4bVdfdHZENFFOaVlrNjBsbWdG?oc=5",
+          "description": "Mps, l’allarme dei sindacati: perché temono lo “smembramento” della banca SoldiOnline.it MPS: il valore dell’integrità del Gruppo FISAC CGIL NAZIONALE MPS, sindacati: \"il risanamento non è presupposto per lo smembramento della banca\" Borsa Italiana Mps, Giani: “Utile record conferma forza banca. Rafforzare Fondazione per futuro del Monte” Toscana Notizie Mps batte le attese, utile a 1,1 miliardi (",
+          "pubDate": "Mon, 10 Aug 2026 12:12:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Caldo, quattro ore roventi in più al giorno: quando ci sarà il cambiamento e perché rovinano il sonno - Leggo.it",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWnZLWm1RdzhfSC1jdUIyQUxuSVZOMkthV2t1a2JUZElGTzFOZVZNSHNrQkEweVFwWmU1eDhfT2hoR0ZYVXNoc0h6MzZReFYxTjl1UkRsbGxoUTFJTEpmNHhjX0trbDlKSm9EbUcyblE4VjM3R1k5a293ZHVXbjk0U2xadHNPTzVObG9NeTdDdWdwUGo4SnNEdjdGbzltN2lpTnJOb0lwRDk4Q3J1TXfSAZMBQVVfeXFMT1VoMHpxY01vakcyMnYxZkxxRkVDNVpvVzFVeVYySkxXYWJEUkFiYVhoWnAzYnpmNEZhM1NaaExVTmR1dXh6V1ViQ2JtX19wbXJFeFJyc0stMFEtT052V0paS0JlU09WelVoWEJ2VWxzT2NWQkxhRUtCN2g4SExTc0NaOTFBejc1ODNjZlZGSjJJRkdn?oc=5",
+          "description": "Caldo, quattro ore roventi in più al giorno: quando ci sarà il cambiamento e perché rovinano il sonno Leggo.it",
+          "pubDate": "Mon, 10 Aug 2026 17:36:18 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Batterie silicio-carbonio: perché Apple non le usa ancora - Melamorsicata",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOURCeDhhdjdJX0ZqV1IxRFYtWkdNdWd4WUhFdXdnal9ZQlZkX0Q4ZUQxSVZBUEpfMkxtS2pLV05KQ0tCcnB1MlpXS3dGQmpxWmVFdWdDc1dpYWJQWGxnT1BuUUl6NExNWWFfWkNZSndaSFJGa1VySzhkZVU5ZTRYSWNJOE5oZC1mUEZGOGhWMDJqaDZv?oc=5",
+          "description": "Batterie silicio-carbonio: perché Apple non le usa ancora Melamorsicata",
+          "pubDate": "Mon, 10 Aug 2026 10:42:37 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Batterio mangiacarne nello Stretto di Messina: cos’è e perché non dobbiamo preoccuparci - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkU5MTJBbXVYUW52Nmp0VmxzN1NmRkV1bHd6bDdNd2NlQy1melJDZVkzZFZxYTdGbGFDN0Q4UHduVEt4RFJsczNtWFhLdFpUZjZNTkxQSTIwNmdrN3RPMGFwRUpkbndxS1Rid2RFb19rT1JoQjRSNnBrQUFlbzJYNEhpT0dXTVdXU1ZpZjItV09DWFBoY2stb2FvTm3SAaIBQVVfeXFMUDRfRTNVUFl6OFFReU5fNGJDQmRQV05yblJFb2dpeDBPWkw4UU5fbmRYSXpCNFNQRzVXQ1BuLVA0dFRCei1IM25uUXNSS1dUNHdrZGl6WV85X181ZmltNGhmOHhDMVBvOVpYQ0xmcFY2OXBfV2tROUd4ejlPcUp4cEhScHZ5UDBSVExuQWtTZER5bmc5Vzd2OWhfOEtxVnhDclFB?oc=5",
+          "description": "Batterio mangiacarne nello Stretto di Messina: cos’è e perché non dobbiamo preoccuparci la Repubblica Sanita': Vibrio, pericoli nel Baltico e Mar Nero ma in Italia rischio molto basso -2- Il Sole 24 ORE Il \"batterio mangiacarne\" e il legame con lo Stretto di Messina: ecco cosa sapere e come evitare l'infezione Il Fatto Quotidiano Il batterio \"mangiacarne\" nel mare di Messina, come ridurre il peric",
+          "pubDate": "Mon, 10 Aug 2026 12:58:40 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "chiude",
+      "n_items": 5,
+      "n_sources": 3,
+      "category": "economia",
+      "score": 21,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Piazza Affari chiude in lieve calo: Ftse Mib -0,1%, brillano Eni e Stellantis - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSE90WWJ1UlFENzg3N1BJUk5KRUpnX3c5MWZFY1ZtRWlWcUpZeFpaVVU1VTR5VjhYTmxUdzZ4MzhQeXVUQy1UcmlsVFdUUEdHVGQzZzBucFp0SEhpbmtUd0plSERjQ3NrbEl1Smw4U1dqdUh2ZURsblMwWDdPRnIzRkdqQU1XR2k0VnJSSTFJaVNZeXdFX1FmWkREWmtuSlJGUnhTUW5IR3FzNlIzOUstUm5pc0Y0R1U4bTFUYlR3?oc=5",
+          "description": "Piazza Affari chiude in lieve calo: Ftse Mib -0,1%, brillano Eni e Stellantis SoldiOnline.it Borse oggi in diretta | Piazza Affari chiude quasi invariata (-0,1%): pesa l’incertezza in Medio Oriente. Bene Stellantis, Saipem ed Eni milanofinanza.it Borsa Milano vira in rosso: Ftse Mib -0,15%, sprint Tisg e Stm SoldiOnline.it Borsa: Milano chiude in calo, Ftse Mib -0,1% ANSA Borsa: Milano gira subito",
+          "pubDate": "Mon, 10 Aug 2026 16:01:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Il petrolio chiude in rialzo di oltre il 5% a New York a 82,7 dollari",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/il-petrolio-chiude-in-rialzo-di-oltre-il-5-a-new-york-a-827-dollari_ffbd5fca-1df3-4a9f-a903-3fffed02ee17.html",
+          "description": "Pesano le incertezze sulla riapertura dello stretto di Hormuz",
+          "pubDate": "Mon, 10 Aug 2026 20:38:59 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: Europa fiacca, Londra chiude in calo dello 0,35%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/borsa-europa-fiacca-londra-chiude-in-calo-dello-035_9283ae7c-fb15-4a48-bcd5-121296e40bca.html",
+          "description": "Parigi +0,13%, Francoforte +0,02%, Madrid -0,01%",
+          "pubDate": "Mon, 10 Aug 2026 18:05:42 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: Milano chiude in calo, Ftse Mib -0,1%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/10/borsa-milano-chiude-in-calo-ftse-mib-01_4345a1de-5989-4f6b-8005-e45a339e7548.html",
+          "description": "Eni e Stellantis tra i migliori. Deboli Terna, Poste e Tim",
+          "pubDate": "Mon, 10 Aug 2026 17:59:13 +0200"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "La morte è davvero la fine? Il problema che la fisica non riesce a chiudere - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcTk3MWxxSUtuay1HYkpXR21YTkFEOEw5V1RkR191cXcxbVhubmw1Y1FoWmNWQnpuMlNzOFZ2UzJzQmFYbV92VHVMSXVYZk8wZnZvclZ6LUVkczREc2piOENmZ0lsNTNIM3J4NTRLb0hGb0hJdkFuVDJPb0pzZkM5Z01CaE9vUTlKRm1BS0FYelcwNHA3UkV0S0VVUnpFZVE4akh4Q3A4ZEFwOTA0VXgxNlRSWlpyemUyeXdacDkyVUVuMVk?oc=5",
+          "description": "La morte è davvero la fine? Il problema che la fisica non riesce a chiudere Mondosanità",
+          "pubDate": "Mon, 10 Aug 2026 10:00:00 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    }
+  ]
+}

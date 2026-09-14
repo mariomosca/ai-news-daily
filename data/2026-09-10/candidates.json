@@ -1,0 +1,911 @@
+{
+  "date": "2026-09-10",
+  "top_topics": [
+    {
+      "keyword": "trump",
+      "n_items": 18,
+      "n_sources": 7,
+      "category": "geopolitica",
+      "score": 132,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Ucraina, premier Norvegia: aereo Zelensky sfiorato da drone al decollo - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaVBsOVVBcXp6cFZqcTk1RGJQd1AycE96d1V6TjRJeUJKdi1PQXd2eDlLNDhpLUxzV1NGOXZldnU5UmlTUFdRUmJNQmZNSUJTNmNnQWlVTkROTmJtQmZZOU1pYmhhRjQyR1RJbGV6RWhCNmNQMkxibk5iNC0zSXhLanJ1YXpFWmFV?oc=5",
+          "description": "Guerra Ucraina, premier Norvegia: aereo Zelensky sfiorato da drone al decollo Sky TG24 Guerra Ucraina-Russia, le notizie in diretta | Premier norvegese: «L'aereo di Zelensky minacciato dai droni in Moldavia». Trump e la telefonata con Putin: «Vuole un accordo» Corriere della Sera Media: \"L'aereo di Zelensky sfiorato da un drone durante il decollo in Moldavia\" - Zelensky: \"Se la Russia vince, poi t",
+          "pubDate": "Wed, 09 Sep 2026 21:58:58 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Trump parla ai Repubblicani. Parte la campagna per le elezioni di midterm - Trump rivendica la svolta sulla sicurezza a Dallas: \"Manette ai criminali, non alla polizia\" - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOUnZiYnR1S19nNFlHemxSWGVYcHQ2Ry0tSjlnclA2RHJ2UnlObnFVejA1eG9KWWo4d1hDQ0RMQ0JIRFBqcHZ6c2J3U2lZLU9ZTU5ZdEZyeS05Wkhabng4Y0ZIRlpaU0VBTjI5ZTU4NFFmczZUNWxyMUdDR3E0M2dndUJyZmlNOHVtS1BZNExzbE5vZHc0YVkyNWtCUlRCTUpxcU9EaUNmTkl4YjFIdVA1TnVTRTVTZFRzSFNnNGMzcE5LdkdVNzBGM3p6bTFwS0xRQXRnM2t5V2FNZl9iWlNVUF8zd2lKcGk4R2dXcDMtMERYeE4xaFpWSmJwTHIyUTVFOXV2TVV5RdIBjAJBVV95cUxOQUo3TDJYaGZRczZyVHhUc0pnUXJwd0hadE1mYXU0ZzBUd0tjT1pIb3JxcjVYQVlKQjJMUGVkY0ZqVDlCcnRKak5kbXFITDhtcVRQaVMyanBXUGhveUFfTnQ1SElZSlBtdHZtSThlaHYxOEFJX01Qc3BVdnI5LWk3bEhvRGJUeHJKRVJaUExXN0xRd0dMcGE4cVlEcUFGT2JwcXA4ZTNmQlBwaWNkTnF2T0JLS0NUUExpZlFYV253VHVsYjlHQWgtM0lHaW5DTVkwMk9rQTZkYkl2TXB6aVFLNHhBMm4wQ1phbWlONHEzZHRvMmt0S2dGRmo1R01PSFVCczl3RDNUYkJjNVdL?oc=5",
+          "description": "Trump parla ai Repubblicani. Parte la campagna per le elezioni di midterm - Trump rivendica la svolta sulla sicurezza a Dallas: \"Manette ai criminali, non alla polizia\" RaiNews Dallas, al via la convention repubblicana per le Midterm. Trump cerca il rilancio per non perdere il Congresso Corriere della Sera Trump promette, 'se vinciamo alle Midterm 5.000 dollari a tutti gli americani' ANSA Trump-a-",
+          "pubDate": "Thu, 10 Sep 2026 01:58:01 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "L'Ue sblocca i Patriot per Kiev. Berlino: 'Usiamo le scorte' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMzNjQUlWalNaajJKellPNnNvLXZsaUFjMDZOS0JFN2JLM0JoMkJxZDJQaUM5LVJFYlpyRmRQdEtfOTBZUXowaTduRi1VNUhucEd3dTRtLVNWdUpLUkIzTnhVYzBsLXpjTGFoNU45YnFYWXZVeG1SU3k2NTliNmtla05hN0JEYVZEbnI5aXdEbWZ5WlVYcEdldTNsSl9RYXNQOHJjRFBFcGNqdVlFY2hLU1laT1JsdEFUTnRyVTdCZnhMdFdQTGRhdkNvWkwxOGRDNVlwUElsdy1MbWVac0MxZklIUdIB6AFBVV95cUxPVUVFbm9tdjNqZUxjT3Y5cmlYVHJOZGxEdVBBWEJjWFZVVkk3U2ROR2Q4M3Uta1RkbWtvMTFYZ2xxNkZqaF8zNFRSNkRtbTlMUi1nMko4aE9iRkV5RGNIbUhhWm1nQ01MM2FQTVlaWHh6QmFLUVJJak9OdjNYd0ZjcTFNNklEWndmSk9BTDlIdHM1aUZqX19fdWxqaWNwU2hGWFZTN0h0enNONzQyQUpwSm9yVUxFcUQ4U1lQNlVBbmlZV3lTU2JPb1hfaXFyVkRmTE9KQUJPN0JPT2JMa0RacWVMY3VQWkti?oc=5",
+          "description": "L'Ue sblocca i Patriot per Kiev. Berlino: 'Usiamo le scorte' ANSA Arsenali per l'inverno. A Kiev i Patriot via Ue, a Mosca il conforto di Trump (di G. Belardelli) HuffPost Italia Rutte agli alleati: \"Più aiuti bilaterali a Kiev, non abbiamo scelta\" Il Messaggero Patriot a Kiev per dire no alla mano russa Quotidiano Nazionale Berlino sceglie di difendere Kyiv. Un drone ha quasi colpito l'aereo di Z",
+          "pubDate": "Tue, 08 Sep 2026 18:33:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Zelensky: “Pronto a compromessi, ma anche Mosca deve cedere qualcosa. Fedorov? Mai più sentito” - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMDZDX3FFSEJkQzFCeGh5RThMNGc4YmFtcUxDa1MtVXhfR19RLTlzenFJbFpFTXRndzRzN3NtSnptd25XMC05bjU4QzBxTnpjZ0NsLUI0TS1nZUlibjJ6cGhKWjVzU21YYk16MDZ3SDFMZ0ptRnA5aUtjMlFKSTJoQmFVTlItV1lDcGhjUzhwd0toQjV4RGRVMkJ1aFhyb01udVZEX1RDZXNHSFpXeWNSeWItbFk3ZThiMHFvTTRTaVNYQzgzbFpGRmlSRC1odktleVdFTnQwZ0ZZUHJqQk4xblcyNNIB6AFBVV95cUxNbEd5UmlsY3pMcWIyT2ZDTFMzc1lKc2g0M2haYW51QnpNY21JTjE3V0E4Z3A3eGVQQlY5OC01dlJHVjJnT2VncmhzVTFER1ZfcUcwcUNocHhfb3RCQ3lzWkt2ZDhmd2lZeWxKTFk3TnNhZUVWLTM2VGNEQnJLaU9wM082VmpJdTBBLWgzNHV6VHJUdGU0dXNTdkl1RmV2NFh5NjVQZm10ZDNUMnBnZVlPYk1lZHRudFBFNE1kelZmdzhxVHpfUmVkVlB3Z1NYeXZwd1I5ZXZYODRtaDJNSE5FRWIyQ0Z4M2V4?oc=5",
+          "description": "Zelensky: “Pronto a compromessi, ma anche Mosca deve cedere qualcosa. Fedorov? Mai più sentito” la Repubblica Zelensky: “Noi pronti al compromesso, ma anche Mosca deve fare passi avanti”. Kiev: “Comprati 1.000 missili Patriot” ilfattoquotidiano.it Guerra Russia-Ucraina, Cremlino: \"Auspichiamo ripresa dei negoziati tripartiti con Usa e Kiev\" Tgcom24 Trump chiama Putin e i russi esultano: «mai così ",
+          "pubDate": "Wed, 09 Sep 2026 07:17:13 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "'Pretend I'm on the ballot' in November's elections, Trump says at Republican midterms convention - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51eW9VQlotLXZBQ2V0U3hid0RXaWk1YjlyeGpaa0dNYVFBcjBWaXNJd2FrdXUzRjVKTm9KT29ES2oxWF80bUxLbFNzQ0FQVDVQVUNKUGpn?oc=5",
+          "description": "'Pretend I'm on the ballot' in November's elections, Trump says at Republican midterms convention BBC Fact check: Trump makes numerous false claims in Republican convention speech CNN GOP midterm convention Dallas: Live updates, speakers and key moments FOX 4 News Dallas-Fort Worth Democrats say Trump’s ‘bizarre’ convention is a distraction from his faltering presidency AP News President Trump arr",
+          "pubDate": "Thu, 10 Sep 2026 02:25:01 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "iran",
+      "n_items": 11,
+      "n_sources": 9,
+      "category": "geopolitica",
+      "score": 105,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Usa distruggono petroliere iraniane, Teheran colpisce la Giordania - Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaTBVMHM3d19kbElFZ2JTTzZISFNkVUtseVVDYjNkOU9KVUszX0dBZE5nVzgwNENVOFRkYWUxLU5RNElXaTVwR2FVQnlIZjhSd1RrdzdlWG9qbk8wZzNnVDUxdEJSRmJsMUZGYllqVUJTRmRGWTlzQ096N3dQb1Z1Vk9jSHJmSnBsYmNNYkprMm5hVXZiS01kTGx4c09wdTEyRDlnS0xiWEtKT0cxOVQ5dml2dXNTdUJPTWw0?oc=5",
+          "description": "Usa distruggono petroliere iraniane, Teheran colpisce la Giordania Euronews.com Netanyahu denuncia Haaretz per diffamazione. Iran e Usa attaccano le petroliere - Il Segretario generale dell'ONU, Guterres \"allarmato da attacchi a Hormuz\" RaiNews Il gioco del logoramento tra Iran e Stati Uniti che può incendiare il Golfo Corriere della Sera Notti di guerra a Hormuz. E l’Aiea denuncia l’Iran sul prog",
+          "pubDate": "Wed, 09 Sep 2026 04:18:49 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Iran, battaglia navale a Hormuz: nuovi attacchi incrociati fra americani e pasdaran - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPV3VXTHFmMVhTTnNTOFFrNXFKUGFLWkZZUGotWXdydEktazZ1eWw2amdBaDdfVHZSbzVYOE1xbjVpSlMxYWtwSG1DenF2ZFR6ejI1TG9sVXRBbWViOGdjcUFqSjJOeVhQNURYRE1yOGNTcmlXM3JoR0wyRl90N2o4ZHVURTF5WE5DQzFPa05WLUs5bWJCUXItVTdlQ3FNN01JX1VBV0ZSeE8zaF8tSEplTHczS09EOWl5UGhaRXl4N1VGQlktTUs5bDRFTzdNVDVocDMtVWEtRG1iQkZOd195eXNMc09aZG5MY2d6QnNpSUtNOGpHd3FoZVRJMFpGdGdL0gGGAkFVX3lxTE9XSmVyRnpSdFdjX25FaThWZXJVcDdtZllOSExVZ01EY3hneDAyeVBWejhrVkJKVnVjNHpkSE52TkhFU0l3YVhyR2F3aHVmQ19JQndlSjcxLThCOXd3WEk5NXJaWmhrVkFyOV9sbUdiM29GNXktdzRwaEV0Vkc4TzlUSno0SlktOHRIc3JMVnF6Q2hVN0l0YXJqMktTaFZCYzFSMjJENTByXzBsMHl4THFCdzhGRzh2M2RzdlV4Z2M1b25MYm00MlNIaWlhcVd0RVdCU1M5SWNtWHZ0dnRBMDNVR3B4NVl1OGtPcG9ud1NlcUZxekJ5U2YxOXFybWR6WGU3X1JQN1E?oc=5",
+          "description": "Iran, battaglia navale a Hormuz: nuovi attacchi incrociati fra americani e pasdaran Corriere della Sera Netanyahu denuncia Haaretz per diffamazione. Iran e Usa attaccano le petroliere - Il Segretario generale dell'ONU, Guterres \"allarmato da attacchi a Hormuz\" RaiNews Il gioco del logoramento tra Iran e Stati Uniti che può incendiare il Golfo Corriere della Sera Notti di guerra a Hormuz. E l’Aiea ",
+          "pubDate": "Wed, 09 Sep 2026 22:46:18 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra, ultime notizie. Aiea deferisce Iran all’Onu. Gas sui massimi dal 2022 - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN2hleVlKWDd5SHJRTGkwMEJiMll6WEktcFV1SnBGQ0I2X1EtdkpLclpfN2xhaFloWmJPWHNVeWVWcjVNYW1lZ21ud0MxRC1PMnVkOEVzR0poQV9kT3FoWlJta0FsWnAtT2VCbnlrdzJ5NzE2ZjJzaXVVeC1qOVk3eG5BODVxRm12LTdWMjU1dHhEWU9GeURaYUMtUk9fcm5aX3BMT2kxYXRqN1JBV0NvYTV4RnN0cG9rYi1COU1uSFg2enFD?oc=5",
+          "description": "Guerra, ultime notizie. Aiea deferisce Iran all’Onu. Gas sui massimi dal 2022 Il Sole 24 ORE Nucleare, Aiea deferisce l'Iran all'Onu RaiNews Guerra Iran-Usa, proseguono gli scontri nello Stretto di Hormuz: distrutte 5 petroliere iraniane Tgcom24 L'Aiea deferisce l'Iran al Consiglio di sicurezza dell'Onu ANSA L'Aiea deferisce l'Iran al Consiglio di sicurezza dell'Onu: «Non rispetta gli obblighi sul",
+          "pubDate": "Wed, 09 Sep 2026 22:23:50 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "With Close Calls on U.S. Warships, Iran Shows New Appetite for Escalation - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRE45TS1sS3dPVjlLNzNEdVBVSE4wUzI2OXZGb2NPbnNhX3dDZmxxeHJlQVZHRTdTaXpyMGhsWW52Qkl6OC0tQ1lUN1J6RTNuRkNjblFKVTlwcmpWSXkyYzk1V2FyeWRCcHZfb3l4dlZKT2NKVHloOTR3bmYxcGVxQ2FfcVR2X19oeV9sb0llNElNQ2VSQlNnTXRrdmdibjZ3eTJhaGdFd3hlV2hhbTJ2NllIbkQybjZTa0E?oc=5",
+          "description": "With Close Calls on U.S. Warships, Iran Shows New Appetite for Escalation WSJ Iran fires new electro-optical missiles The Telegraph Iran fires electro-optical missile for first time — aiming at US warships: report New York Post Iran war: Tehran’s assertive rhetoric signals a new and dangerous phase in conflict theconversation.com Iran says improved ballistic missile shows it will take preemptive a",
+          "pubDate": "Thu, 10 Sep 2026 01:00:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Nuova escalation Iran-Usa, Teheran estende l'area sotto sanzioni a Hormuz",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/09/iran-attaccate-2-navi-statunitensi-e-10-petroliere-nel-golfo_17dd8e7d-5836-4e9b-a20d-4f323a23a961.html",
+          "description": "Trump: 'La guerra finirà dopo le nostre elezioni'. Vola il greggio",
+          "pubDate": "Wed, 9 Sep 2026 21:14:37 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "entro",
+      "n_items": 11,
+      "n_sources": 8,
+      "category": "general",
+      "score": 88,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "La legge elettorale in Aula alla Camera da lunedì 28 settembre, soglia al 42% senza ballottaggio - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaDN0cml3TEpvajB3dnJ6akg0ZTY2LWRUTUg3OFl3ZmtHQ09mZW4tRTg0S3Zpc3Zjc0pic2NEY09OTlRJNlhyVGlCY0lYbnZuSW9ZUHJObWNsbnc1djJ4UzhMcGMybUxzb1JIcDIwUXItSzJuMTZOZkxGb1Z2emlxaC13UFRKSTNaaEVoeXRJMEVyVmc3QVJDWTkxN21DdmltMHZNUkk2VEdjNi16Sm1jelUwbW0zT0FiYlloVGluRHJOTW53ekdDa0pJQXBIUGpSWFRiaXFFOTVMTF9HczdRODdMU3RNVkNaUk9PN1NR0gHzAUFVX3lxTE96NXhmM2ZQemNFRzRfOUVlWVU1aVE3X1NZQnlfWk1CQTF5UThiakZVR01CWXhVbE5SQWIyTEt6dkdoaG9aU2ZWUnRwQ05vTUNtcmIteE1kMlVZUGhUWE5mVjhKTFFDRm1md2NaMGowNE9SdEtRRnkxSXE1OUN0WlBzUjVYMjZNTVo0a1pfOW9XVUM1U202bHNKUjFkRURHVEZCYldfck5qMEtIdi1pdF9tSjNacTdzeldlMWNkQWRSbThBR2hieG9uUDMzNE1mNHllTUR4SjJBU3ZzNVJwTmNYUTJLWk93NXBYQWEwZmZEVDVZTQ?oc=5",
+          "description": "La legge elettorale in Aula alla Camera da lunedì 28 settembre, soglia al 42% senza ballottaggio ANSA “Votate le preferenze libere”. L’opposizione sfida la destra. FdI apre, alleati in rivolta la Repubblica \"Non facciamo scherzi o salta tutto\". Centrodestra in tilt sulla legge elettorale HuffPost Italia Preferenze, FdI apre all'opposizione. Ira di Forza Italia: così salta tutto Corriere della Sera",
+          "pubDate": "Wed, 09 Sep 2026 19:36:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Ricercatore di Anthropic si dimette: \"Umanità a rischio entro la fine del decennio\" - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRXBncDVNNE9rbWxfeUkyQnhMblQwQk9IemJyV3RLYWxuendBQUZLdTVELWpUZFBITndNSDdkclhJd2dTcUlNRFRENVVON2JJR2lWYW1ITF9hOEsycFRKYWhJQ0V2bV9FZWltNndPOHo2MWdXeEQwVVNUSWJXb0VSWnhlaEZnc0NGNW8ybEgxZi0tdzNDV2xGWW5nSkZLMUcxUnR0M1BEMkZTMTVVZ2dJZ2NrRFI5ZUt3Mk5NUE8xRmgxSDFlYkpkYmpwOE84MTR1N1h5Tkp3Szdjb2ozSEstWFhpQWhCeEhhTmNkbHpsVWpFRjBYY1R1NtIB_gFBVV95cUxPd3JMeE9XOVhqUTJKbkFUSkFCNGlWMEdkV3Q2QW1qOEZmMVpnWFp1b3BxTHVzQk5qOVFxMXQ0OUs3ZDJzcUJVZGJWdTFNdjg5Mm1Bd2N2MDVOTHJRRnIwZGJRNkhNSEJBUnBKSUtubTBPbDBpQXBnRHlsUmt4b3RPcTJiYl9BZTZCQVBYMWRxb3h5X1I3d2RnZXVDNmdEY09tRmx4WjJ0aGN2WFRKcmpDZnA0RHFrQ3E2S0ozeC04U0RWOUR4bmNNR3IwYVVaUm1rMDc3eW1WQ3hzNnZqdE5pMFF5dS1xNXJrNHltdC1oNXRfSEVIdS0tdlJrRndBQQ?oc=5",
+          "description": "Ricercatore di Anthropic si dimette: \"Umanità a rischio entro la fine del decennio\" RaiNews “È a rischio l’umanità”, l’accusa del ricercatore di Anthropic che si dimette per motivi etici la Repubblica \"Credono che l'IA potrebbe ucciderci tutti\": le dimissioni choc da Anthropic ilfattoquotidiano.it Ricercatore di Anthropic si dimette per paura che l’AI sfugga al controllo umano Il Sole 24 ORE Un az",
+          "pubDate": "Wed, 09 Sep 2026 18:22:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Slitta il voto sull'antisemitismo, scoppia il caso delle bandiere di Hamas",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/09/09/bandiera-di-hezbollah-al-sit-in-contro-il-ddl-antisemitismo-tensione-tra-i-manifestanti_622a882c-988f-4d84-ba98-a47f12fb327a.html",
+          "description": "Centrodestra in fibrillazione. Pd diviso, verso ultima mediazione",
+          "pubDate": "Wed, 9 Sep 2026 21:05:28 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Bce, l’ombra dell’energia sui tassi: verso una stretta al 2,5%. E i governi vanno in pressing - La Stampa",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONFpaZXhLdVJWYjlTTXpJVGoxNmQ3TDliS0l6ODVDZUJyOUozSUhHb3J1REY4Y01qdEQzcEZaeGVUOWJ1c3pIeWFjdHJPRmFCYVQyckpNbmQ2WXh4MC1UaTlhMFZhMlNMaFNyTkpEMnFVNjliRDQ1WV92WlhhMEtzYlVQSk1ZYk9NRmhiTVYwVHc5d3NmbkJrY0NKb1E0cE9MbnfSAacBQVVfeXFMTXkweXFONkpaX0RxT1B4SGlFMDVMeTZoaHdzSlpaZUYyN1RxRWVRYnA4cFJTR3RRMkViU2JoMVFUWklJMGVRRURQR0NWQWhqY1R4bGtzdDJTS05CZmhFSTd5VVZtczRDS2NHTWtScXFISG42Z0lpVzVqc04tcnZpU1V1ZkhDS0Nud1JCSVJ1S0lCVl9SbEQwalloc2pjUGtRZnVLYXV1UFk?oc=5",
+          "description": "Bce, l’ombra dell’energia sui tassi: verso una stretta al 2,5%. E i governi vanno in pressing La Stampa Perché la Bce può aumentare i tassi Il Sole 24 ORE Bce e Boe, il mercato ora prevede quattro rialzi dei tassi entro il 2027 ANSA Mutui e BCE: rate in aumento fino a 53 euro nel 2026 Facile.it BCE, gli operatori vedono più strette: rendimenti Eurozona ai massimi pluriennali Borsa Italiana",
+          "pubDate": "Wed, 09 Sep 2026 06:30:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Bce e Boe, il mercato ora prevede quattro rialzi dei tassi entro il 2027",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/09/bce-e-boe-il-mercato-ora-prevede-quattro-rialzi-dei-tassi-entro_73ea4a5f-0ae4-4614-82f5-51200bfecb18.html",
+          "description": "Gli operatori scontano una stretta domani con inflazione e crescita a massimi pluriennali",
+          "pubDate": "Wed, 9 Sep 2026 17:59:02 +0200"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "milano",
+      "n_items": 12,
+      "n_sources": 5,
+      "category": "economia",
+      "score": 66,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Temporali su Milano: all'alba e intorno alle 13. È allerta arancione. Una ventina gli interventi dei vigili del fuoco - milano.corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNZWlkdG5FZTUwQVY0S012dnJVOGkzdjBYT0tHcnVJRkNELWs0UHdOdkV6c1gzTVNKa3c5ak43Y3ZPWU1GWHhTbFI5QXVUbFgyQ29DRlJrTFRac3ctS0JLcFh3QTF2bHM0ZDVQU3BkaEhPNVVIQ2NXOEVDOE5yaTlkUEVKRXFpcG1iUzYweTNySzMzNWxwWTBEbWdqSkdHUG93S2VPUjk0MTNPSE5YejVRS095c1A3OGg1bVRXRVVjY3BnY2NOdEFxXy1NaHQzRkxBX08zbXdyNElWTFZYSDFwX0Y0Z0pFc2pGUEo5YTd3R18wSGhsQzBaMFRTY3UxeDFtalZ0WFpFYlM5WGpBTlZ1X0cyX2pjMXhlV2p0RFBGSlZGQmxtN0lGSDZjTkYzNExwaVJYWGdrMDRpRFhGR1FGczNnTUw3SUnSAcwCQVVfeXFMTVQxcmFzd3NuWjN1NDR5VHFFMVVTODAxN1d3RXRjZXVTdUFsSjBHZGMya05NNVJ5dHgtS2tiRlpSMS1ITVFhaEJWQlZUU3Yxem1JWnJUTjhIX0NHWXFMYWktM21DM3o0Y29ybkx6VWpiS0JPczA1WmQ4ZThJTk9ZbUhxTzJPalJobE90RWVOYlZfN2Vwd1VFYzBNVkc0Z0hUMDY3ZXhtakpGSVdTeU5OR0RYYlNEWDk5MnhQTmFTQnFQcVBkcXFmWUVRcmhJTS1qaTZ1a24zcG9MT0kxa19NTUJvTms2b1dLRWpoaDdLZnpJSHE5SlNwLUdvanVGZUtTN0NUcmJTRGNOSzFNcjExSzNidW9DLWMzM0hKeGlNLVlpRkhaZFZ2T1NQcjBYaG1VWEh2TzBUS19xT21IVmgwcm9tUFd4NXd1ajNPRVM?oc=5",
+          "description": "Temporali su Milano: all'alba e intorno alle 13. È allerta arancione. Una ventina gli interventi dei vigili del fuoco milano.corriere.it Maltempo: allerta arancione in Veneto, Emilia-Romagna, Toscana e Marche Dipartimento Protezione Civile Previsioni meteo, perturbazione atlantica massime in calo di 10 gradi. Ma nel weekend torna il sole la Repubblica Maltempo, massima attenzione: «Previste in pia",
+          "pubDate": "Wed, 09 Sep 2026 16:56:21 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Milano, bimba di due anni morta all'ospedale Buzzi: aperta indagine - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb3NWc19MV3AtaU8tTVl1aXBON09pUnRMTjBjSUpoNTNMaEktN3djLWRkTWsyZjctSVlaRnhEbXhicDViZnZvUWJmUUNvY05Wbzl5am5wRTQta2FZOVZUeVBqcm9RV05BaWhDTVlvcEZrRjNMcEc3Z0NDOVRWcFBPQWV2ZWo?oc=5",
+          "description": "Milano, bimba di due anni morta all'ospedale Buzzi: aperta indagine Sky TG24 Milano, bambina di due anni muore in ospedale: era arrivata al Pronto Soccorso di Rho con il mal di pancia, aperta un'inchiesta milano.corriere.it Cartelle cliniche e autopsia per fare luce sulla morte in ospedale della bambina di due anni milano.repubblica.it Muore in ospedale una bimba di due anni: era arrivata con il m",
+          "pubDate": "Wed, 09 Sep 2026 15:20:35 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Milano Fashion Week da record con oltre 200 appuntamenti",
+          "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/09/08/milano-fashion-week-da-record-con-oltre-200-appuntamenti_66aab3d7-94fe-4061-82a0-a6f110a799db.html",
+          "description": "Da Vogue World alle passerelle, attesi 141mila visitori",
+          "pubDate": "Tue, 8 Sep 2026 20:37:23 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse europee negative alla vigilia della BCE con rendimenti titoli di Stato in rialzo - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQcll1dGdoN0RjX1pjTmx1TVdzVlUyQVgyUmFFd0Zacy1ua0tMUnU4RVlnX3RmOG9CNHRabl9Mb091MDlwZUJsWkJBeXRqejhsS3NwVVYyeVJMTV9VZTJMTG53WUN6WUtwalBnZ190cWNrelVfeGZWOVZKTExJd1owYWJLWnhxTUY4QU1TT1NxSjQtZEN4cXFUbk1EbXY4a1IxZ2VCbUVqUWo1a1RIeVhTbXc3aVdIT05uVWZBTzhLQ3NSUmhOeEJCT3A2SXhjdUUtN3dBX1NKSUdqVXF3N0prTDRMaEc4SFE1bDI1UWxuU013SVZUUVpQRU15TFItVVBVSUh3M1JVbk5QeHkxTHc?oc=5",
+          "description": "Borse europee negative alla vigilia della BCE con rendimenti titoli di Stato in rialzo Borsa Italiana L'azionario europeo chiude in rosso mentre continua la corsa delle commodities energetiche Borsa Italiana Borsa: Milano chiude in calo (-0,58%), pesano Leonardo, Fincantieri e Avio ANSA Borse ancora giù col petrolio, per Wall Street terzo giorno di cali RaiNews Le Borse oggi 9 settembre. Il petrol",
+          "pubDate": "Wed, 09 Sep 2026 14:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Il prezzo del petrolio ha superato i 100 dollari al barile per la prima volta da luglio - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CZENnRWhidUVibHJldHpnRFhzajZVbmhTeS1FOFlxUDJ1aDVXdmlqa2ZzM1hNVVJELTNoMlJxQWpFX0pGVlJqYzJ3S0lONXNHdjlqNjgtSVZzLW50Z3h2NllNMEVtLWpISXpSTnJKU0wxdUt0bWNnMQ?oc=5",
+          "description": "Il prezzo del petrolio ha superato i 100 dollari al barile per la prima volta da luglio Il Post Il petrolio prosegue di corsa, il Brent oltre 100 dollari ANSA Wall Street in rosso zavorrata dal balzo dei rendimenti e del prezzo del petrolio Borsa Italiana La corsa del greggio sostiene il comparto oil, a Milano sale Eni Il Sole 24 ORE 3 giorni di perdite, il Dow, l’S&P e il Nasdaq scendono mentre a",
+          "pubDate": "Wed, 09 Sep 2026 15:31:43 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "apple",
+      "n_items": 16,
+      "n_sources": 4,
+      "category": "general",
+      "score": 64,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "bbc-business",
+          "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
+          "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+          "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+          "pubDate": "Wed, 09 Sep 2026 20:00:33 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "L'evento Apple in diretta: ecco iPhone Duo, il primo smartphone pieghevole di Apple. Costa oltre 2.300 euro - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTmktM3N1akFCMXlBekdRZExIaTZIWktuSDBlN2FTcTlYWUloZUVEUFNNNlhIMTVjQVM5c0NiTFdvVVc3WHBxVGRFdDlHcEh3SGxkTC1wVFZ5MVo1dnNCVlM1YXgxNGMtbkNsZzExTnFzQVJ3NGFCV01oVHVLY1hLMXFrdTJaSWtCa3FELUhOVWxYbGhuVTJtSUo3NU1oN0FNdGNLSFJLWE5STDBVVXhyUnM2LUItZnJYUWRYMThXbjVHY2JiRzlhbWNDQXdRX2l2Vm9iS2ExenV0YUY1aXdkOTBhWW5uSFVWamdmbjJB0gHzAUFVX3lxTFBKWWpXR1ZmS0F1OS1HUjFUenFta2hJXzlaU1BoRnZpWl8zaHBuWW1yOFNSY3hxNXJadXh0d1ZIQmdiYVE0b3R6UHZaRHR1enZNSjQ4S2pFdkRZRmtVNUFERldiczlJcTNXdkFra3B0RndBaTl6b2x2cWQ5c0xKZ3d3cXdWNDFmMUdldGR1SzdkRklORklpaG1UbmEwN3FaM1NTUkxjb1d6N1VoQlBWOXZNSk51LTU4c3BpdHBkWDJjRGtOVm9NcUJnaGhtUkJfUXhSbDJfSGVPaDRnbFRKSHEzYjJObnpXWFlvZTByVldiNXE1Zw?oc=5",
+          "description": "L'evento Apple in diretta: ecco iPhone Duo, il primo smartphone pieghevole di Apple. Costa oltre 2.300 euro Corriere della Sera",
+          "pubDate": "Wed, 09 Sep 2026 18:40:00 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "AirPods 5 ufficiali: Apple porta l’ANC su tutta la gamma - HDblog.it",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdS1Ea1haMmQ1Unp4YS03VUlhelA3VmI4UUQ3S2JFUEc5d1RRaW9OS1I4MVptdW1pTzdPcVR6TGdoX2h6ekRDYWxOWlBkTHFkYzZhN0N3QkVPb2R6RVh4ZXZCZVhUUDdmU1NPaFItbnFZMTBERGQ1NGFTYk03NGJyWk9qRmlsaGRQSkxGWWY5X3d5THNGVWc?oc=5",
+          "description": "AirPods 5 ufficiali: Apple porta l’ANC su tutta la gamma HDblog.it",
+          "pubDate": "Wed, 09 Sep 2026 17:54:56 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Apple Watch Series 12 e Ultra 4 ufficiali: più precisi, più intelligenti con l'AI | Prezzi - HDblog.it",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSFBVemlWY0c1cjVRYXROU1locW9PeEhhOFpHWC1qTVh3cU1GNjFlN0swa1VCZThua05NeW5hMkVDYmdIakZNbnVJX21ZWU5kSjZSamtrWG5YTVhqRGFZeGRPbVZuQTZGNFBjbWFncTVGWjRkZGttTkxHQUs1a0RZZlFUWG12S3VzOHV6SE9CUHgxQWlhMk0yYkxHX1ZQcXM?oc=5",
+          "description": "Apple Watch Series 12 e Ultra 4 ufficiali: più precisi, più intelligenti con l'AI | Prezzi HDblog.it",
+          "pubDate": "Wed, 09 Sep 2026 19:36:44 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "CNBC Daily Open: Apple's new iPhone bends. Bond vigilantes, not so much - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcHA1U3VRLUZIMERvdjlDODVGS2FPVFZ6MmxfRGFHY0s3QUgxWUp0aUJxWmhSbkpZNE5NVkl3WFA2b0ZTOG5DXzBZNDVIVjFtOGhQeEc1WFZWdkJIMExjSUl1SERXaUVyYkZPZnpia1hNaG51TE8zWElDdE94TXAtTkt1WGxBMmtMUVRTcnJ1TGxnOXRFa1QwNjF0VnQ1X0nSAaQBQVVfeXFMUGhkRkpmOGtydE5IME9kd1JxWFluWEU2X3cyMkZiWGsyeWtZeDlvaV85RFJNNnJVLTVEc25BOGNjU19rZ3g5b01pTWVJVHd6WFh6SDZRd2RJcnJDSHA0Z2t0VlFTelN4aHNQN1EyUlAxVWFxOTVpdjVzRW1IZFBQTENneVdlX01TNmlCQWdPV3dVWlp4SmtXN21yYld0dXdIV1lSSkk?oc=5",
+          "description": "CNBC Daily Open: Apple's new iPhone bends. Bond vigilantes, not so much CNBC Apple unveils iPhone Duo Apple Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999 The New York Times Five takeaways from Apple’s biggest product showcase of the year Reuters Apple iPhone Duo hands-on: This is one smooth foldable phone Mashable",
+          "pubDate": "Thu, 10 Sep 2026 01:41:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "says",
+      "n_items": 16,
+      "n_sources": 4,
+      "category": "general",
+      "score": 64,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "'Pretend I'm on the ballot' in November's elections, Trump says at Republican midterms convention - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51eW9VQlotLXZBQ2V0U3hid0RXaWk1YjlyeGpaa0dNYVFBcjBWaXNJd2FrdXUzRjVKTm9KT29ES2oxWF80bUxLbFNzQ0FQVDVQVUNKUGpn?oc=5",
+          "description": "'Pretend I'm on the ballot' in November's elections, Trump says at Republican midterms convention BBC Fact check: Trump makes numerous false claims in Republican convention speech CNN GOP midterm convention Dallas: Live updates, speakers and key moments FOX 4 News Dallas-Fort Worth Democrats say Trump’s ‘bizarre’ convention is a distraction from his faltering presidency AP News President Trump arr",
+          "pubDate": "Thu, 10 Sep 2026 02:25:01 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Lindsay Clancy juror who backed the defense also publicly cheered Karen Read's acquittal - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNFlfU2pwR0h0TTlIXzdleGxVQVp5Q1VJMVRCd2prc25fMm4zN1FtdWE3TzhSR3ZDLU83LU93eGF1bmRTWnFodGNtYXZNZkhkTXNvWGg1WkFDTl9ZR1JMQU5RYTAwbWEyek9yaDhfMXFpQU9OYjBRTHgxcGVJWEdvMVdyR1NXUjFvNm9CdDVtd0h6UG0zbU1qMkhTSnFGVG8yR0HSAacBQVVfeXFMTUVETjJnVXhFQTRhdXJUNUFYaWRCQUctVTVZbEZsaHZhbVVXcUxzdVpVT3V0ZjcyajJwSmRrSVBkTzFEX2J2X21CbHJfVW5Da2E0ZVVlSlg2Sldpb2RwSkc4QXhPT0hPVnBhZ0JscXNUVHBaX0EtdU1TZ3Vycnl2QmhXSXFodXhaMmU0d0lGWUV4MXJTWE55czc1UVV5QnlEczB2bldsUDA?oc=5",
+          "description": "Lindsay Clancy juror who backed the defense also publicly cheered Karen Read's acquittal Fox News Three Jurors in Clancy Trial Describe Frustration With Holdout The New York Times 'Emotional rollercoaster' - Lindsay Clancy jurors speak out on what led to mistrial BBC Clancy juror says holdout didn't show 'single piece of evidence' explaining vote abcnews.com Lindsay Clancy's attorney says he's goi",
+          "pubDate": "Wed, 09 Sep 2026 21:07:42 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Plane carrying Zelensky threatened by drone in Moldova, Norway’s premier says - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWVh5cFVGMm5OY2ZMVXRJVTNjUEt2cXNrdHpsVFpYVFM3RE5zVjdnOE9uR244MlFvMVU1WXplaDExMWxwaUppZ3FpU0FsVHM2S2d2WGhpN1hveWlKT2tabXktb0ZmNjd4Y2hRd1NBeVlDWnRWSFpycS13VHBGaVg4elR2UWt6cWgwSm9ncDV4SE03U0IwR1lVY0ItdGdoNGNsMm5RQ3lScFJTMjRzQjJra1R2ZFNUaWd3dVVSdUJn?oc=5",
+          "description": "Plane carrying Zelensky threatened by drone in Moldova, Norway’s premier says The Washington Post Russian drone incursion delayed Zelensky’s departure from Moldova CNN Zelenskyy's plane almost hit by drone en route to Norway king's funeral, prime minister says CBS News Drone almost struck Zelenskyy’s plane, says Ukraine Financial Times Drone alert delayed Zelenskiy's departure for Norway, Moldova ",
+          "pubDate": "Thu, 10 Sep 2026 03:35:39 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3cjcxUXVXeXc4QzBpMUpzWE9ZV2xBZzBsT05SM3JCVkhocnVfM1hyYUZrZk9XckgwNGpGcHZGMm1DXzVuaHQ4SVM1YXh1X0dmeEtxQ2psUlYzdw?oc=5",
+          "description": "Muted US response to UK's West Bank sanctions may reflect simmering frustration BBC Europe Unites to Pressure Israel, Breaking With U.S. The New York Times Miliband says UK had to 'call out' Israeli West Bank settlements BBC Trump didn't oppose UK sanctions on Israeli settlements Axios Israel sets deadline for Britain to close consulate as settlers warn of sanctions hit Reuters",
+          "pubDate": "Wed, 09 Sep 2026 21:21:13 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "With Close Calls on U.S. Warships, Iran Shows New Appetite for Escalation - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRE45TS1sS3dPVjlLNzNEdVBVSE4wUzI2OXZGb2NPbnNhX3dDZmxxeHJlQVZHRTdTaXpyMGhsWW52Qkl6OC0tQ1lUN1J6RTNuRkNjblFKVTlwcmpWSXkyYzk1V2FyeWRCcHZfb3l4dlZKT2NKVHloOTR3bmYxcGVxQ2FfcVR2X19oeV9sb0llNElNQ2VSQlNnTXRrdmdibjZ3eTJhaGdFd3hlV2hhbTJ2NllIbkQybjZTa0E?oc=5",
+          "description": "With Close Calls on U.S. Warships, Iran Shows New Appetite for Escalation WSJ Iran fires new electro-optical missiles The Telegraph Iran fires electro-optical missile for first time — aiming at US warships: report New York Post Iran war: Tehran’s assertive rhetoric signals a new and dangerous phase in conflict theconversation.com Iran says improved ballistic missile shows it will take preemptive a",
+          "pubDate": "Thu, 10 Sep 2026 01:00:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "rischio",
+      "n_items": 9,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 60,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Meteo, temporali forti e grandine. Scatta l'allerta arancione in Toscana - FirenzeToday",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTG5JMXlTcl80enM3Z3NMRlBNdGxfX2w0R1lxUlNPNUw1V2pKY2lfZk1RaVFrU0JRSjNwdE9tNDlGS3E4X1RoWl9Rek1GUFRQd3pzMjJYaUw3Q1RFaVBUWmU2ZTFPMTh1clVSTnBGQkFTRzlPbURaRElONWVPS2RFQllLMA?oc=5",
+          "description": "Meteo, temporali forti e grandine. Scatta l'allerta arancione in Toscana FirenzeToday Allerta arancione per forti temporali con rischio idrogeologico/idraulico del reticolo minore Comune di Livorno Temporali e grandine sull'Italia: estate agli sgoccioli? Le regioni in allerta meteo arancione e gialla Adnkronos Maltempo in Toscana, giovedì allerta arancione per temporali Corriere Fiorentino Firenze",
+          "pubDate": "Wed, 09 Sep 2026 13:31:57 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "“Crollo della capacità di lettura in Occidente? Smartphone e social distruggono la concentrazione. E ora il rischio è l’IA” - ilfattoquotidiano.it",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONDhJbzRWelBjRmxDX3hoSWdvZ0lOd3hpZElUMTZ0LTltRy16XzF2Rm5XY0FFcDE0TXZPUGMtNG9vOFFDbDJIWVdxLXpNVVlMbVZYeEFWVkZicjJMRFF3S1RqOTctS1A0ZUJPWTVOeFhKT2dsY3JwcjRJcGR3LUhqUVhxNzZZcjBlaHd0UGJpMmRDSUM1V3A5TzZOc21KVlU4QUM2eEVaWUF1TEZaNUVfT1liTWdONHc0TlVaaVB6VDM?oc=5",
+          "description": "“Crollo della capacità di lettura in Occidente? Smartphone e social distruggono la concentrazione. E ora il rischio è l’IA” ilfattoquotidiano.it L’Ocse boccia gli studenti. Il prof Coluzzi: “Per loro leggere è fatica. Educhiamoli alla lentezza” la Repubblica L livel de istruzion di joegn à arjont n minim storich: doman la prejentazion di dac per l Sudtirol RaiNews L'Ocse elogia la resilienza del M",
+          "pubDate": "Wed, 09 Sep 2026 16:06:58 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Ricercatore di Anthropic si dimette: \"Umanità a rischio entro la fine del decennio\" - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRXBncDVNNE9rbWxfeUkyQnhMblQwQk9IemJyV3RLYWxuendBQUZLdTVELWpUZFBITndNSDdkclhJd2dTcUlNRFRENVVON2JJR2lWYW1ITF9hOEsycFRKYWhJQ0V2bV9FZWltNndPOHo2MWdXeEQwVVNUSWJXb0VSWnhlaEZnc0NGNW8ybEgxZi0tdzNDV2xGWW5nSkZLMUcxUnR0M1BEMkZTMTVVZ2dJZ2NrRFI5ZUt3Mk5NUE8xRmgxSDFlYkpkYmpwOE84MTR1N1h5Tkp3Szdjb2ozSEstWFhpQWhCeEhhTmNkbHpsVWpFRjBYY1R1NtIB_gFBVV95cUxPd3JMeE9XOVhqUTJKbkFUSkFCNGlWMEdkV3Q2QW1qOEZmMVpnWFp1b3BxTHVzQk5qOVFxMXQ0OUs3ZDJzcUJVZGJWdTFNdjg5Mm1Bd2N2MDVOTHJRRnIwZGJRNkhNSEJBUnBKSUtubTBPbDBpQXBnRHlsUmt4b3RPcTJiYl9BZTZCQVBYMWRxb3h5X1I3d2RnZXVDNmdEY09tRmx4WjJ0aGN2WFRKcmpDZnA0RHFrQ3E2S0ozeC04U0RWOUR4bmNNR3IwYVVaUm1rMDc3eW1WQ3hzNnZqdE5pMFF5dS1xNXJrNHltdC1oNXRfSEVIdS0tdlJrRndBQQ?oc=5",
+          "description": "Ricercatore di Anthropic si dimette: \"Umanità a rischio entro la fine del decennio\" RaiNews “È a rischio l’umanità”, l’accusa del ricercatore di Anthropic che si dimette per motivi etici la Repubblica \"Credono che l'IA potrebbe ucciderci tutti\": le dimissioni choc da Anthropic ilfattoquotidiano.it Ricercatore di Anthropic si dimette per paura che l’AI sfugga al controllo umano Il Sole 24 ORE Un az",
+          "pubDate": "Wed, 09 Sep 2026 18:22:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Perché questo top manager di T. Rowe pensa che i rendimenti dei bond possano ancora salire - Morningstar",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLTVtX051a3JhT1ViZE8tckQzS1ZJdmZmNTFuZkF3Nk55NmdRT2RNRG9vZWdMdkFaalNvMlZ4bWp2VDMzT3gyZzVodUFWbHhIN3p6NjN2c2t2YVZwamxaNlFRZDVGTlM1YUswczlQXzUxVmlLNGdkVk1DWHlkV2ptbkI4R29fZVpVY1pwMFRFbGRNUU5qZWRmLXZYSWtST2x2QUJGaFRhNTA0R1RXVTQwOXNzdUZyb19LbWRlSTdSSzVtWjUzV19xN2Vn?oc=5",
+          "description": "Perché questo top manager di T. Rowe pensa che i rendimenti dei bond possano ancora salire Morningstar I rendimenti dell’Eurozona restano elevati con l’aumento dei prezzi dell’energia in vista della decisione BCE Yahoo Finanza ***T-Bond: rendimento a 10 anni al 4,85%, massimi da novembre 2023 Il Sole 24 ORE Sheets (Citi): “La Bce manterrà il rigore. Ma il vero rischio globale è la rivoluzione dell",
+          "pubDate": "Tue, 08 Sep 2026 09:13:16 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'allarme dei big, 'rischio estinzione con l'IA, è come le pandemie'",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/lallarme-dei-big-rischio-estinzione-con-ia-e-come-pandemie_3afde5e5-7bcf-464e-b3aa-aee6577a9b23.html",
+          "description": "Nyt riporta lettera di 350 leader industria, anche ceo OpenAI",
+          "pubDate": "Tue, 30 May 2023 14:12:41 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "ilfattoquotidiano",
+      "n_items": 11,
+      "n_sources": 5,
+      "category": "general",
+      "score": 55,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ranucci, il candidato che non vuole candidarsi: \"Ho il 7 per cento come Vannacci\" - Il Foglio",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUEFDeXl5UjRLVThRUUo1RHdLVDlpbEJVYVA0Y2gxR1lnMWRrLWU2QWxFUFE0aGxiWS1aVVJJN25QUFNXWVBIZVVBTWVScEhULXRJZHVXRGp1ejB3aHJ0R1RvdHhqamlnRFpFdzY2eWU5aUdKMXpzNU1icjNrdE9pdGVOVEdnM0dpNlBxbjJMOTN4bXNReVhkNXVUZlVXODVyNnJpTzVuR2FmLW5uUFplTkx6LVdGc1g0U0NHQ0o2c3gyTkpSdTIxTlBzSkM5UG8?oc=5",
+          "description": "Ranucci, il candidato che non vuole candidarsi: \"Ho il 7 per cento come Vannacci\" Il Foglio Ranucci non si candida. \"Do più fastidio come giornalista\" HuffPost Italia Ranucci: “Non mi temono in politica, ma in televisione” ilfattoquotidiano.it Ranucci: \"Per il 63% degli italiani potrei guidare il Paese, ma non mi candido\" Adnkronos Ranucci non chiude alla politica. Faro sui servizi mai trasmessi l",
+          "pubDate": "Wed, 09 Sep 2026 12:46:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "“Crollo della capacità di lettura in Occidente? Smartphone e social distruggono la concentrazione. E ora il rischio è l’IA” - ilfattoquotidiano.it",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONDhJbzRWelBjRmxDX3hoSWdvZ0lOd3hpZElUMTZ0LTltRy16XzF2Rm5XY0FFcDE0TXZPUGMtNG9vOFFDbDJIWVdxLXpNVVlMbVZYeEFWVkZicjJMRFF3S1RqOTctS1A0ZUJPWTVOeFhKT2dsY3JwcjRJcGR3LUhqUVhxNzZZcjBlaHd0UGJpMmRDSUM1V3A5TzZOc21KVlU4QUM2eEVaWUF1TEZaNUVfT1liTWdONHc0TlVaaVB6VDM?oc=5",
+          "description": "“Crollo della capacità di lettura in Occidente? Smartphone e social distruggono la concentrazione. E ora il rischio è l’IA” ilfattoquotidiano.it L’Ocse boccia gli studenti. Il prof Coluzzi: “Per loro leggere è fatica. Educhiamoli alla lentezza” la Repubblica L livel de istruzion di joegn à arjont n minim storich: doman la prejentazion di dac per l Sudtirol RaiNews L'Ocse elogia la resilienza del M",
+          "pubDate": "Wed, 09 Sep 2026 16:06:58 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Ricercatore di Anthropic si dimette: \"Umanità a rischio entro la fine del decennio\" - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRXBncDVNNE9rbWxfeUkyQnhMblQwQk9IemJyV3RLYWxuendBQUZLdTVELWpUZFBITndNSDdkclhJd2dTcUlNRFRENVVON2JJR2lWYW1ITF9hOEsycFRKYWhJQ0V2bV9FZWltNndPOHo2MWdXeEQwVVNUSWJXb0VSWnhlaEZnc0NGNW8ybEgxZi0tdzNDV2xGWW5nSkZLMUcxUnR0M1BEMkZTMTVVZ2dJZ2NrRFI5ZUt3Mk5NUE8xRmgxSDFlYkpkYmpwOE84MTR1N1h5Tkp3Szdjb2ozSEstWFhpQWhCeEhhTmNkbHpsVWpFRjBYY1R1NtIB_gFBVV95cUxPd3JMeE9XOVhqUTJKbkFUSkFCNGlWMEdkV3Q2QW1qOEZmMVpnWFp1b3BxTHVzQk5qOVFxMXQ0OUs3ZDJzcUJVZGJWdTFNdjg5Mm1Bd2N2MDVOTHJRRnIwZGJRNkhNSEJBUnBKSUtubTBPbDBpQXBnRHlsUmt4b3RPcTJiYl9BZTZCQVBYMWRxb3h5X1I3d2RnZXVDNmdEY09tRmx4WjJ0aGN2WFRKcmpDZnA0RHFrQ3E2S0ozeC04U0RWOUR4bmNNR3IwYVVaUm1rMDc3eW1WQ3hzNnZqdE5pMFF5dS1xNXJrNHltdC1oNXRfSEVIdS0tdlJrRndBQQ?oc=5",
+          "description": "Ricercatore di Anthropic si dimette: \"Umanità a rischio entro la fine del decennio\" RaiNews “È a rischio l’umanità”, l’accusa del ricercatore di Anthropic che si dimette per motivi etici la Repubblica \"Credono che l'IA potrebbe ucciderci tutti\": le dimissioni choc da Anthropic ilfattoquotidiano.it Ricercatore di Anthropic si dimette per paura che l’AI sfugga al controllo umano Il Sole 24 ORE Un az",
+          "pubDate": "Wed, 09 Sep 2026 18:22:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Zelensky: “Pronto a compromessi, ma anche Mosca deve cedere qualcosa. Fedorov? Mai più sentito” - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMDZDX3FFSEJkQzFCeGh5RThMNGc4YmFtcUxDa1MtVXhfR19RLTlzenFJbFpFTXRndzRzN3NtSnptd25XMC05bjU4QzBxTnpjZ0NsLUI0TS1nZUlibjJ6cGhKWjVzU21YYk16MDZ3SDFMZ0ptRnA5aUtjMlFKSTJoQmFVTlItV1lDcGhjUzhwd0toQjV4RGRVMkJ1aFhyb01udVZEX1RDZXNHSFpXeWNSeWItbFk3ZThiMHFvTTRTaVNYQzgzbFpGRmlSRC1odktleVdFTnQwZ0ZZUHJqQk4xblcyNNIB6AFBVV95cUxNbEd5UmlsY3pMcWIyT2ZDTFMzc1lKc2g0M2haYW51QnpNY21JTjE3V0E4Z3A3eGVQQlY5OC01dlJHVjJnT2VncmhzVTFER1ZfcUcwcUNocHhfb3RCQ3lzWkt2ZDhmd2lZeWxKTFk3TnNhZUVWLTM2VGNEQnJLaU9wM082VmpJdTBBLWgzNHV6VHJUdGU0dXNTdkl1RmV2NFh5NjVQZm10ZDNUMnBnZVlPYk1lZHRudFBFNE1kelZmdzhxVHpfUmVkVlB3Z1NYeXZwd1I5ZXZYODRtaDJNSE5FRWIyQ0Z4M2V4?oc=5",
+          "description": "Zelensky: “Pronto a compromessi, ma anche Mosca deve cedere qualcosa. Fedorov? Mai più sentito” la Repubblica Zelensky: “Noi pronti al compromesso, ma anche Mosca deve fare passi avanti”. Kiev: “Comprati 1.000 missili Patriot” ilfattoquotidiano.it Guerra Russia-Ucraina, Cremlino: \"Auspichiamo ripresa dei negoziati tripartiti con Usa e Kiev\" Tgcom24 Trump chiama Putin e i russi esultano: «mai così ",
+          "pubDate": "Wed, 09 Sep 2026 07:17:13 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Webuild scivola a Piazza Affari: timori per i costi delle opere - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdks4Y29SeElyZHBUampTZnYtN1Roei1BVmd4dWNPd01hdmhpa0pYTkJySklwNUVnaEluSjdQaFZNajRCQXJXMUUwR012aDNrUG9yejFrY3Jpd2luSzlsbnMwVG5xaWFYT0UzYU92VGtQX3lwN2tfc245VW9kRWNDZzJQQ3lxWGdjSDF4bkFoWE1yVTBleWtpTEMyaUJiLWxmdm5CX0JPOWY?oc=5",
+          "description": "Webuild scivola a Piazza Affari: timori per i costi delle opere la Repubblica Grandi opere: Webuild vuole dal governo “22 miliardi di extracosti” ilfattoquotidiano.it Webuild, esposto a Consob su diffusione \"notizie false e fuorvianti\" con impatto sul titolo Borsa Italiana Crediti scaduti e cassa in affanno. Webuild crolla dell’8% in Borsa Il Messaggero Webuild: conferma guidance per il 2026 Il So",
+          "pubDate": "Wed, 09 Sep 2026 18:38:04 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "massimi",
+      "n_items": 12,
+      "n_sources": 4,
+      "category": "economia",
+      "score": 54,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Accise carburanti, altra proroga al taglio. Aiuti mirati in pista da ottobre - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVFY4cVpDQzJrNjBiSGhlLVMxMHBJVXlIV21JNV9BS0pQM2wwZ0JVVGhFRk1iZEYwM3NzeXd2czVVZVpCeGJKVERXcVA5R3V0bDAxRXdNalpzaEVpcXczcW1XQ1VhR0tWZ19SNjVPTDYtbFA5aXliaFNJSHhaU2NoY1MyTzlCcFBFRFV1YjVva2JjakJVak10VHQxME1Na1ZLMnBhcjB2UVI?oc=5",
+          "description": "Accise carburanti, altra proroga al taglio. Aiuti mirati in pista da ottobre Il Sole 24 ORE Diesel, un’altra proroga al taglio delle accise. Gli aiuti mirati non partono la Repubblica Mimit, prezzi carburanti ancora in rialzo, benzina self a 2,067 euro ANSA Carburanti, altra proroga di due settimane per il taglio delle accise: petrolio verso i 100 dollari, gas ai massimi da tre anni e mezzo Corrie",
+          "pubDate": "Wed, 09 Sep 2026 06:15:51 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra, ultime notizie. Aiea deferisce Iran all’Onu. Gas sui massimi dal 2022 - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN2hleVlKWDd5SHJRTGkwMEJiMll6WEktcFV1SnBGQ0I2X1EtdkpLclpfN2xhaFloWmJPWHNVeWVWcjVNYW1lZ21ud0MxRC1PMnVkOEVzR0poQV9kT3FoWlJta0FsWnAtT2VCbnlrdzJ5NzE2ZjJzaXVVeC1qOVk3eG5BODVxRm12LTdWMjU1dHhEWU9GeURaYUMtUk9fcm5aX3BMT2kxYXRqN1JBV0NvYTV4RnN0cG9rYi1COU1uSFg2enFD?oc=5",
+          "description": "Guerra, ultime notizie. Aiea deferisce Iran all’Onu. Gas sui massimi dal 2022 Il Sole 24 ORE Nucleare, Aiea deferisce l'Iran all'Onu RaiNews Guerra Iran-Usa, proseguono gli scontri nello Stretto di Hormuz: distrutte 5 petroliere iraniane Tgcom24 L'Aiea deferisce l'Iran al Consiglio di sicurezza dell'Onu ANSA L'Aiea deferisce l'Iran al Consiglio di sicurezza dell'Onu: «Non rispetta gli obblighi sul",
+          "pubDate": "Wed, 09 Sep 2026 22:23:50 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Bce, l’ombra dell’energia sui tassi: verso una stretta al 2,5%. E i governi vanno in pressing - La Stampa",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONFpaZXhLdVJWYjlTTXpJVGoxNmQ3TDliS0l6ODVDZUJyOUozSUhHb3J1REY4Y01qdEQzcEZaeGVUOWJ1c3pIeWFjdHJPRmFCYVQyckpNbmQ2WXh4MC1UaTlhMFZhMlNMaFNyTkpEMnFVNjliRDQ1WV92WlhhMEtzYlVQSk1ZYk9NRmhiTVYwVHc5d3NmbkJrY0NKb1E0cE9MbnfSAacBQVVfeXFMTXkweXFONkpaX0RxT1B4SGlFMDVMeTZoaHdzSlpaZUYyN1RxRWVRYnA4cFJTR3RRMkViU2JoMVFUWklJMGVRRURQR0NWQWhqY1R4bGtzdDJTS05CZmhFSTd5VVZtczRDS2NHTWtScXFISG42Z0lpVzVqc04tcnZpU1V1ZkhDS0Nud1JCSVJ1S0lCVl9SbEQwalloc2pjUGtRZnVLYXV1UFk?oc=5",
+          "description": "Bce, l’ombra dell’energia sui tassi: verso una stretta al 2,5%. E i governi vanno in pressing La Stampa Perché la Bce può aumentare i tassi Il Sole 24 ORE Bce e Boe, il mercato ora prevede quattro rialzi dei tassi entro il 2027 ANSA Mutui e BCE: rate in aumento fino a 53 euro nel 2026 Facile.it BCE, gli operatori vedono più strette: rendimenti Eurozona ai massimi pluriennali Borsa Italiana",
+          "pubDate": "Wed, 09 Sep 2026 06:30:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "I prezzi del gas europeo raggiungono massimi pluriennali tra i timori per le forniture di GNL dal Medio Oriente - Yahoo Finanza",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOHEtdXV6ZnJwa29ab0lSUm1MNUpsYmMtRzk4akt0OUUyZVBtdDBSMlBtZnBwYkdxTE9IOS1ueGU2UlZjeXhMaGlyV05YQVhRSFZ5LTlxV0FKT1NCa195bG1XTTBuVm4xbHV6YThFeDlRb2xqTm8ydWx4UW9MMTdPdnFRdVZZdDRPUGQ0ZV8taw?oc=5",
+          "description": "I prezzi del gas europeo raggiungono massimi pluriennali tra i timori per le forniture di GNL dal Medio Oriente Yahoo Finanza Il gas supera i 79 euro ad Amsterdam, sui massimi da 3 anni ANSA Gas, scorte in Europa ai minimi storici. Algebris: inverno più caro, servono 11,6 miliardi Milano Finanza Natural Gas (Amsterdam) a 78,5 euro per Megawatt-Ora alle 19:30 Borsa Italiana Quali sono gli impatti s",
+          "pubDate": "Wed, 09 Sep 2026 09:21:06 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Le Borse di oggi, 9 settembre. Europa in calo. Lo spread sale a 85 punti, ai massimi dal 2023 - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZk1DV2pWSklSdFZCb2JwaHVkcjV6LWZ6ejNVelhwal83SEFDbDdZR1pnckJiWE5Gb1NHMXAxeWlMbUJZU2V5VzJINGR5Qnh5ekRhdE5faVg4S0pDZzNUdEllR0dlODU1dDlTU3JYVFpEUk84MTd4S1BNejhrYUlvcm9od0E1dE4xMHp4b2U1NjRtM2JLdF9pajlLMlhhM05ycHdwYjNOX3NPbnJ6TVhqNUxaOVp0WW1kREp3?oc=5",
+          "description": "Le Borse di oggi, 9 settembre. Europa in calo. Lo spread sale a 85 punti, ai massimi dal 2023 la Repubblica Borsa: Profondo rosso per Parigi, in discesa dell'1,94% Borsa Italiana Analisi Tecnica: indice CAC-40 dell'8/09/2026 Teleborsa Borsa: l'Europa chiude in forte calo, Parigi -1,94, Londra -1,31% La Gazzetta del Mezzogiorno Borse europee in rosso: Parigi giù dell’1,94%, cali su tutti i listini ",
+          "pubDate": "Wed, 09 Sep 2026 07:23:42 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "europa",
+      "n_items": 8,
+      "n_sources": 5,
+      "category": "economia",
+      "score": 46,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "Il caldo tormenta i turisti, più sensibili i francesi, stoici gli americani",
+          "link": "https://www.ansa.it/canale_viaggi/notizie/news/2026/09/08/il-caldo-tormenta-i-turisti-piu-sensibili-i-francesi-stoici-gli-americani_d2808d91-3e52-45ac-9ff1-f2e978e2f988.html",
+          "description": "Ondate di calore iniziano a ridefinire la percezione verso l'Europa mediterranea",
+          "pubDate": "Tue, 8 Sep 2026 18:30:28 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "I prezzi del gas europeo raggiungono massimi pluriennali tra i timori per le forniture di GNL dal Medio Oriente - Yahoo Finanza",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOHEtdXV6ZnJwa29ab0lSUm1MNUpsYmMtRzk4akt0OUUyZVBtdDBSMlBtZnBwYkdxTE9IOS1ueGU2UlZjeXhMaGlyV05YQVhRSFZ5LTlxV0FKT1NCa195bG1XTTBuVm4xbHV6YThFeDlRb2xqTm8ydWx4UW9MMTdPdnFRdVZZdDRPUGQ0ZV8taw?oc=5",
+          "description": "I prezzi del gas europeo raggiungono massimi pluriennali tra i timori per le forniture di GNL dal Medio Oriente Yahoo Finanza Il gas supera i 79 euro ad Amsterdam, sui massimi da 3 anni ANSA Gas, scorte in Europa ai minimi storici. Algebris: inverno più caro, servono 11,6 miliardi Milano Finanza Natural Gas (Amsterdam) a 78,5 euro per Megawatt-Ora alle 19:30 Borsa Italiana Quali sono gli impatti s",
+          "pubDate": "Wed, 09 Sep 2026 09:21:06 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Partenza in rosso per l'azionario europeo, a Piazza Affari focus su TIM dopo il rilancio di Poste - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOZlJkb05QR2VzX19iQzVQSGVEREFLcXlyd0gxaFo1Tk5BZFIxei1vSVpCLTFrYnBoSjd6MnI4RmxncnRLWU5wYTZ4TnJkcGQ3WXhVTkRZTjBpR3EyM1lzZnZlbk5YLXM1QURvRzRHY1N4ZHMzYWRuOWhubFcxTWZmaDRwdzhhZ1NkOC1QenVFaG1QaFFycGhDUFB6OEsxSERQdl9ESVZVUHBRbTNZZmRpd29nTjVjWG1rc0h0VEwwM1AtRURRU0RBWFl1ejB4YWFSQUNPeFRMX1UxbWtuNVB6OWpZQlhnalQ4Rk8wVHNKeTlWRWNxUGNLX0FwWFBJTzhLTmllZXlpTFBqeDVITERkenl4TTBGbEZl?oc=5",
+          "description": "Partenza in rosso per l'azionario europeo, a Piazza Affari focus su TIM dopo il rilancio di Poste Borsa Italiana Borse, caro greggio pesa sull’Europa. A Milano (-0,1%) bene Tim con rilancio Poste Il Sole 24 ORE Borsa: l'Europa chiude fiacca con la corsa del petrolio ANSA Le Borse europee chiudono poco mosse in attesa delle banche centrali Borsa Italiana Le Borse di oggi, 8 settembre. Mercati debol",
+          "pubDate": "Tue, 08 Sep 2026 07:45:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Le Borse di oggi, 9 settembre. Europa in calo. Lo spread sale a 85 punti, ai massimi dal 2023 - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZk1DV2pWSklSdFZCb2JwaHVkcjV6LWZ6ejNVelhwal83SEFDbDdZR1pnckJiWE5Gb1NHMXAxeWlMbUJZU2V5VzJINGR5Qnh5ekRhdE5faVg4S0pDZzNUdEllR0dlODU1dDlTU3JYVFpEUk84MTd4S1BNejhrYUlvcm9od0E1dE4xMHp4b2U1NjRtM2JLdF9pajlLMlhhM05ycHdwYjNOX3NPbnJ6TVhqNUxaOVp0WW1kREp3?oc=5",
+          "description": "Le Borse di oggi, 9 settembre. Europa in calo. Lo spread sale a 85 punti, ai massimi dal 2023 la Repubblica Borsa: Profondo rosso per Parigi, in discesa dell'1,94% Borsa Italiana Analisi Tecnica: indice CAC-40 dell'8/09/2026 Teleborsa Borsa: l'Europa chiude in forte calo, Parigi -1,94, Londra -1,31% La Gazzetta del Mezzogiorno Borse europee in rosso: Parigi giù dell’1,94%, cali su tutti i listini ",
+          "pubDate": "Wed, 09 Sep 2026 07:23:42 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: l'Europa chiude in forte calo, Parigi -1,94, Londra -1,31%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/09/borsa-leuropa-chiude-in-forte-calo-parigi-194-londra-131_a6de30fb-3c95-408e-be8d-15138803cac3.html",
+          "description": "In rosso anche Francoforte (-1,66%) e Madrid (-1,58%)",
+          "pubDate": "Wed, 9 Sep 2026 17:52:51 +0200"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "iphone",
+      "n_items": 11,
+      "n_sources": 4,
+      "category": "general",
+      "score": 44,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "bbc-business",
+          "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
+          "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+          "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+          "pubDate": "Wed, 09 Sep 2026 20:00:33 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "L'evento Apple in diretta: ecco iPhone Duo, il primo smartphone pieghevole di Apple. Costa oltre 2.300 euro - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTmktM3N1akFCMXlBekdRZExIaTZIWktuSDBlN2FTcTlYWUloZUVEUFNNNlhIMTVjQVM5c0NiTFdvVVc3WHBxVGRFdDlHcEh3SGxkTC1wVFZ5MVo1dnNCVlM1YXgxNGMtbkNsZzExTnFzQVJ3NGFCV01oVHVLY1hLMXFrdTJaSWtCa3FELUhOVWxYbGhuVTJtSUo3NU1oN0FNdGNLSFJLWE5STDBVVXhyUnM2LUItZnJYUWRYMThXbjVHY2JiRzlhbWNDQXdRX2l2Vm9iS2ExenV0YUY1aXdkOTBhWW5uSFVWamdmbjJB0gHzAUFVX3lxTFBKWWpXR1ZmS0F1OS1HUjFUenFta2hJXzlaU1BoRnZpWl8zaHBuWW1yOFNSY3hxNXJadXh0d1ZIQmdiYVE0b3R6UHZaRHR1enZNSjQ4S2pFdkRZRmtVNUFERldiczlJcTNXdkFra3B0RndBaTl6b2x2cWQ5c0xKZ3d3cXdWNDFmMUdldGR1SzdkRklORklpaG1UbmEwN3FaM1NTUkxjb1d6N1VoQlBWOXZNSk51LTU4c3BpdHBkWDJjRGtOVm9NcUJnaGhtUkJfUXhSbDJfSGVPaDRnbFRKSHEzYjJObnpXWFlvZTByVldiNXE1Zw?oc=5",
+          "description": "L'evento Apple in diretta: ecco iPhone Duo, il primo smartphone pieghevole di Apple. Costa oltre 2.300 euro Corriere della Sera",
+          "pubDate": "Wed, 09 Sep 2026 18:40:00 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "iPhone 18 Pro e Pro Max ufficiali: nuovi colori, Siri AI e tanto altro | PREZZI ITALIA - HDblog.it",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbkRhV3o2SGZSbzFiN0J2akl3d2xWTE9QOEJRdU5EZ2FoQUVjelEyOVVYdFJtZFVNeXZwclBVcUJTRjFreU5tWWZrTGpaWU5zTmJCMjFnWkdmSjlFTmZwWFpxTnoyOEM1ZVBtVVpFR3BTbFd4UWJiVWRNazNENVpPNldpVXY0cDhVd29MODhISU5sdUdJTVljVQ?oc=5",
+          "description": "iPhone 18 Pro e Pro Max ufficiali: nuovi colori, Siri AI e tanto altro | PREZZI ITALIA HDblog.it",
+          "pubDate": "Wed, 09 Sep 2026 17:24:36 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "CNBC Daily Open: Apple's new iPhone bends. Bond vigilantes, not so much - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcHA1U3VRLUZIMERvdjlDODVGS2FPVFZ6MmxfRGFHY0s3QUgxWUp0aUJxWmhSbkpZNE5NVkl3WFA2b0ZTOG5DXzBZNDVIVjFtOGhQeEc1WFZWdkJIMExjSUl1SERXaUVyYkZPZnpia1hNaG51TE8zWElDdE94TXAtTkt1WGxBMmtMUVRTcnJ1TGxnOXRFa1QwNjF0VnQ1X0nSAaQBQVVfeXFMUGhkRkpmOGtydE5IME9kd1JxWFluWEU2X3cyMkZiWGsyeWtZeDlvaV85RFJNNnJVLTVEc25BOGNjU19rZ3g5b01pTWVJVHd6WFh6SDZRd2RJcnJDSHA0Z2t0VlFTelN4aHNQN1EyUlAxVWFxOTVpdjVzRW1IZFBQTENneVdlX01TNmlCQWdPV3dVWlp4SmtXN21yYld0dXdIV1lSSkk?oc=5",
+          "description": "CNBC Daily Open: Apple's new iPhone bends. Bond vigilantes, not so much CNBC Apple unveils iPhone Duo Apple Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999 The New York Times Five takeaways from Apple’s biggest product showcase of the year Reuters Apple iPhone Duo hands-on: This is one smooth foldable phone Mashable",
+          "pubDate": "Thu, 10 Sep 2026 01:41:00 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "iPhone 18 Pro and Pro Max: Our first hands-on impressions - The Verge",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN3pNUzlQcXlneEVjUHMzbDFGRG1KYkhNR1FBajNKc0h3RHFVZ2U5cWFHOVJFN2JudWFCYmx5V0lTWml5Z2pYTC00eVB3NnJUTl9QU25sUDA3cWtYRXhxbWJ5UjZCd2s2MUZkLTY5a0pXVmc2YzBUWTVWQll4WjZVTDVNbkhScDVhX2dxb3FUZHU5S2lVdGtOT1hTMkd2MWt3UXh6dw?oc=5",
+          "description": "iPhone 18 Pro and Pro Max: Our first hands-on impressions The Verge Apple debuts iPhone 18 Pro and iPhone 18 Pro Max Apple Apple’s iPhone 18 Pro adds variable camera aperture and a more powerful chip Ars Technica iPhone 18 Pro and 18 Pro Max Prices Jump by $100 CNET Where was the regular iPhone 18? The missing product in Apple's event. Mashable",
+          "pubDate": "Wed, 09 Sep 2026 19:26:36 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "chiude",
+      "n_items": 9,
+      "n_sources": 4,
+      "category": "economia",
+      "score": 42,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ranucci, il candidato che non vuole candidarsi: \"Ho il 7 per cento come Vannacci\" - Il Foglio",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUEFDeXl5UjRLVThRUUo1RHdLVDlpbEJVYVA0Y2gxR1lnMWRrLWU2QWxFUFE0aGxiWS1aVVJJN25QUFNXWVBIZVVBTWVScEhULXRJZHVXRGp1ejB3aHJ0R1RvdHhqamlnRFpFdzY2eWU5aUdKMXpzNU1icjNrdE9pdGVOVEdnM0dpNlBxbjJMOTN4bXNReVhkNXVUZlVXODVyNnJpTzVuR2FmLW5uUFplTkx6LVdGc1g0U0NHQ0o2c3gyTkpSdTIxTlBzSkM5UG8?oc=5",
+          "description": "Ranucci, il candidato che non vuole candidarsi: \"Ho il 7 per cento come Vannacci\" Il Foglio Ranucci non si candida. \"Do più fastidio come giornalista\" HuffPost Italia Ranucci: “Non mi temono in politica, ma in televisione” ilfattoquotidiano.it Ranucci: \"Per il 63% degli italiani potrei guidare il Paese, ma non mi candido\" Adnkronos Ranucci non chiude alla politica. Faro sui servizi mai trasmessi l",
+          "pubDate": "Wed, 09 Sep 2026 12:46:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Cisgiordania, Regno Unito e altri 11 Paesi sanzionano i coloni illegali: 'Stop a commercio' - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN0hhb3FkTjhIMVZ3bWhnYjY0Y21DNUNoaTRieEpOUGdTRjdhYVpLaURvUFZVcHVidExkNUE5Nkd1S3lzYjVGVzF2Y1B5R2VvdlRhanpWSnhiVTdRdDBseHVsVXFwY0F5MGNONERjdk1nR09McUxpckFSLVN3WThHb2ltVENfQQ?oc=5",
+          "description": "Cisgiordania, Regno Unito e altri 11 Paesi sanzionano i coloni illegali: 'Stop a commercio' Sky TG24 Scure di Londra e di altri 11 contro i coloni, Israele chiude il consolato del Regno Unito ANSA Cisgiordania, sanzioni ai coloni israeliani da Regno Unito e altri 11 Paesi Vatican News I veri motivi per cui l’Italia non ha sanzionato le colonie israeliane Il Post «Sanzioni contro i coloni, pulizia ",
+          "pubDate": "Wed, 09 Sep 2026 06:00:38 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse europee negative alla vigilia della BCE con rendimenti titoli di Stato in rialzo - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQcll1dGdoN0RjX1pjTmx1TVdzVlUyQVgyUmFFd0Zacy1ua0tMUnU4RVlnX3RmOG9CNHRabl9Mb091MDlwZUJsWkJBeXRqejhsS3NwVVYyeVJMTV9VZTJMTG53WUN6WUtwalBnZ190cWNrelVfeGZWOVZKTExJd1owYWJLWnhxTUY4QU1TT1NxSjQtZEN4cXFUbk1EbXY4a1IxZ2VCbUVqUWo1a1RIeVhTbXc3aVdIT05uVWZBTzhLQ3NSUmhOeEJCT3A2SXhjdUUtN3dBX1NKSUdqVXF3N0prTDRMaEc4SFE1bDI1UWxuU013SVZUUVpQRU15TFItVVBVSUh3M1JVbk5QeHkxTHc?oc=5",
+          "description": "Borse europee negative alla vigilia della BCE con rendimenti titoli di Stato in rialzo Borsa Italiana L'azionario europeo chiude in rosso mentre continua la corsa delle commodities energetiche Borsa Italiana Borsa: Milano chiude in calo (-0,58%), pesano Leonardo, Fincantieri e Avio ANSA Borse ancora giù col petrolio, per Wall Street terzo giorno di cali RaiNews Le Borse oggi 9 settembre. Il petrol",
+          "pubDate": "Wed, 09 Sep 2026 14:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Partenza in rosso per l'azionario europeo, a Piazza Affari focus su TIM dopo il rilancio di Poste - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOZlJkb05QR2VzX19iQzVQSGVEREFLcXlyd0gxaFo1Tk5BZFIxei1vSVpCLTFrYnBoSjd6MnI4RmxncnRLWU5wYTZ4TnJkcGQ3WXhVTkRZTjBpR3EyM1lzZnZlbk5YLXM1QURvRzRHY1N4ZHMzYWRuOWhubFcxTWZmaDRwdzhhZ1NkOC1QenVFaG1QaFFycGhDUFB6OEsxSERQdl9ESVZVUHBRbTNZZmRpd29nTjVjWG1rc0h0VEwwM1AtRURRU0RBWFl1ejB4YWFSQUNPeFRMX1UxbWtuNVB6OWpZQlhnalQ4Rk8wVHNKeTlWRWNxUGNLX0FwWFBJTzhLTmllZXlpTFBqeDVITERkenl4TTBGbEZl?oc=5",
+          "description": "Partenza in rosso per l'azionario europeo, a Piazza Affari focus su TIM dopo il rilancio di Poste Borsa Italiana Borse, caro greggio pesa sull’Europa. A Milano (-0,1%) bene Tim con rilancio Poste Il Sole 24 ORE Borsa: l'Europa chiude fiacca con la corsa del petrolio ANSA Le Borse europee chiudono poco mosse in attesa delle banche centrali Borsa Italiana Le Borse di oggi, 8 settembre. Mercati debol",
+          "pubDate": "Tue, 08 Sep 2026 07:45:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Le Borse di oggi, 9 settembre. Europa in calo. Lo spread sale a 85 punti, ai massimi dal 2023 - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZk1DV2pWSklSdFZCb2JwaHVkcjV6LWZ6ejNVelhwal83SEFDbDdZR1pnckJiWE5Gb1NHMXAxeWlMbUJZU2V5VzJINGR5Qnh5ekRhdE5faVg4S0pDZzNUdEllR0dlODU1dDlTU3JYVFpEUk84MTd4S1BNejhrYUlvcm9od0E1dE4xMHp4b2U1NjRtM2JLdF9pajlLMlhhM05ycHdwYjNOX3NPbnJ6TVhqNUxaOVp0WW1kREp3?oc=5",
+          "description": "Le Borse di oggi, 9 settembre. Europa in calo. Lo spread sale a 85 punti, ai massimi dal 2023 la Repubblica Borsa: Profondo rosso per Parigi, in discesa dell'1,94% Borsa Italiana Analisi Tecnica: indice CAC-40 dell'8/09/2026 Teleborsa Borsa: l'Europa chiude in forte calo, Parigi -1,94, Londra -1,31% La Gazzetta del Mezzogiorno Borse europee in rosso: Parigi giù dell’1,94%, cali su tutti i listini ",
+          "pubDate": "Wed, 09 Sep 2026 07:23:42 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "italia",
+      "n_items": 32,
+      "n_sources": 12,
+      "category": "economia",
+      "score": 39.0,
+      "cooldown": true,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "La legge elettorale in Aula alla Camera da lunedì 28 settembre, soglia al 42% senza ballottaggio - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaDN0cml3TEpvajB3dnJ6akg0ZTY2LWRUTUg3OFl3ZmtHQ09mZW4tRTg0S3Zpc3Zjc0pic2NEY09OTlRJNlhyVGlCY0lYbnZuSW9ZUHJObWNsbnc1djJ4UzhMcGMybUxzb1JIcDIwUXItSzJuMTZOZkxGb1Z2emlxaC13UFRKSTNaaEVoeXRJMEVyVmc3QVJDWTkxN21DdmltMHZNUkk2VEdjNi16Sm1jelUwbW0zT0FiYlloVGluRHJOTW53ekdDa0pJQXBIUGpSWFRiaXFFOTVMTF9HczdRODdMU3RNVkNaUk9PN1NR0gHzAUFVX3lxTE96NXhmM2ZQemNFRzRfOUVlWVU1aVE3X1NZQnlfWk1CQTF5UThiakZVR01CWXhVbE5SQWIyTEt6dkdoaG9aU2ZWUnRwQ05vTUNtcmIteE1kMlVZUGhUWE5mVjhKTFFDRm1md2NaMGowNE9SdEtRRnkxSXE1OUN0WlBzUjVYMjZNTVo0a1pfOW9XVUM1U202bHNKUjFkRURHVEZCYldfck5qMEtIdi1pdF9tSjNacTdzeldlMWNkQWRSbThBR2hieG9uUDMzNE1mNHllTUR4SjJBU3ZzNVJwTmNYUTJLWk93NXBYQWEwZmZEVDVZTQ?oc=5",
+          "description": "La legge elettorale in Aula alla Camera da lunedì 28 settembre, soglia al 42% senza ballottaggio ANSA “Votate le preferenze libere”. L’opposizione sfida la destra. FdI apre, alleati in rivolta la Repubblica \"Non facciamo scherzi o salta tutto\". Centrodestra in tilt sulla legge elettorale HuffPost Italia Preferenze, FdI apre all'opposizione. Ira di Forza Italia: così salta tutto Corriere della Sera",
+          "pubDate": "Wed, 09 Sep 2026 19:36:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Meteo, temporali forti e grandine. Scatta l'allerta arancione in Toscana - FirenzeToday",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTG5JMXlTcl80enM3Z3NMRlBNdGxfX2w0R1lxUlNPNUw1V2pKY2lfZk1RaVFrU0JRSjNwdE9tNDlGS3E4X1RoWl9Rek1GUFRQd3pzMjJYaUw3Q1RFaVBUWmU2ZTFPMTh1clVSTnBGQkFTRzlPbURaRElONWVPS2RFQllLMA?oc=5",
+          "description": "Meteo, temporali forti e grandine. Scatta l'allerta arancione in Toscana FirenzeToday Allerta arancione per forti temporali con rischio idrogeologico/idraulico del reticolo minore Comune di Livorno Temporali e grandine sull'Italia: estate agli sgoccioli? Le regioni in allerta meteo arancione e gialla Adnkronos Maltempo in Toscana, giovedì allerta arancione per temporali Corriere Fiorentino Firenze",
+          "pubDate": "Wed, 09 Sep 2026 13:31:57 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Ranucci, il candidato che non vuole candidarsi: \"Ho il 7 per cento come Vannacci\" - Il Foglio",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUEFDeXl5UjRLVThRUUo1RHdLVDlpbEJVYVA0Y2gxR1lnMWRrLWU2QWxFUFE0aGxiWS1aVVJJN25QUFNXWVBIZVVBTWVScEhULXRJZHVXRGp1ejB3aHJ0R1RvdHhqamlnRFpFdzY2eWU5aUdKMXpzNU1icjNrdE9pdGVOVEdnM0dpNlBxbjJMOTN4bXNReVhkNXVUZlVXODVyNnJpTzVuR2FmLW5uUFplTkx6LVdGc1g0U0NHQ0o2c3gyTkpSdTIxTlBzSkM5UG8?oc=5",
+          "description": "Ranucci, il candidato che non vuole candidarsi: \"Ho il 7 per cento come Vannacci\" Il Foglio Ranucci non si candida. \"Do più fastidio come giornalista\" HuffPost Italia Ranucci: “Non mi temono in politica, ma in televisione” ilfattoquotidiano.it Ranucci: \"Per il 63% degli italiani potrei guidare il Paese, ma non mi candido\" Adnkronos Ranucci non chiude alla politica. Faro sui servizi mai trasmessi l",
+          "pubDate": "Wed, 09 Sep 2026 12:46:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "L'Ue sblocca i Patriot per Kiev. Berlino: 'Usiamo le scorte' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMzNjQUlWalNaajJKellPNnNvLXZsaUFjMDZOS0JFN2JLM0JoMkJxZDJQaUM5LVJFYlpyRmRQdEtfOTBZUXowaTduRi1VNUhucEd3dTRtLVNWdUpLUkIzTnhVYzBsLXpjTGFoNU45YnFYWXZVeG1SU3k2NTliNmtla05hN0JEYVZEbnI5aXdEbWZ5WlVYcEdldTNsSl9RYXNQOHJjRFBFcGNqdVlFY2hLU1laT1JsdEFUTnRyVTdCZnhMdFdQTGRhdkNvWkwxOGRDNVlwUElsdy1MbWVac0MxZklIUdIB6AFBVV95cUxPVUVFbm9tdjNqZUxjT3Y5cmlYVHJOZGxEdVBBWEJjWFZVVkk3U2ROR2Q4M3Uta1RkbWtvMTFYZ2xxNkZqaF8zNFRSNkRtbTlMUi1nMko4aE9iRkV5RGNIbUhhWm1nQ01MM2FQTVlaWHh6QmFLUVJJak9OdjNYd0ZjcTFNNklEWndmSk9BTDlIdHM1aUZqX19fdWxqaWNwU2hGWFZTN0h0enNONzQyQUpwSm9yVUxFcUQ4U1lQNlVBbmlZV3lTU2JPb1hfaXFyVkRmTE9KQUJPN0JPT2JMa0RacWVMY3VQWkti?oc=5",
+          "description": "L'Ue sblocca i Patriot per Kiev. Berlino: 'Usiamo le scorte' ANSA Arsenali per l'inverno. A Kiev i Patriot via Ue, a Mosca il conforto di Trump (di G. Belardelli) HuffPost Italia Rutte agli alleati: \"Più aiuti bilaterali a Kiev, non abbiamo scelta\" Il Messaggero Patriot a Kiev per dire no alla mano russa Quotidiano Nazionale Berlino sceglie di difendere Kyiv. Un drone ha quasi colpito l'aereo di Z",
+          "pubDate": "Tue, 08 Sep 2026 18:33:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Cisgiordania, Regno Unito e altri 11 Paesi sanzionano i coloni illegali: 'Stop a commercio' - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN0hhb3FkTjhIMVZ3bWhnYjY0Y21DNUNoaTRieEpOUGdTRjdhYVpLaURvUFZVcHVidExkNUE5Nkd1S3lzYjVGVzF2Y1B5R2VvdlRhanpWSnhiVTdRdDBseHVsVXFwY0F5MGNONERjdk1nR09McUxpckFSLVN3WThHb2ltVENfQQ?oc=5",
+          "description": "Cisgiordania, Regno Unito e altri 11 Paesi sanzionano i coloni illegali: 'Stop a commercio' Sky TG24 Scure di Londra e di altri 11 contro i coloni, Israele chiude il consolato del Regno Unito ANSA Cisgiordania, sanzioni ai coloni israeliani da Regno Unito e altri 11 Paesi Vatican News I veri motivi per cui l’Italia non ha sanzionato le colonie israeliane Il Post «Sanzioni contro i coloni, pulizia ",
+          "pubDate": "Wed, 09 Sep 2026 06:00:38 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "borsa",
+      "n_items": 15,
+      "n_sources": 2,
+      "category": "economia",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Webuild scivola a Piazza Affari: timori per i costi delle opere - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdks4Y29SeElyZHBUampTZnYtN1Roei1BVmd4dWNPd01hdmhpa0pYTkJySklwNUVnaEluSjdQaFZNajRCQXJXMUUwR012aDNrUG9yejFrY3Jpd2luSzlsbnMwVG5xaWFYT0UzYU92VGtQX3lwN2tfc245VW9kRWNDZzJQQ3lxWGdjSDF4bkFoWE1yVTBleWtpTEMyaUJiLWxmdm5CX0JPOWY?oc=5",
+          "description": "Webuild scivola a Piazza Affari: timori per i costi delle opere la Repubblica Grandi opere: Webuild vuole dal governo “22 miliardi di extracosti” ilfattoquotidiano.it Webuild, esposto a Consob su diffusione \"notizie false e fuorvianti\" con impatto sul titolo Borsa Italiana Crediti scaduti e cassa in affanno. Webuild crolla dell’8% in Borsa Il Messaggero Webuild: conferma guidance per il 2026 Il So",
+          "pubDate": "Wed, 09 Sep 2026 18:38:04 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Bce, l’ombra dell’energia sui tassi: verso una stretta al 2,5%. E i governi vanno in pressing - La Stampa",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONFpaZXhLdVJWYjlTTXpJVGoxNmQ3TDliS0l6ODVDZUJyOUozSUhHb3J1REY4Y01qdEQzcEZaeGVUOWJ1c3pIeWFjdHJPRmFCYVQyckpNbmQ2WXh4MC1UaTlhMFZhMlNMaFNyTkpEMnFVNjliRDQ1WV92WlhhMEtzYlVQSk1ZYk9NRmhiTVYwVHc5d3NmbkJrY0NKb1E0cE9MbnfSAacBQVVfeXFMTXkweXFONkpaX0RxT1B4SGlFMDVMeTZoaHdzSlpaZUYyN1RxRWVRYnA4cFJTR3RRMkViU2JoMVFUWklJMGVRRURQR0NWQWhqY1R4bGtzdDJTS05CZmhFSTd5VVZtczRDS2NHTWtScXFISG42Z0lpVzVqc04tcnZpU1V1ZkhDS0Nud1JCSVJ1S0lCVl9SbEQwalloc2pjUGtRZnVLYXV1UFk?oc=5",
+          "description": "Bce, l’ombra dell’energia sui tassi: verso una stretta al 2,5%. E i governi vanno in pressing La Stampa Perché la Bce può aumentare i tassi Il Sole 24 ORE Bce e Boe, il mercato ora prevede quattro rialzi dei tassi entro il 2027 ANSA Mutui e BCE: rate in aumento fino a 53 euro nel 2026 Facile.it BCE, gli operatori vedono più strette: rendimenti Eurozona ai massimi pluriennali Borsa Italiana",
+          "pubDate": "Wed, 09 Sep 2026 06:30:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse europee negative alla vigilia della BCE con rendimenti titoli di Stato in rialzo - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQcll1dGdoN0RjX1pjTmx1TVdzVlUyQVgyUmFFd0Zacy1ua0tMUnU4RVlnX3RmOG9CNHRabl9Mb091MDlwZUJsWkJBeXRqejhsS3NwVVYyeVJMTV9VZTJMTG53WUN6WUtwalBnZ190cWNrelVfeGZWOVZKTExJd1owYWJLWnhxTUY4QU1TT1NxSjQtZEN4cXFUbk1EbXY4a1IxZ2VCbUVqUWo1a1RIeVhTbXc3aVdIT05uVWZBTzhLQ3NSUmhOeEJCT3A2SXhjdUUtN3dBX1NKSUdqVXF3N0prTDRMaEc4SFE1bDI1UWxuU013SVZUUVpQRU15TFItVVBVSUh3M1JVbk5QeHkxTHc?oc=5",
+          "description": "Borse europee negative alla vigilia della BCE con rendimenti titoli di Stato in rialzo Borsa Italiana L'azionario europeo chiude in rosso mentre continua la corsa delle commodities energetiche Borsa Italiana Borsa: Milano chiude in calo (-0,58%), pesano Leonardo, Fincantieri e Avio ANSA Borse ancora giù col petrolio, per Wall Street terzo giorno di cali RaiNews Le Borse oggi 9 settembre. Il petrol",
+          "pubDate": "Wed, 09 Sep 2026 14:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Il prezzo del petrolio ha superato i 100 dollari al barile per la prima volta da luglio - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CZENnRWhidUVibHJldHpnRFhzajZVbmhTeS1FOFlxUDJ1aDVXdmlqa2ZzM1hNVVJELTNoMlJxQWpFX0pGVlJqYzJ3S0lONXNHdjlqNjgtSVZzLW50Z3h2NllNMEVtLWpISXpSTnJKU0wxdUt0bWNnMQ?oc=5",
+          "description": "Il prezzo del petrolio ha superato i 100 dollari al barile per la prima volta da luglio Il Post Il petrolio prosegue di corsa, il Brent oltre 100 dollari ANSA Wall Street in rosso zavorrata dal balzo dei rendimenti e del prezzo del petrolio Borsa Italiana La corsa del greggio sostiene il comparto oil, a Milano sale Eni Il Sole 24 ORE 3 giorni di perdite, il Dow, l’S&P e il Nasdaq scendono mentre a",
+          "pubDate": "Wed, 09 Sep 2026 15:31:43 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "I prezzi del gas europeo raggiungono massimi pluriennali tra i timori per le forniture di GNL dal Medio Oriente - Yahoo Finanza",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOHEtdXV6ZnJwa29ab0lSUm1MNUpsYmMtRzk4akt0OUUyZVBtdDBSMlBtZnBwYkdxTE9IOS1ueGU2UlZjeXhMaGlyV05YQVhRSFZ5LTlxV0FKT1NCa195bG1XTTBuVm4xbHV6YThFeDlRb2xqTm8ydWx4UW9MMTdPdnFRdVZZdDRPUGQ0ZV8taw?oc=5",
+          "description": "I prezzi del gas europeo raggiungono massimi pluriennali tra i timori per le forniture di GNL dal Medio Oriente Yahoo Finanza Il gas supera i 79 euro ad Amsterdam, sui massimi da 3 anni ANSA Gas, scorte in Europa ai minimi storici. Algebris: inverno più caro, servono 11,6 miliardi Milano Finanza Natural Gas (Amsterdam) a 78,5 euro per Megawatt-Ora alle 19:30 Borsa Italiana Quali sono gli impatti s",
+          "pubDate": "Wed, 09 Sep 2026 09:21:06 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "drone",
+      "n_items": 7,
+      "n_sources": 5,
+      "category": "general",
+      "score": 35,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Ucraina, premier Norvegia: aereo Zelensky sfiorato da drone al decollo - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaVBsOVVBcXp6cFZqcTk1RGJQd1AycE96d1V6TjRJeUJKdi1PQXd2eDlLNDhpLUxzV1NGOXZldnU5UmlTUFdRUmJNQmZNSUJTNmNnQWlVTkROTmJtQmZZOU1pYmhhRjQyR1RJbGV6RWhCNmNQMkxibk5iNC0zSXhLanJ1YXpFWmFV?oc=5",
+          "description": "Guerra Ucraina, premier Norvegia: aereo Zelensky sfiorato da drone al decollo Sky TG24 Guerra Ucraina-Russia, le notizie in diretta | Premier norvegese: «L'aereo di Zelensky minacciato dai droni in Moldavia». Trump e la telefonata con Putin: «Vuole un accordo» Corriere della Sera Media: \"L'aereo di Zelensky sfiorato da un drone durante il decollo in Moldavia\" - Zelensky: \"Se la Russia vince, poi t",
+          "pubDate": "Wed, 09 Sep 2026 21:58:58 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "L'Ue sblocca i Patriot per Kiev. Berlino: 'Usiamo le scorte' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMzNjQUlWalNaajJKellPNnNvLXZsaUFjMDZOS0JFN2JLM0JoMkJxZDJQaUM5LVJFYlpyRmRQdEtfOTBZUXowaTduRi1VNUhucEd3dTRtLVNWdUpLUkIzTnhVYzBsLXpjTGFoNU45YnFYWXZVeG1SU3k2NTliNmtla05hN0JEYVZEbnI5aXdEbWZ5WlVYcEdldTNsSl9RYXNQOHJjRFBFcGNqdVlFY2hLU1laT1JsdEFUTnRyVTdCZnhMdFdQTGRhdkNvWkwxOGRDNVlwUElsdy1MbWVac0MxZklIUdIB6AFBVV95cUxPVUVFbm9tdjNqZUxjT3Y5cmlYVHJOZGxEdVBBWEJjWFZVVkk3U2ROR2Q4M3Uta1RkbWtvMTFYZ2xxNkZqaF8zNFRSNkRtbTlMUi1nMko4aE9iRkV5RGNIbUhhWm1nQ01MM2FQTVlaWHh6QmFLUVJJak9OdjNYd0ZjcTFNNklEWndmSk9BTDlIdHM1aUZqX19fdWxqaWNwU2hGWFZTN0h0enNONzQyQUpwSm9yVUxFcUQ4U1lQNlVBbmlZV3lTU2JPb1hfaXFyVkRmTE9KQUJPN0JPT2JMa0RacWVMY3VQWkti?oc=5",
+          "description": "L'Ue sblocca i Patriot per Kiev. Berlino: 'Usiamo le scorte' ANSA Arsenali per l'inverno. A Kiev i Patriot via Ue, a Mosca il conforto di Trump (di G. Belardelli) HuffPost Italia Rutte agli alleati: \"Più aiuti bilaterali a Kiev, non abbiamo scelta\" Il Messaggero Patriot a Kiev per dire no alla mano russa Quotidiano Nazionale Berlino sceglie di difendere Kyiv. Un drone ha quasi colpito l'aereo di Z",
+          "pubDate": "Tue, 08 Sep 2026 18:33:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Plane carrying Zelensky threatened by drone in Moldova, Norway’s premier says - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWVh5cFVGMm5OY2ZMVXRJVTNjUEt2cXNrdHpsVFpYVFM3RE5zVjdnOE9uR244MlFvMVU1WXplaDExMWxwaUppZ3FpU0FsVHM2S2d2WGhpN1hveWlKT2tabXktb0ZmNjd4Y2hRd1NBeVlDWnRWSFpycS13VHBGaVg4elR2UWt6cWgwSm9ncDV4SE03U0IwR1lVY0ItdGdoNGNsMm5RQ3lScFJTMjRzQjJra1R2ZFNUaWd3dVVSdUJn?oc=5",
+          "description": "Plane carrying Zelensky threatened by drone in Moldova, Norway’s premier says The Washington Post Russian drone incursion delayed Zelensky’s departure from Moldova CNN Zelenskyy's plane almost hit by drone en route to Norway king's funeral, prime minister says CBS News Drone almost struck Zelenskyy’s plane, says Ukraine Financial Times Drone alert delayed Zelenskiy's departure for Norway, Moldova ",
+          "pubDate": "Thu, 10 Sep 2026 03:35:39 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "'L'aereo di Zelensky sfiorato da drone al decollo dalla Moldavia'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/09/laereo-di-zelensky-sfiorato-da-drone-al-decollo-dalla-moldavia_1e37fc3e-2a40-487e-a5bc-8440ff6f31a9.html",
+          "description": "Rivelazione shock di Oslo. Kiev sulle trattative: 'Pronti al compromesso', Mosca auspica colloqui trilaterali a breve",
+          "pubDate": "Wed, 9 Sep 2026 21:32:07 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+          "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+          "description": "Five deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
+          "pubDate": "Wed, 09 Sep 2026 20:28:04 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "guerra",
+      "n_items": 7,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "score": 34,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Ucraina, premier Norvegia: aereo Zelensky sfiorato da drone al decollo - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaVBsOVVBcXp6cFZqcTk1RGJQd1AycE96d1V6TjRJeUJKdi1PQXd2eDlLNDhpLUxzV1NGOXZldnU5UmlTUFdRUmJNQmZNSUJTNmNnQWlVTkROTmJtQmZZOU1pYmhhRjQyR1RJbGV6RWhCNmNQMkxibk5iNC0zSXhLanJ1YXpFWmFV?oc=5",
+          "description": "Guerra Ucraina, premier Norvegia: aereo Zelensky sfiorato da drone al decollo Sky TG24 Guerra Ucraina-Russia, le notizie in diretta | Premier norvegese: «L'aereo di Zelensky minacciato dai droni in Moldavia». Trump e la telefonata con Putin: «Vuole un accordo» Corriere della Sera Media: \"L'aereo di Zelensky sfiorato da un drone durante il decollo in Moldavia\" - Zelensky: \"Se la Russia vince, poi t",
+          "pubDate": "Wed, 09 Sep 2026 21:58:58 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Usa distruggono petroliere iraniane, Teheran colpisce la Giordania - Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaTBVMHM3d19kbElFZ2JTTzZISFNkVUtseVVDYjNkOU9KVUszX0dBZE5nVzgwNENVOFRkYWUxLU5RNElXaTVwR2FVQnlIZjhSd1RrdzdlWG9qbk8wZzNnVDUxdEJSRmJsMUZGYllqVUJTRmRGWTlzQ096N3dQb1Z1Vk9jSHJmSnBsYmNNYkprMm5hVXZiS01kTGx4c09wdTEyRDlnS0xiWEtKT0cxOVQ5dml2dXNTdUJPTWw0?oc=5",
+          "description": "Usa distruggono petroliere iraniane, Teheran colpisce la Giordania Euronews.com Netanyahu denuncia Haaretz per diffamazione. Iran e Usa attaccano le petroliere - Il Segretario generale dell'ONU, Guterres \"allarmato da attacchi a Hormuz\" RaiNews Il gioco del logoramento tra Iran e Stati Uniti che può incendiare il Golfo Corriere della Sera Notti di guerra a Hormuz. E l’Aiea denuncia l’Iran sul prog",
+          "pubDate": "Wed, 09 Sep 2026 04:18:49 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Iran, battaglia navale a Hormuz: nuovi attacchi incrociati fra americani e pasdaran - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPV3VXTHFmMVhTTnNTOFFrNXFKUGFLWkZZUGotWXdydEktazZ1eWw2amdBaDdfVHZSbzVYOE1xbjVpSlMxYWtwSG1DenF2ZFR6ejI1TG9sVXRBbWViOGdjcUFqSjJOeVhQNURYRE1yOGNTcmlXM3JoR0wyRl90N2o4ZHVURTF5WE5DQzFPa05WLUs5bWJCUXItVTdlQ3FNN01JX1VBV0ZSeE8zaF8tSEplTHczS09EOWl5UGhaRXl4N1VGQlktTUs5bDRFTzdNVDVocDMtVWEtRG1iQkZOd195eXNMc09aZG5MY2d6QnNpSUtNOGpHd3FoZVRJMFpGdGdL0gGGAkFVX3lxTE9XSmVyRnpSdFdjX25FaThWZXJVcDdtZllOSExVZ01EY3hneDAyeVBWejhrVkJKVnVjNHpkSE52TkhFU0l3YVhyR2F3aHVmQ19JQndlSjcxLThCOXd3WEk5NXJaWmhrVkFyOV9sbUdiM29GNXktdzRwaEV0Vkc4TzlUSno0SlktOHRIc3JMVnF6Q2hVN0l0YXJqMktTaFZCYzFSMjJENTByXzBsMHl4THFCdzhGRzh2M2RzdlV4Z2M1b25MYm00MlNIaWlhcVd0RVdCU1M5SWNtWHZ0dnRBMDNVR3B4NVl1OGtPcG9ud1NlcUZxekJ5U2YxOXFybWR6WGU3X1JQN1E?oc=5",
+          "description": "Iran, battaglia navale a Hormuz: nuovi attacchi incrociati fra americani e pasdaran Corriere della Sera Netanyahu denuncia Haaretz per diffamazione. Iran e Usa attaccano le petroliere - Il Segretario generale dell'ONU, Guterres \"allarmato da attacchi a Hormuz\" RaiNews Il gioco del logoramento tra Iran e Stati Uniti che può incendiare il Golfo Corriere della Sera Notti di guerra a Hormuz. E l’Aiea ",
+          "pubDate": "Wed, 09 Sep 2026 22:46:18 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra, ultime notizie. Aiea deferisce Iran all’Onu. Gas sui massimi dal 2022 - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN2hleVlKWDd5SHJRTGkwMEJiMll6WEktcFV1SnBGQ0I2X1EtdkpLclpfN2xhaFloWmJPWHNVeWVWcjVNYW1lZ21ud0MxRC1PMnVkOEVzR0poQV9kT3FoWlJta0FsWnAtT2VCbnlrdzJ5NzE2ZjJzaXVVeC1qOVk3eG5BODVxRm12LTdWMjU1dHhEWU9GeURaYUMtUk9fcm5aX3BMT2kxYXRqN1JBV0NvYTV4RnN0cG9rYi1COU1uSFg2enFD?oc=5",
+          "description": "Guerra, ultime notizie. Aiea deferisce Iran all’Onu. Gas sui massimi dal 2022 Il Sole 24 ORE Nucleare, Aiea deferisce l'Iran all'Onu RaiNews Guerra Iran-Usa, proseguono gli scontri nello Stretto di Hormuz: distrutte 5 petroliere iraniane Tgcom24 L'Aiea deferisce l'Iran al Consiglio di sicurezza dell'Onu ANSA L'Aiea deferisce l'Iran al Consiglio di sicurezza dell'Onu: «Non rispetta gli obblighi sul",
+          "pubDate": "Wed, 09 Sep 2026 22:23:50 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Zelensky: “Pronto a compromessi, ma anche Mosca deve cedere qualcosa. Fedorov? Mai più sentito” - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMDZDX3FFSEJkQzFCeGh5RThMNGc4YmFtcUxDa1MtVXhfR19RLTlzenFJbFpFTXRndzRzN3NtSnptd25XMC05bjU4QzBxTnpjZ0NsLUI0TS1nZUlibjJ6cGhKWjVzU21YYk16MDZ3SDFMZ0ptRnA5aUtjMlFKSTJoQmFVTlItV1lDcGhjUzhwd0toQjV4RGRVMkJ1aFhyb01udVZEX1RDZXNHSFpXeWNSeWItbFk3ZThiMHFvTTRTaVNYQzgzbFpGRmlSRC1odktleVdFTnQwZ0ZZUHJqQk4xblcyNNIB6AFBVV95cUxNbEd5UmlsY3pMcWIyT2ZDTFMzc1lKc2g0M2haYW51QnpNY21JTjE3V0E4Z3A3eGVQQlY5OC01dlJHVjJnT2VncmhzVTFER1ZfcUcwcUNocHhfb3RCQ3lzWkt2ZDhmd2lZeWxKTFk3TnNhZUVWLTM2VGNEQnJLaU9wM082VmpJdTBBLWgzNHV6VHJUdGU0dXNTdkl1RmV2NFh5NjVQZm10ZDNUMnBnZVlPYk1lZHRudFBFNE1kelZmdzhxVHpfUmVkVlB3Z1NYeXZwd1I5ZXZYODRtaDJNSE5FRWIyQ0Z4M2V4?oc=5",
+          "description": "Zelensky: “Pronto a compromessi, ma anche Mosca deve cedere qualcosa. Fedorov? Mai più sentito” la Repubblica Zelensky: “Noi pronti al compromesso, ma anche Mosca deve fare passi avanti”. Kiev: “Comprati 1.000 missili Patriot” ilfattoquotidiano.it Guerra Russia-Ucraina, Cremlino: \"Auspichiamo ripresa dei negoziati tripartiti con Usa e Kiev\" Tgcom24 Trump chiama Putin e i russi esultano: «mai così ",
+          "pubDate": "Wed, 09 Sep 2026 07:17:13 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "openai",
+      "n_items": 6,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "bbc-business",
+          "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+          "link": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
+          "description": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
+          "pubDate": "Tue, 08 Sep 2026 20:57:09 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "OpenAI dice di aver risolto uno dei Problemi del millennio - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54VGlPRE01OFdETWRRUTA0YmlrSDJnbVFMbEVzczE1QXdzWl9yUU5MX2hYN1Bib3hrelVfV3dmTGNXTjh4S0ZhdndCTnVjVUN5WkU2ZzI4ejBrS3VHUS1SbjJpc1BkMzVfZFpQTjd3UUI?oc=5",
+          "description": "OpenAI dice di aver risolto uno dei Problemi del millennio Il Post",
+          "pubDate": "Wed, 09 Sep 2026 10:58:00 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'IA può portare all'estinzione, l'allerta di decine di ricercatori",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/-lia-puo-portare-allestinzione-lallerta-di-decine-di-ricercatori-_f2907c59-c053-4af7-b511-410cbb0bc59b.html",
+          "description": "Tra i firmatari gli ad di OpenAI e Google Deepmind, ci sono anche italiani tra cui l'esperto di tecnologie dell'informazione Luca Simoncini",
+          "pubDate": "Tue, 30 May 2023 17:55:51 +0200"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'allarme dei big, 'rischio estinzione con l'IA, è come le pandemie'",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/lallarme-dei-big-rischio-estinzione-con-ia-e-come-pandemie_3afde5e5-7bcf-464e-b3aa-aee6577a9b23.html",
+          "description": "Nyt riporta lettera di 350 leader industria, anche ceo OpenAI",
+          "pubDate": "Tue, 30 May 2023 14:12:41 +0200"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "OpenAI, fondo da 1 milione di dollari per regolamentare l'IA",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/29/openai-fondo-da-1-milione-di-dollari-per-regolamentare-lia_df8729b9-427a-4dbb-a12b-04991dd1bf7d.html",
+          "description": "Lo sviluppatore di ChatGpt sovvenziona ricercatori e aziende",
+          "pubDate": "Tue, 30 May 2023 17:32:04 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "zelensky",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "general",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Ucraina, premier Norvegia: aereo Zelensky sfiorato da drone al decollo - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaVBsOVVBcXp6cFZqcTk1RGJQd1AycE96d1V6TjRJeUJKdi1PQXd2eDlLNDhpLUxzV1NGOXZldnU5UmlTUFdRUmJNQmZNSUJTNmNnQWlVTkROTmJtQmZZOU1pYmhhRjQyR1RJbGV6RWhCNmNQMkxibk5iNC0zSXhLanJ1YXpFWmFV?oc=5",
+          "description": "Guerra Ucraina, premier Norvegia: aereo Zelensky sfiorato da drone al decollo Sky TG24 Guerra Ucraina-Russia, le notizie in diretta | Premier norvegese: «L'aereo di Zelensky minacciato dai droni in Moldavia». Trump e la telefonata con Putin: «Vuole un accordo» Corriere della Sera Media: \"L'aereo di Zelensky sfiorato da un drone durante il decollo in Moldavia\" - Zelensky: \"Se la Russia vince, poi t",
+          "pubDate": "Wed, 09 Sep 2026 21:58:58 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Zelensky e teste coronate ai funerali di Re Harald V di Norvegia - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWlRrcTBUMHlaNlFsS2Y3X2RKVGEtRDJZYkdLSzhGTi1oVndxc1ZGcWptWEQwc21vcTVMNlV5SHdSV2drR2dTd1VhR1BITkViRElkR0NnQ2hqNXlGb3gzMkYzQ0VmSjJaaG1XTjZROUthdThuQkZQRFNNR0Y1czBjc0V1amhVZ2stN0RqMmxnTEp3aTNWUnlqRFVBVWh2bHdaeVN3R01fbkdMTHRVYjN1MU9PSnBlNm04MkNNYmpYQm5xLWxxM21KZlZ5MThmeXFxNjlZNERsZlYwcm5LRXMtZXZzX3RIcXRiWFFpaNIB8gFBVV95cUxQaFdBN2gwOXBad1V6SThtSUpOSzA3czV3QlBHY1lwdkVKVlI5NXJvbnFCU2lVVzU0Nlc5VHZWN0tMay1vdWl4c245X1pVRDJpVHJCUFI5aUwzc3hrV0dibThBelVuTU5qZFYwZDJSS0U0VmJyTU12VDUydS1qNmxoN3pFNnRPU1oyZ0xsWWRMZHNiZktfTkR2c0Fqa2pDVDlMNVRiTm5taDY1aWtHT2xoWk5oSVAtdlc1OWNZUF9SWi1vcjA0a3dVMGhLVEZEWGxvN0V0SzJCQVlDa3Rvb05NWFNtOUtzM3pKWDFDNUZPMXoyZw?oc=5",
+          "description": "Zelensky e teste coronate ai funerali di Re Harald V di Norvegia ANSA Il principe William e i re di Spagna, Svezia, Belgio e Olanda. Alberto e Charlène di Monaco, Rania di Giordania e Zelensky. Reali e Capi di Stato al funerale di Harald di Norvegia Corriere della Sera Gli abiti più neri del nero delle reali per l'ultimo saluto a re Harald. E Sonja di Norvegia mantiene la tradizione indossando il ",
+          "pubDate": "Wed, 09 Sep 2026 11:48:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Zelensky: “Pronto a compromessi, ma anche Mosca deve cedere qualcosa. Fedorov? Mai più sentito” - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMDZDX3FFSEJkQzFCeGh5RThMNGc4YmFtcUxDa1MtVXhfR19RLTlzenFJbFpFTXRndzRzN3NtSnptd25XMC05bjU4QzBxTnpjZ0NsLUI0TS1nZUlibjJ6cGhKWjVzU21YYk16MDZ3SDFMZ0ptRnA5aUtjMlFKSTJoQmFVTlItV1lDcGhjUzhwd0toQjV4RGRVMkJ1aFhyb01udVZEX1RDZXNHSFpXeWNSeWItbFk3ZThiMHFvTTRTaVNYQzgzbFpGRmlSRC1odktleVdFTnQwZ0ZZUHJqQk4xblcyNNIB6AFBVV95cUxNbEd5UmlsY3pMcWIyT2ZDTFMzc1lKc2g0M2haYW51QnpNY21JTjE3V0E4Z3A3eGVQQlY5OC01dlJHVjJnT2VncmhzVTFER1ZfcUcwcUNocHhfb3RCQ3lzWkt2ZDhmd2lZeWxKTFk3TnNhZUVWLTM2VGNEQnJLaU9wM082VmpJdTBBLWgzNHV6VHJUdGU0dXNTdkl1RmV2NFh5NjVQZm10ZDNUMnBnZVlPYk1lZHRudFBFNE1kelZmdzhxVHpfUmVkVlB3Z1NYeXZwd1I5ZXZYODRtaDJNSE5FRWIyQ0Z4M2V4?oc=5",
+          "description": "Zelensky: “Pronto a compromessi, ma anche Mosca deve cedere qualcosa. Fedorov? Mai più sentito” la Repubblica Zelensky: “Noi pronti al compromesso, ma anche Mosca deve fare passi avanti”. Kiev: “Comprati 1.000 missili Patriot” ilfattoquotidiano.it Guerra Russia-Ucraina, Cremlino: \"Auspichiamo ripresa dei negoziati tripartiti con Usa e Kiev\" Tgcom24 Trump chiama Putin e i russi esultano: «mai così ",
+          "pubDate": "Wed, 09 Sep 2026 07:17:13 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Plane carrying Zelensky threatened by drone in Moldova, Norway’s premier says - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWVh5cFVGMm5OY2ZMVXRJVTNjUEt2cXNrdHpsVFpYVFM3RE5zVjdnOE9uR244MlFvMVU1WXplaDExMWxwaUppZ3FpU0FsVHM2S2d2WGhpN1hveWlKT2tabXktb0ZmNjd4Y2hRd1NBeVlDWnRWSFpycS13VHBGaVg4elR2UWt6cWgwSm9ncDV4SE03U0IwR1lVY0ItdGdoNGNsMm5RQ3lScFJTMjRzQjJra1R2ZFNUaWd3dVVSdUJn?oc=5",
+          "description": "Plane carrying Zelensky threatened by drone in Moldova, Norway’s premier says The Washington Post Russian drone incursion delayed Zelensky’s departure from Moldova CNN Zelenskyy's plane almost hit by drone en route to Norway king's funeral, prime minister says CBS News Drone almost struck Zelenskyy’s plane, says Ukraine Financial Times Drone alert delayed Zelenskiy's departure for Norway, Moldova ",
+          "pubDate": "Thu, 10 Sep 2026 03:35:39 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "'L'aereo di Zelensky sfiorato da drone al decollo dalla Moldavia'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/09/laereo-di-zelensky-sfiorato-da-drone-al-decollo-dalla-moldavia_1e37fc3e-2a40-487e-a5bc-8440ff6f31a9.html",
+          "description": "Rivelazione shock di Oslo. Kiev sulle trattative: 'Pronti al compromesso', Mosca auspica colloqui trilaterali a breve",
+          "pubDate": "Wed, 9 Sep 2026 21:32:07 +0200"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "after",
+      "n_items": 9,
+      "n_sources": 3,
+      "category": "general",
+      "score": 27,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "'The whole beach is gone': Big waves, flooding bring destruction to SoCal coast. It's a warning - Los Angeles Times",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMjZMelJvaVhXZnpvcTlXeUZjWkxMVWg1ZjdsMVNHYUZ1aV92NEtsajR4cnN3N1F3SnpJQlVzb2tLS1NCakpEY0xSdGtlMzNUVzBDUlJWcFBfN2l5UmtPQmlXV3BpM0JYd09rNVhuNUFlcnNET2Fuc1pWODVIZ0tVeFlBRGlpZmxNV0ZuSXh5NkliZnhPX2c?oc=5",
+          "description": "'The whole beach is gone': Big waves, flooding bring destruction to SoCal coast. It's a warning Los Angeles Times ‘Never seen something like this’: Huge waves from hurricane blast Southern California beaches San Francisco Chronicle Waves ‘like cannonballs’: Residents return to battered homes, tattered boardwalk after tide recedes lbpost.com Long Beach Peninsula LAist 7 homes red-tagged in Dana Poi",
+          "pubDate": "Wed, 09 Sep 2026 18:25:42 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "British Police Expand Investigation Into Reform U.K. After Undercover Sting - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVkJxTGJXMHB5T0puMXZZaFZVOW9GcWFPdmtsLWpiNktiZ2hpT2IxNVc2OUhETHh2WDVPVHlVMFhJZ3V5eVpCS1o3UkM3d0wxRHJuMUc3RXc2Z1RfWm1vaTE0RlZrYVVQYzhUeERZaWNLT29jWEJCWTFPYmdZMDV2TlB3MG13LTl4YVpuTk5ObG8xMHc?oc=5",
+          "description": "British Police Expand Investigation Into Reform U.K. After Undercover Sting The New York Times Police launch investigation into allegations Britain’s hard-right Reform UK party broke campaign finance law CNN Police launch criminal investigation into Reform UK donations BBC UK police widen criminal probe into Reform UK over new allegations Reuters Reform UK says it will ‘fully cooperate’ with Met a",
+          "pubDate": "Wed, 09 Sep 2026 19:40:51 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+          "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+          "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
+          "pubDate": "Wed, 09 Sep 2026 16:46:53 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+          "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+          "description": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
+          "pubDate": "Wed, 09 Sep 2026 13:29:33 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+          "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+          "description": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
+          "pubDate": "Wed, 09 Sep 2026 10:20:40 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "funerali",
+      "n_items": 3,
+      "n_sources": 2,
+      "category": "tech-ai",
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "I funerali di Lorena: la mamma con il peluche, il papà che accarezza la bara e bacia la foto - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNSXg5UGFFYUZUckcySzBSc2FkbDdxSnl4OGNNNWpnakhlMG5hWjd1WkkzaHZkLUdVN2ZMVFVObm9hOHVqX2pMbThjdTdpS0lUbFZWYkpqX3d3UndBNnM2NHB0dVlnMzBLN29OaUlVZjhueWRvTG9CcFI4Q3RJSVF4eEZ5bkhmTlZ0Z0poNmF4UlBmbFNXU2MxZ2Y5cTFMUGtfZXF6UlN1MGpDSEpvQ0RBVzcwY1pEY3Zab0RzbTVRb1RHb3laNFhmSUpyOXBRMjlJQkpVYUFpWWVWOHNOeG1seU9KM0Y0SzJrQ1pjSmNaMlJTMzNjX3RqSVBYZXl5UVdE0gGGAkFVX3lxTFAxMWtmcU5wTk1fWE9faGVPb29iR19DMlJZd0ktcGdoVVVfXy1RWHlpRENQejZPU2NuYU1La2NuYUNhZF9RaXNpSjlkUkEtTXlqMkFMeHB0ODNfTUFzSEd1WEpuRkg4VHExbU1VeUtybTJzbGJnUHJ3aHJrWVVjeVlkdFlLQ01VVF9sLXlReTBvVll5Xzhvd0RXU25EQ0k3THdZZDA4ZlRZVzBZYzNKb0I1eTlMUDhaYmpGaEV1RHZFTXIwYW1qSm9uRGM1Y2J0aWlvQVE1YXNpemZCMW0xZkZFMFRIU2xLWW0yR2xRVVhXVU1CSWpRMkN5eUpzcUR4WkcwTjlkQ2c?oc=5",
+          "description": "I funerali di Lorena: la mamma con il peluche, il papà che accarezza la bara e bacia la foto RaiNews “Chiedeva solo rispetto, voleva solo essere amata”. L’addio a Lorena tra la rabbia della cugina e lo strazio di mamma e papà La Nazione Femminicidio Lorena Isceri, folla al funerale a Squinzano. FOTO Sky TG24 L’appello che scuote: “Non parliamo di gesto di un folle: l’amore è libertà, non possesso”",
+          "pubDate": "Wed, 09 Sep 2026 18:03:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Funerali Mladic, la Bosnia espelle due diplomatici serbi. Ritirato gran parte del personale dell'ambasciata - Il Messaggero",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdGQwLWhzRktRbWZ2bUktOFlsS196R280dW1OeFduX1hlYWRVazhrLU1fVmUyNGxuQ29CMTNaZklIcnBzUEpJUFMyalkwcVJZNENQYjBIZGh1QW9teXY1YVBUZVdQM09ZUFMzSW5rLU5zMU9sODRaZkl3em1rQmMzazl3a0oxelJQVmRUN3Y0aUdubm1jWDNsYVB6UEhseVo4XzczOUhxUDFjVnk2SGxWN1dhZFhacXdqNmk5V9IBwgFBVV95cUxQakFRQVJLeTRlc2gtc0xTVExuV3pZNkZRWUt2TFdYNkY0NDZwNS1pelRGMmVaS18yZ0N1Sld3NElhRW83bHlsS0gzcGVadWNmM3RkczNxNzVEWnNnVU1XUlAwd0gyOHVrR0lwZzJqMXBndlE4WThFS3BBUnlONU9vSlFIM3FTcmVSTHJiV2txVzRSX05kYXMxUkpxRS1YNlpGNHVTVkdtMTZoQUlKc2tRZW1wNGdWV0FwaDhrdWloU1FHZw?oc=5",
+          "description": "Funerali Mladic, la Bosnia espelle due diplomatici serbi. Ritirato gran parte del personale dell'ambasciata Il Messaggero L'ira dell'Ue per il caso Mladic, la Bosnia espelle i diplomatici serbi ANSA La posizione della Presidente Von der Leyen sul caso del funerale di Mladic a Belgrado: collegamento con David Carretta da Bruxelles Radio Radicale La Bosnia Erzegovina ha risposto ai funerali di Mladi",
+          "pubDate": "Tue, 08 Sep 2026 12:30:53 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Zelensky e teste coronate ai funerali di Re Harald V di Norvegia - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWlRrcTBUMHlaNlFsS2Y3X2RKVGEtRDJZYkdLSzhGTi1oVndxc1ZGcWptWEQwc21vcTVMNlV5SHdSV2drR2dTd1VhR1BITkViRElkR0NnQ2hqNXlGb3gzMkYzQ0VmSjJaaG1XTjZROUthdThuQkZQRFNNR0Y1czBjc0V1amhVZ2stN0RqMmxnTEp3aTNWUnlqRFVBVWh2bHdaeVN3R01fbkdMTHRVYjN1MU9PSnBlNm04MkNNYmpYQm5xLWxxM21KZlZ5MThmeXFxNjlZNERsZlYwcm5LRXMtZXZzX3RIcXRiWFFpaNIB8gFBVV95cUxQaFdBN2gwOXBad1V6SThtSUpOSzA3czV3QlBHY1lwdkVKVlI5NXJvbnFCU2lVVzU0Nlc5VHZWN0tMay1vdWl4c245X1pVRDJpVHJCUFI5aUwzc3hrV0dibThBelVuTU5qZFYwZDJSS0U0VmJyTU12VDUydS1qNmxoN3pFNnRPU1oyZ0xsWWRMZHNiZktfTkR2c0Fqa2pDVDlMNVRiTm5taDY1aWtHT2xoWk5oSVAtdlc1OWNZUF9SWi1vcjA0a3dVMGhLVEZEWGxvN0V0SzJCQVlDa3Rvb05NWFNtOUtzM3pKWDFDNUZPMXoyZw?oc=5",
+          "description": "Zelensky e teste coronate ai funerali di Re Harald V di Norvegia ANSA Il principe William e i re di Spagna, Svezia, Belgio e Olanda. Alberto e Charlène di Monaco, Rania di Giordania e Zelensky. Reali e Capi di Stato al funerale di Harald di Norvegia Corriere della Sera Gli abiti più neri del nero delle reali per l'ultimo saluto a re Harald. E Sonja di Norvegia mantiene la tradizione indossando il ",
+          "pubDate": "Wed, 09 Sep 2026 11:48:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    }
+  ]
+}

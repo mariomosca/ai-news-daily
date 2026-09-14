@@ -2,21 +2,75 @@
 <html lang="it">
 <head>
   <meta charset="utf-8">
-  <title>AI News Daily</title>
+  <title>AI News Daily — archivio</title>
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <style>
-    body { font-family: -apple-system, system-ui, sans-serif; max-width: 640px; margin: 4rem auto; padding: 2rem; background: #0a0a0a; color: #e8e8e8; }
-    h1 { font-size: 2rem; margin-bottom: 0.5rem; }
-    p { line-height: 1.6; color: #b8b8b8; }
+    :root { color-scheme: dark; }
+    body { font-family: -apple-system, system-ui, sans-serif; max-width: 900px; margin: 2rem auto; padding: 0 1rem 3rem; background: #0a0a0a; color: #e8e8e8; }
+    h1 { font-size: 1.8rem; margin: 0 0 .25rem; }
+    .sub { color: #9a9a9a; margin: 0 0 1.5rem; line-height: 1.5; }
     a { color: #d4943a; }
-    code { background: #1a1a1a; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; }
+    table { width: 100%; border-collapse: collapse; font-size: .9rem; }
+    th, td { text-align: left; padding: .5rem .5rem; border-bottom: 1px solid #222; vertical-align: top; }
+    th { color: #9a9a9a; font-weight: 500; font-size: .8rem; text-transform: uppercase; letter-spacing: .04em; }
+    td.date { white-space: nowrap; color: #b8b8b8; font-variant-numeric: tabular-nums; }
+    .tag { display: inline-block; padding: 1px 7px; border-radius: 999px; font-size: .75rem; background: #1c1c1c; color: #cfcfcf; margin-right: .25rem; }
+    .tag.area { background: #2a2113; color: #e2b16a; }
+    .warn { color: #e07b53; font-size: .75rem; }
+    .streak { background: #2b1414; }
+    .links a { margin-right: .5rem; font-size: .8rem; }
+    details { margin-top: .35rem; } summary { cursor: pointer; color: #9a9a9a; font-size: .8rem; }
+    .rat { color: #b8b8b8; font-size: .85rem; line-height: 1.4; margin: .3rem 0 0; }
+    #stats { display: flex; gap: 1.5rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
+    .stat { background: #141414; padding: .6rem .9rem; border-radius: 8px; min-width: 120px; }
+    .stat b { display: block; font-size: 1.3rem; } .stat span { color: #9a9a9a; font-size: .75rem; }
+    @media (max-width: 640px) { th:nth-child(4), td:nth-child(4) { display: none; } }
   </style>
 </head>
 <body>
   <h1>AI News Daily</h1>
-  <p>Podcast giornaliero AI su attualita'. Briefing personale per Mario Mosca.</p>
-  <p>Feed RSS: <a href="feed.xml">feed.xml</a></p>
-  <p>Per ascoltarlo su Android: <a href="https://antennapod.org">AntennaPod</a> &rarr; Add podcast by URL &rarr; incolla l'URL del feed.</p>
-  <p style="margin-top:3rem; font-size:0.85em; color:#666">Episodi e cover serviti da Cloudflare R2. Feed XML servito da GitHub Pages.</p>
+  <p class="sub">Podcast quotidiano, una notizia data non raccontata. Feed RSS: <a href="feed.xml">feed.xml</a> · dati grezzi: <a href="data/index.json">data/index.json</a>, <a href="data/history.jsonl">history.jsonl</a>.<br>
+  Ogni riga: cosa e' uscito, in quale macro-area, con che angolo e struttura, e perche' l'editor l'ha scelta. Le righe rosse sono episodi nella stessa area del precedente.</p>
+  <div id="stats"></div>
+  <table id="t"><thead><tr><th>Data</th><th>Puntata</th><th>Area / angolo / forma</th><th>Motivazione dell'editor</th><th></th></tr></thead><tbody></tbody></table>
+  <script>
+  (async () => {
+    let rows = [];
+    try { rows = await (await fetch('data/index.json', {cache: 'no-store'})).json(); } catch (e) {}
+    const tb = document.querySelector('#t tbody');
+    if (!rows.length) { tb.innerHTML = '<tr><td colspan="5">Nessun dato ancora pubblicato in data/.</td></tr>'; return; }
+    const areaOf = r => r.macro_area || (r.category || '').split(',')[0] || '—';
+    // statistiche ultime 10 puntate
+    const last10 = rows.slice(0, 10);
+    const areas = {}; last10.forEach(r => { const a = areaOf(r); areas[a] = (areas[a] || 0) + 1; });
+    const topArea = Object.entries(areas).sort((a, b) => b[1] - a[1])[0];
+    let streaks = 0; for (let i = 0; i + 1 < last10.length; i++) if (areaOf(last10[i]) === areaOf(last10[i + 1])) streaks++;
+    document.getElementById('stats').innerHTML = [
+      [rows.length, 'episodi'],
+      [Object.keys(areas).length + '/5', 'aree nelle ultime 10'],
+      [topArea ? `${topArea[1]}× ${topArea[0]}` : '—', 'area dominante (ultime 10)'],
+      [streaks, 'ripetizioni consecutive di area'],
+    ].map(([b, s]) => `<div class="stat"><b>${b}</b><span>${s}</span></div>`).join('');
+    const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+    tb.innerHTML = rows.map((r, i) => {
+      const a = areaOf(r), prev = rows[i + 1];
+      const same = prev && areaOf(prev) === a;
+      const links = [
+        r.has_script ? `<a href="data/${r.date}/script.txt">script</a>` : '',
+        r.has_choice ? `<a href="data/${r.date}/choice.json">scelta</a>` : '',
+        r.has_candidates ? `<a href="data/${r.date}/candidates.json">candidati</a>` : '',
+      ].join('');
+      const sim = r.story_sim != null ? `<span class="warn">sim ${Number(r.story_sim).toFixed(2)}${r.story_sim >= 0.5 ? ' ⚠' : ''}</span>` : '';
+      const from = r.origin_date && r.origin_date !== r.date ? `<span class="tag">dal ${r.origin_date}</span>` : '';
+      return `<tr class="${same ? 'streak' : ''}">
+        <td class="date">${r.date}</td>
+        <td><strong>${esc(r.label || r.origin_keyword || '—')}</strong><br>${from}${r.word_count ? `<span class="tag">${r.word_count} parole</span>` : ''}${r.opening_retry ? '<span class="tag">incipit rigenerato</span>' : ''} ${sim}</td>
+        <td><span class="tag area">${esc(a)}</span>${r.target_area && r.target_area !== a ? `<span class="tag">turno: ${esc(r.target_area)}</span>` : ''}<br><span class="tag">${esc(r.angle || '—')}</span><span class="tag">${esc(r.structure || '—')}</span></td>
+        <td><p class="rat">${esc(r.rationale || '')}</p></td>
+        <td class="links">${links}</td>
+      </tr>`;
+    }).join('');
+  })();
+  </script>
 </body>
 </html>

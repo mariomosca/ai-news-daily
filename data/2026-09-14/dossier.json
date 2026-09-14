@@ -1,0 +1,33 @@
+{
+  "topic_label": "Poste Italiane prende TIM: lo Stato torna padrone delle telecomunicazioni",
+  "query": "Poste Tim controllo statale infrastrutture",
+  "category": "economia",
+  "category_claude": "economia",
+  "macro_area": "economia",
+  "target_area": "economia",
+  "origin_keyword": "poste tim acquisizione controllo",
+  "origin_date": "2026-09-14",
+  "story_sim": 0.423,
+  "story_vs_date": "2026-08-31",
+  "angle": "segui-il-potere",
+  "angle_directive": "Segui il potere: chi decide, chi controlla, chi si crede sopra le regole. La concentrazione di potere (politico, mediatico, tech, economico).",
+  "genre": "prospettiva",
+  "target_words": 950,
+  "hot_topic": false,
+  "richness": 3,
+  "label_cluster": "Poste supera 66,6% Tim e acquisisce pieno controllo",
+  "cover_metaphor": "a state hand quietly closing around a telecom tower",
+  "curator_rationale": "Poste Italiane, controllata dal Tesoro, supera il 66,6% di Tim: non è solo un'operazione finanziaria ma il ritorno de facto dello Stato nel controllo dell'infrastruttura di rete strategica del paese, con Mps come pezzo dello stesso disegno (Lovaglio). Angolo segui-il-potere, fresco rispetto al paradosso usato ieri, e la notizia è più sostanziosa e meno satura di Houthi/petrolio (già coperto ieri con Groenlandia/carburante).",
+  "articles": [
+    {
+      "title": "Poste supera il 66,6% di Tim e prende il pieno controllo della compagnia telefonica. Boom di adesioni all'opas",
+      "source": "google-news-it-business",
+      "summary": "Poste supera il 66,6% di Tim e prende il pieno controllo della compagnia telefonica. Boom di adesioni all'opas Corriere della Sera Poste sale al 66,63% di Tim, sprint finale dell’Opas. Dal 21 settembre la finestra per i ritardatari la Repubblica Poste al 66,63% di Tim, adesioni al 58,2297% dell'offerta ANSA Tim: Labriola, in opas accelerazione in ultimi giorni, parola al mercato Il Sole 24 ORE Opa"
+    },
+    {
+      "title": "Lovaglio: il governo riconosce il valore di Mps. Noi uniamo, non dividiamo",
+      "source": "google-news-it-business",
+      "summary": "Lovaglio: il governo riconosce il valore di Mps. Noi uniamo, non dividiamo ilsole24ore.com Mps, corsa per il sì in assemblea di Delfin e dei fondi del mercato la Repubblica Mps scopre le carte per la doppia Ops su Banca Generali e Banco Bpm: depositato il prospetto Corriere della Sera MPS, Meloni: questione riguarda il mercato, il governo attualmente non ha un ruolo Borsa Italiana Aumento capitale"
+    }
+  ]
+}

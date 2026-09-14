@@ -1,0 +1,925 @@
+{
+  "date": "2026-07-01",
+  "top_topics": [
+    {
+      "keyword": "italia",
+      "n_items": 25,
+      "n_sources": 8,
+      "category": "economia",
+      "score": 206,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "L'Oms: in Italia 5 morti in 24 ore per il caldo. Il ministero della Salute: 'Non ci risultano' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQ3ZfUm5vc2xjZVZFUjhLcTUteHU2M09fTWR5NnF5MjBmVklHMEFjWEdwMlJWZjBJVURzVUVRTENEdGpNQTdLQmtxS2NyQjFhRjhIRzFJOXdLcFhaX1A5R3p5U0FYUE1hMWdPLUJjMGxYZWhjdXhVR1RjLTZrRkhla2RnODFRZmNQRC1oLUY2SHBaUVFHYkNLSVpYVC1VVHpaU2Q4ZHo3MS1wckQ4bWRUdndsXzdiSXJTTW1keG5sSW82TWFhX1BHdFhnWkZrbTJ6cTR5dU5RMnVyWXpUZnhnSWJITmlXcWNsN2phZF9hazl3MThCNllIZFR1VlROMTjSAYQCQVVfeXFMTy1RT0laeFBTSlFSYjA1V01yM19ZTzhPMllCdC1EaU84SjkxU0lBMFZrMjVtY3BzR0d1aktobVlEdTZNTlZmeHlmY3pqLXR1bkhKcmlOYzBZNlVmZnBkay1SZXk1cjJKYXFldWZoQkE2Rm5zQkc3NzJ0RGxvMllFYWpWVms4Ml84NGstVS1CM2pQUlNPN1JGZkdOS2UtekphTndwYmVIcHVneXJEdEJsLU13eWJYZ3JZLWZYVnRXTGFHQS1UVVFyWFpYOUdhNUs5Y1pIQUlrZnU5OGUtMndkYVV4akNQTS1nRE02aHFtcmlZVUpuTDd3TmVjTldDRjlaNkFpblo?oc=5",
+          "description": "L'Oms: in Italia 5 morti in 24 ore per il caldo. Il ministero della Salute: 'Non ci risultano' ANSA Oms: \"Le prossime estati saranno ancora più difficili\" Il Fatto Quotidiano Caldo, arriva la prima tregua. Sul conteggio delle vittime Oms smentita dal ministero la Repubblica L’Europa si riscalda più della media globale il manifesto Le ondate di calore da record che investono l’Europa sono il segnal",
+          "pubDate": "Tue, 30 Jun 2026 16:05:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Allargamento, la Cina nei Balcani occidentali inquieta l’UE che si affida alla buona fede della regione - Eunews",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZndKbHc2V3VDanpQX0Jubm1OTEdTZXlZeDAyU3dnaDBRU2wxY1RyQXdCcl8zTGNFQ3FaTjc0MEt0RXh4Z2JBQTBVUTdfeW00ODZwaUpaOHpaVmJWZ0ZEZWM0bWZqaGtzOW8wNXRQRWgtMzY5UkQtZnNnbjFTa19XbU9VcUZhdFVOdE9HcERic2dkN2t1WXRRUF82X0IwWVFiUWpBbXR6QW0wcVRyNmRibzBaa284SHpxcWxoZ2FPbVZHb1gyT0NYbGtoQmlWVlUy?oc=5",
+          "description": "Allargamento, la Cina nei Balcani occidentali inquieta l’UE che si affida alla buona fede della regione Eunews Commissione europea presenta pacchetto finanziario per adesione del Montenegro all'UE Borsa Italiana Ue, 'l'adesione del Montenegro costerà 3,2 miliardi, impatto gestibile' ANSA Il vertice di Tivat e il nuovo volto dell’allargamento: osservatori senza voce in capitolo Orizzonti Politici L",
+          "pubDate": "Mon, 29 Jun 2026 08:59:44 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Un milione di domande di regolarizzazione infiamma la Spagna - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNN2s2N2EwdFlYUFhzSGhNaU1PZTI2eTN4Y2JqbE1laG1wVzFjeHY1LXBHU3k0LUdjRG5telBEdWI5cUNjSU5ldUNXYno1QmF1dTdYTTlRTlFkVmpTNmdGTk14bmtKTUxnZEVoUWZXQzQ1anBRbXBrMkN5RHhKWW01SWI5YndFbURxeHp5OFlVLWZ5elF3eWFkWnBmZTNER0YtUkZYazU5VC1WYjhhblNJWUk2a3ZHV25aWDJoQVhVN0VQX09CTVlnNmctRFI1bzRCVVpDbEx1RlM5Y1l1dTU5ZHQ0eEtuODTSAewBQVVfeXFMTnA1Y1dIdXFQQzRhYnZiMWhOSTg5aU5VbEhvajZPMDVfdFdWcWpFYnBmWjNISnhLOUFDM2tQYUhfbGR3aFNmZExmOFFnZDliOGlBWGRPd0ZoNERwX2lJMWowV3dRekkzdGpMZlZGa0RvZHlUTFpDNGJyYVE4Z2F0VVFKVnp5dDMtamEtenpPV1NENU5oRHZpVHNDNTF0MWJrMWRSSy1xTXB6UFhCLXh1Z0R3bVVnQW95T2R0aWNjaEZ4WVNXU2I0eTFHX1FrNjU2Vl9SVkl2ak83cnVFYlFtd0doVnN5WHNLbmUwdXM?oc=5",
+          "description": "Un milione di domande di regolarizzazione infiamma la Spagna ANSA Sanchez e il piano migranti: 1 milione di domande di regolarizzazione HuffPost Italia Spagna, procedura straordinaria di regolarizzazione degli immigrati: oltre un milione di domande Italia Oggi Spagna, oltre un milione di migranti chiede la sanatoria. Destra all'assalto di Sánchez: «Invaderanno l'Europa» - Il video Open Regolarizza",
+          "pubDate": "Tue, 30 Jun 2026 17:30:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "FTSE MIB chiude primi sei mesi con +15%. Inflazione tedesca e italiana in decelerazione - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNV3gxOXZoYVgxeV9kdFpqcG9MdzNZZXM1OVFBcUdFQV9PbUd1R0NjcjVWOEhsV3h1SkFQeUtvVHBkR0dMek9CMVFGdmFKbGhtaGJueVphMm1tNGlvcXRlODBnN0VDVWdEVnVNYzJ2QWIwZEdCRVBvd1JYbmdHWnBhVml5V3JPSERJVnI0MXRvRWthYXlMYW8tclBMVklTc2l0cGc2Q2dKVVpMdWF3OWU3NlB2UzUzSEdYZ0pJWllyOE1lVWZCX08zdlNyZk1iVk1pSDBEX0M1eXRscnBZcmV0ME9wQUlEa2VjQU0tN1JrYUhJT3FHd0FhMEN3VmlWOGtM?oc=5",
+          "description": "FTSE MIB chiude primi sei mesi con +15%. Inflazione tedesca e italiana in decelerazione Borsa Italiana Mercati europei positivi Borsa Italiana Borse in diretta, petrolio oggi 30 giugno | Listini in leggero rialzo, l'attesa per i colloqui a Doha. Il meeting a Sintra delle banche centrali Corriere della Sera Le azioni europee salgono grazie al rimbalzo del settore tecnologico: DAX, CAC, FTSE100 Yaho",
+          "pubDate": "Tue, 30 Jun 2026 16:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Electrolux, 36 gradi nei reparti Aree tecnologiche: i lavoratori si fermano - TrevisoToday",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeVAzaVpqWlh6YXJMUXh2NE5waGtCb2p5NFh4c0FjS0hqbVkwbjY5Y2dPV2o0c3RRaU5iVld2elViRC1lbFJ3aDJtcm5PcjZIU1gxRUhjTzcxaFZfOGVoNTFBbGpLZEpSQWtDYUNoZUlqb2xJSGN3bWZVM1VoNkJrc2ZDcw?oc=5",
+          "description": "Electrolux, 36 gradi nei reparti Aree tecnologiche: i lavoratori si fermano TrevisoToday Cisl Fvg, 'se tremano i grandi come Electrolux tremano anche le Pmi' ANSA Electrolux non si sbilancia su Cerreto d'Esi, lo stabilimento resta a rischio RaiNews Electrolux, i sindacati: «L'azienda è l'ultima chance per l'elettrodomestico in Italia. Ci sia chiarezza sullo stabilimento di Susegana» Corriere del V",
+          "pubDate": "Tue, 30 Jun 2026 07:02:01 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "trump",
+      "n_items": 14,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 76,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Iran Usa, media: \"L'Oman propone il pedaggio volontario per Hormuz\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KM19XVTJNSkl4NEJwanBTazdjMWxVMUxrYWpBelZUNXJjSkY2TW94b3NucTd1M0s4OXB5bERoTnpMR2RSQktmV1RUR2Y1X1JXbENaQ0dRdjI0bWFFUXhqS3NIMXVqNjFzbkx3VC1NLXBLT2xQSUZkWlVLYw?oc=5",
+          "description": "Guerra Iran Usa, media: \"L'Oman propone il pedaggio volontario per Hormuz\" Sky TG24 Con il ricatto di Hormuz l'Iran può vincere la guerra, ma perdere la pace Corriere della Sera Negoziati USA-Iran, oggi a Doha i primi colloqui indiretti (forse) - Il \"Board of Peace\" annuncia veicoli tattici in arrivo vicino Gaza RaiNews La strategia che non c’è Il Wsj accusa Trump di aver dato all’Iran modo di vin",
+          "pubDate": "Tue, 30 Jun 2026 22:03:21 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "La Corte Suprema boccia Trump: chi nasce negli Usa è cittadino americano - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVhaWUViZEE0TGRVRmNUYnJNdk1PeVpYeGRKRThaVzNFbnB3SzJDS2Y3SXUzaDZ4YTk1Ym1VV19rbXllYmJ1YlBTNGszd3V0U2hIRVNSUGc4d0s1eWhub2Q3T3I5NjFyQ29hTTRjQWpEbnJ0RXlmTlN5TDEwN2tGejJKUDRnUzB4N0pzdXpzTWZJeXdvWnJHQk1jN21NSk0?oc=5",
+          "description": "La Corte Suprema boccia Trump: chi nasce negli Usa è cittadino americano Il Sole 24 ORE Mounk: «La politica sull'immigrazione di Trump resta impopolare, questa decisione potrebbe aiutarlo» Corriere della Sera Ius soli, come funziona il diritto di cittadinanza nel mondo? Dagli Usa all'Europa Sky TG24 Trump elogia la Cina perché non ha lo ius soli, 'una grande nazione' ANSA Mario Del Pero. L’America",
+          "pubDate": "Tue, 30 Jun 2026 19:13:24 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Supreme Court Live Updates: Justices Reject Trump’s Effort to End Birthright Citizenship - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWU5GeVRQNlpVV3pPNmRMY3ZqOTYwdzBpbnlzdW5LaGxIcjlQajIwUWgtb0IzRWRtUFRvUFlnbjhpeUFYa0ZxUmZ2SUQwS2QzQzhqZzl3QV94X1BfVDduWWNpT0R5TG4zdFFqSmNJV1hua0Q1UXNMM19IQ3FlbWZGdFhqSU9RZw?oc=5",
+          "description": "Supreme Court Live Updates: Justices Reject Trump’s Effort to End Birthright Citizenship The New York Times Trump loses Supreme Court battle to end birthright citizenship BBC Vance calls Supreme Court birthright ruling a ‘major mistake’ The Hill President Trump issues response after Supreme Court overturns his birthright citizenship restrictions WUSA9 Supreme Court upholds birthright citizenship o",
+          "pubDate": "Wed, 01 Jul 2026 02:44:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mVzM2WHlReUtRY2MzaFdWRy1iWTRvYkhKS1BiWVJ6NzNfdHBvNHREYXlFenNsMmMwVFlhbWFRaTd4Zlp1RG1md00xY21lMlBUOWZSakJpUVZIUQ?oc=5",
+          "description": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power BBC What the Supreme Court justices' latest rulings reveal, according to a legal expert NPR The final four SCOTUSblog 5 takeaways from Supreme Court rulings on Trump’s power, elections, LGBTQ+ issues The Washington Post Takeaways From a Transformative Supreme Court Term The New York Times",
+          "pubDate": "Tue, 30 Jun 2026 22:29:47 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Judges strike down Trump’s restrictions on loan forgiveness for public servants - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa1dfSzRYMmxKZS1ScFF4aXlGbnVsMDBZeE9nZ2JCdkpJU3VkSHlqcy1YZktsRkh6bDRLcUowQzItTTJmRmpWR1VUZlo3MDFFM2l2MEtZQUZBekJ5YUdadjd5Z2RyX3BDLWw2eHg3YXh2WlJFZFRyM1J4YWlZc0VBa1hmRlBiLXNOZlBrcGpTTU9wMWczamZGaWtHR1Fpc0VoVnRaVFM0ejZfNmtQSTROeVEtbFQ3eEZBeEE?oc=5",
+          "description": "Judges strike down Trump’s restrictions on loan forgiveness for public servants The Washington Post Judges Strike Down Trump Rule on Loan Forgiveness for Public Servants The New York Times Trump administration expands list of graduate degrees subject to higher borrowing limits CNBC Judge blocks rule to strip public service workers of student loan forgiveness The Guardian He dreamed of becoming a p",
+          "pubDate": "Wed, 01 Jul 2026 03:55:33 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "caldo",
+      "n_items": 10,
+      "n_sources": 6,
+      "category": "clima",
+      "score": 66,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Meteo Veneto, le previsioni per mercoledì 1 luglio: allerta della Regione per temporali, forti raffiche di vento e grandine - Corriere del Veneto",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOcXB3Sl80X0dsUVpPM21ab3YzT1pLcW5LOWJrY0paT2E0X0pEUlg5YUx5UGdHZkdtTXkzclF6SF8wdzlSaEVoaVFzWEJtUnRKVFk0ZUM3RDZ1OUtXa3JhdUlUNW5yRHg4T212aGwzZ2YtU2NVdklMc2k3WFF0RFEyUGRYRmF2SWJHZ1I0ZUUySUpTU3lqa0tXM1N2QkhxcU9kZUo4aWFQTldINm1zMkRSYXJiMTZJVk1lbUtENGhPYXMzZ0M5LWhpbGlkbGZBdnd3Znp4Qms1Vm1HZHU0T25qc1dtN1Y0Y25kTmpTZ3VpeVpvaHZTOGRaUVVuZElYNG9uZ2M5cm9QTmZHelJoWG9mbmh0a2pWWmdlbFBPbUhOWXkzT0hLcU1JM0o2NTFtd1VRekttY3NPM3huN3RyeFIwSDhCRDlENG5lNzlEU9IB0gJBVV95cUxPd2ZEcktyUzhpb2x5QWM2YU5jYlBqeWhqMFpjX3I3X2JOV01OMEZBOUNHVjF0QVVTV3U5NTN0QUl1RHBZYldBTDRLMVBKdktrSUgzV21ua01id2hXdHRuVGV5WGNvWG11VHNsWkdVSGl0bjQ3WkFJNm8zVzBreHRub1UyMnNWeVdpTnBIamQ1WXpMYU5mMVV2QTFwdlpVVnpwZHk1Zndhd2ZobmpkZ3Z0NGZkZWFJV1ZHcHRXTE1OR0xzSEJOWXkyWHZqNFAyalR6THZoaWlUaDd1V1BobHZ6Z3FwTklvVm9SYlZNZkNac2ZENDE0N2VEb0plM2J6VjBNR2dvUGZkVVJlY2JYanBUWHNOZk9FVngxSno1dXdTNC1DVnhlNV83N3lhQkhvVXZ2VGlaY25RRUN6MldWR3dQNjg4bVRKaWZXTnlmbjhPNndEQQ?oc=5",
+          "description": "Meteo Veneto, le previsioni per mercoledì 1 luglio: allerta della Regione per temporali, forti raffiche di vento e grandine Corriere del Veneto Veneto, allerta temporali per il primo luglio: attesi fenomeni intensi in pianura Il Mattino di Padova Allerta Meteo: mercoledì 1 luglio parchi pubblici chiusi in tutto il Comune di Verona L'Arena Caldo killer, mozione in Regione: «Climatizzatori scontati ",
+          "pubDate": "Tue, 30 Jun 2026 16:19:14 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "L'Oms: in Italia 5 morti in 24 ore per il caldo. Il ministero della Salute: 'Non ci risultano' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQ3ZfUm5vc2xjZVZFUjhLcTUteHU2M09fTWR5NnF5MjBmVklHMEFjWEdwMlJWZjBJVURzVUVRTENEdGpNQTdLQmtxS2NyQjFhRjhIRzFJOXdLcFhaX1A5R3p5U0FYUE1hMWdPLUJjMGxYZWhjdXhVR1RjLTZrRkhla2RnODFRZmNQRC1oLUY2SHBaUVFHYkNLSVpYVC1VVHpaU2Q4ZHo3MS1wckQ4bWRUdndsXzdiSXJTTW1keG5sSW82TWFhX1BHdFhnWkZrbTJ6cTR5dU5RMnVyWXpUZnhnSWJITmlXcWNsN2phZF9hazl3MThCNllIZFR1VlROMTjSAYQCQVVfeXFMTy1RT0laeFBTSlFSYjA1V01yM19ZTzhPMllCdC1EaU84SjkxU0lBMFZrMjVtY3BzR0d1aktobVlEdTZNTlZmeHlmY3pqLXR1bkhKcmlOYzBZNlVmZnBkay1SZXk1cjJKYXFldWZoQkE2Rm5zQkc3NzJ0RGxvMllFYWpWVms4Ml84NGstVS1CM2pQUlNPN1JGZkdOS2UtekphTndwYmVIcHVneXJEdEJsLU13eWJYZ3JZLWZYVnRXTGFHQS1UVVFyWFpYOUdhNUs5Y1pIQUlrZnU5OGUtMndkYVV4akNQTS1nRE02aHFtcmlZVUpuTDd3TmVjTldDRjlaNkFpblo?oc=5",
+          "description": "L'Oms: in Italia 5 morti in 24 ore per il caldo. Il ministero della Salute: 'Non ci risultano' ANSA Oms: \"Le prossime estati saranno ancora più difficili\" Il Fatto Quotidiano Caldo, arriva la prima tregua. Sul conteggio delle vittime Oms smentita dal ministero la Repubblica L’Europa si riscalda più della media globale il manifesto Le ondate di calore da record che investono l’Europa sono il segnal",
+          "pubDate": "Tue, 30 Jun 2026 16:05:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Caldo record, le nozze di Taylor Swift e il 4 luglio si abbattono sui Mondiali",
+          "link": "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/30/caldo-record-le-nozze-di-taylor-swift-e-il-4-luglio-si-abbattono-sui-mondiali_2f363350-f227-403f-ba76-6b8038ca0b2c.html",
+          "description": "A New York il pienone, allerta termperature per i 250 anni dell'America",
+          "pubDate": "Tue, 30 Jun 2026 17:55:15 +0200"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Crisi climatica, in quattro anni 20 miliardi di danni all’agricoltura",
+          "link": "https://www.ilsole24ore.com/art/crisi-climatica-quattro-anni-20-miliardi-danni-all-agricoltura-AILAR4vD",
+          "description": "Non solo caldo e siccità: bombe d’acqua, gelate tardive, eventi estremi sempre più concentrati e calendari sconvolti. La crisi climatica presenta un conto sempre più salato all’agricoltura italiana, fra le...",
+          "pubDate": "Tue, 30 Jun 2026 07:34:17 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Caldo, quanto dura ancora? Come costruire una stazione meteo fai-da-te per avere una previsione - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOWDZVTE14RHk0cEljTWZxbk1XWkEtNm4xMGxuMFRFb0x0WUc1ZkU1WU5TVXFHSkFrcDJpUGd0cWx0TnJ0U3lHWmhEWUpNTDRST3h4dEY5YkJ3dHdVWHlvTlgxVFl3RGllblc1VU0taWRzOHRBN0tFWWdFU0VNVTZRQy1CNDRrejc1SmRMUjRES3RMYm9kNGtHRHVJdDh5RFJwblN0SHF2UnJOc2themVzS0VFWHNhUWthNHRBUElQRS05aUdYcDBDS0RZTkttWkZ5Z1R4c3phaURBeWh3YjVfZ0Zyb0N5RE9LSno1TFk3Mm8tOHVOdnkxTC1aZWpXYVQyVWVaY1NWTTZxYTdLcTlQNkdtcVFVZmZBMWZoYmR3X2tybExON0ZmZlNpNNIBsAJBVV95cUxNVXRfWF8wd0NhdDItbzcyc1BhTktxeXJGNVV5VWNNZkxBUkdIM1FUNEtpX21BWm4tT2ZBSkVmX2RDUUZlNlIwc05ZUHRDWmlGNkdIMkRzRHFVQW9lcmVPdm5ZTmh3cWRqYnc3cjBTUm1MSk5ZR09Icjl6UXhrWW5RVHBJT2pLSzBxbDVGR0dibmtWZTlOVm1kVC16T0xFelA1UjNnQlJQX1YyTno1NkJEOGU4eThsYUZYVC12V0ZWMHRxRlU0SHFLMEVMbHp3V25jVVNFNmU4Nlo0ZlhKLW1Lc2M1RDMyeHUxNG1valhwMGdCX2xQN19wam90M3lfbGQyLVc1UHlIUEdiVmhONUlSM3o3NWRnc3NKdGJ2SXRBYXJMUW90SzRyVmF2RnFIQ29p?oc=5",
+          "description": "Caldo, quanto dura ancora? Come costruire una stazione meteo fai-da-te per avere una previsione Corriere della Sera",
+          "pubDate": "Mon, 29 Jun 2026 17:21:19 GMT"
+        }
+      ],
+      "macro_area": "clima-salute"
+    },
+    {
+      "keyword": "luglio",
+      "n_items": 10,
+      "n_sources": 6,
+      "category": "general",
+      "score": 60,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Meteo Veneto, le previsioni per mercoledì 1 luglio: allerta della Regione per temporali, forti raffiche di vento e grandine - Corriere del Veneto",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOcXB3Sl80X0dsUVpPM21ab3YzT1pLcW5LOWJrY0paT2E0X0pEUlg5YUx5UGdHZkdtTXkzclF6SF8wdzlSaEVoaVFzWEJtUnRKVFk0ZUM3RDZ1OUtXa3JhdUlUNW5yRHg4T212aGwzZ2YtU2NVdklMc2k3WFF0RFEyUGRYRmF2SWJHZ1I0ZUUySUpTU3lqa0tXM1N2QkhxcU9kZUo4aWFQTldINm1zMkRSYXJiMTZJVk1lbUtENGhPYXMzZ0M5LWhpbGlkbGZBdnd3Znp4Qms1Vm1HZHU0T25qc1dtN1Y0Y25kTmpTZ3VpeVpvaHZTOGRaUVVuZElYNG9uZ2M5cm9QTmZHelJoWG9mbmh0a2pWWmdlbFBPbUhOWXkzT0hLcU1JM0o2NTFtd1VRekttY3NPM3huN3RyeFIwSDhCRDlENG5lNzlEU9IB0gJBVV95cUxPd2ZEcktyUzhpb2x5QWM2YU5jYlBqeWhqMFpjX3I3X2JOV01OMEZBOUNHVjF0QVVTV3U5NTN0QUl1RHBZYldBTDRLMVBKdktrSUgzV21ua01id2hXdHRuVGV5WGNvWG11VHNsWkdVSGl0bjQ3WkFJNm8zVzBreHRub1UyMnNWeVdpTnBIamQ1WXpMYU5mMVV2QTFwdlpVVnpwZHk1Zndhd2ZobmpkZ3Z0NGZkZWFJV1ZHcHRXTE1OR0xzSEJOWXkyWHZqNFAyalR6THZoaWlUaDd1V1BobHZ6Z3FwTklvVm9SYlZNZkNac2ZENDE0N2VEb0plM2J6VjBNR2dvUGZkVVJlY2JYanBUWHNOZk9FVngxSno1dXdTNC1DVnhlNV83N3lhQkhvVXZ2VGlaY25RRUN6MldWR3dQNjg4bVRKaWZXTnlmbjhPNndEQQ?oc=5",
+          "description": "Meteo Veneto, le previsioni per mercoledì 1 luglio: allerta della Regione per temporali, forti raffiche di vento e grandine Corriere del Veneto Veneto, allerta temporali per il primo luglio: attesi fenomeni intensi in pianura Il Mattino di Padova Allerta Meteo: mercoledì 1 luglio parchi pubblici chiusi in tutto il Comune di Verona L'Arena Caldo killer, mozione in Regione: «Climatizzatori scontati ",
+          "pubDate": "Tue, 30 Jun 2026 16:19:14 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Acciaio, dal 1° luglio scatta lo scudo Ue: meno import e dazi al 50% per proteggere l'industria europea - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOekZvQWNRb2hlVTZqbjMtamE3Z21FbkJLaEV2T3g5MDROdHNtNG9wdzVLUHVRWFBPb3lFencxdTBacWVpb2MtNERsRV8yY3pWWkpnTEtMWVRxS3FXellPOC1YeFE0YnBoS2tLeWpHSi1tSl9aeVlKeDZZdXN1ZzhGQVBOS1pES0JORFlQSTdtcE5JSDdrVVJobVdORWxodU1ZUmotbWxtMXNnRUF0QTdGaFVoMHA5REcyeHdOejd6bk1TSnZBR0dEVkw4WnRQT0J1ZkNTeFhVSjB3RnRuRUhLTlhsTTRQaU5xbWE2aUdzTnRqc3NDRUJPdmRnUjNBLTZkTzBRT0RLU25PcVA1S0dhVG8zVmVrOWRkV2lwcmJVMkRKQdIBpwJBVV95cUxPc3k2aHFUcmdvMEQxekRWbTFsRnhRcV9oR01oQWlmYkM1VnAwRjVBeWhhazJxTG5rQnZmR1lIc2Fmc0xUT3AzUXUxNkJXZU5fSmE3aVUyeTVoN1NZaHpDYV9wLXdOTmVHbVhjNl9RQWdDUGpxNU1sRGNjYndxOU1yMl9LN2tkOE12alZ2bUVPNlFDQTdWV3p2ZGxDUlBBYmJHUXlPYTBkUUVhRVdtMkJoT2F4R0R2c0V1SFM1a2kwakR0NG9TRFEzc0RzN0IzaFgwZTg2ZDcwVHJ0U25ERGpwQlpjLVMzT0J3TE5fd01NQXBFVVNkSkpjblNCczFOOFRrbnpVcXRtdWxjdUp5bGpVQ3p3R3RMVjN0S1FCenlNTWtBRlNGa1FR?oc=5",
+          "description": "Acciaio, dal 1° luglio scatta lo scudo Ue: meno import e dazi al 50% per proteggere l'industria europea Corriere della Sera Meno import, quote ridotte, più dazi: scattano le nuove norme UE per l’acciaio Eunews Acciaio Ue, pubblicate le quote per Paese siderweb.com ***Acciaio: da domani in vigore stretta Ue per proteggere l'industria europea Il Sole 24 ORE Da domani la stretta Ue sull'acciaio, dime",
+          "pubDate": "Tue, 30 Jun 2026 13:17:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Caldo record, le nozze di Taylor Swift e il 4 luglio si abbattono sui Mondiali",
+          "link": "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/30/caldo-record-le-nozze-di-taylor-swift-e-il-4-luglio-si-abbattono-sui-mondiali_2f363350-f227-403f-ba76-6b8038ca0b2c.html",
+          "description": "A New York il pienone, allerta termperature per i 250 anni dell'America",
+          "pubDate": "Tue, 30 Jun 2026 17:55:15 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Due supereroi al bar, Spider-Man incontra Lionel Messi nell'ultimo spot Sony-Marvel",
+          "link": "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/30/due-supereroi-al-bar-spider-man-incontra-lionel-messi-nellultimo-spot_65ae9b52-b724-4f98-bd2b-b9c301db3532.html",
+          "description": "Il video lancia l'uscita del colossal 'Spider-Man: Brand New Day', in arrivo il 29 luglio",
+          "pubDate": "Tue, 30 Jun 2026 19:40:07 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Entra in vigore la tassa europea sui piccoli pacchi - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbXdsWEtXN0xUZ0dHWm1feEV0cjdMR3hMa0pBUmZQeW1WV19rWEJLNlJldkhtZ1JEVzh6U1N6VXRUanpFTUpqOThKY0xqVDllcGlGMkhTU0RrNVdEcjhYZTdNY042OXJiYzRiZGRBelkyV2h5TE5SMUlOUFd1ZHhVRGxIZw?oc=5",
+          "description": "Entra in vigore la tassa europea sui piccoli pacchi Il Post Tassa di 3 euro per i «mini pacchi» extra Ue, dall'1 luglio comprare online costa di più: controlli aumentati e premi per i doganieri Corriere della Sera Acquisti online extra Ue: dal 1° luglio 2026 arriva il dazio di 3 euro sui pacchi sotto i 150 euro ADICONSUM Associazione Difesa Consumatori APS Da luglio i dazi Ue da 3 euro sull'invasi",
+          "pubDate": "Tue, 30 Jun 2026 12:27:26 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "record",
+      "n_items": 7,
+      "n_sources": 7,
+      "category": "tech-ai",
+      "score": 55,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "L'Oms: in Italia 5 morti in 24 ore per il caldo. Il ministero della Salute: 'Non ci risultano' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQ3ZfUm5vc2xjZVZFUjhLcTUteHU2M09fTWR5NnF5MjBmVklHMEFjWEdwMlJWZjBJVURzVUVRTENEdGpNQTdLQmtxS2NyQjFhRjhIRzFJOXdLcFhaX1A5R3p5U0FYUE1hMWdPLUJjMGxYZWhjdXhVR1RjLTZrRkhla2RnODFRZmNQRC1oLUY2SHBaUVFHYkNLSVpYVC1VVHpaU2Q4ZHo3MS1wckQ4bWRUdndsXzdiSXJTTW1keG5sSW82TWFhX1BHdFhnWkZrbTJ6cTR5dU5RMnVyWXpUZnhnSWJITmlXcWNsN2phZF9hazl3MThCNllIZFR1VlROMTjSAYQCQVVfeXFMTy1RT0laeFBTSlFSYjA1V01yM19ZTzhPMllCdC1EaU84SjkxU0lBMFZrMjVtY3BzR0d1aktobVlEdTZNTlZmeHlmY3pqLXR1bkhKcmlOYzBZNlVmZnBkay1SZXk1cjJKYXFldWZoQkE2Rm5zQkc3NzJ0RGxvMllFYWpWVms4Ml84NGstVS1CM2pQUlNPN1JGZkdOS2UtekphTndwYmVIcHVneXJEdEJsLU13eWJYZ3JZLWZYVnRXTGFHQS1UVVFyWFpYOUdhNUs5Y1pIQUlrZnU5OGUtMndkYVV4akNQTS1nRE02aHFtcmlZVUpuTDd3TmVjTldDRjlaNkFpblo?oc=5",
+          "description": "L'Oms: in Italia 5 morti in 24 ore per il caldo. Il ministero della Salute: 'Non ci risultano' ANSA Oms: \"Le prossime estati saranno ancora più difficili\" Il Fatto Quotidiano Caldo, arriva la prima tregua. Sul conteggio delle vittime Oms smentita dal ministero la Repubblica L’Europa si riscalda più della media globale il manifesto Le ondate di calore da record che investono l’Europa sono il segnal",
+          "pubDate": "Tue, 30 Jun 2026 16:05:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Il record del caccia russo: abbatte un jet ucraino a 190 chilometri di distanza - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOFluMVUwNUxicTdEN0I1T3ZBdU80SGg4TjVmV2pwUmctYkpqSXE3NEpqb0RZQ1FkVW1YR2lxaFJjMVRRWFI3NXJyd3pzRHlsWW9sRkdqYVBMSTdBMVFRTXVYM3FuYWFMUVkwNkU1bzFYaWpUOVNQdThkY0QyRThrczB3QmNpNGhnV25MVDBDZzh5V1A5WTd3UWExWG1YRzdQY01WNzJSQW5XUGhSUTlJck1SV3VQRU9ITUlXU1VuSlI2Z3Q3MGRsYmx1OTQ5X3ZVUHA4YtIB2gFBVV95cUxQcWNEbkYyN1hCNzBSTWcxRmtZczlzOEd5em1SckYxQTFTcGNWVEpRa3AyclNuUWx6NzZoTHdmSzU3NkhxMEEwaWpTUERHM0xGY1p4WnZEaEtiYWdOT0UzbktLb3d6WTZWMnlOMVVmSGlYZjFHa056dkk1N0Vpa2U2bzBKVDRweUFEdndqRGF1bl9LMl9NNnZzd2xXRGxJQ3hVZkRjUjVmTFFGcXhieHF5SFlSQkd1bkNuY0trQ2lVS1Bpc0x4MzFSYUdHdW9IX0JlZUl1aVZLWEhZUQ?oc=5",
+          "description": "Il record del caccia russo: abbatte un jet ucraino a 190 chilometri di distanza la Repubblica",
+          "pubDate": "Tue, 30 Jun 2026 06:48:57 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Dangerous heatwave to hit US ahead of holiday weekend - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RSm1OUkh3LTRJOWpwaTJyTlpqRVVBOWRGLTZIQk5ZNTYyQVdfNHJZZEo3YWhJT3YycDBGVW50T2d5dnF6TGkyejRiVm42T1VwdWswdHluSmFQUQ?oc=5",
+          "description": "Dangerous heatwave to hit US ahead of holiday weekend BBC Record-Breaking Heat Wave Expected to Hit New York City Ahead of July 4 Weekend The New York Times Health experts urge hydration as extreme heat protocol remains in effect NBC Connecticut July 4 weather whiplash: More than 200 million under heat alerts this week as the West sees unseasonably cooler temps Yahoo New York Is About to Feel Hott",
+          "pubDate": "Tue, 30 Jun 2026 22:08:08 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Caldo record, le nozze di Taylor Swift e il 4 luglio si abbattono sui Mondiali",
+          "link": "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/30/caldo-record-le-nozze-di-taylor-swift-e-il-4-luglio-si-abbattono-sui-mondiali_2f363350-f227-403f-ba76-6b8038ca0b2c.html",
+          "description": "A New York il pienone, allerta termperature per i 250 anni dell'America",
+          "pubDate": "Tue, 30 Jun 2026 17:55:15 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "La Fiat Multipla è diventata una microcar: foto e caratteristiche della compattissima dal prezzo record - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPSkpOT1FTOXhUWlpTVHZwZWpneHc1V01Lc2xqV2pBaFluVmZOUWs2R21URGhQU0tidFhMM3p6UGJ3UVB4Y1lMOWlzMjY5NTNfMzZiVEZGSGljdzhJMDlaOUdVNzBsMEZmbVhvLTRfdWtXQXhsTkRWQk5VdURST1p4R3JqWjdjWmhfdDl6cDFFTjRJalU1NndNdEZDb1Y1dmFpdUE3NVhpZ0JDVmhqTjZBc3ExSkswdVZFUEhoN21RN191cWcxQzZDMEU1aU9DMkpLV05KemoyWkE5Q1R5emFoY3JEY2J6eHVyeTZaQ0sxTG9tSFNkam03WTRRNHFxamY2ZjRTTmVielNYTDg3OUJwaGNPTy0yaEpG0gGeAkFVX3lxTFBTeVpnTUdzUjE5LWRTWHhhZG9ZUU1jZUN3YWJkSlFmWUdaVzkwWW9GUHNCVUF3dHpvTVJFTFBrQkE0VnhqemtqbmlpUlZGMjRWdW1lS1hyRVJZX0lubkNVOGhFYnpORWlGQU9WYnBDcWJNeTk3LVpfdkZxTlotLWlZNlFhSWZBNjI0ckNqakRNUFF4Q1dmZzQ2cGxtT1hFUGZBWEw0TXp2NXhqOHR6WXpnUnlROVVnWnhkN19iZHBtZ3hXT0FWbGlIQkJDZy1oZ2RhX0FmYWFhVTJGQWRxOVNONlRhS1ZSaV9QVEp5VE1ZbE1NY3hCQk0wYnNPSThhZnV1VUdpWFpSU19aTWFEZnZwSGZ2YmlUZzRZSzNhZHc?oc=5",
+          "description": "La Fiat Multipla è diventata una microcar: foto e caratteristiche della compattissima dal prezzo record Corriere della Sera La nuova piccola economica di Fiat è fatta così Motor1.com Italia La Topolino Fiat sbarca in Vaticano, 'insieme per la mobilità sostenibile' ANSA Fiat Multiplina: la vedremo nel 2028 AlVolante Fiat Topolino Sport: la microcar elettrica si fa più grintosa ACI Automobile Club d",
+          "pubDate": "Tue, 30 Jun 2026 15:15:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "perché",
+      "n_items": 8,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 54,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "La Corte Suprema boccia Trump: chi nasce negli Usa è cittadino americano - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVhaWUViZEE0TGRVRmNUYnJNdk1PeVpYeGRKRThaVzNFbnB3SzJDS2Y3SXUzaDZ4YTk1Ym1VV19rbXllYmJ1YlBTNGszd3V0U2hIRVNSUGc4d0s1eWhub2Q3T3I5NjFyQ29hTTRjQWpEbnJ0RXlmTlN5TDEwN2tGejJKUDRnUzB4N0pzdXpzTWZJeXdvWnJHQk1jN21NSk0?oc=5",
+          "description": "La Corte Suprema boccia Trump: chi nasce negli Usa è cittadino americano Il Sole 24 ORE Mounk: «La politica sull'immigrazione di Trump resta impopolare, questa decisione potrebbe aiutarlo» Corriere della Sera Ius soli, come funziona il diritto di cittadinanza nel mondo? Dagli Usa all'Europa Sky TG24 Trump elogia la Cina perché non ha lo ius soli, 'una grande nazione' ANSA Mario Del Pero. L’America",
+          "pubDate": "Tue, 30 Jun 2026 19:13:24 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "«L'accordo sul Libano non è una pace tra pari, ma un documento di resa a Israele. Ecco perché» - Avvenire",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX2JJUVhqY2I3MDFTaFdJSW1xd25FRWZ2Zm9Mc292cjc5bFNnelJLUGV5Ymh1aHQ4Y0N2Q1VuT09ldTVLVW9iUTNhTGxJeDhDMUV0UDBzOWUtdnVoMjZFMkRwb1JWdFRkR283T0FLN1FWTlJmQlpqVENOcWs1S0ktQ1V5UUM1QkxHdV90S01xanJsWDFfOVQ0bUpXTG9oaTVZT3k2VEY5dE1QMkFOZWFlZGx1UEhJel92OEJzRGVIT1g2TUNI?oc=5",
+          "description": "«L'accordo sul Libano non è una pace tra pari, ma un documento di resa a Israele. Ecco perché» Avvenire Guerra ultime notizie. Wp: truppe Usa monitoreranno sul campo rispetto intesa Israele-Libano Il Sole 24 ORE Beirut non ha più tempo per Teheran Il Foglio Libano, Hormuz e il comma 22: il dialogo è in un vicolo cieco il manifesto Israele e Libano, l’intesa che divide ISPI",
+          "pubDate": "Tue, 30 Jun 2026 08:00:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Trump elogia la Cina perché non ha lo ius soli, 'una grande nazione'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/06/30/trump-elogia-la-cina-perche-non-ha-lo-ius-soli-una-grande-nazione_0593e700-ef28-49cb-8a49-19d8fb7c9d17.html",
+          "description": "'Congratulazioni al presidente Xi'",
+          "pubDate": "Tue, 30 Jun 2026 19:48:10 +0200"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Guardi il telefono appena sveglio? Ecco cosa succede al tuo cervello e perché può essere pericoloso - Il Messaggero",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSmwzYURZSzdCM3FVOGZxV0gzZHUwcGFzQkZBMDJYd3JqaFlLbUw0b1BrOGNwcDZUdU9XSlA0ektEUEl4SnNnRlBmN1BsREt6Ml9GWm5iWk9PeDBWcmdKZmRYUlduSHVUWjQzTkhuZ2p5MzVkOHN4NFZNTW5uV3BhTWZXcGdZaG50QlF5UXk5TVBjSlRtLVdDUlVjWTB4dmY2YjJQSkZITVpTZGlKNzBVUTRDVDPSAbIBQVVfeXFMUGlnREVqV3VRWlZhMEVkZk5qNEJJcEF6aGRUU1hVZWY4ZXBZU3ZWZTQzUFpMa1MxcUp0VXZ4STdRMFNiN3dBb2dSNzY0N09EcWVyM1kzMU42R3d0QzhJMVVFZ09ZU2ZudDcwR1lQNVdpd0FyWmlXV3hNZEJnMXByaThSZWNjZnN1TkNOal9uYzZEQ1F4LXNaTHNjeFVRRC1mNGZMbkd4OTItLWZfcXhnSFZBdw?oc=5",
+          "description": "Guardi il telefono appena sveglio? Ecco cosa succede al tuo cervello e perché può essere pericoloso Il Messaggero",
+          "pubDate": "Tue, 30 Jun 2026 06:46:58 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Intelligenza artificiale: la bolla è reale, ecco perché - Morningstar",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMmVKRERsQXlhSkhZdGVtaFhoYUQ2MlkwaFowYU5BUmN1cnZHOEtaLWZuQzJ3M0kyVElRWkNpWnR5RU9BOWpNSmlXeXBvdmRScVBjODlSczJDM1FUNGppaHRQZ1RYR3JuS1NKSm5SaWROVGktQmNfaDdnMUgybS1mbFd5a3NremczOVgtVmpoQkhBU1AzZXZB?oc=5",
+          "description": "Intelligenza artificiale: la bolla è reale, ecco perché Morningstar",
+          "pubDate": "Tue, 30 Jun 2026 09:54:52 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "torna",
+      "n_items": 9,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 51,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "L’ultimo appello del Papa ai lefebvriani: non lacerare la tunica di Cristo - Vatican News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVHJiamNVamNJXzdEazlXTnNGWldGYUwyNmd5blBnRHJnMHNReXhVaGV1Y2ZWbFVuVkNmSUYxcjFhREVaWEtnSGFDZDRtSmFGeFd5Yzl0TjBTdnBtTzNTV3pWZjY5anB3eGNPQkFwYllyczBtUnUtXzBjSlRIVEMyV0dIckdQbDRGaUhicHc4VzUwS3hHU2k1TktIUFNpYlN1Wklfdw?oc=5",
+          "description": "L’ultimo appello del Papa ai lefebvriani: non lacerare la tunica di Cristo Vatican News L'appello di Leone ai lefebvriani, vi prego tornate indietro ANSA Ordinazioni episcopali Fraternità S. Pio X: don Canosa (Santa Croce), “la consacrazione senza mandato ferisce l’unità della Chiesa. Serve un ritorno alla comunione” agensir.it Chi sono i Lefebvriani, le origini e come si è arrivati allo scisma Sk",
+          "pubDate": "Tue, 30 Jun 2026 08:04:24 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Lagarde invoca riforme: “Aspettative stabili inducono i governi a ritardare la risposta all’alta inflazione” - Eunews",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRWlmYnhzWmJZcXBwRGFER3pXT1F6Smd5Z05xMnp2cU44a2RTb1BoZmU2a1hBb2pCVnh5R1p0MG95Q003UUtWWmJlRkZwYkZ0NG03WEJHb19HanRoMF9TTkpoekpJbGNQQ2F2X0NUZTR0ajJ5NEJKQzh6dmN0eW83RGlHb19ULU1ySmloQ2Eta3lxbWJYSG5yMVQyemZwb3VWMzhpa0xkSnU1dWdRY2wtOU1kXzhVS01mVXROdkFqRVhyYUVfMVRxMXBkY1oyWGNQOFlHcA?oc=5",
+          "description": "Lagarde invoca riforme: “Aspettative stabili inducono i governi a ritardare la risposta all’alta inflazione” Eunews Lagarde: “Basta misure eccezionali. La Bce torna guardiano dei prezzi” la Repubblica I banchieri della Bce restano cauti sulla frenata dell'inflazione ANSA Lagarde: “L’economia europea oggi resiste meglio agli shock” AGI Nagel (BCE), inflazione resterà significativamente oltre il tar",
+          "pubDate": "Tue, 30 Jun 2026 10:07:11 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Incentivi wallbox: nuovi bonus per privati e condomini - La Gazzetta dello Sport",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRGZzcWkybENXWmEzamNSYVpDajIwaGl5aVU4Q281NlhsVUMzN3RCNFlHcEFIUmU3V1BJSFZ4RFV0Z0llcVN2WEQ2VjJ4am10MV84T05yazV0dWxvWE83VkUxUWxyOWxGYmIxMHdnamdPMkpNX3BvMDkwRl9CdUxaV082Ry1rRlpoR2lQZDFncV9fbmR5SEVDOVk1ZkhNdDJ1YkpnQ0pFcmg1SHZUN2cwMkR3V1V2Zlpqak1hM20tZkZ3YnlKaXpWdXB4dGlsdmh2SWtaQllSb09lMmhNdUd3MdIB5gFBVV95cUxPV1FxMnZsd3hEd21uX1pCaHByUkNvLXFKbDBieTRQVTAxanpXWTNNeEhySVJWeEdWVDZzNi0zbElKbEJPNEFUNW14Ykd3c3BaM3R0c2lManFuaFlfRTVpakEtQXBLQVJvYzB3blh3RlNyNllsNHpLYnVUYXBpamhaS3NtZlBiVlhmclM2V0UtUkxfWG8tVnlwV1lLSGdOWWxiQzlBNk11eWJHcFFqdTFtekw3TVVuT2F4WHFPVDl1M0htZDNZWnhSMXNDcjZHT29SMWJFODc3emRBS1NHY25UWjVqNTJMUQ?oc=5",
+          "description": "Incentivi wallbox: nuovi bonus per privati e condomini La Gazzetta dello Sport Incentivi Gpl e metano 2026: arrivano i nuovi bonus per convertire l'auto a gas Segugio.it Bonus furgoni fino a 20.000 euro: il Dpcm automotive è in arrivo. Ecco le istruzioni per l’uso Uomini e Trasporti Tornano gli incentivi fino a 20.000 euro: i veicoli da comprare Virgilio Fondo automotive, il governo sceglie indust",
+          "pubDate": "Tue, 30 Jun 2026 06:07:56 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Il petrolio chiude in calo a New York, Wti torna sotto i 70 dollari al barile",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/06/30/il-petrolio-chiude-in-calo-a-new-york-wti-torna-sotto-i-70-dollari-al-barile_1735e30d-bf20-4096-a168-b23cb7551150.html",
+          "description": "Cede il 2,08% a quota 69,28, il Brent in frenata dell'1,57% a 72,75 dollari",
+          "pubDate": "Tue, 30 Jun 2026 20:48:08 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Tronchetti torna alla presidenza, senza l'appoggio dei cinesi",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/06/30/tronchetti-torna-alla-presidenza-senza-lappoggio-dei-cinesi_6b2e7af0-bc19-4f96-972e-746180071998.html",
+          "description": "Unanimità su Casaluci. Giovanni Tronchetti Provera vice presidente",
+          "pubDate": "Tue, 30 Jun 2026 17:58:47 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "york",
+      "n_items": 11,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "score": 50,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Supreme Court Live Updates: Justices Reject Trump’s Effort to End Birthright Citizenship - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWU5GeVRQNlpVV3pPNmRMY3ZqOTYwdzBpbnlzdW5LaGxIcjlQajIwUWgtb0IzRWRtUFRvUFlnbjhpeUFYa0ZxUmZ2SUQwS2QzQzhqZzl3QV94X1BfVDduWWNpT0R5TG4zdFFqSmNJV1hua0Q1UXNMM19IQ3FlbWZGdFhqSU9RZw?oc=5",
+          "description": "Supreme Court Live Updates: Justices Reject Trump’s Effort to End Birthright Citizenship The New York Times Trump loses Supreme Court battle to end birthright citizenship BBC Vance calls Supreme Court birthright ruling a ‘major mistake’ The Hill President Trump issues response after Supreme Court overturns his birthright citizenship restrictions WUSA9 Supreme Court upholds birthright citizenship o",
+          "pubDate": "Wed, 01 Jul 2026 02:44:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mVzM2WHlReUtRY2MzaFdWRy1iWTRvYkhKS1BiWVJ6NzNfdHBvNHREYXlFenNsMmMwVFlhbWFRaTd4Zlp1RG1md00xY21lMlBUOWZSakJpUVZIUQ?oc=5",
+          "description": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power BBC What the Supreme Court justices' latest rulings reveal, according to a legal expert NPR The final four SCOTUSblog 5 takeaways from Supreme Court rulings on Trump’s power, elections, LGBTQ+ issues The Washington Post Takeaways From a Transformative Supreme Court Term The New York Times",
+          "pubDate": "Tue, 30 Jun 2026 22:29:47 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trans youth athletes vow to keep playing after US supreme court ruling - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORTZBRGpvWXVWdnNXbF9RV2Z3aGxOSWdheEJTVmV0bkZxTkExMUItYlZZYl8wdkJhTEhTVzdWeGJfVllIVU45ZmV3Nnp4ekN2dHJRVDlaQ1Q5OEs5MDIzdHQxd3d2LXJnQl9YZW9NMjg0WHBEMXkzc0lTNndTWDhVU3NNTDNwQjZFLUFqbHVuUjFBM19IM3hjckNlUzc?oc=5",
+          "description": "Trans youth athletes vow to keep playing after US supreme court ruling The Guardian Trans Sports Ruling Puts Pressure on States Without Bans The New York Times Supreme Court upholds transgender athlete bans, reinforcing Tennessee law championed by state lawmakers WKRN News 2 Supreme Court upholds state bans on transgender athletes in girls' and women's sports CBS News First lady cites memoir after",
+          "pubDate": "Tue, 30 Jun 2026 20:24:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Dangerous heatwave to hit US ahead of holiday weekend - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RSm1OUkh3LTRJOWpwaTJyTlpqRVVBOWRGLTZIQk5ZNTYyQVdfNHJZZEo3YWhJT3YycDBGVW50T2d5dnF6TGkyejRiVm42T1VwdWswdHluSmFQUQ?oc=5",
+          "description": "Dangerous heatwave to hit US ahead of holiday weekend BBC Record-Breaking Heat Wave Expected to Hit New York City Ahead of July 4 Weekend The New York Times Health experts urge hydration as extreme heat protocol remains in effect NBC Connecticut July 4 weather whiplash: More than 200 million under heat alerts this week as the West sees unseasonably cooler temps Yahoo New York Is About to Feel Hott",
+          "pubDate": "Tue, 30 Jun 2026 22:08:08 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Progressive Manny Rutinel wins primary in battleground Colorado House district - Politico",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc3RBdDJqbm9SUklTQnZuVFQ2akZUd0xfUThJMVBXb3pzcnA4Ni1YNFljcnFnNFQ2bW4zLUNfX0pCVzg2OHJLZW9FWURXZ3E1S2lHdlRlLWtGQ1FPM1dRQUotby1BZkdBS1FfaFNOV09mT3BlUUdqenphWWVqTERUYUtlLWVLa242aURzZ2R3?oc=5",
+          "description": "Progressive Manny Rutinel wins primary in battleground Colorado House district Politico Progressive Democrat Wins Colorado Primary for Competitive House Seat The New York Times Colorado District 8 primary election results: Manny Rutinel wins Democratic primary Colorado Public Radio Primary election results: Congressional District 8 KUSA.com Manny Rutinel wins Democrats’ 8th Congressional District ",
+          "pubDate": "Wed, 01 Jul 2026 01:40:34 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "venezuela",
+      "n_items": 11,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 50,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Terremoto Venezuela, 1.943 morti. Bimbo di 3 anni estratto vivo dopo 6 giorni - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vWTBFbnYzeThYTm9XX090NlZuMEcxb1dLc09oTmdscTYwQTZuOFNPLXZHWUJJRWJGT1I5SWlMX2ZkQkd2YjdVUDY3R1Z6LWZqV2tVVTZfQUs0RnNGXy1ieTVZcUk1WFY4RlVEc1VXU2h4YWRKN2hYYw?oc=5",
+          "description": "Terremoto Venezuela, 1.943 morti. Bimbo di 3 anni estratto vivo dopo 6 giorni Sky TG24 Venezuela, Croce rossa: piano di assistenza di 24 mesi dopo i terremoti ANSA La rabbia in Venezuela contro il governo di Delcy Rodríguez Il Post Terremoto in Venezuela, un ex deposito di grano trasformato in obitorio Il Fatto Quotidiano Terremoto in Venezuela, i cubani non lasciano ma raddoppiano il manifesto",
+          "pubDate": "Tue, 30 Jun 2026 22:03:14 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Due bimbi estratti vivi a sei giorni dal terremoto in Venezuela",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/30/due-bimbi-estratti-vivi-a-sei-giorni-dal-terremoto-in-venezuela_76a2e018-b985-49fc-b646-ec9435f35d94.html",
+          "description": "Il miracolo di Carlos e Klieber. Quasi 2mila morti e 60mila edifici crollati",
+          "pubDate": "Tue, 30 Jun 2026 21:11:11 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Sisma in Venezuela, estratto bimbo di 3 anni sopravvissuto sei giorni sotto le macerie",
+          "link": "https://www.ansa.it/sito/videogallery/short_video/2026/06/30/sisma-in-venezuela-estratto-bimbo-di-3-anni-sopavvissuto-sei-giorni-sotto-le-macerie_bfd6f3a2-c9d3-46d6-b3c6-b5d6c722789f.html",
+          "description": "L'operazione di salvataggio a La Guaira condotta da una missione di soccorso giordana",
+          "pubDate": "Tue, 30 Jun 2026 21:12:41 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Venezuela, i silos al Porto di La Guaira si trasformano in obitorio",
+          "link": "https://www.ansa.it/sito/videogallery/mondo/2026/06/30/venezuela-i-silos-al-porto-di-la-guaira-si-trasformano-in-obitorio_998c2abc-5bb0-4550-b3c5-2821f343a051.html",
+          "description": "I parenti cercano i corpi dei propri cari, mentre cresce il rischio epidemia",
+          "pubDate": "Tue, 30 Jun 2026 21:29:16 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Venezuela: medici e infermieri affrontano l'emergenza con stipendi sotto un dollaro",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/01/venezuela-medici-e-infermieri-affrontano-lemergenza-con-stipendi-sotto-un-dollaro_9f0bf059-551d-456f-98b2-22aadb9c1c3f.html",
+          "description": "Negli ospedali denunciano carenze di mezzi e forte ricorso alle donazioni",
+          "pubDate": "Wed, 1 Jul 2026 03:12:18 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "borsa",
+      "n_items": 10,
+      "n_sources": 3,
+      "category": "economia",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Allargamento, la Cina nei Balcani occidentali inquieta l’UE che si affida alla buona fede della regione - Eunews",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZndKbHc2V3VDanpQX0Jubm1OTEdTZXlZeDAyU3dnaDBRU2wxY1RyQXdCcl8zTGNFQ3FaTjc0MEt0RXh4Z2JBQTBVUTdfeW00ODZwaUpaOHpaVmJWZ0ZEZWM0bWZqaGtzOW8wNXRQRWgtMzY5UkQtZnNnbjFTa19XbU9VcUZhdFVOdE9HcERic2dkN2t1WXRRUF82X0IwWVFiUWpBbXR6QW0wcVRyNmRibzBaa284SHpxcWxoZ2FPbVZHb1gyT0NYbGtoQmlWVlUy?oc=5",
+          "description": "Allargamento, la Cina nei Balcani occidentali inquieta l’UE che si affida alla buona fede della regione Eunews Commissione europea presenta pacchetto finanziario per adesione del Montenegro all'UE Borsa Italiana Ue, 'l'adesione del Montenegro costerà 3,2 miliardi, impatto gestibile' ANSA Il vertice di Tivat e il nuovo volto dell’allargamento: osservatori senza voce in capitolo Orizzonti Politici L",
+          "pubDate": "Mon, 29 Jun 2026 08:59:44 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "FTSE MIB chiude primi sei mesi con +15%. Inflazione tedesca e italiana in decelerazione - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNV3gxOXZoYVgxeV9kdFpqcG9MdzNZZXM1OVFBcUdFQV9PbUd1R0NjcjVWOEhsV3h1SkFQeUtvVHBkR0dMek9CMVFGdmFKbGhtaGJueVphMm1tNGlvcXRlODBnN0VDVWdEVnVNYzJ2QWIwZEdCRVBvd1JYbmdHWnBhVml5V3JPSERJVnI0MXRvRWthYXlMYW8tclBMVklTc2l0cGc2Q2dKVVpMdWF3OWU3NlB2UzUzSEdYZ0pJWllyOE1lVWZCX08zdlNyZk1iVk1pSDBEX0M1eXRscnBZcmV0ME9wQUlEa2VjQU0tN1JrYUhJT3FHd0FhMEN3VmlWOGtM?oc=5",
+          "description": "FTSE MIB chiude primi sei mesi con +15%. Inflazione tedesca e italiana in decelerazione Borsa Italiana Mercati europei positivi Borsa Italiana Borse in diretta, petrolio oggi 30 giugno | Listini in leggero rialzo, l'attesa per i colloqui a Doha. Il meeting a Sintra delle banche centrali Corriere della Sera Le azioni europee salgono grazie al rimbalzo del settore tecnologico: DAX, CAC, FTSE100 Yaho",
+          "pubDate": "Tue, 30 Jun 2026 16:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Nel 2025 in Italia quasi 29mila nuovi milionari. E in 95mila hanno tra 5 e 100 milioni – Il report di Ubs - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1k0Rzh5aWxOYTJHUnhueVE3V0ZQaVljSmw4TFpkY3pjYWVmMUItVGp5a0FwZ0dLbnRqMllFZnVZM2VhVWFKaTZFRUR5WVFoUk1zdmJCSWg2Zy1CZXdKbXNod3RRMTZEWk1GbFc5bHlpbU5yTjBOWERWSllUYjZ3VjR2RktGMkc1clBGbjJ1T2plbVdMeFdDTA?oc=5",
+          "description": "Nel 2025 in Italia quasi 29mila nuovi milionari. E in 95mila hanno tra 5 e 100 milioni – Il report di Ubs Il Fatto Quotidiano La popolazione svizzera resta la più ricca al mondo TVS tvsvizzera.it Nel 2025 la ricchezza globale cresce del 10,8%, Italia stagnante Borsa Italiana Ubs, in Italia i Paperoni sono il 2,5% della popolazione. Nel 2025 28.600 milionari in più la Repubblica Crescono ancora i g",
+          "pubDate": "Tue, 30 Jun 2026 16:00:01 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Accise, verso la fine degli sconti. Urso convoca le compagnie: «Adeguate i prezzi al mercato» - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWU5jUE9QMktqVXNZR2JTOWpOUmp6cjZLOTdYVm9XXzhhdkdBdURKbG9WZC1XYzZVOTc4bmJEekxaV3JEYW9GcExpUThoY3pBMU9mS0I3VlowWUVZeDVvOVdjR1VUWmlTcHUzVlR0ZnlOcy1CUTl4enJ0S25ncTFSS3hGNFBYZC1kQTJIZUlxR01pWldSUDVOQk83VkJveF9uQXFrbW02R0hDbzNSb2c?oc=5",
+          "description": "Accise, verso la fine degli sconti. Urso convoca le compagnie: «Adeguate i prezzi al mercato» Il Sole 24 ORE Carburanti, fonti Mimit: chiesta riduzione prezzi dopo intesa Usa-Iran Borsa Italiana Mimit, prezzo medio self benzina a 1,807 euro al litro, gasolio a 1,888 euro ANSA Prezzo benzina e diesel, Urso convoca compagnie petrolifere al Mimit Sky TG24 Prezzi Carburanti: diesel al doppio della ben",
+          "pubDate": "Tue, 30 Jun 2026 09:39:54 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Banca del Mezzogiorno, per la ex Popolare di Bari arrivano le offerte di Bcc-Iccrea, Credem e Crédit Agricole - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOZ1IzZjAxdnl1NUowenRQNVRZYVpVQkVhTTJaSFJrUXJKTGJneDFSWDllS0RoZThaVnQ5MGpOTjhrZzBOZUtNcm95NXFnOVIxUmZlVmZlcmZLN050RGM2R1lZNzE1cDNBal9yYVI2S3EwenA0R0todnh6SGttcUh3RVZLal9TSE9zTkNDeUQ5N0FxdmxWM3RENVFBcE0yd1NBZzRBQjYyUTlkRmVQSWNWNjlvaWpGcVJmU0JtVVVtY3RBbGVlRDhtdGZrMzVHSm5MS1ZVUl9GenNWLU5WNXdLbjdoRm9XajM2Nm1vOTBab3A5bjV3MUt4V2xlSWlLZnlJUkxYSXJlNHlJRF9hV1k5djNmQzhRMEhkVHk2al9PcUVDckFZaDdLaUlINWPSAbICQVVfeXFMUGhZd1NWd0tBcnZTX1NaZDNvRmhCWFlSSUpVdmRvZlMzcDdIZU9aXzh4b3V5WnBPeW81Zm15Skh6LVowVXBkYlpDSmtUV2hwVTZ5bjhKUElhMXVXSzVXYnNJZENyOVdFTzhJNGg3cjVHVHVaUWxHbl92UExfc2xwVFpLTkV3N3loSHJpV1NoMzdIMmNKNm8xMnJkS0RoWTRyR0VybUI4ZGljX2FBNzd0aWdoLUhWY21vTmcyYTNPTDFJUTVGTUc0Y0trbGtuSXB5bllGOGVHX2pXVlR1NlN5M1BXVWRLTVlMUGp6X3YyYVFoeDJqLWJudUplUmV5UGpSNlNGZWo4cDllQ0QyNDI2bkJfd3duTVB2TTNBcVM1UURRUHEyNVJrNDRTX3ZLTUMtbkt3?oc=5",
+          "description": "Banca del Mezzogiorno, per la ex Popolare di Bari arrivano le offerte di Bcc-Iccrea, Credem e Crédit Agricole Corriere della Sera Bdm Banca, arrivate tre offerte allo scadere del termine Borsa Italiana Fonti, per Bdm banca presentate offerte da Bcc Iccrea-Bppb e Credem ANSA Corsa a tre per l’ex Pop Bari, la cordata con la Bppb sfida Credem e i francesi la Repubblica Bdm, anche Unicredit interessat",
+          "pubDate": "Mon, 29 Jun 2026 20:23:00 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "after",
+      "n_items": 9,
+      "n_sources": 4,
+      "category": "general",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Supreme Court Live Updates: Justices Reject Trump’s Effort to End Birthright Citizenship - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWU5GeVRQNlpVV3pPNmRMY3ZqOTYwdzBpbnlzdW5LaGxIcjlQajIwUWgtb0IzRWRtUFRvUFlnbjhpeUFYa0ZxUmZ2SUQwS2QzQzhqZzl3QV94X1BfVDduWWNpT0R5TG4zdFFqSmNJV1hua0Q1UXNMM19IQ3FlbWZGdFhqSU9RZw?oc=5",
+          "description": "Supreme Court Live Updates: Justices Reject Trump’s Effort to End Birthright Citizenship The New York Times Trump loses Supreme Court battle to end birthright citizenship BBC Vance calls Supreme Court birthright ruling a ‘major mistake’ The Hill President Trump issues response after Supreme Court overturns his birthright citizenship restrictions WUSA9 Supreme Court upholds birthright citizenship o",
+          "pubDate": "Wed, 01 Jul 2026 02:44:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trans youth athletes vow to keep playing after US supreme court ruling - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORTZBRGpvWXVWdnNXbF9RV2Z3aGxOSWdheEJTVmV0bkZxTkExMUItYlZZYl8wdkJhTEhTVzdWeGJfVllIVU45ZmV3Nnp4ekN2dHJRVDlaQ1Q5OEs5MDIzdHQxd3d2LXJnQl9YZW9NMjg0WHBEMXkzc0lTNndTWDhVU3NNTDNwQjZFLUFqbHVuUjFBM19IM3hjckNlUzc?oc=5",
+          "description": "Trans youth athletes vow to keep playing after US supreme court ruling The Guardian Trans Sports Ruling Puts Pressure on States Without Bans The New York Times Supreme Court upholds transgender athlete bans, reinforcing Tennessee law championed by state lawmakers WKRN News 2 Supreme Court upholds state bans on transgender athletes in girls' and women's sports CBS News First lady cites memoir after",
+          "pubDate": "Tue, 30 Jun 2026 20:24:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Monaco bombing suspect flees to France as police probe attempted murder - France 24",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMWxZZ1pMYW9IcVhGWGhtdnc1MXFHOHhHTnZYbWMtOUUzdkVMVDV5YzBaRC1TR0FtME9mNEl3TGRKaVoyVE01Nk5vNG9mMGtGQmNpSElvU0l3WFp5bHhScGMzYVRSUTlXR3U2WHdvM2NSS3FWdlM3UzJIUTBqNVViNUlYdURyX3Y5eDU2MlhrdGtiU0hIeGo4aklmZXdZRmRlUDRRZmtLZWhoazlIUVRWdDJB?oc=5",
+          "description": "Monaco bombing suspect flees to France as police probe attempted murder France 24 Manhunt under way after Ukrainian-born tycoon injured by Monaco bomb The Guardian Explosion in Monaco reportedly wounds Ukrainian tycoon with ties to Russia AP News Jewish businessman and family injured in Monaco blast The Jerusalem Post Investigators searching for suspect after package bomb in Monaco injures 3 ABC N",
+          "pubDate": "Tue, 30 Jun 2026 10:53:13 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Thousands of police deployed across South Africa as deadly anti-immigration protests spread to multiple cities - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbjZnMExUMHJmcVM4b2lhb2UxbU5WUmxxS2wxUVgxaXk4WlFkdEdwSlhQUmdXM3R4UTFYYVFaTXpuTDFNQUtlRl9sSkJZR0ZDSE9GQmxOSjFoV3VBdHI1VS0tYVBoeGxaZ1NLZ2psOWVGcGVkZUlrYTRNNFpyV1hFUDNyUlJnOWE3MFZYXzVYNGc3STdlMWVRamFuczNtUDRwYjZzYW0tXzJmb3ZiVmZ2bnVCVkl1d1h0MVJ2R0JEM0xwZ9IBxwFBVV95cUxONkdtY3hzeDIwMFZiVmhDUTJDbnJwR2puV2hjRC1kcXNQOFBCZl9JQTFxUS1HZDRaa1UzTDd4dm43VkZwckt4SmlObFM5SV9XM21Qd0l4Z0NtdXpKMkFKcFRaSV9sVEx2RlVkbHBCWV9xTXN4UnYyZkJKZnhQVlFudldhX0I5WHd0dUxtRHJST1NtazU2NGt4NkR6SGc5TjNwVXFqSTdiZjJ5SjQxdTc4NGV0SjV6TTg2Y3M2SmR3V2NzOWV3MGRz?oc=5",
+          "description": "Thousands of police deployed across South Africa as deadly anti-immigration protests spread to multiple cities Fox News South African anti-migrant protests: Thousands march amid heavy security deployment BBC ‘Leave or return in a coffin’: The threat driving migrants out of South Africa CNN South Africa's anti-migrant protesters march nationwide, after thousands flee violence Reuters ‘They will att",
+          "pubDate": "Tue, 30 Jun 2026 23:22:05 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "At least 14 children killed after roof of Pakistan tuition centre collapses - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ2otbnpQdjdVSUFHal9xYkRDTmlFQ2Rtbnc4M2wyeWhGajNYdi1pLUJOUGtuOFBnZWRKUnJscXFIOGs4LUpSZmRzRzgyZ0ROeWVqQV9JbXpVYmc2OVBjS3Q2MFZ4RzdXQVk4WmxpenpDRmNvbjcwYTJGTjVfTmZQVGZNemdrZTgxU3FoUDdKVXVwNmNTQUY4YXFqdEQ5RFZUQjFnU3VZT3d6cWRTcVM1RVIzNmVrYWfSAbwBQVVfeXFMUERsSUkzb2F4R01Xc1hDOC0xNVExTlFXaUdPbkxmWWNZOS1neENpdWRJWm9weFU2ZlpKN3h1RHdYNzFHNlRJR0dyRXVGbHo1VThLNWpLS3FFNXh2YkhRVHRNRjVjZmVySFR4LUNUbml5LTl6eGRrUDFZNnBnb21HcjhHSkd2TDE0Wi1UOFNUZThEaGhfWnpzYmZpOWoyekk0cWttS25JZ2dydU9SNlpua24yNUhwSVh2dlF3YXY?oc=5",
+          "description": "At least 14 children killed after roof of Pakistan tuition centre collapses Al Jazeera Pakistan: Roof collapse kills 14 children at Lahore tuition centre BBC At least 14 children killed as roof of tutoring center collapses in eastern Pakistan NBC News Pakistan roof collapse kills 14 children at tutoring centre The Guardian Supreme Court upholds laws barring transgender girls and women from competi",
+          "pubDate": "Tue, 30 Jun 2026 18:41:32 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "iran",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Iran Usa, media: \"L'Oman propone il pedaggio volontario per Hormuz\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KM19XVTJNSkl4NEJwanBTazdjMWxVMUxrYWpBelZUNXJjSkY2TW94b3NucTd1M0s4OXB5bERoTnpMR2RSQktmV1RUR2Y1X1JXbENaQ0dRdjI0bWFFUXhqS3NIMXVqNjFzbkx3VC1NLXBLT2xQSUZkWlVLYw?oc=5",
+          "description": "Guerra Iran Usa, media: \"L'Oman propone il pedaggio volontario per Hormuz\" Sky TG24 Con il ricatto di Hormuz l'Iran può vincere la guerra, ma perdere la pace Corriere della Sera Negoziati USA-Iran, oggi a Doha i primi colloqui indiretti (forse) - Il \"Board of Peace\" annuncia veicoli tattici in arrivo vicino Gaza RaiNews La strategia che non c’è Il Wsj accusa Trump di aver dato all’Iran modo di vin",
+          "pubDate": "Tue, 30 Jun 2026 22:03:21 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Pizzaballa: \"Gaza è un disastro, topi mordono i bambini\" - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZmE0b3h3QVBjV19MZzluQ3pVRkNoemM4S3J3QUtMU0hPbGxNbUdEMzVUSklVa0xPVzh0bmxWdHRSZGtFSGlVbDdKRWtuR2UxU0ZhRHVNYVVnYjRBVk5UTFVlZDhodExkRFVQUE9fS21lOHRiV1lzakJ5UU9wTTdVcWVjRjl2QlZ6U0dNNXdIVlFldURsRHc?oc=5",
+          "description": "Pizzaballa: \"Gaza è un disastro, topi mordono i bambini\" Il Fatto Quotidiano Pizzaballa: \"Gaza è un disastro. Non lasciamo sola la Terra Santa\" Vatican News Due pasdaran uccisi in Iran, raid nel sud del Libano: ultime notizie Tgcom24 Ricci 'quadro Gaza descritto da Pizzaballa è tremendo, fermare Netanyahu' ANSA Pizzaballa: \"Gaza è un disastro, le città rase al suolo e azzerate\" RaiNews",
+          "pubDate": "Tue, 30 Jun 2026 15:59:04 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "U.S.-Iran Latest: Iran's top negotiator says country ready for war as peace talks inch along - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaGFGOW1UbXp6UGVFUm9OallVbzEweHphTnF1cFNoOFp0OS0xX2NlUVdnc1VvUWZTdW9qZDV0QXhRcXJVaG1SRzlvbUpiSmFjRER1UzUyTlZnNlhZVWw5Umh1ZkxtSW1aOC1xbHdvTFVpejlRYk1JUGZCdXZuVUJQT0tjcGZkcDI5Rmt4TTUzQXNMR1d3NGc?oc=5",
+          "description": "U.S.-Iran Latest: Iran's top negotiator says country ready for war as peace talks inch along CBS News Iran war live: Qatar’s PM meets US envoys; Tehran holds firm on conditions Al Jazeera Middle East live: Qatar reaffirms backing for US – Iran talks France 24 Iran’s Diverging Priorities Are Jeopardizing U.S. Peace Talks WSJ US Says Witkoff, Kushner Had Positive Talks in Doha on Iran Deal Bloomberg",
+          "pubDate": "Tue, 30 Jun 2026 23:03:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Medio Oriente, giallo sull'incontro Usa-Iran a Doha. Al via il meeting tra Witkoff, Kushner e i mediatori del Qatar'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/30/medio-oriente-giallo-sullincontro-usa-iran-a-doha.-al-via-il-meeting-tra_9ec8093b-d1c7-4dc9-9af9-076e528ad7e5.html",
+          "description": "Di Maio, inviato Ue, vede Al Thani. Nyt, 'Iran e Oman avanti con il piano per riscuotere pagamenti a Hormuz'",
+          "pubDate": "Tue, 30 Jun 2026 16:01:06 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+          "link": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
+          "description": "Qatar's foreign ministry spokesman says no high-level meetings or direct talks between the US and Iran are scheduled.",
+          "pubDate": "Tue, 30 Jun 2026 23:41:11 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "plan",
+      "n_items": 8,
+      "n_sources": 4,
+      "category": "general",
+      "score": 32,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Trump’s income topped $2 billion in 2025, boosted by crypto, coin ventures - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVG1ucDZ5Y295WG44SXZDbzVSb1UtSVJCQ2pXcEMxZWtTc1ZsR2JodlRKdENuUDdkUE5GbE1ZTFVDQ0VRU1hkclJaYkVKM202TVktdWt1dmQ3WTNoT0VwSlZ1LUZCQURHZThTUERwbkVOQThVblhKOHNqcjVBQkV3bmdGRzFmNmloQTNRVnViTWg4NDcxRmdYSHlNSlp4UFZJeDNJWUxLbnN1RDVVZE4wOE5Fa212NUpkbnc?oc=5",
+          "description": "Trump’s income topped $2 billion in 2025, boosted by crypto, coin ventures The Washington Post Trump Pulled in at Least $2.2 Billion in 2025, Financial Disclosure Shows The New York Times Trump's annual financial disclosure shows more than $580M in crypto-related income CNBC Trump’s financial disclosure lists $1.4 billion in crypto earnings, powered largely by meme coins NBC News Trump’s plan to r",
+          "pubDate": "Wed, 01 Jul 2026 03:25:29 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
+          "link": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss",
+          "description": "The collision left holes on the side of the tower, but Beijing has scrubbed other visible traces of the incident.",
+          "pubDate": "Tue, 30 Jun 2026 23:24:05 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
+          "link": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&at_campaign=rss",
+          "description": "City officials want to build flats on the city centre site but others say it should be preserved as part of Germany's history.",
+          "pubDate": "Tue, 30 Jun 2026 19:19:42 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Why Gen Z are planning for life without a state pension",
+          "link": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+          "description": "Many younger people do not believe the state pension will exist when they are older",
+          "pubDate": "Tue, 30 Jun 2026 23:05:19 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Shetland backs plan to connect islands with £1.5bn undersea tunnels",
+          "link": "https://www.bbc.co.uk/news/articles/cvgl1egyl79o?at_medium=RSS&at_campaign=rss",
+          "description": "The undersea links between some of the UK's most northerly islands could be in place within eight years.",
+          "pubDate": "Tue, 30 Jun 2026 12:18:16 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "regione",
+      "n_items": 5,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 31,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Meteo Veneto, le previsioni per mercoledì 1 luglio: allerta della Regione per temporali, forti raffiche di vento e grandine - Corriere del Veneto",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOcXB3Sl80X0dsUVpPM21ab3YzT1pLcW5LOWJrY0paT2E0X0pEUlg5YUx5UGdHZkdtTXkzclF6SF8wdzlSaEVoaVFzWEJtUnRKVFk0ZUM3RDZ1OUtXa3JhdUlUNW5yRHg4T212aGwzZ2YtU2NVdklMc2k3WFF0RFEyUGRYRmF2SWJHZ1I0ZUUySUpTU3lqa0tXM1N2QkhxcU9kZUo4aWFQTldINm1zMkRSYXJiMTZJVk1lbUtENGhPYXMzZ0M5LWhpbGlkbGZBdnd3Znp4Qms1Vm1HZHU0T25qc1dtN1Y0Y25kTmpTZ3VpeVpvaHZTOGRaUVVuZElYNG9uZ2M5cm9QTmZHelJoWG9mbmh0a2pWWmdlbFBPbUhOWXkzT0hLcU1JM0o2NTFtd1VRekttY3NPM3huN3RyeFIwSDhCRDlENG5lNzlEU9IB0gJBVV95cUxPd2ZEcktyUzhpb2x5QWM2YU5jYlBqeWhqMFpjX3I3X2JOV01OMEZBOUNHVjF0QVVTV3U5NTN0QUl1RHBZYldBTDRLMVBKdktrSUgzV21ua01id2hXdHRuVGV5WGNvWG11VHNsWkdVSGl0bjQ3WkFJNm8zVzBreHRub1UyMnNWeVdpTnBIamQ1WXpMYU5mMVV2QTFwdlpVVnpwZHk1Zndhd2ZobmpkZ3Z0NGZkZWFJV1ZHcHRXTE1OR0xzSEJOWXkyWHZqNFAyalR6THZoaWlUaDd1V1BobHZ6Z3FwTklvVm9SYlZNZkNac2ZENDE0N2VEb0plM2J6VjBNR2dvUGZkVVJlY2JYanBUWHNOZk9FVngxSno1dXdTNC1DVnhlNV83N3lhQkhvVXZ2VGlaY25RRUN6MldWR3dQNjg4bVRKaWZXTnlmbjhPNndEQQ?oc=5",
+          "description": "Meteo Veneto, le previsioni per mercoledì 1 luglio: allerta della Regione per temporali, forti raffiche di vento e grandine Corriere del Veneto Veneto, allerta temporali per il primo luglio: attesi fenomeni intensi in pianura Il Mattino di Padova Allerta Meteo: mercoledì 1 luglio parchi pubblici chiusi in tutto il Comune di Verona L'Arena Caldo killer, mozione in Regione: «Climatizzatori scontati ",
+          "pubDate": "Tue, 30 Jun 2026 16:19:14 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Allargamento, la Cina nei Balcani occidentali inquieta l’UE che si affida alla buona fede della regione - Eunews",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZndKbHc2V3VDanpQX0Jubm1OTEdTZXlZeDAyU3dnaDBRU2wxY1RyQXdCcl8zTGNFQ3FaTjc0MEt0RXh4Z2JBQTBVUTdfeW00ODZwaUpaOHpaVmJWZ0ZEZWM0bWZqaGtzOW8wNXRQRWgtMzY5UkQtZnNnbjFTa19XbU9VcUZhdFVOdE9HcERic2dkN2t1WXRRUF82X0IwWVFiUWpBbXR6QW0wcVRyNmRibzBaa284SHpxcWxoZ2FPbVZHb1gyT0NYbGtoQmlWVlUy?oc=5",
+          "description": "Allargamento, la Cina nei Balcani occidentali inquieta l’UE che si affida alla buona fede della regione Eunews Commissione europea presenta pacchetto finanziario per adesione del Montenegro all'UE Borsa Italiana Ue, 'l'adesione del Montenegro costerà 3,2 miliardi, impatto gestibile' ANSA Il vertice di Tivat e il nuovo volto dell’allargamento: osservatori senza voce in capitolo Orizzonti Politici L",
+          "pubDate": "Mon, 29 Jun 2026 08:59:44 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Data center, tre richieste sfidano i paletti regionali in Lombardia",
+          "link": "https://www.ilsole24ore.com/art/data-center-tre-richieste-sfidano-paletti-regionali-lombardia-AICIZ0kD",
+          "description": "Fatta la legge, trovato l’inganno. O meglio: una legge di livello nazionale che permette di “aggirare” quanto stabilito dalla Regione Lombardia. Stiamo parlando della norma, prima in Italia, sui data...",
+          "pubDate": "Tue, 30 Jun 2026 07:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Guerra Ucraina-Russia, le notizie in diretta | Zelensky: «Colpito il centro di telecomunicazioni spaziali a Dubna nella regione di Mosca». Von der Leyen: «Stanziati oggi 3,9 miliardi di prestito a Kiev per i droni» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdUNXWXVJMkxlc2VIYnB6ZnVLbjBOTUI1Uzh5bEpjWm90S0k1c0ItOUlQZnFPYXdEWmFsV0NIa2EyUVRqWWhsMDJJV1VPMm5CQnlNSGhTOFd6c2ljOEdxOGtGbWVvQVgyeHRtaER4TlR0SkkyaDctVnMyM2YyU0tsV2k2QW53LXJkSnltQkstUkVPZi1FSEp5Q0RIM2UwclNHRXVEa3JKMnpvZ9IBrwFBVV95cUxNSDRWVXdhY2RqTXNna3RqZnZQRXVOcXlVMDNpV01ndEliQXlucmwxeFZuMnRTUXZBSWxxcTZWWGVxZ2xhY3lRZDFrVWFLRWFJOXFmVlFOdWhfV3FKQ3F3RXNTWGRNMllhYmpDNGJKaDNuaTdodm94MHc5b0lNNWM5OGRZZEdRLWxNbzR0UlN0SzBPS2IxeWprSGVseTJyb1NGVDJFWFc1RXJOTm4zWG1B?oc=5",
+          "description": "Guerra Ucraina-Russia, le notizie in diretta | Zelensky: «Colpito il centro di telecomunicazioni spaziali a Dubna nella regione di Mosca». Von der Leyen: «Stanziati oggi 3,9 miliardi di prestito a Kiev per i droni» Corriere della Sera",
+          "pubDate": "Tue, 30 Jun 2026 23:19:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Vento a 116 chilometri orari, colture devastate: la Regione chiede i danni al Ministero. I Comuni interessati - Il Gazzettino",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcDBrZHlJSVkxU05QYWtxTUVnNVVLeUFGbjd5alBqU0hOdzFCV09MLWY5cEdwMFI1WERHM1dZRjZrYjNjdmpFcXFZYkJoVlZuWlZmbV80THBONnpGaWRNdDc5TnZmNE51V25YaV82X0d6Mjl2UHA3dW5tRDVTVVRLSWI1NUdrcm5UOHNjZExwcXBjemhtRms3bFVwS3E0YUFza0VNVDF4UGNfWlpC0gGoAUFVX3lxTE83S3dOTGhHWXRKYklGU2xtakhLSXo3RDFodmxFQ2ZlN2FfRlRwR1RuSlVWMlA1bDhkTWw5RlJwcHhuZjJwSHVVNFBRbVU5VV9qcDlYTXNZSk5kLXZ1Qi1nbTRXTi1NNmpTNVktSjFncjM5VFh4eTdOTEtHOEJHOHZUaWVTZ1FaMXU2TWZnVzg2Y244VkxfNTY3eXJYYnVLZFVmODZna1Zxag?oc=5",
+          "description": "Vento a 116 chilometri orari, colture devastate: la Regione chiede i danni al Ministero. I Comuni interessati Il Gazzettino",
+          "pubDate": "Tue, 30 Jun 2026 13:43:30 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "guerra",
+      "n_items": 5,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 31,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Iran Usa, media: \"L'Oman propone il pedaggio volontario per Hormuz\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KM19XVTJNSkl4NEJwanBTazdjMWxVMUxrYWpBelZUNXJjSkY2TW94b3NucTd1M0s4OXB5bERoTnpMR2RSQktmV1RUR2Y1X1JXbENaQ0dRdjI0bWFFUXhqS3NIMXVqNjFzbkx3VC1NLXBLT2xQSUZkWlVLYw?oc=5",
+          "description": "Guerra Iran Usa, media: \"L'Oman propone il pedaggio volontario per Hormuz\" Sky TG24 Con il ricatto di Hormuz l'Iran può vincere la guerra, ma perdere la pace Corriere della Sera Negoziati USA-Iran, oggi a Doha i primi colloqui indiretti (forse) - Il \"Board of Peace\" annuncia veicoli tattici in arrivo vicino Gaza RaiNews La strategia che non c’è Il Wsj accusa Trump di aver dato all’Iran modo di vin",
+          "pubDate": "Tue, 30 Jun 2026 22:03:21 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "«L'accordo sul Libano non è una pace tra pari, ma un documento di resa a Israele. Ecco perché» - Avvenire",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX2JJUVhqY2I3MDFTaFdJSW1xd25FRWZ2Zm9Mc292cjc5bFNnelJLUGV5Ymh1aHQ4Y0N2Q1VuT09ldTVLVW9iUTNhTGxJeDhDMUV0UDBzOWUtdnVoMjZFMkRwb1JWdFRkR283T0FLN1FWTlJmQlpqVENOcWs1S0ktQ1V5UUM1QkxHdV90S01xanJsWDFfOVQ0bUpXTG9oaTVZT3k2VEY5dE1QMkFOZWFlZGx1UEhJel92OEJzRGVIT1g2TUNI?oc=5",
+          "description": "«L'accordo sul Libano non è una pace tra pari, ma un documento di resa a Israele. Ecco perché» Avvenire Guerra ultime notizie. Wp: truppe Usa monitoreranno sul campo rispetto intesa Israele-Libano Il Sole 24 ORE Beirut non ha più tempo per Teheran Il Foglio Libano, Hormuz e il comma 22: il dialogo è in un vicolo cieco il manifesto Israele e Libano, l’intesa che divide ISPI",
+          "pubDate": "Tue, 30 Jun 2026 08:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Guerra Ucraina-Russia, le notizie in diretta | Zelensky: «Colpito il centro di telecomunicazioni spaziali a Dubna nella regione di Mosca». Von der Leyen: «Stanziati oggi 3,9 miliardi di prestito a Kiev per i droni» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdUNXWXVJMkxlc2VIYnB6ZnVLbjBOTUI1Uzh5bEpjWm90S0k1c0ItOUlQZnFPYXdEWmFsV0NIa2EyUVRqWWhsMDJJV1VPMm5CQnlNSGhTOFd6c2ljOEdxOGtGbWVvQVgyeHRtaER4TlR0SkkyaDctVnMyM2YyU0tsV2k2QW53LXJkSnltQkstUkVPZi1FSEp5Q0RIM2UwclNHRXVEa3JKMnpvZ9IBrwFBVV95cUxNSDRWVXdhY2RqTXNna3RqZnZQRXVOcXlVMDNpV01ndEliQXlucmwxeFZuMnRTUXZBSWxxcTZWWGVxZ2xhY3lRZDFrVWFLRWFJOXFmVlFOdWhfV3FKQ3F3RXNTWGRNMllhYmpDNGJKaDNuaTdodm94MHc5b0lNNWM5OGRZZEdRLWxNbzR0UlN0SzBPS2IxeWprSGVseTJyb1NGVDJFWFc1RXJOTm4zWG1B?oc=5",
+          "description": "Guerra Ucraina-Russia, le notizie in diretta | Zelensky: «Colpito il centro di telecomunicazioni spaziali a Dubna nella regione di Mosca». Von der Leyen: «Stanziati oggi 3,9 miliardi di prestito a Kiev per i droni» Corriere della Sera",
+          "pubDate": "Tue, 30 Jun 2026 23:19:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Giornata dedicata a Logistica, guerra ibrida e resilienza informativa - esercito.difesa.it",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdFkwSUp5d2xZX1hRWnlyUlc3ZXMxbmtfcjVhenRnWDZvWF9KNlF5c1V3Z05TZGt1aGZXSlRnYVpfZHk4dk5CbnJqakt0amVISHZNMXhDZ3ZaaVhFaTdtb1dJZUlZWkotTEMzamVIeTVXM2hUZndCQ0N2LXVqSGNIRFZZOHpXQTNhZUpTazdwU2l6U2tSYWNCTU9ZWE5VbHFRSE1WTlUyZEttZHV5Y1pGMXFFWGt5QlViVktMMDlCM05CWVU?oc=5",
+          "description": "Giornata dedicata a Logistica, guerra ibrida e resilienza informativa esercito.difesa.it",
+          "pubDate": "Tue, 30 Jun 2026 16:05:42 GMT"
+        },
+        {
+          "source": "ansa-cultura",
+          "title": "Un'antologia di voci per raccontare l'orrore della guerra di Gaza",
+          "link": "https://www.ansa.it/sito/notizie/cultura/libri/2026/06/30/unantologia-di-voci-per-raccontare-lorrore-della-guerra-di-gaza_ef929f39-0b5c-4460-8b89-20393adf47d8.html",
+          "description": "\"Ogni istante è una vita\" di Susan Abulhawa in libreria per Fazi il 30 giugno",
+          "pubDate": "Tue, 30 Jun 2026 17:40:19 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "chiude",
+      "n_items": 8,
+      "n_sources": 3,
+      "category": "economia",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-mondo",
+          "title": "Lula rilancia il Mercosur: 'Chiudere l'accordo con l'Ue e guardare alla Cina'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/06/30/lula-rilancia-il-mercosur-chiudere-laccordo-con-lue-e-guardare-alla-cina_e2f22bfa-1fa3-49a5-a073-e3ab45414952.html",
+          "description": "Pix, monete locali e terre rare al centro del piano per l'integrazione",
+          "pubDate": "Tue, 30 Jun 2026 18:18:08 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "FTSE MIB chiude primi sei mesi con +15%. Inflazione tedesca e italiana in decelerazione - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNV3gxOXZoYVgxeV9kdFpqcG9MdzNZZXM1OVFBcUdFQV9PbUd1R0NjcjVWOEhsV3h1SkFQeUtvVHBkR0dMek9CMVFGdmFKbGhtaGJueVphMm1tNGlvcXRlODBnN0VDVWdEVnVNYzJ2QWIwZEdCRVBvd1JYbmdHWnBhVml5V3JPSERJVnI0MXRvRWthYXlMYW8tclBMVklTc2l0cGc2Q2dKVVpMdWF3OWU3NlB2UzUzSEdYZ0pJWllyOE1lVWZCX08zdlNyZk1iVk1pSDBEX0M1eXRscnBZcmV0ME9wQUlEa2VjQU0tN1JrYUhJT3FHd0FhMEN3VmlWOGtM?oc=5",
+          "description": "FTSE MIB chiude primi sei mesi con +15%. Inflazione tedesca e italiana in decelerazione Borsa Italiana Mercati europei positivi Borsa Italiana Borse in diretta, petrolio oggi 30 giugno | Listini in leggero rialzo, l'attesa per i colloqui a Doha. Il meeting a Sintra delle banche centrali Corriere della Sera Le azioni europee salgono grazie al rimbalzo del settore tecnologico: DAX, CAC, FTSE100 Yaho",
+          "pubDate": "Tue, 30 Jun 2026 16:02:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Il petrolio chiude in calo a New York, Wti torna sotto i 70 dollari al barile",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/06/30/il-petrolio-chiude-in-calo-a-new-york-wti-torna-sotto-i-70-dollari-al-barile_1735e30d-bf20-4096-a168-b23cb7551150.html",
+          "description": "Cede il 2,08% a quota 69,28, il Brent in frenata dell'1,57% a 72,75 dollari",
+          "pubDate": "Tue, 30 Jun 2026 20:48:08 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Il prezzo del gas chiude in rialzo a 43,65 euro",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/06/30/il-prezzo-del-gas-chiude-in-rialzo-a-4365-euro_369c436f-e33a-4401-9f28-c450d53a952d.html",
+          "description": "Ad Amsterdam le quotazioni guadagnano il 2,4%",
+          "pubDate": "Tue, 30 Jun 2026 18:49:00 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: Milano chiude in rialzo con l'Europa, brilla Avio",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/06/30/borsa-milano-chiude-in-rialzo-con-leuropa-brilla-avio_ffe2806b-cfb6-4d81-b1cc-dc3a3b3de9f8.html",
+          "description": "Scivola Diasorin, lo spread tra Btp e Bund si attesta a 77 punti",
+          "pubDate": "Tue, 30 Jun 2026 18:29:41 +0200"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "apple",
+      "n_items": 8,
+      "n_sources": 3,
+      "category": "tech-ai",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-tech",
+          "title": "iPhone 18 Pro, online i video dei drop test: la fuga di dati da Tata \"preoccupa\" Apple - HDblog.it",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzFnb1ZJdGhuZjBrdk1TeWpEYUNNZk1RRHROVFlGZTh6Z0lvN0hPNHpzUXF0QWVEdE9KNEtudk5QOXJ2VlZUNHVHSHhSOGRtMVV6bThYUHc4WTQxV2ZzaTk0aV9tTHo0OFd1SGM0WXZfYWJsMllIY2FaM0QwWlNxZjBVclBFVVZ6SjNVRFdyRXRNQQ?oc=5",
+          "description": "iPhone 18 Pro, online i video dei drop test: la fuga di dati da Tata \"preoccupa\" Apple HDblog.it",
+          "pubDate": "Tue, 30 Jun 2026 07:39:25 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "iPhone 18 Pro leaks: Qualcomm or Apple C2 model, A20 details, camera upgrades - AppleInsider",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYi1iWi1rUVhFaWJDdVlmSmdpMG9WcDcwTzB6S3lCUzBROFEtSmpLYi1TQmZmUUFpU09CNXRrNGkyMVNNQXowZ3FBYkNvYk50M3FKa0UzYkV5M3NOZkVyLXlhUHVxQ0wwQjJ2WjE1OHJ3aHZrenh3STFjRjRveHh4SXdvZ2kxLU04RlExNE9VY0NyU0o4eDVTOFdlN0YxZFFSUGRtTTFIaGxXWXBidHBhTEtTT1NIQnRo?oc=5",
+          "description": "iPhone 18 Pro leaks: Qualcomm or Apple C2 model, A20 details, camera upgrades AppleInsider Apple iPhone 18 Pro leaks are about to get a lot more intense Mashable iPhone 18 Leak: Apple’s Next Pro Design May Have Appeared Online TechRepublic This iconic iPhone design will get closer to retirement with iPhone 18 Pro 9to5Mac Apple iPhone 18 Pro And iPhone 18 Pro Max Release Date: iOS 27 Signals Septem",
+          "pubDate": "Tue, 30 Jun 2026 20:22:00 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Three AirDrop vulnerabilities discovered, with Apple working on a full fix - 9to5Mac",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOWJITU1LWEdzMTRUMDJUbkczb3oyczRWX2xKQ084emNCYVRZMkZ5VVNXS3U1bGpqTWlGWkZyZlh5YmJOZlNycC0ycVVXS2ExZGhEOWdZMElEY2E3WjFxS0ZoVHA2cFAxM05sSG1Za19zQnNBVUpISXozWDl6MmIyOTYtS1NIZjdzUmstSHJGT2V1TVBBSk84QkNEdmgyNXJZZEhpYklCRzU?oc=5",
+          "description": "Three AirDrop vulnerabilities discovered, with Apple working on a full fix 9to5Mac AirDrop and Quick Share vulnerabilities affect protocols on five billion devices as fixes begin Help Net Security AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks The Hacker News A flaw in AirDrop and Quick Share now threatens billions of iPhones, Android phones, and laptops Phone",
+          "pubDate": "Tue, 30 Jun 2026 11:53:00 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Pages, Keynote, and Numbers updates arrive with these new features - 9to5Mac",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNWprS0lXZkhZNl85SzVESmtjN3JqSU54cjV4eXB6ZzJlb3FPNHhwc2lmMGI3ZGtueWY3bHFIZHdWWDZ3RUstZldEX1V2aFV1UU0tclNlSWdQNTV5U1NLQlMzS0IxWmFBczFuZExpWmRTTUFDM1IxV3F4a2F6N3Z4d0FhSXVTWFJ2MzZHcXhoVUdPT003Y29HM3hfWGE?oc=5",
+          "description": "Pages, Keynote, and Numbers updates arrive with these new features 9to5Mac Apple Creator Studio gets smarter, faster, and more connected Apple Apple Creator Studio Gets New AI Features MacRumors Surprise! It’s Final Cut Pro 12.3 by Iain Anderson - ProVideo Coalition ProVideo Coalition Apple Introduces Updates To Apple Creator Studio TradingView",
+          "pubDate": "Tue, 30 Jun 2026 17:37:00 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Apple Released iOS 26.5.2 Security Fixes Early to Thwart AI-Assisted Hacks - MacRumors",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YR0VKWTloVGhjNW8wRmxzWjhJMlowZWdMSEc0NHB3bmFFczBGeTlrLXVhTlk5dWhqNDFtYTMza0VpOXBJMGFpOWs0QUlLYUp1Tlc1T1QyVm0xSUY2VkI1U1dEWHpCX3BlNmMteWpJTGQtVEZjZUVZ?oc=5",
+          "description": "Apple Released iOS 26.5.2 Security Fixes Early to Thwart AI-Assisted Hacks MacRumors Apple says it is releasing updates early in response to AI cybersecurity concerns Reuters iOS 26.5.2: Apple’s Unprecedented iPhone Update Beats Hackers Early Forbes Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs The Hacker News Update Your iPhone Now to Patch These 29 Security Flaw",
+          "pubDate": "Mon, 29 Jun 2026 21:14:23 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "mercato",
+      "n_items": 5,
+      "n_sources": 4,
+      "category": "economia",
+      "score": 26,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Agenda economica del 30 giugno 2026 - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWjVsZ0ZaZHIweUdVQ253NFd1LTRUZ0Y4TTUyR2VpNmVpZDItdHdBeUlHVWtISkR3OGhQSnhfWlhKNlBkTS1xcjdaMFJYcmlEMzB2dzJ3em5fNXFJMXdjczVFOUJITVpjeW1PV1FQWGpGQ0xkcjd5ZnVVNzQ0RmFQQ0ZGSkJrRExkQ2d2bDZmbjA0UQ?oc=5",
+          "description": "Agenda economica del 30 giugno 2026 SoldiOnline.it Morning note: l’agenda di martedì 30 giugno Il Sole 24 ORE Neureka - Il Forum BCE a Sintra e le incertezze dell'economia europea (30.06.2026) Radio Radicale Mercati: i dati macro italiani ed esteri della settimana (Mps) Milano Finanza La leadeship del mercato si amplia oltre l’IA Investing.com",
+          "pubDate": "Tue, 30 Jun 2026 05:12:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Accise, verso la fine degli sconti. Urso convoca le compagnie: «Adeguate i prezzi al mercato» - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWU5jUE9QMktqVXNZR2JTOWpOUmp6cjZLOTdYVm9XXzhhdkdBdURKbG9WZC1XYzZVOTc4bmJEekxaV3JEYW9GcExpUThoY3pBMU9mS0I3VlowWUVZeDVvOVdjR1VUWmlTcHUzVlR0ZnlOcy1CUTl4enJ0S25ncTFSS3hGNFBYZC1kQTJIZUlxR01pWldSUDVOQk83VkJveF9uQXFrbW02R0hDbzNSb2c?oc=5",
+          "description": "Accise, verso la fine degli sconti. Urso convoca le compagnie: «Adeguate i prezzi al mercato» Il Sole 24 ORE Carburanti, fonti Mimit: chiesta riduzione prezzi dopo intesa Usa-Iran Borsa Italiana Mimit, prezzo medio self benzina a 1,807 euro al litro, gasolio a 1,888 euro ANSA Prezzo benzina e diesel, Urso convoca compagnie petrolifere al Mimit Sky TG24 Prezzi Carburanti: diesel al doppio della ben",
+          "pubDate": "Tue, 30 Jun 2026 09:39:54 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Primo sì della Germania all’ingresso di Italo sul mercato tedesco",
+          "link": "https://www.ilsole24ore.com/art/primo-si-germania-all-ingresso-italo-mercato-tedesco-AITVjswD",
+          "description": "L’Agenzia federale delle reti punta ad agevolare la concorrenza sulle tratte interne",
+          "pubDate": "Tue, 30 Jun 2026 15:33:00 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "Smartwatch, il mercato perde quota anche a inizio 2023",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/29/smartwatch-il-mercato-perde-quota-anche-a-inizio-2023_1c38e2f1-37ab-4f8b-b73e-50a13f4298d8.html",
+          "description": "Contrazione dell'1,5% a livello globale. Male Apple e Samsung",
+          "pubDate": "Mon, 29 May 2023 14:53:25 +0200"
+        },
+        {
+          "source": "ansa-cultura",
+          "title": "Usai (Anica) a Ciné, 'mercato cinematografico in buona salute, nonostante difficoltà'",
+          "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/06/30/usai-anica-a-cine-mercato-cinematografico-in-buona-salute-nonostante-difficolta_88f60b46-ab69-403f-9954-2aaff70b2a99.html",
+          "description": "Al via la 15/a edizione delle Giornate del cinema a Riccione",
+          "pubDate": "Tue, 30 Jun 2026 19:26:08 +0200"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "mercosur",
+      "n_items": 6,
+      "n_sources": 3,
+      "category": "tech-ai",
+      "score": 24,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "L'approfondimento ANSA sull'accordo UE-Mercosur",
+          "link": "https://www.ansa.it/native/ansacom/2026/06/30/lapprofondimento-ansa-sullaccordo-ue-mercosur-_c7cc863e-a481-467f-aed6-f73aed13c00c.html",
+          "description": "Iscriviti ora per ricevere la newsletter questo giovedì",
+          "pubDate": "Tue, 30 Jun 2026 13:38:00 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Il Mercosur avvia i negoziati con il Giappone per un accordo di libero scambio",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/06/30/il-mercosur-avvia-i-negoziati-con-il-giappone-per-un-accordo-di-libero-scambio_386e4a80-2b79-4f4a-b810-ea59223fba3b.html",
+          "description": "Obiettivo integrare i mercati e rafforzare commercio e investimenti tra le due regioni",
+          "pubDate": "Tue, 30 Jun 2026 23:11:19 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Il Mercosur coordina gli aiuti umanitari al Venezuela dopo i terremoti",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/06/30/il-mercosur-coordina-gli-aiuti-umanitari-al-venezuela-dopo-i-terremoti_7544d71e-2ccc-4888-ba31-85f8a3321502.html",
+          "description": "Il presidente uruguaiano Orsi: 'al lavoro i Paesi del blocco'",
+          "pubDate": "Tue, 30 Jun 2026 23:00:13 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Lula rilancia il Mercosur: 'Chiudere l'accordo con l'Ue e guardare alla Cina'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/06/30/lula-rilancia-il-mercosur-chiudere-laccordo-con-lue-e-guardare-alla-cina_e2f22bfa-1fa3-49a5-a073-e3ab45414952.html",
+          "description": "Pix, monete locali e terre rare al centro del piano per l'integrazione",
+          "pubDate": "Tue, 30 Jun 2026 18:18:08 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Vertice Mercosur, il Paraguay si impunta sulle quote di esportazioni all'Ue",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/06/30/vertice-mercosur-il-paraguay-si-impunta-sulle-quote-di-esportazioni-allue_2277084e-247a-4b03-aebb-81b303e27c8a.html",
+          "description": "Il presidente Pena chiede di fissare regole che compensino le asimmetrie",
+          "pubDate": "Tue, 30 Jun 2026 17:40:55 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "morti",
+      "n_items": 7,
+      "n_sources": 5,
+      "category": "clima",
+      "score": 4.1,
+      "cooldown": true,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Terremoto Venezuela, 1.943 morti. Bimbo di 3 anni estratto vivo dopo 6 giorni - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vWTBFbnYzeThYTm9XX090NlZuMEcxb1dLc09oTmdscTYwQTZuOFNPLXZHWUJJRWJGT1I5SWlMX2ZkQkd2YjdVUDY3R1Z6LWZqV2tVVTZfQUs0RnNGXy1ieTVZcUk1WFY4RlVEc1VXU2h4YWRKN2hYYw?oc=5",
+          "description": "Terremoto Venezuela, 1.943 morti. Bimbo di 3 anni estratto vivo dopo 6 giorni Sky TG24 Venezuela, Croce rossa: piano di assistenza di 24 mesi dopo i terremoti ANSA La rabbia in Venezuela contro il governo di Delcy Rodríguez Il Post Terremoto in Venezuela, un ex deposito di grano trasformato in obitorio Il Fatto Quotidiano Terremoto in Venezuela, i cubani non lasciano ma raddoppiano il manifesto",
+          "pubDate": "Tue, 30 Jun 2026 22:03:14 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "L'Oms: in Italia 5 morti in 24 ore per il caldo. Il ministero della Salute: 'Non ci risultano' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQ3ZfUm5vc2xjZVZFUjhLcTUteHU2M09fTWR5NnF5MjBmVklHMEFjWEdwMlJWZjBJVURzVUVRTENEdGpNQTdLQmtxS2NyQjFhRjhIRzFJOXdLcFhaX1A5R3p5U0FYUE1hMWdPLUJjMGxYZWhjdXhVR1RjLTZrRkhla2RnODFRZmNQRC1oLUY2SHBaUVFHYkNLSVpYVC1VVHpaU2Q4ZHo3MS1wckQ4bWRUdndsXzdiSXJTTW1keG5sSW82TWFhX1BHdFhnWkZrbTJ6cTR5dU5RMnVyWXpUZnhnSWJITmlXcWNsN2phZF9hazl3MThCNllIZFR1VlROMTjSAYQCQVVfeXFMTy1RT0laeFBTSlFSYjA1V01yM19ZTzhPMllCdC1EaU84SjkxU0lBMFZrMjVtY3BzR0d1aktobVlEdTZNTlZmeHlmY3pqLXR1bkhKcmlOYzBZNlVmZnBkay1SZXk1cjJKYXFldWZoQkE2Rm5zQkc3NzJ0RGxvMllFYWpWVms4Ml84NGstVS1CM2pQUlNPN1JGZkdOS2UtekphTndwYmVIcHVneXJEdEJsLU13eWJYZ3JZLWZYVnRXTGFHQS1UVVFyWFpYOUdhNUs5Y1pIQUlrZnU5OGUtMndkYVV4akNQTS1nRE02aHFtcmlZVUpuTDd3TmVjTldDRjlaNkFpblo?oc=5",
+          "description": "L'Oms: in Italia 5 morti in 24 ore per il caldo. Il ministero della Salute: 'Non ci risultano' ANSA Oms: \"Le prossime estati saranno ancora più difficili\" Il Fatto Quotidiano Caldo, arriva la prima tregua. Sul conteggio delle vittime Oms smentita dal ministero la Repubblica L’Europa si riscalda più della media globale il manifesto Le ondate di calore da record che investono l’Europa sono il segnal",
+          "pubDate": "Tue, 30 Jun 2026 16:05:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Strage in Germania per la custodia della figlia, fermato il padre - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQenpYUTJfSEVLOHAyLW9iUGpqUTN3N1RFMWFaeEtNRjduVVljWWZQclJYYzYwbXRhRHBBemhldUI2VEdHUkdCVXR5b2dNbGNuRlJaU0xleWFhelZLUl9FSlNBbFFUeGJ5LVQwMHRIVnBvRW0wTmo4ckZYZ3gzY3I4V20tYjktT2Jrc0NkcDJsd3M1MV9famdLYUFkTHRUQkJIRnItd25VTE5UVnl3ZGxJRDY3LUZXdXpvOXlOMGl5QklGaVUxbjJrREFGNi1oQUtEblR5T0ptemFXa2U0MG5IanJSOW9aemViZjlpbHV2V0hzLThUMlg5Q3JsTld3aXoyUTN2cmhvONIBjAJBVV95cUxQdkppekVVaVBiZDBrVC1iNmJuem1CdEdSU2daX0VrdmUySjdCQnpiTTNRUFFUNmdETjNjR1Zldk04NHFvUWpBN2pGRkRxUXZTNndpcWt6RGpBcGRhWWZOaEtlSzZrQ3VEYWlkajAtWnhuSG1kVkVPYlN4aDMza2E1TEs5QmptYUxSVkFtN09HSG80OXF4ZU5CQnFFcGJRRXNmZzR4TFVWTlUwUmtpTVpfMUpVaU0tR240YW93MHVHbnRGOXNOZldSRlZlSWJuWFVROEc1WThYZV9VVXVmUzVPeXo3bDZTSnZWUWxpQk14TXdhZGtNVklCRENXai1mX2lhT3BRZVJtbkxFOHhZ?oc=5",
+          "description": "Strage in Germania per la custodia della figlia, fermato il padre ANSA Germania, sparatoria in Bassa Sassonia per l'affidamento della figlia: 6 morti e un ferito RaiNews 1mattina News 2026 - Germania, strage in una casa famiglia: sei morti e tre arresti - 30/06/2026 - Video RaiPlay Sparatoria in Germania, sei morti in una casa-famiglia a Stade. Arrestati due sospettati AGI Sparatoria in Germania, ",
+          "pubDate": "Mon, 29 Jun 2026 19:15:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Due bimbi estratti vivi a sei giorni dal terremoto in Venezuela",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/06/30/due-bimbi-estratti-vivi-a-sei-giorni-dal-terremoto-in-venezuela_76a2e018-b985-49fc-b646-ec9435f35d94.html",
+          "description": "Il miracolo di Carlos e Klieber. Quasi 2mila morti e 60mila edifici crollati",
+          "pubDate": "Tue, 30 Jun 2026 21:11:11 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Sale a 1.943 morti il bilancio provvisorio del terremoto in Venezuela",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/06/30/sale-a-1.943-morti-il-bilancio-provvisorio-del-terremoto-in-venezuela_43bc7390-e646-41df-a79d-81a82ac08045.html",
+          "description": "Jorge Rodriguez: 'Oltre 10mila feriti, circa 30mila persone vivevano nelle zone colpite'",
+          "pubDate": "Tue, 30 Jun 2026 20:00:06 +0200"
+        }
+      ],
+      "macro_area": "clima-salute"
+    }
+  ]
+}

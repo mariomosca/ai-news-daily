@@ -1,0 +1,911 @@
+{
+  "date": "2026-08-19",
+  "top_topics": [
+    {
+      "keyword": "trump",
+      "n_items": 22,
+      "n_sources": 7,
+      "category": "geopolitica",
+      "score": 160,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Emirati, 'sospesi scambi commerciali e transazioni finanziarie con l'Iran' - Ultima ora - Ansa.it - ansa.it",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONkVlZlZuWUk3MUk1d3pMOGw2Zl82Q1N2eTMyZ1JJblZaYmNyWEYydXdhajRaUWRfaW54TWJya1RyTnpBWWhMdUMxZ2pyQlRLY0c2QmpYOVV2N21KSDZxZmFwNmxkVkM4VTlLQXRYaHdaRGRlOUVBTTNKS1R5ZVp0VGdqNngzdmVDM0dUd2d6YmJGdGxaRjdkZTZWaHNQSy04TFYxOFFZbGVoUDF5ZHpIOUdOUU5DZ1hxb2d4MzZYYUY5d3JnVDdMenMtR2c0QnNYV3R2NEVYZWVLSmZHWDFJbzZIRjBUUTBudE5DdHNjT1cyQ1MwVnJz?oc=5",
+          "description": "Emirati, 'sospesi scambi commerciali e transazioni finanziarie con l'Iran' - Ultima ora - Ansa.it ansa.it La sfida di Trump a Teheran: «Hormuz è territorio Usa». Allarme missili sugli Emirati Corriere della Sera Attacchi di Israele contro Siria e Gaza, missili iraniani intercettati dagli Emirati - Attacchi aerei israeliani nel sud del Libano segnalati da Al-Mayadeen RaiNews Stretto di Hormuz, nave",
+          "pubDate": "Tue, 18 Aug 2026 21:27:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Gli Stati Uniti hanno emesso sanzioni contro la presidente della Corte penale internazionale Tomoko Akane - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNblF6TVRqd21xbXQ2YmFfcVJDUy15ZVNaOGRiLVNCSXlsby1EcHowLUNTU2hyVXFRclMwQUVoV1JuWW9hdWE3TE9aV1A4ZjR2bDNFNjFQMFgyMmM2c0NCaXZNUEVPNDFOcnNyMmNVV3gzaGwzX0g0emxKRGZKeHVSQXBpcXpXbThDZjRNbV9tRjN3U2ZLRUJuek8tNA?oc=5",
+          "description": "Gli Stati Uniti hanno emesso sanzioni contro la presidente della Corte penale internazionale Tomoko Akane Il Post Cpi, 'le sanzioni statunitensi minano lo stato di diritto' ansa.it Gli Usa impongono sanzioni contro la presidente della Cpi Tomoko Akane Sky TG24 Corte penale internazionale, Trump stringe la morsa: sanzionata anche la presidente Akane Il Sole 24 ORE Trump sanziona la presidente della",
+          "pubDate": "Tue, 18 Aug 2026 20:28:56 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Trump posta su Truth la cartina di Hormuz: \"Nuovo territorio Usa\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON29JaWlnaUdSZ19rc202MHdWQlAyMTVDLXpIenZGV1Z2QUMzMFZVV1YyeFphRnRfR2IxaW05NWIxRDlnMmVWYzdwTTZvb0doX0FSbjY2bjVmUGxsS0dGYm5XLUdwbUEyNUhGamdDcUE4Q1htczROVmdHQ3pBamJWZkNKdw?oc=5",
+          "description": "Trump posta su Truth la cartina di Hormuz: \"Nuovo territorio Usa\" Sky TG24 Trump posta la mappa di Hormuz, 'nuovo territorio Usa'. Teheran: 'Si illude' ansa.it Guerra in Iran, quanto sta danneggiando Trump in vista delle midterm? Sky TG24 Saied Golkar: \"L'Iran si prepara a sostenere una prolungata pressione militare\" (di N. Boffa) HuffPost Italia Guerra Usa-Iran, le notizie in diretta | Corriere d",
+          "pubDate": "Tue, 18 Aug 2026 13:23:30 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Il regalo di Trump a Kim Jong-un: “Esercitazioni militari con Seul costose e ostili, vanno ridotte” - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTkMybHgwTS1UQVBwVnotaE9XRVBOblFzN3h3R3pxZGZwaFF3QVVXZVJJNGdudXU4OXdOU1dRZGJKNHdJakVoN2xSSmhMTGtuRWJqZms2blA5YUNOZTlCQjU0LUpsalAxU2xBalpiQlJFdjNqMEhTOXVMLTJaTWFCM3JOUGVRWS11QXV6cEZVS1gzMWFNTFh1UFh6X3VnZEprU0FuMEh4WURBSzFDWDFGRWtZcnJTaF9jRlFOdWNNR0RTaHFSakpibE9iM0ljNml4YnEzUlROSm_SAd4BQVVfeXFMTVFrUllBVWQydmkyT2JPOWRDdWRmdnRQeVJDNUZiV0o0Q1dlUkZSVVVFcmFPUlp4NjJVbDFoYnhKQ2F3VWY5NGIxWkswLXBfaDltVC01WWpJMGwwd3NPcHpCQjJwNU1mem5MdzVleFJKX1NZVVBDOVRmY1prZldLdHdtOVBVdGNLWDZyTFhGcm1mZXZ5c3FteWhPOVZma0xwU3dNMGlTbmdKR01HdC1YMWxFXzA0RHNVRGZuZThhTS1Wek1oU1JTQUZ1dl9fNmNST3Z1MWhycFRNTHZyT05R?oc=5",
+          "description": "Il regalo di Trump a Kim Jong-un: “Esercitazioni militari con Seul costose e ostili, vanno ridotte” la Repubblica Trump ordina lo stop alle esercitazioni congiunte Usa-Corea del Sud. E vuole un incontro con Kim Jong-un Corriere della Sera Wsj, 'Trump punta a vertice con Kim Jong-un durante il viaggio in Asia' ansa.it Corea del Sud: Trump è ancora un alleato? ISPI Sud Corea: esercitazioni con Usa n",
+          "pubDate": "Mon, 17 Aug 2026 12:56:06 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Corte penale internazionale, Trump stringe la morsa: sanzionata anche la presidente Akane - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdkNCRmgzdEIyWnAySU5LQk9GWkFZMzhWRVZ3ZEFXeGdXa2ZJTnRhOENIS0FzdnFhSkNRdmNSZWhsZjRBTXkyZEpkY254Q1pwOGFnYmIxb2FKSXdwMzl1ZjVTRXUxX0FrSHZIMTJ5X2tvWmZURkNZRFJpUVE4aWNnNm83dVhzVDZFc1dCR2hNZDMtVTRDcmtmNXVTckxSUDN0dTNmZTRNSnFEdjR1N1V3eGcyd3IyVEYyaGJjYnVB?oc=5",
+          "description": "Corte penale internazionale, Trump stringe la morsa: sanzionata anche la presidente Akane Il Sole 24 ORE Gli Stati Uniti hanno emesso sanzioni contro la presidente della Corte penale internazionale Tomoko Akane Il Post Cpi, 'le sanzioni statunitensi minano lo stato di diritto' ansa.it Gli Usa impongono sanzioni contro la presidente della Cpi Tomoko Akane Sky TG24 Trump sanziona la presidente della",
+          "pubDate": "Tue, 18 Aug 2026 19:49:07 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "nuovo",
+      "n_items": 15,
+      "n_sources": 9,
+      "category": "tech-ai",
+      "score": 141,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump posta su Truth la cartina di Hormuz: \"Nuovo territorio Usa\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON29JaWlnaUdSZ19rc202MHdWQlAyMTVDLXpIenZGV1Z2QUMzMFZVV1YyeFphRnRfR2IxaW05NWIxRDlnMmVWYzdwTTZvb0doX0FSbjY2bjVmUGxsS0dGYm5XLUdwbUEyNUhGamdDcUE4Q1htczROVmdHQ3pBamJWZkNKdw?oc=5",
+          "description": "Trump posta su Truth la cartina di Hormuz: \"Nuovo territorio Usa\" Sky TG24 Trump posta la mappa di Hormuz, 'nuovo territorio Usa'. Teheran: 'Si illude' ansa.it Guerra in Iran, quanto sta danneggiando Trump in vista delle midterm? Sky TG24 Saied Golkar: \"L'Iran si prepara a sostenere una prolungata pressione militare\" (di N. Boffa) HuffPost Italia Guerra Usa-Iran, le notizie in diretta | Corriere d",
+          "pubDate": "Tue, 18 Aug 2026 13:23:30 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Treasury Usa ai massimi dal 2002: il deficit vola a 432 miliardi - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd1N5eTJQWWdXTWFiX2RIcWhUTnRYYmdUNmFnOUFBejBKOGx1OW1uLVFGMXJpT09iNEsyTmp3clRkX0RyN3Uxb0ZWdTVVSWdFMnRiYU5zcWJGWXlLa0JpdHpoMFo0YTcyTjJ2TnV2OEs5dGFHZ19iYmlEVVdzRXdNUUlqODF4NUpmSUhhZ2xIQXNjU0U?oc=5",
+          "description": "Treasury Usa ai massimi dal 2002: il deficit vola a 432 miliardi Il Fatto Quotidiano La diretta da Wall Street | Borse Usa chiudono in rosso, Nasdaq -1,3%. Rendimenti record per i titoli del Tesoro Usa Milano Finanza Wall Street segna nuovi record, poi i bond fanno scendere di nuovo le azioni Yahoo Finanza Il mondo affoga nel debito. E il mercato ne sta alzando pericolosamente il prezzo (di M.S. B",
+          "pubDate": "Tue, 18 Aug 2026 18:24:53 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Nuova scossa di terremoto di magnitudo 4.6 a Granada, evacuata l'Alhambra - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45Q3FQSnUzWFJEbkxPMzZqczRNY3JIN3B5dXRpMGJEdHZ0QUp6T25COGhoWjg0RWpGRkp2UmNrNjA3V3NTUjlHS0ZKZUFvVEhWYWhxUVlTRl81czV3VGYxOTlsS3NrUENnWUpr?oc=5",
+          "description": "Nuova scossa di terremoto di magnitudo 4.6 a Granada, evacuata l'Alhambra Sky TG24 Terremoto a Granada: due forti scosse, chiusa l'Alhambra Il Fatto Quotidiano A Granada, in Spagna, un terremoto ha causato tre feriti e qualche danno: è il secondo in quattro giorni Il Post Granada registra un nuovo terremoto, scossa di magnitudo 4.8 Euronews.com «Quelle scosse a Granada ci hanno fatti saltar giù da",
+          "pubDate": "Tue, 18 Aug 2026 14:22:45 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Mai così male | Solo un americano su tre approva l’operato di Trump - Linkiesta.it",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa2lLYUVfalU4Z2l2Ukt5SXl2WVhMVlBfV1lKVVM1SDhpZkZhaXBYNDM5VFFXU252V2dpN1pTRWx5eHh3aDNnd0xNSDRTMUN0U21UeVcxblVnMllOT3VEV29JSGNvazJOWlp4ajZQWXpEcEI3a1hlSEFjblRNTXZmYlVzU3JGS2s1VU1LZmN3?oc=5",
+          "description": "Mai così male | Solo un americano su tre approva l’operato di Trump Linkiesta.it Usa, la guerra in Iran ha fatto sprofondare di nuovo la popolarità di Trump Sky TG24 «Le tue finanze sono migliorate dal 2025?»: il 53% degli americani dice no e boccia Trump Corriere della Sera I repubblicani affrontano il test di metà mandato mentre gli elettori si disilludono sull’economia di Trump Yahoo Finanza La",
+          "pubDate": "Tue, 18 Aug 2026 05:27:35 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Trump posta la mappa di Hormuz, 'nuovo territorio Usa'. Teheran: 'Si illude'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/emirati-liran-ha-lanciato-due-missili-balistici-finiti-in-mare.-trump-posta_1d2647f8-f2df-448f-836e-1c9871b298cc.html",
+          "description": "Alta tensione nel Golfo. Missili verso gli Emirati, Houthi attaccano raffineria saudita",
+          "pubDate": "Tue, 18 Aug 2026 23:50:07 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "meta",
+      "n_items": 9,
+      "n_sources": 7,
+      "category": "tech-ai",
+      "score": 69,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "California AG Bonta says case against Meta is about 'restitution and distortion,' not damages - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSHAxWHNTLV9kWnA1NVcyczRueUtEeURFbjVCSU9FY1A0MWNtbng3QVVrUG9lOW9rc3NhVE5ibmZHNjJ6dF9lN3lyaDJRTkVVRmgxWndqLXFfV2swcjZnRzNqYkM1RTllQ1dXN1FTTUQ2SHpzdWNJY3hTSlRyT19tdHZvY0UxdUZROUJuQlV3eUlGaWRLa3BiUWw3b1VPMTZVT1cwa2xITVBFd9IBrwFBVV95cUxOVDdTS3FYZXJvbmlmeWhFVWJWZGFKeXBUZmFzM3Q0V1kwbVZZbW1BLWZUM3YxYkhJeEhuRFdaSGVrNjFXMkpvS3FrYWdzSVlzTHpRcU0tcnZFRjhUcTFSZ3NhbHpneUU3NVR5VzlSOHlZRUlmcVpETGRBNnB1NlUwY25YNWxzRDE0ZTRVb3V0Qnpnd1N0ZDI4VUx6d3B5cGpwbU1ZeWlTOF9oR3N2OWxn?oc=5",
+          "description": "California AG Bonta says case against Meta is about 'restitution and distortion,' not damages CNBC Meta hooked children on Facebook and Instagram, court hears bbc.com Meta landmark trial officially underway, company faces social media addiction allegations KOMO Meta’s blockbuster trial draws parallels to big tobacco The Economist Live updates: Florida, Alaska, Wyoming vote in primaries; Supreme Co",
+          "pubDate": "Wed, 19 Aug 2026 01:34:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Al via il maxi-processo a Meta, 29 Stati americani contro i social",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/tonfo-del-35-di-meta-a-wall-street-con-lavvio-del-processo-a-tutela_bf2a14ca-2446-404c-bb85-b3095fd6323b.html",
+          "description": "Tonfo in Borsa. Procura attacca: 'Ha reso minori dipendenti e li ha sfruttati'",
+          "pubDate": "Tue, 18 Aug 2026 22:16:04 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Pazzi per i supermercati stranieri, ormai meta di viaggio",
+          "link": "https://www.ansa.it/sito/podcast/la_tendenza_della_settimana/2026/08/18/pazzi-per-i-supermercati-stranieri-ormai-meta-di-viaggio_3ce15616-4b3d-4350-ab1c-01af741bbd29.html",
+          "description": "",
+          "pubDate": "Tue, 18 Aug 2026 16:19:38 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Meta hooked children on Facebook and Instagram, US court hears",
+          "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+          "description": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
+          "pubDate": "Tue, 18 Aug 2026 22:11:07 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Il processo storico di 29 Stati Usa contro Meta. L'accusa: «Ha reso i minori dipendenti, ha ingannato il pubblico» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQWFE1SDdEZWd3T192UVdJQ0F2bVFjaFFObi1XbDd6SXp3VU13TW56MXBXaVI4bUc0QnRCT2F4dktRVzNPeGwzUzZzVzBTeFJxYzJqZ3h6a3plRkQyOTBpbjZWeHFyS1ZpQnc3N1lmMURRUm1LVGpTZVExVW1mdGZQQlYwNUlCeWR0MWZPUTV3cnFwZnY5Z0c2OHpNVkNVU0JFLTJoSW9RV2F6NV9hR0w5Ti1MUzI1UDlYX0dKWjR0Q2ljY1hDWE5COWFiT3NkX01rcmFyblg2cVlaUkVOUHdLdEJPMURLTXRFV3NCV3BNdE1kZGJRWWpCdjR5N0VwbEdnMjFCRG1xTHY1WlIwQ2tIZEpCdkx1LXVfd0FfaEE0OTBKajZTVWhtTDNJY05zRFBtVmFSONIBugJBVV95cUxPQ1dhYndrSW1LekowdUJvdXEyTi11alU2SGxzWXdXMDhWYXNCblBCNG9oWUUtaU8tdTl4TjRzbFpjSXpmWGZjMjl6SFBVQXZrMVFKOFdnU0hHSFpOeC10WkxEekdjd1BiV1NJLWRoak5zclBDZFMzajNfNGdXN2RidVNXenZMSkRJMHQ0T3k4bHZtbldWeXRRUTgzSHZPZUNPUzBVZ1BOcy03UVVlNmVWR25GR1UxU2VTbWkxUDdQbHkwYmkwYlZPcmtYOEwwOVdoZzY5a2ZmcHdXWW8xWGZhT2xqWDBXWWhaVG5qQnV4SE1GRjkydTFONDF4Q3V4V1Y1Yzc0OENqSU1PRkVSRWQtMGRLZS1jbU92NkhuVnd6ellPcDRaenRiMHhrV29OcDFwVHAycml6V2lEZw?oc=5",
+          "description": "Il processo storico di 29 Stati Usa contro Meta. L'accusa: «Ha reso i minori dipendenti, ha ingannato il pubblico» Corriere della Sera Al via processo per i danni dei social: Meta rischia una multa da 1.400 miliardi Il Sole 24 ORE “Rende i bimbi dipendenti”: il processo a Instagram e Facebook affossa il titolo Meta la Repubblica I procuratori attaccano Meta, 'ha reso i minori dipendenti e li ha sf",
+          "pubDate": "Tue, 18 Aug 2026 17:23:28 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "borsa",
+      "n_items": 14,
+      "n_sources": 4,
+      "category": "economia",
+      "score": 62,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "L’enorme incendio nella più grande riserva naturale del Belgio - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xZ0VLSDYtWF9Ca196ZFhySW50R3lrVGYxeDFBTjY1RU1rMWNHdEFaU3lLWTBrN2NEMkZFZkppangtMm5WeTZULU1leEpmQmtEMXdjSENlcGJTMGQ4bXB4WHk0Q0RNdkVjdEE5SEp1T1o?oc=5",
+          "description": "L’enorme incendio nella più grande riserva naturale del Belgio Il Post Ambiente, in 7 mesi registrati 1.070 grandi incendi boschivi in Italia Il Sole 24 ORE Incendi in Europa, bruciano Belgio e Serbia. Allerta anche in Aragona La Stampa Von der Leyen, 'solidarietà europea in campo contro gli incendi' ansa.it L'UE mobilita risorse per belgio e Spagna a supporto della lotta agli incendi Borsa Italia",
+          "pubDate": "Mon, 17 Aug 2026 08:37:26 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Al via il maxi-processo a Meta, 29 Stati americani contro i social",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/tonfo-del-35-di-meta-a-wall-street-con-lavvio-del-processo-a-tutela_bf2a14ca-2446-404c-bb85-b3095fd6323b.html",
+          "description": "Tonfo in Borsa. Procura attacca: 'Ha reso minori dipendenti e li ha sfruttati'",
+          "pubDate": "Tue, 18 Aug 2026 22:16:04 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse in calo, volano i rendimenti dei titoli di stato - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ2J2NkN5ZW5YTkFZX1FrdHplTjQwUUhxOHJ5eWtjX2Y1NEVGX0stOF9Gb0R2Mk1lWk5FN01oUnNVNVZVSFItSkhXVm55S2k1SjJIYVh6TW9LSmJQSzdZY0ZfVWhWUEhfVURUZ3gxU0pudVFPcFA5Rm9scmJFNlA2YWJRWVlJRlkxMUp4TVF0SUQ1Y0lEV0gwTUpKMFgzdVFxNlFuRWx1UV83XzU3c3J4MEFTS2otTXkxQ1NaTHNHeU5HZ0tSWWp0dlo1cEREWDMt0gHWAUFVX3lxTE9IR05pVUFtaGRkT19LeHk4cXBPMGt4QVRSbURCYTdBdHJrMTdidHhEZ0tST2E5eHJYaWh0WHZ4dlRQYUtMQ0dCRlR5ZEJpMkcxRGhNRkI3YXpiYkZsdnZjMVBkRlJwR3lNcEJEbXBRcGkyTFZqeUZMT0k3RUFiSTJmalNBdXVEemF4SVVPTjhRVGxWaHpwX2kxVVhNNVZ4X1g5ZTY5d2ROZldZQXltWkRQS0FuVGtYM2t5elp4aEhhNXJ1cVJyNXlZaTBrTG15Y3BUMlMyLUE?oc=5",
+          "description": "Borse in calo, volano i rendimenti dei titoli di stato RaiNews Borse europee in rosso con Piazza Affari in coda Borsa Italiana Piazza Affari giù dell’1,06%: Stm e Prysmian affondano il Ftse Mib SoldiOnline.it Le Borse oggi, 18 agosto. Per l’Europa chiusura contrastata, Milano maglia nera -1,06% la Repubblica Borsa: Milano apre in lieve calo, Ftse Mib -0,18% ansa.it",
+          "pubDate": "Tue, 18 Aug 2026 15:49:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Unitree verso l’Ipo dei record: Pechino lancia il super robot e sfida Musk - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMDdzZ05ZbXZvd202U3U1dmlUSTFXLWhual9kS0xoQ0JIUHpVVmx2akxoU2lSVE9MaERqVFpnblA2eW5aMklKbjlRUVcyRWlVakFlY25WVXdzRXRUYTBlQmZVVnJweVBaNnRJNTZDalVvYXRralZoazk2M3huMWxreFlva1hkYThma3k1a1YxTkVWa19XRm9meHpRSzRDOUN6bXc?oc=5",
+          "description": "Unitree verso l’Ipo dei record: Pechino lancia il super robot e sfida Musk Il Sole 24 ORE La produttrice cinese di robot Unitree debutta a Shanghai col +629% ansa.it Robot umanoidi cinesi sbarcano in borsa, debutto record da 1 miliardo per Unitree RaiNews Ecco Superman, il nuovo robot Unitree da record: corre più veloce di Usain Bolt e salta da fermo oltre 2 metri. Il video dday.it Il nuovo robot ",
+          "pubDate": "Tue, 18 Aug 2026 19:51:37 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "CRISI DI HORMUZ & GAS | “Alte scorte italiane non bastano, bisogna sperare nel carbone tedesco” - IlSussidiario.net",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd292X3YzdmdSX0lIdWVMQ0VrMGFBQ0o3ajRpdnFqRkVsd01maWMySWdYU0x0Ym5CcWxTZEhEVUtvN3E0eHE2UVhGTER2YnA1OFg2UzlEeUZmVkdxZ2VlMExxazVjalpXNUxSaTI5VDNlWE9XUy01V2dtYS1iOW1oYjY0dUtiYTc0S0tvVVBtY1NDaXNBWWVLWUtodkFpZ2UxSnZtVTBiQmFTZHdhcUpKVWhWTzBWLUZZeWNkOGtyb19uUmYwcUNPWnNoUzjSAdIBQVVfeXFMTUVwY3RXVUVwb2dLVzdQRDl3cVF6YUxVWEFYWWVxdVg1X29sTXczWWdUVEZXd2k2SHFPekRPLXRxUGwwR1Ytand4RlcteGhUeThncDY3Y0dscXg4dkI3MmlhTDZXc1lST3l5b05YYUc3ZThhcXJjNGloODkxZ3Jta1FtUGJwaWI3VGdlZ1VFaUR1ZXVBcVJQODY2dGsyUVpjZDRjSjZUUjl0ejFvQ09VY19yS3pLbTJTdUEzR2c4YUNHTmRWYmNhN21EVE15YXpiQTB3?oc=5",
+          "description": "CRISI DI HORMUZ & GAS | “Alte scorte italiane non bastano, bisogna sperare nel carbone tedesco” IlSussidiario.net Gas ai minimi storici: l'Europa rischia un inverno difficile Il Fatto Quotidiano Il gas naturale supera i 64 euro sulla piazza Ttf di Amsterdam ansa.it Gas, indice IGI in netto rialzo a 63,10 €/MWh la Repubblica Natural Gas (Amsterdam) a 64,12 euro per Megawatt-Ora alle 19:30 Borsa Ita",
+          "pubDate": "Tue, 18 Aug 2026 04:00:32 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "milano",
+      "n_items": 11,
+      "n_sources": 5,
+      "category": "economia",
+      "score": 61,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Treasury Usa ai massimi dal 2002: il deficit vola a 432 miliardi - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd1N5eTJQWWdXTWFiX2RIcWhUTnRYYmdUNmFnOUFBejBKOGx1OW1uLVFGMXJpT09iNEsyTmp3clRkX0RyN3Uxb0ZWdTVVSWdFMnRiYU5zcWJGWXlLa0JpdHpoMFo0YTcyTjJ2TnV2OEs5dGFHZ19iYmlEVVdzRXdNUUlqODF4NUpmSUhhZ2xIQXNjU0U?oc=5",
+          "description": "Treasury Usa ai massimi dal 2002: il deficit vola a 432 miliardi Il Fatto Quotidiano La diretta da Wall Street | Borse Usa chiudono in rosso, Nasdaq -1,3%. Rendimenti record per i titoli del Tesoro Usa Milano Finanza Wall Street segna nuovi record, poi i bond fanno scendere di nuovo le azioni Yahoo Finanza Il mondo affoga nel debito. E il mercato ne sta alzando pericolosamente il prezzo (di M.S. B",
+          "pubDate": "Tue, 18 Aug 2026 18:24:53 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse in calo, volano i rendimenti dei titoli di stato - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ2J2NkN5ZW5YTkFZX1FrdHplTjQwUUhxOHJ5eWtjX2Y1NEVGX0stOF9Gb0R2Mk1lWk5FN01oUnNVNVZVSFItSkhXVm55S2k1SjJIYVh6TW9LSmJQSzdZY0ZfVWhWUEhfVURUZ3gxU0pudVFPcFA5Rm9scmJFNlA2YWJRWVlJRlkxMUp4TVF0SUQ1Y0lEV0gwTUpKMFgzdVFxNlFuRWx1UV83XzU3c3J4MEFTS2otTXkxQ1NaTHNHeU5HZ0tSWWp0dlo1cEREWDMt0gHWAUFVX3lxTE9IR05pVUFtaGRkT19LeHk4cXBPMGt4QVRSbURCYTdBdHJrMTdidHhEZ0tST2E5eHJYaWh0WHZ4dlRQYUtMQ0dCRlR5ZEJpMkcxRGhNRkI3YXpiYkZsdnZjMVBkRlJwR3lNcEJEbXBRcGkyTFZqeUZMT0k3RUFiSTJmalNBdXVEemF4SVVPTjhRVGxWaHpwX2kxVVhNNVZ4X1g5ZTY5d2ROZldZQXltWkRQS0FuVGtYM2t5elp4aEhhNXJ1cVJyNXlZaTBrTG15Y3BUMlMyLUE?oc=5",
+          "description": "Borse in calo, volano i rendimenti dei titoli di stato RaiNews Borse europee in rosso con Piazza Affari in coda Borsa Italiana Piazza Affari giù dell’1,06%: Stm e Prysmian affondano il Ftse Mib SoldiOnline.it Le Borse oggi, 18 agosto. Per l’Europa chiusura contrastata, Milano maglia nera -1,06% la Repubblica Borsa: Milano apre in lieve calo, Ftse Mib -0,18% ansa.it",
+          "pubDate": "Tue, 18 Aug 2026 15:49:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Offerte di lavoro a Milano: quei 30mila profili introvabili (che le aziende cercano) - MilanoToday",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU0owTVczNDkxS2x3VUJQVWY1Zk5nT294Y2owN3lVekJlLXU0cFlxRUhmdkVNanY2RnBvTTZZbHB1TlNZelJFNkNBLXBjMDNuOXlwN2VLUmVoaTctWVgxYXRycTlZZlBmYTk3NnAwWUVMekVCQW1adUp2VG5WbmxkSW81VEhGcllKRUE?oc=5",
+          "description": "Offerte di lavoro a Milano: quei 30mila profili introvabili (che le aziende cercano) MilanoToday Mancano 315mila esperti di Ai: ecco dove le imprese faticano di più a trovarli Il Sole 24 ORE Impennata dei lavori legati all'Ia, ma meno opportunità per le donne ansa.it Campania, mancano oltre 31mila tecnici esperti di intelligenza artificiale Corriere Del Mezzogiorno Intelligenza artificiale, mancan",
+          "pubDate": "Tue, 18 Aug 2026 09:53:32 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Technoprobe, la big tech italiana dell’IA è salita del 152% nel 2026: dove può arrivare il titolo? - Morningstar",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQelkzc0RQeEdZN2xhMEJGWmktZVBuZGZRSzJKU0xyZkphSGhxa2hCUjBLRWVocVdORDZ5R0VVU3NQdXZ4NHcxbUVkdHlsdW1ncnoxUnJtcGFQdEdjXzB0SktDZ2k3T3VVQUk1OE11bXV4RWIteUt4czNJMWdXb3dJN25tTjNSaGVlekhMLXpYUlVZUjVoMFRtYXVzNThUanAxbkFqLWNudFdQOGhfRU40U0J6QmhiaUJoSkpLOEY0T09UcUhXUDU4TWxlMA?oc=5",
+          "description": "Technoprobe, la big tech italiana dell’IA è salita del 152% nel 2026: dove può arrivare il titolo? Morningstar Rally per l'indice delle società High Tech italiane (+3,53%) Borsa Italiana Technoprobe, ecco quanto crescerà il contributo della Cina nei prossimi anni Milano Finanza Il colosso lecchese verso il debutto tra le quaranta big di Piazza Affari LeccoToday Technoprobe: una storia di successo ",
+          "pubDate": "Tue, 18 Aug 2026 05:18:57 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: Milano chiude in calo (-1,06%), pesano Stm e Prysmian",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/borsa-milano-chiude-in-calo-106-pesano-stm-e-prysmian_ca5c67f5-9765-4a08-b680-3a2359b1109e.html",
+          "description": "Lo spread sale a 81,6 punti. Brillante Nexi, positive Snam ed Eni",
+          "pubDate": "Tue, 18 Aug 2026 18:19:39 +0200"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "arriva",
+      "n_items": 7,
+      "n_sources": 7,
+      "category": "tech-ai",
+      "score": 55,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ex Ilva, arriva la manifestazione di interesse di Federacciai: una cordata di 14 aziende - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQmtDYTJFSGJDN200Ym1tcUxpendMakxHcEdOSnlpVlItbjROMktkV0VxakVQcVRyYjhNLUVyZy1DcFByYkJCMFVhLU5CR0ctUjBFbGV3akJuMm55MFBrR2w5TURQdUJhRXQ1Yk1rbDJsZDBDZDZRWThLZThKOVVSRk52ZkxHa25NSGRYT1MwRC1pVXdSdHRiN2c2M1FTRWJRcDM5aDV2cnN1Tmt5WE5zRjJlZFRnSmJWalFuUjJHaFBnTElYeW1OUGVNRkVjYzhGWVlyX1c4QVZRUW5XQTd0SWR3?oc=5",
+          "description": "Ex Ilva, arriva la manifestazione di interesse di Federacciai: una cordata di 14 aziende la Repubblica Ex Ilva: Federacciai presenta la manifestazione d'interesse per gli stabilimenti RaiNews La cordata italiana fa l’offerta per Ilva: migliaia di esuberi Il Fatto Quotidiano Ex Ilva, Federacciai e 14 aziende italiane in campo per gli impianti La Stampa Ora alcune aziende italiane vogliono comprare ",
+          "pubDate": "Tue, 18 Aug 2026 17:17:58 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Qusra, il palestinese-statunitense Loui Ridi arriva a casa con la bandiera Usa e la issa sul tetto - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeURyaXNBeHlhT3FYaFNqRkJLNGJUUGd2ZUlkb0FONWVpZ2xIV0V4WU9zbkNTWHpWNlJiaUZWbndnaGVUWEdiajdmOTJ3Q3Bfc0NzVUpuUnlIVWIxREVNb2M4NGRZU2VycHYxU0cxUDQ1NGRWajd0ZkJ6eGYyUGxUZlVMTTJSMVVheXMwNWFLMmNfNk0?oc=5",
+          "description": "Qusra, il palestinese-statunitense Loui Ridi arriva a casa con la bandiera Usa e la issa sul tetto Il Fatto Quotidiano Ridi l'americano torna a Qusra, in Cisgiordania: «Non potevo permettere che i coloni mi rubassero casa» Corriere della Sera \"Questa è la mia casa\": il video di Loui Ridi affronta il colono a Qusra Il Fatto Quotidiano Qusra, tra le strade assediate dove la destra cerca la spallata ",
+          "pubDate": "Tue, 18 Aug 2026 19:27:34 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "La ragazza somala trova asilo in Germania, ma si apre il fronte svizzero",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/18/la-ragazza-somala-allansa-sono-molto-felice-di-essere-al-sicuro_8aba0447-dd59-49dc-86bc-bea109587447.html",
+          "description": "Berna: 'Da agosto riprendono i trasferimenti degli irregolari arrivati dall'Italia'",
+          "pubDate": "Tue, 18 Aug 2026 20:05:25 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Technoprobe, la big tech italiana dell’IA è salita del 152% nel 2026: dove può arrivare il titolo? - Morningstar",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQelkzc0RQeEdZN2xhMEJGWmktZVBuZGZRSzJKU0xyZkphSGhxa2hCUjBLRWVocVdORDZ5R0VVU3NQdXZ4NHcxbUVkdHlsdW1ncnoxUnJtcGFQdEdjXzB0SktDZ2k3T3VVQUk1OE11bXV4RWIteUt4czNJMWdXb3dJN25tTjNSaGVlekhMLXpYUlVZUjVoMFRtYXVzNThUanAxbkFqLWNudFdQOGhfRU40U0J6QmhiaUJoSkpLOEY0T09UcUhXUDU4TWxlMA?oc=5",
+          "description": "Technoprobe, la big tech italiana dell’IA è salita del 152% nel 2026: dove può arrivare il titolo? Morningstar Rally per l'indice delle società High Tech italiane (+3,53%) Borsa Italiana Technoprobe, ecco quanto crescerà il contributo della Cina nei prossimi anni Milano Finanza Il colosso lecchese verso il debutto tra le quaranta big di Piazza Affari LeccoToday Technoprobe: una storia di successo ",
+          "pubDate": "Tue, 18 Aug 2026 05:18:57 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Oltre 3 miliardi di euro di danni alla produzione agricola",
+          "link": "https://www.ilsole24ore.com/art/oltre-3-miliardi-euro-danni-produzione-agricola-AJJINuo",
+          "description": "Siccità, cambiamenti climatici e insetti alieni si abbattono sulla produzione ortofrutticola e il conto dei danni è arrivato a oltre 3 miliardi di euro tra danni e gli extra costi...",
+          "pubDate": "Tue, 18 Aug 2026 14:01:40 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "says",
+      "n_items": 11,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 50,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Trump pauses 50% tariffs on Canada for 3 days - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ0JmNE9BTlRBeUhlOURZanBDcTVvb1Z0VEc1elUtblkwMU9PS0JqREVqb2xNRnVGOThwUlZ4VGRtRV9PcURZSjZxZlJ6UU5zakJHa1A0OWU0WGVQMzQ4OW9raHBXcnlsV01ldGFRaEtJaWx4TFV0NF8xcEZHXy1fV1dEWmk5dw?oc=5",
+          "description": "Trump pauses 50% tariffs on Canada for 3 days NBC News Trump pauses 50% scheduled tariffs on Canada for three days, announces 'deal' with Ottawa CNBC Trump postpones 50% tariff he threatened for some Canadian goods CNN US, Canada reach trade deal to avert steep tariffs, Trump says Al Jazeera Your favorite cocktail could be an unexpected casualty of Trump's looming trade fight Fox News",
+          "pubDate": "Wed, 19 Aug 2026 02:22:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Politics drove antisemitism probes against Ivy League schools, DOJ whistleblower says - washingtonpost.com",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYWJlMFF0R3FPa1hmZkZld2ItOVpXYnZpRk4xQ1hVSmh0UmFodnN5Y09oZVZxSzJ0QUtYZjU2TkZ2MTRwTklDR0hEZUNTa2ZfWDlEa1EwdmlrTnZJT3BzeEJ3bHJCNmhCRkNrT3ZFX1k0RmVob295YnhhcW9LVE0tZEg5eDZrRS0wWGdwTkpfTE5xWUptd0RVUXdIUnlRbGJfWURoNm9CTGtnSW45NUFuSld6MFJvZFNMM2FESHpXYnJkcmZu?oc=5",
+          "description": "Politics drove antisemitism probes against Ivy League schools, DOJ whistleblower says washingtonpost.com Trump Officials Ignored Their Own University Investigations, Lawyer Says The New York Times Former DOJ lawyer alleges Trump administration abused investigative process to target Harvard, Brown and Columbia CBS News Whistleblowers accuse Trump administration of ‘predetermined’ outcomes in Ivy Le",
+          "pubDate": "Wed, 19 Aug 2026 02:41:45 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump to tap Heidi Overton as FDA commissioner - Axios",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMVlFZWTdKS3dmWjBXcjNGcEkxLXhyZnUyYUx4VjN4UlUwUUlucUc4T05Qa2xnc1Z2LUFHU2pvOGxPNHc0VV9yVlBleEs1Q0hIWVdVNEVaSTRqcnFJRURRQ3BrakNkcEtZbV9xVWt6U2ZWUkw2QnUzNA?oc=5",
+          "description": "Trump to tap Heidi Overton as FDA commissioner Axios Trump to Nominate Heidi Overton, a Top Domestic Policy Aide, for F.D.A. Commissioner The New York Times Trump picks White House adviser Heidi Overton to run FDA, source says USA Today Rep. Buddy Carter Emerges as a Dark Horse Candidate to Lead the FDA News of the United States - NOTUS Trump Taps Dr. Heidi Overton to Lead FDA WSJ",
+          "pubDate": "Wed, 19 Aug 2026 00:41:07 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "The Moscow region is hit by almost 800 drones as Russian missiles kill 10 in a Ukrainian village - PBS",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc3ktcUg3SXZ3ZWFCMkpNcldFNVhJcVE3czUxWHZwX0ktWUMzX1pDQ1hncTFwa1RidUM0YnRiRl9iY0d5UDl6Qkg2YXIwSXBNWXZpVllwQ1RzajJ5akpCNThlT2hlakFZS1hNem1HVjh1ZFhSQy1aajJRamN6RkdsTXl5OGhBS0hXbkJzelp4ZjllVDRvLWtYZzVUMmI3dkV1b0RGVXRvZDJLT0ozaUgxNG0teWlNQkkxZGN1UXdjMWhiam1VXzhSSktYUdIB0AFBVV95cUxPRmUzN0JsWlVvVG1nRHlUZ3loZ2xudnNXX1ZFVk0xbWhHajZNT1l1cTBIR283djlFRzdSc25XVERCVVUwZzZiaExEa1NPSnBBdWl0Vll3aU43NXJYdUVWQzRuRmVjcExJVDRGd3BxWnFOZEJuNW1wbzVXa3dydUxZdHYxcEE3SFFSQjF1dzFaakg4bVJteGE0Z28wbHZUNGs1UWZwRGhWaWg5a290RjZUZnlxdnV2cUxCU2lVY1RjU3V1bkJwT1N3SDNudDl1UkpR?oc=5",
+          "description": "The Moscow region is hit by almost 800 drones as Russian missiles kill 10 in a Ukrainian village PBS The Moscow region is hit by a drone blitz as Russian missiles kill 10 in a Ukrainian village AP News Russian Offensive Campaign Assessment, August 16, 2026 Institute for the Study of War Ukraine launches 637 drones toward Moscow, mayor says, with Wildberries facility hit ABC News - Breaking News, L",
+          "pubDate": "Tue, 18 Aug 2026 21:44:26 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Russia's Lavrov says Britain risks being seen as party to Ukraine war - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU2NwX2twY3lzTEdIRkdfNzBRVUFGcEhFMmtWS1Y0ZUhLWWpsWVlGZDVsaDVfcVVXY3daRXFReEF4VnJTUjZqa25Jcll1NjEtT0FhbTlIV2JPeVh0dGJVRXFXMC1TMGlPMFQ4dTk0dEhUcm8ydDFzWUwydkUzNVQ2eEtEU2Q0QU1qUjZUX0pVQU5NMDctYWpDcm9SQ2NZWFpUUGVIc0dOQnhhWk0?oc=5",
+          "description": "Russia's Lavrov says Britain risks being seen as party to Ukraine war Reuters Why has Russia threatened the UK and what happens next? bbc.com ‘We Won’t Be Bullied’: U.K. Responds to Russian Threat Over Ukraine Drone Support Time Magazine Why is Russia threatening UK with ‘consequences’ over Ukraine drones? Al Jazeera Moscow threat of ‘consequences’ will not alter UK support for Ukraine, says Burnh",
+          "pubDate": "Tue, 18 Aug 2026 16:53:44 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "lancia",
+      "n_items": 8,
+      "n_sources": 6,
+      "category": "general",
+      "score": 48,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-mondo",
+          "title": "Iran nega di aver lanciato missili contro gli Emirati, 'accuse infondate'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/iran-nega-di-aver-lanciato-missili-contro-gli-emirati-accuse-infondate_3fa3041e-4b7f-46d9-b7cd-7b8c54d0f04b.html",
+          "description": "",
+          "pubDate": "Tue, 18 Aug 2026 23:25:42 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Unitree verso l’Ipo dei record: Pechino lancia il super robot e sfida Musk - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMDdzZ05ZbXZvd202U3U1dmlUSTFXLWhual9kS0xoQ0JIUHpVVmx2akxoU2lSVE9MaERqVFpnblA2eW5aMklKbjlRUVcyRWlVakFlY25WVXdzRXRUYTBlQmZVVnJweVBaNnRJNTZDalVvYXRralZoazk2M3huMWxreFlva1hkYThma3k1a1YxTkVWa19XRm9meHpRSzRDOUN6bXc?oc=5",
+          "description": "Unitree verso l’Ipo dei record: Pechino lancia il super robot e sfida Musk Il Sole 24 ORE La produttrice cinese di robot Unitree debutta a Shanghai col +629% ansa.it Robot umanoidi cinesi sbarcano in borsa, debutto record da 1 miliardo per Unitree RaiNews Ecco Superman, il nuovo robot Unitree da record: corre più veloce di Usain Bolt e salta da fermo oltre 2 metri. Il video dday.it Il nuovo robot ",
+          "pubDate": "Tue, 18 Aug 2026 19:51:37 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "OpenAI lancia ChatGPT for Teens, chatbot per ragazzi tra 13 e 17 anni - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPenNwbEVoQUFtTlRuRWpuQkZfb2ppVGpYRERZTGNsNW9MYi1MV3RiS3lVanF6QUxvSTE4Z1VJVG5BMTZXN0d5MGVhVmVmaEFRZmhrSjltOVZ2QmFuVWJQbEtTVFh6a0VxVmFjaTJQU2hLcnBqZDNMNHM4OVM1RTJfNlRVbGUyNGM?oc=5",
+          "description": "OpenAI lancia ChatGPT for Teens, chatbot per ragazzi tra 13 e 17 anni Sky TG24 OpenAI annuncia ChatGPT for Teens. La sfida è evitare la trappola dei social network Il Sole 24 ORE OpenAI lancia ChatGPT for Teens: pensato per aiutare a studiare e con più protezioni per i minori dday.it ChatGPT for Teens è ufficiale: ecco cosa cambia per i ragazzi tomshw.it OpenAI lancia ChatGPT for Teens Adnkronos",
+          "pubDate": "Tue, 18 Aug 2026 13:54:59 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Cambiano binario  i treni turistici delle Ferrovie",
+          "link": "https://www.ilsole24ore.com/art/binario-morto-i-treni-turistici-ferrovie-AJsAwLo",
+          "description": "Su un binario morto Fs Treni Turistici Italiani, la controllata di Trenitalia lanciata nel 2023 per valorizzare il business dei convogli ad hoc per itinerari turistici, storici e religiosi come...",
+          "pubDate": "Mon, 17 Aug 2026 16:34:00 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Garmin lancia il nuovo Tacx NEO 2T con Zwift Cog e Click - BiciDaStrada",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwVGpxS3NmbWhuYnZaR2pBdVp0clBGMTJGeWVINTFHNUs1Z19rTm1hRXBWRnlIQ3hnLUg5NFRtaVU4aG5IYXlTc3lDMURLeHlOVmM3NTJFMUxabl9udzVpUTE3aXdocTloclRXZkszYVh4OXJmZklDNQ?oc=5",
+          "description": "Garmin lancia il nuovo Tacx NEO 2T con Zwift Cog e Click BiciDaStrada",
+          "pubDate": "Tue, 18 Aug 2026 16:47:25 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "calo",
+      "n_items": 10,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 46,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Borse in calo, volano i rendimenti dei titoli di stato - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ2J2NkN5ZW5YTkFZX1FrdHplTjQwUUhxOHJ5eWtjX2Y1NEVGX0stOF9Gb0R2Mk1lWk5FN01oUnNVNVZVSFItSkhXVm55S2k1SjJIYVh6TW9LSmJQSzdZY0ZfVWhWUEhfVURUZ3gxU0pudVFPcFA5Rm9scmJFNlA2YWJRWVlJRlkxMUp4TVF0SUQ1Y0lEV0gwTUpKMFgzdVFxNlFuRWx1UV83XzU3c3J4MEFTS2otTXkxQ1NaTHNHeU5HZ0tSWWp0dlo1cEREWDMt0gHWAUFVX3lxTE9IR05pVUFtaGRkT19LeHk4cXBPMGt4QVRSbURCYTdBdHJrMTdidHhEZ0tST2E5eHJYaWh0WHZ4dlRQYUtMQ0dCRlR5ZEJpMkcxRGhNRkI3YXpiYkZsdnZjMVBkRlJwR3lNcEJEbXBRcGkyTFZqeUZMT0k3RUFiSTJmalNBdXVEemF4SVVPTjhRVGxWaHpwX2kxVVhNNVZ4X1g5ZTY5d2ROZldZQXltWkRQS0FuVGtYM2t5elp4aEhhNXJ1cVJyNXlZaTBrTG15Y3BUMlMyLUE?oc=5",
+          "description": "Borse in calo, volano i rendimenti dei titoli di stato RaiNews Borse europee in rosso con Piazza Affari in coda Borsa Italiana Piazza Affari giù dell’1,06%: Stm e Prysmian affondano il Ftse Mib SoldiOnline.it Le Borse oggi, 18 agosto. Per l’Europa chiusura contrastata, Milano maglia nera -1,06% la Repubblica Borsa: Milano apre in lieve calo, Ftse Mib -0,18% ansa.it",
+          "pubDate": "Tue, 18 Aug 2026 15:49:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Oro, Goldman Sachs: \"Acquisti record e ancora prezzi in salita\" - Bluerating.com",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTHh1aWswSkFoeHhWSno4eWhYOVVDN1ZTWnJUdnhRSE1uNFNRbDNJTGJHUVdlSTFNbFJlajVOUkU4TnV6dU1Eb1dFU0tLQWZVaXg1N1FYNTBoTkZoVjJGOUtLaFFKQ2k1OUgzaGpJZWhGR09tSmtSaWd5Q3B3QmtwMlhFVDdpREM0WkpaRkpvOE01aUI3Qk9rLWVR?oc=5",
+          "description": "Oro, Goldman Sachs: \"Acquisti record e ancora prezzi in salita\" Bluerating.com Il prezzo dell'oro in calo a 4.443,00 dollari l'oncia ansa.it Dopo un aumento dell’8% ad agosto, anche i trader di opzioni sull’oro puntano a ulteriori rialzi Yahoo Finanza Oro verso quota 4.400 dollari l’oncia: cosa sta succedendo ai metalli SoldiOnline.it L’oro si stabilizza dopo il calo, pressione da petrolio e rendi",
+          "pubDate": "Tue, 18 Aug 2026 08:31:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Bollette luce e gas, truffe per 650 milioni: chi rischia di più - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeURNUmp6TlBobnBQaU44cTFrNmxGNzZWWlJKUjhJekxCZnRYWXRUUmVKTUczdG90LUtaMHEzNjUxRUNZdml5UXEtNDVVdHlJbUxwbFJWRVd0N0JVMUZwbThzQ2lNWHdVdDNEOWtneG8zVGdBdE5qRXl1RzdEbGdpRFJBeldvTWcxbnUwMGQwTWlEb1Q2dEotRUpMQWNFdmlHNkZxOElDOUNMaHM0M0RQbnhRczA?oc=5",
+          "description": "Bollette luce e gas, truffe per 650 milioni: chi rischia di più SoldiOnline.it Truffe sulle bollette per 2,9 milioni di italiani ma il dato è in calo: telefono maggior pericolo Il Sole 24 ORE Bollette luce e gas, 2,9 milioni di italiani truffati nell’ultimo anno. Più della metà non denuncia Il Fatto Quotidiano Bollette, 2,9 milioni di italiani vittime di truffe: danni per 650 milioni. I consigli p",
+          "pubDate": "Tue, 18 Aug 2026 13:11:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "La crisi di Hormuz smaschera la fragilità energetica del Sudest asiatico - Il Bo Live",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVXZueWdUSXUwUDY2Q3E0cm5Gck00Mk9TZjFZRXZpcDFNWGpqOE1ZNjZNb0dhSW51aENYd20wSXg5TS1EeEN1VVoxdklXUkg5WnNWa2RUdFdHNWxzS0RWZkJBNklpcnpFWE9vX0JaN3VpdkJ5Y2UwYWRYR1ZneVJrNEFjQzhRNVREdC05QnctOGJqOTJWOGc?oc=5",
+          "description": "La crisi di Hormuz smaschera la fragilità energetica del Sudest asiatico Il Bo Live Petrolio in rialzo, Wti a 85,23 dollari al barile (+0,86%) ansa.it Wall Street chiude in calo Borsa Italiana Il paradosso di Hormuz: lo choc energetico non piega più i potenti. E il conto passa ai Paesi più fragili (e all'Europa) Corriere della Sera Rendimenti obbligazionari e petrolio in rialzo aumentano la pressi",
+          "pubDate": "Mon, 17 Aug 2026 12:00:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Pichetto, per flessibilità energia misure a studio, da pompe calore a ferrovie",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/18/pichetto-per-flessibilita-energia-misure-a-studio-da-pompe-calore-a-ferrovie_bdc67df3-7696-4cb6-8d9a-78ed47dcc09e.html",
+          "description": "Impegno Mit per inserire anche sconti ai giovani nei trasporti",
+          "pubDate": "Tue, 18 Aug 2026 19:21:15 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "iran",
+      "n_items": 7,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 41,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Emirati, 'sospesi scambi commerciali e transazioni finanziarie con l'Iran' - Ultima ora - Ansa.it - ansa.it",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONkVlZlZuWUk3MUk1d3pMOGw2Zl82Q1N2eTMyZ1JJblZaYmNyWEYydXdhajRaUWRfaW54TWJya1RyTnpBWWhMdUMxZ2pyQlRLY0c2QmpYOVV2N21KSDZxZmFwNmxkVkM4VTlLQXRYaHdaRGRlOUVBTTNKS1R5ZVp0VGdqNngzdmVDM0dUd2d6YmJGdGxaRjdkZTZWaHNQSy04TFYxOFFZbGVoUDF5ZHpIOUdOUU5DZ1hxb2d4MzZYYUY5d3JnVDdMenMtR2c0QnNYV3R2NEVYZWVLSmZHWDFJbzZIRjBUUTBudE5DdHNjT1cyQ1MwVnJz?oc=5",
+          "description": "Emirati, 'sospesi scambi commerciali e transazioni finanziarie con l'Iran' - Ultima ora - Ansa.it ansa.it La sfida di Trump a Teheran: «Hormuz è territorio Usa». Allarme missili sugli Emirati Corriere della Sera Attacchi di Israele contro Siria e Gaza, missili iraniani intercettati dagli Emirati - Attacchi aerei israeliani nel sud del Libano segnalati da Al-Mayadeen RaiNews Stretto di Hormuz, nave",
+          "pubDate": "Tue, 18 Aug 2026 21:27:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Trump posta su Truth la cartina di Hormuz: \"Nuovo territorio Usa\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON29JaWlnaUdSZ19rc202MHdWQlAyMTVDLXpIenZGV1Z2QUMzMFZVV1YyeFphRnRfR2IxaW05NWIxRDlnMmVWYzdwTTZvb0doX0FSbjY2bjVmUGxsS0dGYm5XLUdwbUEyNUhGamdDcUE4Q1htczROVmdHQ3pBamJWZkNKdw?oc=5",
+          "description": "Trump posta su Truth la cartina di Hormuz: \"Nuovo territorio Usa\" Sky TG24 Trump posta la mappa di Hormuz, 'nuovo territorio Usa'. Teheran: 'Si illude' ansa.it Guerra in Iran, quanto sta danneggiando Trump in vista delle midterm? Sky TG24 Saied Golkar: \"L'Iran si prepara a sostenere una prolungata pressione militare\" (di N. Boffa) HuffPost Italia Guerra Usa-Iran, le notizie in diretta | Corriere d",
+          "pubDate": "Tue, 18 Aug 2026 13:23:30 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Mai così male | Solo un americano su tre approva l’operato di Trump - Linkiesta.it",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa2lLYUVfalU4Z2l2Ukt5SXl2WVhMVlBfV1lKVVM1SDhpZkZhaXBYNDM5VFFXU252V2dpN1pTRWx5eHh3aDNnd0xNSDRTMUN0U21UeVcxblVnMllOT3VEV29JSGNvazJOWlp4ajZQWXpEcEI3a1hlSEFjblRNTXZmYlVzU3JGS2s1VU1LZmN3?oc=5",
+          "description": "Mai così male | Solo un americano su tre approva l’operato di Trump Linkiesta.it Usa, la guerra in Iran ha fatto sprofondare di nuovo la popolarità di Trump Sky TG24 «Le tue finanze sono migliorate dal 2025?»: il 53% degli americani dice no e boccia Trump Corriere della Sera I repubblicani affrontano il test di metà mandato mentre gli elettori si disilludono sull’economia di Trump Yahoo Finanza La",
+          "pubDate": "Tue, 18 Aug 2026 05:27:35 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Emirati, 'sospesi scambi commerciali e transazioni finanziarie con l'Iran'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/emirati-sospesi-scambi-commerciali-e-transazioni-finanziarie-con-liran_0b703c70-6c2a-4317-bfd9-235e3eee0c4a.html",
+          "description": "",
+          "pubDate": "Tue, 18 Aug 2026 23:28:06 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Iran nega di aver lanciato missili contro gli Emirati, 'accuse infondate'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/iran-nega-di-aver-lanciato-missili-contro-gli-emirati-accuse-infondate_3fa3041e-4b7f-46d9-b7cd-7b8c54d0f04b.html",
+          "description": "",
+          "pubDate": "Tue, 18 Aug 2026 23:25:42 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "tech",
+      "n_items": 8,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 38,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Ai, perché lo scoppio della bolla può travolgere anche il risparmio Ue: la scommessa (inconsapevole) da 440 miliardi delle famiglie europee sul tech americano - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPOVprc1laelpuaG9NQzg2S2o3QjFVbjdWcFNhRE5EN1lVZzgwUXk1NTZNb0RUUTZrUFVjcTlRUFpkY1dtQ3NpOGdueUZiVVVvSUh5a0RBWm1GUl9kZ0lLaDFyTkh5S2xzWHNDQUxGSkhrclhROWZ5UzBMeFFGSnc3cC1TbjZKQ3NpeHVRSVo5MlRDa0oxbWxJdm0yUHJDb2gteHdSNFFNdXd2VnNwbVhaeUNiRFlEdFVhNUd6NkVxcWJPNjEzUVNnQ3Zld1Z0UGY2V21NbWJPeThJWXFSY3A2T0RqNXl4WVBQbFVabzZHd2lfQ2tIb0N3c1ZPeENheEdRV0xRalQ4QXdqU3V5NzNWTXRnNk9fQl91TWJRbDZ2R3N6X1lsb1YwSk1YSll1WnBkMF9mU2t2bzFtT3BTaF9VUkJNWmFISHPSAcwCQVVfeXFMUDRQRHJNcG84Y3pRM1dnTXhPZFBMUGl1YV9xV0FyQURYeW8xWEJuaDhkX3NDQk44QVBPWDM5d0diUTROTkNPaFIzcExZOHpncWZYY0o4REZrVlZlZkRxRnRENllFellRV0xPaWJKT2VkWmNVZmx3ZkpSNVdjdmxjbU01ZUt5TWMzclZHdUpER1E2WkdZYXdlRFJleVpTOGllZmRlaDV0d090YnU2Q1R1cE1vOWlUOWJIbmt6Yl9DanN4Y29kS2VvUGQ0STU0QjNhM0ZEQXlGQnY0THg2UmdDXzlodXo3WFp1VmZvVjRud3NIZUc1ZDhyUkE5QzdaaHNOUEIzaGVLbjVGMUhKRzR1ZVhYTzBadWVTSUdRenBvQy1UUmNtMjJMUUFmei1uUmY0RGk2M3hZS1VNTWljV2FnTHBIYXNWWmwxZ3Vtd3E?oc=5",
+          "description": "Ai, perché lo scoppio della bolla può travolgere anche il risparmio Ue: la scommessa (inconsapevole) da 440 miliardi delle famiglie europee sul tech americano Corriere della Sera Rosa: “Giusto richiamo, ma rispetto alle altre crisi le aziende sono solide” la Repubblica Intelligenza artificiale, Bce: rischio nuova bolla come per le dot-com Sky TG24 Il debito dell’IA spinge il rendimento del Treasur",
+          "pubDate": "Tue, 18 Aug 2026 06:21:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Technoprobe, la big tech italiana dell’IA è salita del 152% nel 2026: dove può arrivare il titolo? - Morningstar",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQelkzc0RQeEdZN2xhMEJGWmktZVBuZGZRSzJKU0xyZkphSGhxa2hCUjBLRWVocVdORDZ5R0VVU3NQdXZ4NHcxbUVkdHlsdW1ncnoxUnJtcGFQdEdjXzB0SktDZ2k3T3VVQUk1OE11bXV4RWIteUt4czNJMWdXb3dJN25tTjNSaGVlekhMLXpYUlVZUjVoMFRtYXVzNThUanAxbkFqLWNudFdQOGhfRU40U0J6QmhiaUJoSkpLOEY0T09UcUhXUDU4TWxlMA?oc=5",
+          "description": "Technoprobe, la big tech italiana dell’IA è salita del 152% nel 2026: dove può arrivare il titolo? Morningstar Rally per l'indice delle società High Tech italiane (+3,53%) Borsa Italiana Technoprobe, ecco quanto crescerà il contributo della Cina nei prossimi anni Milano Finanza Il colosso lecchese verso il debutto tra le quaranta big di Piazza Affari LeccoToday Technoprobe: una storia di successo ",
+          "pubDate": "Tue, 18 Aug 2026 05:18:57 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "The critical tech staying safe by going underground",
+          "link": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
+          "description": "The war in Ukraine has spurred people to consider putting vital infrastructure underground.",
+          "pubDate": "Tue, 18 Aug 2026 23:25:21 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear - TechCrunch",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVF1dmt6aWNubkNmblJOTU5ReVotT2R5Z1hvNDI4OVFucGY4RkdoWk5sSDN0TFZtaS13OXp3THFDUmozNzdNblVOYTFLVnktQUZBbjhqQTh6azk3NGVOSW94clBIdlFrVFhFMDRvNmJQajBzVjNLaU5FdjJVRF9PYi1obGUxR0x0eUFUNHVqOWJkRzlFLVR6cnZoS1J3d1Q1MlNrSEM4bHJVZWZMOG50VGNR?oc=5",
+          "description": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear TechCrunch macOS Tahoe 26.7 is Full of References to Unreleased Apple Products MacRumors Apple’s new macOS update reportedly contains a video of AirPods with a camera TechCrunch Mac Software Beta Reveals AirPods With Camera The Information AirPods with cameras aren't the only new product that Apple just leaked Mashabl",
+          "pubDate": "Tue, 18 Aug 2026 16:19:10 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Spotify's Running Mode Is Now Available On Android - Engadget",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMm9TZWJsaDdkd0NoTzExUGlNdTJVVy1ybm1FUkJWUm10WEVQb2VPY2VjVlc4Y3Y3NHY5czhhLWxhanZ2V3FqZnpBalVqSExuekhLRFdzcHdvZzJQa2dDSE5DcGVKQnlSVlE0WC1HVTdqUmFvcHNIcVVkdlY4Rzg3Z2pUS2JvaTRsdlJv?oc=5",
+          "description": "Spotify's Running Mode Is Now Available On Android Engadget How to Get the Most Out of Running Mode Spotify Spotify’s new Playlist Notes let users and editors explain their song picks TechCrunch Spotify just rolled out a new personalization feature, and thankfully, it doesn’t involve AI — here’s why I think users will love Playlist Notes TechRadar Spotify rolling out 'User Notes' and 'Running Mode",
+          "pubDate": "Tue, 18 Aug 2026 19:36:58 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "russo",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ucraina, raid russo su Kharkiv: “10 morti”. Russia: “620 droni contro Mosca” - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWEFNcFlhNXFYYndBdWpqUUx3b2JYcERsWXdsaG5lT1hjZDZGZXVVMHh1WjR5YTk3RzZLUE9Rc096ZFhKSUExbE1qR2E1WTAtU0FVXzB0eDRkM21LM2xuRUp5Q1NwZE9oX1M0bzRoVlhhRWluQU04ZjZqd0ZnNW5hRDFJeXZtc2NLZnZjRjJqM0g5dmtXandfWF84NUxxanhtMDM1eFBwNA?oc=5",
+          "description": "Ucraina, raid russo su Kharkiv: “10 morti”. Russia: “620 droni contro Mosca” Il Fatto Quotidiano Missile russo sulla regione di Kharkiv, almeno 10 morti ansa.it Guerra Ucraina-Russia, le notizie in diretta | Corriere della Sera Mosca, l’attacco più duro: oltre 800 droni ucraini si abbattono sulla Russia la Repubblica L’avvertimento di Mosca a Londra. “Pagherete per i droni a Zelensky” Il Fatto Quo",
+          "pubDate": "Tue, 18 Aug 2026 20:28:39 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "L'ex ministro della Difesa Fedorov chiede elezioni: \"La democrazia non sia ostaggio della Russia\" - Presidente Lituania: “Non toglieremo il nostro sostegno alla Corte penale internazionale” - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQWE9LeFBtdUJ1QnA3UXhjV2M5ajFiWTNYSl9iNFVJTmtheGxid2dzd1pmZ0ZEV09raGt2YWt1Q0pCbjM2NHE3SExlbkg3alM0cUhiM1pLUFRVcE5fcjdrd0NFc1NzRHpfWGlJMXkyRkVGQUdaVW5oZjFmaWhRV2YtT0x4aTM0SkdpZTJwNXpLWXczT0p2OFNtVUlvLTFZZ2Jqc2o1eC1xQTk5OC1KcG1mLWlFeWFQVXhLNGpZUUFBV3E5elVsTXJnbENJbXpGZldIZHNIdXhtY3BZM1JiWnk0NGxKNnlPX1ctUzBLOWF5QlpXNDNpemEzQ3FzOFd5VHQxdHk1RkJNckQ0MHhKZW9JTk9ybXNFeUk2SFRZbzQtNlJYd1o2WWwxSzRNOUVrQdIBswJBVV95cUxORjAzS2lKeDUzTXJLdFZLM2ZkREUzWURhOEN0WUVJeUZmZXl5QXdPSndLOTRmci04ZzlJOGRNcDc2TUY5ZjB6Z3NKVVlHck9jTGxNbTFlSWFyS0haOVFOY1pnQ09GZ29BeHF2cEhMOGJaS1Y5VmwxbTlxN0tIYWdpcXFMV0tGYmpfQ1J1VHpuSDRoai14TnFGaENEazJaSW83UHJpVE83bXNTUUtTX29pYVowaHB1V2RTTU1jdVVZQ1otbXk5WHFVVGl3UkQzTENicFpSN3Y5VlJDNXdmWlZxVUYtZUtqLTVzeHdoWHd1UFFqOHVRWDNMb29mUEpPRkRQaW94cmtYQTgxRnUxd1pSSGZxMmlHMUw4QThnckQ4b1dtcElnUmxlYUF0QmtsTUdDcEpB?oc=5",
+          "description": "L'ex ministro della Difesa Fedorov chiede elezioni: \"La democrazia non sia ostaggio della Russia\" - Presidente Lituania: “Non toglieremo il nostro sostegno alla Corte penale internazionale” RaiNews Guerra Ucraina-Russia, le notizie in diretta | L'ex ministro Fedorov chiede elezioni in Ucraina: «Democrazia non sia ostaggio di Mosca». Missile russo sulla regione di Kharkiv: 10 morti. Zelensky: «Risp",
+          "pubDate": "Tue, 18 Aug 2026 21:26:22 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Ministero difesa russo, abbattuti 11 droni diretti su Mosca",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/19/ministero-difesa-russo-abbattuti-11-droni-diretti-su-mosca_2553d69f-725b-40a2-a211-6a4889d57d51.html",
+          "description": "Lo ha dichiarato il sindaco Sergey Sobyanin",
+          "pubDate": "Wed, 19 Aug 2026 01:58:02 +0200"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Missile russo sulla regione di Kharkiv, almeno 10 morti - ansa.it",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVGtCS1NtX0oxRlFBbTFTVDM1RW5JQUM2OWVETURkZ0U0czZnYWhrQ2VucjdpVi0yRUdFcXB3eW1qc19vYmprSTRoY1BoLU1oVFRLWU5KeFRJaWJKMzJBbXhWVFNHb3JBWThvSEpVVVZwY2NpTkFnb256eGxFcDl2V2JQYUVFTE1yeEt4Ql9fVERwaFBpa05MZkRicjV5RDVHQ3NNWEVoUTBLYjliVGpUTVZzUWJNcnIxOTJ3TlNSTEJIVm5DQmRaSHRmbFpzWFRiaDhUVnR5U3B1ZlpBVlpVedIB5gFBVV95cUxOeGRRTDFIMGs5RzhqdjBMOGdncHJkVTRuVlFzMldRZmszdkVHUl9aZGE3enFHb0VfWURPWnFlVXhCS2pWQ0NGekpHbVNzMWVhbWtTZzJ1dHpDbDYzN1Myc1FYUXBYX0VyYWdaSVc3d04xR3dVQjBtb1lGRXRMZ2NGdnBKT0tBMGdVaENkWlc2WmpJMXc3WkNIajNjTnFEM3RmRGEwWWc3WXJ0ZUtxTlVUdGtNT280Z2RwXzA4M3NCSkNyTzBlT0Z2QVM1WG5FRnRmQVlHZWRXblB0TlRWdmdpRWtLci1Udw?oc=5",
+          "description": "Missile russo sulla regione di Kharkiv, almeno 10 morti ansa.it",
+          "pubDate": "Tue, 18 Aug 2026 20:25:00 GMT"
+        },
+        {
+          "source": "ansa-cultura",
+          "title": "L'Ucraina contro 'Dau' alla Mostra di Venezia; Biennale, 'non è un film russo'",
+          "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/08/18/lucraina-contro-dau-a-mostra-di-venezia-biennale-non-e-un-film-russo_e48fd34c-e681-4174-b43d-4efbd4be8706.html",
+          "description": "Ministero Esteri di Kiev, 'segnale preoccupante'; istituzione veneta, 'affermazioni false'",
+          "pubDate": "Tue, 18 Aug 2026 21:11:30 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "record",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Treasury Usa ai massimi dal 2002: il deficit vola a 432 miliardi - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd1N5eTJQWWdXTWFiX2RIcWhUTnRYYmdUNmFnOUFBejBKOGx1OW1uLVFGMXJpT09iNEsyTmp3clRkX0RyN3Uxb0ZWdTVVSWdFMnRiYU5zcWJGWXlLa0JpdHpoMFo0YTcyTjJ2TnV2OEs5dGFHZ19iYmlEVVdzRXdNUUlqODF4NUpmSUhhZ2xIQXNjU0U?oc=5",
+          "description": "Treasury Usa ai massimi dal 2002: il deficit vola a 432 miliardi Il Fatto Quotidiano La diretta da Wall Street | Borse Usa chiudono in rosso, Nasdaq -1,3%. Rendimenti record per i titoli del Tesoro Usa Milano Finanza Wall Street segna nuovi record, poi i bond fanno scendere di nuovo le azioni Yahoo Finanza Il mondo affoga nel debito. E il mercato ne sta alzando pericolosamente il prezzo (di M.S. B",
+          "pubDate": "Tue, 18 Aug 2026 18:24:53 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Amministrazione Trump, record di super ricchi: 57 superano i 100 mln - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONF9kNFJ6eVRfODVSMWVLa0JGT3BzejItcF9rc1hMMWstQjAzbVpPd1NqQ3J5S2ZiUFlBYl9JZ2FITnR6NFVLd1J0MXdXY2tYeDZWcEl4STd0cGxNOE0zdWlXNGFsMGg0QU82ZWtrR3FVU2RlMl91TzVxMnR6cnFpM05GWG5CRG9tWlRJckJRcTNoakZ6SkxqVE1LcTBzM0FaM2Y1dldHaDY4RUFnNnFqWTJWVlVQNkNpczdTYUZpSVk?oc=5",
+          "description": "Amministrazione Trump, record di super ricchi: 57 superano i 100 mln Il Sole 24 ORE I super ricchi nell'amministrazione Trump, 57 hanno un patrimonio oltre 100 milioni RaiNews I 57 super ricchi nell'amministrazione Trump: mai così tanti Il Fatto Quotidiano Billion dollar baby L’oligarchia trumpiana trasforma le donazioni politiche in sgravi fiscali e contratti federali Linkiesta.it",
+          "pubDate": "Tue, 18 Aug 2026 15:31:04 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Unitree verso l’Ipo dei record: Pechino lancia il super robot e sfida Musk - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMDdzZ05ZbXZvd202U3U1dmlUSTFXLWhual9kS0xoQ0JIUHpVVmx2akxoU2lSVE9MaERqVFpnblA2eW5aMklKbjlRUVcyRWlVakFlY25WVXdzRXRUYTBlQmZVVnJweVBaNnRJNTZDalVvYXRralZoazk2M3huMWxreFlva1hkYThma3k1a1YxTkVWa19XRm9meHpRSzRDOUN6bXc?oc=5",
+          "description": "Unitree verso l’Ipo dei record: Pechino lancia il super robot e sfida Musk Il Sole 24 ORE La produttrice cinese di robot Unitree debutta a Shanghai col +629% ansa.it Robot umanoidi cinesi sbarcano in borsa, debutto record da 1 miliardo per Unitree RaiNews Ecco Superman, il nuovo robot Unitree da record: corre più veloce di Usain Bolt e salta da fermo oltre 2 metri. Il video dday.it Il nuovo robot ",
+          "pubDate": "Tue, 18 Aug 2026 19:51:37 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Oro, Goldman Sachs: \"Acquisti record e ancora prezzi in salita\" - Bluerating.com",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTHh1aWswSkFoeHhWSno4eWhYOVVDN1ZTWnJUdnhRSE1uNFNRbDNJTGJHUVdlSTFNbFJlajVOUkU4TnV6dU1Eb1dFU0tLQWZVaXg1N1FYNTBoTkZoVjJGOUtLaFFKQ2k1OUgzaGpJZWhGR09tSmtSaWd5Q3B3QmtwMlhFVDdpREM0WkpaRkpvOE01aUI3Qk9rLWVR?oc=5",
+          "description": "Oro, Goldman Sachs: \"Acquisti record e ancora prezzi in salita\" Bluerating.com Il prezzo dell'oro in calo a 4.443,00 dollari l'oncia ansa.it Dopo un aumento dell’8% ad agosto, anche i trader di opzioni sull’oro puntano a ulteriori rialzi Yahoo Finanza Oro verso quota 4.400 dollari l’oncia: cosa sta succedendo ai metalli SoldiOnline.it L’oro si stabilizza dopo il calo, pressione da petrolio e rendi",
+          "pubDate": "Tue, 18 Aug 2026 08:31:00 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Gamescom 2026 Is Back: How to Watch Opening Night Live, Stream Schedule, and Major Reveals to Expect - IGN",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3hQaG55MTBZUFRxejBfbHFGeFVDazFsWFFkT1c2Nm9FSmozaEgtelFWMzdqa3BMNElKVjRTY2tjMjdtT0VVWElyd2xzWlg3aGRHMDg2cGpNaG9VRy1aTzZZdjVyelRvbExYbm5LaloydnEtWkdtMFFhZ3lSeGs3ZmlZUTRtemdtMHJxMVNPeW9aeUluRWtnSGdpUzF4aEwzY1Ryaw?oc=5",
+          "description": "Gamescom 2026 Is Back: How to Watch Opening Night Live, Stream Schedule, and Major Reveals to Expect IGN Gamescom 2026 sets new record as number of country pavilions increases by 25% GamesIndustry.biz Gamescom Opening Night Live: 3 confirmed games and 6 predictions Red Bull Gamescom 2026 Sells Out for the First Time Ever, With a German President Opening the Show for the First Time Wccftech Gamesco",
+          "pubDate": "Tue, 18 Aug 2026 23:58:30 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "mondosanita",
+      "n_items": 14,
+      "n_sources": 2,
+      "category": "salute",
+      "score": 34,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-science",
+          "title": "Vacanze, dopo quanti giorni fanno davvero bene? La scienza individua il picco del benessere - mondosanita.it",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSXZ5cl9yR20yRkNNdUxSanlhMEY4Z0hkYTlCdWJ2eVlUSjRmUnBMRmRWeHFTcHdnVjZFX1lNVFMwU2VCbGo1NmlnN0JneUJiYVpabG5KZDhRQWhhTEJ2ajdTb1o3ZlBxc244b250elEteFV2elVMTDR3b2tUMml6YVZ2T2ktXy1tNExpdGxIczRUZ3ViMWVFZXNldFNuU1ZuTDdyaTZ1WXUybUd0clAyemdldUFPblMwbjE4R2pQcUVwRmRvZU1fOTd3SGNqbDJRSzJLV0tkVQ?oc=5",
+          "description": "Vacanze, dopo quanti giorni fanno davvero bene? La scienza individua il picco del benessere mondosanita.it",
+          "pubDate": "Wed, 19 Aug 2026 02:50:34 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Dolore cronico, cosa succede nel cervello quando il dolore non si spegne più? - mondosanita.it",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb2VPaWpRR3VPZXVMMGRhYkp1U2U5TWdaRmRfdUtfcEtxQ0FPcXFqSGlGdDVVUHRwOFc1MWZ6a0F5eXE2WDhYWTJaZDBPd1FTM3RlZUxzaUtYSEM0aEp6cU1qTEE3YmxOLUNCckpOUjdBdFhod1VFSWY0M2I4TTVBLTVDV3NCcW85WmtnUnN5eHRwS0M2VEVvVEM4d19DSE9OOTJxQ0dqZHNhaTNZOURUZ1JPS1JKdUkxM3ZFX3hZS2JjWWZSRnBieFpjalBmY1p6?oc=5",
+          "description": "Dolore cronico, cosa succede nel cervello quando il dolore non si spegne più? mondosanita.it",
+          "pubDate": "Tue, 18 Aug 2026 09:15:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "La bilancia sale anche quando mangi poco? Cosa c'entra la plastica - mondosanita.it",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMjVVeGZlT2tNcWJaS2UtaXZRckJLRGRFbTczTnI3UDlfTlhWby1DN3NMN09zbjQzaTFEOEliaHpuS1VJMmtldVN5WXRRei1EbnMxdW9TX2xSc1ZfZDl0MWRtYUNocUlXOTRXSjdSUmdiSHFVOWlPNDQxVXUyTVNSbUlhNDhOeTM4NTZvajlLZHVMelFoT3ZRMTJrTW1Hb3FMSlZ0YkFmS2JkOUc3Qy1BRkRjclRlQmM?oc=5",
+          "description": "La bilancia sale anche quando mangi poco? Cosa c'entra la plastica mondosanita.it",
+          "pubDate": "Tue, 18 Aug 2026 04:01:00 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Tumori prima dei 50 anni, la mortalità cala quasi ovunque: una forma va controcorrente - mondosanita.it",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVFFXX1RWRzNfNThzSEh3MmJaMUl6U3hEeU1UUjhiV1BmR2Y5dFFJaGxmdEtvaHFrRWF2TVprS01yRkY1M3FOUDhaMmtvZkRUU1dFMW13WmZ1MXNoVi1QNHVvR1VIZGJZeGxBNnJ2Z1h3Nl9NU3RqRF9EbVhHcUZBX2NNazR2cmR1UG41c2Jfc2pYZ0NvSTZESFJXeTEtZHVIeTRiUkEtVDkwcGd2b3hhak1qTlFLY3lycFhOTjljRHhTd3RPaDVXUVRGV1NHV1ExZHlpdEpJMUdQRjJx?oc=5",
+          "description": "Tumori prima dei 50 anni, la mortalità cala quasi ovunque: una forma va controcorrente mondosanita.it Tumori prima dei 50 anni: forse conta anche quanto velocemente invecchia il corpo mondosanita.it Tumori, non conta solo l’età anagrafica: perché l’età biologica può cambiare prevenzione e cure mondosanita.it",
+          "pubDate": "Tue, 18 Aug 2026 14:15:01 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "ECG normale, coronarie ristrette: leggere ciò che non si vede - mondosanita.it",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS05XYUhMNVFoZlVHdzlvVUZxU0MwdzI4dHJRRlZIS2ZKbGNJMnBKczczQXlFcUt1LW92R2pYZEN0cVJkUXlqUFlmaHZhRjZPU1AtQmt4NW1ZT21iN3hsWWJIM3QtUk5BM3NsMUVqQi0wMlR3Z1ROdUQ0UmlhbHU1UVpiTFJrTGZiNWo4amd0d0VOcGJqRVdfLTB3c3NNU0JIQndlbFBMcjFaTjdjai11OW4yQlU4THF5VGNJ?oc=5",
+          "description": "ECG normale, coronarie ristrette: leggere ciò che non si vede mondosanita.it",
+          "pubDate": "Tue, 18 Aug 2026 21:19:24 GMT"
+        }
+      ],
+      "macro_area": "clima-salute"
+    },
+    {
+      "keyword": "così",
+      "n_items": 7,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 34,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Blog | Vicenda Ranucci: così Colosimo usa il conflitto di interessi contro gli avversari politici - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN0dSbVpOdVpqakJnZlVBQ0ZUNWQzX3BfbS16OXNETEtabHY2b2VfV2piUVdYTGhFS25MVDExZlRSU3JvaUp6OFpfWHJzNFYyX3pKQ3BTamtrdGxmd3JFaFg5THVUMUZpSEZmZVEwUDB1alRjM19lZE5lU2FRTFdNaVJlajhlenYwZDVvYTlWa2NPSy1TQ2x3?oc=5",
+          "description": "Blog | Vicenda Ranucci: così Colosimo usa il conflitto di interessi contro gli avversari politici Il Fatto Quotidiano Il pressing di Colosimo sul Viminale: \"Ridurre la scorta a Ranucci, il rinforzo non serve più. Dialogo con Piantedosi\" Il Fatto Quotidiano Lavitola puntava a Report: “Volevo produrlo io”. Così sfruttò la difesa di Ranucci la Repubblica La dolcevitola | Roma, la politica, i parrucch",
+          "pubDate": "Tue, 18 Aug 2026 10:24:44 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Amministrazione Trump, record di super ricchi: 57 superano i 100 mln - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONF9kNFJ6eVRfODVSMWVLa0JGT3BzejItcF9rc1hMMWstQjAzbVpPd1NqQ3J5S2ZiUFlBYl9JZ2FITnR6NFVLd1J0MXdXY2tYeDZWcEl4STd0cGxNOE0zdWlXNGFsMGg0QU82ZWtrR3FVU2RlMl91TzVxMnR6cnFpM05GWG5CRG9tWlRJckJRcTNoakZ6SkxqVE1LcTBzM0FaM2Y1dldHaDY4RUFnNnFqWTJWVlVQNkNpczdTYUZpSVk?oc=5",
+          "description": "Amministrazione Trump, record di super ricchi: 57 superano i 100 mln Il Sole 24 ORE I super ricchi nell'amministrazione Trump, 57 hanno un patrimonio oltre 100 milioni RaiNews I 57 super ricchi nell'amministrazione Trump: mai così tanti Il Fatto Quotidiano Billion dollar baby L’oligarchia trumpiana trasforma le donazioni politiche in sgravi fiscali e contratti federali Linkiesta.it",
+          "pubDate": "Tue, 18 Aug 2026 15:31:04 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "La guerra di Putin al dissenso: così il partito pacifista Jakoblo è stato escluso dalle elezioni - Avvenire",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbVpKU21aUnFCUUFkZGhudEcwRGZwcmVPZGxLVnpwVnhNdVVMc2tFR205RUotT1A3emdISDdNbXVsUE16LWNOVkM0VHdZMTN3WFhUdjhxa2xVcm9Pc1FUUVd2dXZPZkQteG9ZbnVlbmkzTk1zTHB6cDRsY2ZHWUU4Szc4Qm5TVWZPZkdjS01YcEUyTkh6UUlqOWliUXplYUJ3WTlneXc0SlA2c2xUZVRrc0ktRkZ5M2pNMkJfTFpYc1hWd08yRWYzXzZoZGo?oc=5",
+          "description": "La guerra di Putin al dissenso: così il partito pacifista Jakoblo è stato escluso dalle elezioni Avvenire Undici anni di carcere duro al vicepresidente di Jabloko: così il Cremlino cancella l'unico partito pacifista Corriere della Sera In Russia il vicepresidente di Yabloko, partito contrario alla guerra in Ucraina, è stato condannato a 11 anni di prigione Il Post Mosca, respinto il ricorso di Jab",
+          "pubDate": "Tue, 18 Aug 2026 06:39:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Mai così male | Solo un americano su tre approva l’operato di Trump - Linkiesta.it",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa2lLYUVfalU4Z2l2Ukt5SXl2WVhMVlBfV1lKVVM1SDhpZkZhaXBYNDM5VFFXU252V2dpN1pTRWx5eHh3aDNnd0xNSDRTMUN0U21UeVcxblVnMllOT3VEV29JSGNvazJOWlp4ajZQWXpEcEI3a1hlSEFjblRNTXZmYlVzU3JGS2s1VU1LZmN3?oc=5",
+          "description": "Mai così male | Solo un americano su tre approva l’operato di Trump Linkiesta.it Usa, la guerra in Iran ha fatto sprofondare di nuovo la popolarità di Trump Sky TG24 «Le tue finanze sono migliorate dal 2025?»: il 53% degli americani dice no e boccia Trump Corriere della Sera I repubblicani affrontano il test di metà mandato mentre gli elettori si disilludono sull’economia di Trump Yahoo Finanza La",
+          "pubDate": "Tue, 18 Aug 2026 05:27:35 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Così l’Ai si prepara ad aiutare il mondo della ristorazione",
+          "link": "https://www.ilsole24ore.com/art/cosi-l-ai-si-prepara-ad-aiutare-mondo-ristorazione-AJCkQ0o",
+          "description": "Nuove strategie per conquistare «più coperti» a tavola e cercare di cavalcare le sfide delle piattaforme del delivery. In mondo dei consumi fuori casa è in radicale e profonda rivoluzione...",
+          "pubDate": "Wed, 19 Aug 2026 02:32:01 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "ucraina",
+      "n_items": 7,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "score": 34,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ucraina, raid russo su Kharkiv: “10 morti”. Russia: “620 droni contro Mosca” - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWEFNcFlhNXFYYndBdWpqUUx3b2JYcERsWXdsaG5lT1hjZDZGZXVVMHh1WjR5YTk3RzZLUE9Rc096ZFhKSUExbE1qR2E1WTAtU0FVXzB0eDRkM21LM2xuRUp5Q1NwZE9oX1M0bzRoVlhhRWluQU04ZjZqd0ZnNW5hRDFJeXZtc2NLZnZjRjJqM0g5dmtXandfWF84NUxxanhtMDM1eFBwNA?oc=5",
+          "description": "Ucraina, raid russo su Kharkiv: “10 morti”. Russia: “620 droni contro Mosca” Il Fatto Quotidiano Missile russo sulla regione di Kharkiv, almeno 10 morti ansa.it Guerra Ucraina-Russia, le notizie in diretta | Corriere della Sera Mosca, l’attacco più duro: oltre 800 droni ucraini si abbattono sulla Russia la Repubblica L’avvertimento di Mosca a Londra. “Pagherete per i droni a Zelensky” Il Fatto Quo",
+          "pubDate": "Tue, 18 Aug 2026 20:28:39 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "L'ex ministro della Difesa Fedorov chiede elezioni: \"La democrazia non sia ostaggio della Russia\" - Presidente Lituania: “Non toglieremo il nostro sostegno alla Corte penale internazionale” - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQWE9LeFBtdUJ1QnA3UXhjV2M5ajFiWTNYSl9iNFVJTmtheGxid2dzd1pmZ0ZEV09raGt2YWt1Q0pCbjM2NHE3SExlbkg3alM0cUhiM1pLUFRVcE5fcjdrd0NFc1NzRHpfWGlJMXkyRkVGQUdaVW5oZjFmaWhRV2YtT0x4aTM0SkdpZTJwNXpLWXczT0p2OFNtVUlvLTFZZ2Jqc2o1eC1xQTk5OC1KcG1mLWlFeWFQVXhLNGpZUUFBV3E5elVsTXJnbENJbXpGZldIZHNIdXhtY3BZM1JiWnk0NGxKNnlPX1ctUzBLOWF5QlpXNDNpemEzQ3FzOFd5VHQxdHk1RkJNckQ0MHhKZW9JTk9ybXNFeUk2SFRZbzQtNlJYd1o2WWwxSzRNOUVrQdIBswJBVV95cUxORjAzS2lKeDUzTXJLdFZLM2ZkREUzWURhOEN0WUVJeUZmZXl5QXdPSndLOTRmci04ZzlJOGRNcDc2TUY5ZjB6Z3NKVVlHck9jTGxNbTFlSWFyS0haOVFOY1pnQ09GZ29BeHF2cEhMOGJaS1Y5VmwxbTlxN0tIYWdpcXFMV0tGYmpfQ1J1VHpuSDRoai14TnFGaENEazJaSW83UHJpVE83bXNTUUtTX29pYVowaHB1V2RTTU1jdVVZQ1otbXk5WHFVVGl3UkQzTENicFpSN3Y5VlJDNXdmWlZxVUYtZUtqLTVzeHdoWHd1UFFqOHVRWDNMb29mUEpPRkRQaW94cmtYQTgxRnUxd1pSSGZxMmlHMUw4QThnckQ4b1dtcElnUmxlYUF0QmtsTUdDcEpB?oc=5",
+          "description": "L'ex ministro della Difesa Fedorov chiede elezioni: \"La democrazia non sia ostaggio della Russia\" - Presidente Lituania: “Non toglieremo il nostro sostegno alla Corte penale internazionale” RaiNews Guerra Ucraina-Russia, le notizie in diretta | L'ex ministro Fedorov chiede elezioni in Ucraina: «Democrazia non sia ostaggio di Mosca». Missile russo sulla regione di Kharkiv: 10 morti. Zelensky: «Risp",
+          "pubDate": "Tue, 18 Aug 2026 21:26:22 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra in Ucraina, Kallas: “In autunno nuove sanzioni contro la Russia” - Eunews",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVHhkNVM5U0ZwdU1QUUY3WXRpQjZ1aE5DZXI3eV8xRE5ibFVhUG13ajZLVklmQkZLbi0yQWVRQlc1UjZjcVBwT2ptdTB1SWdmdl8yVG1zM2U3OWpESXNObFNMMkR2eW41Vkl4Z3FrOFhNaDR3SzE3U1luZDBVcElzaHJvbVZIbzdCSjkycUhRZF9faGJLR1dDMzVXdkZtQnNFR0JF?oc=5",
+          "description": "Guerra in Ucraina, Kallas: “In autunno nuove sanzioni contro la Russia” Eunews UE, Kaja Kallas: nuove sanzioni più dure contro la Russia in autunno Euronews.com Ucraina, Kallas annuncia sanzioni a Mosca mentre non si fermano gli attacchi Il Quotidiano del Sud Kallas: in autunno nuova lista di sanzioni contro la Russia Askanews",
+          "pubDate": "Mon, 17 Aug 2026 09:10:21 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "La guerra di Putin al dissenso: così il partito pacifista Jakoblo è stato escluso dalle elezioni - Avvenire",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbVpKU21aUnFCUUFkZGhudEcwRGZwcmVPZGxLVnpwVnhNdVVMc2tFR205RUotT1A3emdISDdNbXVsUE16LWNOVkM0VHdZMTN3WFhUdjhxa2xVcm9Pc1FUUVd2dXZPZkQteG9ZbnVlbmkzTk1zTHB6cDRsY2ZHWUU4Szc4Qm5TVWZPZkdjS01YcEUyTkh6UUlqOWliUXplYUJ3WTlneXc0SlA2c2xUZVRrc0ktRkZ5M2pNMkJfTFpYc1hWd08yRWYzXzZoZGo?oc=5",
+          "description": "La guerra di Putin al dissenso: così il partito pacifista Jakoblo è stato escluso dalle elezioni Avvenire Undici anni di carcere duro al vicepresidente di Jabloko: così il Cremlino cancella l'unico partito pacifista Corriere della Sera In Russia il vicepresidente di Yabloko, partito contrario alla guerra in Ucraina, è stato condannato a 11 anni di prigione Il Post Mosca, respinto il ricorso di Jab",
+          "pubDate": "Tue, 18 Aug 2026 06:39:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Fedorov chiede elezioni in Ucraina, 'democrazia non sia ostaggio della Russia'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/18/fedorov-chiede-elezioni-in-ucraina-democrazia-non-sia-ostaggio-della-russia_8cc63e8e-2719-4f6f-b6c4-593b5ebeba41.html",
+          "description": "Ex ministro Difesa, 'trovare meccanismo per tornare a un effettivo processo democratico'",
+          "pubDate": "Tue, 18 Aug 2026 21:46:14 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "terremoto",
+      "n_items": 4,
+      "n_sources": 3,
+      "category": "clima",
+      "score": 18,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Shakira in Colombia dopo il terremoto: «Contribuirò alla costruzione di almeno dieci nuove scuole. Ogni giorno senza istruzione è un giorno sottratto al futuro dei bambini» - Vanity Fair Italia",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUVhkN3dRRnhQNjJoYWVmRVNoRWJiMFFoSl9fNnRmMzcxeU5HODVTYm1VM1hIQ1M0N3VFOUxPanQ0b0dVVlk2djRQUGtkTXhxZDd6ZVBqRHU0a3YwVGQtOVVlVER2M1V3TXBYLUVHRHFJSS04cWxNajMyMVpzN004NWxLLUctRjByZkVhUWhCYms5RDlQdVBjQjB5VEFmbU9TczhiSHFrcXVLQVhsRVZUSHZoZV9tSzRGLU04dkZPdjlycERwUF9XYg?oc=5",
+          "description": "Shakira in Colombia dopo il terremoto: «Contribuirò alla costruzione di almeno dieci nuove scuole. Ogni giorno senza istruzione è un giorno sottratto al futuro dei bambini» Vanity Fair Italia Shakira, visita a sorpresa in Colombia dopo il terremoto: «Ricostruirò dieci scuole» Corriere della Sera Terremoto in Colombia. Cesvi: è rischio tratta per i minori Vatican News Forte terremoto devasta la Col",
+          "pubDate": "Tue, 18 Aug 2026 12:32:16 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Nuova scossa di terremoto di magnitudo 4.6 a Granada, evacuata l'Alhambra - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45Q3FQSnUzWFJEbkxPMzZqczRNY3JIN3B5dXRpMGJEdHZ0QUp6T25COGhoWjg0RWpGRkp2UmNrNjA3V3NTUjlHS0ZKZUFvVEhWYWhxUVlTRl81czV3VGYxOTlsS3NrUENnWUpr?oc=5",
+          "description": "Nuova scossa di terremoto di magnitudo 4.6 a Granada, evacuata l'Alhambra Sky TG24 Terremoto a Granada: due forti scosse, chiusa l'Alhambra Il Fatto Quotidiano A Granada, in Spagna, un terremoto ha causato tre feriti e qualche danno: è il secondo in quattro giorni Il Post Granada registra un nuovo terremoto, scossa di magnitudo 4.8 Euronews.com «Quelle scosse a Granada ci hanno fatti saltar giù da",
+          "pubDate": "Tue, 18 Aug 2026 14:22:45 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Shakira a Quibdó, fondi per le scuole colpite dal terremoto in Colombia",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/19/shakira-a-quibdo-fondi-per-le-scuole-colpite-dal-terremoto-in-colombia_4a0e5cd5-8b44-49d2-b188-6c4a49ee2edc.html",
+          "description": "Donati un milione e 250.000 dollari tramite la Fundación Pies Descalzos",
+          "pubDate": "Wed, 19 Aug 2026 03:39:26 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Terremoto Giappone, dopo tre settimane ancora 3.000 sfollati",
+          "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/19/terremoto-giappone-dopo-tre-settimane-ancora-3.000-sfollati_e5196316-c7f9-45d0-bf70-82c20a2222d1.html",
+          "description": "Caldo e case distrutte aggravano l'emergenza nella prefettura di Kumamoto",
+          "pubDate": "Wed, 19 Aug 2026 03:37:51 +0200"
+        }
+      ],
+      "macro_area": "clima-salute"
+    },
+    {
+      "keyword": "back",
+      "n_items": 5,
+      "n_sources": 3,
+      "category": "general",
+      "score": 15,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "South Korea president calls for military independence in wake of Trump call to cut joint drills - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQU9PcnNSS2ZQQmxoOFNldmdkQ0RWTmwtVEFQdGl5bkJTcnBoUWR6TUJjS0lnSXFTeG5qU1JZRFNiS2tnTGw0R040YkVYUHFDZHkzdzFmMnpEUmFpanRPR045cmNlYXhPbEZnN0JvZ0pRaHhvY2JHQWJiNHRtNlBIbWVKRnFCaDlnSmc1T3VaRExIVEFsRGw5QWJzMjZzZ2RxZzRWQ3JLTlcwRFpCQXdqeFh6eThGZw?oc=5",
+          "description": "South Korea president calls for military independence in wake of Trump call to cut joint drills The Guardian Military drills between US and South Korea cut short at Washington’s request CNN Pentagon Scales Back Major Training Exercises With South Korea The New York Times Trump’s threats to Seoul may be worse than their bite Politico U.S.-South Korea joint military drills are being cut short after ",
+          "pubDate": "Wed, 19 Aug 2026 01:30:00 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "American Airlines to bring back TV screens on US flights",
+          "link": "https://www.bbc.co.uk/news/articles/c70glp55y95o?at_medium=RSS&at_campaign=rss",
+          "description": "It is also adding more premium seats, with the changes aimed at improving the travel experience and boosting revenue.",
+          "pubDate": "Tue, 18 Aug 2026 20:17:33 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Job vacancies at five-year low as smaller firms scale back recruitment",
+          "link": "https://www.bbc.co.uk/news/articles/cn9nwx090v9o?at_medium=RSS&at_campaign=rss",
+          "description": "Small firms cite labour and operating costs as reasons for scaling back hiring, the UK's statistics body says.",
+          "pubDate": "Tue, 18 Aug 2026 12:52:26 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "From jumpers to slug pellets - how British wool is back in demand",
+          "link": "https://www.bbc.co.uk/news/articles/c8xnkjwdn5wo?at_medium=RSS&at_campaign=rss",
+          "description": "An increased demand in wool has meant prices have increased more than 70% in the last year.",
+          "pubDate": "Tue, 18 Aug 2026 11:18:39 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Gamescom 2026 Is Back: How to Watch Opening Night Live, Stream Schedule, and Major Reveals to Expect - IGN",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3hQaG55MTBZUFRxejBfbHFGeFVDazFsWFFkT1c2Nm9FSmozaEgtelFWMzdqa3BMNElKVjRTY2tjMjdtT0VVWElyd2xzWlg3aGRHMDg2cGpNaG9VRy1aTzZZdjVyelRvbExYbm5LaloydnEtWkdtMFFhZ3lSeGs3ZmlZUTRtemdtMHJxMVNPeW9aeUluRWtnSGdpUzF4aEwzY1Ryaw?oc=5",
+          "description": "Gamescom 2026 Is Back: How to Watch Opening Night Live, Stream Schedule, and Major Reveals to Expect IGN Gamescom 2026 sets new record as number of country pavilions increases by 25% GamesIndustry.biz Gamescom Opening Night Live: 3 confirmed games and 6 predictions Red Bull Gamescom 2026 Sells Out for the First Time Ever, With a German President Opening the Show for the First Time Wccftech Gamesco",
+          "pubDate": "Tue, 18 Aug 2026 23:58:30 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "iphone",
+      "n_items": 4,
+      "n_sources": 3,
+      "category": "general",
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-tech",
+          "title": "iPhone 18 Pro: col nuovo chip A20 aumentano prestazioni, autonomia e... prezzi - HDblog.it",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOE5WTl9EQXJBaWh2RWktdmp6d2lpVll2U0FLdjQ5ZG9IMktFVjNiMWYwak9vbGRfR0VfTEVjRTQ5VzZpQjNWU29uQV9pMkRXeWFMRDNLWkgtcmFZQ29EOFlnVFFpZldYNkpWQzhaWW9HWjlDRmowMGZUNUQ2SVpXbkJKQWxzTXp5blBoTkRjZlFNTW1qVnRsTWtDdFFKYzlkODQ0?oc=5",
+          "description": "iPhone 18 Pro: col nuovo chip A20 aumentano prestazioni, autonomia e... prezzi HDblog.it",
+          "pubDate": "Tue, 18 Aug 2026 07:05:27 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "iPhone 17 Pro, un anno dopo! Ha senso comprarlo ora? | Video - HDblog.it",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVWVQdG9VcUxkaS1LZ2RNSGd3enBtSmpsM2hZa0ZEOFR4UktJY2JfdGVTU21ZcFJTalozTG5MWGFMcl9iU3NuUjZnVVlzYlFyN00xYUdyUk40elNfV01ZczluWUM5V21ycDlQUWhaV3EzRlQtZFM4aHMwRFpWOGRzNjJYM29xR3ZuRE1NS182b0J5bm5CaVBRNA?oc=5",
+          "description": "iPhone 17 Pro, un anno dopo! Ha senso comprarlo ora? | Video HDblog.it",
+          "pubDate": "Mon, 17 Aug 2026 14:33:03 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Apple's iPhone 18 Release Schedule: What's Coming and When - MacRumors",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QNHJKZGROMHAxaUhlRzh4em1CZkdjckpxYk1TcWFSSjZkX2RocXlOcTZWeGk4V2ltU2JoQU5JTmV5T3RWVU9oaDJqbl9NRGdJTVVwaktmOFNWazJuZGI1MG5scGlKcDlTZHJV?oc=5",
+          "description": "Apple's iPhone 18 Release Schedule: What's Coming and When MacRumors Apple iPhone 18 Pro Release Date: Discounted Day Re-Enters The September Schedule Forbes US Stock Market Moves | Apple (AAPL.US) Rises Nearly 2% as iPhone 17 Series Prices Could Increase by Up to 1,000 Yuan Moomoo A20 Pro speed and efficiency improvements leaked? Not so fast… Macworld Two camera features may be unique to the iPho",
+          "pubDate": "Tue, 18 Aug 2026 22:58:41 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "ChatGpt su iPhone, record di download negli Usa",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/29/chatgpt-su-iphone-record-di-download-negli-usa_7d3e2539-a340-4303-b03f-627225d66de7.html",
+          "description": "Dal lancio oltre 500 mila utenti hanno scaricato il chatbot",
+          "pubDate": "Mon, 29 May 2023 14:29:19 +0200"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "caldo",
+      "n_items": 6,
+      "n_sources": 4,
+      "category": "clima",
+      "score": 3.0,
+      "cooldown": true,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "Temporali dopo il caldo, parla l'esperto: 'Le Alpi fanno da hot spot per i fulmini'",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/temporali-dopo-il-caldo-parla-lesperto-le-alpi-fanno-da-hot-spot-per_d9e35673-8b00-4df7-885c-a720ae9e3fd0.html",
+          "description": "Giovannini: 'Occorre sempre fare attenzione\"",
+          "pubDate": "Tue, 18 Aug 2026 12:11:48 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Caldo e umidità aumentano il rischio di crisi di emicrania",
+          "link": "https://www.ansa.it/canale_saluteebenessere/notizie/cefalea/2026/08/14/caldo-e-umidita-aumentano-il-rischio-di-crisi-di-emicrania_acfe83cc-bb0b-4b25-9b11-b3677f790287.html",
+          "description": "I consigli della Società Italiana per lo Studio delle Cefalee per i 9 milioni di pazienti",
+          "pubDate": "Mon, 17 Aug 2026 19:27:33 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Terremoto Giappone, dopo tre settimane ancora 3.000 sfollati",
+          "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/19/terremoto-giappone-dopo-tre-settimane-ancora-3.000-sfollati_e5196316-c7f9-45d0-bf70-82c20a2222d1.html",
+          "description": "Caldo e case distrutte aggravano l'emergenza nella prefettura di Kumamoto",
+          "pubDate": "Wed, 19 Aug 2026 03:37:51 +0200"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Caldo, arriva la quinta ondata? Le previsioni di fine agosto: dai temporali e il calo termico al ritorno (possibile) dell'anticiclone - Corriere Adriatico",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOM2RSRFN6c0VBblk1LVQzbDFlc0Z0NVJLODFqSGxvUnJXaHBKbC1TX05fcDhSQXQ0Mi0yV0lLWnBjazRpVjQzd1EwSnZVY3lqZ2lpOFQxM1ZtYUZfbXFDZlVMcE10TVRXUHVSQTNPaTFLMTdOVXpZUmlNeWV3ZUxsZDR6RVQ4OWJLSGxoWWxjZWtHZFd1bDhTTFpkOTFZeWZUNHZMQ09adFlncjhfMXZnOXlIY0lDZ1A0VFI3VHNJRXViNTRnTG02cGxkWlVfbXdqVkZjaThldzJTZkRnX0V6Uk9tanpqWEtyejFDaXA2Z2x3Z9IB9wFBVV95cUxQNVJlX0c1cFRtRDRtNjctbUlJNEVsVE5pLWFDdnFyYUtSRFJDMWVsVGRHeWVMQkVrcktidGVIcHpQeklpZWlWZVB0ejloc09meVVPdTJKRWhLSVg1MERUeEFXYzh0d0U3UDYwYWlyWnpCbjd6TGlDTjBJUTNaOGNwaVFrSjNJOVFLWTg2YXJfaFlsRVF6SjBiWTAxTENnOS1HOTVBSm5MOVRsbURPdEI0STNzSkM1LThGNzFJRElENXV1X0pKVmd5Ry0wU1VOck5aSUxnc2tUT1VHZHBZMVdXTXBZUklJbTlDRXRxa1AyNTB5bHdTS1J3?oc=5",
+          "description": "Caldo, arriva la quinta ondata? Le previsioni di fine agosto: dai temporali e il calo termico al ritorno (possibile) dell'anticiclone Corriere Adriatico",
+          "pubDate": "Mon, 17 Aug 2026 14:05:10 GMT"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Torna il caldo in Toscana, codice giallo fino a giovedì a Firenze. Le previsioni - La Nazione",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMkd1ejM5R0hRMlpKUUJFWE1KbF91aVdxWnJMT0RJV0VySmtxV2VnZzZXWTZPTHlSSElYMjJVZWRNU0RURVFVdHctRzZzUzNWeTdPR05tdU5tSF9nR3RoOV9oSXQ4VTlWbUpESmdjQmxUbmVLNldvX0JSUVVmOU5RalJsQXZpOVJDblFTWlRKLXlRUHoycnJzaERGSFZaWmNTaXNrcE1BaDhHMU4wb3hMa0xMMk16WGhmcEE?oc=5",
+          "description": "Torna il caldo in Toscana, codice giallo fino a giovedì a Firenze. Le previsioni La Nazione Finita l’ondata di caldo atroce, 25 gradi a metà pomeriggio: “Non succedeva da due mesi”. Ora spaventano i temporali La Nazione Caldo, Firenze resta in codice verde ma le temperature sono in graduale aumento 055 Firenze Meteo: a Firenze temperature in aumento, codice giallo fino a giovedì. Poi nuova ondata ",
+          "pubDate": "Tue, 18 Aug 2026 15:45:18 GMT"
+        }
+      ],
+      "macro_area": "clima-salute"
+    }
+  ]
+}

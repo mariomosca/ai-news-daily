@@ -1,0 +1,925 @@
+{
+  "date": "2026-07-29",
+  "top_topics": [
+    {
+      "keyword": "italia",
+      "n_items": 31,
+      "n_sources": 11,
+      "category": "tech-ai",
+      "score": 347,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Borghi: «Ne sappiamo poco dei fondi Safe, non pare conveniente. Convinceremo tutti» - Corriere Roma",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYk1YYm0zem93NUFkTHg3U19OZXNuZHl0aExteWs1Wllhd3l5N0V5TTREelVQNEtsLUctLV9fVWtRRFNtWklMaThYRFExaHhLWm1SbGVvd1ZqelpGYnpsRGotamJsZEpqOU5lNzN2ZG9SdFIxY0E1RTdiTXFaN05ORDNjTjVfY0xnZS01TTZGR19RXzlkYS1Xa3l1bm1EUnI4VzV1cklIMmxjX2dhNUt2S0libFcxNlBsMnIwQUNFQ0JMWFBWOXROajlxONIB0AFBVV95cUxNSW1RZEZIUFJxVUg5TDdjbm50dHZBN3d6dEgxV1dHWTY0UkFMSDVmV18zUVUwcXBPWjZuYld5UEVpYkFDRFRFdC1Nc09mNGtxZzk1VEFnVC01YU80c05mSWRSZTRlRzg1cnZYNXdySVd2ZDl1Nl9aZWtJajFtYkxJZWU5TVU2TmlzNkNVXzRXaEpOcDVTSXJ2ZVlmYUR6NHA1WTJYbEx3b3drVWowUU5JSzFNc3l3aFVGYWh1QV85bFh2Qk1yYTBPMm03U1ZIY1ZJ?oc=5",
+          "description": "Borghi: «Ne sappiamo poco dei fondi Safe, non pare conveniente. Convinceremo tutti» Corriere Roma Safe, quel gioco di veti incrociati che blocca la pianificazione: l’idea di investire in droni la Repubblica Tajani mette tutti d'accordo a destra: non ne possono più HuffPost Italia Fondi Safe per il riarmo: il Governo adesso vuole usarli. E scoppia la polemica Avvenire Fondi Safe, Picierno: «Non c'è",
+          "pubDate": "Tue, 28 Jul 2026 20:18:17 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa-Iran, le notizie in diretta | - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU2JaMk1OYklwTTRkZXc2aEJ6NmhsVllTYTQya200Z2hFOHQ2VE9RSEh5RThvNDZ2YzlHemxWSG45MzZibE9OUHJGejdYRnl3Q29Qd3lDT0F6N3kxNlFzMl9Denl3Y1F6MWNMR0p1MDdablBKRy1SVmhWZXF4MWpSa0N1MFlESTl4NEM2Q09EVdIBlAFBVV95cUxOSmVvQVFJcWxIb0FlMTUzVkR2dU04ZmdqZjFLZkJDU0cwNnhiTnZoQmt5M05OdWpneWpaMFRNWHRUSHpSVjM5cHJEZV9yZFpqaTV5YlVndlIyd2pPMlNXbUZCdS1vTXozam9Xck5sdXN3T3V6ZnJHYlY0OENvbTJxUUpicTdFZVdQRU5wTV93NVFSYTRm?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Corriere della Sera Trump conferma negoziati Iran e avverte: senza accordo si torna a combattere Borsa Italiana Corse in auto di James Dean e gli arsenali missilistici La Stampa Iran: nostra dottrina occhio per occhio RaiNews Guerra in Iran, news. Trump: “Senza accordo distruggeremo tutto, ma mi piacerebbe non colpirli” la Repubblica",
+          "pubDate": "Wed, 29 Jul 2026 00:03:50 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Save the Children, nel 2024 in Ue 9.500 vittime di tratta, 1.555 minori - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcDR5Wm05R29LOFA5US1udXVickdHTS1Vd21mMU5CNktEbDhzMXE0eVFEOEcwcXBXNnltY3VTS01WSHRFSzRyQkM0QWxHUjFXbjNXUTNYa2J1OTZyQ3NsbzhxazRYT2dJOEh4R21rSFpNZGl4aWY2WXhFbXNnN245ellQVFdSajQtMkl1ZnY3aThGV0duQ2RRRjRIRVotb2FQbFk0cnlkT2NvNC1EcjJMekhIU3RWSFgxd3lzbkpRNmE3RDZueTByaGYzZDl3Yk1OczBZck5xalp5S01tck5vTGlNZGRrUUd3Z1VLNGp1cVY0Y0stUXfSAfsBQVVfeXFMTXExWlZUSGRLQkpEa2cxX3JKMTU1SlZNV0lJdW9taC1jbUthUlZjRDNhVmdod2xvUmo3aks1MG8zc3BDX2txLUIxSXBhcEhXUmlsdmg4aDI4OFZpc2E2V0JoT3pOWkxDWUhKcG41UWVfZjRWelZmVkZmUXdva2pNRnFWSnZNU0hNcFNBM21Ud0VXeUhVZ290cE54V2dhcUdrR1M2ZUc2eXlXVkF5OVpnTjdQQmpEODJ2SmgtZndCT0VGTHJsc2hraUdKaC1YM284LXpGTDBpcGprUFI4ajZCY3RZeElBTHNFV2JBRUpRTFRPNnN3cFNxckhnUVk?oc=5",
+          "description": "Save the Children, nel 2024 in Ue 9.500 vittime di tratta, 1.555 minori ANSA Save the children: «Oltre 1.500 minori vittime di tratta in Europa nel 2024. Tra quelli segnalati in Italia, prevalgono gli adolescenti provenienti da Bangladesh o Egitto» Corriere della Sera Tratta di esseri umani: 1.500 casi nel 2026 Avvenire Piccoli Schiavi Invisibili: oltre 1.500 minori vittime di tratta in Europa Sav",
+          "pubDate": "Tue, 28 Jul 2026 05:03:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Autoimpiego, aiuto ai giovani nei territori: la strategia di Sviluppo Lavoro Italia",
+          "link": "https://www.ansa.it/native/ansacom/2026/07/27/autoimpiego-aiuto-ai-giovani-nei-territori-la-strategia-di-sviluppo-lavoro-italia_4360ffa0-4d43-406f-be9f-5195eb6bb77c.html",
+          "description": "",
+          "pubDate": "Mon, 27 Jul 2026 12:07:50 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "La morsa del caldo sull'Italia, un bracciante muore in una serra",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/28/bracciante-muore-in-una-serra-non-escluso-malore-per-caldo_c2a6f4b2-6c0b-4b65-821e-909f203af481.html",
+          "description": "Attesi 7 gradi sopra la media, aumentano i bollini. Il caldo spinge verso i monti, 79 milioni le presenze",
+          "pubDate": "Tue, 28 Jul 2026 19:14:39 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "trump",
+      "n_items": 17,
+      "n_sources": 7,
+      "category": "geopolitica",
+      "score": 125,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ucraina Russia, Zelensky: \"Buon incontro con Trump, parlato di Patriot e diplomazia\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdnJUOC1ZOTNPR185c3c3Qk5sZEtnNG1iMFlaX2d3NWplOFlqQUc2bldwTzRqYUpfbGt2ZThWVy1MS0lnd3R5Y0RJdHVHN3hDbjJCZTBaVXRVWk5iMzBVcVZlTGc3ZE5HLWZZaWgzeUx4eTFyNWVwTjV3b2w5ajNmYTdsY3FZVDlf?oc=5",
+          "description": "Ucraina Russia, Zelensky: \"Buon incontro con Trump, parlato di Patriot e diplomazia\" Sky TG24 Netanyhau da Trump nello Studio Ovale, 'allineati su ogni scelta in Iran' ANSA Kupchan: “Per l’America Israele è un problema, l’Ucraina sempre meno” la Repubblica Netanyahu vuole riconquistare Trump Il Post Zelensky va alla Casa Bianca con i consigli di Loomer e due scopi Il Foglio",
+          "pubDate": "Tue, 28 Jul 2026 21:49:45 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Netanyahu alla Casa Bianca: \"Allineati con Usa, sosteniamo qualsiasi strada scelga Trump\" - Ministero Sanità Hamas: 4 morti in raid israeliani a Gaza nelle ultime 24 ore - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQRnFsMFZDT3VnQnNuVmlvSTUxNGI1X2N0X1V5VUpFQzg0Z1NtZC0tbEpMRFJwTHVweTlGX2pIRlFuLVgtTUUySG1saWFXQkNJcy1iMVBYRzZZUGlHbjlDNW5ucVlsSVhoMFVUdVZYS0Q0ckZseDk0TVVSUXdIdWxMT2UxTVItNG1mUVQ3UHFaN2ZOV1ZIVVp6Q3VEU3BOVGRQRlpUakxHdHpvQXJVS3BBa1dhY1lURlJKak45NW1HVWNwMTBxUUo4azJSdENNT1kxRG1IRmp1eFRIanVaTUVtNkphU3pGN1RwSlcwYVJPckpVZzVjZkN3bkxraHkwOTU1SjVwcXRFbGw2RkdLS2YxdFlhbE0yOTBDa21uUThmQ19STWpWUFNXS0Q4ZXRkZ9IBswJBVV95cUxQd0tHcDFsVWt2aUdtV1ZqWWItMGF2QTd0VS1zbFR6dWY3a002aWZOWElxbk4xRnpUeHFMQmdzR01nbFptLVhId1BhTm9LNzJ3WXBueXZwbGZQa2p5VnMxU3l1OXhlTThpWU5hNEtWUXpFcGFrY0FnZUFkVkJsSnlnN0IyRGE0R1hBUFBLWXNLX2Z6eU9JalVlZ3dJa1FFNUtMX3o4VEgyYTdObk5xUEFWVkxWN3J3d3Zac19LWFpwei1ncXFWWnExOEh6QjFKVzBkXzF5bHBIdkFBMDdtWGhVYzU0bDlESGMzR2FLdTdabDdpRmxTdnpNNDliWmlESlEzNWlHem13VnRzcXB3eWVod1p2aGdhbmFsUkhyMDRLS1M2UVBYYnpuUGNIVVhrak91cE5R?oc=5",
+          "description": "Netanyahu alla Casa Bianca: \"Allineati con Usa, sosteniamo qualsiasi strada scelga Trump\" - Ministero Sanità Hamas: 4 morti in raid israeliani a Gaza nelle ultime 24 ore RaiNews Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Tue, 28 Jul 2026 21:30:03 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Attacco dell'Iran su una base Usa in Giordania, il petrolio balza del 3% in Asia - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRFZpbUpROXlJYnJtVzRBb2M2ZC1qVHpUcHBtemtFZndDUjkzaXBNdmFTVHMteXpzVVNQUktOLVRBbGNIaEVoZncxbnpueEVCWTNzRnh2bGFMeXUwODBBMUp2TjRhYlViX0hERXZKcjAwVHpMeGVnc0Rjd2lGVzVIRDdTVzFFak9MY0xKT3FOLW9VM3dkd1JHLTRpeFdRTEtkbk1URjF1N1hIVC1JTWg0RXQ2bFlSalNIbjBvT3Jyb1dQX0NlanltNDZEbHk4ZHpVZ3BqWDBPRnhmQ1VIYm5WanNYOHotU1BjSS1jZHNxSmxPNUtuS000SHN2LVZkN0Q3?oc=5",
+          "description": "Attacco dell'Iran su una base Usa in Giordania, il petrolio balza del 3% in Asia ANSA Missili iraniani contro una base USA in Giordania: \"Intercettati\". Netanyahu da Trump RaiNews Lungo la frontiera, sul Giordano, dove la siccità spaventa più dei missili Avvenire La Giordania sta finendo in mezzo alla guerra fra Stati Uniti e Iran Il Post TASS (TELEGRAM) * KATZ, «ISRAELE PRONTO AD ATTACCARE L'IRAN",
+          "pubDate": "Wed, 29 Jul 2026 01:12:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa-Iran, le notizie in diretta | - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU2JaMk1OYklwTTRkZXc2aEJ6NmhsVllTYTQya200Z2hFOHQ2VE9RSEh5RThvNDZ2YzlHemxWSG45MzZibE9OUHJGejdYRnl3Q29Qd3lDT0F6N3kxNlFzMl9Denl3Y1F6MWNMR0p1MDdablBKRy1SVmhWZXF4MWpSa0N1MFlESTl4NEM2Q09EVdIBlAFBVV95cUxOSmVvQVFJcWxIb0FlMTUzVkR2dU04ZmdqZjFLZkJDU0cwNnhiTnZoQmt5M05OdWpneWpaMFRNWHRUSHpSVjM5cHJEZV9yZFpqaTV5YlVndlIyd2pPMlNXbUZCdS1vTXozam9Xck5sdXN3T3V6ZnJHYlY0OENvbTJxUUpicTdFZVdQRU5wTV93NVFSYTRm?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Corriere della Sera Trump conferma negoziati Iran e avverte: senza accordo si torna a combattere Borsa Italiana Corse in auto di James Dean e gli arsenali missilistici La Stampa Iran: nostra dottrina occhio per occhio RaiNews Guerra in Iran, news. Trump: “Senza accordo distruggeremo tutto, ma mi piacerebbe non colpirli” la Repubblica",
+          "pubDate": "Wed, 29 Jul 2026 00:03:50 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Ex vertici della sicurezza israeliana a Trump: «Fermi la violenza dei coloni in Cisgiordania» - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUVYdXItVXZvRmdXbllTajhVYWk4Qk1XbFNjN3NzMl9aRmEySFctUl9pcDlnVVhpZkQxT3JaTzNMV2VPS3cxeWhyU2dNMHJtR1dFdi1NZERzM3RRYk9Qc3VveXRYVGdLNFdwSlZTeHNzQlk0T19xNG9KcHpFSWljWHBvUUE2VWxJVFYtYnpETzR0cm42NG9Ta29uUEwxVE5vX2Qzend6emRrU2Y2VzVWSm1B?oc=5",
+          "description": "Ex vertici della sicurezza israeliana a Trump: «Fermi la violenza dei coloni in Cisgiordania» Il Sole 24 ORE Cisgiordania, ancora attacchi dei coloni. L'appello di Abbas per fermare l'escalation Vatican News Ramallah, 30 edifici minacciati dalle colonie. La giornalista: “I miei non sanno dove andare” Il Fatto Quotidiano Media, Katz ordina l'occupazione di un altro campo profughi in Cisgiordania AN",
+          "pubDate": "Tue, 28 Jul 2026 07:41:15 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "iran",
+      "n_items": 14,
+      "n_sources": 7,
+      "category": "geopolitica",
+      "score": 104,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ucraina Russia, Zelensky: \"Buon incontro con Trump, parlato di Patriot e diplomazia\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdnJUOC1ZOTNPR185c3c3Qk5sZEtnNG1iMFlaX2d3NWplOFlqQUc2bldwTzRqYUpfbGt2ZThWVy1MS0lnd3R5Y0RJdHVHN3hDbjJCZTBaVXRVWk5iMzBVcVZlTGc3ZE5HLWZZaWgzeUx4eTFyNWVwTjV3b2w5ajNmYTdsY3FZVDlf?oc=5",
+          "description": "Ucraina Russia, Zelensky: \"Buon incontro con Trump, parlato di Patriot e diplomazia\" Sky TG24 Netanyhau da Trump nello Studio Ovale, 'allineati su ogni scelta in Iran' ANSA Kupchan: “Per l’America Israele è un problema, l’Ucraina sempre meno” la Repubblica Netanyahu vuole riconquistare Trump Il Post Zelensky va alla Casa Bianca con i consigli di Loomer e due scopi Il Foglio",
+          "pubDate": "Tue, 28 Jul 2026 21:49:45 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Attacco dell'Iran su una base Usa in Giordania, il petrolio balza del 3% in Asia - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRFZpbUpROXlJYnJtVzRBb2M2ZC1qVHpUcHBtemtFZndDUjkzaXBNdmFTVHMteXpzVVNQUktOLVRBbGNIaEVoZncxbnpueEVCWTNzRnh2bGFMeXUwODBBMUp2TjRhYlViX0hERXZKcjAwVHpMeGVnc0Rjd2lGVzVIRDdTVzFFak9MY0xKT3FOLW9VM3dkd1JHLTRpeFdRTEtkbk1URjF1N1hIVC1JTWg0RXQ2bFlSalNIbjBvT3Jyb1dQX0NlanltNDZEbHk4ZHpVZ3BqWDBPRnhmQ1VIYm5WanNYOHotU1BjSS1jZHNxSmxPNUtuS000SHN2LVZkN0Q3?oc=5",
+          "description": "Attacco dell'Iran su una base Usa in Giordania, il petrolio balza del 3% in Asia ANSA Missili iraniani contro una base USA in Giordania: \"Intercettati\". Netanyahu da Trump RaiNews Lungo la frontiera, sul Giordano, dove la siccità spaventa più dei missili Avvenire La Giordania sta finendo in mezzo alla guerra fra Stati Uniti e Iran Il Post TASS (TELEGRAM) * KATZ, «ISRAELE PRONTO AD ATTACCARE L'IRAN",
+          "pubDate": "Wed, 29 Jul 2026 01:12:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa-Iran, le notizie in diretta | - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU2JaMk1OYklwTTRkZXc2aEJ6NmhsVllTYTQya200Z2hFOHQ2VE9RSEh5RThvNDZ2YzlHemxWSG45MzZibE9OUHJGejdYRnl3Q29Qd3lDT0F6N3kxNlFzMl9Denl3Y1F6MWNMR0p1MDdablBKRy1SVmhWZXF4MWpSa0N1MFlESTl4NEM2Q09EVdIBlAFBVV95cUxOSmVvQVFJcWxIb0FlMTUzVkR2dU04ZmdqZjFLZkJDU0cwNnhiTnZoQmt5M05OdWpneWpaMFRNWHRUSHpSVjM5cHJEZV9yZFpqaTV5YlVndlIyd2pPMlNXbUZCdS1vTXozam9Xck5sdXN3T3V6ZnJHYlY0OENvbTJxUUpicTdFZVdQRU5wTV93NVFSYTRm?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Corriere della Sera Trump conferma negoziati Iran e avverte: senza accordo si torna a combattere Borsa Italiana Corse in auto di James Dean e gli arsenali missilistici La Stampa Iran: nostra dottrina occhio per occhio RaiNews Guerra in Iran, news. Trump: “Senza accordo distruggeremo tutto, ma mi piacerebbe non colpirli” la Repubblica",
+          "pubDate": "Wed, 29 Jul 2026 00:03:50 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Giallo sul summit a Londra per Hormuz, arriva la proposta omanita - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRFFyQkJ1S1F5czlkbmtvTkFnRjlqV254NmZiV3luNjVYMmdYMUxmNkZJUmh6Q3QzRV9Cc3lqZ0RWQmtNc2xtZTlrZktOUXNibWZ5X3lFdXBnbDItbk5OMS14NmxONDZXODVUcUNkWFhMUmZ6UXp4MXJiNTVTdXN0Y29UNGQ0SkRSTklQUGt2SVR4blplZUVoSWV5ZTNhcU1QRDIxazZnUEpjN09YQzJEOWh0WHdmOHBHRGFTZHVfR0NjTXJyZWNaS1ZKaXpBTFdfRnNDdkhWcksxaHpfMVl3elFESkJOUEw1d3NDedIB8gFBVV95cUxQbG96RmtuTHFydjZPOGdzcUtrdUNXYjA4Y0FzWTVFcHgtQldzU0Zuc1NBZG8yMmVHZXltVTlJV2o5bTlZRVFhMXNYYVR5NlpaLV9mZjdqU1BxakpQcXY2YlJtand5elNQZmxzOWhSLWhKNGUwemhtNEp6Q01sR0ZTM3I1VjN5U0VXSDZPcnRGX1NraVpHNUdmRjk4T09HZlVOVkpwRG5hNWQ5c29vZjJUWXdlWXVRZm9yd3F6YlpXb21sNWlFSGs4Y013OWVJcTl3V1VpSFkwYllDVDlkV3RrbEVEU0lZcmFfd2wtYW02Vkxodw?oc=5",
+          "description": "Giallo sul summit a Londra per Hormuz, arriva la proposta omanita ANSA Fino a 90 miliardi di danni. Gli sceicchi del Golfo disposti a un «contributo» pur di sbloccare Hormuz Corriere della Sera Salta il maxi-vertice tra Volenterosi e Usa su Hormuz: pesa la linea rossa dello sminamento Ue la Repubblica Raid e dialogo, il doppio gioco iraniano. Sfida degli Ayatollah sulle rotte del gas La Stampa L'O",
+          "pubDate": "Tue, 28 Jul 2026 18:00:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Iran launches missiles at U.S. base for first time since Trump paused strikes - Axios",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nWDMyNnhqaERiaVJhaTJCa1NweVpqd3U1V20wcVlNWmdTOE1lUk5PaWxENjlMNjU2dDhUcS12Nlk1cGpWYURmQWlPclc2djdGNmgxUDl2X3lKcjlvTmgwSWFBaXF4NFZaTEpjUVpoeFYtaVpNaUE?oc=5",
+          "description": "Iran launches missiles at U.S. base for first time since Trump paused strikes Axios Live updates: US and Saudi forces conduct strikes on Iranian proxies in Iraq CNN Iran war live: US, Saudi forces attack Tehran-aligned groups in Iraq Al Jazeera Iran Launches Surprise Missile Attack on U.S. Forces in the Middle East WSJ Iran launches surprise ballistic missile attack on U.S. forces in the Middle Ea",
+          "pubDate": "Wed, 29 Jul 2026 01:25:06 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "apple",
+      "n_items": 11,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 72,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "'It's a hell of a situation': Spain grapples with devastating wildfires - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51eENaRWtBQ0lPQzQwUkVIRjh6UGZMNGJhYVNJcUI1WkVBS0FkRWxmY1hQVERLWVFEZGZWd3FSVFdrVkUyU1ZQek1uWDZKQklmeEpCRjNXUHRYUQ?oc=5",
+          "description": "'It's a hell of a situation': Spain grapples with devastating wildfires BBC ‘A Wake-Up Call’: Massive Wildfires Pierce Madrid’s Bubble The New York Times France orders 4,000 more evacuated as fires displace a third of a million across southwest Europe AP News Macron calls fire crisis France’s worst since WWII as crews race to quell flames NBC News Photos: Spain and France battle record wildfires N",
+          "pubDate": "Tue, 28 Jul 2026 16:49:11 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Apple vola a 5.000 miliardi di valore, è la seconda dopo Nvidia",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/28/apple-supera-i-5.000-miliardi-di-dollari-di-valore-e-la-prima-volta_904dfc7b-6de8-431f-9617-a01a317e50e9.html",
+          "description": "Le preoccupazioni sul boom dell'Ia pesano sul colosso dei chip",
+          "pubDate": "Tue, 28 Jul 2026 18:27:31 +0200"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Apple raggiunge una capitalizzazione di mercato di 5.000 miliardi di dollari, gli utili estenderanno il rally? - Yahoo Finanza",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblgzaWJSQzRjQ3VTMlNoZWdGWURPRk1kMUxJeGtBYk05SFBLQ1BUME16R0lOdDlqS1dmRjNfUHByZ0thcldaUDZzMlBXQmo0MWtIenpPdHExdnROZGM2andxN0VZVzNxTlg5dnA3OVQ3U19ZUzI4MGNuVkx5Z0xaSXN1TlVaQnJJOURMaEg2Z0t6TXM1MHc?oc=5",
+          "description": "Apple raggiunge una capitalizzazione di mercato di 5.000 miliardi di dollari, gli utili estenderanno il rally? Yahoo Finanza",
+          "pubDate": "Wed, 29 Jul 2026 03:06:14 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Apple Upgrade: 20 Things to Know Before Leasing an iPhone, iPad, or Mac - MacRumors",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BRFJsTmppOVYyX2pybGZ5WDI4REFFdUhpUFNNcVZGT08xcEZ1dk1IVHhxY2VwRTlFSlBLMWx5VWpIWE1wZkU5ZFI2T0lxcVR0WTUzM011YkhRMXNGVnNxNVZWbE03d2NkZXNRRDNsa2tVUDg4VXc?oc=5",
+          "description": "Apple Upgrade: 20 Things to Know Before Leasing an iPhone, iPad, or Mac MacRumors Apple to lease iPhones, other products to users through Klarna partnership Fox Business Apple Upgrade launches in the United States Apple Apple will now let you lease your next iPhone or Mac instead of buying it CNN Apple plans to lease iPhones for $17.99 a month through partnership with Klarna CNBC",
+          "pubDate": "Tue, 28 Jul 2026 20:19:48 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27 - Ars Technica",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZWZWZGpmTS1mTGFXZGZ3bUVmeUFuOEtVZjYybWJrMVFHZ0EyMkU5N2R0Q0dwQ3VhUkp1VlFvWG5GN3Q3bEhERDV1U0I4Wno3THpIbXJ0U21CU0lpWFNmZUdUY3ZJNXdqdFNwNXhYemNKYUZUcGltQ3ZFd2VCcng2eEpmWElmZVF1bVVUc2ZjY2w3UE5BV0xFOC1GWGVYdjB3QXBiTmhrbThrVkll?oc=5",
+          "description": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27 Ars Technica iOS 26.6: Everything you need to know 9to5Mac July Apple updates are especially important if you receive images Malwarebytes iOS 26.6 Update Now Available With 3 New Features bgr.com Don't wait to update: iOS 26.6 includes more than 75 security fixes AppleInsider",
+          "pubDate": "Mon, 27 Jul 2026 20:32:45 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "torna",
+      "n_items": 11,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 72,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa-Iran, le notizie in diretta | - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU2JaMk1OYklwTTRkZXc2aEJ6NmhsVllTYTQya200Z2hFOHQ2VE9RSEh5RThvNDZ2YzlHemxWSG45MzZibE9OUHJGejdYRnl3Q29Qd3lDT0F6N3kxNlFzMl9Denl3Y1F6MWNMR0p1MDdablBKRy1SVmhWZXF4MWpSa0N1MFlESTl4NEM2Q09EVdIBlAFBVV95cUxOSmVvQVFJcWxIb0FlMTUzVkR2dU04ZmdqZjFLZkJDU0cwNnhiTnZoQmt5M05OdWpneWpaMFRNWHRUSHpSVjM5cHJEZV9yZFpqaTV5YlVndlIyd2pPMlNXbUZCdS1vTXozam9Xck5sdXN3T3V6ZnJHYlY0OENvbTJxUUpicTdFZVdQRU5wTV93NVFSYTRm?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Corriere della Sera Trump conferma negoziati Iran e avverte: senza accordo si torna a combattere Borsa Italiana Corse in auto di James Dean e gli arsenali missilistici La Stampa Iran: nostra dottrina occhio per occhio RaiNews Guerra in Iran, news. Trump: “Senza accordo distruggeremo tutto, ma mi piacerebbe non colpirli” la Repubblica",
+          "pubDate": "Wed, 29 Jul 2026 00:03:50 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Blog | La tassa nascosta dietro all'aumento dei carburanti: perché la versione governativa non torna - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRDJNT3VFY3F4MzV3R2NKM3k5dU5mMXFod25YWEN6N2Q3dE9EUFBTRHF6al9wTEREMldfVTB5YVhpVlhqR2Q3Z3pJUExjQVEtaXBwVHp2a2l1Y3NxUTVpUDdaYmJJaVN4QVRmSEJoLXJ5bmI2ejVrVGpfbWttWi1IazJLV2FpZkVmSTVaamVHZVFiWThYOWZCdHc4THNLMlZKOEdkTVhURjdzVFht?oc=5",
+          "description": "Blog | La tassa nascosta dietro all'aumento dei carburanti: perché la versione governativa non torna Il Fatto Quotidiano Gasolio, approvato decreto legge per riduzione accise e sostegno all'autotrasporto mef.gov.it Carburanti, il taglio non basta. Consumatori contro, imprese divise La Stampa Professioni, verso il primo sì alla riforma Il Sole 24 ORE Il decreto sul diesel non si vede (per ora): Boc",
+          "pubDate": "Tue, 28 Jul 2026 16:50:18 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "NWS confirms EF-3 tornado as Fox Valley begins storm cleanup Tuesday - WLUK",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOcmdhTHRXeVkyZENBbk1MbzlHVTVZMElwSi1uYlgwN003RWhfT0NuVDlncjRJWmRJTTFLSURISDBVNkJkU3JSLW1JVHM0MVdlOWM3dExCNWN0a19FWk5UMDlTS0haa1pHcTN6VTEzMEJtZWFSZEpZVTM3TlZwNG9BSDlrREJyRjA1aUxJaVNfMkJHTE5lZTBXdzN4SF9NZ2EtME81aDdkbkYyMWUwOUFEMDdsb2pJYzNQenQ5X3NqYS04VzNvb0pDR3pLcmhaeDh3ME5hMzVmQmItc1VjcUFxOXpZcUpaRGE4UElOWkJZTHB6cl94N2dwVUdXdjExUHdfV0p2bEZPRG1XS2plU21XZ19lVjY?oc=5",
+          "description": "NWS confirms EF-3 tornado as Fox Valley begins storm cleanup Tuesday WLUK EF-3 tornado tears through Wisconsin, leaving 12-mile path of destruction CBS News Wisconsin has significant storm damage as tornado hits Menasha, live updates The Post-Crescent Menasha apartment residents without power face boil water advisory with no means to comply WBAY State of emergency declared in Wisconsin following d",
+          "pubDate": "Tue, 28 Jul 2026 22:07:08 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Torna Mancini ct e con lui c'è Ranieri, ecco il nuovo corso azzurro",
+          "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/28/roberto-mancini-e-il-nuovo-ct-claudio-ranieri-direttore-tecnico.-lannuncio-di-malago_7fa1c4cf-409f-46d0-9902-f391fdd8548e.html",
+          "description": "La serie A contraria, Malagò: 'E' la persona giusta'. Domani la presentazione a Roma",
+          "pubDate": "Tue, 28 Jul 2026 19:38:33 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Petrolio in picchiata, carburanti ancora alle stelle - Giornale di Sicilia",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY0t3Q0RWbkZDR2g2ak9FTmxhMjNpamxlSjNKSFpqVTBaR2dDQ2JpYzU1MVl0NnUwVmJKUDIyZ28wM3ZvbmhtZXFaQ2FoN2ZhU29rNUpkb3lKNUZQTFVCZ3NSRGk4RlZ0MGZYYlQ3MWcyeU44VUpvX0RhSFlGaU84T3VteHpWdXJNTEdCU3ZuSC1zMUpnRUJqa3ExWWcxb09tUi1QZDRTdTBXYXRwTG5RSlJ5RkV2ZnVreFRiUThsa2N2SVQ5S1VDdm1jUko?oc=5",
+          "description": "Petrolio in picchiata, carburanti ancora alle stelle Giornale di Sicilia Stoccaggi bassi e Gnl sotto pressione: torna l’incubo del gas in Europa la Repubblica Crollano i prezzi del petrolio: USA e Iran sospendono gli attacchi nello Stretto di Hormuz Euronews Il gas prosegue in deciso calo (-3,8%) ad Amsterdam ANSA Natural Gas (Amsterdam) a 57,79 euro per Megawatt-Ora alle 15:40 Borsa Italiana",
+          "pubDate": "Mon, 27 Jul 2026 18:24:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "borsa",
+      "n_items": 16,
+      "n_sources": 4,
+      "category": "economia",
+      "score": 70,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa-Iran, le notizie in diretta | - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU2JaMk1OYklwTTRkZXc2aEJ6NmhsVllTYTQya200Z2hFOHQ2VE9RSEh5RThvNDZ2YzlHemxWSG45MzZibE9OUHJGejdYRnl3Q29Qd3lDT0F6N3kxNlFzMl9Denl3Y1F6MWNMR0p1MDdablBKRy1SVmhWZXF4MWpSa0N1MFlESTl4NEM2Q09EVdIBlAFBVV95cUxOSmVvQVFJcWxIb0FlMTUzVkR2dU04ZmdqZjFLZkJDU0cwNnhiTnZoQmt5M05OdWpneWpaMFRNWHRUSHpSVjM5cHJEZV9yZFpqaTV5YlVndlIyd2pPMlNXbUZCdS1vTXozam9Xck5sdXN3T3V6ZnJHYlY0OENvbTJxUUpicTdFZVdQRU5wTV93NVFSYTRm?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Corriere della Sera Trump conferma negoziati Iran e avverte: senza accordo si torna a combattere Borsa Italiana Corse in auto di James Dean e gli arsenali missilistici La Stampa Iran: nostra dottrina occhio per occhio RaiNews Guerra in Iran, news. Trump: “Senza accordo distruggeremo tutto, ma mi piacerebbe non colpirli” la Repubblica",
+          "pubDate": "Wed, 29 Jul 2026 00:03:50 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Ai, la rete di contratti da 1.800 miliardi che lega i big a doppio filo: i timori del mercato per l'effetto domino - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPcmZNN0UyREtBYXJGMWJVR05mS0hhd1dpSnlXekIyUmVKYTBVU3RHXzdMNzRFeklhc2FhXzd1X0NkZ2pxSUF6UDVBZGpZejN1cUFTV083cV95UHRyeHkwVW9xSkltMk1WSm15Zk13MGl1cElQZVFPU0ZlYWFLT3VKamZiYmVsQk1uejZjcXM0TVFUejdVemhkeUt6WUxhMnN1WS1zRE1UYWFOYUxLR09rTHQ5Q2FTbG9uVzRvQ2o2ZllzRU00TmhieWJYZVNyMi15V0pqeFE3SW1qeE1yUm16QmVTYmF5NWg0enBJVzNOUzFlbEVoM29yVmMyQV92dUIyNjdGRFFaQ0NjZ1NvSnBDOHNGdXJTQTM0UlhLOTBpaVdCVU5IaE54MUdSSFlhR0dPUVpZ0gG4AkFVX3lxTE5tZEx3QXlmY1lTTnZIeGxidElzMjdic1NvWnVyenQyTkluZ0dnemRoMzRLcnA0Z1AtemNRc3BnMEd4dnBCZkhSbkN3aGl5WDVkVGlpbThHOXlIdVdoaWRzdDI4bVRYemVzaFVCQko4eUE3UXJkY3EyVzRnRXg2eUZsU1kzLXM3Y2Rzb0Y0Y1ZUTlcxZjljSzNTcXp2QlVob2RkRW9YY0Y0T2paUUppYU5oU3NWazVhc041MndWTE5YMmpQNllXcnM2aWlBamhLODdiMl92SkhzWExCNzlLcnpqa2FFNzNvcVFRRFVzdld4UG5fVlZiNnNRM3lLNTRaM194TWFDRktHRFUtU1VtNmZfazJIMGF2RWhDUmNHdUxUX3FJcTUyV19QaUdkSU5lb21GdF9hMml2Zg?oc=5",
+          "description": "Ai, la rete di contratti da 1.800 miliardi che lega i big a doppio filo: i timori del mercato per l'effetto domino Corriere della Sera Nvidia in calo dopo le notizie di finanziamento a OpenAI, ma gli analisti confermano il fair value Morningstar Produttori di chip sotto pressione con nuovi timori su AI, Nvdia cede oltre il 5% Borsa Italiana Jim Cramer afferma che il governo USA è il silenzioso sos",
+          "pubDate": "Tue, 28 Jul 2026 13:05:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borsa: Milano frena a meta' seduta (-0,03%) tra pressione sui chip e tonfo Saipem - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQeC1NajlPVUxXZVlvRXdpUW9PUTlfMTdHOVdMNHBuMDdKaDh5d3Q3U1d5TGZrRTUtVVUxZnBxbDFzNHNiNmVudk5SVG9MWjFuRERKTzRlT2hxQ0RBVG1kd2pZMTk0TDV0VnFMY2NRYlRwV0ZFTzZrME1nSE5USWpvamE3cHB1ZG1tNnkyZW9sZEFsdmVzVWIxUHc4VGgtNjlGc2xMMERtd0pST1JVQTJhLWVkcHpac3lmZzZlNnptOFppRGZfWVlWbDAzSDljdjltV2xjTnVDQjJ4Nk52cDNHdHBVemJkR1p0UXRpbkhUVEhUcWwtdU5xWFhORnFTT3psN0JlU1ZwaVM2X0E?oc=5",
+          "description": "Borsa: Milano frena a meta' seduta (-0,03%) tra pressione sui chip e tonfo Saipem Borsa Italiana Al rialzo i mercati europei, focus sulle trimestrali in attesa della Fed Borsa Italiana Borsa: l'Europa chiude in rialzo nonostante le vendite sui chip ANSA Un veloce rimbalzo tecnico Milano Finanza Borse, Europa in cauto rialzo, il tech affonda l'Asia RaiNews",
+          "pubDate": "Tue, 28 Jul 2026 11:10:35 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Petrolio in picchiata, carburanti ancora alle stelle - Giornale di Sicilia",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY0t3Q0RWbkZDR2g2ak9FTmxhMjNpamxlSjNKSFpqVTBaR2dDQ2JpYzU1MVl0NnUwVmJKUDIyZ28wM3ZvbmhtZXFaQ2FoN2ZhU29rNUpkb3lKNUZQTFVCZ3NSRGk4RlZ0MGZYYlQ3MWcyeU44VUpvX0RhSFlGaU84T3VteHpWdXJNTEdCU3ZuSC1zMUpnRUJqa3ExWWcxb09tUi1QZDRTdTBXYXRwTG5RSlJ5RkV2ZnVreFRiUThsa2N2SVQ5S1VDdm1jUko?oc=5",
+          "description": "Petrolio in picchiata, carburanti ancora alle stelle Giornale di Sicilia Stoccaggi bassi e Gnl sotto pressione: torna l’incubo del gas in Europa la Repubblica Crollano i prezzi del petrolio: USA e Iran sospendono gli attacchi nello Stretto di Hormuz Euronews Il gas prosegue in deciso calo (-3,8%) ad Amsterdam ANSA Natural Gas (Amsterdam) a 57,79 euro per Megawatt-Ora alle 15:40 Borsa Italiana",
+          "pubDate": "Mon, 27 Jul 2026 18:24:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Saipem (-8,9%) maglia nera al FTSEMib - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLWhvMDJZaS1KRVN3WGRsSHVKLTJQcmZvUlVsakJDV2xqU001dm90WFBrU2hqUmU4NXVoM05CY2lYUkVYeEJ1RUlsbjhxODl6dFZoWjNPS0hTSkpEcTNKa0hpeFFEOGh3UmdHa3lMWTVoeS1VOFFYV05MSTZWNm13SlZidmlmYTZiUV9HX1hDM0tya2M?oc=5",
+          "description": "Saipem (-8,9%) maglia nera al FTSEMib SoldiOnline.it Saipem perde l’8,9% dopo i conti, analisti divisi sul titolo. Interviene il ceo Puliti Milano Finanza Saipem, Puliti conferma il sorpasso sul 2025: ordini a circa 8 miliardi di euro da inizio anno Borsa Italiana Saipem chiude il semestre con ricavi in crescita a 7,34 miliardi ANSA Perché il titolo Saipem crolla oggi in Borsa? Investing.com",
+          "pubDate": "Tue, 28 Jul 2026 15:42:00 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "milano",
+      "n_items": 15,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 66,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "«Care diocesi, raccontateci come state cambiando». Così va avanti il cammino del Sinodo - Avvenire",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTGVndVd4R3B6WkUyaFBEQko1ZVRfbU5xbEVNTHI5RVNSa1I4X25PUjFPa2NVTzVFZURqNnhsQ2JHZjh3a0V1WjFQMWQ0X2RoQkZ0S0drM3ZaX1hMdTlvSVVnNFZ1bG1JYlRfNGVheFk2eFBJdVMxQmtHZFZVTzVYLUxDNGRpTzE5U0ZickN1VHdwYnVDb3BsMjBWVHFnbUMzN3Uwc3FZT0RjNndZeVhfamRITmZ5MlZrckxBRFBn?oc=5",
+          "description": "«Care diocesi, raccontateci come state cambiando». Così va avanti il cammino del Sinodo Avvenire Sinodo: ecco il sussidio “Fare memoria”, per le Assemblee 2027 delle Chiese locali Vatican News Pubblicato il sussidio per la prossima tappa sinodale delle Chiese locali ANSA Sinodo, pubblicato il sussidio per le Assemblee diocesane Chiesa di Milano Sinodo, pubblicate le Note per la tappa delle Chiese ",
+          "pubDate": "Mon, 27 Jul 2026 18:39:38 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borsa: Milano frena a meta' seduta (-0,03%) tra pressione sui chip e tonfo Saipem - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQeC1NajlPVUxXZVlvRXdpUW9PUTlfMTdHOVdMNHBuMDdKaDh5d3Q3U1d5TGZrRTUtVVUxZnBxbDFzNHNiNmVudk5SVG9MWjFuRERKTzRlT2hxQ0RBVG1kd2pZMTk0TDV0VnFMY2NRYlRwV0ZFTzZrME1nSE5USWpvamE3cHB1ZG1tNnkyZW9sZEFsdmVzVWIxUHc4VGgtNjlGc2xMMERtd0pST1JVQTJhLWVkcHpac3lmZzZlNnptOFppRGZfWVlWbDAzSDljdjltV2xjTnVDQjJ4Nk52cDNHdHBVemJkR1p0UXRpbkhUVEhUcWwtdU5xWFhORnFTT3psN0JlU1ZwaVM2X0E?oc=5",
+          "description": "Borsa: Milano frena a meta' seduta (-0,03%) tra pressione sui chip e tonfo Saipem Borsa Italiana Al rialzo i mercati europei, focus sulle trimestrali in attesa della Fed Borsa Italiana Borsa: l'Europa chiude in rialzo nonostante le vendite sui chip ANSA Un veloce rimbalzo tecnico Milano Finanza Borse, Europa in cauto rialzo, il tech affonda l'Asia RaiNews",
+          "pubDate": "Tue, 28 Jul 2026 11:10:35 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Saipem (-8,9%) maglia nera al FTSEMib - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLWhvMDJZaS1KRVN3WGRsSHVKLTJQcmZvUlVsakJDV2xqU001dm90WFBrU2hqUmU4NXVoM05CY2lYUkVYeEJ1RUlsbjhxODl6dFZoWjNPS0hTSkpEcTNKa0hpeFFEOGh3UmdHa3lMWTVoeS1VOFFYV05MSTZWNm13SlZidmlmYTZiUV9HX1hDM0tya2M?oc=5",
+          "description": "Saipem (-8,9%) maglia nera al FTSEMib SoldiOnline.it Saipem perde l’8,9% dopo i conti, analisti divisi sul titolo. Interviene il ceo Puliti Milano Finanza Saipem, Puliti conferma il sorpasso sul 2025: ordini a circa 8 miliardi di euro da inizio anno Borsa Italiana Saipem chiude il semestre con ricavi in crescita a 7,34 miliardi ANSA Perché il titolo Saipem crolla oggi in Borsa? Investing.com",
+          "pubDate": "Tue, 28 Jul 2026 15:42:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borsa Milano debole con trimestrali in focus, tonfo di Saipem, bene difesa Da Reuters - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUVZrRTlQWUJsQUdLUS1Pb3d0Ykp0eDVOWGxPR1RycnFDekJldnB2QmFWbFdid3Rqelk3T3paZ3dlbzNIeG5zTlNpMGdZd2tHUFVJcGRObmhnak1sYm80THNkZlE0Mng3NFBGRHZLUUtNQnQxQUNEWUFxVUwxX00tdkpIN1ZxQ0xuZWRSWkVBUHpVSTk2YnotWVk4b2RsTjRWT2xaWWZ3WEJsY0xaUEY1STJlUm1HN3pqX3lYT055VTdFT21hY3dF?oc=5",
+          "description": "Borsa Milano debole con trimestrali in focus, tonfo di Saipem, bene difesa Da Reuters Investing.com Borse europee miste. In rosso Milano con tonfo Saipem Borsa Italiana Borsa: l'Europa arranca con le vendite sui semiconduttori, Milano -0,6% ANSA Milano chiude in calo, positive le altre Borse europee RaiNews Una brusca correzione Milano Finanza",
+          "pubDate": "Tue, 28 Jul 2026 12:43:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Inwit, i conti del 1° semestre 2026 - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVnNNNFdtel9vVTBra1c3ZjdoODJKcEc5RkhRd3ZNTWhzU0dfZll4aHMtVEdIWWhOY3NYd25YbU9qWndvYnNNNzAzVGtWWWNxZW1fdkNMV0VoLWpQd0pUQW44S0w4SEJma1lKNElFd3VXa1pBblhnYm5jRnlKVzZ4d2JTU1pWQ0NzX1labWRwUFc4TG1keU9ZV05nYjRQaE9uNjdvZklB?oc=5",
+          "description": "Inwit, i conti del 1° semestre 2026 SoldiOnline.it Inwit, semestre in flessione ma in linea con la guidance. Caso msa: ecco i ricorsi per il respingimento dei cautelari Milano Finanza Inwit, ricavi a 267 milioni nel secondo trimestre. E il braccio di ferro con Tim continua La Stampa Inwit, utile semestre a 160,3 milioni (-13,2%) ANSA INWIT, utile secondo trimestre scende a 79,3 milioni di euro con",
+          "pubDate": "Tue, 28 Jul 2026 17:10:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "nera",
+      "n_items": 9,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 60,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Meloni nei cantieri Tav: ' I magistrati facciano il massimo' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxObXc1dVVlUWhzOEdtTnhqR0xub1NvQXdQcVJmZDJYQ0RVOTFOelVIeVRaUnN2b01qUkdTRE5BXzJBTk5EVjNVanNOSVZXT2RKWEQ2U2hndHlUdVU3Nk9jSTFSNVRBNVVudndPc2Ewc2FNbVhRX0V3R2RQb3JkSUZ5MjFpZk9oMlRYQTdVaXVVVnA5U2ZJazhHZ1NoX2MzdE81eWxPTmw0aXc4amJnNU9uakhSZDNjNnNCYlFPNGk2QW1tdDUzUmVVakl2dVJxNjF5aERyWFRFeGxYZjNEUlpaMFdLN2ZTT243UThyR3NwSV9vX29MUXJvRUlGdC1INGNxOWR5eWVYRdIBjAJBVV95cUxPX1V4OUF1cnljLWZmc3ExQU9mMkpVZE5uRmJMVkxBT2RDblBHU29pYWV1RXJURVd3VFViQTNqTlhqSmNtcmxDNG1qa1R1SmJQWnB0WlV5dUJSQVpkUWRmWkpBdjZNdURkS2UwUVdKMUFXc0V1QUgzZXZCalBuSG05UHVEeFFySjRPXy1XUkU1bGhJakZtVE9tZUQwVEZYNUp1VWRRVzZJc0IzOTJIenV0QVpndzhfVU9NN3FBcFJUUXpFX2ZBbGtqNDVZZGZKOVZOaHRUX3Q0WG9JaUhXWXpJdjJEcU55UkNIWnprR0g3cFF2OWFSeE1jSkpETktrX19NUkJmRzIxVWNaamRx?oc=5",
+          "description": "Meloni nei cantieri Tav: ' I magistrati facciano il massimo' ANSA L'assalto ai cantieri Tav, i pm chiedono il carcere per due fermati ANSA Il ministro della Difesa Guido Crosetto in visita al comando generale dei carabinieri. «Vicino ai feriti in Val di Susa» Corriere Roma Molotov, black bloc e militanti stranieri: dentro la guerriglia No Tav in Val di Susa Avvenire Assalto alla Tav, si indaga sul",
+          "pubDate": "Tue, 28 Jul 2026 08:29:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Incendi in Francia: in Gironda evacuati quattromila turisti. Nella regione di Bordeaux distribuite 3,5 milioni di mascherine - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOMFRFOEhqRUVRVk9Ta2JOcDU4U1FZVkZ2M3JVeklWTWJ3SzBfWjdhbzF6OWUyZDFhbk9UbmQwMjZReWN0cDVtbEtoZEJ5MV92dUdQQVBZUjB4T1pfVnNpdEkzdVh3Nl9PVzdhbTdUVXMtNnU3aVJPY1ctb1BDUlZHOGhlRHg4YlNEb0k0c2YtUGxkMVNxTC03bldPcWkzRzJrczhWR1BsOUtTVG5lQXJaTFBpVHBJNnpmTWRIQ0dJNEticXg0a19lal9oUmJSUDRDMzlZdGNCS0NpdG9xZGZDUEJsMDBVYXJydmM1aU1CX1dhXzNGenBCWHhEVW5aUHJad0l3cg?oc=5",
+          "description": "Incendi in Francia: in Gironda evacuati quattromila turisti. Nella regione di Bordeaux distribuite 3,5 milioni di mascherine Il Fatto Quotidiano Le foto degli incendi in Francia e Spagna Corriere della Sera Incendi: cosa sono i pirocumulonembi, i temporali di braci e fulmini generati dal fuoco la Repubblica Serve un piano europeo contro gli incendi Internazionale Incendi in Francia e Spagna sotto ",
+          "pubDate": "Tue, 28 Jul 2026 10:25:36 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "La più grande minaccia al potere di Modi in 12 anni di governo - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLVEdJUkZVemhPR1hjNUVZbmlNcVhaeHlYUzFLaHZsNmhsYm5sUzROR0tpQjJhUXB6bng4eHVDUFJqX3c5aExzaUFNYi1UNTF3Z1ctdlc1b3FFMU5hSzQ0T1NXakEtN1ctRS1aRkM4TTlmcFZOMFE?oc=5",
+          "description": "La più grande minaccia al potere di Modi in 12 anni di governo Il Post La rabbia della generazione Z riguarda tutti - Pierre Haski Internazionale India: gli “scarafaggi” fermano le proteste dopo le dimissioni del ministro dell’Istruzione. Collegamento con Francesco Radicioni Radio Radicale Il grande ritorno di Gandhi, dagli studenti ai contadini è il trionfo della non-violenza la Repubblica India,",
+          "pubDate": "Mon, 27 Jul 2026 15:38:29 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Donald Trump and world leaders attend Lindsey Graham’s funeral - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeVlGckVWckcyeUVRenpkalQ1MGcybWtpdjhKSUdWRllxMWRDVlJzemN4UW1yS3pRMHp5YkMwSDhMLUZaODEwNEdDWHoxM3FwUEZsVkc2VGFRUDE4NktVMWh6TUc5SE91b1dEa3NKQkpuQUtwWW1sR0pMMXVSWjFtV1Y1M0xSQzR6bnRPMUVTNnlON0pXX0VwWjNydXZKUmFHZndFWkw1bEvSAa4BQVVfeXFMUF95cF8tSTRoYTI3eXNXUENOYWNhbTd6SnhPUE9lbDVERldaU1dDcktWX0FNYU1YSUNQaTZldnJENTB4bHlzc2ljaHJYRHhmRlJvekc0dmx4WVZGVi1vdWh6QmlNX1JCWEhra0JkTWRsOURIMGNfand2OENCQ1RJRU5Makt4S0otdWttZTlYYWEwWFBxYWtfV3dUbHNrQ2Rtd0t3SzFRYUFRNDFUTnd3?oc=5",
+          "description": "Donald Trump and world leaders attend Lindsey Graham’s funeral Al Jazeera What Lindsey Graham’s funeral revealed about the world under Trump CNN PHOTOS: President Trump remembers Lindsey Graham during ceremony at National Cathedral WJLA At Graham’s Farewell, a Glimpse Into Power in Trump’s Washington The New York Times Key Moments From Sen. Lindsey Graham’s Memorial WSJ",
+          "pubDate": "Tue, 28 Jul 2026 21:09:18 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Saipem (-8,9%) maglia nera al FTSEMib - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLWhvMDJZaS1KRVN3WGRsSHVKLTJQcmZvUlVsakJDV2xqU001dm90WFBrU2hqUmU4NXVoM05CY2lYUkVYeEJ1RUlsbjhxODl6dFZoWjNPS0hTSkpEcTNKa0hpeFFEOGh3UmdHa3lMWTVoeS1VOFFYV05MSTZWNm13SlZidmlmYTZiUV9HX1hDM0tya2M?oc=5",
+          "description": "Saipem (-8,9%) maglia nera al FTSEMib SoldiOnline.it Saipem perde l’8,9% dopo i conti, analisti divisi sul titolo. Interviene il ceo Puliti Milano Finanza Saipem, Puliti conferma il sorpasso sul 2025: ordini a circa 8 miliardi di euro da inizio anno Borsa Italiana Saipem chiude il semestre con ricavi in crescita a 7,34 miliardi ANSA Perché il titolo Saipem crolla oggi in Borsa? Investing.com",
+          "pubDate": "Tue, 28 Jul 2026 15:42:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "base",
+      "n_items": 7,
+      "n_sources": 7,
+      "category": "geopolitica",
+      "score": 55,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Attacco dell'Iran su una base Usa in Giordania, il petrolio balza del 3% in Asia - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRFZpbUpROXlJYnJtVzRBb2M2ZC1qVHpUcHBtemtFZndDUjkzaXBNdmFTVHMteXpzVVNQUktOLVRBbGNIaEVoZncxbnpueEVCWTNzRnh2bGFMeXUwODBBMUp2TjRhYlViX0hERXZKcjAwVHpMeGVnc0Rjd2lGVzVIRDdTVzFFak9MY0xKT3FOLW9VM3dkd1JHLTRpeFdRTEtkbk1URjF1N1hIVC1JTWg0RXQ2bFlSalNIbjBvT3Jyb1dQX0NlanltNDZEbHk4ZHpVZ3BqWDBPRnhmQ1VIYm5WanNYOHotU1BjSS1jZHNxSmxPNUtuS000SHN2LVZkN0Q3?oc=5",
+          "description": "Attacco dell'Iran su una base Usa in Giordania, il petrolio balza del 3% in Asia ANSA Missili iraniani contro una base USA in Giordania: \"Intercettati\". Netanyahu da Trump RaiNews Lungo la frontiera, sul Giordano, dove la siccità spaventa più dei missili Avvenire La Giordania sta finendo in mezzo alla guerra fra Stati Uniti e Iran Il Post TASS (TELEGRAM) * KATZ, «ISRAELE PRONTO AD ATTACCARE L'IRAN",
+          "pubDate": "Wed, 29 Jul 2026 01:12:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Hacker cancella l'intero catasto della Romania: paralizzato il mercato immobiliare rumeno - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ3dQTGo5ZmVOUzRQTlNTWUFheDhlQXhLV0xsMUVSaEJHRW0wd1VMWTVhbmtlZXRqLUxyR242Qk9abVVCYlhGZGhtb2pLZXJaY1d2YmVINVY3elRQVEUwM2pnTDZpOFVKUExjU1hlVmdKQ0VZemVHNHBjazQxcFlnZk5pM0dSQUZHSEJORGxwWGtkVVpUcW0w0gFoQVVfeXFMTS12MDhTd3hkOXpmczNPUXZvVWdiVzdPU18xck5zMnVXTkRSc2d3QmQxVWNmdWd6UUxLV01hV21WNjI5T19QOXpQS0hjNm9HZC1GR1ZBQy1PMkdpXzE3SDJsajdjdkVLMXU?oc=5",
+          "description": "Hacker cancella l'intero catasto della Romania: paralizzato il mercato immobiliare rumeno Tgcom24 La storia dell’hacker che ha cancellato l’intero catasto rumeno per ripicca Open In Romania non si possono comprare case per un attacco hacker AGI In Romania un hacker ha cancellato l’intero database del catasto nazionale macitynet.it",
+          "pubDate": "Tue, 28 Jul 2026 14:17:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Iran launches missiles at U.S. base for first time since Trump paused strikes - Axios",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nWDMyNnhqaERiaVJhaTJCa1NweVpqd3U1V20wcVlNWmdTOE1lUk5PaWxENjlMNjU2dDhUcS12Nlk1cGpWYURmQWlPclc2djdGNmgxUDl2X3lKcjlvTmgwSWFBaXF4NFZaTEpjUVpoeFYtaVpNaUE?oc=5",
+          "description": "Iran launches missiles at U.S. base for first time since Trump paused strikes Axios Live updates: US and Saudi forces conduct strikes on Iranian proxies in Iraq CNN Iran war live: US, Saudi forces attack Tehran-aligned groups in Iraq Al Jazeera Iran Launches Surprise Missile Attack on U.S. Forces in the Middle East WSJ Iran launches surprise ballistic missile attack on U.S. forces in the Middle Ea",
+          "pubDate": "Wed, 29 Jul 2026 01:25:06 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Attacco dell'Iran su una base Usa in Giordania, il petrolio balza del 3% in Asia",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/29/attacco-delliran-su-una-base-usa-in-giordania-il-petrolio-balza-del-3-in-asia_9709f24e-8c3e-4e35-b69c-1c886c8c4edd.html",
+          "description": "Centcom: i missili sono stati tutti intercettati. Il Brent sfiora gli 85 dollari al barile",
+          "pubDate": "Wed, 29 Jul 2026 03:13:53 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Lo spread Btp-Bund scende a ridosso degli 80 punti base",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/28/lo-spread-btp-bund-scende-a-ridosso-degli-80-punti-base_0db34db6-2562-4dc4-a511-6a672900e8d9.html",
+          "description": "Il rendimento dei bond italiani scende al 3,88% in scia al prezzo del petrolio",
+          "pubDate": "Tue, 28 Jul 2026 18:41:56 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "europa",
+      "n_items": 11,
+      "n_sources": 4,
+      "category": "economia",
+      "score": 50,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Save the Children, nel 2024 in Ue 9.500 vittime di tratta, 1.555 minori - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcDR5Wm05R29LOFA5US1udXVickdHTS1Vd21mMU5CNktEbDhzMXE0eVFEOEcwcXBXNnltY3VTS01WSHRFSzRyQkM0QWxHUjFXbjNXUTNYa2J1OTZyQ3NsbzhxazRYT2dJOEh4R21rSFpNZGl4aWY2WXhFbXNnN245ellQVFdSajQtMkl1ZnY3aThGV0duQ2RRRjRIRVotb2FQbFk0cnlkT2NvNC1EcjJMekhIU3RWSFgxd3lzbkpRNmE3RDZueTByaGYzZDl3Yk1OczBZck5xalp5S01tck5vTGlNZGRrUUd3Z1VLNGp1cVY0Y0stUXfSAfsBQVVfeXFMTXExWlZUSGRLQkpEa2cxX3JKMTU1SlZNV0lJdW9taC1jbUthUlZjRDNhVmdod2xvUmo3aks1MG8zc3BDX2txLUIxSXBhcEhXUmlsdmg4aDI4OFZpc2E2V0JoT3pOWkxDWUhKcG41UWVfZjRWelZmVkZmUXdva2pNRnFWSnZNU0hNcFNBM21Ud0VXeUhVZ290cE54V2dhcUdrR1M2ZUc2eXlXVkF5OVpnTjdQQmpEODJ2SmgtZndCT0VGTHJsc2hraUdKaC1YM284LXpGTDBpcGprUFI4ajZCY3RZeElBTHNFV2JBRUpRTFRPNnN3cFNxckhnUVk?oc=5",
+          "description": "Save the Children, nel 2024 in Ue 9.500 vittime di tratta, 1.555 minori ANSA Save the children: «Oltre 1.500 minori vittime di tratta in Europa nel 2024. Tra quelli segnalati in Italia, prevalgono gli adolescenti provenienti da Bangladesh o Egitto» Corriere della Sera Tratta di esseri umani: 1.500 casi nel 2026 Avvenire Piccoli Schiavi Invisibili: oltre 1.500 minori vittime di tratta in Europa Sav",
+          "pubDate": "Tue, 28 Jul 2026 05:03:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borsa: Milano frena a meta' seduta (-0,03%) tra pressione sui chip e tonfo Saipem - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQeC1NajlPVUxXZVlvRXdpUW9PUTlfMTdHOVdMNHBuMDdKaDh5d3Q3U1d5TGZrRTUtVVUxZnBxbDFzNHNiNmVudk5SVG9MWjFuRERKTzRlT2hxQ0RBVG1kd2pZMTk0TDV0VnFMY2NRYlRwV0ZFTzZrME1nSE5USWpvamE3cHB1ZG1tNnkyZW9sZEFsdmVzVWIxUHc4VGgtNjlGc2xMMERtd0pST1JVQTJhLWVkcHpac3lmZzZlNnptOFppRGZfWVlWbDAzSDljdjltV2xjTnVDQjJ4Nk52cDNHdHBVemJkR1p0UXRpbkhUVEhUcWwtdU5xWFhORnFTT3psN0JlU1ZwaVM2X0E?oc=5",
+          "description": "Borsa: Milano frena a meta' seduta (-0,03%) tra pressione sui chip e tonfo Saipem Borsa Italiana Al rialzo i mercati europei, focus sulle trimestrali in attesa della Fed Borsa Italiana Borsa: l'Europa chiude in rialzo nonostante le vendite sui chip ANSA Un veloce rimbalzo tecnico Milano Finanza Borse, Europa in cauto rialzo, il tech affonda l'Asia RaiNews",
+          "pubDate": "Tue, 28 Jul 2026 11:10:35 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Petrolio in picchiata, carburanti ancora alle stelle - Giornale di Sicilia",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY0t3Q0RWbkZDR2g2ak9FTmxhMjNpamxlSjNKSFpqVTBaR2dDQ2JpYzU1MVl0NnUwVmJKUDIyZ28wM3ZvbmhtZXFaQ2FoN2ZhU29rNUpkb3lKNUZQTFVCZ3NSRGk4RlZ0MGZYYlQ3MWcyeU44VUpvX0RhSFlGaU84T3VteHpWdXJNTEdCU3ZuSC1zMUpnRUJqa3ExWWcxb09tUi1QZDRTdTBXYXRwTG5RSlJ5RkV2ZnVreFRiUThsa2N2SVQ5S1VDdm1jUko?oc=5",
+          "description": "Petrolio in picchiata, carburanti ancora alle stelle Giornale di Sicilia Stoccaggi bassi e Gnl sotto pressione: torna l’incubo del gas in Europa la Repubblica Crollano i prezzi del petrolio: USA e Iran sospendono gli attacchi nello Stretto di Hormuz Euronews Il gas prosegue in deciso calo (-3,8%) ad Amsterdam ANSA Natural Gas (Amsterdam) a 57,79 euro per Megawatt-Ora alle 15:40 Borsa Italiana",
+          "pubDate": "Mon, 27 Jul 2026 18:24:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Crollo dei titoli tech in Asia, i dubbi sulla spesa per l’IA. Cresce la concorrenza cinese sui chip - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNamk5RkYxM3IydlVwUTdFTmxRMnBLQTR0Ung2Y1kwN1BLSUxtYmhneE9RX1BraTd4a2l4Y0N4aTB6SVZRZ254N0hRYWQ3Q1p3NS1teFVHUjQxMVhkY2hCRDVTajMzVEFsTlJSWkp2SVdfWVVSNWEyZDZTdjljeG01LVNlTXVVV2RMR0x5WkZENTJPWkZzNWdUVC1temhiNXQ4OHF3NDlwclE5dHNmYzhaT3BB?oc=5",
+          "description": "Crollo dei titoli tech in Asia, i dubbi sulla spesa per l’IA. Cresce la concorrenza cinese sui chip la Repubblica Le Borse oggi, 28 luglio. Paura IA, in Asia è fuga dal tech. Petrolio, continua il ribasso la Repubblica Borse e petrolio in diretta oggi 28 luglio | Europa debole, occhi sul Medio Oriente e attesa per i conti Big tech. Asia in profondo rosso con i chip Corriere della Sera Borse in cal",
+          "pubDate": "Tue, 28 Jul 2026 12:36:41 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borsa Milano debole con trimestrali in focus, tonfo di Saipem, bene difesa Da Reuters - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUVZrRTlQWUJsQUdLUS1Pb3d0Ykp0eDVOWGxPR1RycnFDekJldnB2QmFWbFdid3Rqelk3T3paZ3dlbzNIeG5zTlNpMGdZd2tHUFVJcGRObmhnak1sYm80THNkZlE0Mng3NFBGRHZLUUtNQnQxQUNEWUFxVUwxX00tdkpIN1ZxQ0xuZWRSWkVBUHpVSTk2YnotWVk4b2RsTjRWT2xaWWZ3WEJsY0xaUEY1STJlUm1HN3pqX3lYT055VTdFT21hY3dF?oc=5",
+          "description": "Borsa Milano debole con trimestrali in focus, tonfo di Saipem, bene difesa Da Reuters Investing.com Borse europee miste. In rosso Milano con tonfo Saipem Borsa Italiana Borsa: l'Europa arranca con le vendite sui semiconduttori, Milano -0,6% ANSA Milano chiude in calo, positive le altre Borse europee RaiNews Una brusca correzione Milano Finanza",
+          "pubDate": "Tue, 28 Jul 2026 12:43:00 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "nuovo",
+      "n_items": 8,
+      "n_sources": 6,
+      "category": "general",
+      "score": 48,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Houthi, missili contro una petroliera saudita: il Mar Rosso diventa il nuovo fronte dello scontro regionale - il Giornale",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN19EaDBYWm9rVTI4ZkJtVHNTN1o4bFVrNTAwblBZbVVPUlEwUmVjdF90dUJWYWFqMF9naWJmVUdiZm9WcFFCc09RamRKNHJJcGVSRjc0MHZlT0o0M1VMenNVRW9qZnpNU2pQRWZ1ejFjekUxbXBBdExWU0tJV2xhb04yMzZFc0RaY1hUVDlybXVjbm82Vy1rRVpHV3cwQTNIamhjSzFxRi1nc0t0OXNwTjJFVFBOMVQ4N3Y3SW1vNDd0TUdwbFotUHlhMEVWcEJfV1h2MWVNYW5xRGNL?oc=5",
+          "description": "Houthi, missili contro una petroliera saudita: il Mar Rosso diventa il nuovo fronte dello scontro regionale il Giornale Gli Houthi attaccano impianti petroliferi sauditi con droni ANSA Così gli Houthi stanno portando Riad alla guerra AGI Trump silenzia i raid (per ora), gli Houthi non mollano la presa contro Riyadh il manifesto La missione (compiuta) degli Houthi: spostato il fuoco della guerra e ",
+          "pubDate": "Tue, 28 Jul 2026 19:17:35 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Torna Mancini ct e con lui c'è Ranieri, ecco il nuovo corso azzurro",
+          "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/28/roberto-mancini-e-il-nuovo-ct-claudio-ranieri-direttore-tecnico.-lannuncio-di-malago_7fa1c4cf-409f-46d0-9902-f391fdd8548e.html",
+          "description": "La serie A contraria, Malagò: 'E' la persona giusta'. Domani la presentazione a Roma",
+          "pubDate": "Tue, 28 Jul 2026 19:38:33 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Venezuela, da quattro giorni nessun nuovo bilancio ufficiale sulle vittime del sisma",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/28/venezuela-da-quattro-giorni-nessun-nuovo-bilancio-ufficiale-sulle-vittime-del_4be2a294-a7ba-4a4a-9208-e35ffa46b4d8.html",
+          "description": "Ong chiedono trasparenza su dati e aiuti. Ancora nessuna cifra ufficiale sui dispersi",
+          "pubDate": "Tue, 28 Jul 2026 23:49:31 +0200"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "Metaverso, dopo mesi di attesa Meta e Apple pronte a stupire",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/metaverso-dopo-mesi-di-attesa-meta-e-apple-pronte-a-stupire_cfde93b6-9f56-4996-bf94-712f6e7c9aa5.html",
+          "description": "Quest 3 il nuovo visore di Meta, novità Apple arriva il 5 giugno",
+          "pubDate": "Tue, 30 May 2023 12:21:56 +0200"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "Droni e satelliti per la conservazione del Colosseo",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/29/droni-e-satelliti-per-la-conservazione-del-colosseo_52d9695f-a259-4189-9667-a1df7fc60a01.html",
+          "description": "Nuovo sistema di monitoraggio e manutenzione sviluppato con Asi",
+          "pubDate": "Mon, 29 May 2023 08:59:16 +0200"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "petrolio",
+      "n_items": 8,
+      "n_sources": 5,
+      "category": "energia",
+      "score": 46,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Attacco dell'Iran su una base Usa in Giordania, il petrolio balza del 3% in Asia - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRFZpbUpROXlJYnJtVzRBb2M2ZC1qVHpUcHBtemtFZndDUjkzaXBNdmFTVHMteXpzVVNQUktOLVRBbGNIaEVoZncxbnpueEVCWTNzRnh2bGFMeXUwODBBMUp2TjRhYlViX0hERXZKcjAwVHpMeGVnc0Rjd2lGVzVIRDdTVzFFak9MY0xKT3FOLW9VM3dkd1JHLTRpeFdRTEtkbk1URjF1N1hIVC1JTWg0RXQ2bFlSalNIbjBvT3Jyb1dQX0NlanltNDZEbHk4ZHpVZ3BqWDBPRnhmQ1VIYm5WanNYOHotU1BjSS1jZHNxSmxPNUtuS000SHN2LVZkN0Q3?oc=5",
+          "description": "Attacco dell'Iran su una base Usa in Giordania, il petrolio balza del 3% in Asia ANSA Missili iraniani contro una base USA in Giordania: \"Intercettati\". Netanyahu da Trump RaiNews Lungo la frontiera, sul Giordano, dove la siccità spaventa più dei missili Avvenire La Giordania sta finendo in mezzo alla guerra fra Stati Uniti e Iran Il Post TASS (TELEGRAM) * KATZ, «ISRAELE PRONTO AD ATTACCARE L'IRAN",
+          "pubDate": "Wed, 29 Jul 2026 01:12:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Attacco dell'Iran su una base Usa in Giordania, il petrolio balza del 3% in Asia",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/29/attacco-delliran-su-una-base-usa-in-giordania-il-petrolio-balza-del-3-in-asia_9709f24e-8c3e-4e35-b69c-1c886c8c4edd.html",
+          "description": "Centcom: i missili sono stati tutti intercettati. Il Brent sfiora gli 85 dollari al barile",
+          "pubDate": "Wed, 29 Jul 2026 03:13:53 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Petrolio in picchiata, carburanti ancora alle stelle - Giornale di Sicilia",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY0t3Q0RWbkZDR2g2ak9FTmxhMjNpamxlSjNKSFpqVTBaR2dDQ2JpYzU1MVl0NnUwVmJKUDIyZ28wM3ZvbmhtZXFaQ2FoN2ZhU29rNUpkb3lKNUZQTFVCZ3NSRGk4RlZ0MGZYYlQ3MWcyeU44VUpvX0RhSFlGaU84T3VteHpWdXJNTEdCU3ZuSC1zMUpnRUJqa3ExWWcxb09tUi1QZDRTdTBXYXRwTG5RSlJ5RkV2ZnVreFRiUThsa2N2SVQ5S1VDdm1jUko?oc=5",
+          "description": "Petrolio in picchiata, carburanti ancora alle stelle Giornale di Sicilia Stoccaggi bassi e Gnl sotto pressione: torna l’incubo del gas in Europa la Repubblica Crollano i prezzi del petrolio: USA e Iran sospendono gli attacchi nello Stretto di Hormuz Euronews Il gas prosegue in deciso calo (-3,8%) ad Amsterdam ANSA Natural Gas (Amsterdam) a 57,79 euro per Megawatt-Ora alle 15:40 Borsa Italiana",
+          "pubDate": "Mon, 27 Jul 2026 18:24:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Crollo dei titoli tech in Asia, i dubbi sulla spesa per l’IA. Cresce la concorrenza cinese sui chip - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNamk5RkYxM3IydlVwUTdFTmxRMnBLQTR0Ung2Y1kwN1BLSUxtYmhneE9RX1BraTd4a2l4Y0N4aTB6SVZRZ254N0hRYWQ3Q1p3NS1teFVHUjQxMVhkY2hCRDVTajMzVEFsTlJSWkp2SVdfWVVSNWEyZDZTdjljeG01LVNlTXVVV2RMR0x5WkZENTJPWkZzNWdUVC1temhiNXQ4OHF3NDlwclE5dHNmYzhaT3BB?oc=5",
+          "description": "Crollo dei titoli tech in Asia, i dubbi sulla spesa per l’IA. Cresce la concorrenza cinese sui chip la Repubblica Le Borse oggi, 28 luglio. Paura IA, in Asia è fuga dal tech. Petrolio, continua il ribasso la Repubblica Borse e petrolio in diretta oggi 28 luglio | Europa debole, occhi sul Medio Oriente e attesa per i conti Big tech. Asia in profondo rosso con i chip Corriere della Sera Borse in cal",
+          "pubDate": "Tue, 28 Jul 2026 12:36:41 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Il petrolio è in caduta libera, torna il risk-on sui titoli tech in Europa - Websim",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnBlVjl3a0o1Mm9GUjhMTzN2TnVJQlROSjR0S1AtR1pQdENUU2Q5eEJRenpteVlJX3lodlQ2aWVyaThCVVFQc1lEYjQ4NFFXaUhpbFFaMUZHOFB6eTAxNzJGRTNZRmhtR0pRR0hEQVp6MW9mVGV1SEtjRERtVTRkcUFyY0VDNEUxa0FLcnIzeXVfaHJLZWViT3VsZ3lpc1JublBRREtGY0ZkZV8xcGM3eVp5b2owdWQyeUcyRVZjdw?oc=5",
+          "description": "Il petrolio è in caduta libera, torna il risk-on sui titoli tech in Europa Websim I rendimenti dei Treasury USA calano mentre i prezzi del petrolio scendono sulle tensioni con l’Iran Investing.com USD/CAD, Platinum e CAC 40 Previsioni: Rendimenti in Calo e lo Spostamento del Petrolio Modificano l’Appetito per il Rischio FXEmpire Rendimenti dei titoli di Stato in lieve rialzo Milano Finanza Bond so",
+          "pubDate": "Mon, 27 Jul 2026 09:56:00 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "chip",
+      "n_items": 8,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 46,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Nasdaq-100 slides into correction as global chip and memory stocks sell off - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUE1GNGdWRXhkc1llb3BDcVVaWjJ2ZU10aXQ4ZldYc3NVZmVfMTBGWDBJajNZRGNqd0t0dGxiTmRQU3dMWmFsRFFMMWZNRUJJQ1g1cnV3QWVvSDJRZi1KRFVPY1VPVndlQU53SWpVN0NHNTZod1FQWTdkUW9SU25XY3VCYVRkM2xmYU5GWWd3?oc=5",
+          "description": "Nasdaq-100 slides into correction as global chip and memory stocks sell off NBC News Stock Market July 28, 2026: Dow Rallies, Chip Stocks Slide WSJ Wall Street’s flip from AI to less-loved stocks accelerates, while oil prices keep easing AP News Stock market today: Nasdaq pares losses as chip stocks sell off, S&P 500 and Dow rise Yahoo Finance Dow jumps more than 500 points as oil prices slide, in",
+          "pubDate": "Tue, 28 Jul 2026 20:24:50 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Ai, la rete di contratti da 1.800 miliardi che lega i big a doppio filo: i timori del mercato per l'effetto domino - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPcmZNN0UyREtBYXJGMWJVR05mS0hhd1dpSnlXekIyUmVKYTBVU3RHXzdMNzRFeklhc2FhXzd1X0NkZ2pxSUF6UDVBZGpZejN1cUFTV083cV95UHRyeHkwVW9xSkltMk1WSm15Zk13MGl1cElQZVFPU0ZlYWFLT3VKamZiYmVsQk1uejZjcXM0TVFUejdVemhkeUt6WUxhMnN1WS1zRE1UYWFOYUxLR09rTHQ5Q2FTbG9uVzRvQ2o2ZllzRU00TmhieWJYZVNyMi15V0pqeFE3SW1qeE1yUm16QmVTYmF5NWg0enBJVzNOUzFlbEVoM29yVmMyQV92dUIyNjdGRFFaQ0NjZ1NvSnBDOHNGdXJTQTM0UlhLOTBpaVdCVU5IaE54MUdSSFlhR0dPUVpZ0gG4AkFVX3lxTE5tZEx3QXlmY1lTTnZIeGxidElzMjdic1NvWnVyenQyTkluZ0dnemRoMzRLcnA0Z1AtemNRc3BnMEd4dnBCZkhSbkN3aGl5WDVkVGlpbThHOXlIdVdoaWRzdDI4bVRYemVzaFVCQko4eUE3UXJkY3EyVzRnRXg2eUZsU1kzLXM3Y2Rzb0Y0Y1ZUTlcxZjljSzNTcXp2QlVob2RkRW9YY0Y0T2paUUppYU5oU3NWazVhc041MndWTE5YMmpQNllXcnM2aWlBamhLODdiMl92SkhzWExCNzlLcnpqa2FFNzNvcVFRRFVzdld4UG5fVlZiNnNRM3lLNTRaM194TWFDRktHRFUtU1VtNmZfazJIMGF2RWhDUmNHdUxUX3FJcTUyV19QaUdkSU5lb21GdF9hMml2Zg?oc=5",
+          "description": "Ai, la rete di contratti da 1.800 miliardi che lega i big a doppio filo: i timori del mercato per l'effetto domino Corriere della Sera Nvidia in calo dopo le notizie di finanziamento a OpenAI, ma gli analisti confermano il fair value Morningstar Produttori di chip sotto pressione con nuovi timori su AI, Nvdia cede oltre il 5% Borsa Italiana Jim Cramer afferma che il governo USA è il silenzioso sos",
+          "pubDate": "Tue, 28 Jul 2026 13:05:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borsa: Milano frena a meta' seduta (-0,03%) tra pressione sui chip e tonfo Saipem - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQeC1NajlPVUxXZVlvRXdpUW9PUTlfMTdHOVdMNHBuMDdKaDh5d3Q3U1d5TGZrRTUtVVUxZnBxbDFzNHNiNmVudk5SVG9MWjFuRERKTzRlT2hxQ0RBVG1kd2pZMTk0TDV0VnFMY2NRYlRwV0ZFTzZrME1nSE5USWpvamE3cHB1ZG1tNnkyZW9sZEFsdmVzVWIxUHc4VGgtNjlGc2xMMERtd0pST1JVQTJhLWVkcHpac3lmZzZlNnptOFppRGZfWVlWbDAzSDljdjltV2xjTnVDQjJ4Nk52cDNHdHBVemJkR1p0UXRpbkhUVEhUcWwtdU5xWFhORnFTT3psN0JlU1ZwaVM2X0E?oc=5",
+          "description": "Borsa: Milano frena a meta' seduta (-0,03%) tra pressione sui chip e tonfo Saipem Borsa Italiana Al rialzo i mercati europei, focus sulle trimestrali in attesa della Fed Borsa Italiana Borsa: l'Europa chiude in rialzo nonostante le vendite sui chip ANSA Un veloce rimbalzo tecnico Milano Finanza Borse, Europa in cauto rialzo, il tech affonda l'Asia RaiNews",
+          "pubDate": "Tue, 28 Jul 2026 11:10:35 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Crollo dei titoli tech in Asia, i dubbi sulla spesa per l’IA. Cresce la concorrenza cinese sui chip - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNamk5RkYxM3IydlVwUTdFTmxRMnBLQTR0Ung2Y1kwN1BLSUxtYmhneE9RX1BraTd4a2l4Y0N4aTB6SVZRZ254N0hRYWQ3Q1p3NS1teFVHUjQxMVhkY2hCRDVTajMzVEFsTlJSWkp2SVdfWVVSNWEyZDZTdjljeG01LVNlTXVVV2RMR0x5WkZENTJPWkZzNWdUVC1temhiNXQ4OHF3NDlwclE5dHNmYzhaT3BB?oc=5",
+          "description": "Crollo dei titoli tech in Asia, i dubbi sulla spesa per l’IA. Cresce la concorrenza cinese sui chip la Repubblica Le Borse oggi, 28 luglio. Paura IA, in Asia è fuga dal tech. Petrolio, continua il ribasso la Repubblica Borse e petrolio in diretta oggi 28 luglio | Europa debole, occhi sul Medio Oriente e attesa per i conti Big tech. Asia in profondo rosso con i chip Corriere della Sera Borse in cal",
+          "pubDate": "Tue, 28 Jul 2026 12:36:41 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: l'Europa chiude in rialzo nonostante le vendite sui chip",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/28/borsa-leuropa-chiude-in-rialzo-nonostante-le-vendite-sui-chip_96268516-d37a-4651-b3d9-11db8e20f901.html",
+          "description": "Londra +0,83%, Parigi +0,63% e Francoforte +0,41%, investitori puntano su altri settori",
+          "pubDate": "Tue, 28 Jul 2026 17:52:20 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "watch",
+      "n_items": 6,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 42,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Senate takes first steps on Russian sanctions as Zelenskyy watches from Senate gallery - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUWRuUkFuUUMxek9Bd3pxRC1seXRKdE9UVURDZTMtMUpsckdOX01PRjBscFRpdkV3dW1IYkJVV2dVUzgyNmFpRmtwWjBWOFl2MGR3UmhrQW9TTkc2aUJ2cm1va0ZBQ0xMQ2R0emhYd3ZQenIxdV92VHptQzZyYkp5b292ZlFjeW5wME1VeDRiOGZhRGNpLThpUGJUSnQyTlJZZzRlbTRwRTlNRHNS?oc=5",
+          "description": "Senate takes first steps on Russian sanctions as Zelenskyy watches from Senate gallery AP News Momentum shifts for Zelenskyy in Washington Politico 86 senators vote to move forward with Graham Russia sanctions bill Axios Senate sets up votes to sanction Russia for Ukraine war CNBC Putin, Russia put on notice as Senate takes crucial step to grind down the Kremlin’s war machine Fox News",
+          "pubDate": "Wed, 29 Jul 2026 01:47:00 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Watch: The moment quake hit Japan",
+          "link": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
+          "description": "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.",
+          "pubDate": "Tue, 28 Jul 2026 15:32:37 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
+          "link": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
+          "description": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
+          "pubDate": "Tue, 28 Jul 2026 23:00:15 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Recensione Samsung Galaxy Watch Ultra 2: miglior smartwatch per la tua salute | Video - HDblog.it",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSDRmSkw0ZTNGbi1EX01STkRRaVpza0tfN01zRldOYWlSeTVUa0FuM0lKc0ZQTnlUS2lRWVdSTk1razBaaTVOOEdfZTQ3UVd6SUFkQk9wa3ZtZGZvR1pFb1hqQnR6MFpvcEJaTk1kcWV2MnZlUFU4NEpTNE1lVjB0b2l0V1ZzaEw0cVZLUm9vZUxCWFBIWnBQYw?oc=5",
+          "description": "Recensione Samsung Galaxy Watch Ultra 2: miglior smartwatch per la tua salute | Video HDblog.it",
+          "pubDate": "Tue, 28 Jul 2026 14:32:24 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "[Galaxy Unpacked July 2026] A First Look at Galaxy Watch Ultra2 and Galaxy Watch9 - Samsung Global Newsroom",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSGxXREJWakVpbm9aeW9NQ2VYdUI0Y3BvZUo5RmZ6TTEzQUowS3EtX3N4SWc1V3lJZ3BoNHc2SmVsOEFhcHhNSkxRRllhTHlybGsyMTVDeWVXOFpxazVocVFhaEh6V0RfaGhCdVo5aDJ4WGZLZkJxSE9DT1lmeU1sYWNjWTNNUzFUeG9BSGZpZDVfMUxxRGZySWoxQU9ReE0yMWN2RlFkcUNIdWM?oc=5",
+          "description": "[Galaxy Unpacked July 2026] A First Look at Galaxy Watch Ultra2 and Galaxy Watch9 Samsung Global Newsroom Galaxy Watch Ultra 2 Trail Running Test: Can It Outrun Your Garmin? CNET Samsung Galaxy Watch Ultra2 and Watch9: Your Health Companion on the Wrist Samsung Global Newsroom Deals: Galaxy Watch Ultra 2 up to $300 off, ExpertBook all-time low, Surface Pro 2-in-1 up to $470 off, more 9to5Google Sa",
+          "pubDate": "Tue, 28 Jul 2026 13:59:53 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "media",
+      "n_items": 8,
+      "n_sources": 4,
+      "category": "clima",
+      "score": 38,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "In arrivo la quarta ondata di calore: oggi Campobasso in rosso, domani 10 bollini arancioni - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZFlZNjktZkhiVFVHR3ExbC1kRkxxanhJR0p3emdYM0NLN0FmXzRldTBOdjR1Vy1yM3hrY0RMdWRfWURIWU5HNWowZFBwck5rR3o5TXI3Nkh5NlhVc2tzV2J1N2dPQTFPRE1fcHFxRUdldzZXN1Nqam1oY3AtbGl1Vm9HLW5ia2diN3lEdFJCS0ZjalI5SXZPMXFHR3hUSTJ0elJ4a2Z6LTd0bG9hS2ZJTTVZaGtMem9TajR5Qg?oc=5",
+          "description": "In arrivo la quarta ondata di calore: oggi Campobasso in rosso, domani 10 bollini arancioni Il Sole 24 ORE Arriva la nuova ondata di caldo, ecco le città dove le temperature saranno più alte Sky TG24 Meteo, l'anticiclone africano è arrivato: ondata di caldo e 7 gradi oltre la media RaiNews In arrivo la quarta ondata di calore dell’estate Arpae Emilia-Romagna Previsioni meteo, l’anticiclone african",
+          "pubDate": "Tue, 28 Jul 2026 10:13:10 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Ex vertici della sicurezza israeliana a Trump: «Fermi la violenza dei coloni in Cisgiordania» - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUVYdXItVXZvRmdXbllTajhVYWk4Qk1XbFNjN3NzMl9aRmEySFctUl9pcDlnVVhpZkQxT3JaTzNMV2VPS3cxeWhyU2dNMHJtR1dFdi1NZERzM3RRYk9Qc3VveXRYVGdLNFdwSlZTeHNzQlk0T19xNG9KcHpFSWljWHBvUUE2VWxJVFYtYnpETzR0cm42NG9Ta29uUEwxVE5vX2Qzend6emRrU2Y2VzVWSm1B?oc=5",
+          "description": "Ex vertici della sicurezza israeliana a Trump: «Fermi la violenza dei coloni in Cisgiordania» Il Sole 24 ORE Cisgiordania, ancora attacchi dei coloni. L'appello di Abbas per fermare l'escalation Vatican News Ramallah, 30 edifici minacciati dalle colonie. La giornalista: “I miei non sanno dove andare” Il Fatto Quotidiano Media, Katz ordina l'occupazione di un altro campo profughi in Cisgiordania AN",
+          "pubDate": "Tue, 28 Jul 2026 07:41:15 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Media, attacco ucraino a Mosca con centinaia di droni - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUm8tY2xVUDlGcmc2WGpmQlpQTEZHS1Bac043OVZfc0t2LVpsNlFXbjEtemcwNlkyb3QwODB5VWlfdFZzb0Z2WllQcFlZNkxNcGtwWVRGWFBFdHBGZlR1YUJSaDQxcl9DdTk3d3hoQmd3UExnMGRMWlM3Wk5MWGFtd0F2MHJ6YVRBSDhxeUNLYl9QU1ctV2hfc1B4dGJ4NDF5RHBIWm9md05NV1p2SldrUkpTLWRQY2hPRnVqU3Y5d2pZQjVaOFllci0ycy1CNTdQYjljUEVCWlZKQjhrNllGd1duUQ?oc=5",
+          "description": "Media, attacco ucraino a Mosca con centinaia di droni ANSA Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Tue, 28 Jul 2026 04:03:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "La morsa del caldo sull'Italia, un bracciante muore in una serra",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/28/bracciante-muore-in-una-serra-non-escluso-malore-per-caldo_c2a6f4b2-6c0b-4b65-821e-909f203af481.html",
+          "description": "Attesi 7 gradi sopra la media, aumentano i bollini. Il caldo spinge verso i monti, 79 milioni le presenze",
+          "pubDate": "Tue, 28 Jul 2026 19:14:39 +0200"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Ondata di caldo africano sull'Italia: fino a 12 gradi sopra la media e notti tropicali, ecco le temperature. 3 bollini rossi, 16 arancioni - Leggo.it",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSWwzaVhuUHdZQnNhYjBFVUNwcjVmVC00Q3FUZDdpRkVrSE5EVVNnZFVOM3hRMlZxQzVUblFuR09JMjhTVFJHV3dtWXlWMXVYYnZEU0NkNUF4LUZkRFY4UkhaM3dwR05xdVNQSjlNSkJaOUZ2T2QwYWNZR29XeHk2WV9jOVZJRXduZlh2SktfOWFPc2FhQ0tsTTZtWTBlVmtaSFQyX2RPUFRnUkVmeFhfMzJ0YWxpdGlkNmlLaWh2NnMwZXg5d1ZycU0tX2tzbzRPWHJ6MW9BNNIByAFBVV95cUxORkNTY1FfS0VhTjV1cnVoNkZHUkVsQjk3RVB5ZFh1N05oZUlUaVRtbDBwODhhRkg4SHVFT19nWHVieGVQQl9lRTV2R3VtaDFqQW1iZWdfOGFxNXJEV19CZkczMTVuU1V0M1BlUi0zUGE3TnJNNHJNazM1bG9KSHJhd1NMUjhEc1JFem12UHAwU19XMjdSU3E5THZjd3lXaGRORmFudDl5ZmdabU5tTVRMbTdZLU56MnNXZkdrTDc4NC1XUXVjNlhnUw?oc=5",
+          "description": "Ondata di caldo africano sull'Italia: fino a 12 gradi sopra la media e notti tropicali, ecco le temperature. 3 bollini rossi, 16 arancioni Leggo.it",
+          "pubDate": "Tue, 28 Jul 2026 11:35:28 GMT"
+        }
+      ],
+      "macro_area": "clima-salute"
+    },
+    {
+      "keyword": "morti",
+      "n_items": 8,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 38,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Netanyahu alla Casa Bianca: \"Allineati con Usa, sosteniamo qualsiasi strada scelga Trump\" - Ministero Sanità Hamas: 4 morti in raid israeliani a Gaza nelle ultime 24 ore - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQRnFsMFZDT3VnQnNuVmlvSTUxNGI1X2N0X1V5VUpFQzg0Z1NtZC0tbEpMRFJwTHVweTlGX2pIRlFuLVgtTUUySG1saWFXQkNJcy1iMVBYRzZZUGlHbjlDNW5ucVlsSVhoMFVUdVZYS0Q0ckZseDk0TVVSUXdIdWxMT2UxTVItNG1mUVQ3UHFaN2ZOV1ZIVVp6Q3VEU3BOVGRQRlpUakxHdHpvQXJVS3BBa1dhY1lURlJKak45NW1HVWNwMTBxUUo4azJSdENNT1kxRG1IRmp1eFRIanVaTUVtNkphU3pGN1RwSlcwYVJPckpVZzVjZkN3bkxraHkwOTU1SjVwcXRFbGw2RkdLS2YxdFlhbE0yOTBDa21uUThmQ19STWpWUFNXS0Q4ZXRkZ9IBswJBVV95cUxQd0tHcDFsVWt2aUdtV1ZqWWItMGF2QTd0VS1zbFR6dWY3a002aWZOWElxbk4xRnpUeHFMQmdzR01nbFptLVhId1BhTm9LNzJ3WXBueXZwbGZQa2p5VnMxU3l1OXhlTThpWU5hNEtWUXpFcGFrY0FnZUFkVkJsSnlnN0IyRGE0R1hBUFBLWXNLX2Z6eU9JalVlZ3dJa1FFNUtMX3o4VEgyYTdObk5xUEFWVkxWN3J3d3Zac19LWFpwei1ncXFWWnExOEh6QjFKVzBkXzF5bHBIdkFBMDdtWGhVYzU0bDlESGMzR2FLdTdabDdpRmxTdnpNNDliWmlESlEzNWlHem13VnRzcXB3eWVod1p2aGdhbmFsUkhyMDRLS1M2UVBYYnpuUGNIVVhrak91cE5R?oc=5",
+          "description": "Netanyahu alla Casa Bianca: \"Allineati con Usa, sosteniamo qualsiasi strada scelga Trump\" - Ministero Sanità Hamas: 4 morti in raid israeliani a Gaza nelle ultime 24 ore RaiNews Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Tue, 28 Jul 2026 21:30:03 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Forte terremoto in Giappone, crolli e vittime sull'isola di Kyushu - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbDJfWF9hVmhzaWJIaTd0bEVZVURrM2ZJUkQweGRNVU4yM04xWnVpODhjNHhUdDAwMUpQWTBIMFNrdXU0clZueEZrMU1jX0kyaTRhcDJZTzB6XzFobXBBS1RfRDNybm1nLXJlOUFFejIzZzJ0TWRDQllRU1Rmdnp4UE5tOG5NZTNXVjg4cWFjWW1SMTFIWXY4T1VTUUtaTjVlRVdWWkVtZjBsR0NfZnZEbFFCNW1sRGViZDF1QUVfQWxIT3NwS3JlRTQ2dHA2Mi1JNUtqRUlTMDdWRHVqWmptMXk5QdIB6AFBVV95cUxOUVBZOWNIOW9YT3VtZlpmS2l1dmxiRFJ2dXl1ZndoSHZYQm1JcDJ2c1p5YTZXV0ZUV2laUUdoU01LdTBmZXdkSzBYM0xpVGF4WU9xV3FTcldZVU5qUUh2Z1F5Vk9iZ3A5bFBSdGRzTG42SjR2MmxkWFJISzc4cGUxNjZGUFcxajhRczRscEo0eXNScnJqdGNTUjRTQ0VrY0I4VTdTUnZLbkJlREJkRzR4bFRvRF9KQThfcERFdWtjX1dUTmlBdVZzZWtuNlBidkNLTG5FV3NiU2NKTTl4alpRaUxvb2JFMTBS?oc=5",
+          "description": "Forte terremoto in Giappone, crolli e vittime sull'isola di Kyushu ANSA Forte terremoto in Giappone, almeno 13 morti sull'isola di Kyushu ANSA Earthquake Network, il sistema di allerta terremoti nato all'università di Bergamo (10 anni prima di quello di Google) Corriere della Sera Terremoto in Giappone, danni e vittime. A Kumamoto crolla centro commerciale. FOTO Sky TG24 Giappone, il bilancio del ",
+          "pubDate": "Tue, 28 Jul 2026 17:14:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Francia, orrore a Orange: cinque neonati trovati morti nell'abitazione di una coppia: erano in scatole di cartone - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2lBSTYxSEcteFEyWWxtaGNMTmwyYVdyZWZmTGxreURTWmRmbFAxdnNuNjlzTVQ4dndSY2lXRGloZF9mRTJOdXlHZ1ZfTlpWTE9Fc21odFR2WjYwWW9VS1hjVXEyWmE1a2h3ZUotNHlaczdyVkJUWUxpM0lWckxSVzFKcGE5V3h6Zm1Bc19IVnlEeWZz0gFoQVVfeXFMTkZGQy1SNkp6U1A2b1d4QkxWWGNHTHQxX05lSm13T283VHA0WkZmZjNKelUtMWNIUW9zalIxY0p3bjhiTml5d3JwQWJuM0dQODJ2VmoxU205RFdBRm1oVklVOW5kaVF4V2M?oc=5",
+          "description": "Francia, orrore a Orange: cinque neonati trovati morti nell'abitazione di una coppia: erano in scatole di cartone Tgcom24 Francia, trovati cinque corpi di neonati nella casa di una coppia a Orange Corriere della Sera Orrore a Orange, i corpi di 5 neonati trovati in scatole di cartone ANSA Francia, i cadaveri di cinque neonati trovati in una casa in Provenza Sky TG24 Marsiglia, in una casa trovati ",
+          "pubDate": "Tue, 28 Jul 2026 09:54:46 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Forte terremoto in Giappone, almeno 13 morti sull'isola di Kyushu",
+          "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/07/29/forte-terremoto-in-giappone-almeno-13-morti-sullisola-di-kyushu_29db69bc-52b4-4387-b4ab-d36ddb328e6e.html",
+          "description": "L'epicentro vicino a Kumamoto, oltre 300mila sfollati e diverse persone intrappolate tra le macerie",
+          "pubDate": "Wed, 29 Jul 2026 03:44:05 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Giappone, il bilancio del terremoto sale ad almeno 13 morti e 100 feriti",
+          "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/07/29/giappone-il-bilancio-del-terremoto-sale-ad-almeno-13-morti-e-100-feriti_df104aba-35d0-4df0-9514-14675f4f7944.html",
+          "description": "Diverse persone ancora disperse in seguito ai crolli",
+          "pubDate": "Wed, 29 Jul 2026 03:48:08 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "asia",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Attacco dell'Iran su una base Usa in Giordania, il petrolio balza del 3% in Asia - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRFZpbUpROXlJYnJtVzRBb2M2ZC1qVHpUcHBtemtFZndDUjkzaXBNdmFTVHMteXpzVVNQUktOLVRBbGNIaEVoZncxbnpueEVCWTNzRnh2bGFMeXUwODBBMUp2TjRhYlViX0hERXZKcjAwVHpMeGVnc0Rjd2lGVzVIRDdTVzFFak9MY0xKT3FOLW9VM3dkd1JHLTRpeFdRTEtkbk1URjF1N1hIVC1JTWg0RXQ2bFlSalNIbjBvT3Jyb1dQX0NlanltNDZEbHk4ZHpVZ3BqWDBPRnhmQ1VIYm5WanNYOHotU1BjSS1jZHNxSmxPNUtuS000SHN2LVZkN0Q3?oc=5",
+          "description": "Attacco dell'Iran su una base Usa in Giordania, il petrolio balza del 3% in Asia ANSA Missili iraniani contro una base USA in Giordania: \"Intercettati\". Netanyahu da Trump RaiNews Lungo la frontiera, sul Giordano, dove la siccità spaventa più dei missili Avvenire La Giordania sta finendo in mezzo alla guerra fra Stati Uniti e Iran Il Post TASS (TELEGRAM) * KATZ, «ISRAELE PRONTO AD ATTACCARE L'IRAN",
+          "pubDate": "Wed, 29 Jul 2026 01:12:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Attacco dell'Iran su una base Usa in Giordania, il petrolio balza del 3% in Asia",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/29/attacco-delliran-su-una-base-usa-in-giordania-il-petrolio-balza-del-3-in-asia_9709f24e-8c3e-4e35-b69c-1c886c8c4edd.html",
+          "description": "Centcom: i missili sono stati tutti intercettati. Il Brent sfiora gli 85 dollari al barile",
+          "pubDate": "Wed, 29 Jul 2026 03:13:53 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borsa: Milano frena a meta' seduta (-0,03%) tra pressione sui chip e tonfo Saipem - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQeC1NajlPVUxXZVlvRXdpUW9PUTlfMTdHOVdMNHBuMDdKaDh5d3Q3U1d5TGZrRTUtVVUxZnBxbDFzNHNiNmVudk5SVG9MWjFuRERKTzRlT2hxQ0RBVG1kd2pZMTk0TDV0VnFMY2NRYlRwV0ZFTzZrME1nSE5USWpvamE3cHB1ZG1tNnkyZW9sZEFsdmVzVWIxUHc4VGgtNjlGc2xMMERtd0pST1JVQTJhLWVkcHpac3lmZzZlNnptOFppRGZfWVlWbDAzSDljdjltV2xjTnVDQjJ4Nk52cDNHdHBVemJkR1p0UXRpbkhUVEhUcWwtdU5xWFhORnFTT3psN0JlU1ZwaVM2X0E?oc=5",
+          "description": "Borsa: Milano frena a meta' seduta (-0,03%) tra pressione sui chip e tonfo Saipem Borsa Italiana Al rialzo i mercati europei, focus sulle trimestrali in attesa della Fed Borsa Italiana Borsa: l'Europa chiude in rialzo nonostante le vendite sui chip ANSA Un veloce rimbalzo tecnico Milano Finanza Borse, Europa in cauto rialzo, il tech affonda l'Asia RaiNews",
+          "pubDate": "Tue, 28 Jul 2026 11:10:35 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Crollo dei titoli tech in Asia, i dubbi sulla spesa per l’IA. Cresce la concorrenza cinese sui chip - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNamk5RkYxM3IydlVwUTdFTmxRMnBLQTR0Ung2Y1kwN1BLSUxtYmhneE9RX1BraTd4a2l4Y0N4aTB6SVZRZ254N0hRYWQ3Q1p3NS1teFVHUjQxMVhkY2hCRDVTajMzVEFsTlJSWkp2SVdfWVVSNWEyZDZTdjljeG01LVNlTXVVV2RMR0x5WkZENTJPWkZzNWdUVC1temhiNXQ4OHF3NDlwclE5dHNmYzhaT3BB?oc=5",
+          "description": "Crollo dei titoli tech in Asia, i dubbi sulla spesa per l’IA. Cresce la concorrenza cinese sui chip la Repubblica Le Borse oggi, 28 luglio. Paura IA, in Asia è fuga dal tech. Petrolio, continua il ribasso la Repubblica Borse e petrolio in diretta oggi 28 luglio | Europa debole, occhi sul Medio Oriente e attesa per i conti Big tech. Asia in profondo rosso con i chip Corriere della Sera Borse in cal",
+          "pubDate": "Tue, 28 Jul 2026 12:36:41 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+          "link": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
+          "description": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.",
+          "pubDate": "Tue, 28 Jul 2026 10:15:47 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "tgcom24",
+      "n_items": 5,
+      "n_sources": 4,
+      "category": "general",
+      "score": 20,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Francia, orrore a Orange: cinque neonati trovati morti nell'abitazione di una coppia: erano in scatole di cartone - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2lBSTYxSEcteFEyWWxtaGNMTmwyYVdyZWZmTGxreURTWmRmbFAxdnNuNjlzTVQ4dndSY2lXRGloZF9mRTJOdXlHZ1ZfTlpWTE9Fc21odFR2WjYwWW9VS1hjVXEyWmE1a2h3ZUotNHlaczdyVkJUWUxpM0lWckxSVzFKcGE5V3h6Zm1Bc19IVnlEeWZz0gFoQVVfeXFMTkZGQy1SNkp6U1A2b1d4QkxWWGNHTHQxX05lSm13T283VHA0WkZmZjNKelUtMWNIUW9zalIxY0p3bjhiTml5d3JwQWJuM0dQODJ2VmoxU205RFdBRm1oVklVOW5kaVF4V2M?oc=5",
+          "description": "Francia, orrore a Orange: cinque neonati trovati morti nell'abitazione di una coppia: erano in scatole di cartone Tgcom24 Francia, trovati cinque corpi di neonati nella casa di una coppia a Orange Corriere della Sera Orrore a Orange, i corpi di 5 neonati trovati in scatole di cartone ANSA Francia, i cadaveri di cinque neonati trovati in una casa in Provenza Sky TG24 Marsiglia, in una casa trovati ",
+          "pubDate": "Tue, 28 Jul 2026 09:54:46 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Hacker cancella l'intero catasto della Romania: paralizzato il mercato immobiliare rumeno - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ3dQTGo5ZmVOUzRQTlNTWUFheDhlQXhLV0xsMUVSaEJHRW0wd1VMWTVhbmtlZXRqLUxyR242Qk9abVVCYlhGZGhtb2pLZXJaY1d2YmVINVY3elRQVEUwM2pnTDZpOFVKUExjU1hlVmdKQ0VZemVHNHBjazQxcFlnZk5pM0dSQUZHSEJORGxwWGtkVVpUcW0w0gFoQVVfeXFMTS12MDhTd3hkOXpmczNPUXZvVWdiVzdPU18xck5zMnVXTkRSc2d3QmQxVWNmdWd6UUxLV01hV21WNjI5T19QOXpQS0hjNm9HZC1GR1ZBQy1PMkdpXzE3SDJsajdjdkVLMXU?oc=5",
+          "description": "Hacker cancella l'intero catasto della Romania: paralizzato il mercato immobiliare rumeno Tgcom24 La storia dell’hacker che ha cancellato l’intero catasto rumeno per ripicca Open In Romania non si possono comprare case per un attacco hacker AGI In Romania un hacker ha cancellato l’intero database del catasto nazionale macitynet.it",
+          "pubDate": "Tue, 28 Jul 2026 14:17:00 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Lavoro e... attacchi informatici, l'Agenzia per la Cybersicurezza Nazionale: \"Servono tecnici e umanisti, preparatevi\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTXd1Z2I1ZWgxWmlhcC0tUWZjZmY5Y09Semp3djNCcVFTcElpRW1oZXotSURfZkM3X3JVNWZleWx1LUhXUVp0aFZ1TWJSQW1IVkctLW1EUWpVOGZpZ3dfS3hTOUs5VVNVYlhlOGo4MkFuamFrQ0ZTaUdCLUY0QTRPdUVNY2Vxb0ZLN05CYXNXdFRESmhiTkQ1WDVYU1BUa3ZqTk90TTRWUE9EY1JTRzl1WkRqUnZuNEN1Z2c?oc=5",
+          "description": "Lavoro e... attacchi informatici, l'Agenzia per la Cybersicurezza Nazionale: \"Servono tecnici e umanisti, preparatevi\" Tgcom24",
+          "pubDate": "Mon, 27 Jul 2026 15:16:49 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Mistero svelato: a sterminare i dinosauri non fu l'impatto in sé dell'asteroide ma l'ondata di calore che provocò - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYXJHU3ctSjR2a3VWalVTMzVfWVg2RjZSUXRWWkJ5aUxreVdyME42MllsSWx6ei01WnRfdmwyYmpQSmhYMDhqdzZRdlhlOGZTeG5uYjIwSURuTzU2WXotWlNkZEw4RUh0M2NtdWRrVmFRNzIwYXkxS2tiQ0h2YkhSUVk0VklFU2t3TXV5bmZVQ3NkQ01NVFllV240VUjSAWhBVV95cUxOUlk1SmRabFNicW9VWi1BQmd4SVU2eDUzVW00WkdIWDg3WEFMbEN6ZXVUY29fZk1xSHU0Xzl0ekVGOU5YN3FTclFXTGZhaDYtYUtBMWd1Y3VKc0Q0STg3b2tHUXlSM2FKVg?oc=5",
+          "description": "Mistero svelato: a sterminare i dinosauri non fu l'impatto in sé dell'asteroide ma l'ondata di calore che provocò Tgcom24",
+          "pubDate": "Tue, 28 Jul 2026 16:08:42 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Eleonora Pedron e la laurea magistrale in Psicologia: \"La mia storia potrebbe aiutare altre persone\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObXZWYm5CazRhbXRLSnN6XzZkRXlmdS1PR3B2bHlZZDRJOVBpTTZ4MHZ2SDNJLWtBNi1fNi1iTWdqWGpOTldRNEtZdW9vUTJyNjhsWG9xd0E1SUdGLTZkTE1KYmlpcmZPdEplX2xfQmJDaGI5VGU4XzJoU3dSb3dKeFdsQnNCajlLUXpOVVdTVW1NNURxbVFianktd2FSWHEwMHczZ09pb0xmMk3SAWhBVV95cUxOcm8ydll3WjhLb3JEZUo3dXNfdDZmWHZBakhLODlhYkhlVTJKdXpCMDZvRkNwQXJkbF9UVDBYeGZ6bkVqMjgtbHphTndpNnNsbTBod1gwOGVUeVRNMk4wemRGc3JmeXNHZA?oc=5",
+          "description": "Eleonora Pedron e la laurea magistrale in Psicologia: \"La mia storia potrebbe aiutare altre persone\" Tgcom24",
+          "pubDate": "Tue, 28 Jul 2026 09:06:06 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "tumori",
+      "n_items": 5,
+      "n_sources": 3,
+      "category": "general",
+      "score": 15,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "L’evoluzione dei tumori è influenzata dal patrimonio genetico",
+          "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/07/28/levoluzione-dei-tumori-e-influenzata-dal-patrimonio-genetico-_4ed2a9d3-5258-400f-b965-2bdcc12fd7f3.html",
+          "description": "Scoperta utile per la medicina di precisione",
+          "pubDate": "Tue, 28 Jul 2026 08:05:50 +0200"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "L’evoluzione dei tumori è influenzata dal patrimonio genetico - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxON1NiZlNSTjJmSzREb25RS19meHRqcFdMRkU3ZXJ4OG9TZE1wakhCU2VLZDRjcl84U241S0ZPWF9GRDRqemVheHhHXzYwLU9VY3BNM2xRZlVEVmtQU0tvd2s5TG4zUmY1T01BbEY1aU9RS0FzUDdLdFdGbE5MMVktbUFtUG9kcm56cUh1RUpSODE0WlNtUEJxSzZGTVVuTHVtZXZVaHFZeVpjWEh2cklmdGU2a2xST3k1T2M2anYtZGk1bzRlUGkzRHhoNW5xd0NJVnd0dklfYTBmMVA5Q2piM2tsWHJuMlNYNDRPd3R4eElqYTZBbjJsStIB_gFBVV95cUxOSWVGM0FsZDB2MEhaYWdHT3VjLVI1M3p6RWNYTGg1ZnNHZE9zNXlwR2VucmpJdUlxZFdHY2FLeEFoS205cDhOMlpIRzRyUUFhRlVOQ0F5ZWZYdXlYZ0FWQVl6OGJiTUJaNGNKOXktaWt4S3BpajJPRmpWN0dOakR6NWQtVll1T2VpbGNRZUlWanhXdUIwUnZUNTZUYWVXZV9ybDJEYUM4MVg5S3liMElVal93U09Fd1lJeXJHeVBFVjZkQUNnQ2tZUGU3MEdVT1NIdFZyMEVSNEFYM0E1QjNPRGFzLWUzbEZsYzFsOVlkQXpXU1kxdHpfYUQ1RlM3UQ?oc=5",
+          "description": "L’evoluzione dei tumori è influenzata dal patrimonio genetico ANSA",
+          "pubDate": "Tue, 28 Jul 2026 06:05:41 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "'Il sole protegge dal melanoma', bufera sul post della nutrizionista - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWkZVX3F1WHR1MURLcWJIbW9CQVJnN0RELVB2VWJ1Q0lWcXg2MUY3NDNLZjNfb3dVWXBETi1UVmhYampDLVlCTFhwNjFTOHZWNWM5RjRnRi1YWWZvOUR6WVpsdldmaC10Y3NFUDg2VFN4b3pUV0V0dXAzNWswTkF2X2RBUnVxTjM5NWhpZEtkOTl6UDNHZzlPZVdsb1hISW9XRzA0eF9ROGMwYUNrX0lTWHMtT2RwQ2ZzWVk1OGdtVG9EM1VzeTdBQ3F3SGtJM1ctWnNCVDhkSWREVXlod1RUMFlVQWRPT0lMOGk1bFdFeVFySjVLdnFIbU9QdlBDaFVHMlgxNW9saTV2bFnSAZACQVVfeXFMTUFDVWRMN2JXTFdXRWZEVjNPdWJTMTBIdGxHVVZKWHpBc0hwbmlxbkZxTXg0MWtfZXhJbTcwNENfQUJtb2lfTEtVdVJ6dlhqTlp1UFBuQXFqUlVRREl4cmVvWUxQUGVEak5XejVGdWhTaEZ1dTZGZkpMOWQ4aFAzdzBHbWU5SmNYUUxOaV92R1c4MkN0dURJM1lBWF92ekNTX0VOeVY3R0tQVGQ4WXhiaC1qZkhvZnhPUWhLSnByaWx0U0N3bGRxSzR3bG1aU2RYQWRhNFhGN0UzMEl5MjhWb251dW0yeFlsYnFQSXVTX2hQUHZZMTN2VE5TMUtxY3BFUFowMzhvcV8zN1pBbTNUaG0?oc=5",
+          "description": "'Il sole protegge dal melanoma', bufera sul post della nutrizionista ANSA Melanoma. SIDeMaST: “Negare che i raggi UV causino i tumori della pelle è mistificazione e follia” Quotidiano Sanità Melanoma, bufera su Rasio: “Il sole non lo provoca”. Gli esperti: “I raggi UV aumentano il rischio” la Repubblica Il sole fa venire il melanoma? Cosa dice davvero la scienza dopo la polemica sulle creme solari",
+          "pubDate": "Tue, 28 Jul 2026 18:09:00 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Tumori: un integratore molto comune rafforza le difese contro il cancro. Lo studio - La Gazzetta dello Sport",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOE1aRjRFWlM1V2JIZ3BnUUxwZjJpdTROMmNIaE4yQWxLTGJWWWM1bndWUXlLWF9hWHg2OC0yc3owMzZvUDBwWG5VNGZDT0FBbmJ1MWczdGNJNTBPMG5YUlFWWEt3VGw0M2k0Y3JiUG03dEtjZHBvOGs2aUtLblBnOWotQm9EYnNDUHV2eEN0WmNZZk9RdVlWQlJyY2tRcTBlZjk3YWpWcWRFUE82aTVMaXNuVy1FZ0k3S2lvSHQxYjnSAcYBQVVfeXFMT1dPQ0pDWXZzaV9BeFlCdGRPeG5ZRGgwVTlsMW12TzZ0b2ZlOW9OcDlNYThRaUo4Um83X2pJcF9QV0lQbUxlRDRqRVJHeTA2dG43Z3BHZ2g4eUR6NzlVTXhsZHNDbHY5NWJnT3RFQzBybmtoWTJQMng2cnVEWERsTTZOcDluNm9ZQ1MzT2JUTWNMaTRFNmstcVYzS3hnVGJ1c3M4U0JYM3I2SWh1N0lkQi1OM2FlcGRnU1dDRnVNSWZPMUFIamxB?oc=5",
+          "description": "Tumori: un integratore molto comune rafforza le difese contro il cancro. Lo studio La Gazzetta dello Sport",
+          "pubDate": "Tue, 28 Jul 2026 09:21:39 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Tumori rari: la scienza che rende la prognosi finalmente personalizzata - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUU9KaDZsTkdpenVLbF9MNzd3V3JLVlpMQUlnRE5LWFlDVWQ5TEYtT18yMXVWT3J0UkNXdjVwb3dUOEM2bVR0NnRxWkdBbkdtRmZaTWFILXlkZXRPSU5ERVhURkh5eVdhQnp0Yzd1T2NwOUhGZ2RQSjQ3Z1FhUi1LTG5jRVllcUJTMG5ydnJBTzNLb1RtSzRKbGJqVDdUcWdVUGl3aW1ic2dDbmlhQ0tVdld4LW5BbGJVOUItd3BmMkFSWXhOOG1DVU9n?oc=5",
+          "description": "Tumori rari: la scienza che rende la prognosi finalmente personalizzata Mondosanità",
+          "pubDate": "Tue, 28 Jul 2026 12:08:10 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "caldo",
+      "n_items": 8,
+      "n_sources": 5,
+      "category": "clima",
+      "score": 4.6,
+      "cooldown": true,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "In arrivo la quarta ondata di calore: oggi Campobasso in rosso, domani 10 bollini arancioni - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZFlZNjktZkhiVFVHR3ExbC1kRkxxanhJR0p3emdYM0NLN0FmXzRldTBOdjR1Vy1yM3hrY0RMdWRfWURIWU5HNWowZFBwck5rR3o5TXI3Nkh5NlhVc2tzV2J1N2dPQTFPRE1fcHFxRUdldzZXN1Nqam1oY3AtbGl1Vm9HLW5ia2diN3lEdFJCS0ZjalI5SXZPMXFHR3hUSTJ0elJ4a2Z6LTd0bG9hS2ZJTTVZaGtMem9TajR5Qg?oc=5",
+          "description": "In arrivo la quarta ondata di calore: oggi Campobasso in rosso, domani 10 bollini arancioni Il Sole 24 ORE Arriva la nuova ondata di caldo, ecco le città dove le temperature saranno più alte Sky TG24 Meteo, l'anticiclone africano è arrivato: ondata di caldo e 7 gradi oltre la media RaiNews In arrivo la quarta ondata di calore dell’estate Arpae Emilia-Romagna Previsioni meteo, l’anticiclone african",
+          "pubDate": "Tue, 28 Jul 2026 10:13:10 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "La morsa del caldo sull'Italia, un bracciante muore in una serra",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/28/bracciante-muore-in-una-serra-non-escluso-malore-per-caldo_c2a6f4b2-6c0b-4b65-821e-909f203af481.html",
+          "description": "Attesi 7 gradi sopra la media, aumentano i bollini. Il caldo spinge verso i monti, 79 milioni le presenze",
+          "pubDate": "Tue, 28 Jul 2026 19:14:39 +0200"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Ex Ilva, Jindal rimane in partita: «Impegnati nell’acquisizione delle aree a caldo e a freddo»",
+          "link": "https://www.ilsole24ore.com/art/ex-ilva-jindal-rimane-partita-impegnati-nell-acquisizione-aree-caldo-e-freddo-AJNTBpX",
+          "description": "Jindal non si defila dall’ex Ilva. Dopo il decreto del 27 luglio della Corte d’Appello di Milano che ha stabilito la chiusura dell’area a caldo entro 90 giorni...",
+          "pubDate": "Tue, 28 Jul 2026 06:34:00 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Ex Ilva, Corte d’Appello Milano: stop area a caldo entro 90 giorni se non riduce emissioni. Governo conferma prestito",
+          "link": "https://www.ilsole24ore.com/art/ilva-corte-appello-milano-stop-all-area-caldo-entro-90-giorni-se-non-si-riducono-emissioni-AJoakzW",
+          "description": "Deflagra il caso ex Ilva alla vigilia del vertice di domani mattina 28 luglio a Palazzo Chigi tra Governo (la questione è anche nell’ordine del Giorno del Consiglio...",
+          "pubDate": "Mon, 27 Jul 2026 10:39:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Ondata di caldo africano sull'Italia: fino a 12 gradi sopra la media e notti tropicali, ecco le temperature. 3 bollini rossi, 16 arancioni - Leggo.it",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSWwzaVhuUHdZQnNhYjBFVUNwcjVmVC00Q3FUZDdpRkVrSE5EVVNnZFVOM3hRMlZxQzVUblFuR09JMjhTVFJHV3dtWXlWMXVYYnZEU0NkNUF4LUZkRFY4UkhaM3dwR05xdVNQSjlNSkJaOUZ2T2QwYWNZR29XeHk2WV9jOVZJRXduZlh2SktfOWFPc2FhQ0tsTTZtWTBlVmtaSFQyX2RPUFRnUkVmeFhfMzJ0YWxpdGlkNmlLaWh2NnMwZXg5d1ZycU0tX2tzbzRPWHJ6MW9BNNIByAFBVV95cUxORkNTY1FfS0VhTjV1cnVoNkZHUkVsQjk3RVB5ZFh1N05oZUlUaVRtbDBwODhhRkg4SHVFT19nWHVieGVQQl9lRTV2R3VtaDFqQW1iZWdfOGFxNXJEV19CZkczMTVuU1V0M1BlUi0zUGE3TnJNNHJNazM1bG9KSHJhd1NMUjhEc1JFem12UHAwU19XMjdSU3E5THZjd3lXaGRORmFudDl5ZmdabU5tTVRMbTdZLU56MnNXZkdrTDc4NC1XUXVjNlhnUw?oc=5",
+          "description": "Ondata di caldo africano sull'Italia: fino a 12 gradi sopra la media e notti tropicali, ecco le temperature. 3 bollini rossi, 16 arancioni Leggo.it",
+          "pubDate": "Tue, 28 Jul 2026 11:35:28 GMT"
+        }
+      ],
+      "macro_area": "clima-salute"
+    }
+  ]
+}

@@ -1,0 +1,918 @@
+{
+  "date": "2026-08-18",
+  "top_topics": [
+    {
+      "keyword": "trump",
+      "n_items": 19,
+      "n_sources": 7,
+      "category": "geopolitica",
+      "score": 139,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra ultime notizie. Reuters: «Usa non vogliono estendere cessate fuoco con l’Iran». Netanyahu a Kushner: «Disarmo Hamas, poi ritiro Idf» - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT3o1QmRRQ0VtajI3QU42dXZzS0xzN0NWR1J5S3hTRjRHczJtZXRxZHhlSjh6SzJxM1RUa2Z5d1YtaXVWaVdpZnVIc1YzX0V1dV85U3V3UmZQNXJPRGRqM0h5RUdQWjRfZ3k5cUFlRU13bERITFdpWVQzV1drNWh6ZmNHeVp6RHBuXy1DVjE3OFphdw?oc=5",
+          "description": "Guerra ultime notizie. Reuters: «Usa non vogliono estendere cessate fuoco con l’Iran». Netanyahu a Kushner: «Disarmo Hamas, poi ritiro Idf» Il Sole 24 ORE Netanyahu non molla Gaza: «Prima il disarmo di Hamas». Ma apre alla ricostruzione Corriere della Sera Kushner da Netanyahu: Trump vuole fermare i raid su Gaza Il Fatto Quotidiano Bibi la spunta: niente tregua il manifesto Gaza, Kushner vede Neta",
+          "pubDate": "Mon, 17 Aug 2026 21:58:10 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Trump a Oman: 'Vi attaccheremo se interferirete sui negoziati Hormuz' - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUkRMbWJDSU00U2xxXy1VM3VUaGRxNmNLSTRYS1lwdExNRDJpVTczeXhYYmpMeTlUUk1VX0Z2RTBtWE1jcWJnRmVFT3RMcmJmaUNNZVp3djZDS1lRMXhubnVVLTFNY005Rm8zT0RsVk5xNl9fUkhMaXJQckh2LTkwT1FnQzh1UQ?oc=5",
+          "description": "Trump a Oman: 'Vi attaccheremo se interferirete sui negoziati Hormuz' Sky TG24 Trump minaccia l'Oman, l'Iran bombarda i curdi Corriere della Sera Trump minaccia di bombardare anche l’Oman, Teheran prepara l’escalation Il Sole 24 ORE La pax americana nel pantano il manifesto Sono passati i 60 giorni per fare un accordo con l’Iran Il Post",
+          "pubDate": "Mon, 17 Aug 2026 21:42:47 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Il regalo di Trump a Kim Jong-un: “Esercitazioni militari con Seul costose e ostili, vanno ridotte” - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTkMybHgwTS1UQVBwVnotaE9XRVBOblFzN3h3R3pxZGZwaFF3QVVXZVJJNGdudXU4OXdOU1dRZGJKNHdJakVoN2xSSmhMTGtuRWJqZms2blA5YUNOZTlCQjU0LUpsalAxU2xBalpiQlJFdjNqMEhTOXVMLTJaTWFCM3JOUGVRWS11QXV6cEZVS1gzMWFNTFh1UFh6X3VnZEprU0FuMEh4WURBSzFDWDFGRWtZcnJTaF9jRlFOdWNNR0RTaHFSakpibE9iM0ljNml4YnEzUlROSm_SAd4BQVVfeXFMTVFrUllBVWQydmkyT2JPOWRDdWRmdnRQeVJDNUZiV0o0Q1dlUkZSVVVFcmFPUlp4NjJVbDFoYnhKQ2F3VWY5NGIxWkswLXBfaDltVC01WWpJMGwwd3NPcHpCQjJwNU1mem5MdzVleFJKX1NZVVBDOVRmY1prZldLdHdtOVBVdGNLWDZyTFhGcm1mZXZ5c3FteWhPOVZma0xwU3dNMGlTbmdKR01HdC1YMWxFXzA0RHNVRGZuZThhTS1Wek1oU1JTQUZ1dl9fNmNST3Z1MWhycFRNTHZyT05R?oc=5",
+          "description": "Il regalo di Trump a Kim Jong-un: “Esercitazioni militari con Seul costose e ostili, vanno ridotte” la Repubblica In corso le esercitazioni militari Corea del Sud-Usa ANSA La Nato è avvisata. Trump taglia le esercitazioni con Seul, vendetta per il mancato aiuto a Hormuz (di M. Lupis) HuffPost Italia Usa-Corea del Sud, al via le esercitazioni militari congiunte Vatican News Trump: \"Ridurre esercita",
+          "pubDate": "Mon, 17 Aug 2026 12:56:06 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Pressing degli Usa sul piano Gaza, Trump: 'Basta raid sulla Striscia' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTldnZXhVYTZNSGhZUkxNc2FhdXlhcGZUT2t5WHRBNFNfcVhmSFZsS2hzbVJSam96N25TUlhoM2dLQzdHZTZYNGFaZ0l1VzJfa2I5bDVPX0JDUXd2V29jZHNLSmNaQjNqR0RRay1ieE9uT3BWaHN4VWMzVnVIMHN2NWdKZEZVNUdTYjBOVHFDemtkUnJRSFktdHZQU1llOHZyTFNaankyeHFNU2ZqUGk5dnhKTmJmSDdsY1RrZ1l1SDYwTVFPSXRHLVJkdU0tZjVMSHZQRHAtV29lVHZaU1Z3VkY2TXFDZ0VqZUNxV25SOEhtMVNUeU5Z0gH8AUFVX3lxTFBEREJIUE1tcC1rek1XZzcxVUhhM0ZJeWlOLTI3a3lpUkc0SVk3aktBd2tOdVBfREU5WU45bWhMT05JOVpYdzk1SzFjNFBTY1ZFeENia2Zfb0JuOExQUE9mRG0zVEYxX3ZDN1lrSGw1aGZnWl9yZjRsQ2Y2bUVISDQ4dnFIUFBHeGpHc21FSHM0OEs0ZDFKNGtUdFd5R2tqcEZkbzVLeGR2ZHJqQkdxVE5lWmFpeVVQcS0ybDVkcXlueTdIc0pad1RLd180clZKVkE3ZmhkUzh0UmgwQVRWY3g4LThXSDBkVm85SldacllwcWxjUVFGaGhBaGRKMw?oc=5",
+          "description": "Pressing degli Usa sul piano Gaza, Trump: 'Basta raid sulla Striscia' ANSA Trump: 'Sarebbe meglio se Israele non attaccasse Gaza' ANSA Dopo le frasi di Ben Gvir, interviene Donald Trump: «Sarebbe meglio se gli israeliani non attaccassero Gaza Open Trump, 'sarebbe meglio se Israele non attaccasse Gaza' Quotidiano Nazionale Trump “Israeliani non colpiscano Gaza, Hamas ha accettato di deporre le armi",
+          "pubDate": "Mon, 17 Aug 2026 21:05:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "«Le tue finanze sono migliorate dal 2025?»: il 53% degli americani dice no e boccia Trump - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSGVwb1dtMWlMY2Q1X05IQkdVNldUMWpYckwwbTI0U2NlT1JjbF9PZkFBcnNXYlR5eGo0dThEQmxaRjA2c2FySWdtNGpsSVpQSkFWU01XYzB1WG1IV3h5SnlLU2N6Y1VvVUlnTE1aWXg5VC1PNGN4bHJKcnExd3VSZDVVT1U5X0xGbWQ3Z3RMbHk3U1pWOHR0VjhUb3dhMVdJVHg3aXUtVzgxX0FqRUxpNHlkcGdGd1RWckY3RXhNNnF3cjjSAcgBQVVfeXFMT1R2T3hHQkJWQ1FuV1RsXzJSZzZCYWZhbzNhYm8wNXdLUXZsdmgzMTl3ZC1kZzNjZVlRUDhHRzZmUXNJdUprWDVQWmpSUEpGN1NaaDdPVU14V0E2eFoyQUQ5NjJTNmRQQ3VEMEJYVm81c3pFUlZ0RGYwSGZIcTkzX2M5WUdkaDNFMmtweE1BellHOUpxTnVQdjVrd3ZaRDJoeVkxVFp6cDg2LWpRbEZZQldiN3F5bW1lb24ySm5TczNNUUR0cllvQ3U?oc=5",
+          "description": "«Le tue finanze sono migliorate dal 2025?»: il 53% degli americani dice no e boccia Trump Corriere della Sera I repubblicani affrontano il test di metà mandato mentre gli elettori si disilludono sull’economia di Trump Yahoo Finanza Usa, la guerra in Iran ha fatto sprofondare di nuovo la popolarità di Trump Sky TG24 I maschi della Gen Z stanno abbandonando Trump? cosmopolitan.com",
+          "pubDate": "Mon, 17 Aug 2026 06:11:26 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "mondo",
+      "n_items": 19,
+      "n_sources": 6,
+      "category": "general",
+      "score": 114,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Stanno davvero aumentando i terremoti forti nel mondo? Cosa dicono i dati - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaNmY0ZVB4U2tKWUcyYmVlaGRMRmVLRGl1aEU0ZE42Q3RDWm5jNk1lcGxJTm83MGdqdHdJZWI2YUtKc0llVFZCQVUtN0lwMG9odXZuWkJibkVhUXA4Wk5FT3JXS0xaZUVVSERGSFFlcFVBV0hldTNYbjRZLWltQQ?oc=5",
+          "description": "Stanno davvero aumentando i terremoti forti nel mondo? Cosa dicono i dati Sky TG24 Stanno davvero aumentando i terremoti forti nel mondo? ingvterremoti.com Venezuela, Colombia e Indonesia: i terremoti stanno davvero aumentando? Cosa dice la scienza Tgcom24 Terremoti, perché non si possono prevedere e cosa può fare l’intelli La Notizia Terremoti nel mondo, la sismicità sta aumentando? Cosa è emerso",
+          "pubDate": "Mon, 17 Aug 2026 13:23:22 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Cina in frenata: la produzione industriale rallenta al 4,5% a luglio - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUEcxVE9IVGZBRDNEZW5fT3BXQnVPVkZFd0RWQlhvWGx2UnlvMEtpY1RlbFJ4eWp6S3lVb3djUGxPYXFpQWo4U0VOSndrRnllbHZLdlgybFlMYWhTWllBSDRMVmxtWXdCZ2lCay04Nl82ZF9fcHQzYXEtelJURWd2N3owc0gxVFVFRmZ1aC1MV2tLSDdkVVFNczBaeV9vMmRDS3ozQg?oc=5",
+          "description": "Cina in frenata: la produzione industriale rallenta al 4,5% a luglio Il Sole 24 ORE Cina quanto ci costi: l’export del Dragone spaventa il mondo la Repubblica Le azioni europee arretrano mentre i deboli dati cinesi pesano sul sentiment: DAX, CAC, FTSE100 Yahoo Finanza Vendite al dettaglio in Cina rallentano a luglio, +0,6%, consumi sotto le attese ANSA Cina, segnali di rallentamento in avvio del s",
+          "pubDate": "Mon, 17 Aug 2026 14:28:07 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Lavoro: nel mondo 67 mln di giovani disoccupati, meno opportunità per l’IA",
+          "link": "https://www.ilsole24ore.com/art/lavoro-mondo-67-mln-giovani-disoccupati-meno-opportunita-l-ia-AJIQpem",
+          "description": "La disoccupazione giovanile aumenta. I giovani incontrano maggiori difficoltà nell’accesso a un lavoro dignitoso. Lo rileva un nuovo rapporto dell’ Organizzazione internazionale del lavoro (Ilo, agenzia delle Nazioni Unite) , che segnala...",
+          "pubDate": "Fri, 14 Aug 2026 15:32:03 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Mauro Ceruti: “Il mondo intero sull’orlo dell’abisso, ma la politica è assente” - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNclF0TDJWblZyZEpDTl9mRGVQeFlPTU9ZLVA3Yzl1c1FzMmlFUVdaT2xCbktnTGZpTm51N1pNTGpMVEZja2hoZzZ1TnVhVGIyZ0ZYMmlwMkhVMkF2VksydVRtMmRfUFgyYS1Od0xzTWdQNUtiOXh6ZUhhZVRsaEo0NzFRTW5kT29fUk16T1VBZVp5bFBCWlZXM0todnNsZ1pKUDEySzE5QUNHLUh1VzlQN082a9IBuAFBVV95cUxPOG5UNnVQWnNJUjNyaTR0UWQwWDY4THYxYWZFLXZ6UXhoNjVxOWp1TlZfUWRLRWRtTmFrRi15b044LUNRU0wyZkM5S0t1WU5HQVhLbGlCaXNHQTZIYkR0RmQ3T204c2VqdEprR2VlNGtFU052MmZiTXlKUlY4VklMV0FTVzlYci0zU2tUVXJGVW9ObkVqMFZkeXA3cXhJcEY4aVVrRkRSSU44VFMzOVNTOFZvVHdfOHRf?oc=5",
+          "description": "Mauro Ceruti: “Il mondo intero sull’orlo dell’abisso, ma la politica è assente” la Repubblica",
+          "pubDate": "Sun, 16 Aug 2026 23:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Cina, la nuova corsa ai cervelli: Pechino accelera su ricerca, biotech e medicina - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUVpEQldfSnJXMzJtZ2l3TW9qajV2RzI1NFlrRUZNZks1TnpXZTRUaldaZlhxVzFJOUlXV2dMOXZMcU9HTFNEdklGUXl2akthbGl3SVNpUE9mODRkbVBBMTJRdW1BdVpteWVVRXZ1UFNmTGVWV1R3S1VzOW52M3B0SE9pX2VkVE1Ga3pON0JUbTVYV09kZlB4aGh1M2dSc09jOWg3bTFETXREMkMwZU4yNV9JMlhjTjkzZkNzMFk3U1BSN1QxU244ZHdvZzBWYVkwZGhR?oc=5",
+          "description": "Cina, la nuova corsa ai cervelli: Pechino accelera su ricerca, biotech e medicina Mondosanità",
+          "pubDate": "Mon, 17 Aug 2026 16:00:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "iran",
+      "n_items": 13,
+      "n_sources": 8,
+      "category": "geopolitica",
+      "score": 110,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra ultime notizie. Reuters: «Usa non vogliono estendere cessate fuoco con l’Iran». Netanyahu a Kushner: «Disarmo Hamas, poi ritiro Idf» - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT3o1QmRRQ0VtajI3QU42dXZzS0xzN0NWR1J5S3hTRjRHczJtZXRxZHhlSjh6SzJxM1RUa2Z5d1YtaXVWaVdpZnVIc1YzX0V1dV85U3V3UmZQNXJPRGRqM0h5RUdQWjRfZ3k5cUFlRU13bERITFdpWVQzV1drNWh6ZmNHeVp6RHBuXy1DVjE3OFphdw?oc=5",
+          "description": "Guerra ultime notizie. Reuters: «Usa non vogliono estendere cessate fuoco con l’Iran». Netanyahu a Kushner: «Disarmo Hamas, poi ritiro Idf» Il Sole 24 ORE Netanyahu non molla Gaza: «Prima il disarmo di Hamas». Ma apre alla ricostruzione Corriere della Sera Kushner da Netanyahu: Trump vuole fermare i raid su Gaza Il Fatto Quotidiano Bibi la spunta: niente tregua il manifesto Gaza, Kushner vede Neta",
+          "pubDate": "Mon, 17 Aug 2026 21:58:10 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Trump a Oman: 'Vi attaccheremo se interferirete sui negoziati Hormuz' - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUkRMbWJDSU00U2xxXy1VM3VUaGRxNmNLSTRYS1lwdExNRDJpVTczeXhYYmpMeTlUUk1VX0Z2RTBtWE1jcWJnRmVFT3RMcmJmaUNNZVp3djZDS1lRMXhubnVVLTFNY005Rm8zT0RsVk5xNl9fUkhMaXJQckh2LTkwT1FnQzh1UQ?oc=5",
+          "description": "Trump a Oman: 'Vi attaccheremo se interferirete sui negoziati Hormuz' Sky TG24 Trump minaccia l'Oman, l'Iran bombarda i curdi Corriere della Sera Trump minaccia di bombardare anche l’Oman, Teheran prepara l’escalation Il Sole 24 ORE La pax americana nel pantano il manifesto Sono passati i 60 giorni per fare un accordo con l’Iran Il Post",
+          "pubDate": "Mon, 17 Aug 2026 21:42:47 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "«Le tue finanze sono migliorate dal 2025?»: il 53% degli americani dice no e boccia Trump - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSGVwb1dtMWlMY2Q1X05IQkdVNldUMWpYckwwbTI0U2NlT1JjbF9PZkFBcnNXYlR5eGo0dThEQmxaRjA2c2FySWdtNGpsSVpQSkFWU01XYzB1WG1IV3h5SnlLU2N6Y1VvVUlnTE1aWXg5VC1PNGN4bHJKcnExd3VSZDVVT1U5X0xGbWQ3Z3RMbHk3U1pWOHR0VjhUb3dhMVdJVHg3aXUtVzgxX0FqRUxpNHlkcGdGd1RWckY3RXhNNnF3cjjSAcgBQVVfeXFMT1R2T3hHQkJWQ1FuV1RsXzJSZzZCYWZhbzNhYm8wNXdLUXZsdmgzMTl3ZC1kZzNjZVlRUDhHRzZmUXNJdUprWDVQWmpSUEpGN1NaaDdPVU14V0E2eFoyQUQ5NjJTNmRQQ3VEMEJYVm81c3pFUlZ0RGYwSGZIcTkzX2M5WUdkaDNFMmtweE1BellHOUpxTnVQdjVrd3ZaRDJoeVkxVFp6cDg2LWpRbEZZQldiN3F5bW1lb24ySm5TczNNUUR0cllvQ3U?oc=5",
+          "description": "«Le tue finanze sono migliorate dal 2025?»: il 53% degli americani dice no e boccia Trump Corriere della Sera I repubblicani affrontano il test di metà mandato mentre gli elettori si disilludono sull’economia di Trump Yahoo Finanza Usa, la guerra in Iran ha fatto sprofondare di nuovo la popolarità di Trump Sky TG24 I maschi della Gen Z stanno abbandonando Trump? cosmopolitan.com",
+          "pubDate": "Mon, 17 Aug 2026 06:11:26 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump calls on Iran to surrender, threatens Oman over Strait of Hormuz - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2JUWXl1andyRnYtampVbHFSUVdRSDQ1RnFSMXBNZlRGS2JVM1kzeDd4OG80Rl85eVc4MTRjQVd0QTM1VVFtWGdsdmZjYTJEMzFNNnc1S05MUG01NDJBWjR1VVlaRFB1eEt6dzVqc0N2YTJzNENMTGs4eFBuYmU5aGM5TzBBX1ZPdWNhcW85c3dSQUxmazdaY3FUYzhGdU9STHBZaXJaOWtJQ05LblHSAbMBQVVfeXFMTXdYTVhDMG5xc0YwUnhwb0REMGc4a0RLdElYWXBmNm5MWThxRUNtek11T0VBSE5Jb1Y2UEdhRzQyNFZ4SDZrdW1NSGZHOGpFMFJjVm8ycVBfeWZPZWVyWDhOVFRPeF91MURyMjF4V2FsMTdkTUdpVXVDTVNzVFAxNll4QjVEOUc3NW02UU1HRFFOTlo2elFzYjJtMXNHaXJOMzlqdXp3OU1UQVdFSmNtSWotaU0?oc=5",
+          "description": "Trump calls on Iran to surrender, threatens Oman over Strait of Hormuz Al Jazeera As Iran Truce Expires and Options Shrivel, Trump Lashes Out The New York Times Why Trump Is Threatening Again to Bomb Oman WSJ CNBC Daily Open: Markets caught between Mideast worries and AI optimism CNBC Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal BBC",
+          "pubDate": "Tue, 18 Aug 2026 03:11:09 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Facing Quagmire in Iran, Trump Turns to a Familiar Face: North Korea’s Kim Jong-un - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMG1fMlJhVHBiT1FxMWZnVWdDaXQxZjZORnE1Tl80dDNLX1ZnWDV5bnNRTHU3Rk9GLTFwZFVXNmJwWkYyRmphZkZYeHQ0OC1sVGFJc0ZQZ1NNUGU5alhXOWFUUWFkS0hFN1FnV0I1S0xPTUZ6VFN4Q3VsSjkxbFpWRFM5UGk0NFFSNFJJbVYwRQ?oc=5",
+          "description": "Facing Quagmire in Iran, Trump Turns to a Familiar Face: North Korea’s Kim Jong-un The New York Times ‘Not the way it works’: Korea’s miscalculation on trade may cost them on security Politico Trump’s slight of South Korea in favor of the North raises broader US security concerns AP News Trump says North Korea's Kim has responded to his overtures Reuters Fact check: Every single part of this Trump",
+          "pubDate": "Mon, 17 Aug 2026 23:25:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "nuovo",
+      "n_items": 11,
+      "n_sources": 8,
+      "category": "general",
+      "score": 88,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Nuovo stop all'aeroporto di Catania per l'eruzione dell'Etna, voli in arrivo limitati per la colonna di cenere - Virgilio",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUGFWdDVyX3FMMzVGcHhFcVNCYmhoMHhrOUlSRGV0dUdyTU5JTm1jRk5aRjVHQ0piUVA3MlhWUWp4RkREQ0dhUUlQVlg5VWkxYUtqVFBqTlVBWThUMGlRSVJsZzBzdF9EXzVRX2NYYXp1TU5STTBBa0N6dVNtd3BtN0IzNHEtRXJtOXlJbnFBdEpuWlFIcnd5RUdnQjF0Q0RpVVlJb25ZOUhPZF93T3V1ZVhMNGY1aTA0U2Z6VnBRbzFZNFBMb0FOUDRLOUVJcms3YXFudmFVOHk5VGt3WEtJYl80a9IB6AFBVV95cUxQWW1xMVRyRHF1eURpU1R2SV8ybmZ4d3l5RHozS3FhUmp6UUhQeTh6TFQyYTRZcUowVzFtMGFNLWEzRVJmamc0cDlNZTRmVWYxMFVzTkFjVm83YnNzWFJGYTdaVlM0NzNzbGZqWXhIelpKN3daUG9SVDVmOU5mUHVCRTFEV2hXX21aU3J4eEVkS2xmREZuTGc4Um9sRDlzc0F4WldzZmQ2bjBZSkdhQ2xESF9lZkJ1TTVGaFlGblFqYTdJTUVMWnlfY1hvMVR4ZFZqVFRiUE9tZ05pYTNnWDBzVzJILW9XLS1E?oc=5",
+          "description": "Nuovo stop all'aeroporto di Catania per l'eruzione dell'Etna, voli in arrivo limitati per la colonna di cenere Virgilio Eruzione Etna, disagi: chiusi settori aerei, limitati arrivi a Catania Sky TG24 Nuove limitazioni all’aeroporto di Catania: 10 voli all’ora in arrivo fino alle 12 di domani Il Fatto Quotidiano Etna, lava in raffreddamento nella Valle del Bove: continua l'emissione di cenere dal c",
+          "pubDate": "Mon, 17 Aug 2026 07:30:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "«Le tue finanze sono migliorate dal 2025?»: il 53% degli americani dice no e boccia Trump - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSGVwb1dtMWlMY2Q1X05IQkdVNldUMWpYckwwbTI0U2NlT1JjbF9PZkFBcnNXYlR5eGo0dThEQmxaRjA2c2FySWdtNGpsSVpQSkFWU01XYzB1WG1IV3h5SnlLU2N6Y1VvVUlnTE1aWXg5VC1PNGN4bHJKcnExd3VSZDVVT1U5X0xGbWQ3Z3RMbHk3U1pWOHR0VjhUb3dhMVdJVHg3aXUtVzgxX0FqRUxpNHlkcGdGd1RWckY3RXhNNnF3cjjSAcgBQVVfeXFMT1R2T3hHQkJWQ1FuV1RsXzJSZzZCYWZhbzNhYm8wNXdLUXZsdmgzMTl3ZC1kZzNjZVlRUDhHRzZmUXNJdUprWDVQWmpSUEpGN1NaaDdPVU14V0E2eFoyQUQ5NjJTNmRQQ3VEMEJYVm81c3pFUlZ0RGYwSGZIcTkzX2M5WUdkaDNFMmtweE1BellHOUpxTnVQdjVrd3ZaRDJoeVkxVFp6cDg2LWpRbEZZQldiN3F5bW1lb24ySm5TczNNUUR0cllvQ3U?oc=5",
+          "description": "«Le tue finanze sono migliorate dal 2025?»: il 53% degli americani dice no e boccia Trump Corriere della Sera I repubblicani affrontano il test di metà mandato mentre gli elettori si disilludono sull’economia di Trump Yahoo Finanza Usa, la guerra in Iran ha fatto sprofondare di nuovo la popolarità di Trump Sky TG24 I maschi della Gen Z stanno abbandonando Trump? cosmopolitan.com",
+          "pubDate": "Mon, 17 Aug 2026 06:11:26 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Decreto Omnibus 2026: detrazione IVA, crediti dei professionisti e nuovo ravvedimento CPB - Commercialista Telematico",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNTd6U3AzaHJ0WFZmMFY5N1FKbjNNRkY0NHJTOHdGY1I2T0FaaG1pWWx1OUlrSE9QbUV4Rl9kV0VjZUFyWDdpNXRhLVdFel9JdlI5ZTNocTZ1R20tX3AwVFhoT1ZidzNFNU9lOVF0d0tOWVUzdHFfODlsM3NjRlhwX2VyLTQxS3RBcDlqRGRVNFRiUFd3MUdDaDEzOGo5T3lNN2prSnljYWEwRklGanIydks4b1VVai12VW9mZlV3SXY?oc=5",
+          "description": "Decreto Omnibus 2026: detrazione IVA, crediti dei professionisti e nuovo ravvedimento CPB Commercialista Telematico Redditi agricoli, le nuove regole sono pronte al debutto Terra e Vita Al via la tassazione sui differenziali da crediti d’imposta con sostitutiva Eutekne.info Fatture e detrazione Iva, tutte le novità introdotte dal decreto Omnibus Sky TG24 Elenco aggiornamenti fiscali 2026: nuove no",
+          "pubDate": "Mon, 17 Aug 2026 04:08:33 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Il gas risale sopra quota 62 euro sulla piazza Ttf di Amsterdam",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/il-gas-risale-sopra-quota-62-euro-sulla-piazza-ttf-di-amsterdam_a727e8f0-c566-4cb4-94fb-440b2d0660ee.html",
+          "description": "Nuovo massimo dallo scorso 27 luglio, prosegue il blocco di Hormuz",
+          "pubDate": "Mon, 17 Aug 2026 20:20:11 +0200"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Ferrero, nuova acquisizione negli Usa, la granola Purely Elizabeth entra nel Gruppo",
+          "link": "https://www.ilsole24ore.com/art/ferrero-nuova-acquisizione-usa-granola-purely-elizabeth-entra-gruppo-AJbKoem",
+          "description": "Il nuovo deal rafforza la presenza nel comparto Wellness e segna una nuova tappa del gigante di Alba sul mercato americano - Presidente Giovanni Ferrero: «Ottimo arricchimento per Ferrero»",
+          "pubDate": "Fri, 14 Aug 2026 16:15:03 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "oman",
+      "n_items": 9,
+      "n_sources": 8,
+      "category": "geopolitica",
+      "score": 78,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Nuovo stop all'aeroporto di Catania per l'eruzione dell'Etna, voli in arrivo limitati per la colonna di cenere - Virgilio",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUGFWdDVyX3FMMzVGcHhFcVNCYmhoMHhrOUlSRGV0dUdyTU5JTm1jRk5aRjVHQ0piUVA3MlhWUWp4RkREQ0dhUUlQVlg5VWkxYUtqVFBqTlVBWThUMGlRSVJsZzBzdF9EXzVRX2NYYXp1TU5STTBBa0N6dVNtd3BtN0IzNHEtRXJtOXlJbnFBdEpuWlFIcnd5RUdnQjF0Q0RpVVlJb25ZOUhPZF93T3V1ZVhMNGY1aTA0U2Z6VnBRbzFZNFBMb0FOUDRLOUVJcms3YXFudmFVOHk5VGt3WEtJYl80a9IB6AFBVV95cUxQWW1xMVRyRHF1eURpU1R2SV8ybmZ4d3l5RHozS3FhUmp6UUhQeTh6TFQyYTRZcUowVzFtMGFNLWEzRVJmamc0cDlNZTRmVWYxMFVzTkFjVm83YnNzWFJGYTdaVlM0NzNzbGZqWXhIelpKN3daUG9SVDVmOU5mUHVCRTFEV2hXX21aU3J4eEVkS2xmREZuTGc4Um9sRDlzc0F4WldzZmQ2bjBZSkdhQ2xESF9lZkJ1TTVGaFlGblFqYTdJTUVMWnlfY1hvMVR4ZFZqVFRiUE9tZ05pYTNnWDBzVzJILW9XLS1E?oc=5",
+          "description": "Nuovo stop all'aeroporto di Catania per l'eruzione dell'Etna, voli in arrivo limitati per la colonna di cenere Virgilio Eruzione Etna, disagi: chiusi settori aerei, limitati arrivi a Catania Sky TG24 Nuove limitazioni all’aeroporto di Catania: 10 voli all’ora in arrivo fino alle 12 di domani Il Fatto Quotidiano Etna, lava in raffreddamento nella Valle del Bove: continua l'emissione di cenere dal c",
+          "pubDate": "Mon, 17 Aug 2026 07:30:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Trump a Oman: 'Vi attaccheremo se interferirete sui negoziati Hormuz' - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUkRMbWJDSU00U2xxXy1VM3VUaGRxNmNLSTRYS1lwdExNRDJpVTczeXhYYmpMeTlUUk1VX0Z2RTBtWE1jcWJnRmVFT3RMcmJmaUNNZVp3djZDS1lRMXhubnVVLTFNY005Rm8zT0RsVk5xNl9fUkhMaXJQckh2LTkwT1FnQzh1UQ?oc=5",
+          "description": "Trump a Oman: 'Vi attaccheremo se interferirete sui negoziati Hormuz' Sky TG24 Trump minaccia l'Oman, l'Iran bombarda i curdi Corriere della Sera Trump minaccia di bombardare anche l’Oman, Teheran prepara l’escalation Il Sole 24 ORE La pax americana nel pantano il manifesto Sono passati i 60 giorni per fare un accordo con l’Iran Il Post",
+          "pubDate": "Mon, 17 Aug 2026 21:42:47 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump calls on Iran to surrender, threatens Oman over Strait of Hormuz - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2JUWXl1andyRnYtampVbHFSUVdRSDQ1RnFSMXBNZlRGS2JVM1kzeDd4OG80Rl85eVc4MTRjQVd0QTM1VVFtWGdsdmZjYTJEMzFNNnc1S05MUG01NDJBWjR1VVlaRFB1eEt6dzVqc0N2YTJzNENMTGs4eFBuYmU5aGM5TzBBX1ZPdWNhcW85c3dSQUxmazdaY3FUYzhGdU9STHBZaXJaOWtJQ05LblHSAbMBQVVfeXFMTXdYTVhDMG5xc0YwUnhwb0REMGc4a0RLdElYWXBmNm5MWThxRUNtek11T0VBSE5Jb1Y2UEdhRzQyNFZ4SDZrdW1NSGZHOGpFMFJjVm8ycVBfeWZPZWVyWDhOVFRPeF91MURyMjF4V2FsMTdkTUdpVXVDTVNzVFAxNll4QjVEOUc3NW02UU1HRFFOTlo2elFzYjJtMXNHaXJOMzlqdXp3OU1UQVdFSmNtSWotaU0?oc=5",
+          "description": "Trump calls on Iran to surrender, threatens Oman over Strait of Hormuz Al Jazeera As Iran Truce Expires and Options Shrivel, Trump Lashes Out The New York Times Why Trump Is Threatening Again to Bomb Oman WSJ CNBC Daily Open: Markets caught between Mideast worries and AI optimism CNBC Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal BBC",
+          "pubDate": "Tue, 18 Aug 2026 03:11:09 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Ondata di migranti soccorsi dalle ong, sette morti",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/una-nave-di-emergency-soccorre-unimbarcazione-7-migranti-morti-_34e43a4d-1cb9-44cf-8cdc-2c87ae1b1aed.html",
+          "description": "La tedesca Humanity 1 sbarcherà domani a Ravenna con 73 persone",
+          "pubDate": "Mon, 17 Aug 2026 20:09:24 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Trump minaccia di bombardare l'Oman, 'non si metta in mezzo su Hormuz'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/17/trump-minaccia-di-bombardare-loman-non-si-metta-in-mezzo-su-hormuz_d676cade-ae69-4b4d-8884-8806722f1f9e.html",
+          "description": "Tregua con l'Iran scaduta, ma il tycoon conferma colloqui coi pasdaran",
+          "pubDate": "Mon, 17 Aug 2026 19:56:51 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "rischio",
+      "n_items": 9,
+      "n_sources": 8,
+      "category": "tech-ai",
+      "score": 78,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Lavitola dal carcere: «Sono pentito di aver inguaiato mio fratello Ranucci. L'attentato è stata una scelta solo mia» - Corriere Roma",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeVBSRW9FOE04OHNBaVNJanJKZ1dRWi1TVUtwWTY3bE9mNXFPZXRmaENhMmpHM1pHZjlyN0U2eEtsUm1vY0RzVWVya0ZYMjNHRUpSaF9sZlVvY1RRaV9EdW5ZcGdxbkZBRGhzVGRlY19aVXpjaXZrdUhPNEdIRWE4MlZGZktRY0x6NzNtdVRqcGdXMDBmMWdpS29wYXpHR2k2UGVEc0xTWlF3TGtLMU9OdjVhZUhhdnZXNFV3QlV0dmozSUlXQ2RKMHhrc0VQRGI5TUFJby1NWG8?oc=5",
+          "description": "Lavitola dal carcere: «Sono pentito di aver inguaiato mio fratello Ranucci. L'attentato è stata una scelta solo mia» Corriere Roma 'Un mese prima Lavitola avvisò Ranucci sul rischio attentati' ANSA Lavitola: “Pentito di aver messo nei guai mio fratello Ranucci. L’attentato fu una scelta solo mia” la Repubblica La dolcevitola | Roma, la politica, i parrucchieri, e l’eterna Italia alle vongole sgusc",
+          "pubDate": "Mon, 17 Aug 2026 15:11:33 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Allarme Bce per la bolla dell’IA. “A rischio i risparmi europei” - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOblF1Sl9mcEFPV0JQcWppTkxiSE80LWFUQmE2Yl9CN2xMWGxwLWxmUXF4T3o3eGVEQUM5Ul9pZ0pBYWYtLVM4TV9XQmJCb2tFTDZBU0ZOX0RxMV9BNC1MYzh2VG1nYnR0NzRaRndIM0tNRk1lOVAzRU1rZDhTeTBtQ1NSenNIY2F2M1dabWtyUU1LWEtsam9md2szVzR6NEJtOGU2WUM4TU9rdFp0TnptWmxCSnRQWEgtRWR3U2ZDVGo?oc=5",
+          "description": "Allarme Bce per la bolla dell’IA. “A rischio i risparmi europei” la Repubblica Bce: boom dell’Ai, rischio di una nuova bolla dot-com Il Sole 24 ORE Rosa: “Giusto richiamo, ma rispetto alle altre crisi le aziende sono solide” la Repubblica Intelligenza artificiale, dagli accordi di Nvidia ai numeri di Meta: la «bolla» che agita l'estate Corriere della Sera Il debito dell’IA spinge il rendimento del",
+          "pubDate": "Mon, 17 Aug 2026 18:10:31 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Sanchez riunisce i ministri, 'rafforzata la sicurezza e l'assistenza dei migranti' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQcDh3eVZ2eVdkV3g0R0ZKSExOTFdnZXdTbnowbExnOXhMM2UxQjJjZGN0UUswbGtQYzYxWDdPNVdzYUlYZlR4WWtLZUJ6TTI2WW04MTMzREtnOFEzZ3J2ZGZQcFBmWEszYU1GRThFcVJhMEhqYklpbjdsT1ZOOTBOQV9MZUtUT3lxRnVDajlIdnRkSF85TGtwRHJYZUtPcmt5eVQzc1VNV1pNeTlOWjRRMFJFb1c5RnJublVxbG5VcFc1R0dlOXdoaTE3ckVTNEFFdzl3V0ZIbWUtc0JsRkllaEt6ZzgwMGNZNUZmbHVadUo0d0F6cnJJd0Njc1M3c2vSAYQCQVVfeXFMTlBXMDAtUDVkNnZKRmV2TTVldnFWd2wtZTdmTDZoREM4QlV1ekd2U1hiSUhZalhLejZVQ1gwM3piTnR0SnNIamxpU3lyWHFoMTVCak5CbTJGVmJrRzd5d2FaLUdtaFVzX3RUOE53Yk16STMyZzBvaUtzazV0TDI1S2R6NlhKOWtoS3RYdW1HekFjWDU1VWJmeW9Ocm9HeldrbHYtZnV0bklFV3RvLVlwcmJieHVNMU9PcHZ3c0pRYXd4T2o1OTVlZWNYWUNQRlo5a3VpZTQzczRYNmhzeVZLRHh5UWExZnR3ekszQ19DYzJ1OWZuQmhQc2F1ZC1tSzdHNDFneEs?oc=5",
+          "description": "Sanchez riunisce i ministri, 'rafforzata la sicurezza e l'assistenza dei migranti' ANSA Ceuta, la seconda ondata non c’è: sos sanitario, la città è al collasso la Repubblica “Ceuta è in pericolo”. Il presidente avverte Sanchez: “Pronto a rivolgermi alla giustizia” il Giornale Ceuta, nessun assalto-bis: Rabat blocca i migranti Il Gazzettino Tajani: 'I controlli restano fino al 15 agosto, rischio te",
+          "pubDate": "Mon, 17 Aug 2026 13:44:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "'Un mese prima Lavitola avvisò Ranucci sul rischio attentati'",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/un-mese-prima-lavitola-avviso-ranucci-sul-rischio-attentati_9c7536df-5f02-4bfa-8560-91b200f8cb99.html",
+          "description": "Al difensore in carcere: 'Scelta solo mia. Pentito perché ho inguaiato un mio fratello'",
+          "pubDate": "Mon, 17 Aug 2026 20:26:53 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Consorzio Parmigiano Reggiano, con il caldo la produzione non è a rischio",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/consorzio-parmigiano-reggiano-con-il-caldo-la-produzione-non-e-a-rischio_368b7c42-54e8-4e80-bd4b-52c76238537f.html",
+          "description": "Bertinelli, ma nel lungo periodo ci potrebbero essere conseguenze economiche",
+          "pubDate": "Mon, 17 Aug 2026 15:23:09 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "borsa",
+      "n_items": 17,
+      "n_sources": 4,
+      "category": "economia",
+      "score": 74,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Incendio in Belgio, in fiamme il parco naturale delle Hautes Fagnes - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMXZVVjBUVzJTd1NsX0NfSHlqTThLem9SdDJTOWJBMndvd3FISTRTM1F5Vkg4d1FDNXFMdkZabVRja3BJOXpUZ215b25LWnFST1FadjFBWTRKTlJSWVo2NlQ3ZV92aXRSV3lHbTN2ZGRQaWdEalJsTUgwM0NPczBUbnBkazNEZmZKY21zWnpjT1lEblo3VFJIdmlCRllneUVnQzlMSzk2cGJsZmVILTk0WWpfYXloTGhqUXZfTURQNnNYY216U3dxR1kyUGU2blJwZTlqWlZpLWFYT1E3TGVDRVBuV1ZiTGZxQ254MDJSZzVFNWI5LVE?oc=5",
+          "description": "Incendio in Belgio, in fiamme il parco naturale delle Hautes Fagnes ANSA L’enorme incendio nella più grande riserva naturale del Belgio Il Post L'UE mobilita risorse per belgio e Spagna a supporto della lotta agli incendi Borsa Italiana Incendi: von der Leyen, solidarietà europea in campo, seguiamo sviluppi Il Sole 24 ORE Caldo e incendi, la stagione terribile dell’UE non si arresta: in fiamme anc",
+          "pubDate": "Mon, 17 Aug 2026 07:45:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Il primo specchio bugiardo, riflette immagini diverse dall'originale",
+          "link": "https://www.ansa.it/canale_scienza/notizie/frontiere/2026/08/17/il-primo-specchio-bugiardo-riflette-immagini-diverse-dalloriginale_c9aaf7de-8be4-4626-bad9-2334cf3f0f04.html",
+          "description": "Trasforma un 1 in 8 o un cappello in una borsa, in futuro potrà nascondere oggetti",
+          "pubDate": "Mon, 17 Aug 2026 07:28:54 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse europee sui livelli della vigilia, a Milano spicca STM - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcFBRSG9YWS1mc3ZLYjY3NlRDYmhuUmt2b1Awb1k1ZWtHeW9DTUpvY1pjZUl6c3ZVSGlFa2RlSmYxQjJUdWM3STROSFpfeExYMFhXelRfeGJqNXZzeTRRSEluUFZ6Sk51ZzlzcEN0dzZLc0hpcHNjLTdVUklVTnlXRFE5ajZkWEpONTJxcG5uU3JrZjZUdHZsdkhDQjZjSHFfQWZuT1ZUY3FLcUhMZGdUd0VzODg5bUtyb1lQZEJlMXZwelFldVVTVlFXMFVjUTEwdFJLMTBJWHJ6aEhYbHN3?oc=5",
+          "description": "Borse europee sui livelli della vigilia, a Milano spicca STM Borsa Italiana Borse e prezzo del petrolio oggi 17 agosto | Europa in rialzo, brillano i tecnologici. A Milano corrono St e Prysmian. Barile giù in attesa delle mosse Fed Corriere della Sera Borse oggi in diretta | Il Ftse Mib chiude sulla parità. Sprint di StM, Nexi maglia nera del listino Milano Finanza Borsa Milano frena a +0,2%: Stm ",
+          "pubDate": "Mon, 17 Aug 2026 16:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "L’allarme di Oxford Economics sull’energia: “Le scorte di gas sono ai minimi, l’Europa tema l’inverno” - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR0Jsa0JYUmNPRXIyUXVBOVd4NjNoVWZiWDYwRjh1YzUwSW9WRVViX013NFhxSlpySHdCaEdIUWppNkpNUlB0Ymg1Ulc0Z1B0UVBMNmJhNFYyNEY4TTlBUmZoZktqMmlWU1VoOFk5WllGQ3VQM0htLWxPOEhTWWQ2bmNPNkJURHNQNnk1dHU0aE9keERFa2JsSg?oc=5",
+          "description": "L’allarme di Oxford Economics sull’energia: “Le scorte di gas sono ai minimi, l’Europa tema l’inverno” Il Fatto Quotidiano GME, indice IGI sale a 61,90 euro/Mwh Borsa Italiana Il gas risale sopra quota 62 euro sulla piazza Ttf di Amsterdam ANSA Il gas europeo estende il rally mentre le tensioni a Hormuz aumentano i timori sull’offerta Yahoo Finanza Gas naturale in calo a 61,22 euro al MWh: cosa st",
+          "pubDate": "Mon, 17 Aug 2026 13:34:41 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Lovaglio applaude il governo: \"Montepaschi resti integra\" - Quotidiano Nazionale",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObXlZMElFZURlcFd2bUo3REZDVV9DX2JSQ2UxX1p2aVd6N0cyN01hVG16QkRoa29fYktCYUZuUl9RUUVhVVRFQV9DNkdfU0hPUS1tQUZkYkZfZlFPaHBXSzRqSVlaaUEyTVMyckdKY3d3OVhPN1ZSWGNKMTFOQzNOZmNXak1YUHcwdmFJYQ?oc=5",
+          "description": "Lovaglio applaude il governo: \"Montepaschi resti integra\" Quotidiano Nazionale MPS, Lovaglio: preservare l'integrità del Monte, il suo valore va oltre la banca Borsa Italiana Mps, le parole di Meloni aprono il tema spezzatino Milano Finanza Meloni chiede a UniCredit di mantenere solide radici italiane e a MPS di preservare la propria identità Yahoo Finanza Quale sarà il futuro di Mps? Dall'offerta",
+          "pubDate": "Mon, 17 Aug 2026 03:52:49 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "hormuz",
+      "n_items": 9,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 60,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump a Oman: 'Vi attaccheremo se interferirete sui negoziati Hormuz' - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUkRMbWJDSU00U2xxXy1VM3VUaGRxNmNLSTRYS1lwdExNRDJpVTczeXhYYmpMeTlUUk1VX0Z2RTBtWE1jcWJnRmVFT3RMcmJmaUNNZVp3djZDS1lRMXhubnVVLTFNY005Rm8zT0RsVk5xNl9fUkhMaXJQckh2LTkwT1FnQzh1UQ?oc=5",
+          "description": "Trump a Oman: 'Vi attaccheremo se interferirete sui negoziati Hormuz' Sky TG24 Trump minaccia l'Oman, l'Iran bombarda i curdi Corriere della Sera Trump minaccia di bombardare anche l’Oman, Teheran prepara l’escalation Il Sole 24 ORE La pax americana nel pantano il manifesto Sono passati i 60 giorni per fare un accordo con l’Iran Il Post",
+          "pubDate": "Mon, 17 Aug 2026 21:42:47 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Il regalo di Trump a Kim Jong-un: “Esercitazioni militari con Seul costose e ostili, vanno ridotte” - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTkMybHgwTS1UQVBwVnotaE9XRVBOblFzN3h3R3pxZGZwaFF3QVVXZVJJNGdudXU4OXdOU1dRZGJKNHdJakVoN2xSSmhMTGtuRWJqZms2blA5YUNOZTlCQjU0LUpsalAxU2xBalpiQlJFdjNqMEhTOXVMLTJaTWFCM3JOUGVRWS11QXV6cEZVS1gzMWFNTFh1UFh6X3VnZEprU0FuMEh4WURBSzFDWDFGRWtZcnJTaF9jRlFOdWNNR0RTaHFSakpibE9iM0ljNml4YnEzUlROSm_SAd4BQVVfeXFMTVFrUllBVWQydmkyT2JPOWRDdWRmdnRQeVJDNUZiV0o0Q1dlUkZSVVVFcmFPUlp4NjJVbDFoYnhKQ2F3VWY5NGIxWkswLXBfaDltVC01WWpJMGwwd3NPcHpCQjJwNU1mem5MdzVleFJKX1NZVVBDOVRmY1prZldLdHdtOVBVdGNLWDZyTFhGcm1mZXZ5c3FteWhPOVZma0xwU3dNMGlTbmdKR01HdC1YMWxFXzA0RHNVRGZuZThhTS1Wek1oU1JTQUZ1dl9fNmNST3Z1MWhycFRNTHZyT05R?oc=5",
+          "description": "Il regalo di Trump a Kim Jong-un: “Esercitazioni militari con Seul costose e ostili, vanno ridotte” la Repubblica In corso le esercitazioni militari Corea del Sud-Usa ANSA La Nato è avvisata. Trump taglia le esercitazioni con Seul, vendetta per il mancato aiuto a Hormuz (di M. Lupis) HuffPost Italia Usa-Corea del Sud, al via le esercitazioni militari congiunte Vatican News Trump: \"Ridurre esercita",
+          "pubDate": "Mon, 17 Aug 2026 12:56:06 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump calls on Iran to surrender, threatens Oman over Strait of Hormuz - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2JUWXl1andyRnYtampVbHFSUVdRSDQ1RnFSMXBNZlRGS2JVM1kzeDd4OG80Rl85eVc4MTRjQVd0QTM1VVFtWGdsdmZjYTJEMzFNNnc1S05MUG01NDJBWjR1VVlaRFB1eEt6dzVqc0N2YTJzNENMTGs4eFBuYmU5aGM5TzBBX1ZPdWNhcW85c3dSQUxmazdaY3FUYzhGdU9STHBZaXJaOWtJQ05LblHSAbMBQVVfeXFMTXdYTVhDMG5xc0YwUnhwb0REMGc4a0RLdElYWXBmNm5MWThxRUNtek11T0VBSE5Jb1Y2UEdhRzQyNFZ4SDZrdW1NSGZHOGpFMFJjVm8ycVBfeWZPZWVyWDhOVFRPeF91MURyMjF4V2FsMTdkTUdpVXVDTVNzVFAxNll4QjVEOUc3NW02UU1HRFFOTlo2elFzYjJtMXNHaXJOMzlqdXp3OU1UQVdFSmNtSWotaU0?oc=5",
+          "description": "Trump calls on Iran to surrender, threatens Oman over Strait of Hormuz Al Jazeera As Iran Truce Expires and Options Shrivel, Trump Lashes Out The New York Times Why Trump Is Threatening Again to Bomb Oman WSJ CNBC Daily Open: Markets caught between Mideast worries and AI optimism CNBC Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal BBC",
+          "pubDate": "Tue, 18 Aug 2026 03:11:09 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Trump minaccia di bombardare l'Oman, 'non si metta in mezzo su Hormuz'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/17/trump-minaccia-di-bombardare-loman-non-si-metta-in-mezzo-su-hormuz_d676cade-ae69-4b4d-8884-8806722f1f9e.html",
+          "description": "Tregua con l'Iran scaduta, ma il tycoon conferma colloqui coi pasdaran",
+          "pubDate": "Mon, 17 Aug 2026 19:56:51 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+          "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+          "description": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+          "pubDate": "Mon, 17 Aug 2026 19:25:05 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "after",
+      "n_items": 12,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 54,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Judge delays Luigi Mangione’s state murder trial after double jeopardy claim - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRTlUa1hyVVc5SzJYaGhuVklZaUY5STZXeGdBOS1ybDNiVzZ5Wk5fTm8zeEF3eTEzODJGdUdkX2xCYVZNeThxNVpqUURydHJ6TVZKejlFd0Z1dkxTcmFFdERaN1l4cFBSTFMtbi1JOTRjRW1XSDlNeV9PLXVTTFhFdV9qU3lTX1Jf?oc=5",
+          "description": "Judge delays Luigi Mangione’s state murder trial after double jeopardy claim NBC News Luigi Mangione’s state murder trial effectively postponed CNN Luigi Mangione’s state murder trial postponed indefinitely amid double jeopardy fight AP News Luigi Mangione reveals motive for CEO's killing after pleading guilty in federal case PBS Mangione’s State Trial Is Delayed as His Lawyers Seek Dismissal The ",
+          "pubDate": "Mon, 17 Aug 2026 21:02:30 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Thousands in Indonesia await aid after quake kills 68, overshadowing Independence Day - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc2s5YWF6T2ViWDVUSTFEMmlmWC1tUnJiRHdPamRJLW1XLXJ0ang0QS15SllOOThiM1RScFRyOGp6OXZ2WjVacmFWUng2ZkxGdDFhWW90Nkh0dk5nVW1VQ3pUZ2JkU3pMNEtVS21wbmhNNzMzY3M1STVINkw0TkZsbjFqUUJHZi1razhoTy1BOWw1czBkeEFtM3RxaEZNZw?oc=5",
+          "description": "Thousands in Indonesia await aid after quake kills 68, overshadowing Independence Day AP News At Least 47 Dead as 7.7-Magnitude Earthquake Rocks Indonesia The New York Times Photos: Indonesia earthquake rescue efforts continue as death toll hits 68 Al Jazeera Pope Leo XIV expresses closeness to victims of Indonesia earthquake Vatican News Indonesia earthquake: Aid shortages and fears of starvation",
+          "pubDate": "Mon, 17 Aug 2026 19:33:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Senior Israeli official calls for killing of \"30 to 40\" people in Gaza every night: \"They're not even people\" - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTzdVS2ZFNERIckhiMFBpVEhia1RJR3dTRFhPWjdjQjZBd3ZtTzdkTWh0NndJNXJwMWRVMEw4Sm1wd0xYaVdCRzBuOWg2YXpyb2dud0VNRjJscG5VeUNQOHJBeGg0ZE5hZDB2ZGZlblFkYnA0NUR4c21wMk9TRmJibTlONA?oc=5",
+          "description": "Senior Israeli official calls for killing of \"30 to 40\" people in Gaza every night: \"They're not even people\" CBS News Far-right Israeli minister advocates killing ‘30 to 40’ Gazans each night Financial Times UAE billionaire questions normalisation with Israel after Ben Gvir calls for nightly killings of Palestinians Middle East Eye Ben-Gvir calls for nightly killing and mass emigration of Palesti",
+          "pubDate": "Mon, 17 Aug 2026 15:28:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Cambridge professor’s death shakes Britain as supporters condemn media ‘witch hunt’ - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObkU4bDRkdlk4MWxtcV9GVlNsQzYzRUdZNVdFTWFid3lVVDJEZVBidnRTcGJUNzFINkswWTJVNmh5OVAtSTB6ZkFDaEhYWGstamJTVVlOeks4akRKdHRNWk9zWEg3TVpiTlV1QXd2YlpzZGlyNWpxZ1ZyNXlEdndZZFF2Y1BpTS1xT05MR1FJUmJTdUVHZ0RnRA?oc=5",
+          "description": "Cambridge professor’s death shakes Britain as supporters condemn media ‘witch hunt’ NBC News Opinion | After a Scholar’s Awful Death, Mistaken Calls for Censorship The New York Times Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death Al Jazeera Shocking death of former professor reverberates at Cambridge — and well beyond The Washington Post The debate over Jason Arday’s l",
+          "pubDate": "Sun, 16 Aug 2026 15:31:54 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Meta Stares Down Trillion-Dollar Threat as Landmark Social Media Trial Begins - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTjZPQmdMQXg4RndQMEJWdGpNNS1yaWJSVXdSYjdpRlBHdlRkUkxZRmdodlMzMUlQRTlNc3JyamJvTG14WVhRVzBaS2hMUUlDX2NPZ2w5Q25PU3dkc3loenNUY1YzbnZZYm1MZnZCXzVfVTcxbUF2TkdOT2dFLTRaLU5WaXZoNVF2UlduOGlZTGhldC1HQVdqVWppZUJaUkVhaDdlYWZFM2F3RGpXNjJOYXZnVm15WlVrdFNMYm93?oc=5",
+          "description": "Meta Stares Down Trillion-Dollar Threat as Landmark Social Media Trial Begins Bloomberg.com Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California CNBC New Mexico’s attorney general pushes new social media safety laws after $900m court victory over Meta The Guardian A look at major lawsuits against Meta and other social media companies over harms to kids The Se",
+          "pubDate": "Mon, 17 Aug 2026 21:43:28 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "trial",
+      "n_items": 8,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 54,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Judge delays Luigi Mangione’s state murder trial after double jeopardy claim - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRTlUa1hyVVc5SzJYaGhuVklZaUY5STZXeGdBOS1ybDNiVzZ5Wk5fTm8zeEF3eTEzODJGdUdkX2xCYVZNeThxNVpqUURydHJ6TVZKejlFd0Z1dkxTcmFFdERaN1l4cFBSTFMtbi1JOTRjRW1XSDlNeV9PLXVTTFhFdV9qU3lTX1Jf?oc=5",
+          "description": "Judge delays Luigi Mangione’s state murder trial after double jeopardy claim NBC News Luigi Mangione’s state murder trial effectively postponed CNN Luigi Mangione’s state murder trial postponed indefinitely amid double jeopardy fight AP News Luigi Mangione reveals motive for CEO's killing after pleading guilty in federal case PBS Mangione’s State Trial Is Delayed as His Lawyers Seek Dismissal The ",
+          "pubDate": "Mon, 17 Aug 2026 21:02:30 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Meta Stares Down Trillion-Dollar Threat as Landmark Social Media Trial Begins - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTjZPQmdMQXg4RndQMEJWdGpNNS1yaWJSVXdSYjdpRlBHdlRkUkxZRmdodlMzMUlQRTlNc3JyamJvTG14WVhRVzBaS2hMUUlDX2NPZ2w5Q25PU3dkc3loenNUY1YzbnZZYm1MZnZCXzVfVTcxbUF2TkdOT2dFLTRaLU5WaXZoNVF2UlduOGlZTGhldC1HQVdqVWppZUJaUkVhaDdlYWZFM2F3RGpXNjJOYXZnVm15WlVrdFNMYm93?oc=5",
+          "description": "Meta Stares Down Trillion-Dollar Threat as Landmark Social Media Trial Begins Bloomberg.com Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California CNBC New Mexico’s attorney general pushes new social media safety laws after $900m court victory over Meta The Guardian A look at major lawsuits against Meta and other social media companies over harms to kids The Se",
+          "pubDate": "Mon, 17 Aug 2026 21:43:28 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+          "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
+          "description": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer, \"We'll take care of it,\" an officer testified.",
+          "pubDate": "Tue, 18 Aug 2026 02:06:04 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Cina in frenata: la produzione industriale rallenta al 4,5% a luglio - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUEcxVE9IVGZBRDNEZW5fT3BXQnVPVkZFd0RWQlhvWGx2UnlvMEtpY1RlbFJ4eWp6S3lVb3djUGxPYXFpQWo4U0VOSndrRnllbHZLdlgybFlMYWhTWllBSDRMVmxtWXdCZ2lCay04Nl82ZF9fcHQzYXEtelJURWd2N3owc0gxVFVFRmZ1aC1MV2tLSDdkVVFNczBaeV9vMmRDS3ozQg?oc=5",
+          "description": "Cina in frenata: la produzione industriale rallenta al 4,5% a luglio Il Sole 24 ORE Cina quanto ci costi: l’export del Dragone spaventa il mondo la Repubblica Le azioni europee arretrano mentre i deboli dati cinesi pesano sul sentiment: DAX, CAC, FTSE100 Yahoo Finanza Vendite al dettaglio in Cina rallentano a luglio, +0,6%, consumi sotto le attese ANSA Cina, segnali di rallentamento in avvio del s",
+          "pubDate": "Mon, 17 Aug 2026 14:28:07 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Nell’Irpinia delle imprese in crescita, spinte da storia, export e Zes",
+          "link": "https://www.ilsole24ore.com/art/nell-irpinia-imprese-crescita-spinte-storia-export-e-zes-AJm1Qwe",
+          "description": "Dal digitale alla farmaceutica dall’agroalimentare all’occhialeria, aree industriali al completo, molte anche le multinazionali",
+          "pubDate": "Sat, 15 Aug 2026 06:03:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "droni",
+      "n_items": 9,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 51,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Il grande attacco ucraino coi droni verso la Russia - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wNElGT3Nfd0V2b2I0TXRZejl0WHF1a0dJS0l6MUhpU2JuaVZMMlQtSG1RQk1waEFZaGZDWXdtRi1pZmVlTXRSRzI0dVRQbVM1M1NXQWpSV1loMUtsT1FUUldPajlRMVhzN2tB?oc=5",
+          "description": "Il grande attacco ucraino coi droni verso la Russia Il Post Guerra Ucraina-Russia, le notizie in diretta | Mosca, avverte Londra: «pagherà» per i droni forniti a Kiev. Il Telegraph: la Russia costruisce decine di basi per il lancio Corriere della Sera Lanciati 620 droni contro Mosca durante la notte ANSA Russia, pugno duro contro il partito pacifista Yabloko. Moldova: drone entra in spazio aereo -",
+          "pubDate": "Sun, 16 Aug 2026 12:29:45 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Ucraina-Russia, le notizie in diretta | Mosca, avverte Londra: «pagherà» per i droni forniti a Kiev. Il Telegraph: la Russia costruisce decine di basi per il lancio - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxONFhuNWRBM1NWaGRPSzZGa2hWY3lfWmRKMWttWEQ3b1A5V2xpZ0c4UUpveGRaRDFidXJMcDhmY29UeEc3MHg3c0pwTHZGRklRazI1MlBZc0ZvblZsSUdWQ2poNEd0b3NNenZNY3lDa1hSSTlGVFc0Qk5IQWF3MFhKZXJRdEpVNGRSeXRhb2R4NzlDQndweGxsbU1ZTk1iNDVJUGw4QmtqcmJIRE44TGxuNHhPeXpLcllONFBadWd3UFI2ckFpdFo5N0ZIdTZpWFpSSkJObFZQc1c5RjlEbFFBa0FDQy1odVEzN1pfSjd4UzZlY19oM08tT21yMTlPeWtsallmbHh0U09neFBjS2dxNzlMeUNZUFnSAZwCQVVfeXFMTzNseUpwNHNCWkJqaG9xWWhSUUxlVmRBYU1JRnpZVHJSRGh1YmFQU2JqTGRMNV94WGhuTzJNSnptNTJFdmZsa0R0Qm9yT1BNYnpVOUpnaGRvRHZpR3pQcXZaYk1OZDNBVzd5SDhIQUdrTzA2d2FLZmdjUUZFSTRCblRCWUdlUlpPLXRoYzhTTklNYldoTnlmWHh2OUp4UW5xZThpd08wWUttYkZqdzhzSzc0bmRpS201cGJwRzBiYmlUakpMNWhKRXhOUWxtNW5uMExlYXd0UkxSRGh5a1UzZVFla2c0bWVVNzNVaW5aUWg1SHlDa0V6aXBwam5YeVBMc1RuSjJYdVZIOWxqZE9HUFNuMk9IZlJNb01JWDU?oc=5",
+          "description": "Guerra Ucraina-Russia, le notizie in diretta | Mosca, avverte Londra: «pagherà» per i droni forniti a Kiev. Il Telegraph: la Russia costruisce decine di basi per il lancio Corriere della Sera Lanciati 620 droni contro Mosca durante la notte ANSA Russia, pugno duro contro il partito pacifista Yabloko. Moldova: drone entra in spazio aereo - Mosca: Londra pagherà per droni britannici usati in Russia ",
+          "pubDate": "Tue, 18 Aug 2026 02:39:24 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Superdroni russi nelle basi segrete: \"Possono arrivare a Varsavia\": le rampe ai confini - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVzFTdlhYT3ZTQzlzYk9CUGdySk1nMzdyWlkzR05qQklRMFNUTlc4TzlyRHV0MXV2aDF6TVkyV3l4SFBfaVFRTlBYVElmN2Fma25Wa0JSdmVUVWdJRTJzcUVwWTBBTU54Q09PZWhqVlBQVEd0bklqOEZXbHVaYk56Yk1FR1hqOFEtWnBkMW5Genc0NnM0OGZ4UG16T0xpcW8wZ1NRZHpJZjRYS2dqb1FSZ2VsbDlIc0o2V2JHNUhTekxZMjVYSEQwVFZCd1NEZUxrT0dub2J1TkxWZ0FkUmlGU2VPQnlHMW5tZVhrMFFWc1g3UTk20gH6AUFVX3lxTE9tZFFMVDFsOW0wVkJuWHZGV1RCdUtLdTNqY0FKX3c1V1JaQkZ5LXJpb2dFS2hacUJHR2hJSDFyanF0MEVudmplalV1V3YtUjRyNldnSExhYWt6LWhTTVRjTHdualJiT0FvWWFRbmRZdWw4Q2cxM1Q5dHVVQzAtNmNVM09ZVVZaSFNoV2dGbzM4UjVKNVQ3elAzRVlFMzhHYUpod3VSNGNiczJWalMzVldfQ1J2TzI4N3RGMkJNY3VNRU9zajZVbHFZRl8tYnJKU2tYcGNKVTlIb29VNGZ5QzZPXzhMSG1hcmsyREJLeHVnbnFROWJxckpDMUE?oc=5",
+          "description": "Superdroni russi nelle basi segrete: \"Possono arrivare a Varsavia\": le rampe ai confini RaiNews Le notizie di lunedì 17 agosto sulla guerra Ucraina-Russia Corriere della Sera Russia, la minaccia alle porte della Nato: scoperte almeno 10 basi segrete di droni al confine con Ucraina e Bielorussia Il Messaggero 'Basi segrete per i superdroni russi, possono arrivare a Varsavia' ANSA Missili ucraini co",
+          "pubDate": "Mon, 17 Aug 2026 22:14:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Lanciati 620 droni contro Mosca durante la notte",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/18/lanciati-620-droni-contro-mosca-durante-la-notte_1b50c987-587c-49c9-98b7-a42dfcdf2abc.html",
+          "description": "Circa 180 sono stati intercettati e distrutti",
+          "pubDate": "Tue, 18 Aug 2026 05:25:28 +0200"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Pioggia di droni ucraini sulla Russia: 1.500 in 24 ore, mai così tanti - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM29wMGhuODNoN1Bxc0VQS1VmQWZKWjNqdl9DcGhRUFYycW5sQW53QzhjUjNyR2pmRWR4OE5vbHVJLUZDQ0FJZ3RFa214TG1fd1oxclhFUS1CNmtDY1lpUlF3TWRnS2VzeGVIdHVkVUxFby1IZ3lUM2s0N3pvZXlhdlp0VVYySUtEV1lwY1AzRTlmeFpRSndFdHZMUQ?oc=5",
+          "description": "Pioggia di droni ucraini sulla Russia: 1.500 in 24 ore, mai così tanti Il Fatto Quotidiano",
+          "pubDate": "Mon, 17 Aug 2026 07:56:39 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "milano",
+      "n_items": 11,
+      "n_sources": 4,
+      "category": "economia",
+      "score": 50,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-mondo",
+          "title": "Volo diretto di Aeroméxico collegherà Città del Messico a Milano",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/18/volo-diretto-di-aeromexico-colleghera-citta-del-messico-a-milano_57ca1437-61be-4e9e-85df-a50906d9e4fb.html",
+          "description": "La rotta per Malpensa sarà attiva da marzo del prossimo anno",
+          "pubDate": "Tue, 18 Aug 2026 05:27:29 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse europee sui livelli della vigilia, a Milano spicca STM - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcFBRSG9YWS1mc3ZLYjY3NlRDYmhuUmt2b1Awb1k1ZWtHeW9DTUpvY1pjZUl6c3ZVSGlFa2RlSmYxQjJUdWM3STROSFpfeExYMFhXelRfeGJqNXZzeTRRSEluUFZ6Sk51ZzlzcEN0dzZLc0hpcHNjLTdVUklVTnlXRFE5ajZkWEpONTJxcG5uU3JrZjZUdHZsdkhDQjZjSHFfQWZuT1ZUY3FLcUhMZGdUd0VzODg5bUtyb1lQZEJlMXZwelFldVVTVlFXMFVjUTEwdFJLMTBJWHJ6aEhYbHN3?oc=5",
+          "description": "Borse europee sui livelli della vigilia, a Milano spicca STM Borsa Italiana Borse e prezzo del petrolio oggi 17 agosto | Europa in rialzo, brillano i tecnologici. A Milano corrono St e Prysmian. Barile giù in attesa delle mosse Fed Corriere della Sera Borse oggi in diretta | Il Ftse Mib chiude sulla parità. Sprint di StM, Nexi maglia nera del listino Milano Finanza Borsa Milano frena a +0,2%: Stm ",
+          "pubDate": "Mon, 17 Aug 2026 16:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Intesa Sanpaolo detiene una partecipazione da 966 milioni di dollari in SpaceX - Yahoo Finanza",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWVU2T0tzMUpLNHVud2xTdndXWnRaWlotb2hPbks4a29yVkE2Q0tpOFJjdjlBZENsZHJqRGJHZHQtOEt3U0syMHE5aEVXZTRJaHgtZ2ROMXZCUTdKQjhGQWF0bXdhQVExWkN3djhhVUxaeHlKX3JoNS1OamwxU2otanpTWUxhNjlNSE96MGg2TE5STDR1ZVFhNXpR?oc=5",
+          "description": "Intesa Sanpaolo detiene una partecipazione da 966 milioni di dollari in SpaceX Yahoo Finanza Intesa Sanpaolo, un miliardo in SpaceX: vale un terzo del suo portafoglio Usa La Stampa Quante azioni SpaceX possiede davvero Elon Musk e quando potrà venderle? BeInCrypto Intesa Sanpaolo sale su SpaceX. La banca italiana detiene un miliardo di dollari nella società di Elon Musk Milano Finanza Intesa Sanpa",
+          "pubDate": "Mon, 17 Aug 2026 13:00:15 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Lovaglio applaude il governo: \"Montepaschi resti integra\" - Quotidiano Nazionale",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObXlZMElFZURlcFd2bUo3REZDVV9DX2JSQ2UxX1p2aVd6N0cyN01hVG16QkRoa29fYktCYUZuUl9RUUVhVVRFQV9DNkdfU0hPUS1tQUZkYkZfZlFPaHBXSzRqSVlaaUEyTVMyckdKY3d3OVhPN1ZSWGNKMTFOQzNOZmNXak1YUHcwdmFJYQ?oc=5",
+          "description": "Lovaglio applaude il governo: \"Montepaschi resti integra\" Quotidiano Nazionale MPS, Lovaglio: preservare l'integrità del Monte, il suo valore va oltre la banca Borsa Italiana Mps, le parole di Meloni aprono il tema spezzatino Milano Finanza Meloni chiede a UniCredit di mantenere solide radici italiane e a MPS di preservare la propria identità Yahoo Finanza Quale sarà il futuro di Mps? Dall'offerta",
+          "pubDate": "Mon, 17 Aug 2026 03:52:49 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse vicino ai massimi ma curva dei treasury sempre più ripida Da OraFinanza - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSnlBTmdPWmVTdWM3MHZOQWwtbW5SXzNPSFFWUHJFX2k5UDV1WmRJVV9Hdy1zZDl5R0ZnNFhtWW9iRnlGckdIU2JUdm1uMHFSR0ZOSjZfZFdka2l3c2p6QTJ3LW5DVmJ6My1mSG9IQkpybjNpUWZpeDZsdXJZWW42aHdNS3hxSW1KQWRnUmF0U3ZCNU90R0JfR1JtZmtaNC1XMGtvUlpwaGFQV1NrQjFHUFpDT05INFJzSldn?oc=5",
+          "description": "Borse vicino ai massimi ma curva dei treasury sempre più ripida Da OraFinanza Investing.com WALL STREET: commento di metà seduta Milano Finanza Le Borse Ue frenano nel finale, Milano chiude invariata Il Sole 24 ORE Avvio contrastato per Wall Street, tiene il Nasdaq la Repubblica La forza dell’S&P 500: il ROE eccezionale della tecnologia LombardReport.com",
+          "pubDate": "Mon, 17 Aug 2026 07:05:00 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "russia",
+      "n_items": 10,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "score": 46,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Il grande attacco ucraino coi droni verso la Russia - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wNElGT3Nfd0V2b2I0TXRZejl0WHF1a0dJS0l6MUhpU2JuaVZMMlQtSG1RQk1waEFZaGZDWXdtRi1pZmVlTXRSRzI0dVRQbVM1M1NXQWpSV1loMUtsT1FUUldPajlRMVhzN2tB?oc=5",
+          "description": "Il grande attacco ucraino coi droni verso la Russia Il Post Guerra Ucraina-Russia, le notizie in diretta | Mosca, avverte Londra: «pagherà» per i droni forniti a Kiev. Il Telegraph: la Russia costruisce decine di basi per il lancio Corriere della Sera Lanciati 620 droni contro Mosca durante la notte ANSA Russia, pugno duro contro il partito pacifista Yabloko. Moldova: drone entra in spazio aereo -",
+          "pubDate": "Sun, 16 Aug 2026 12:29:45 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Russia, condannato a 11 anni e un mese Lev Shlosberg: è il vicepresidente del partito di opposizione Yabloko - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcXdVcHQyMTVpenhpa0FRQ2xsYms0NkxWeEpucjNld2pfNWZ3YVVjMFhxWUo3NFpfZV9mUTBqSUtmTzdGV281aU9uMEswNVluVEthOGNCOHZXSnhTejNJdDFpSGs2bjFyRXl5NnV2UHBoZFBYZUczQVAtczZSaW5WSVVRTm0yTkwyVHNuUmI4SzlrYnprNnlfLVlB?oc=5",
+          "description": "Russia, condannato a 11 anni e un mese Lev Shlosberg: è il vicepresidente del partito di opposizione Yabloko Il Fatto Quotidiano Undici anni di carcere duro al vicepresidente di Jabloko: così il Cremlino cancella l'unico partito pacifista Corriere della Sera Mosca, pugno duro contro il partito pacifista Yabloko: condannato a 11 anni il n.2, arresti a decine RaiNews Mosca, respinto il ricorso di Ja",
+          "pubDate": "Mon, 17 Aug 2026 14:36:27 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Ucraina-Russia, le notizie in diretta | Mosca, avverte Londra: «pagherà» per i droni forniti a Kiev. Il Telegraph: la Russia costruisce decine di basi per il lancio - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxONFhuNWRBM1NWaGRPSzZGa2hWY3lfWmRKMWttWEQ3b1A5V2xpZ0c4UUpveGRaRDFidXJMcDhmY29UeEc3MHg3c0pwTHZGRklRazI1MlBZc0ZvblZsSUdWQ2poNEd0b3NNenZNY3lDa1hSSTlGVFc0Qk5IQWF3MFhKZXJRdEpVNGRSeXRhb2R4NzlDQndweGxsbU1ZTk1iNDVJUGw4QmtqcmJIRE44TGxuNHhPeXpLcllONFBadWd3UFI2ckFpdFo5N0ZIdTZpWFpSSkJObFZQc1c5RjlEbFFBa0FDQy1odVEzN1pfSjd4UzZlY19oM08tT21yMTlPeWtsallmbHh0U09neFBjS2dxNzlMeUNZUFnSAZwCQVVfeXFMTzNseUpwNHNCWkJqaG9xWWhSUUxlVmRBYU1JRnpZVHJSRGh1YmFQU2JqTGRMNV94WGhuTzJNSnptNTJFdmZsa0R0Qm9yT1BNYnpVOUpnaGRvRHZpR3pQcXZaYk1OZDNBVzd5SDhIQUdrTzA2d2FLZmdjUUZFSTRCblRCWUdlUlpPLXRoYzhTTklNYldoTnlmWHh2OUp4UW5xZThpd08wWUttYkZqdzhzSzc0bmRpS201cGJwRzBiYmlUakpMNWhKRXhOUWxtNW5uMExlYXd0UkxSRGh5a1UzZVFla2c0bWVVNzNVaW5aUWg1SHlDa0V6aXBwam5YeVBMc1RuSjJYdVZIOWxqZE9HUFNuMk9IZlJNb01JWDU?oc=5",
+          "description": "Guerra Ucraina-Russia, le notizie in diretta | Mosca, avverte Londra: «pagherà» per i droni forniti a Kiev. Il Telegraph: la Russia costruisce decine di basi per il lancio Corriere della Sera Lanciati 620 droni contro Mosca durante la notte ANSA Russia, pugno duro contro il partito pacifista Yabloko. Moldova: drone entra in spazio aereo - Mosca: Londra pagherà per droni britannici usati in Russia ",
+          "pubDate": "Tue, 18 Aug 2026 02:39:24 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra in Ucraina, Kallas: “In autunno nuove sanzioni contro la Russia” - Eunews",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVHhkNVM5U0ZwdU1QUUY3WXRpQjZ1aE5DZXI3eV8xRE5ibFVhUG13ajZLVklmQkZLbi0yQWVRQlc1UjZjcVBwT2ptdTB1SWdmdl8yVG1zM2U3OWpESXNObFNMMkR2eW41Vkl4Z3FrOFhNaDR3SzE3U1luZDBVcElzaHJvbVZIbzdCSjkycUhRZF9faGJLR1dDMzVXdkZtQnNFR0JF?oc=5",
+          "description": "Guerra in Ucraina, Kallas: “In autunno nuove sanzioni contro la Russia” Eunews UE, Kaja Kallas: nuove sanzioni più dure contro la Russia in autunno Euronews.com Ucraina, Kallas annuncia sanzioni a Mosca mentre non si fermano gli attacchi toscanamedianews.it Kallas: in autunno nuova lista di sanzioni contro la Russia Askanews",
+          "pubDate": "Mon, 17 Aug 2026 09:10:21 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Superdroni russi nelle basi segrete: \"Possono arrivare a Varsavia\": le rampe ai confini - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVzFTdlhYT3ZTQzlzYk9CUGdySk1nMzdyWlkzR05qQklRMFNUTlc4TzlyRHV0MXV2aDF6TVkyV3l4SFBfaVFRTlBYVElmN2Fma25Wa0JSdmVUVWdJRTJzcUVwWTBBTU54Q09PZWhqVlBQVEd0bklqOEZXbHVaYk56Yk1FR1hqOFEtWnBkMW5Genc0NnM0OGZ4UG16T0xpcW8wZ1NRZHpJZjRYS2dqb1FSZ2VsbDlIc0o2V2JHNUhTekxZMjVYSEQwVFZCd1NEZUxrT0dub2J1TkxWZ0FkUmlGU2VPQnlHMW5tZVhrMFFWc1g3UTk20gH6AUFVX3lxTE9tZFFMVDFsOW0wVkJuWHZGV1RCdUtLdTNqY0FKX3c1V1JaQkZ5LXJpb2dFS2hacUJHR2hJSDFyanF0MEVudmplalV1V3YtUjRyNldnSExhYWt6LWhTTVRjTHdualJiT0FvWWFRbmRZdWw4Q2cxM1Q5dHVVQzAtNmNVM09ZVVZaSFNoV2dGbzM4UjVKNVQ3elAzRVlFMzhHYUpod3VSNGNiczJWalMzVldfQ1J2TzI4N3RGMkJNY3VNRU9zajZVbHFZRl8tYnJKU2tYcGNKVTlIb29VNGZ5QzZPXzhMSG1hcmsyREJLeHVnbnFROWJxckpDMUE?oc=5",
+          "description": "Superdroni russi nelle basi segrete: \"Possono arrivare a Varsavia\": le rampe ai confini RaiNews Le notizie di lunedì 17 agosto sulla guerra Ucraina-Russia Corriere della Sera Russia, la minaccia alle porte della Nato: scoperte almeno 10 basi segrete di droni al confine con Ucraina e Bielorussia Il Messaggero 'Basi segrete per i superdroni russi, possono arrivare a Varsavia' ANSA Missili ucraini co",
+          "pubDate": "Mon, 17 Aug 2026 22:14:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "apple",
+      "n_items": 13,
+      "n_sources": 3,
+      "category": "tech-ai",
+      "score": 45,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-tech",
+          "title": "\"È stato rilevato un attacco mirato al tuo iPhone. Proteggi i tuoi dati e il tuo dispositivo\": perché Apple sta mandando questo avviso e cosa c'è dietro il nuovo allarme - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQQTZNNFJ6MWRBOTg3Njk5NWxoMlpEY3pVNC00b09WcWFiOTJueHFCaGlfdGpfTnJ3YUd1TDB2SkEyV3ZkUUxkcUVEb3lNcmlNLWdpSDBsOEZ0amVhdlFxYlVuTDN4ZXNRakJZRTN0T0N1ak5kbFhiOFJwVGVCWldvWjZ6VnQtdFZRZTBBVkRCVXl1cDdUNFdvZTBlUGt5Sk9XaEY5OGsyMHU4eEJ3cy1tNHdKVXUyZTY2Z3NodHJ5TmdUTk1Dc29HLTdxZGpPVnpJbWhWWW1RVHBHVHV3M05mRklXdFZWV2NyeTA2QlNCOXBfQ2RVWW5CNzBHdGg1Ym4zek0ySXZvNkRoQXBveWw5aTVuTzlxTlMwdDNFMk9Tb09kYW45aFFWSjVTSUNMS1RNWXNKSmRCTllJeFNMSXc?oc=5",
+          "description": "\"È stato rilevato un attacco mirato al tuo iPhone. Proteggi i tuoi dati e il tuo dispositivo\": perché Apple sta mandando questo avviso e cosa c'è dietro il nuovo allarme Il Fatto Quotidiano",
+          "pubDate": "Mon, 17 Aug 2026 08:54:26 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Apple's Camera-Equipped AirPods Confirmed: See Them in Action - MacRumors",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fQWRSNG01eHM5d2NGeDhiYjVnazc2cEtjRm9fdmtMeGRtTVlMU0J0bjJEdlB0TzRzMXBiSy1ERzRRNnRWbC1YRnV0WG9sT3RrYUM1OXR6bDNEc1FuWkNQc2ZCNmlfTXBnUkF6YjkxdFN5RFBocWUwekx4eHY?oc=5",
+          "description": "Apple's Camera-Equipped AirPods Confirmed: See Them in Action MacRumors Wild leak straight from Apple shows camera-equipped AirPods in action Macworld Apple’s AirPods With Built-In Cameras Spotted in macOS Video; Visual Intelligence Features Teased Gadgets 360 MusicCam Pro Is a Real-Time POV Camera Headset manofmany.com A New Wearable Camera Form Factor—and Apple’s Potential Twist Yahoo Tech",
+          "pubDate": "Tue, 18 Aug 2026 01:21:16 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators - TechCrunch",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYU5PSTEtZk8yUXA0cDBENEQxd053ZThSWjJmd2ljLWJMWVEtYUlWVEM5SGM3eTZtdEVNUWdxa1QtSGNzMUgxY3AtaUNtZDRUdWNMYm5OQjRjcFdLSEE5M25YYWIxZGM5dUp6UU1BXzRMYUJ6dUkzUFZVZklNbExCaXFXVDFpWmc3MEVfcXN2QXFhRkxJb0ZsOUVlOHQxeU9sUnRQODhldE5jZVVrZDl5Z3pGTmZwc0ZlekE?oc=5",
+          "description": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators TechCrunch If Apple sends you a push notification alerting you to a spyware attack, take it seriously TechCrunch iPhone spyware alert: What Apple customers need to know Mashable Apple now uses iPhone alerts for targets of mercenary spyware Malwarebytes Apple’s Warnings About Spyware Are Real, Don’t Ignore Them C",
+          "pubDate": "Mon, 17 Aug 2026 20:18:35 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Google Pixel 11 Pro XL benchmarks leak ahead of release day, here's how it compares to last year's model - PC Guide",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNnJpNGZZZF9PcEtmR3FJMU5vS0xpU1FTMW9tbmZNckQ5ZVA5VzE0Y3dHS0hUcjEwbVF0dVFVRFBRZWtKcmJxQm1IODBSeTB3T3Z1N1ExY1VUWWVrX1lzLUhLajE5WFlGOHJldk5BLS1FOGxCdlo1aG9wbGFZWUVtVGhjTmRFYm5QQXVyVnhoVHJKUmlJZ2YzN3dSMi1HcWdXS0FtTFAzQjJ3Nk51czBiQkI0ZmxPQTlKWWQ2LVNBbzZWNGdqQzZweVdYMA?oc=5",
+          "description": "Google Pixel 11 Pro XL benchmarks leak ahead of release day, here's how it compares to last year's model PC Guide The Pixel 11 series: Your most personal Pixel yet blog.google Google Pixel 11 Pro Fold vs. Samsung Galaxy Z Fold 8: The Foldable Crown Has Never Been This Close PCMag Pixel 11 Pro XL vs. iPhone 17 Pro Max: I Compared Google and Apple’s Flagship Phones CNET Here’s 9 Pixel 11 Upgrades Yo",
+          "pubDate": "Mon, 17 Aug 2026 13:31:37 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "New iPhone Ultra leaks cover release timing, availability, and name - 9to5Mac",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONDIzNXE1Y19MLW5iRlJkUTAwRXNfSFM5dzlIQXlXZnZ1ODVLUXk5N3RDR1ltMFBJaFQxZFhZc3Q3UzBQXzFSUW8wU2l2OC03akFNSlZySFpDUE9ONUJfRTFORlJldEQ5cm5zaEItUVk0Mzg5d0dGV0tkTmVHcWEzYnJxdWJuSVFOZmdmZkY0SzhFb000aEtiRFE3X0dnQQ?oc=5",
+          "description": "New iPhone Ultra leaks cover release timing, availability, and name 9to5Mac iPhone Fold Price: What You Get For That Extra $500 Forbes 'Everyone' at Apple Apparently Calls Foldable 'iPhone Ultra' MacRumors Apple iPhone Fold Expected In September With iPhone 18 Pro — What We Know NDTV Profit Apple Foldable iPhone Before 2027: Why Manifold Bettors Put It at 77% tech-insider.org",
+          "pubDate": "Mon, 17 Aug 2026 13:47:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "hamas",
+      "n_items": 6,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 42,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra ultime notizie. Reuters: «Usa non vogliono estendere cessate fuoco con l’Iran». Netanyahu a Kushner: «Disarmo Hamas, poi ritiro Idf» - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT3o1QmRRQ0VtajI3QU42dXZzS0xzN0NWR1J5S3hTRjRHczJtZXRxZHhlSjh6SzJxM1RUa2Z5d1YtaXVWaVdpZnVIc1YzX0V1dV85U3V3UmZQNXJPRGRqM0h5RUdQWjRfZ3k5cUFlRU13bERITFdpWVQzV1drNWh6ZmNHeVp6RHBuXy1DVjE3OFphdw?oc=5",
+          "description": "Guerra ultime notizie. Reuters: «Usa non vogliono estendere cessate fuoco con l’Iran». Netanyahu a Kushner: «Disarmo Hamas, poi ritiro Idf» Il Sole 24 ORE Netanyahu non molla Gaza: «Prima il disarmo di Hamas». Ma apre alla ricostruzione Corriere della Sera Kushner da Netanyahu: Trump vuole fermare i raid su Gaza Il Fatto Quotidiano Bibi la spunta: niente tregua il manifesto Gaza, Kushner vede Neta",
+          "pubDate": "Mon, 17 Aug 2026 21:58:10 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Pressing degli Usa sul piano Gaza, Trump: 'Basta raid sulla Striscia' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTldnZXhVYTZNSGhZUkxNc2FhdXlhcGZUT2t5WHRBNFNfcVhmSFZsS2hzbVJSam96N25TUlhoM2dLQzdHZTZYNGFaZ0l1VzJfa2I5bDVPX0JDUXd2V29jZHNLSmNaQjNqR0RRay1ieE9uT3BWaHN4VWMzVnVIMHN2NWdKZEZVNUdTYjBOVHFDemtkUnJRSFktdHZQU1llOHZyTFNaankyeHFNU2ZqUGk5dnhKTmJmSDdsY1RrZ1l1SDYwTVFPSXRHLVJkdU0tZjVMSHZQRHAtV29lVHZaU1Z3VkY2TXFDZ0VqZUNxV25SOEhtMVNUeU5Z0gH8AUFVX3lxTFBEREJIUE1tcC1rek1XZzcxVUhhM0ZJeWlOLTI3a3lpUkc0SVk3aktBd2tOdVBfREU5WU45bWhMT05JOVpYdzk1SzFjNFBTY1ZFeENia2Zfb0JuOExQUE9mRG0zVEYxX3ZDN1lrSGw1aGZnWl9yZjRsQ2Y2bUVISDQ4dnFIUFBHeGpHc21FSHM0OEs0ZDFKNGtUdFd5R2tqcEZkbzVLeGR2ZHJqQkdxVE5lWmFpeVVQcS0ybDVkcXlueTdIc0pad1RLd180clZKVkE3ZmhkUzh0UmgwQVRWY3g4LThXSDBkVm85SldacllwcWxjUVFGaGhBaGRKMw?oc=5",
+          "description": "Pressing degli Usa sul piano Gaza, Trump: 'Basta raid sulla Striscia' ANSA Trump: 'Sarebbe meglio se Israele non attaccasse Gaza' ANSA Dopo le frasi di Ben Gvir, interviene Donald Trump: «Sarebbe meglio se gli israeliani non attaccassero Gaza Open Trump, 'sarebbe meglio se Israele non attaccasse Gaza' Quotidiano Nazionale Trump “Israeliani non colpiscano Gaza, Hamas ha accettato di deporre le armi",
+          "pubDate": "Mon, 17 Aug 2026 21:05:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUmgyejFsV0U5RU5jOUxLNUNsX2tPLUxTbk8zeFZ1VUxxYjZCdy1kdm5mdURoVkJFY1NLVXFVMU8zZXpoaDgtdlBxQV9JNGxBM0Q4YWhtZEV3dlZSNjhOWnkyQjZpdHJtZ1VPc3FVU3p1VnljVEhBdm9HbnJIQTRKcG1mQTFaUy13WUQySEZ2R3pLMlZuZTFlYktLcHRTdEJfU3F5aEdORWNkWDg0UlRV0gG0AUFVX3lxTFBYQnN0THV1R0ZKNWc1TjVsTG1BYmpTOUZfOTJXeVoxUlh2cTczd2I0dnJfUHgtM2x3S1M1bXRpXzl3bFVEYzFJYjRueFNpbThVN1dHNXcwRE1UOG14dERTcGtLTUs5c2xDdFBEa3dyU3VmZmJVcmV5MlphZEh2d0MwMDMwOEhDdHFqQnQwOHVfMU9ONTNvb2xpZmwxUEZ4M3R3UDcyOW9vRDVUUnpnX1JDSW5FTQ?oc=5",
+          "description": "‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says Al Jazeera Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza The New York Times Kushner gives Hamas stark ultimatum: Disarm or Israel gets US backing to ‘finish the job’ Fox News World in Brief: Jared Kushner meets Hamas; Trump cuts military exercises with South Korea The Economist Kushner urges Netanyahu ",
+          "pubDate": "Mon, 17 Aug 2026 23:31:45 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Pressing degli Usa sul piano Gaza, Trump: 'Basta raid sulla Striscia'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/17/i-media-per-netanyahu-primo-passo-a-gaza-la-consegna-delle-armi-di-hamas_7f6899dd-4aec-4394-9792-a2c99c8c9de5.html",
+          "description": "Vertice tra Netanyahu e il Board nel giorno delle primarie Likud, 'ritiro Idf dopo il disarmo di Hamas'",
+          "pubDate": "Mon, 17 Aug 2026 23:05:13 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Kushner, 'incontro molto cordiale con Hamas, hanno detto le cose giuste'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/17/kushner-incontro-molto-cordiale-con-hamas-hanno-detto-le-cose-giuste_619074ad-f80a-4a15-916a-3156b653b2b9.html",
+          "description": "'Daremo loro la possibilità di dimostrare il proprio operato'",
+          "pubDate": "Mon, 17 Aug 2026 21:58:12 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "allarme",
+      "n_items": 7,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 41,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Allarme Bce per la bolla dell’IA. “A rischio i risparmi europei” - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOblF1Sl9mcEFPV0JQcWppTkxiSE80LWFUQmE2Yl9CN2xMWGxwLWxmUXF4T3o3eGVEQUM5Ul9pZ0pBYWYtLVM4TV9XQmJCb2tFTDZBU0ZOX0RxMV9BNC1MYzh2VG1nYnR0NzRaRndIM0tNRk1lOVAzRU1rZDhTeTBtQ1NSenNIY2F2M1dabWtyUU1LWEtsam9md2szVzR6NEJtOGU2WUM4TU9rdFp0TnptWmxCSnRQWEgtRWR3U2ZDVGo?oc=5",
+          "description": "Allarme Bce per la bolla dell’IA. “A rischio i risparmi europei” la Repubblica Bce: boom dell’Ai, rischio di una nuova bolla dot-com Il Sole 24 ORE Rosa: “Giusto richiamo, ma rispetto alle altre crisi le aziende sono solide” la Repubblica Intelligenza artificiale, dagli accordi di Nvidia ai numeri di Meta: la «bolla» che agita l'estate Corriere della Sera Il debito dell’IA spinge il rendimento del",
+          "pubDate": "Mon, 17 Aug 2026 18:10:31 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "L’allarme di Oxford Economics sull’energia: “Le scorte di gas sono ai minimi, l’Europa tema l’inverno” - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR0Jsa0JYUmNPRXIyUXVBOVd4NjNoVWZiWDYwRjh1YzUwSW9WRVViX013NFhxSlpySHdCaEdIUWppNkpNUlB0Ymg1Ulc0Z1B0UVBMNmJhNFYyNEY4TTlBUmZoZktqMmlWU1VoOFk5WllGQ3VQM0htLWxPOEhTWWQ2bmNPNkJURHNQNnk1dHU0aE9keERFa2JsSg?oc=5",
+          "description": "L’allarme di Oxford Economics sull’energia: “Le scorte di gas sono ai minimi, l’Europa tema l’inverno” Il Fatto Quotidiano GME, indice IGI sale a 61,90 euro/Mwh Borsa Italiana Il gas risale sopra quota 62 euro sulla piazza Ttf di Amsterdam ANSA Il gas europeo estende il rally mentre le tensioni a Hormuz aumentano i timori sull’offerta Yahoo Finanza Gas naturale in calo a 61,22 euro al MWh: cosa st",
+          "pubDate": "Mon, 17 Aug 2026 13:34:41 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "L’entusiasmo per il rilancio di Mirafiori promesso da Stellantis è durato poco - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZS0NzNktEc2tlV1J2eEZBQk1LdUZVY1Nsc3NzU1hQaFlZMURWSFRiNXZSZWlKejV4MGF2VGgtUjUzNmVfR3VEWjg3RVpPal9QSm1EZlg2LWRkcEhhSVhXYzVjRHpVLXdtVEZNeEJfVXRITWVoclRQVWVlMXk?oc=5",
+          "description": "L’entusiasmo per il rilancio di Mirafiori promesso da Stellantis è durato poco Il Post Stellantis, confermato stop produzione Cassino fino al 31 agosto Borsa Italiana Stellantis, a Cassino stop alla produzione fino al 31 agosto ANSA Stellantis Cassino ferma la produzione fino al 31 agosto: l’allarme sindacale SoldiOnline.it Stellantis, l’estate degli stop: Cassino si ferma fino al 31 agosto, a Mir",
+          "pubDate": "Mon, 17 Aug 2026 09:32:06 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "\"È stato rilevato un attacco mirato al tuo iPhone. Proteggi i tuoi dati e il tuo dispositivo\": perché Apple sta mandando questo avviso e cosa c'è dietro il nuovo allarme - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQQTZNNFJ6MWRBOTg3Njk5NWxoMlpEY3pVNC00b09WcWFiOTJueHFCaGlfdGpfTnJ3YUd1TDB2SkEyV3ZkUUxkcUVEb3lNcmlNLWdpSDBsOEZ0amVhdlFxYlVuTDN4ZXNRakJZRTN0T0N1ak5kbFhiOFJwVGVCWldvWjZ6VnQtdFZRZTBBVkRCVXl1cDdUNFdvZTBlUGt5Sk9XaEY5OGsyMHU4eEJ3cy1tNHdKVXUyZTY2Z3NodHJ5TmdUTk1Dc29HLTdxZGpPVnpJbWhWWW1RVHBHVHV3M05mRklXdFZWV2NyeTA2QlNCOXBfQ2RVWW5CNzBHdGg1Ym4zek0ySXZvNkRoQXBveWw5aTVuTzlxTlMwdDNFMk9Tb09kYW45aFFWSjVTSUNMS1RNWXNKSmRCTllJeFNMSXc?oc=5",
+          "description": "\"È stato rilevato un attacco mirato al tuo iPhone. Proteggi i tuoi dati e il tuo dispositivo\": perché Apple sta mandando questo avviso e cosa c'è dietro il nuovo allarme Il Fatto Quotidiano",
+          "pubDate": "Mon, 17 Aug 2026 08:54:26 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'allarme dei big, 'rischio estinzione con l'IA, è come le pandemie'",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/lallarme-dei-big-rischio-estinzione-con-ia-e-come-pandemie_3afde5e5-7bcf-464e-b3aa-aee6577a9b23.html",
+          "description": "Nyt riporta lettera di 350 leader industria, anche ceo OpenAI",
+          "pubDate": "Tue, 30 May 2023 14:12:41 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "allerta",
+      "n_items": 7,
+      "n_sources": 4,
+      "category": "clima",
+      "score": 34,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Allerte meteo, le news: dopo l'afa diramata l'allerta gialla in 13 regioni - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UREJSVmh5NEJIajNQTlJkRFR1Y3Z0VHlKTWhJUlU2Qklqc3NodFZ3eUtfbWczMW1hMHZaZVkxWFBXeWZ3S3N6cGhoX1NoVXp5cGFqWHNEREpZYmFsaTdjb0ZlWFAtY3NtSjh0Mll5RVVYVWs?oc=5",
+          "description": "Allerte meteo, le news: dopo l'afa diramata l'allerta gialla in 13 regioni Sky TG24 Meteo, allerta maltempo: temporali lampo e calo delle temperature su molte regioni RaiNews Bomba d'acqua nel Lazio e su Roma dopo l'ondata di caldo, temporali intensi e grandine: le previsioni meteo Virgilio Caldo in diminuzione, allerta gialla per i temporali in tutto il Sud. Due vittime per i fulmini Corriere del",
+          "pubDate": "Mon, 17 Aug 2026 22:02:16 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Maltempo in arrivo: chiusi parchi e spiagge - NapoliToday",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNVdqWTI4QnBoZl9hQ09wSnBXUEJPMkVvM1lNVEhXaUFDUnRsb0c3bTVZTnFmbE5GYWNwWDdmRlBUdTJkTXAxS2tCYVJfNE1salFYM0FKdldUMF83ZVRELWctLXoySExTNWJjMUE2Wno1ZG40WWNCQVBlcFQ0dmJhbS02Vk5WYmtuZ2dFZXNEZUFKOTdIRHZ4b3Fn?oc=5",
+          "description": "Maltempo in arrivo: chiusi parchi e spiagge NapoliToday Avviso di allerta meteo per fenomeni meteorologici avversi dalle ore 14:00 di lunedì 17 agosto alle ore 14:00 di martedì 18 agosto 2026 Comune di Napoli In Campania allerta meteo gialla, in arrivo temporali improvvisi e intensi ANSA Campania, allerta meteo di colore Giallo per rovesci e temporali fino alle 14 di martedì 18 agosto Corriere Del",
+          "pubDate": "Mon, 17 Aug 2026 12:20:36 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Allerta temporali, due escursionisti uccisi da fulmini in un giorno",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/allerta-temporali-due-turisti-uccisi-da-fulmini-in-un-giorno_fea0b2dc-2e29-4c81-9595-7ac085073a70.html",
+          "description": "Un turista americano sull'Etna, e un 42enne in Alto Adige. Forti acquazzoni e grandinate",
+          "pubDate": "Mon, 17 Aug 2026 19:49:43 +0200"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'IA può portare all'estinzione, l'allerta di decine di ricercatori",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/-lia-puo-portare-allestinzione-lallerta-di-decine-di-ricercatori-_f2907c59-c053-4af7-b511-410cbb0bc59b.html",
+          "description": "Tra i firmatari gli ad di OpenAI e Google Deepmind, ci sono anche italiani tra cui l'esperto di tecnologie dell'informazione Luca Simoncini",
+          "pubDate": "Tue, 30 May 2023 17:55:51 +0200"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Meteo, allerta maltempo: temporali lampo e calo delle temperature su molte regioni - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNT2RtRnFCa0ZEZ09YeTVVTDlOaDZ0SjNYYTJnWjU1NjFVTU1kV29vVlNubk9KbGpKVHNQU0lPZ1Bqc1NYbVpDQTZrbmFQU2psOVBQa1lnNUk4Q3ZDdVl0b2hwRWVUeVhGMVdZRnhtUllFZndSTzk2VkRpYTFOQWhoUDAxaG1SY19JbnNyUmNhaHpJZ3JudDQ3SUlfczc0ak8tbThXbUpnZnhrV24yLWY3Y3R2aWdjcUpPZnhoR2lNaVNTdzhTcnVzdERReTNtM0Y0Vkt2d01FbTVOWVV2UmRwcWdwcGlsZTZKWkloaUxtZDU5b2p6TmFveVI0OFJ5UlJfT3BQZzNzV2JtdnRIc09PVklxWXTSAZoCQVVfeXFMT1pXQlVyRkhlWkdKVDlYNXZYbGd6VzBhblBRMmRQOVZyRlAtOEh4SE5tbUc3YkJQWkZ5YmhmWVVySF9zNjhqdDYtYjF1MF9wUDJ4OVFTb2dkN3h6TWNRcGNreUFmbDhybVZ1TDZjUFNCa0F4UUxWZlpxTm90U1BKWG5MLTVmSlZHazdJLWN5ZWoxYTUzVUNiQ0ZFRllnbDdoSTRKamxtZDluNFRwaEl4Z1BGVWhNUG9aUHVHZXg1cGRqWGl1c0V4YUNOUnlFMzFWeF9RWEZaQ3l2aS1nU1pQSFIxV1RNbUhkOUlmbFpWRFZpMUdLLVFxQU5MeHlRa3o5MUVtZWNfYTIxTmllaHRmYU9VMVNoZWMxV0pR?oc=5",
+          "description": "Meteo, allerta maltempo: temporali lampo e calo delle temperature su molte regioni RaiNews Bomba d'acqua nel Lazio e su Roma dopo l'ondata di caldo, temporali intensi e grandine: le previsioni meteo Virgilio Allerte meteo, le news: dopo l'afa diramata l'allerta gialla in 13 regioni Sky TG24 Caldo in diminuzione, allerta gialla per i temporali in tutto il Sud. Due vittime per i fulmini Corriere del",
+          "pubDate": "Mon, 17 Aug 2026 23:00:00 GMT"
+        }
+      ],
+      "macro_area": "clima-salute"
+    },
+    {
+      "keyword": "mondosanità",
+      "n_items": 14,
+      "n_sources": 2,
+      "category": "general",
+      "score": 28,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-science",
+          "title": "Cina, la nuova corsa ai cervelli: Pechino accelera su ricerca, biotech e medicina - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUVpEQldfSnJXMzJtZ2l3TW9qajV2RzI1NFlrRUZNZks1TnpXZTRUaldaZlhxVzFJOUlXV2dMOXZMcU9HTFNEdklGUXl2akthbGl3SVNpUE9mODRkbVBBMTJRdW1BdVpteWVVRXZ1UFNmTGVWV1R3S1VzOW52M3B0SE9pX2VkVE1Ga3pON0JUbTVYV09kZlB4aGh1M2dSc09jOWg3bTFETXREMkMwZU4yNV9JMlhjTjkzZkNzMFk3U1BSN1QxU244ZHdvZzBWYVkwZGhR?oc=5",
+          "description": "Cina, la nuova corsa ai cervelli: Pechino accelera su ricerca, biotech e medicina Mondosanità",
+          "pubDate": "Mon, 17 Aug 2026 16:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "La matrice che guida le cellule: così il “terreno” dei tessuti può favorire tumori, metastasi e guarigione - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNzFlU2FMU19HaHhnaWhMSkZuQXRxY1Jvby1teDV0cFBnQlVnUjNHSDJ2V0l2VTRzUFlCNzhVajNRQWhfZnJKU1lYQUFWTEZ1MUNQS0ZPTUVGeHIyNi1Oa0FrWGpJYk5HWkpJQU4wWElyaVVnYmhpNjY0bnI2cDJCbkxMcVZQUGJTcExlNFZBckpqT1AzdjFuRkp3aGVSRjVSMjAzZUprVV9nc0RWTWlRMFpqdU5sbmlfWmktbUVfTnBrS2t1NEJyNEZBUy1YQWIzR1RBcXhqWTloMFNvdXZqNEhfQUs5SlJ5MnZ3WmZKRU14aVR4?oc=5",
+          "description": "La matrice che guida le cellule: così il “terreno” dei tessuti può favorire tumori, metastasi e guarigione Mondosanità",
+          "pubDate": "Mon, 17 Aug 2026 14:30:01 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Menopausa, perché arriva prima per alcune donne? Lo studio che guarda oltre geni e ormoni - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRFl0T2tlT2h4RU5YRlo2b193bWFFN0xWeExTUmctb2xyM3dMem9nQ3JORDFCUVhnOU5wX0IzUzVmM3lrbmUwc3J1VmhsdUE1UXdMemRqOTNENDZNTUJBdTJ1NUg1S1p0WXhnVy1QaXBJTDhJeUw1UmFuU3FqSjRSY3BaelJrU1pMTDFSNERES3lKa1hkNDJtMzZISWFSc3VnbjN4Ykp3Wm5LaEZyTGNrNzV4YXZTOU8yYnhzSnFsTUVuVWVqc3JMRHBfbENTMXJ5Tm5IUVFfbWVvRDJOR1hQdw?oc=5",
+          "description": "Menopausa, perché arriva prima per alcune donne? Lo studio che guarda oltre geni e ormoni Mondosanità",
+          "pubDate": "Sun, 16 Aug 2026 20:15:00 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Vitamina B12 normale nel sangue, ma bassa nel sistema nervoso: scoperta una possibile causa autoimmune - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQakY2UDlyMFZ1bUpnajE5eHFPVzZxaGprbjY4OTZqcEZNcDdxNUluVnRYY1RQV0ZmVnMwRHRvdE94S05MR1p6ZFhCV2RkaEM2dFhaYjlSWV95TzduN2dCVmhLOWptak9YYU0ybkp2NEwwYXdoY0dQdnIxaVd2bXFuLXcweUx6dUhtN1BFR0NjT3ozVkVpWFI2ZHZoZVp2ZjFSQWgyRElCb3d0Q0daZWdpN1A5ZzJiTGFselk0aXkzc3VjQnZEZ01iWFZxeTJScXBtSV9TZFZnVHdHSzBBMFF1TDhrZHZrbkhEZngteDEtQXdfQQ?oc=5",
+          "description": "Vitamina B12 normale nel sangue, ma bassa nel sistema nervoso: scoperta una possibile causa autoimmune Mondosanità",
+          "pubDate": "Mon, 17 Aug 2026 21:59:00 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Fibrillazione atriale, se torna dopo l’ablazione meglio ripeterla o usare farmaci? Lo studio su oltre 4.000 pazienti - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZ1BydXVsU3JCN1laaEdRTjhSSmRDcVNjdV9qVXpDMW9MNE9aR3Jxa0s1TEtWbFBiU0R5cW1mV3liX21iaHJKU0wxWTVvNUdtbVdmOGI5bkxlTFMwS1lqeEUxTHFmS0lNUnR3c2ZlSUtrU013V0ZRTGRiZEFSR1VIWXZVSDZNUVpYQllKWUUzc05hTFhpSUN5dlZMczQ0MVQ3THRNSTk0V0M5SDRIX3RRN0l0NnMyRWM0blBYbXdsUzZCbm1FZmFRbGVlRDFnZFlOSFpNVVhCRllZSmRtS1ZXb05zcS1IdnR1dU1UUU1POUQ3aUYzY04wR1R6WGktOVFrTHpn?oc=5",
+          "description": "Fibrillazione atriale, se torna dopo l’ablazione meglio ripeterla o usare farmaci? Lo studio su oltre 4.000 pazienti Mondosanità",
+          "pubDate": "Mon, 17 Aug 2026 21:00:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "meteo",
+      "n_items": 6,
+      "n_sources": 3,
+      "category": "clima",
+      "score": 24,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Allerte meteo, le news: dopo l'afa diramata l'allerta gialla in 13 regioni - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UREJSVmh5NEJIajNQTlJkRFR1Y3Z0VHlKTWhJUlU2Qklqc3NodFZ3eUtfbWczMW1hMHZaZVkxWFBXeWZ3S3N6cGhoX1NoVXp5cGFqWHNEREpZYmFsaTdjb0ZlWFAtY3NtSjh0Mll5RVVYVWs?oc=5",
+          "description": "Allerte meteo, le news: dopo l'afa diramata l'allerta gialla in 13 regioni Sky TG24 Meteo, allerta maltempo: temporali lampo e calo delle temperature su molte regioni RaiNews Bomba d'acqua nel Lazio e su Roma dopo l'ondata di caldo, temporali intensi e grandine: le previsioni meteo Virgilio Caldo in diminuzione, allerta gialla per i temporali in tutto il Sud. Due vittime per i fulmini Corriere del",
+          "pubDate": "Mon, 17 Aug 2026 22:02:16 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Maltempo in arrivo: chiusi parchi e spiagge - NapoliToday",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNVdqWTI4QnBoZl9hQ09wSnBXUEJPMkVvM1lNVEhXaUFDUnRsb0c3bTVZTnFmbE5GYWNwWDdmRlBUdTJkTXAxS2tCYVJfNE1salFYM0FKdldUMF83ZVRELWctLXoySExTNWJjMUE2Wno1ZG40WWNCQVBlcFQ0dmJhbS02Vk5WYmtuZ2dFZXNEZUFKOTdIRHZ4b3Fn?oc=5",
+          "description": "Maltempo in arrivo: chiusi parchi e spiagge NapoliToday Avviso di allerta meteo per fenomeni meteorologici avversi dalle ore 14:00 di lunedì 17 agosto alle ore 14:00 di martedì 18 agosto 2026 Comune di Napoli In Campania allerta meteo gialla, in arrivo temporali improvvisi e intensi ANSA Campania, allerta meteo di colore Giallo per rovesci e temporali fino alle 14 di martedì 18 agosto Corriere Del",
+          "pubDate": "Mon, 17 Aug 2026 12:20:36 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Meteo, Giuliacci sbotta dopo gli insulti social: \"Molti di voi saranno denunciati\" - Il Tempo",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdmd6VjdGUDZMWnRsVEdXV2Y2S1YxSHBOWnZwTkhpanZydzZTNngzT1hxQ2pnSW51d3hJZEhIOFdCY016Z3RZendwLV94VUNxcXYzVDNDWnp6dFEyTTM4bTR1aWwzX2FGWmVVZ0tKQTFkRnNfVXRlc2FWVm1jQlcwQk82Uy1peC1zTnZIdGJ6U2l0RlJzNlBpM09kd2VlWkUzZmE2TktMd1BkY2lIRFRZVFFMZERjZ2w4YzJIM1pSYU95Qkh6YVJJSV9kcy01UHdyS1N2RVRyQVQ5c1U4aDNPbVJGUFZrSFJEbEE?oc=5",
+          "description": "Meteo, Giuliacci sbotta dopo gli insulti social: \"Molti di voi saranno denunciati\" Il Tempo",
+          "pubDate": "Mon, 17 Aug 2026 06:49:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Mediterraneo come un 'bagno caldo': 30°C su vaste zone - 3BMeteo",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSWxlcGhfVi1TM1BXY3RidWF0ZnhFYTZ4TmltLVhOeDZmTy1YQXg2TXBZQ2dVY2p5TTBsTUZ3LXIxX1g0MFFIakdCSmxRS044RlROVFNaUGdiZURFcW9zUDBKbEFiR3UzNUJPTVdHRVR5M2daT2tqaE44aHJ6SjA1Uzl0d0UzMjdTd0lnM3ozUWJpRFJJbWN2dXVn?oc=5",
+          "description": "Mediterraneo come un 'bagno caldo': 30°C su vaste zone 3BMeteo",
+          "pubDate": "Mon, 17 Aug 2026 13:02:03 GMT"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Meteo, allerta maltempo: temporali lampo e calo delle temperature su molte regioni - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNT2RtRnFCa0ZEZ09YeTVVTDlOaDZ0SjNYYTJnWjU1NjFVTU1kV29vVlNubk9KbGpKVHNQU0lPZ1Bqc1NYbVpDQTZrbmFQU2psOVBQa1lnNUk4Q3ZDdVl0b2hwRWVUeVhGMVdZRnhtUllFZndSTzk2VkRpYTFOQWhoUDAxaG1SY19JbnNyUmNhaHpJZ3JudDQ3SUlfczc0ak8tbThXbUpnZnhrV24yLWY3Y3R2aWdjcUpPZnhoR2lNaVNTdzhTcnVzdERReTNtM0Y0Vkt2d01FbTVOWVV2UmRwcWdwcGlsZTZKWkloaUxtZDU5b2p6TmFveVI0OFJ5UlJfT3BQZzNzV2JtdnRIc09PVklxWXTSAZoCQVVfeXFMT1pXQlVyRkhlWkdKVDlYNXZYbGd6VzBhblBRMmRQOVZyRlAtOEh4SE5tbUc3YkJQWkZ5YmhmWVVySF9zNjhqdDYtYjF1MF9wUDJ4OVFTb2dkN3h6TWNRcGNreUFmbDhybVZ1TDZjUFNCa0F4UUxWZlpxTm90U1BKWG5MLTVmSlZHazdJLWN5ZWoxYTUzVUNiQ0ZFRllnbDdoSTRKamxtZDluNFRwaEl4Z1BGVWhNUG9aUHVHZXg1cGRqWGl1c0V4YUNOUnlFMzFWeF9RWEZaQ3l2aS1nU1pQSFIxV1RNbUhkOUlmbFpWRFZpMUdLLVFxQU5MeHlRa3o5MUVtZWNfYTIxTmllaHRmYU9VMVNoZWMxV0pR?oc=5",
+          "description": "Meteo, allerta maltempo: temporali lampo e calo delle temperature su molte regioni RaiNews Bomba d'acqua nel Lazio e su Roma dopo l'ondata di caldo, temporali intensi e grandine: le previsioni meteo Virgilio Allerte meteo, le news: dopo l'afa diramata l'allerta gialla in 13 regioni Sky TG24 Caldo in diminuzione, allerta gialla per i temporali in tutto il Sud. Due vittime per i fulmini Corriere del",
+          "pubDate": "Mon, 17 Aug 2026 23:00:00 GMT"
+        }
+      ],
+      "macro_area": "clima-salute"
+    },
+    {
+      "keyword": "lavoro",
+      "n_items": 4,
+      "n_sources": 4,
+      "category": "lavoro",
+      "score": 22,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "YOLO Economy: Quando il lavoro non è più tutto",
+          "link": "https://www.ansa.it/sito/podcast/ansa_voice_economia/2026/08/17/yolo-economyquando-il-lavoro-non-e-piu-tutto_0fb905c0-3746-437f-864e-1ea304a0935c.html",
+          "description": "",
+          "pubDate": "Mon, 17 Aug 2026 16:42:11 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Uil, in Lombardia un morto sul lavoro ogni 2,4 giorni da gennaio",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/17/uil-in-lombardia-un-morto-sul-lavoro-ogni-24-giorni-da-gennaio_d95f0ad8-60f4-4ce6-863e-ea5a95ea7e55.html",
+          "description": "Oltre 60mila denunce complessive di infortunio nei primi 6 mesi",
+          "pubDate": "Mon, 17 Aug 2026 14:37:02 +0200"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Lavoro: nel mondo 67 mln di giovani disoccupati, meno opportunità per l’IA",
+          "link": "https://www.ilsole24ore.com/art/lavoro-mondo-67-mln-giovani-disoccupati-meno-opportunita-l-ia-AJIQpem",
+          "description": "La disoccupazione giovanile aumenta. I giovani incontrano maggiori difficoltà nell’accesso a un lavoro dignitoso. Lo rileva un nuovo rapporto dell’ Organizzazione internazionale del lavoro (Ilo, agenzia delle Nazioni Unite) , che segnala...",
+          "pubDate": "Fri, 14 Aug 2026 15:32:03 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "L'IA aumenta le disuguaglianze: chi perde e chi guadagna nel lavoro - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS0VsbW0yWTAzdFltRVZiQk5rLTNjY21UZjZiSFZCd1dBWlNwSzR6alVCbWd1R0MtN1Q2YkFQNXpSSkFRVm1ZSkVWWEVFWU9ZVmNwRU1SOWk2Z1lRQk5QRWM0ZFNSa3RzMl93ejlNcWdIRnN1WVpGTW9PeDQ4U21JMGFkWXBtSWtLZTR1cGpUWFlMVnFqTU83Ng?oc=5",
+          "description": "L'IA aumenta le disuguaglianze: chi perde e chi guadagna nel lavoro Il Fatto Quotidiano",
+          "pubDate": "Mon, 17 Aug 2026 06:03:13 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    }
+  ]
+}

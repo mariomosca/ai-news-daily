@@ -1,0 +1,925 @@
+{
+  "date": "2026-07-03",
+  "top_topics": [
+    {
+      "keyword": "trump",
+      "n_items": 20,
+      "n_sources": 8,
+      "category": "geopolitica",
+      "score": 166,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ricevimento Usa per festa 4 luglio, ci sono La Russa e ministri - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOTI2UEVVT2dFLTdHcUthQUstU1A2NmF5Q2g3eTYyaGtHS1NQU1AzazhaSGUzTmluQTlScktKeXBjQWVKaFVaY0cyeUdSdUp6ejdJbzlDbkhPQU5FVXd0czJTZHhCaTBCNU9CSHczbTlfUEJMWW5NaVVsZGgxMS15SEViSXNaU3FfNWpXSQ?oc=5",
+          "description": "Ricevimento Usa per festa 4 luglio, ci sono La Russa e ministri Sky TG24 Il governo alla festa Usa a Villa Taverna: 'Franchezza e rispetto, ma siamo amici oltre le polemiche' ANSA Paolo Zampolli, inviato speciale di Trump a Villa Taverna: «Conte? È un amico, ma ha sbagliato a non venire» Corriere della Sera Italia-Usa, pace fatta. A Roma la festa per il 4 luglio a Villa Taverna cancella le tension",
+          "pubDate": "Thu, 02 Jul 2026 17:57:55 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa-Iran, le notizie in diretta | Qatar: «Positivi progressi nei colloqui fra Usa e Iran». Media: Marwan Barghouti si candiderà alle presidenziali palestinesi - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTFdITGJJa0RDaVlpdEFTNHBqUkg0MVRYU25fUWtFcVlmZTlqYjRRMjlVd2VRb2psdVZfYXpCZE5JamJuY2ticms0c0RZZzY4WDVleE9NNFljVktEN3RBcktCUy1TRlhVaDV5NXRiLW9lTjRTdFpxSlBDRTNRWlZtWGRRTmtwY2dPUzFNUkRwRdIBlAFBVV95cUxPMGpSb1pIczdib1FxYTg5T0hXUmpNZUZTRjNoclBUdnktQnNKSEZuWi1qN3kzX2psMXlBaU5OYkNLT09UX3FZWExfZHpMRmZENllRbGhiTjYxVTRsZkVqUGdQYkh2VFk3MUkwbmFFOVFMUWpMcFpVMFhNMFJ5WnpvMk02ZnViYlFsTFVYd1ZMa25XZWxx?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Qatar: «Positivi progressi nei colloqui fra Usa e Iran». Media: Marwan Barghouti si candiderà alle presidenziali palestinesi Corriere della Sera Guerra Iran USA, 'progressi' nei colloqui a Doha. Trump: ho vinto Sky TG24 A Doha si tratta a distanza. L'Iran: 'Prima sbloccateci gli asset' ANSA Gli Usa: “Teheran denuclearizza”. Primo sblocco degli asset congela",
+          "pubDate": "Thu, 02 Jul 2026 21:45:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "L'ultima trovata di Donald Trump: proclamata la Giornata nazionale delle Capesante - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaVBpbnZlYkgxUkdOaElLNDA0YThrbjcwdDRpQkNGbGlVSXZWckdDU1g0Y2FxOVJrVXJBVldtSEF1Z01KS3hoNmhvSmItWU9nMURIa1MxbXFGdVUzUjd0S200YzRNajZ4aHAxQk02VW9JSF9fTkkwSF81YjFvVVVobUtMMmhzV0dfUkVzUTNlSnBoelc0Znlrclp4YmpvZDNpRk5SZnV30gFoQVVfeXFMTXFWRmhaMEdfMTdDVlZDUUpxc1lGZU9UZjhHd1lwa2k0bmRnZXRZOENsMGFpRTFjRGtBUWVVaHhmanpyakdTbzFKS21kb1F5Q3p2bTVZQnhJaEhlTXZURzRVckRlTTJsUms?oc=5",
+          "description": "L'ultima trovata di Donald Trump: proclamata la Giornata nazionale delle Capesante Tgcom24",
+          "pubDate": "Thu, 02 Jul 2026 20:48:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Trump torna ad attaccare la Nato, Usa spendono più di tutti - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQWZuZWlOVDZCdGhUdy1KMTBTbDZkendoS2wwR0JBQlJISURFcU5UMGFpT194VkRjOHRhU3JTaFhMa1lBVXRONUQtcWZCenZEcGgwVmpnRkMtUTg0Ym92b3Uxb1RhdWZMR0ZXUVFWYmlsTHZLM0hSMTZLSVpqRlNXRWhOT2w1T1NFOXV5aExCZlpNbGJlMmFBUGc0TlZZVGlERnBHZVpCQXVuRzA5bUE0cFhGa1hYSkNQNHIxaG5QaVVuZWU1R3U1NUhwZDVjREZRZHNNMnJOOEptOUdYMnRiUWtHNXBpOWc?oc=5",
+          "description": "Trump torna ad attaccare la Nato, Usa spendono più di tutti ANSA Trump sulla Nato: \"Gli Usa spendono più di tutti\" | Quali sono i Paesi che versano di più per la difesa Tgcom24 «La Nato costa, alleati ridicoli». Così Trump prepara il vertice il manifesto Nato, Trump attacca ancora l’Italia: “Ha speso solo 48 miliardi, gli Usa 999” La Stampa >ANSA-FOCUS/ Trump ancora contro gli alleati Nato, 'Ankar",
+          "pubDate": "Thu, 02 Jul 2026 13:44:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Sam Altman propone al governo di diventare azionista - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWU9YbmxGQVZZQl94OGZ0V2F5dTJjdjg2OExNNjZaeHBmLVJhWlI5N2VXNWVRV1FySkR3RUxYVTMydHFzWW14SzhlM05vRzBjSzNBLW1FVVB0WEFxLWRPMHJWU3hiUFAyOEYtRVBFMHZSb1RoTEo0NE5nUG1od0xBS3VhR1hWTXBmZXBCVi1NQ3h6dDh0aVdpOU5uWGtGWWxJUzFFZWc1UHlaS1RVdjBib1dqdk1aNnhKTjNEdHk4VWFLQVp5dVdHRXlqLWwwaEFia3diY1VwbWZZSmc1WVpSbEJxdHQ1cWl4Q0dic2RJSTVnb0FnRFFDa2ZWMXpsXzNjLXVFNkF2VQ?oc=5",
+          "description": "Sam Altman propone al governo di diventare azionista Il Fatto Quotidiano OpenAI vuole vendere una quota del 5% al governo americano (per avere il sostegno di Trump): a chi conviene l'AI di Stato Corriere della Sera OpenAI valuta la vendita del 5% delle quote all’amministrazione Usa La Stampa OpenAI diventa statalista: “Il governo americano entri nel capitale con il 5%” la Repubblica Open Ai: a Tru",
+          "pubDate": "Thu, 02 Jul 2026 16:43:04 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "media",
+      "n_items": 12,
+      "n_sources": 9,
+      "category": "tech-ai",
+      "score": 114,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Attentato a Monaco, un mandato d'arresto - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNM1hRc0JyZFA0dHdSSE1sOWRDdC1rY1ZGRHp6ODdPTmtxR25POTZxaEptUGwyWE1nakVsbUdYNEhzbXlhRWtXaHRXd19hZ3d6aVR1WTlYT3hUR19qVGNXSHZUNmdSY0MxWS1KVkR6M0k2dnBCMGM5eFVtQmRmRERQMzBlQmtkalJ3ZVVDU29oekF6VW9PNWVCSExUbWJJeE03d1hPTHRULVkxdmEzcGlMU1N1ekQxYTM4VWNFSWN3RElFNEFuN0x2Y0pOMDQyVDdaY1YtWDBQd3Z0RkRFOEFlMTZDN2jSAeoBQVVfeXFMUEtUOGZLY3Z0OTE5RlVvNHJneUdqdU8yYTNNS2pJM1ZfRzBxYlc0eVgxamRwWmJxMUVPZWFWUUhOYVdkbW5WcXdJQV81UnBhX2R0UzNZNWV1MGtNaXlTd2d5ZUNBMm1MX3J4RXlZU3hnMkd6bFgwRHFESUV0Wng1ejFEU09iMkhrOWw0N1d2VTFZd1VMTXY2VThkRjNlVUt0VUYyN3Q2dXpzZWl3eUp1NzI2OWVuM3hPQVBkR2x1OHcwbXZIWDNJT3I5UkNYaDNKQlFEZFhFZkZvMnVfandSWHZBZHNiSjRrUFF3?oc=5",
+          "description": "Attentato a Monaco, un mandato d'arresto Corriere della Sera 'Un'ucraina l'attentatrice di Monaco, è in fuga in Europa' ANSA Esplosione Monaco, media: \"Attentatrice è ucraina, fuggita in Europa\" Sky TG24 Monaco, svolta nell'attentato all'oligarca: “L'autrice è una donna ucraina” la Repubblica Attentato Monaco, l'imprenditore: \"L'oligarca ferito Ermolaev pagò 5 milioni ai servizi segreti per non es",
+          "pubDate": "Thu, 02 Jul 2026 20:47:23 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa-Iran, le notizie in diretta | Qatar: «Positivi progressi nei colloqui fra Usa e Iran». Media: Marwan Barghouti si candiderà alle presidenziali palestinesi - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTFdITGJJa0RDaVlpdEFTNHBqUkg0MVRYU25fUWtFcVlmZTlqYjRRMjlVd2VRb2psdVZfYXpCZE5JamJuY2ticms0c0RZZzY4WDVleE9NNFljVktEN3RBcktCUy1TRlhVaDV5NXRiLW9lTjRTdFpxSlBDRTNRWlZtWGRRTmtwY2dPUzFNUkRwRdIBlAFBVV95cUxPMGpSb1pIczdib1FxYTg5T0hXUmpNZUZTRjNoclBUdnktQnNKSEZuWi1qN3kzX2psMXlBaU5OYkNLT09UX3FZWExfZHpMRmZENllRbGhiTjYxVTRsZkVqUGdQYkh2VFk3MUkwbmFFOVFMUWpMcFpVMFhNMFJ5WnpvMk02ZnViYlFsTFVYd1ZMa25XZWxx?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Qatar: «Positivi progressi nei colloqui fra Usa e Iran». Media: Marwan Barghouti si candiderà alle presidenziali palestinesi Corriere della Sera Guerra Iran USA, 'progressi' nei colloqui a Doha. Trump: ho vinto Sky TG24 A Doha si tratta a distanza. L'Iran: 'Prima sbloccateci gli asset' ANSA Gli Usa: “Teheran denuclearizza”. Primo sblocco degli asset congela",
+          "pubDate": "Thu, 02 Jul 2026 21:45:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "“È una donna ucraina l’attentatore che ha lasciato un pacco bomba davanti a casa dell’oligarca Ermolaev a Monaco” - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWW9zZUdXSzhrZkk1aTlzTEE3UW9YM2NPVmpobl8tNExWbE45RnJ4NjRGT2xselp0VEc3N0pVZk9BUFZRazI2SFB6R0RISlVNNlVEa25jXy12eV94cS1BUkJucGZGZ1hBcUdFbHdNUFNncnN0b1RGRVVweUUwSWI0R2w5WjNLTDNmMGtzMnlXQ3dXejc3bXVZdzNYeGpIUnotQnNEN0s1RWtIWlJSaUVna3RPWlhjZU1MRzcxWTh2MjNmX0FpV05VU0FnMWRtcThTM0RrbUJjOWo5SHg1YjBTUVlCVFdNbGlyQVE?oc=5",
+          "description": "“È una donna ucraina l’attentatore che ha lasciato un pacco bomba davanti a casa dell’oligarca Ermolaev a Monaco” Il Fatto Quotidiano 'Un'ucraina l'attentatrice di Monaco, è in fuga in Europa' ANSA Attentato a Monaco, un mandato d'arresto Corriere della Sera Esplosione Monaco, media: \"Attentatrice è ucraina, fuggita in Europa\" Sky TG24 Monaco, svolta nell'attentato all'oligarca: “L'autrice è una d",
+          "pubDate": "Thu, 02 Jul 2026 18:15:27 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Media: Trump pensa di impedire l'ingresso negli Usa alle donne incinte - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16NDFBTGhnT0Q5M0tVX0drVUZWRkNLSnRGYzVMWThtUXpBV3hqN2VqS1E3anRqZTJtWWktcHVfTFl5RzVtT0VKV0toQjBpRVpwdVU5Rm9mWGI1MEozdm1hcVpPUUpXd2JRNW02bHBaME1SeUU?oc=5",
+          "description": "Media: Trump pensa di impedire l'ingresso negli Usa alle donne incinte Sky TG24 «Trump pensa di impedire l’ingresso negli Usa alle donne incinte» Il Sole 24 ORE Usa, il sollievo dell'arcivescovo Coakley per la sentenza sullo ius soli Vatican News Nove sotto un tetto costituzionale. L'America salva la cittadinanza, ora tocca alle armi (di A. Molle) HuffPost Italia Corte Suprema Usa: ius soli salvo ",
+          "pubDate": "Thu, 02 Jul 2026 04:55:12 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "U.S.-Iran Latest: Talks pause for slain ayatollah's funeral after Trump and mediators claim progress - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaVMtX0gyODkzTzVJU0FSWjhLZkpmNUpUbldiN1VlQm5LR3ZveGdxRDVNWG5IWHh0dWd4ekptdUEwZE1yRDlsME1rV0R1dGZKYy11TGR6cTdsbEpKbjE5d0x4STQ5dzdzelpRQmZGNk8yeGtPZ1pERHVENmhjLThBdHNBZGhQamJ3WkZGQUVmUURkZ2NoMmVZ?oc=5",
+          "description": "U.S.-Iran Latest: Talks pause for slain ayatollah's funeral after Trump and mediators claim progress CBS News US and Iran hold separate meetings in Qatar and agree to continue discussions AP News US, Iran talks conclude in Doha, focused on Strait of Hormuz Reuters Iran war updates: Qatar says ‘positive progress’ made in US-Iran talks Al Jazeera Trump Hails Qatar Meetings on Iran as Talks Set to Co",
+          "pubDate": "Fri, 03 Jul 2026 01:28:25 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "europa",
+      "n_items": 15,
+      "n_sources": 7,
+      "category": "tech-ai",
+      "score": 111,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Attentato a Monaco, un mandato d'arresto - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNM1hRc0JyZFA0dHdSSE1sOWRDdC1rY1ZGRHp6ODdPTmtxR25POTZxaEptUGwyWE1nakVsbUdYNEhzbXlhRWtXaHRXd19hZ3d6aVR1WTlYT3hUR19qVGNXSHZUNmdSY0MxWS1KVkR6M0k2dnBCMGM5eFVtQmRmRERQMzBlQmtkalJ3ZVVDU29oekF6VW9PNWVCSExUbWJJeE03d1hPTHRULVkxdmEzcGlMU1N1ekQxYTM4VWNFSWN3RElFNEFuN0x2Y0pOMDQyVDdaY1YtWDBQd3Z0RkRFOEFlMTZDN2jSAeoBQVVfeXFMUEtUOGZLY3Z0OTE5RlVvNHJneUdqdU8yYTNNS2pJM1ZfRzBxYlc0eVgxamRwWmJxMUVPZWFWUUhOYVdkbW5WcXdJQV81UnBhX2R0UzNZNWV1MGtNaXlTd2d5ZUNBMm1MX3J4RXlZU3hnMkd6bFgwRHFESUV0Wng1ejFEU09iMkhrOWw0N1d2VTFZd1VMTXY2VThkRjNlVUt0VUYyN3Q2dXpzZWl3eUp1NzI2OWVuM3hPQVBkR2x1OHcwbXZIWDNJT3I5UkNYaDNKQlFEZFhFZkZvMnVfandSWHZBZHNiSjRrUFF3?oc=5",
+          "description": "Attentato a Monaco, un mandato d'arresto Corriere della Sera 'Un'ucraina l'attentatrice di Monaco, è in fuga in Europa' ANSA Esplosione Monaco, media: \"Attentatrice è ucraina, fuggita in Europa\" Sky TG24 Monaco, svolta nell'attentato all'oligarca: “L'autrice è una donna ucraina” la Repubblica Attentato Monaco, l'imprenditore: \"L'oligarca ferito Ermolaev pagò 5 milioni ai servizi segreti per non es",
+          "pubDate": "Thu, 02 Jul 2026 20:47:23 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Cremlino a Kallas, continueremo ad aumentare la pressione su Kiev' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSlJPc1RpVy1HN0RVTDl4YTZNdEFsMGIyemktNGk0d1llWGhoTFpxVlJkMjBVei1aZjlpeW1KWHFhd1k5MW4wVUlKRm50MXJlUFd6QUxTN3AwQ2puMWJ0ZnVFaUZTQzA1M1h6MkU1c3ZrOEZnb0l6Y3pmalRNYndyMmZCbkVpU1NkRkFrVVc2Yk0xYUI1dlMzNkVwdkpJQVlnTlJBTjg3Qm1rZzQzMktuOExuNWk0VG9oT2ViWmhEUnpZM216WWMydS13cHJYZ2JlQzFrdnRxLTVyWnVnUUJmX2stTjA5QU9XZDJyQnZaRQ?oc=5",
+          "description": "Cremlino a Kallas, continueremo ad aumentare la pressione su Kiev' ANSA Kallas: 'Le parole non fermano Mosca, oggi proporrò nuove sanzioni' ANSA Russia a Ue: continua pressione su Kiev RaiNews Raid russi sull’Ucraina. Kallas: nuove sanzioni contro la Russia Tv2000 Il sostegno all’Ucraina. “L’Europa ora è unita. Roma non si tirerà indietro” Quotidiano Nazionale",
+          "pubDate": "Thu, 02 Jul 2026 09:22:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "“È una donna ucraina l’attentatore che ha lasciato un pacco bomba davanti a casa dell’oligarca Ermolaev a Monaco” - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWW9zZUdXSzhrZkk1aTlzTEE3UW9YM2NPVmpobl8tNExWbE45RnJ4NjRGT2xselp0VEc3N0pVZk9BUFZRazI2SFB6R0RISlVNNlVEa25jXy12eV94cS1BUkJucGZGZ1hBcUdFbHdNUFNncnN0b1RGRVVweUUwSWI0R2w5WjNLTDNmMGtzMnlXQ3dXejc3bXVZdzNYeGpIUnotQnNEN0s1RWtIWlJSaUVna3RPWlhjZU1MRzcxWTh2MjNmX0FpV05VU0FnMWRtcThTM0RrbUJjOWo5SHg1YjBTUVlCVFdNbGlyQVE?oc=5",
+          "description": "“È una donna ucraina l’attentatore che ha lasciato un pacco bomba davanti a casa dell’oligarca Ermolaev a Monaco” Il Fatto Quotidiano 'Un'ucraina l'attentatrice di Monaco, è in fuga in Europa' ANSA Attentato a Monaco, un mandato d'arresto Corriere della Sera Esplosione Monaco, media: \"Attentatrice è ucraina, fuggita in Europa\" Sky TG24 Monaco, svolta nell'attentato all'oligarca: “L'autrice è una d",
+          "pubDate": "Thu, 02 Jul 2026 18:15:27 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Le spiagge più sicure d’Europa sono in Italia: ecco le migliori dell’estate 2026 - SiViaggia",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObW0xZzFaOTBRM0xUa2tDVjA0MXE4WEpfbkZnVFFRc00xRUVfY1VkbEsxOWVlb0NmX0pVUWlhYTVYUEhsXzlrYnQ3UGsxeXN4NVpoWVhMWWx3c2E4cFExYzlQbEdUV2c4T04wcW9FdG56ZGpqdFpjRHRNLWQybFJraEFR0gGHAUFVX3lxTFBsejgwTGIyamxQNTVPdHYydDM1elhkbVpLbmxfYkppRm04cGZxYjh1UGJfM1NjZnJMSmhYeXgzXy14Z3JZd0dYbm5YWk9SZldwU09GTUU4aTRSbWM0ZXhENHVtQVJESXNSMUxiY1ZHOXNvN0EtNTdEZ1VyNEp3OUh5TTRDRzNyRQ?oc=5",
+          "description": "Le spiagge più sicure d’Europa sono in Italia: ecco le migliori dell’estate 2026 SiViaggia Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Thu, 02 Jul 2026 13:02:17 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Da ieri la Cina ha le sue «leggi razziali». Ecco cosa dicono - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQdnBSQUdESndqa0ZKV2YxSmZnQ1ZMbXBlNnlKUEJqNDBfODBhS2pRZWlCR3dLcFU4ZjhSc3NNT2xfNnZZY1Y3RXNjbVNkTXF4ZWxfUkVrWlV0UUNubDBnR3VhS3JTVDF2bXdJdW45dVo0N2JQbFFUaVBObTJaVkk4YjZORTZaVGJDMlYyemlReERCcFhZdlFqS1dtZTJELTZTbC1EVHJZY3NFT3FybFlRY1NJS0w1aU5VdjMwSDN6TXc4QVNxa2xDSE9xNEpRSExXVmQ5azVuaWJsVGc1cDNCMkNSSHh6WG9GV2NBMmdWandKZFBLNGUzODdvcnR2YUUwOHfSAYcCQVVfeXFMTU9aSFgyQUdlcUJONlJqT292ZGluRno1SkdiRTlXUFB2QWJLOEN5NTlOUG1PX040LVlEamV4YmRObDhVRERrTFFUakNXUjYwdS03b2dBMEk5dzFrbVBBdFBrNHlWcUo2eUx6NUVjUS1DTzBQUnlRVndRMjdNSWxud2NQcV8xRGhjSk5IaG85ZURvSWJfOUxoVndteS1MeEdHZWtEQ015M28wY05TVjlzQ1p0TFdCUlU4Nmk5YTNYQUcxVDIzb2FuN1lNZEZuYzU2X3h6T1FZM1NHbWJHaUlmVUxwTXdHNGVQTWZhbFl2TnEtT1h2dzNQMHc4NVVZWUdMRGpGQVpKWDQ?oc=5",
+          "description": "Da ieri la Cina ha le sue «leggi razziali». Ecco cosa dicono Corriere della Sera Cina, la nuova legge che annulla le minoranze etniche: cosa prevede (e perché fa infuriare Giappone, Usa e Europa) Il Messaggero Taiwan contro la nuova legge di Xi. Così la repressione supera i confini della Cina Formiche.net Una legge per non parlare della Cina Il Riformista Cina, entra in vigore la nuova legge sull’",
+          "pubDate": "Thu, 02 Jul 2026 16:19:54 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "governo",
+      "n_items": 11,
+      "n_sources": 8,
+      "category": "tech-ai",
+      "score": 94,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ricevimento Usa per festa 4 luglio, ci sono La Russa e ministri - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOTI2UEVVT2dFLTdHcUthQUstU1A2NmF5Q2g3eTYyaGtHS1NQU1AzazhaSGUzTmluQTlScktKeXBjQWVKaFVaY0cyeUdSdUp6ejdJbzlDbkhPQU5FVXd0czJTZHhCaTBCNU9CSHczbTlfUEJMWW5NaVVsZGgxMS15SEViSXNaU3FfNWpXSQ?oc=5",
+          "description": "Ricevimento Usa per festa 4 luglio, ci sono La Russa e ministri Sky TG24 Il governo alla festa Usa a Villa Taverna: 'Franchezza e rispetto, ma siamo amici oltre le polemiche' ANSA Paolo Zampolli, inviato speciale di Trump a Villa Taverna: «Conte? È un amico, ma ha sbagliato a non venire» Corriere della Sera Italia-Usa, pace fatta. A Roma la festa per il 4 luglio a Villa Taverna cancella le tension",
+          "pubDate": "Thu, 02 Jul 2026 17:57:55 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Sam Altman propone al governo di diventare azionista - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWU9YbmxGQVZZQl94OGZ0V2F5dTJjdjg2OExNNjZaeHBmLVJhWlI5N2VXNWVRV1FySkR3RUxYVTMydHFzWW14SzhlM05vRzBjSzNBLW1FVVB0WEFxLWRPMHJWU3hiUFAyOEYtRVBFMHZSb1RoTEo0NE5nUG1od0xBS3VhR1hWTXBmZXBCVi1NQ3h6dDh0aVdpOU5uWGtGWWxJUzFFZWc1UHlaS1RVdjBib1dqdk1aNnhKTjNEdHk4VWFLQVp5dVdHRXlqLWwwaEFia3diY1VwbWZZSmc1WVpSbEJxdHQ1cWl4Q0dic2RJSTVnb0FnRFFDa2ZWMXpsXzNjLXVFNkF2VQ?oc=5",
+          "description": "Sam Altman propone al governo di diventare azionista Il Fatto Quotidiano OpenAI vuole vendere una quota del 5% al governo americano (per avere il sostegno di Trump): a chi conviene l'AI di Stato Corriere della Sera OpenAI valuta la vendita del 5% delle quote all’amministrazione Usa La Stampa OpenAI diventa statalista: “Il governo americano entri nel capitale con il 5%” la Repubblica Open Ai: a Tru",
+          "pubDate": "Thu, 02 Jul 2026 16:43:04 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Gov. Abbott taps Don Huffines for Texas CFO opening - The Texas Tribune",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZk91bkJPeFZlQVZEbHNuNC1yVXY5VGNJb2pNSlprRDZNWUd0MllRQUZQR3lLWi1xbUtQQUI2UW5YS3dKUDFzNnBRV2twRFZRNnJlam9pclVRRmlhQkxSUUxUV3VjdGpQVTJqY25YdDNYMDVnMjFfa2RmWTllMmNkeTdoN1Q3eVNSdUMyaG1oRFpYN3ZkRTM4?oc=5",
+          "description": "Gov. Abbott taps Don Huffines for Texas CFO opening The Texas Tribune Texas Governor Appoints Former Hard Right Critic to Key Post The New York Times Acting Comptroller Kelly Hancock to step down as Texas CFO The Texas Tribune Abbott Appoints Don Huffines as Texas Comptroller Texas Scorecard Republican leading Texas voucher rollout to step down at end of July Houston Chronicle",
+          "pubDate": "Thu, 02 Jul 2026 17:15:06 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Il governo alla festa Usa a Villa Taverna: 'Franchezza e rispetto, ma siamo amici oltre le polemiche'",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/07/02/salvini-nessuno-potra-mettere-in-discussione-lamicizia-italia-usa.-tajani-piu_92a441a7-46f6-4423-975e-e754136ec883.html",
+          "description": "La Russa: \"Sulle spese militari scegliamo noi\". Fertitta: \"Legami mai così forti\"",
+          "pubDate": "Thu, 2 Jul 2026 23:56:11 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Terremoto Venezuela: Onu, 'nessun ostacolo agli aiuti, fiducia nei dati ufficiali'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/02/terremoto-venezuela-onu-nessun-ostacolo-agli-aiuti-fiducia-nei-dati_f1bec55e-2e34-447f-9772-a5f99e732c8b.html",
+          "description": "Rampolla del Tindaro: 'accesso libero ai soccorsi, coordinamento con il governo'",
+          "pubDate": "Thu, 2 Jul 2026 21:41:31 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "perché",
+      "n_items": 10,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 66,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Da ieri la Cina ha le sue «leggi razziali». Ecco cosa dicono - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQdnBSQUdESndqa0ZKV2YxSmZnQ1ZMbXBlNnlKUEJqNDBfODBhS2pRZWlCR3dLcFU4ZjhSc3NNT2xfNnZZY1Y3RXNjbVNkTXF4ZWxfUkVrWlV0UUNubDBnR3VhS3JTVDF2bXdJdW45dVo0N2JQbFFUaVBObTJaVkk4YjZORTZaVGJDMlYyemlReERCcFhZdlFqS1dtZTJELTZTbC1EVHJZY3NFT3FybFlRY1NJS0w1aU5VdjMwSDN6TXc4QVNxa2xDSE9xNEpRSExXVmQ5azVuaWJsVGc1cDNCMkNSSHh6WG9GV2NBMmdWandKZFBLNGUzODdvcnR2YUUwOHfSAYcCQVVfeXFMTU9aSFgyQUdlcUJONlJqT292ZGluRno1SkdiRTlXUFB2QWJLOEN5NTlOUG1PX040LVlEamV4YmRObDhVRERrTFFUakNXUjYwdS03b2dBMEk5dzFrbVBBdFBrNHlWcUo2eUx6NUVjUS1DTzBQUnlRVndRMjdNSWxud2NQcV8xRGhjSk5IaG85ZURvSWJfOUxoVndteS1MeEdHZWtEQ015M28wY05TVjlzQ1p0TFdCUlU4Nmk5YTNYQUcxVDIzb2FuN1lNZEZuYzU2X3h6T1FZM1NHbWJHaUlmVUxwTXdHNGVQTWZhbFl2TnEtT1h2dzNQMHc4NVVZWUdMRGpGQVpKWDQ?oc=5",
+          "description": "Da ieri la Cina ha le sue «leggi razziali». Ecco cosa dicono Corriere della Sera Cina, la nuova legge che annulla le minoranze etniche: cosa prevede (e perché fa infuriare Giappone, Usa e Europa) Il Messaggero Taiwan contro la nuova legge di Xi. Così la repressione supera i confini della Cina Formiche.net Una legge per non parlare della Cina Il Riformista Cina, entra in vigore la nuova legge sull’",
+          "pubDate": "Thu, 02 Jul 2026 16:19:54 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "L’allarme dell’Onu: «Non abbiamo liquidità oltre agosto» - Domani",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUmVwYXVmaE0yZTRIeVl1dUZITThPeVB2dVV4WGNLTmtjTnVtWTRqMWZZWGN4TFlIZnVET1h3ZFZiaFpyTnAzbEV6VlBtOHdVdGdwZjk5WFlMamc1eXVkZFRCWEVvbDRURURISXV0RG90Tm5oSndwT2Y0U2doTGhONjhnX1cwU3JLeFAxQk9rWU8wbHN3YlNiWUNzYjc0MlFoVE1MM0ppUFJsUXlsaU9SRkZ5NWRiZUFUUDFWSk1BV2Eyb1l2MFpLVWpEV1VwRFJHTWFubkc3cUVaZ1RCdUZZYQ?oc=5",
+          "description": "L’allarme dell’Onu: «Non abbiamo liquidità oltre agosto» Domani L’Onu non fallirà, per ora Il Post Onu: \"I soldi sono finiti, attendiamo le donazioni per sopravvivere\" Tgcom24 Dove prende i soldi l'Onu e perché li ha quasi finiti today.it",
+          "pubDate": "Wed, 01 Jul 2026 17:04:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Tesla, consegne in crescita del 25% nel secondo trimestre: ecco perché | Quattroruote.it - Quattroruote",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTk9wTGhSd3Z5UFk3MWFIYVp2YzZaTjd0bkszUnVmcWNYbVUxSE43WTN6elZQTk1jajM0RXNvY0EyRnlJODhIN0JmVFBBdF94WWp1bUt6bnZzV3NhNFRiN3hITUVyS3phOHNTTFpieGFjTGNxNHR3ejFxWnNZNWw3bjNnbW54WHo20gGOAUFVX3lxTE40cWw0d0tmU010d0tmSi0xNEZxUzgtQjluUmdlbTVDckw0VGluMjc4clhEYUZUanZxT052VVdHc24zNEhjaHAzUXY3VW1tUHRka1JwY1Z1U2F5d1FfdVlFdmc1MDB2Qi1ELW1GOUFGQ0l2QThJeU85UzVac1VzVkd2aW16NVl5MFZMTl9VMXc?oc=5",
+          "description": "Tesla, consegne in crescita del 25% nel secondo trimestre: ecco perché | Quattroruote.it Quattroruote Perché il titolo di Tesla è sceso del 7% nonostante un trimestre di consegne da record Yahoo Finanza Tesla, vendite del secondo trimestre aumentano del 25% e battono di gran lunga le attese Borsa Italiana Tesla batte le stime nel Q2: consegnati 480mila veicoli. Frenano i timori sul calo delle vend",
+          "pubDate": "Thu, 02 Jul 2026 15:33:10 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Il Wall Street journal boccia le “mazzette legali” di Trump, così il presidente accumula ricchezze - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNlFmUmdZLTFDRy1ZQlpucTZOcDg3TG1WcFhKbHFtU0ZMUUhxX1BQd3Uxcm5fdXI0SlM3blBaQWNpNHpkTmw1SlR0V2w4SkVpNkxBMTRwWEMxS3k2ckZRZE44c1FjeWJndWM5bVlna3BIYm9mNFlDUU9GdHZXRlNvS0E5OUl0cWNPZklSb0tiR2pZa0g4SEx5d3phR3NDNDBqMFk5cGdKcWVaUDVOS1pId1lvVlhDYjlxaXEtWXhTUWpVVVM5VkR2bG1uLWMyUkdRZmpDemFiXzZNVjRTeFdTQndBQTE3YjN0ZlVJQkJR?oc=5",
+          "description": "Il Wall Street journal boccia le “mazzette legali” di Trump, così il presidente accumula ricchezze la Repubblica Perché le accuse di conflitto di interessi non hanno indebolito Trump Sky TG24 Trump, i miei figli gestiscono le mie attività, sui guadagni cripto nulla di illegale ANSA Sabato: “Trump utilizza il suo ruolo per accumulare ricchezze, così non era mai accaduto” la Repubblica Tutti i reddi",
+          "pubDate": "Thu, 02 Jul 2026 17:04:16 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Il petrolio continua a scendere dopo l’aumento delle esportazioni saudite, perché anche Bitcoin e l’oro sono in rialzo? - Yahoo Finanza",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZEFMNnlEWkEtWlZBb2FUUndDTTNBZGFScTJoQ2F2eEVkaWdNWkwzaTlob2ZzS0NIUGhUNXdoZ3ZXZVZjcVEtQ253R204X2ZvaFdIN1lmS1h5d2VsM2J4VnJ2YXdCVS1JLWtJLWgzNlk0LXdUUzRWTHpvaDQ2VGx5T1NpY3lrdUxKWTNrVDJsbw?oc=5",
+          "description": "Il petrolio continua a scendere dopo l’aumento delle esportazioni saudite, perché anche Bitcoin e l’oro sono in rialzo? Yahoo Finanza",
+          "pubDate": "Thu, 02 Jul 2026 14:36:54 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "luglio",
+      "n_items": 12,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 66,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Maltempo in Campania: alberi caduti a Napoli e allagamenti tra Bacoli, Pozzuoli e Ischia - Video - 3BMeteo",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc1ZlUVZBUFYwZVREdG1fNDRNNUMwb3loX01pWDRmc0dZdENvdC1ia3VkZTl2M21RaEZoQVR2Y1MyS1hTc1dkSlkxS20zTVpTOWM1eDhMTkFvZU9VeHdrWEY4c1dlUkktZTI3ZkxieWdITUFHLUtTRkFYSGs3NFZzaFNCM3hfRFAxbV9wc05ZSmZ3M0tkMk14SW9CVGZBVjl0aU1VWjF4YmxPLUE0cHlxSUJjWm0tZm4waERMaUNGNEd2WGx5MXRrU1lqR0RtRTkxckJXRGVuZlFVSUM4SzdKVzNpQ0w?oc=5",
+          "description": "Maltempo in Campania: alberi caduti a Napoli e allagamenti tra Bacoli, Pozzuoli e Ischia - Video 3BMeteo Proroga di avviso di allerta meteo per fenomeni meteorologici avversi valida dalle ore 06:00 e fino alle ore 23:59 di venerdì 3 luglio 2026 Comune di Napoli Centro Coordin.to Soccorsi convocata con urgenza dal Prefetto di Napoli Il portale delle Prefetture Maltempo: bomba d'acqua investe Napoli",
+          "pubDate": "Thu, 02 Jul 2026 15:03:36 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Ricevimento Usa per festa 4 luglio, ci sono La Russa e ministri - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOTI2UEVVT2dFLTdHcUthQUstU1A2NmF5Q2g3eTYyaGtHS1NQU1AzazhaSGUzTmluQTlScktKeXBjQWVKaFVaY0cyeUdSdUp6ejdJbzlDbkhPQU5FVXd0czJTZHhCaTBCNU9CSHczbTlfUEJMWW5NaVVsZGgxMS15SEViSXNaU3FfNWpXSQ?oc=5",
+          "description": "Ricevimento Usa per festa 4 luglio, ci sono La Russa e ministri Sky TG24 Il governo alla festa Usa a Villa Taverna: 'Franchezza e rispetto, ma siamo amici oltre le polemiche' ANSA Paolo Zampolli, inviato speciale di Trump a Villa Taverna: «Conte? È un amico, ma ha sbagliato a non venire» Corriere della Sera Italia-Usa, pace fatta. A Roma la festa per il 4 luglio a Villa Taverna cancella le tension",
+          "pubDate": "Thu, 02 Jul 2026 17:57:55 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Gli Usa decidono di non rinnovare il trattato Usmca con Messico e Canada - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRDNGbGpLQzRjQWp5WGlaSy12ZllvbXRDbU1rZ3JfaE9RTVRVcm9vV2M3MHVlX3BCSUxXaUFaY2kwRjNaMmx1NHM3MEx3QS1RZWhEYi1xTFFvcE5rdlk4VVRxN2s4MGNoenJrbktrMDBGS0laWmVqcWx4YnNYVEN4bGliNDlmMG52R2JYdVlvZEhmYTdmVWpsVVpncTJTdkhGRjBxalRQZ0kzTUtja19DdWx3MUJBMUl3TXNBMnJtNXh0VGRvdEVlYm50ZGNJVWFENnVOQlpoeDItazZxbGhkOHNBMEUyN0tCb2R3MXJUZVRJZkRPcENXcUx3?oc=5",
+          "description": "Gli Usa decidono di non rinnovare il trattato Usmca con Messico e Canada ANSA Usa non rinnova accordo commerciale con Canada e Messico. Resta in vigore con revisioni annuali Il Sole 24 ORE Nordamerica, a rischio il trattato da 900 miliardi di dollari RSI Messico: 'Il vertice del 20 luglio ridurrà le incertezze sull'Usmca' ANSA Usa, Trump non rinnova il maxi accordo commerciale Canada e Messico Sky",
+          "pubDate": "Wed, 01 Jul 2026 17:39:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Dall’ultima presidenza europea per l’Irlanda è cambiato tutto - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcDdSRzF5UHM5QUNCTHNXM2lDcVV3QWkxSDlnX3pVdHdQUmVqaTROeTFfbFVaUlBka1ZxelpZaG1JZUwySHJLR0psQkcxeE9HTGZUX1F2eUZ0STRNS1g2cjNtbmo5UE9GbkJjMGgyMkJQanVYeVF5SGJJM1BxZ1Y3QXNNSG14VkU?oc=5",
+          "description": "Dall’ultima presidenza europea per l’Irlanda è cambiato tutto Il Post Il 1° luglio l'Irlanda ha assunto la presidenza del Consiglio dell'UE Provincia autonoma di Trento La Presidenza irlandese lavorerà per tutti gli europei Il Sole 24 ORE Dal 1° luglio al 31 dicembre 2026 l'Irlanda alla guida del Consiglio dell'Unione europea regione.marche.it Von der Leyen a Cork: 'Una fortuna avere l'Irlanda all",
+          "pubDate": "Wed, 01 Jul 2026 07:23:12 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Tornano gli Ingalls, arriva La (nuova) Casa nella Prateria",
+          "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/07/02/tornano-gli-ingalls-arriva-il-reboot-de-la-casa-nella-prateria_cb055673-dea7-46f7-a1be-966f469018db.html",
+          "description": "Su Netflix dal 9 luglio, con Luke Bracey nel ruolo che fu di Michael Landon",
+          "pubDate": "Thu, 2 Jul 2026 22:06:22 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "iran",
+      "n_items": 8,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 46,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa-Iran, le notizie in diretta | Qatar: «Positivi progressi nei colloqui fra Usa e Iran». Media: Marwan Barghouti si candiderà alle presidenziali palestinesi - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTFdITGJJa0RDaVlpdEFTNHBqUkg0MVRYU25fUWtFcVlmZTlqYjRRMjlVd2VRb2psdVZfYXpCZE5JamJuY2ticms0c0RZZzY4WDVleE9NNFljVktEN3RBcktCUy1TRlhVaDV5NXRiLW9lTjRTdFpxSlBDRTNRWlZtWGRRTmtwY2dPUzFNUkRwRdIBlAFBVV95cUxPMGpSb1pIczdib1FxYTg5T0hXUmpNZUZTRjNoclBUdnktQnNKSEZuWi1qN3kzX2psMXlBaU5OYkNLT09UX3FZWExfZHpMRmZENllRbGhiTjYxVTRsZkVqUGdQYkh2VFk3MUkwbmFFOVFMUWpMcFpVMFhNMFJ5WnpvMk02ZnViYlFsTFVYd1ZMa25XZWxx?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Qatar: «Positivi progressi nei colloqui fra Usa e Iran». Media: Marwan Barghouti si candiderà alle presidenziali palestinesi Corriere della Sera Guerra Iran USA, 'progressi' nei colloqui a Doha. Trump: ho vinto Sky TG24 A Doha si tratta a distanza. L'Iran: 'Prima sbloccateci gli asset' ANSA Gli Usa: “Teheran denuclearizza”. Primo sblocco degli asset congela",
+          "pubDate": "Thu, 02 Jul 2026 21:45:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV0pLSW1aQWZ3RklIM3hzMW9qTHlRNXhvWWwxWEtUZkI2MVVCOVY1N0pnMzBIMW1SLU1VMTdJTXlxbVhvUHNFOTZSZkJKNWpXNkh0andpbzFma2FPcFdWTENidFhyLUQyWmlCa1RSMjJINk1vNGliUlNiUWtIT2lXMjl3SDZrdVU?oc=5",
+          "description": "U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators The New York Times US indirectly warned Iran during talks that Israel might try to kill its top negotiators — NYT The Times of Israel U.S. warned Iran about Israel’s aims to assassinate leaders The Washington Post Iran officials assassination plot: US warned Iran of alleged Israeli plot to kill top ceasefire negotiators India ",
+          "pubDate": "Thu, 02 Jul 2026 18:47:24 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "U.S.-Iran Latest: Talks pause for slain ayatollah's funeral after Trump and mediators claim progress - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaVMtX0gyODkzTzVJU0FSWjhLZkpmNUpUbldiN1VlQm5LR3ZveGdxRDVNWG5IWHh0dWd4ekptdUEwZE1yRDlsME1rV0R1dGZKYy11TGR6cTdsbEpKbjE5d0x4STQ5dzdzelpRQmZGNk8yeGtPZ1pERHVENmhjLThBdHNBZGhQamJ3WkZGQUVmUURkZ2NoMmVZ?oc=5",
+          "description": "U.S.-Iran Latest: Talks pause for slain ayatollah's funeral after Trump and mediators claim progress CBS News US and Iran hold separate meetings in Qatar and agree to continue discussions AP News US, Iran talks conclude in Doha, focused on Strait of Hormuz Reuters Iran war updates: Qatar says ‘positive progress’ made in US-Iran talks Al Jazeera Trump Hails Qatar Meetings on Iran as Talks Set to Co",
+          "pubDate": "Fri, 03 Jul 2026 01:28:25 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Powerful general in Iran emerges from hiding as Tehran prepares for Khamenei's dayslong funeral - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ3FKcmxXQ3lQTHVFQ1JpTTBFdnp5QmhyVXZaSVlSSHBZSUNIYkpRMmExRDJzcTFSRXF0TDdtbE1BV0xfMlNqLVpkMUFjVm1Za2xIRmRTa19CMkhRNU9zbGJqUzJ2SGs0cmNQakxTV3ktcFpueGdkZ0hEdU8tbWs0QnF5VUo3T3NveHYyNW5iSGRidmpURTBvVWR5QWlleU1KWFJCN3UzWjRvWnNsRURwYzhJUHZNT2w0dnp3?oc=5",
+          "description": "Powerful general in Iran emerges from hiding as Tehran prepares for Khamenei's dayslong funeral AP News Powerful IRGC general emerges from hiding as Tehran prepares for Khamenei’s funeral The Times of Israel Khamenei body in cold storage as feared Basij mobilizes ahead of historic Iran funeral Fox News Iran Prepares to Bury Supreme Leader, Ayatollah Ali Khamenei, Killed at Iran War’s Outset The Ne",
+          "pubDate": "Fri, 03 Jul 2026 01:50:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Ambasciatore Usa all'Onu: 'L'Iran torni sulla via della pace, il mondo non è dalla sua parte'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/02/qatar-progressi-positivi-nei-colloqui-indiretti-tra-usa-e-iran-a-doha_cb14f032-45b4-407c-824d-3642d667ce20.html",
+          "description": "Teheran, Hormuz non è terreno di gioco Usa ma sovranità indiscussa del nostro Paese",
+          "pubDate": "Thu, 2 Jul 2026 19:52:25 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "after",
+      "n_items": 12,
+      "n_sources": 3,
+      "category": "tech-ai",
+      "score": 42,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Trump says ‘nothing illegal’ about massive crypto profits - The Hill",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZVm5pbmtpRExqdWstQ2lMVi1XakdyUlNEdVdKSlNIcmZ6cWFiYjh4NzNPeS1VZEVYa3pyWG94Sm5vYjdMdFFJbERoekRWNThVR0d5WTYzdlc1dEd0RWhVekg1SXhlWkozVE1pT1ZtUXpmVTBOXzNCZTNJcno2d9IBgwFBVV95cUxOOU5rOC1yQjB0Y0VqbDRhSGJFVGpMSHdFVkc3TWpwWTBhTjNPSEVwWVpjUDE2Q2llaXhwcmpYd3JMWXRYS1RYZVRPbUlOY0F4UkQzTkIwS3ZpOGdyQ2ItQWtKQno0eGQ2WlZOdTY4Uk1yWVl6blNZYVY4YTRMaGpSOGhPRQ?oc=5",
+          "description": "Trump says ‘nothing illegal’ about massive crypto profits The Hill Bessent on Trump's crypto earnings, Trump Accounts and the U.S. economy's struggles: \"We're going to get to the other side of this\" CBS News MAGA Base Stays Quiet After Trump Reports Billions in Personal Gains The New York Times Real estate, watches and guitars: Trump's 2025 $2.2B income wasn't all from cryptocurrency ABC News - Br",
+          "pubDate": "Thu, 02 Jul 2026 22:32:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Former Olympian faces felony charge over alleged Reflecting Pool vandalism - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQkVQeUw2a0U5MVFEcGN5Y3U5MmUyWVZJLVVXYVhZbnZLVWlLajR0RFdsdWE2a1RVOFJWVDJwSXNERlBacDYtZ0luN011WlZwaEF6TmxHSGx4WGdYRHhlMjl3ZzcwN19HMi02SUNycnlQVlVycHJYMUx6VGJrdVZUclREc0w4eS1vUFAtRFNlM1hJbFVlY2IwejNfMnNzbDk2ckdiWEVtV0lfLTZTRWJIYkZKUXNkc01OSjNEOW8xdHlERGtobTJR?oc=5",
+          "description": "Former Olympian faces felony charge over alleged Reflecting Pool vandalism The Washington Post David Hearn, Olympian Canoeist, Is Indicted After Arrest at Trump’s Reflecting Pool The New York Times Former Olympic canoeist indicted for allegedly damaging Reflecting Pool CNN Ex-Olympian indicted on felony charge in Reflecting Pool case ESPN Former Olympian indicted on felony charge over alleged Refl",
+          "pubDate": "Fri, 03 Jul 2026 02:28:11 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Mitch McConnell is still in the hospital after medical episode, his office says - Politico",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRUttWUxkZ215RkxUdm5GU3dqUkJuWmozb2NHSXlrejdqOTRKUlIxNnVIX2lwTlBXcXBoM2JBYU1rZlY0S1ZmUzlDMEtrWXZZbWdyalVMTnFLNXNDMV9OUjZuOGRHS2FlWmN6OGpCNGpLZnV3NDl5T3RzdXB2VWFFOERFX3U3SFZRVjFzYzZXOTdyWkYyUGtCWWNmUF9NUQ?oc=5",
+          "description": "Mitch McConnell is still in the hospital after medical episode, his office says Politico Paramedics responded to a ‘cardiac arrest’ at Mitch McConnell’s home on day of hospitalization NBC News Mitch McConnell Has Been Hospitalized For Weeks—What We Know About His Health Forbes Mitch McConnell still hospitalized after EMS responded to his home for \"unconscious\" person last month CBS News EMS person",
+          "pubDate": "Thu, 02 Jul 2026 23:03:18 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Empire State Building climbers: Angela Nikolau and Ivan Kuznetsov, AKA Beerkus, get supervised release until next court date - ABC7 New York",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSkM4RGFkeUZ2Y3dGNU5WSVpTdWsxVE9McVpYRE10VklPNW5QYmRwa3ROanVBV3g4bkYxTEFyMUcxX3MxdHRNR0VNM3prOGN1N19JTnQ0NjlyTlZyQ2JNUmE4MWlIVWUza0JlcjdJdlFJLVR2TlZ5ZEw3MTk2Zm1uRG1welAxMkNBNUpJWUpFWWg1eG9lOU5iRGNaYlNFaUlKWDllMUNncUJSVm0xQk52a3VPLTVSdUl0VFlvVWpCMTZjNzRtZFVHMVJzbUFIMjc2RUlXS0RBNEnSAd4BQVVfeXFMUHdKbkR6UWFrNVZTd1ZHT245VzEzcDFHQ2NsTGh4NU1vRDAwRmxMb2k4Njl1MzJuNG1qYWRBaFpERVVnTWRJeDFHWXVDRExfZk9NNjR2MnBQaWpxMHl1Tnd6Z2hfTHJHX25Hc1pkRHo0S21teXZsVC1JdnlNb3hUbmNORzFEUXBFUko3SEpZcDhhQlBsQkJxSVUwX2VVZTg5OHd0Sk5YaXBIbHAybWNzVFd2bDFnWFZZYm1kSWJDRlBfN1czOHIwY3A5ejVQRHJ4XzBnVkRGbUk3V2VUejBB?oc=5",
+          "description": "Empire State Building climbers: Angela Nikolau and Ivan Kuznetsov, AKA Beerkus, get supervised release until next court date ABC7 New York Empire State Climbers Accused of Breaking Security Door to Get to Spire The New York Times Daredevil couple Angela Nikolau and Ivan Beerkus climb to top of Empire State Building in NYC, gets engaged, taken into custody ABC7 New York 2 arrested, arraigned after ",
+          "pubDate": "Fri, 03 Jul 2026 03:56:41 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "U.S.-Iran Latest: Talks pause for slain ayatollah's funeral after Trump and mediators claim progress - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaVMtX0gyODkzTzVJU0FSWjhLZkpmNUpUbldiN1VlQm5LR3ZveGdxRDVNWG5IWHh0dWd4ekptdUEwZE1yRDlsME1rV0R1dGZKYy11TGR6cTdsbEpKbjE5d0x4STQ5dzdzelpRQmZGNk8yeGtPZ1pERHVENmhjLThBdHNBZGhQamJ3WkZGQUVmUURkZ2NoMmVZ?oc=5",
+          "description": "U.S.-Iran Latest: Talks pause for slain ayatollah's funeral after Trump and mediators claim progress CBS News US and Iran hold separate meetings in Qatar and agree to continue discussions AP News US, Iran talks conclude in Doha, focused on Strait of Hormuz Reuters Iran war updates: Qatar says ‘positive progress’ made in US-Iran talks Al Jazeera Trump Hails Qatar Meetings on Iran as Talks Set to Co",
+          "pubDate": "Fri, 03 Jul 2026 01:28:25 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "torna",
+      "n_items": 7,
+      "n_sources": 5,
+      "category": "diritti",
+      "score": 41,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Torna in carcere il 26enne arrestato per la morte dell'agente Imprezzabile - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdFVfdXVLNTVEQTcxV2RDUkVjb3RhbVQxamtMa2hPM2VMRjEzZEhLeFlsNHdLcFQ5WEhSNi02VERGeDhKUUFocW9kak8xemZIMV8xNEpyNjgtdVdqOFE0ZmpReEI1Z0RuTTZlaWVBajlvdnVUZ2J1eFh4LVZnMDA5U21TcGZub3NBcmpaZjVrOGx1SHZlMHFkOVZzMm9RMmJiQ0VyT3d5SUZ3dHFleU5HS0pzOHVsVE9YZjY1b0hsUHo0TFh2WkZ6UzdhRWJja0lPWXRmMW82V1BZc2I2QnFaNHF0OUotOGREczlrYkdfa082dE82NG5GUjRmRQ?oc=5",
+          "description": "Torna in carcere il 26enne arrestato per la morte dell'agente Imprezzabile ANSA Tutte le polizie locali della provincia rendono onore al collega Francesco Imprezzabile IlPiacenza Milano, torna in carcere il 26enne arrestato per la morte dell'agente Imprezzabile Tgcom24 Morte Francesco Imprezzabile, Genti Berisha torna in carcere MilanoToday Una folla per l’addio a Francesco Imprezzabile, l’agente ",
+          "pubDate": "Thu, 02 Jul 2026 14:55:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Trump torna ad attaccare la Nato, Usa spendono più di tutti - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQWZuZWlOVDZCdGhUdy1KMTBTbDZkendoS2wwR0JBQlJISURFcU5UMGFpT194VkRjOHRhU3JTaFhMa1lBVXRONUQtcWZCenZEcGgwVmpnRkMtUTg0Ym92b3Uxb1RhdWZMR0ZXUVFWYmlsTHZLM0hSMTZLSVpqRlNXRWhOT2w1T1NFOXV5aExCZlpNbGJlMmFBUGc0TlZZVGlERnBHZVpCQXVuRzA5bUE0cFhGa1hYSkNQNHIxaG5QaVVuZWU1R3U1NUhwZDVjREZRZHNNMnJOOEptOUdYMnRiUWtHNXBpOWc?oc=5",
+          "description": "Trump torna ad attaccare la Nato, Usa spendono più di tutti ANSA Trump sulla Nato: \"Gli Usa spendono più di tutti\" | Quali sono i Paesi che versano di più per la difesa Tgcom24 «La Nato costa, alleati ridicoli». Così Trump prepara il vertice il manifesto Nato, Trump attacca ancora l’Italia: “Ha speso solo 48 miliardi, gli Usa 999” La Stampa >ANSA-FOCUS/ Trump ancora contro gli alleati Nato, 'Ankar",
+          "pubDate": "Thu, 02 Jul 2026 13:44:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Tornano gli Ingalls, arriva La (nuova) Casa nella Prateria",
+          "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/07/02/tornano-gli-ingalls-arriva-il-reboot-de-la-casa-nella-prateria_cb055673-dea7-46f7-a1be-966f469018db.html",
+          "description": "Su Netflix dal 9 luglio, con Luke Bracey nel ruolo che fu di Michael Landon",
+          "pubDate": "Thu, 2 Jul 2026 22:06:22 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "PUN e PSV 2 luglio: la luce sotto la media di luglio - selectra.net",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81bjVnNjU3MFVjczQ2NzAxTVlSS2VzOC04OWZiQ1UzY2FncFF2M2ZHOUh2NTM4bnN1UFVJTmtzb3JjbVRsLTFNOThrVTZEUU9SZHFyRjU5RnpkZnBNSWRJVVFZS2I1QVFGSzN1aTRoVDNSdm5VUVIw?oc=5",
+          "description": "PUN e PSV 2 luglio: la luce sotto la media di luglio selectra.net Aggiornamento PUN e PSV di oggi, 2 luglio: luce e gas in calo Facile.it Luce più cara a giugno, i prezzi tornano a salire. Ecco quanto pagheremo HDblog.it Borsa elettrica, prezzo medio acquisto sale a 144,67 euro/MWh Borsa Italiana Aggiornamento indici PUN luce e PSV gas, Mercoledì 1 luglio 2026 Segugio.it",
+          "pubDate": "Thu, 02 Jul 2026 02:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Antiriciclaggio, da oggi le nuove regole: segnalazione agli inquirenti per chi non collabora - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUC12ZTdZZmFvaDVXS055cVpFbVVVRm1aR1gzRk5KWmdabVpra2RmY3JkVFpBUDZZdmM5R3NJbHBFUlpkZWl6NFNsV2dSMUdzbWtWMVBZUHJHb183TWthTFZoQ3NsdlcyZ0ZwQUhSbXZfM25Qdm9HcVNLLTU3UTlHMnBDS2l3QXY5NEhkU3BiYS1GMzl5ZXNaeXJFbE9HTTl3OEV5UEN6aEhKXy1FRXUzSFBmWldZaG8?oc=5",
+          "description": "Antiriciclaggio, da oggi le nuove regole: segnalazione agli inquirenti per chi non collabora Il Sole 24 ORE Torna la rubrica “Gli Esperti di Diciottominuti” Consulenti del Lavoro Antiriciclaggio, dal 1° luglio entrano in vigore le nuove regole: cosa cambia per gli amministratori di condominio Immobiliare Nuovo Provvedimento UIF: Istruzioni per segnalazioni operazioni sospette MySolution Iscrizione",
+          "pubDate": "Wed, 01 Jul 2026 09:08:53 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "meloni",
+      "n_items": 7,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 41,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Nato, Meloni riunisce i ministri. Vertice sulle spese per l'Ucraina - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWmpjRHFRd1IxLWNmWHZUa0NKbk9pNkd4ajlDaHpkMnBmYy04cXhaYUVFSUlnanZjWV9jNnFPZHlSbWlYQWxSNkljNVdDYnExOXN6OVdzTkU4dldGTEptYjdjTFBnMWhiZEJhZkxhZTI4U0JMRjBFSzRzYnluVlgtUmFfQ2ZEQWRmY3hqODNuYXpwa1ZuRkVhMnBoMnY0el9MSnc5c1lFdWJvUHVIdWl0YWVvTFBHenVt0gG-AUFVX3lxTFB1WmJ0dmd4M1ZuQndtRXRpR19JWHZEQVRONm9rSXhDak5pc3RLOXVYcW1PYkNsOW0wRnpEQUFPX01xMU9xS1NzWENMVG80NGloUGlDaTFvQmlKQ3RsUGg4bDNtN2MyN3hpSThfWlNZdkZYbDNJSmQ1aGpTQTgtYmp4Wk5QYlM1eE9oYXVvOWxJSmRfNkJvWjZydUNwTFNYSk14Y2lkcHV0OTJwaU4zbmVjZ09vbWgyVFBzdWxLbFE?oc=5",
+          "description": "Nato, Meloni riunisce i ministri. Vertice sulle spese per l'Ucraina Corriere della Sera Alla Camera il question time con Tajani, Crosetto Zangrillo e Bernini ANSA Aiuti Nato all’Ucraina, l’Italia frena sui 2 anni ma rimane isolata la Repubblica Tajani e Crosetto a Montecitorio, tra Usa e riarmo europeo il manifesto Riunione a Palazzo Chigi con Meloni, Tajani, Crosetto e Giorgetti in vista del vert",
+          "pubDate": "Thu, 02 Jul 2026 06:15:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Rischi catastrofali, Giorgetti: «Governo pronto a sostenere le polizze per le famiglie» - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUXBQcHI1TWhHRjhjbEE4WWR2MXlteW0wYWl4RWFCMlRHY2NUOUlwUjk5SmRUVndFc2xRakpMUjViQ2RobGdia0dLRUtoU09CR0FvbkxyRDZjaEt1dGlvLXB2eEpBTU5xMTRSXzN0OUF1V3ZqYTBVTTE0Q2RhZzVHX0lxajBCOHk5QVVyS3F6MTZZMzJUTERsNERENzliWHdtazE5TnNqQ2QtSGU1bU9DRkdiZVRQQQ?oc=5",
+          "description": "Rischi catastrofali, Giorgetti: «Governo pronto a sostenere le polizze per le famiglie» Il Sole 24 ORE Assicurazioni, nel 2025 raccolta premi a 182 miliardi (+7,8%): la sfida previdenziale e sanitaria Corriere della Sera Assemblea 2026 dell’ANIA, il messaggio del Presidente Meloni Governo.it Ivass, da sfida demografica quota crescente risparmi in investimenti previdenza-salute ANSA Le assicurazion",
+          "pubDate": "Thu, 02 Jul 2026 14:09:29 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Uil, Comuni e Regioni taglino le tasse locali, basta usarle come bancomat",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/02/uil-comuni-e-regioni-taglino-le-tasse-locali-basta-usarle-come-bancomat_726a269f-bacc-4f86-8f7b-8f3d4ba9197e.html",
+          "description": "Bombardieri a Meloni, 'fermare deriva delle addizionali, pesa su lavoratori e pensionati'",
+          "pubDate": "Thu, 2 Jul 2026 17:32:39 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Bombardieri ricorda Luana D'Orazio, Meloni abbraccia la mamma",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/02/bombardieri-ricorda-luana-dorazio-meloni-abbraccia-la-mamma_2ee5e8ae-6436-45fe-9a2b-a915b6917f39.html",
+          "description": "La signora Emma presente al congresso della Uil",
+          "pubDate": "Thu, 2 Jul 2026 17:32:57 +0200"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Il bluff nucleare del governo: il premio Nobel Parisi e altri esperti smontano le promesse di Meloni - Fanpage",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcV9wTzItc0NYY1BURkxxbXU1UTFYdjdjb0hoalhtZzNlT19qN1p5OExkX3RRVHl2NFB3Y01YbjI2SHY4TlBuLUw2ZnJDVWRHZGFvUnd5eHpaazZaSnAxOXBia1E1ZVp4VkJxc0pvNExDanVYLTR3MjByQ09PYkFUck9VTGlqNktEaGd2MlNwZ1Z6cnV6N2N6d3F6OWRlcU5Ma0lLX0p1a1BoeUdfRW9hVEEwSDBXYjRNWjJtdkwxd0tWb05MT1ZQaEl3dmE?oc=5",
+          "description": "Il bluff nucleare del governo: il premio Nobel Parisi e altri esperti smontano le promesse di Meloni Fanpage",
+          "pubDate": "Thu, 02 Jul 2026 04:30:24 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "tgcom24",
+      "n_items": 8,
+      "n_sources": 4,
+      "category": "diritti",
+      "score": 38,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Torna in carcere il 26enne arrestato per la morte dell'agente Imprezzabile - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdFVfdXVLNTVEQTcxV2RDUkVjb3RhbVQxamtMa2hPM2VMRjEzZEhLeFlsNHdLcFQ5WEhSNi02VERGeDhKUUFocW9kak8xemZIMV8xNEpyNjgtdVdqOFE0ZmpReEI1Z0RuTTZlaWVBajlvdnVUZ2J1eFh4LVZnMDA5U21TcGZub3NBcmpaZjVrOGx1SHZlMHFkOVZzMm9RMmJiQ0VyT3d5SUZ3dHFleU5HS0pzOHVsVE9YZjY1b0hsUHo0TFh2WkZ6UzdhRWJja0lPWXRmMW82V1BZc2I2QnFaNHF0OUotOGREczlrYkdfa082dE82NG5GUjRmRQ?oc=5",
+          "description": "Torna in carcere il 26enne arrestato per la morte dell'agente Imprezzabile ANSA Tutte le polizie locali della provincia rendono onore al collega Francesco Imprezzabile IlPiacenza Milano, torna in carcere il 26enne arrestato per la morte dell'agente Imprezzabile Tgcom24 Morte Francesco Imprezzabile, Genti Berisha torna in carcere MilanoToday Una folla per l’addio a Francesco Imprezzabile, l’agente ",
+          "pubDate": "Thu, 02 Jul 2026 14:55:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "L'ultima trovata di Donald Trump: proclamata la Giornata nazionale delle Capesante - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaVBpbnZlYkgxUkdOaElLNDA0YThrbjcwdDRpQkNGbGlVSXZWckdDU1g0Y2FxOVJrVXJBVldtSEF1Z01KS3hoNmhvSmItWU9nMURIa1MxbXFGdVUzUjd0S200YzRNajZ4aHAxQk02VW9JSF9fTkkwSF81YjFvVVVobUtMMmhzV0dfUkVzUTNlSnBoelc0Znlrclp4YmpvZDNpRk5SZnV30gFoQVVfeXFMTXFWRmhaMEdfMTdDVlZDUUpxc1lGZU9UZjhHd1lwa2k0bmRnZXRZOENsMGFpRTFjRGtBUWVVaHhmanpyakdTbzFKS21kb1F5Q3p2bTVZQnhJaEhlTXZURzRVckRlTTJsUms?oc=5",
+          "description": "L'ultima trovata di Donald Trump: proclamata la Giornata nazionale delle Capesante Tgcom24",
+          "pubDate": "Thu, 02 Jul 2026 20:48:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Trump torna ad attaccare la Nato, Usa spendono più di tutti - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQWZuZWlOVDZCdGhUdy1KMTBTbDZkendoS2wwR0JBQlJISURFcU5UMGFpT194VkRjOHRhU3JTaFhMa1lBVXRONUQtcWZCenZEcGgwVmpnRkMtUTg0Ym92b3Uxb1RhdWZMR0ZXUVFWYmlsTHZLM0hSMTZLSVpqRlNXRWhOT2w1T1NFOXV5aExCZlpNbGJlMmFBUGc0TlZZVGlERnBHZVpCQXVuRzA5bUE0cFhGa1hYSkNQNHIxaG5QaVVuZWU1R3U1NUhwZDVjREZRZHNNMnJOOEptOUdYMnRiUWtHNXBpOWc?oc=5",
+          "description": "Trump torna ad attaccare la Nato, Usa spendono più di tutti ANSA Trump sulla Nato: \"Gli Usa spendono più di tutti\" | Quali sono i Paesi che versano di più per la difesa Tgcom24 «La Nato costa, alleati ridicoli». Così Trump prepara il vertice il manifesto Nato, Trump attacca ancora l’Italia: “Ha speso solo 48 miliardi, gli Usa 999” La Stampa >ANSA-FOCUS/ Trump ancora contro gli alleati Nato, 'Ankar",
+          "pubDate": "Thu, 02 Jul 2026 13:44:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Usa, ex atleta olimpico incriminato per aver \"danneggiato la Reflecting Pool del Lincoln Memorial\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZWxrQW5kSEJ4ZThSX0J0MW8tRUdjdmh5RFJfNWNuX2pJcmhRd3hkREotMHFCVHZlajFJRDJFZlhkdVZRQVhiRl96eERDb3c5YmZKa2VCWFREQ0dIUGR0UXF2bURJVy1pSUQzM0FMb1BkUklRbFktSTlQUjRxdDA1NmhLNTF0STNmQWJqVEdsUHVsWWR3ODYxNElJWkEzVFc4djhLQzlyNGJMdGRYRTVubXhLY9IBaEFVX3lxTE9DdFJ2VTZ4a1BUX244TjNoY2RxcHZqUU9MRWtFQXc4cHh3bWNDZUdhTVR5ZmEyWW5rcFo0S01PZC0xaUhIYzVOckE3OXVtV1RNeGl2NnRISVUxQkJzMXZUZ012cmRHbDE4?oc=5",
+          "description": "Usa, ex atleta olimpico incriminato per aver \"danneggiato la Reflecting Pool del Lincoln Memorial\" Tgcom24 Il presidente che voleva colorare l’acqua e ha prodotto una pozzanghera verde. Il caso del Lincoln Memorial Il Foglio È virale il cocktail che trolla la saga della Reflecting Pool a Washington Dissapore",
+          "pubDate": "Thu, 02 Jul 2026 20:37:04 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "L’allarme dell’Onu: «Non abbiamo liquidità oltre agosto» - Domani",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUmVwYXVmaE0yZTRIeVl1dUZITThPeVB2dVV4WGNLTmtjTnVtWTRqMWZZWGN4TFlIZnVET1h3ZFZiaFpyTnAzbEV6VlBtOHdVdGdwZjk5WFlMamc1eXVkZFRCWEVvbDRURURISXV0RG90Tm5oSndwT2Y0U2doTGhONjhnX1cwU3JLeFAxQk9rWU8wbHN3YlNiWUNzYjc0MlFoVE1MM0ppUFJsUXlsaU9SRkZ5NWRiZUFUUDFWSk1BV2Eyb1l2MFpLVWpEV1VwRFJHTWFubkc3cUVaZ1RCdUZZYQ?oc=5",
+          "description": "L’allarme dell’Onu: «Non abbiamo liquidità oltre agosto» Domani L’Onu non fallirà, per ora Il Post Onu: \"I soldi sono finiti, attendiamo le donazioni per sopravvivere\" Tgcom24 Dove prende i soldi l'Onu e perché li ha quasi finiti today.it",
+          "pubDate": "Wed, 01 Jul 2026 17:04:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "ucraina",
+      "n_items": 8,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 38,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Attentato a Monaco, un mandato d'arresto - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNM1hRc0JyZFA0dHdSSE1sOWRDdC1rY1ZGRHp6ODdPTmtxR25POTZxaEptUGwyWE1nakVsbUdYNEhzbXlhRWtXaHRXd19hZ3d6aVR1WTlYT3hUR19qVGNXSHZUNmdSY0MxWS1KVkR6M0k2dnBCMGM5eFVtQmRmRERQMzBlQmtkalJ3ZVVDU29oekF6VW9PNWVCSExUbWJJeE03d1hPTHRULVkxdmEzcGlMU1N1ekQxYTM4VWNFSWN3RElFNEFuN0x2Y0pOMDQyVDdaY1YtWDBQd3Z0RkRFOEFlMTZDN2jSAeoBQVVfeXFMUEtUOGZLY3Z0OTE5RlVvNHJneUdqdU8yYTNNS2pJM1ZfRzBxYlc0eVgxamRwWmJxMUVPZWFWUUhOYVdkbW5WcXdJQV81UnBhX2R0UzNZNWV1MGtNaXlTd2d5ZUNBMm1MX3J4RXlZU3hnMkd6bFgwRHFESUV0Wng1ejFEU09iMkhrOWw0N1d2VTFZd1VMTXY2VThkRjNlVUt0VUYyN3Q2dXpzZWl3eUp1NzI2OWVuM3hPQVBkR2x1OHcwbXZIWDNJT3I5UkNYaDNKQlFEZFhFZkZvMnVfandSWHZBZHNiSjRrUFF3?oc=5",
+          "description": "Attentato a Monaco, un mandato d'arresto Corriere della Sera 'Un'ucraina l'attentatrice di Monaco, è in fuga in Europa' ANSA Esplosione Monaco, media: \"Attentatrice è ucraina, fuggita in Europa\" Sky TG24 Monaco, svolta nell'attentato all'oligarca: “L'autrice è una donna ucraina” la Repubblica Attentato Monaco, l'imprenditore: \"L'oligarca ferito Ermolaev pagò 5 milioni ai servizi segreti per non es",
+          "pubDate": "Thu, 02 Jul 2026 20:47:23 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Putin scatena l'inferno su Kiev, oltre 20 morti e palazzi rasi al suolo - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVWJqWkxETVFsTnZSbnZXLWtaa1hwZTB1M0JQMFJ0d2JPdDc4bFEzZ0RkVG9Cd0dMUnhCTC16dC1UYXdzR3plRG1jNXV3NkRPYkFqZFZSN3RFWU96cm95dDZETXJYVFVWd19EZDhlOXYwVnJxUlhRYUI0WExxOG5kYy01RmRBdHhNZURuNjc2M0I2dmxMRjBiLW9DRkVkTksya3MydDZyMFJLQXU3SldVU1FoQ3pOcEFZQmJ1LWUtRExDR2hIYnVfMEVwRXZDTmN0ZWlxaTBnMGMtbWVlbl85QnQwOU9MRE1uWUVRQ2ktM2RkZ01kaGNvek9LenRadVRKcHfSAYcCQVVfeXFMTkp1SDFZLS1yaHZYVTVEZmRfM0VQSnNYWmtDV2o4dnl3NjdXcGx0eVBiWGhZdGh2dkpPVGFJM2JlZ1V0TVRvQXZQQURMem4zUHdXajhFRjZnZ19IUDNRMnI1alBLbW15NWphV3lCeVc2bTRqVVpEMHVnYUk3NmJRb0M5dUxSOWFKdjJSY1RlNmVXS216NE53R21VRURfdjlyc2pvT1lsZkJVaHdmcUhMb0JwSjFfSnZERDY5NkphVFhPb29Cd1BXS19yVmtJZnFtTGtLN2JCUW9yYzRiOThKZ0dYRUJJenF3cmExbnVwTlhkS1czOGdpdGg0RTZqT05fWVBTVFhaUFk?oc=5",
+          "description": "Putin scatena l'inferno su Kiev, oltre 20 morti e palazzi rasi al suolo ANSA Guerra Ucraina-Russia, le notizie in diretta | Putin lancia un massiccio attacco su Kiev: missili e droni, almeno 25 morti. «Colpito anche un pronto soccorso». Zelensky: «Reagiremo a questo attacco» Corriere della Sera 74 missili e 500 droni su Kiev, 27 morti. Zelensky: \"Risponderemo\" - Attacchi su Kiev, almeno 27 morti e",
+          "pubDate": "Thu, 02 Jul 2026 17:59:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Cremlino a Kallas, continueremo ad aumentare la pressione su Kiev' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSlJPc1RpVy1HN0RVTDl4YTZNdEFsMGIyemktNGk0d1llWGhoTFpxVlJkMjBVei1aZjlpeW1KWHFhd1k5MW4wVUlKRm50MXJlUFd6QUxTN3AwQ2puMWJ0ZnVFaUZTQzA1M1h6MkU1c3ZrOEZnb0l6Y3pmalRNYndyMmZCbkVpU1NkRkFrVVc2Yk0xYUI1dlMzNkVwdkpJQVlnTlJBTjg3Qm1rZzQzMktuOExuNWk0VG9oT2ViWmhEUnpZM216WWMydS13cHJYZ2JlQzFrdnRxLTVyWnVnUUJmX2stTjA5QU9XZDJyQnZaRQ?oc=5",
+          "description": "Cremlino a Kallas, continueremo ad aumentare la pressione su Kiev' ANSA Kallas: 'Le parole non fermano Mosca, oggi proporrò nuove sanzioni' ANSA Russia a Ue: continua pressione su Kiev RaiNews Raid russi sull’Ucraina. Kallas: nuove sanzioni contro la Russia Tv2000 Il sostegno all’Ucraina. “L’Europa ora è unita. Roma non si tirerà indietro” Quotidiano Nazionale",
+          "pubDate": "Thu, 02 Jul 2026 09:22:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "74 missili e 500 droni su Kiev, 27 morti. Zelensky: \"Risponderemo\" - Attacchi su Kiev, almeno 27 morti e 91 feriti - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYXBwVVR3RmxYNjNRV21yTkktMlZ4Tngtc3lXbFFEWGw2Q1dBaHJ4WUJVd3liTFhVT3ZoTmxoZjdReENIazdaWXpNd0NJdlZmcU9jZW5tYXl5QVJfMDJBNWlPWUNOODVlZUJicVdtV0YyeHBxaXgzOEtlZG4talJVeGR6ejZFTFpnVU8wc0ZOZGFxNEpoeDRCdzVTVHpRUzZNTHhrc2pqOURxQdIBrwFBVV95cUxQQVF4T2pWbFRxVmlsNG5kRmVGUUtqb2FKZF9rOWRRQUVlZ1NidFFsNFcweHpLUEl6UUNwM2JjWVFLRjhHOFpoU29UWkFMS0pQU0s0eVpBZUVtMTRYTjVEcll3RGNvUWRxblVaNk5tZ3hGQTBtOG5kRVluVllqaUFZc0ZET3IyNmNtZGI4V0pnMEY5dDcyUU53ZmdLWUc1RENCN1VFSXZPeUR2RnRNdk9z?oc=5",
+          "description": "74 missili e 500 droni su Kiev, 27 morti. Zelensky: \"Risponderemo\" - Attacchi su Kiev, almeno 27 morti e 91 feriti RaiNews Putin scatena l'inferno su Kiev, oltre 20 morti e palazzi rasi al suolo ANSA Guerra Ucraina-Russia, le notizie in diretta | Putin lancia un massiccio attacco su Kiev: missili e droni, almeno 25 morti. «Colpito anche un pronto soccorso». Zelensky: «Reagiremo a questo attacco» C",
+          "pubDate": "Fri, 03 Jul 2026 01:21:44 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "“È una donna ucraina l’attentatore che ha lasciato un pacco bomba davanti a casa dell’oligarca Ermolaev a Monaco” - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWW9zZUdXSzhrZkk1aTlzTEE3UW9YM2NPVmpobl8tNExWbE45RnJ4NjRGT2xselp0VEc3N0pVZk9BUFZRazI2SFB6R0RISlVNNlVEa25jXy12eV94cS1BUkJucGZGZ1hBcUdFbHdNUFNncnN0b1RGRVVweUUwSWI0R2w5WjNLTDNmMGtzMnlXQ3dXejc3bXVZdzNYeGpIUnotQnNEN0s1RWtIWlJSaUVna3RPWlhjZU1MRzcxWTh2MjNmX0FpV05VU0FnMWRtcThTM0RrbUJjOWo5SHg1YjBTUVlCVFdNbGlyQVE?oc=5",
+          "description": "“È una donna ucraina l’attentatore che ha lasciato un pacco bomba davanti a casa dell’oligarca Ermolaev a Monaco” Il Fatto Quotidiano 'Un'ucraina l'attentatrice di Monaco, è in fuga in Europa' ANSA Attentato a Monaco, un mandato d'arresto Corriere della Sera Esplosione Monaco, media: \"Attentatrice è ucraina, fuggita in Europa\" Sky TG24 Monaco, svolta nell'attentato all'oligarca: “L'autrice è una d",
+          "pubDate": "Thu, 02 Jul 2026 18:15:27 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "italia",
+      "n_items": 31,
+      "n_sources": 11,
+      "category": "general",
+      "score": 34.1,
+      "cooldown": true,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "“Anche io sono malato, spero di farcela”: l’annuncio con la voce rotta di Clemente Mastella - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMGg4eFNTZ25HZ3lheW1naldBb1hBckNPVFNrRW9mWEhKZzlleU1GTEdHU2ZqOG1zMlAyM2diQlZxX1ZOckd2bzZuSndQcHJhUUVHaGFTeDBkWlVTX2daSjE1R29QRTQ3SDlDd3JxNlFWVkxyVmJkdk9BV1RxUm5BY0lsQXdLWW0tUkk2Zlpqak8tNUpsYWIxQ1Z0X3BaSlVpcGt1bXViZ3ZoUVFZODRQNmx6RXYyajRMLWRkTkkzdlc4ZGYwTnlNSWxObzV0LWJ3Q1dOSnZ3?oc=5",
+          "description": "“Anche io sono malato, spero di farcela”: l’annuncio con la voce rotta di Clemente Mastella Il Fatto Quotidiano Clemente Mastella alla festa della Madonna di Benevento: 'Chiedo di pregare per me, sono malato' Sky TG24 Mastella: “A tutti chiedo di pregare per me, anche io sono malato” ANSA Clemente Mastella: \"Pregate per me, anche io sono malato. Spero di farcela\" HuffPost Italia Mastella: \"A tutti",
+          "pubDate": "Thu, 02 Jul 2026 13:16:26 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Ricevimento Usa per festa 4 luglio, ci sono La Russa e ministri - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOTI2UEVVT2dFLTdHcUthQUstU1A2NmF5Q2g3eTYyaGtHS1NQU1AzazhaSGUzTmluQTlScktKeXBjQWVKaFVaY0cyeUdSdUp6ejdJbzlDbkhPQU5FVXd0czJTZHhCaTBCNU9CSHczbTlfUEJMWW5NaVVsZGgxMS15SEViSXNaU3FfNWpXSQ?oc=5",
+          "description": "Ricevimento Usa per festa 4 luglio, ci sono La Russa e ministri Sky TG24 Il governo alla festa Usa a Villa Taverna: 'Franchezza e rispetto, ma siamo amici oltre le polemiche' ANSA Paolo Zampolli, inviato speciale di Trump a Villa Taverna: «Conte? È un amico, ma ha sbagliato a non venire» Corriere della Sera Italia-Usa, pace fatta. A Roma la festa per il 4 luglio a Villa Taverna cancella le tension",
+          "pubDate": "Thu, 02 Jul 2026 17:57:55 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Trump torna ad attaccare la Nato, Usa spendono più di tutti - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQWZuZWlOVDZCdGhUdy1KMTBTbDZkendoS2wwR0JBQlJISURFcU5UMGFpT194VkRjOHRhU3JTaFhMa1lBVXRONUQtcWZCenZEcGgwVmpnRkMtUTg0Ym92b3Uxb1RhdWZMR0ZXUVFWYmlsTHZLM0hSMTZLSVpqRlNXRWhOT2w1T1NFOXV5aExCZlpNbGJlMmFBUGc0TlZZVGlERnBHZVpCQXVuRzA5bUE0cFhGa1hYSkNQNHIxaG5QaVVuZWU1R3U1NUhwZDVjREZRZHNNMnJOOEptOUdYMnRiUWtHNXBpOWc?oc=5",
+          "description": "Trump torna ad attaccare la Nato, Usa spendono più di tutti ANSA Trump sulla Nato: \"Gli Usa spendono più di tutti\" | Quali sono i Paesi che versano di più per la difesa Tgcom24 «La Nato costa, alleati ridicoli». Così Trump prepara il vertice il manifesto Nato, Trump attacca ancora l’Italia: “Ha speso solo 48 miliardi, gli Usa 999” La Stampa >ANSA-FOCUS/ Trump ancora contro gli alleati Nato, 'Ankar",
+          "pubDate": "Thu, 02 Jul 2026 13:44:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Nato, Meloni riunisce i ministri. Vertice sulle spese per l'Ucraina - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWmpjRHFRd1IxLWNmWHZUa0NKbk9pNkd4ajlDaHpkMnBmYy04cXhaYUVFSUlnanZjWV9jNnFPZHlSbWlYQWxSNkljNVdDYnExOXN6OVdzTkU4dldGTEptYjdjTFBnMWhiZEJhZkxhZTI4U0JMRjBFSzRzYnluVlgtUmFfQ2ZEQWRmY3hqODNuYXpwa1ZuRkVhMnBoMnY0el9MSnc5c1lFdWJvUHVIdWl0YWVvTFBHenVt0gG-AUFVX3lxTFB1WmJ0dmd4M1ZuQndtRXRpR19JWHZEQVRONm9rSXhDak5pc3RLOXVYcW1PYkNsOW0wRnpEQUFPX01xMU9xS1NzWENMVG80NGloUGlDaTFvQmlKQ3RsUGg4bDNtN2MyN3hpSThfWlNZdkZYbDNJSmQ1aGpTQTgtYmp4Wk5QYlM1eE9oYXVvOWxJSmRfNkJvWjZydUNwTFNYSk14Y2lkcHV0OTJwaU4zbmVjZ09vbWgyVFBzdWxLbFE?oc=5",
+          "description": "Nato, Meloni riunisce i ministri. Vertice sulle spese per l'Ucraina Corriere della Sera Alla Camera il question time con Tajani, Crosetto Zangrillo e Bernini ANSA Aiuti Nato all’Ucraina, l’Italia frena sui 2 anni ma rimane isolata la Repubblica Tajani e Crosetto a Montecitorio, tra Usa e riarmo europeo il manifesto Riunione a Palazzo Chigi con Meloni, Tajani, Crosetto e Giorgetti in vista del vert",
+          "pubDate": "Thu, 02 Jul 2026 06:15:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Media: Trump pensa di impedire l'ingresso negli Usa alle donne incinte - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16NDFBTGhnT0Q5M0tVX0drVUZWRkNLSnRGYzVMWThtUXpBV3hqN2VqS1E3anRqZTJtWWktcHVfTFl5RzVtT0VKV0toQjBpRVpwdVU5Rm9mWGI1MEozdm1hcVpPUUpXd2JRNW02bHBaME1SeUU?oc=5",
+          "description": "Media: Trump pensa di impedire l'ingresso negli Usa alle donne incinte Sky TG24 «Trump pensa di impedire l’ingresso negli Usa alle donne incinte» Il Sole 24 ORE Usa, il sollievo dell'arcivescovo Coakley per la sentenza sullo ius soli Vatican News Nove sotto un tetto costituzionale. L'America salva la cittadinanza, ora tocca alle armi (di A. Molle) HuffPost Italia Corte Suprema Usa: ius soli salvo ",
+          "pubDate": "Thu, 02 Jul 2026 04:55:12 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "rischio",
+      "n_items": 7,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "score": 34,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Gli Usa decidono di non rinnovare il trattato Usmca con Messico e Canada - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRDNGbGpLQzRjQWp5WGlaSy12ZllvbXRDbU1rZ3JfaE9RTVRVcm9vV2M3MHVlX3BCSUxXaUFaY2kwRjNaMmx1NHM3MEx3QS1RZWhEYi1xTFFvcE5rdlk4VVRxN2s4MGNoenJrbktrMDBGS0laWmVqcWx4YnNYVEN4bGliNDlmMG52R2JYdVlvZEhmYTdmVWpsVVpncTJTdkhGRjBxalRQZ0kzTUtja19DdWx3MUJBMUl3TXNBMnJtNXh0VGRvdEVlYm50ZGNJVWFENnVOQlpoeDItazZxbGhkOHNBMEUyN0tCb2R3MXJUZVRJZkRPcENXcUx3?oc=5",
+          "description": "Gli Usa decidono di non rinnovare il trattato Usmca con Messico e Canada ANSA Usa non rinnova accordo commerciale con Canada e Messico. Resta in vigore con revisioni annuali Il Sole 24 ORE Nordamerica, a rischio il trattato da 900 miliardi di dollari RSI Messico: 'Il vertice del 20 luglio ridurrà le incertezze sull'Usmca' ANSA Usa, Trump non rinnova il maxi accordo commerciale Canada e Messico Sky",
+          "pubDate": "Wed, 01 Jul 2026 17:39:00 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Porto di Gioia Tauro, piano da cento milioni per l’elettrificazione",
+          "link": "https://www.ilsole24ore.com/art/porto-gioia-tauro-piano-cento-milioni-l-elettrificazione-AIIZURzD",
+          "description": "Negli anni ha temuto chiusure, smantellamenti, depotenziamenti. L’agonia del 2017 e il rischio di un fermo progressivo nel 2024, con i nuovi standard ambientali fissati dall’Unione Europea per il sistema...",
+          "pubDate": "Fri, 3 Jul 2026 04:00:00 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'allarme dei big, 'rischio estinzione con l'IA, è come le pandemie'",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/lallarme-dei-big-rischio-estinzione-con-ia-e-come-pandemie_3afde5e5-7bcf-464e-b3aa-aee6577a9b23.html",
+          "description": "Nyt riporta lettera di 350 leader industria, anche ceo OpenAI",
+          "pubDate": "Tue, 30 May 2023 14:12:41 +0200"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Alzheimer, la nuova mappa del rischio è nel sangue - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaU5kZkl5bTBwMTBndm9NZDFUX2ltV0xUeDBxRVh1RHE5LWhNMlJVa0daU3QtdG9rN1pDbVMtMXZiZ3JfeHhaWDFuYndOSURHTUh2ZWNzVjVBUk9aT0h6eE5XOVZwdlJMQ2NFQlhwNEh3OEZjZTh1T0tJZklqaWUtbDBjVjRpOWJ0b2Rfb21nbnpwZFZVbWtzNmNNWnlQbE1n0gGmAUFVX3lxTE0zWGZWVk1jdHFGU2JuWU9GMkpwVVRqMU95SFlUbkEtUjhvMVNLTmp3NlFrWkRXWFltYlpNT0VLcWNORlZ0T1pKbXBZMGFwOGdYcng5ZnRuTTFpZTlrUFhIOTVscnNRMklTenVNRDF3TXNMaV9hdlRpNVJZU1JWckdIQy1VdWFKSmV5YkVkdS1adkg0c3g4Q2FyYy1kLVEzZmFiOWRDS1E?oc=5",
+          "description": "Alzheimer, la nuova mappa del rischio è nel sangue la Repubblica Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Wed, 01 Jul 2026 18:01:00 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "«Bere fino a 6 caffè al giorno riduce il rischio di tumori e cirrosi al fegato». Lo studio (incredibile) pubblicato da Uk Biobank - Il Messaggero",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWjhHVzNWdW9sQUFWYUIyRzdIVHlQVDlhN3RsOWpxQUZpYm9INTNHSTltVWpWMzY5TGUwM2JleWd4ZGhhcW81QWhORy1tOHY2Z2FkV1c3cnN4MUo0LXJnZlBnRGNEWXRTaFZzYXFWTUp0WWMweE1sLW5CM3ViVHp4Z2s1aHROeEZrQ2hnU3FCMlJBeXVFalg0ZlRscE1vSDhhMDE0OVg3aWRLOXZ3NTVtN01B0gGkAUFVX3lxTE16eFZFWHlIMWdYLUczVHIteENaRklyNXNWdURZMlF2d2VYQTF0VVV1cG5qdW1XMEMzcW81NEhNRUhsMGQ5eUlNQjRTVlVlcXZqZGZ5M2w2ZWtRTDFrckc0dXYxbW9LOWNKbVF2NEdpNUhGS0FnQXp4T2haYmF5U2dNVmtXR1FNZVM4cDRpS2ZZaUJiZ2FObzhHRnJyTUZfbEZxdkJy?oc=5",
+          "description": "«Bere fino a 6 caffè al giorno riduce il rischio di tumori e cirrosi al fegato». Lo studio (incredibile) pubblicato da Uk Biobank Il Messaggero Più caffè e meno rischi per alcune malattie GenovaToday",
+          "pubDate": "Thu, 02 Jul 2026 14:30:42 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "nuovo",
+      "n_items": 8,
+      "n_sources": 4,
+      "category": "general",
+      "score": 32,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Temu e Shein, si valuta una tassa fino a 5 franchi - Corriere del Ticino",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ0YxeENfZjhJWW1vYTdsVUlfU2RQYW02RmtLVjdrd0tlY2t1NGR6WXBNMXNfUUtjR3ZRbnNfMHFRb0haRXBzSTk2cTVEWDUzUUxLemt1R2pFWFd4NUZZM0hNT2xQZTU5Yk5KM1BmOUZ6TXpaRnRJZkdGVzNDR0lTOVlBZmNpM000UU1ESEJKZEhCanM?oc=5",
+          "description": "Temu e Shein, si valuta una tassa fino a 5 franchi Corriere del Ticino Dazi, tassa sui piccoli pacchi in Ue al via dal 1° luglio: cosa sapere Sky TG24 Nuovo dazio sui pacchi da Temu e Shein: quanto costerà davvero Il Fatto Quotidiano Dazio sull'eCommerce, Bruxelles: \"Garanzia di equità per imprese e tutela per consumatori\" Borsa Italiana Entra in vigore la tassa europea sui piccoli pacchi Il Post",
+          "pubDate": "Thu, 02 Jul 2026 04:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Antiriciclaggio, da oggi le nuove regole: segnalazione agli inquirenti per chi non collabora - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUC12ZTdZZmFvaDVXS055cVpFbVVVRm1aR1gzRk5KWmdabVpra2RmY3JkVFpBUDZZdmM5R3NJbHBFUlpkZWl6NFNsV2dSMUdzbWtWMVBZUHJHb183TWthTFZoQ3NsdlcyZ0ZwQUhSbXZfM25Qdm9HcVNLLTU3UTlHMnBDS2l3QXY5NEhkU3BiYS1GMzl5ZXNaeXJFbE9HTTl3OEV5UEN6aEhKXy1FRXUzSFBmWldZaG8?oc=5",
+          "description": "Antiriciclaggio, da oggi le nuove regole: segnalazione agli inquirenti per chi non collabora Il Sole 24 ORE Torna la rubrica “Gli Esperti di Diciottominuti” Consulenti del Lavoro Antiriciclaggio, dal 1° luglio entrano in vigore le nuove regole: cosa cambia per gli amministratori di condominio Immobiliare Nuovo Provvedimento UIF: Istruzioni per segnalazioni operazioni sospette MySolution Iscrizione",
+          "pubDate": "Wed, 01 Jul 2026 09:08:53 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "Metaverso, dopo mesi di attesa Meta e Apple pronte a stupire",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/metaverso-dopo-mesi-di-attesa-meta-e-apple-pronte-a-stupire_cfde93b6-9f56-4996-bf94-712f6e7c9aa5.html",
+          "description": "Quest 3 il nuovo visore di Meta, novità Apple arriva il 5 giugno",
+          "pubDate": "Tue, 30 May 2023 12:21:56 +0200"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "Droni e satelliti per la conservazione del Colosseo",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/29/droni-e-satelliti-per-la-conservazione-del-colosseo_52d9695f-a259-4189-9667-a1df7fc60a01.html",
+          "description": "Nuovo sistema di monitoraggio e manutenzione sviluppato con Asi",
+          "pubDate": "Mon, 29 May 2023 08:59:16 +0200"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Urano e Nettuno non sono \"giganti di ghiaccio\"? Un nuovo studio ipotizza siano oceani di magma - Focus.it",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZUJiTnFUZU91ZENlZm5XVW1QM2wyaF8tNmFYUVR4MTJPUDNaa1hqSjVPU0kxbnBrSUxwMWpDQ2dmNmE0Rk1NbFN6bHp3eFBDc2M2S2FZM25jbnAyajFzaUJYSk55WlJOa1hsUUZxMUlsV25ESllRdXFWbWtOU1ZZd3I2c2k0aloyMUstaUFTWE9KNDRYc0U4ek5zVktzU3VVdm5SUWdmQ0ZNbVN1VHJ2NnpRRUNBM29ZVUpDRDdR?oc=5",
+          "description": "Urano e Nettuno non sono \"giganti di ghiaccio\"? Un nuovo studio ipotizza siano oceani di magma Focus.it",
+          "pubDate": "Thu, 02 Jul 2026 07:06:44 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "droni",
+      "n_items": 5,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 31,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Putin scatena l'inferno su Kiev, oltre 20 morti e palazzi rasi al suolo - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVWJqWkxETVFsTnZSbnZXLWtaa1hwZTB1M0JQMFJ0d2JPdDc4bFEzZ0RkVG9Cd0dMUnhCTC16dC1UYXdzR3plRG1jNXV3NkRPYkFqZFZSN3RFWU96cm95dDZETXJYVFVWd19EZDhlOXYwVnJxUlhRYUI0WExxOG5kYy01RmRBdHhNZURuNjc2M0I2dmxMRjBiLW9DRkVkTksya3MydDZyMFJLQXU3SldVU1FoQ3pOcEFZQmJ1LWUtRExDR2hIYnVfMEVwRXZDTmN0ZWlxaTBnMGMtbWVlbl85QnQwOU9MRE1uWUVRQ2ktM2RkZ01kaGNvek9LenRadVRKcHfSAYcCQVVfeXFMTkp1SDFZLS1yaHZYVTVEZmRfM0VQSnNYWmtDV2o4dnl3NjdXcGx0eVBiWGhZdGh2dkpPVGFJM2JlZ1V0TVRvQXZQQURMem4zUHdXajhFRjZnZ19IUDNRMnI1alBLbW15NWphV3lCeVc2bTRqVVpEMHVnYUk3NmJRb0M5dUxSOWFKdjJSY1RlNmVXS216NE53R21VRURfdjlyc2pvT1lsZkJVaHdmcUhMb0JwSjFfSnZERDY5NkphVFhPb29Cd1BXS19yVmtJZnFtTGtLN2JCUW9yYzRiOThKZ0dYRUJJenF3cmExbnVwTlhkS1czOGdpdGg0RTZqT05fWVBTVFhaUFk?oc=5",
+          "description": "Putin scatena l'inferno su Kiev, oltre 20 morti e palazzi rasi al suolo ANSA Guerra Ucraina-Russia, le notizie in diretta | Putin lancia un massiccio attacco su Kiev: missili e droni, almeno 25 morti. «Colpito anche un pronto soccorso». Zelensky: «Reagiremo a questo attacco» Corriere della Sera 74 missili e 500 droni su Kiev, 27 morti. Zelensky: \"Risponderemo\" - Attacchi su Kiev, almeno 27 morti e",
+          "pubDate": "Thu, 02 Jul 2026 17:59:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "74 missili e 500 droni su Kiev, 27 morti. Zelensky: \"Risponderemo\" - Attacchi su Kiev, almeno 27 morti e 91 feriti - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYXBwVVR3RmxYNjNRV21yTkktMlZ4Tngtc3lXbFFEWGw2Q1dBaHJ4WUJVd3liTFhVT3ZoTmxoZjdReENIazdaWXpNd0NJdlZmcU9jZW5tYXl5QVJfMDJBNWlPWUNOODVlZUJicVdtV0YyeHBxaXgzOEtlZG4talJVeGR6ejZFTFpnVU8wc0ZOZGFxNEpoeDRCdzVTVHpRUzZNTHhrc2pqOURxQdIBrwFBVV95cUxQQVF4T2pWbFRxVmlsNG5kRmVGUUtqb2FKZF9rOWRRQUVlZ1NidFFsNFcweHpLUEl6UUNwM2JjWVFLRjhHOFpoU29UWkFMS0pQU0s0eVpBZUVtMTRYTjVEcll3RGNvUWRxblVaNk5tZ3hGQTBtOG5kRVluVllqaUFZc0ZET3IyNmNtZGI4V0pnMEY5dDcyUU53ZmdLWUc1RENCN1VFSXZPeUR2RnRNdk9z?oc=5",
+          "description": "74 missili e 500 droni su Kiev, 27 morti. Zelensky: \"Risponderemo\" - Attacchi su Kiev, almeno 27 morti e 91 feriti RaiNews Putin scatena l'inferno su Kiev, oltre 20 morti e palazzi rasi al suolo ANSA Guerra Ucraina-Russia, le notizie in diretta | Putin lancia un massiccio attacco su Kiev: missili e droni, almeno 25 morti. «Colpito anche un pronto soccorso». Zelensky: «Reagiremo a questo attacco» C",
+          "pubDate": "Fri, 03 Jul 2026 01:21:44 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Droni russi su Kiev, almeno 25 morti. Zelensky: \"Risponderemo sicuramente all'attacco\" - Nunzio a Kiev, tanta gente sotto macerie dopo attacco Mosca - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVjRLVlBpQklvTktFOTU5RkFYVGFKMVVjU2ZmNDdmb2ZWZE5LS2pBLTFLZjlaTVZNVVRDeU1ydjY3SC1JS0l5VTBsbTVYMGZqUTVISHY0OVhpbTBLM3d1WGpESlJtbFhiRU1ITy0zcUF5QzZDamVZczk0NWtVRmpwN1I0Rl9zeXdvMWl4cE11Z0E0aXlvT3RhY1pqNWV2RUFLclVhSUNfbVFBZFBWenFPSkxZSE44ZHBVQ210OWQ4cFQ5Zm5lREdmWll6dWxzMkVtVnJXdk9oUzJOaG9sZ0lEaVZxd2VyUnVRaGJ1X0IySXF3a3Q3N2ZKc2dUdms4MVMtSXJqNGZFNm7SAY4CQVVfeXFMTWtDQUkyM2Rta1N2NWhudWNBaVV2TVlTS2hSYmZSQ0V4a29fb3NsaXRWQ2tHSDB5cjhLWldoODdSYjYwYjRScU55RTRESURXY3BiR0o2UXl0Nm1ubDNkUlVaX2I3RWtxVF92ZWpvcTNtUFk0M25SNUZkaUQzdmZNeEhlT3JhWHpxTFdkQWNXN3U3bUZBVGJmVGt1R0djSmc0SVVCaUZ0cDF5YkNTM2FGSlNsVlVNZERUYjV1ZnJONDZsd2h0TXhMeFYtQmNsU1d2TnhsR1FHQXdQTlZBelhjMEdhZ1lGRUo1QnlUMEpyUUEtMHc4UXJHUlRacDhWMVNpVUJmZWpjekNoVXZYZ3Vn?oc=5",
+          "description": "Droni russi su Kiev, almeno 25 morti. Zelensky: \"Risponderemo sicuramente all'attacco\" - Nunzio a Kiev, tanta gente sotto macerie dopo attacco Mosca RaiNews",
+          "pubDate": "Thu, 02 Jul 2026 21:01:27 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "Droni e satelliti per la conservazione del Colosseo",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/29/droni-e-satelliti-per-la-conservazione-del-colosseo_52d9695f-a259-4189-9667-a1df7fc60a01.html",
+          "description": "Nuovo sistema di monitoraggio e manutenzione sviluppato con Asi",
+          "pubDate": "Mon, 29 May 2023 08:59:16 +0200"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Sul Safe è ancora no dell'Italia, solo se le Camere chiedono le clausole per la Difesa - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNk1hQkh1NklJN2Y3ODJIMElzVmFBbGJrQXRHVVJXQllpRTVEUWI2VWlrNUtzTjZaUGJmRmZzMmxLWlpSaWotOHZEUDZxdEpmX29PY3hnQTJqcllndUM0cGk3V0NyVng1NzlNX3JvZFYxdGY0LXpENEhCb3pVcTRSMy11Ny1CVVZGMXZGeVRPNzIwMXoxWFpxUDFpeDRsU2FpU0R3Wnl0YWFCcDRmUXd2Yjg4TGpwcEZydGNUQnFaaUE3bWllaEdoV3FHaUk0MFJFcUM0cUVWQnpvMU1TUDRTT1RBODQ2bU45MWRKMEZvYjNLbmVjal8xNlNYU2RGRXkwVkNVZV9hNNIBjAJBVV95cUxQajlxYVNOSTZEa3h4SldlN3JFNl9ibEJjZnprcnA5bE1DMXpqR19JbWFyMXUwcUk0Y2J0cjVsSW5sanNOUTRYbzhpQ09xNHFFWDV6UEhRb0YwNE1GZWJmVDRFTUJfYXZMbklfLUFCQWNnZ3ltSGpDWUdhUF82d2FHelZKUF9pMXdwQU1iUVVaSXc0S2YycUNmU3Q4M3RwajlwZjFKVHBTVzhrMmI0MEI4eDUyM2h4blY5SWdRSkJoVnVXejA5X053N3Y0dmJHczF4NTF5dWFuT1dfdzMwdGtwdklhT3h0enFzbjE3N3NISXBCV1VSSWdwdXJtcUJDc0dWT2pFWkFtT1NYVVcy?oc=5",
+          "description": "Sul Safe è ancora no dell'Italia, solo se le Camere chiedono le clausole per la Difesa ANSA L’UE incalza l’Italia: è imperativo che firmi l’accordo sui fondi SAFE per la difesa Eunews Addio al carro italo-tedesco, più droni e jet. Così cambia la Difesa senza i fondi europei La Stampa Il Governo (diviso) frena ancora sui soldi europei per la difesa: perché prevale il rinvio Avvenire Crosetto: “Fond",
+          "pubDate": "Thu, 02 Jul 2026 14:20:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "allarme",
+      "n_items": 6,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "L’allarme dell’Onu: «Non abbiamo liquidità oltre agosto» - Domani",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUmVwYXVmaE0yZTRIeVl1dUZITThPeVB2dVV4WGNLTmtjTnVtWTRqMWZZWGN4TFlIZnVET1h3ZFZiaFpyTnAzbEV6VlBtOHdVdGdwZjk5WFlMamc1eXVkZFRCWEVvbDRURURISXV0RG90Tm5oSndwT2Y0U2doTGhONjhnX1cwU3JLeFAxQk9rWU8wbHN3YlNiWUNzYjc0MlFoVE1MM0ppUFJsUXlsaU9SRkZ5NWRiZUFUUDFWSk1BV2Eyb1l2MFpLVWpEV1VwRFJHTWFubkc3cUVaZ1RCdUZZYQ?oc=5",
+          "description": "L’allarme dell’Onu: «Non abbiamo liquidità oltre agosto» Domani L’Onu non fallirà, per ora Il Post Onu: \"I soldi sono finiti, attendiamo le donazioni per sopravvivere\" Tgcom24 Dove prende i soldi l'Onu e perché li ha quasi finiti today.it",
+          "pubDate": "Wed, 01 Jul 2026 17:04:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "ARERA conferma: i prezzi zonali in Italia arriveranno. L’energia costerà meno dove ci sono più rinnovabili - DDay.it",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTFJ2a2VRdFhQejU5YU5PeFkwUGFrVFVVa2k3UmdjNTBYSDQ3Z2RFUGdPcUphS3hTelo0M2tveFFELU91SU5Qd2dPTnRZT2d0R1VRanJPOEQwQlBjN0hmc3FwQjg4cmo3eDJLSV91RTVrX3E0cVdMUWVuUlFUdDFhYWtZTXdRdzREU1NLRjJNUUlrbEo2dklMaktXX2k1ajlDbGE1NGg2UjhISjdQOUwyR2NuQ01zcFZxelZNeFFLNnZhZDNoLWM5S1ZiUTZUbWNlbWR0cXJn?oc=5",
+          "description": "ARERA conferma: i prezzi zonali in Italia arriveranno. L’energia costerà meno dove ci sono più rinnovabili DDay.it Bollette, Arera: nel mercato libero prezzi più alti della maggior tutela Il Sole 24 ORE Presentazione della Relazione annuale dell'Autorità di Regolazione per Energia Reti e Ambiente (ARERA) Radio Radicale “In Italia prezzi dell’elettricità più cari d’Europa”: l’allarme dell’Arera la ",
+          "pubDate": "Thu, 02 Jul 2026 09:52:00 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'allarme dei big, 'rischio estinzione con l'IA, è come le pandemie'",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/lallarme-dei-big-rischio-estinzione-con-ia-e-come-pandemie_3afde5e5-7bcf-464e-b3aa-aee6577a9b23.html",
+          "description": "Nyt riporta lettera di 350 leader industria, anche ceo OpenAI",
+          "pubDate": "Tue, 30 May 2023 14:12:41 +0200"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Allarme salmonella in Europa: oltre cento casi e 49 ricoveri legati a noodle istantanei aromatizzati al pollo - Fanpage",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaHlnNUIyTU1Ta0wxeVBkRi1zUkVNUUUtMm81TGsyRFItVTVQSGVSSElFa201UUw3SlZLUnBEU0x4MmQzQ0pMWHZjN09jU08xV3EyLVRxWUNmOHU0SkVhTmRvdnZiYWd2TUpQczBYZThJOFRTZXI0bFpVTDRDLXAtZjE3TVZjR2gydzgzZC1TZkdDX0puRjhDVFVHNVZHQjg0TkFTS0RkdHdiSTN0VXFYOW1wU19tOFV2dVkteE5MRHpkZGdmNWxmMVRwbWZqeTZSTlNmVkNB?oc=5",
+          "description": "Allarme salmonella in Europa: oltre cento casi e 49 ricoveri legati a noodle istantanei aromatizzati al pollo Fanpage Salmonella Stanley. Noodles aromatizzati probabile origine del focolaio europeo, segnalati 106 casi in 14 Paesi tra Ue e Regno Unito Quotidiano Sanità Salmonella, focolaio europeo legato ai noodle aromatizzati: oltre 100 casi. L'allerta in vista delle vacanze sanitainformazione.it ",
+          "pubDate": "Wed, 01 Jul 2026 15:47:36 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Batterio Vibrio, con il caldo del 2026 aumenta il rischio in mare - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbDA1NmF4YkV1RnVFY2x1S2NsWW81ZWdSUm9YMXRpN2ZsUGVWN3pWWWEzbURNMWFsd3czQXI3b1Z1aThWLWdYZzd1MzNUQ3h3UlNCSDJpZFpILUNHWmxYS24xQUhHUkh2Z1QzOERVdkg5VXIxcV9DMG9Qa0kyYWd5V2h4UQ?oc=5",
+          "description": "Batterio Vibrio, con il caldo del 2026 aumenta il rischio in mare Sky TG24 Batterio vibrio mangia carne: come si contrae e dove si trova nei mari italiani BimbiSanieBelli.it La minaccia del 'batterio carnivoro' si diffonde sulle spiagge europee col cambiamento climatico Euronews Allarme in mare, il caldo fa proliferare il batterio Vibrio: i rischi per i bagnanti il Giornale Batteri mangia-carne: c",
+          "pubDate": "Thu, 02 Jul 2026 09:55:23 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "york",
+      "n_items": 11,
+      "n_sources": 2,
+      "category": "tech-ai",
+      "score": 28,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Trump says ‘nothing illegal’ about massive crypto profits - The Hill",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZVm5pbmtpRExqdWstQ2lMVi1XakdyUlNEdVdKSlNIcmZ6cWFiYjh4NzNPeS1VZEVYa3pyWG94Sm5vYjdMdFFJbERoekRWNThVR0d5WTYzdlc1dEd0RWhVekg1SXhlWkozVE1pT1ZtUXpmVTBOXzNCZTNJcno2d9IBgwFBVV95cUxOOU5rOC1yQjB0Y0VqbDRhSGJFVGpMSHdFVkc3TWpwWTBhTjNPSEVwWVpjUDE2Q2llaXhwcmpYd3JMWXRYS1RYZVRPbUlOY0F4UkQzTkIwS3ZpOGdyQ2ItQWtKQno0eGQ2WlZOdTY4Uk1yWVl6blNZYVY4YTRMaGpSOGhPRQ?oc=5",
+          "description": "Trump says ‘nothing illegal’ about massive crypto profits The Hill Bessent on Trump's crypto earnings, Trump Accounts and the U.S. economy's struggles: \"We're going to get to the other side of this\" CBS News MAGA Base Stays Quiet After Trump Reports Billions in Personal Gains The New York Times Real estate, watches and guitars: Trump's 2025 $2.2B income wasn't all from cryptocurrency ABC News - Br",
+          "pubDate": "Thu, 02 Jul 2026 22:32:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Dangerous heatwave scorches US ahead of Fourth of July holiday - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByUUpYbWlhUzJvRUhoR0hENmVSNVVGYXlscXpPcWVIMjBPSUUwTnlseHE4aTc1VUFwZUhBakJ5SkwtREJOX29oeE13UjZwYlA3Z0JoOUlQdjhmUQ?oc=5",
+          "description": "Dangerous heatwave scorches US ahead of Fourth of July holiday BBC Heat records broken from DC to Boston, more to come Friday CNN A Sweltering Fourth of July The New York Times Heat wave forecast: Dangerous temps to continue into July 4 holiday ABC News - Breaking News, Latest News and Videos Extreme heat dome sizzles NYC, Philadelphia, Boston, DC into July Fourth weekend The Weather Channel",
+          "pubDate": "Thu, 02 Jul 2026 20:28:55 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "What to know about the Society of St. Pius X, the schismatic group excommunicated by the Pope - NPR",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWks0SURBZlBEbXR1YWlPWTd2N1F3dmtOLV9yalgzUzFyc0VoZnBZTmpxZjZPSDdmeW1VNVZVU2N5T3MtMmhRRkxRdlBQd2xaYkxBZlg2ejExUE5tVG9aZUlJNmtGUmZZM2M4OXh5dFM1b2lDaG9fUTB2ODctRzJycW9WSmE2LXZGTDJsZEkzNnM4NmRxSUlhOGs1aTJXdGJ0Z1pYdWJDdXdBVS00aGFLTVVXcDJONVJ1YmJYeDlNNVJLZm4wOUtvcVhBYTFsNTg?oc=5",
+          "description": "What to know about the Society of St. Pius X, the schismatic group excommunicated by the Pope NPR Vatican Excommunicates Society of St. Pius X, in First Major Crisis for Pope Leo The New York Times Bishop urges Catholics to avoid Waunakee church tied to excommunicated group Channel 3000 The pain of a rupture Vatican News Excommunications show a Pope Leo unafraid of making firm decisions Reuters",
+          "pubDate": "Thu, 02 Jul 2026 18:26:43 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Former Olympian faces felony charge over alleged Reflecting Pool vandalism - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQkVQeUw2a0U5MVFEcGN5Y3U5MmUyWVZJLVVXYVhZbnZLVWlLajR0RFdsdWE2a1RVOFJWVDJwSXNERlBacDYtZ0luN011WlZwaEF6TmxHSGx4WGdYRHhlMjl3ZzcwN19HMi02SUNycnlQVlVycHJYMUx6VGJrdVZUclREc0w4eS1vUFAtRFNlM1hJbFVlY2IwejNfMnNzbDk2ckdiWEVtV0lfLTZTRWJIYkZKUXNkc01OSjNEOW8xdHlERGtobTJR?oc=5",
+          "description": "Former Olympian faces felony charge over alleged Reflecting Pool vandalism The Washington Post David Hearn, Olympian Canoeist, Is Indicted After Arrest at Trump’s Reflecting Pool The New York Times Former Olympic canoeist indicted for allegedly damaging Reflecting Pool CNN Ex-Olympian indicted on felony charge in Reflecting Pool case ESPN Former Olympian indicted on felony charge over alleged Refl",
+          "pubDate": "Fri, 03 Jul 2026 02:28:11 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV0pLSW1aQWZ3RklIM3hzMW9qTHlRNXhvWWwxWEtUZkI2MVVCOVY1N0pnMzBIMW1SLU1VMTdJTXlxbVhvUHNFOTZSZkJKNWpXNkh0andpbzFma2FPcFdWTENidFhyLUQyWmlCa1RSMjJINk1vNGliUlNiUWtIT2lXMjl3SDZrdVU?oc=5",
+          "description": "U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators The New York Times US indirectly warned Iran during talks that Israel might try to kill its top negotiators — NYT The Times of Israel U.S. warned Iran about Israel’s aims to assassinate leaders The Washington Post Iran officials assassination plot: US warned Iran of alleged Israeli plot to kill top ceasefire negotiators India ",
+          "pubDate": "Thu, 02 Jul 2026 18:47:24 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "borsa",
+      "n_items": 10,
+      "n_sources": 2,
+      "category": "economia",
+      "score": 26,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Commercio estero: Sace, export italiano +2% in 2026, sprint in 2027-2028 - Il Tirreno",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNkNTdllLaWVXWU9OX0wyUHk0aHZyaXJPYUJUQ2NyWXkyZ2pUZk1yZHBJNnlETXdxNkdOcFYxOHFWZXZGYUM2eEhXT1VsdnZCeWpEcW1RMV9tTDlNT3RRdkdMRk5waTNPeHJKWFhMcGk5NVduZlVEMERCUXFUM3VYbUc0aGhYOEtDT3ZoQXJWczgzbFBQM0pDNzdGY2JxTjlQcmlrUTRUSFhReXNPal9xTm9kaGFIblNGQzVMRlRHUWgxdW42OGU0LVdBRUJ3VVFYRU9JV3VR?oc=5",
+          "description": "Commercio estero: Sace, export italiano +2% in 2026, sprint in 2027-2028 Il Tirreno Internazionalizzazione: Cabina Regia Mimit-Maeci approva linee strategiche 2026 mimit.gov.it Export italiano in crescita del 2% nel 2026: presentato a Roma Report Sace Borsa Italiana Commercio estero: Cdp, da 'Buy Eu', nuove aree e servizi le leve per l'Italia Il Sole 24 ORE >>>ANSA/ Sace, export accelera verso i 7",
+          "pubDate": "Thu, 02 Jul 2026 17:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "DIETRO LA CRISI DELLO YEN | Il caso Giappone anticipa la trappola di Stati Uniti ed Europa - IlSussidiario.net",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPck40XzJkTWcwN1NEX3RRSE1zRGZPWHY0TGxGT283d2ZUclBkZm5Mb29nMUVZWHVVZm1RWnZISmw5emtJaktqWmhuU1hPMU44eVc4eU82b0xqNUIxUnNUOWFKaERuSEVpVmNiVlJlZnJvdmUxWURCNEI3Rml6WlllWkJITDYwZGt2M2tIUU8tcldRbXFLZGdpLTVHSVdzMUI5Z1Ryc2piMTQ0NWJLSlZfNjJReGRkMEdEUGpybjBLcEZLT1pIZ001WHpnY0rSAdIBQVVfeXFMT2NqVTlicnVpNjVqSUNmQ1ZRYU9keDRzNzNpMy1TU1UybnVoRFhfdVYyZW81bzQ5dVMyODRHcEgteHRBYzZaZTRPYjN1TFBWbVVWa3R5MUpSV205S1dNX2t0SzkycF83UGJkU3FnUmdtR2c5YVc5NllucUtyZFpaSENJSkJHVllvbWdPMWx0NVg3NVU0bGRNd2VSMUhFbDloQzJEcWJ1VFd3MWd0aXFZUVVhUERnREVCdEVvaGdRYWJGUWdGUzFzR3BIVUxvcFdZZThB?oc=5",
+          "description": "DIETRO LA CRISI DELLO YEN | Il caso Giappone anticipa la trappola di Stati Uniti ed Europa IlSussidiario.net Borse asiatiche miste, yen ai minimi da 40 anni sul dollaro Borsa Italiana Analisi Tecnica: USD/YEN dell'1/07/2026 Teleborsa Tokyo nel vicolo cieco. Il crollo dello yen complica il maxi piano fiscale di Takaichi HuffPost Italia Lo yen giapponese ha raggiunto il valore più basso dal 1986 ris",
+          "pubDate": "Wed, 01 Jul 2026 04:14:04 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Tesla, consegne in crescita del 25% nel secondo trimestre: ecco perché | Quattroruote.it - Quattroruote",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTk9wTGhSd3Z5UFk3MWFIYVp2YzZaTjd0bkszUnVmcWNYbVUxSE43WTN6elZQTk1jajM0RXNvY0EyRnlJODhIN0JmVFBBdF94WWp1bUt6bnZzV3NhNFRiN3hITUVyS3phOHNTTFpieGFjTGNxNHR3ejFxWnNZNWw3bjNnbW54WHo20gGOAUFVX3lxTE40cWw0d0tmU010d0tmSi0xNEZxUzgtQjluUmdlbTVDckw0VGluMjc4clhEYUZUanZxT052VVdHc24zNEhjaHAzUXY3VW1tUHRka1JwY1Z1U2F5d1FfdVlFdmc1MDB2Qi1ELW1GOUFGQ0l2QThJeU85UzVac1VzVkd2aW16NVl5MFZMTl9VMXc?oc=5",
+          "description": "Tesla, consegne in crescita del 25% nel secondo trimestre: ecco perché | Quattroruote.it Quattroruote Perché il titolo di Tesla è sceso del 7% nonostante un trimestre di consegne da record Yahoo Finanza Tesla, vendite del secondo trimestre aumentano del 25% e battono di gran lunga le attese Borsa Italiana Tesla batte le stime nel Q2: consegnati 480mila veicoli. Frenano i timori sul calo delle vend",
+          "pubDate": "Thu, 02 Jul 2026 15:33:10 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "PUN e PSV 2 luglio: la luce sotto la media di luglio - selectra.net",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81bjVnNjU3MFVjczQ2NzAxTVlSS2VzOC04OWZiQ1UzY2FncFF2M2ZHOUh2NTM4bnN1UFVJTmtzb3JjbVRsLTFNOThrVTZEUU9SZHFyRjU5RnpkZnBNSWRJVVFZS2I1QVFGSzN1aTRoVDNSdm5VUVIw?oc=5",
+          "description": "PUN e PSV 2 luglio: la luce sotto la media di luglio selectra.net Aggiornamento PUN e PSV di oggi, 2 luglio: luce e gas in calo Facile.it Luce più cara a giugno, i prezzi tornano a salire. Ecco quanto pagheremo HDblog.it Borsa elettrica, prezzo medio acquisto sale a 144,67 euro/MWh Borsa Italiana Aggiornamento indici PUN luce e PSV gas, Mercoledì 1 luglio 2026 Segugio.it",
+          "pubDate": "Thu, 02 Jul 2026 02:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Piazza Affari in rally fa meglio del resto d'Europa - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUzlfblNIVXBsaDFXbFZ0NDNkcWxMeTd6dFQ1cWxEVFRPRHNkajRMd3ZNMXVZMVZaUUxoYUswNUk1TUliY1V4NHgyeF95RG1CTHAzQmpSdTZfa0ljOXRtV2Z6UThXUDBXU2tGelJROVBjaUtEQmlac3Z5QU1TelF4dmhjRnNvTndBRV96UjdnWHlZMkgtTUE4b0dzR2twRFJULUgwRFM1WFdQWlhrc0FDb3A1cUNoSTlRSmsyYkk5TVVwajJDVHdQMF9JZFgzZzdZSzQ1c1pFS2hlY1dtNjVn?oc=5",
+          "description": "Piazza Affari in rally fa meglio del resto d'Europa Borsa Italiana Borse, i tassi Usa e la manovra di Merz riaccendono l’Europa. A Milano (+1,6%) sprint della Difesa Il Sole 24 ORE Borsa Italiana, il commento della seduta del 2 luglio 2026 SoldiOnline.it Pioggia di acquisti su Milano e gli altri eurolistini Borsa Italiana La Difesa traina Piazza Affari, Ftse Mib +1,60% RaiNews",
+          "pubDate": "Thu, 02 Jul 2026 11:00:00 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "kiev",
+      "n_items": 5,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "score": 26,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Putin scatena l'inferno su Kiev, oltre 20 morti e palazzi rasi al suolo - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVWJqWkxETVFsTnZSbnZXLWtaa1hwZTB1M0JQMFJ0d2JPdDc4bFEzZ0RkVG9Cd0dMUnhCTC16dC1UYXdzR3plRG1jNXV3NkRPYkFqZFZSN3RFWU96cm95dDZETXJYVFVWd19EZDhlOXYwVnJxUlhRYUI0WExxOG5kYy01RmRBdHhNZURuNjc2M0I2dmxMRjBiLW9DRkVkTksya3MydDZyMFJLQXU3SldVU1FoQ3pOcEFZQmJ1LWUtRExDR2hIYnVfMEVwRXZDTmN0ZWlxaTBnMGMtbWVlbl85QnQwOU9MRE1uWUVRQ2ktM2RkZ01kaGNvek9LenRadVRKcHfSAYcCQVVfeXFMTkp1SDFZLS1yaHZYVTVEZmRfM0VQSnNYWmtDV2o4dnl3NjdXcGx0eVBiWGhZdGh2dkpPVGFJM2JlZ1V0TVRvQXZQQURMem4zUHdXajhFRjZnZ19IUDNRMnI1alBLbW15NWphV3lCeVc2bTRqVVpEMHVnYUk3NmJRb0M5dUxSOWFKdjJSY1RlNmVXS216NE53R21VRURfdjlyc2pvT1lsZkJVaHdmcUhMb0JwSjFfSnZERDY5NkphVFhPb29Cd1BXS19yVmtJZnFtTGtLN2JCUW9yYzRiOThKZ0dYRUJJenF3cmExbnVwTlhkS1czOGdpdGg0RTZqT05fWVBTVFhaUFk?oc=5",
+          "description": "Putin scatena l'inferno su Kiev, oltre 20 morti e palazzi rasi al suolo ANSA Guerra Ucraina-Russia, le notizie in diretta | Putin lancia un massiccio attacco su Kiev: missili e droni, almeno 25 morti. «Colpito anche un pronto soccorso». Zelensky: «Reagiremo a questo attacco» Corriere della Sera 74 missili e 500 droni su Kiev, 27 morti. Zelensky: \"Risponderemo\" - Attacchi su Kiev, almeno 27 morti e",
+          "pubDate": "Thu, 02 Jul 2026 17:59:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Cremlino a Kallas, continueremo ad aumentare la pressione su Kiev' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSlJPc1RpVy1HN0RVTDl4YTZNdEFsMGIyemktNGk0d1llWGhoTFpxVlJkMjBVei1aZjlpeW1KWHFhd1k5MW4wVUlKRm50MXJlUFd6QUxTN3AwQ2puMWJ0ZnVFaUZTQzA1M1h6MkU1c3ZrOEZnb0l6Y3pmalRNYndyMmZCbkVpU1NkRkFrVVc2Yk0xYUI1dlMzNkVwdkpJQVlnTlJBTjg3Qm1rZzQzMktuOExuNWk0VG9oT2ViWmhEUnpZM216WWMydS13cHJYZ2JlQzFrdnRxLTVyWnVnUUJmX2stTjA5QU9XZDJyQnZaRQ?oc=5",
+          "description": "Cremlino a Kallas, continueremo ad aumentare la pressione su Kiev' ANSA Kallas: 'Le parole non fermano Mosca, oggi proporrò nuove sanzioni' ANSA Russia a Ue: continua pressione su Kiev RaiNews Raid russi sull’Ucraina. Kallas: nuove sanzioni contro la Russia Tv2000 Il sostegno all’Ucraina. “L’Europa ora è unita. Roma non si tirerà indietro” Quotidiano Nazionale",
+          "pubDate": "Thu, 02 Jul 2026 09:22:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "74 missili e 500 droni su Kiev, 27 morti. Zelensky: \"Risponderemo\" - Attacchi su Kiev, almeno 27 morti e 91 feriti - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYXBwVVR3RmxYNjNRV21yTkktMlZ4Tngtc3lXbFFEWGw2Q1dBaHJ4WUJVd3liTFhVT3ZoTmxoZjdReENIazdaWXpNd0NJdlZmcU9jZW5tYXl5QVJfMDJBNWlPWUNOODVlZUJicVdtV0YyeHBxaXgzOEtlZG4talJVeGR6ejZFTFpnVU8wc0ZOZGFxNEpoeDRCdzVTVHpRUzZNTHhrc2pqOURxQdIBrwFBVV95cUxQQVF4T2pWbFRxVmlsNG5kRmVGUUtqb2FKZF9rOWRRQUVlZ1NidFFsNFcweHpLUEl6UUNwM2JjWVFLRjhHOFpoU29UWkFMS0pQU0s0eVpBZUVtMTRYTjVEcll3RGNvUWRxblVaNk5tZ3hGQTBtOG5kRVluVllqaUFZc0ZET3IyNmNtZGI4V0pnMEY5dDcyUU53ZmdLWUc1RENCN1VFSXZPeUR2RnRNdk9z?oc=5",
+          "description": "74 missili e 500 droni su Kiev, 27 morti. Zelensky: \"Risponderemo\" - Attacchi su Kiev, almeno 27 morti e 91 feriti RaiNews Putin scatena l'inferno su Kiev, oltre 20 morti e palazzi rasi al suolo ANSA Guerra Ucraina-Russia, le notizie in diretta | Putin lancia un massiccio attacco su Kiev: missili e droni, almeno 25 morti. «Colpito anche un pronto soccorso». Zelensky: «Reagiremo a questo attacco» C",
+          "pubDate": "Fri, 03 Jul 2026 01:21:44 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Putin scatena l'inferno su Kiev, oltre 20 morti e palazzi rasi al suolo",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/02/notte-di-raid-russi-su-kiev-sale-a-20-il-bilancio-dei-morti.-zelensky-con_4619cad3-36b7-4911-8f90-e65990dfa7b0.html",
+          "description": "'L'attacco più grave dall'inizio della guerra'. La rabbia di Zelensky: 'Reagiremo'",
+          "pubDate": "Thu, 2 Jul 2026 19:59:15 +0200"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Droni russi su Kiev, almeno 25 morti. Zelensky: \"Risponderemo sicuramente all'attacco\" - Nunzio a Kiev, tanta gente sotto macerie dopo attacco Mosca - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVjRLVlBpQklvTktFOTU5RkFYVGFKMVVjU2ZmNDdmb2ZWZE5LS2pBLTFLZjlaTVZNVVRDeU1ydjY3SC1JS0l5VTBsbTVYMGZqUTVISHY0OVhpbTBLM3d1WGpESlJtbFhiRU1ITy0zcUF5QzZDamVZczk0NWtVRmpwN1I0Rl9zeXdvMWl4cE11Z0E0aXlvT3RhY1pqNWV2RUFLclVhSUNfbVFBZFBWenFPSkxZSE44ZHBVQ210OWQ4cFQ5Zm5lREdmWll6dWxzMkVtVnJXdk9oUzJOaG9sZ0lEaVZxd2VyUnVRaGJ1X0IySXF3a3Q3N2ZKc2dUdms4MVMtSXJqNGZFNm7SAY4CQVVfeXFMTWtDQUkyM2Rta1N2NWhudWNBaVV2TVlTS2hSYmZSQ0V4a29fb3NsaXRWQ2tHSDB5cjhLWldoODdSYjYwYjRScU55RTRESURXY3BiR0o2UXl0Nm1ubDNkUlVaX2I3RWtxVF92ZWpvcTNtUFk0M25SNUZkaUQzdmZNeEhlT3JhWHpxTFdkQWNXN3U3bUZBVGJmVGt1R0djSmc0SVVCaUZ0cDF5YkNTM2FGSlNsVlVNZERUYjV1ZnJONDZsd2h0TXhMeFYtQmNsU1d2TnhsR1FHQXdQTlZBelhjMEdhZ1lGRUo1QnlUMEpyUUEtMHc4UXJHUlRacDhWMVNpVUJmZWpjekNoVXZYZ3Vn?oc=5",
+          "description": "Droni russi su Kiev, almeno 25 morti. Zelensky: \"Risponderemo sicuramente all'attacco\" - Nunzio a Kiev, tanta gente sotto macerie dopo attacco Mosca RaiNews",
+          "pubDate": "Thu, 02 Jul 2026 21:01:27 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    }
+  ]
+}

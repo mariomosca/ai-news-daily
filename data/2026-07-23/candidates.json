@@ -1,0 +1,925 @@
+{
+  "date": "2026-07-23",
+  "top_topics": [
+    {
+      "keyword": "milano",
+      "n_items": 16,
+      "n_sources": 9,
+      "category": "economia",
+      "score": 150,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ilaria Salis condannata a risarcire due ex collaboratori - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcG5NT1lqZ2l0cmpSTEFBUldKdVBVSkhVTmZGNG9WSHB3RVozTXB4OTU1RV81ZUVGOEhTVXZuTUFpZkVjR29sU3E3MzhjNHREWVZYbHVMckJXcE11dHpIdHNIMFh3dWt6WThlbzZyZVdKRnZtUm9ieHpBQmVjd0RJc0g1c1Z2RjZDN2FyLVFORVVCLTJxYi1fVlhnTmZUc3E4UWZwdDhGY0hRNHg0b2wzOGJDU2hNNXY5WXM3bVNiOG84V3dFMUF1Q2xkbjFLQlI4clVjQVB1Zm1DVHRmSTc4NzBJZjRyakFDSzhEeXl4LTFzYnQt0gH6AUFVX3lxTE1hcUVrZkZoOVV6WkRxTEJ3VDVqUDlDeGRrUGY1ZlFyZFVneGpjanRXU0RhNUlJTWhnYW96YTlnOGI0RmFXRjl6eTk2ODhmdlAyZ1JGSF9EYlNrdk5nWDNoczRnQmI4c29uNHB5cDJSWEpMWGJQOXcwcTU0djdwdVQ0VkdTY0tjVk84ZFprTFBxRkNfUnMzelRualoxemE3eTRYRmtPWC1jcWVORFcyZmJKeE52VnA4c2o1WnRGdVd4MjlDWnFweHZJSERaUFFHOWczcVFkdkZCYTk2SWVkdFBCZUUtUzdrZTAyR1IwbUxyb2NfS3ptcWYyX1E?oc=5",
+          "description": "Ilaria Salis condannata a risarcire due ex collaboratori ANSA Ilaria Salis condannata per il licenziamento dei collaboratori: maxi-risarcimento da 300mila euro RaiNews Ilaria Salis condannata per aver licenziato “senza giusta causa” due collaboratori: dovrà risarcirli per oltre 300mila euro Il Fatto Quotidiano Milano, Ilaria Salis condannata a risarcire oltre 300mila euro ai suoi ex collaboratori.",
+          "pubDate": "Wed, 22 Jul 2026 17:15:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Wall Street attende le trimestrali dei big tecnologici mentre il petrolio continua a salire: Dow Jones, S&P, Nasdaq, Futures - Yahoo Finanza",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhZWGlwUVhDazk1U211dFFtRlZiUmJva3V6TmhZQlNlWTF3X0FfZG0zU21WdzBJdGl4VllfV0wyNHFnaWJRSHNPY0lRSGd1RUdtVVJZNmpBSGlDOF91SENORlZBYUpZQjBkaGlYMWR1ZDcxRXhnSEdlM1RCRDdJOHBVVlBTT2NOd3p0S3FWSQ?oc=5",
+          "description": "Wall Street attende le trimestrali dei big tecnologici mentre il petrolio continua a salire: Dow Jones, S&P, Nasdaq, Futures Yahoo Finanza La diretta da Wall Street | Borse Usa chiudono contrastate: Nasdaq -0,57%, S&P 500 -0,13% e Dow Jones +0,09% Milano Finanza Chiusura al rialzo a Wall Street Borsa Italiana Listini Usa proseguono con poca enfasi in attesa delle big tech ANSA Wall Street: apre in",
+          "pubDate": "Wed, 22 Jul 2026 10:07:19 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Mario Calabresi valuta una possibile candidatura a sindaco di Milano",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/07/22/mario-calabresi-valuta-una-possibile-candidatura-a-sindaco-di-milano_ada69c87-c839-43a7-8481-c4214470a4bc.html",
+          "description": "Lo ha confermato lo stesso giornalista dopo le indiscrezioni",
+          "pubDate": "Wed, 22 Jul 2026 23:30:20 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Chiusura positiva per le Borse europee con focus su petrolio e trimestrali - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSmdjQXJ4U2dkT25HUm5lVHJaeVF5ZFM0RUg0ZVpqMmN0RmJuOGpJSVlZZzlFZC1NNFhpa01VLWxOejFvYnNtcGZWODA1TlBrOE4tT0hfM2tWMEo4bjNZQ2FtQ0tIMlk5R29mOXRjNWRQcFRNWGR4ODVjQnJXSkJNSUI2THJ2WnlFeU9DQ3JNN05jemRNcXlNcEwwc1d3UUJYRHFBLXR2UnNTd3RBVzZrQlVhcTR3a2o0RTNpVVIwOHpGSmtvekQxRE5adDN0WGF0MEdHX2J0SGpEVUd0MFlfV3VzZXlUTUp2RTIyendzSU9NS3hneGxnVWJSSEUzQQ?oc=5",
+          "description": "Chiusura positiva per le Borse europee con focus su petrolio e trimestrali Borsa Italiana Borse europee in rialzo con focus su petrolio e trimestrali in attesa di big tech Borsa Italiana Borsa: Milano chiude in rialzo dello 0,97% ANSA Le Borse europee avanzano mentre il rallentamento dell’inflazione nel Regno Unito attenua le preoccupazioni geopolitiche: DAX, CAC, FTSE100 Yahoo Finanza Borse ottim",
+          "pubDate": "Wed, 22 Jul 2026 16:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Saipem, cosa attendersi dalla trimestrale tra rischio Hormuz e fusione con Subsea 7 - Morningstar",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSlplbnZnMUdQa19yeEFNTVpQN1NQZ1RkelFtZnJwX00xdmhCemVJVU5Bc1Q1X1ZjbHVoanhsdFRiRDZYNzZ0eXBSbnBUNHV0b3VHTDdFZDdydXhqSnV6VDZEM2l6QUZxMTlUNk5mVFduak5wWGpaXzN6bnlSemY0dWJDSmMxdnRWZ3N1YXlreVJMNTl1X0ZmQ0pET19RNmpDNW9DZjBXZ1ZvaFZLc2hhTklFTmNHcUtzeEpLbDdJMUw?oc=5",
+          "description": "Saipem, cosa attendersi dalla trimestrale tra rischio Hormuz e fusione con Subsea 7 Morningstar Commissione UE avvia indagine approfondita su fusione tra Saipem e Subsea7 Borsa Italiana Cos'è successo oggi sui mercati: dall'indagine Ue su Saipem-Subsea7 agli affari nella Difesa di GM Milano Finanza La Turchia approva la fusione tra Saipem e Subsea7 Investing.com Indagine Ue su fusione Saipem-Subse",
+          "pubDate": "Wed, 22 Jul 2026 15:34:22 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "iran",
+      "n_items": 16,
+      "n_sources": 7,
+      "category": "geopolitica",
+      "score": 118,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Iran, Trump: \"Non pronti ad accordo, colpiremo duro\". Super bombardieri in allerta - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nRjFfSUFhN0tiNmJHYm9VZkRFb0ZINW9ZMVpCRWpydmFZTWs0Yy1ic051M3pwWFAxTGxtU1JZZzBhbEE4a3RncjVLY3ZXLWtBTHNUYXBJWTc4SlY3Zmlfc2JVUmdsSHMxTmtuc2JCaF85aG9FQmk0WGhRVQ?oc=5",
+          "description": "Guerra Iran, Trump: \"Non pronti ad accordo, colpiremo duro\". Super bombardieri in allerta Sky TG24 Nuova ondata di attacchi USA all'Iran, la promessa di Araghchi: \"Occhio per occhio\" - Gli Houthi: \"Attaccate due petroliere saudite nel Mar Rosso\" RaiNews Media, 'missili Usa colpiscono città iraniana al confine iracheno' ANSA 5 euro - Fiumi e uccelli / Montagna in primavera Il Sole 24 ORE Teheran, '",
+          "pubDate": "Wed, 22 Jul 2026 21:49:40 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Houthi, 'attaccate due petroliere saudite che hanno violato il blocco navale' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNEpaakdFMmpxMnFfbk1UV0VDdVp2YzRQUk1meGZmbm5rOTlqQmxvRlh3SWt4a2t4NV9kWTdkV2RtT0ZQTDdRZ0RUdkdPb3FCQ1RJMTFZeC1ZN0NhQlNWcEFQWEFnYUFhVlRvZ2pyOE5VTFExVTZLS0hId1F0Yzl6ZXhIcTVJamRIak41cjM4UkEtZnZKUVZ6Mjd0c2xhRjdWNXFBaVlpZDlvamtRZHM2RDdJM0Eybm5uTHhmRlMtdkZZMTUzQlNxTUpqREM2U0lrSlJiZE9ueTJRTEtfQkdlU1l4bDBpWVJSRVdXOElVNmpKekZwcHM5SmZ1Smo?oc=5",
+          "description": "Houthi, 'attaccate due petroliere saudite che hanno violato il blocco navale' ANSA Gli Houthi rialzano la testa, scommettono sull'Iran sfidando Riad ANSA Attaccate dagli Houthi due petroliere saudite che hanno violato il blocco navale la Repubblica Bab el-Mandeb, la seconda trappola ISPI Si rischia il blocco di un altro stretto: quello di Bab el Mandeb Il Post",
+          "pubDate": "Wed, 22 Jul 2026 22:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Come aggirare Hormuz, il piano di Turchia e Arabia Saudita: ridare vita alla storica ferrovia ottomana - Quotidiano Nazionale",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVDFJeFo2dXdaV3lvTXZFR0ozVUpHMTdaVDdxU0Q3Q1RNbGZCcHA4dzAtRHBjR1lHamxuWUx2bW1JZHdQb3cyNGpxU1RDWmFQVGwwR3pUTzdPWldoa1FMNUZrNnRrb1NabElMWWtqZ0RaU09rUzFPeHJ1MUpaMUNCdW5oUU94ZkZxaWNNcTFWSFZRaFNBMWczb0xqUFhteVBKOERtOVBqc1ZKZlJxU0tUV2JTbTJTLTJPcWpCbXFsdDNoc0VKV3d5WlJhMDA4SE85VEQ2ejdUdmE0Qjg?oc=5",
+          "description": "Come aggirare Hormuz, il piano di Turchia e Arabia Saudita: ridare vita alla storica ferrovia ottomana Quotidiano Nazionale DP World firma un accordo 50 anni per due terminal a Fujairah Investing.com Stretto di Hormuz e petrolio, le soluzioni dei Paesi del Golfo per non dipendere dall'Iran Sky TG24 Dubai sta progettando un nuovo porto per aggirare lo stretto di Hormuz Startmag Dp World punta anche",
+          "pubDate": "Wed, 22 Jul 2026 16:01:15 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Nuova ondata di attacchi USA all'Iran, la promessa di Araghchi: \"Occhio per occhio\" - Gli Houthi: \"Attaccate due petroliere saudite nel Mar Rosso\" - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPRENqOVhRRU1MUXBiQ2NxME8tT2RTbkpUSDhCcWFqVUl3cUxuQnF2eDlSVUloTUhUREZpRVhiUkc1bzRHZTJJRXRlbm1kYTF6ZlhReUlmVXo3QURTZEJGTnpMalRQVEtBbVZOZlNHdmh4YXB2T25Eb2pDSkR6aGwxV3pkU3RweTA2elFBTlE3ZWlob3RJYWJKdVVNSEp0YXphbGJBT09QMU9obzctV3RETU1aRW1IWEhrQWpfLXRuZTJ1ZkFpU0ZhTnNnV2lVLTlXS3VLb1pnc0RpMzUxUHlfdHBXUEtaZkRPNWwzNk5LYVhyUXY0d3dwWVhJZjAxQzl3V2QyYVJYMG1xc1luNjkyRjJaMDNKLWtQUFZBR3h1RXpPMFgtaU5J0gGsAkFVX3lxTFBscUk1NklxV0pqU1Nkd3pwU2ZjeUNYaUxSWkF3ZTMyRG1KcGI3b1owZkRad1M0VTdXeGpxSTRHWkZNUElQTjVGMEhrb1M0VlhERTZ6RzJ6aFAtUWlGUWtLajFmY1dwSHp0ajlNRXNvUTVEMkl5R3c4UDQ5YWRIekRvNVYxXzB1ZzRHZ1QzM3ZhVk9zWVZ6RE41T25vam1pSWpXa05wbkdYcDhTT3JkaDJXS3loOVBPRW55Ymd6bFl3YXl3T1pzd1VvWXZoMGtmOUdTY1JlM25wcHVTV0NlVjVlbzJYX011Qzdwb2tkR2s4MER2bGstWEx1OE5JQkRkU0RHR09pa195SFdHX3JKMWZMY2tLLVpGSmpsXzJJcnRoX1RfV1RxdkZPQXRscA?oc=5",
+          "description": "Nuova ondata di attacchi USA all'Iran, la promessa di Araghchi: \"Occhio per occhio\" - Gli Houthi: \"Attaccate due petroliere saudite nel Mar Rosso\" RaiNews Media, 'missili Usa colpiscono città iraniana al confine iracheno' ANSA Guerra Iran, Trump: \"Non pronti ad accordo, colpiremo duro\". Super bombardieri in allerta Sky TG24 5 euro - Fiumi e uccelli / Montagna in primavera Il Sole 24 ORE Teheran, '",
+          "pubDate": "Thu, 23 Jul 2026 01:03:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Dazi: Trump, dal 2028 su farmaci generici saliranno al 100% e poi al 200% - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGYyd2g5eC04bnFxZ2dfYnRTRnA2aWpJbG1PcDJoaU1CV0lSNlhmX1gtMkE4N0FTZ0h6VU1lY2xFZlJNb1dOSV84ZFNWX3pMaW5DanZ6akpvVkNQclRpNnRmdld5YXQ3QTVrUmlxMFBzM19veDZ0V3Q1ZUJKZWZHU2FTSHgxVHVHeXgwWllVdnI1RVFPY2dJRnRfVFlZcU9ZNkRoZE5wS2xLVE56V0Y4Ym1n?oc=5",
+          "description": "Dazi: Trump, dal 2028 su farmaci generici saliranno al 100% e poi al 200% Il Sole 24 ORE Dazi, Trump apre la nuova guerra commerciale: sui farmaci tariffe fino al 200%, Canada, Brasile ed Europa, chi è nel mirino Corriere della Sera Farmaci: Zagaria (Egualia), sicurezza approvvigionamenti prima di barriere commercio -2- Il Sole 24 ORE Trump annuncia dazi al 100% sui farmaci generici dal 2028, poi ",
+          "pubDate": "Wed, 22 Jul 2026 06:00:44 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "nuova",
+      "n_items": 11,
+      "n_sources": 9,
+      "category": "general",
+      "score": 99,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Iran, Trump: \"Non pronti ad accordo, colpiremo duro\". Super bombardieri in allerta - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nRjFfSUFhN0tiNmJHYm9VZkRFb0ZINW9ZMVpCRWpydmFZTWs0Yy1ic051M3pwWFAxTGxtU1JZZzBhbEE4a3RncjVLY3ZXLWtBTHNUYXBJWTc4SlY3Zmlfc2JVUmdsSHMxTmtuc2JCaF85aG9FQmk0WGhRVQ?oc=5",
+          "description": "Guerra Iran, Trump: \"Non pronti ad accordo, colpiremo duro\". Super bombardieri in allerta Sky TG24 Nuova ondata di attacchi USA all'Iran, la promessa di Araghchi: \"Occhio per occhio\" - Gli Houthi: \"Attaccate due petroliere saudite nel Mar Rosso\" RaiNews Media, 'missili Usa colpiscono città iraniana al confine iracheno' ANSA 5 euro - Fiumi e uccelli / Montagna in primavera Il Sole 24 ORE Teheran, '",
+          "pubDate": "Wed, 22 Jul 2026 21:49:40 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Nuova ondata di attacchi USA all'Iran, la promessa di Araghchi: \"Occhio per occhio\" - Gli Houthi: \"Attaccate due petroliere saudite nel Mar Rosso\" - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPRENqOVhRRU1MUXBiQ2NxME8tT2RTbkpUSDhCcWFqVUl3cUxuQnF2eDlSVUloTUhUREZpRVhiUkc1bzRHZTJJRXRlbm1kYTF6ZlhReUlmVXo3QURTZEJGTnpMalRQVEtBbVZOZlNHdmh4YXB2T25Eb2pDSkR6aGwxV3pkU3RweTA2elFBTlE3ZWlob3RJYWJKdVVNSEp0YXphbGJBT09QMU9obzctV3RETU1aRW1IWEhrQWpfLXRuZTJ1ZkFpU0ZhTnNnV2lVLTlXS3VLb1pnc0RpMzUxUHlfdHBXUEtaZkRPNWwzNk5LYVhyUXY0d3dwWVhJZjAxQzl3V2QyYVJYMG1xc1luNjkyRjJaMDNKLWtQUFZBR3h1RXpPMFgtaU5J0gGsAkFVX3lxTFBscUk1NklxV0pqU1Nkd3pwU2ZjeUNYaUxSWkF3ZTMyRG1KcGI3b1owZkRad1M0VTdXeGpxSTRHWkZNUElQTjVGMEhrb1M0VlhERTZ6RzJ6aFAtUWlGUWtLajFmY1dwSHp0ajlNRXNvUTVEMkl5R3c4UDQ5YWRIekRvNVYxXzB1ZzRHZ1QzM3ZhVk9zWVZ6RE41T25vam1pSWpXa05wbkdYcDhTT3JkaDJXS3loOVBPRW55Ymd6bFl3YXl3T1pzd1VvWXZoMGtmOUdTY1JlM25wcHVTV0NlVjVlbzJYX011Qzdwb2tkR2s4MER2bGstWEx1OE5JQkRkU0RHR09pa195SFdHX3JKMWZMY2tLLVpGSmpsXzJJcnRoX1RfV1RxdkZPQXRscA?oc=5",
+          "description": "Nuova ondata di attacchi USA all'Iran, la promessa di Araghchi: \"Occhio per occhio\" - Gli Houthi: \"Attaccate due petroliere saudite nel Mar Rosso\" RaiNews Media, 'missili Usa colpiscono città iraniana al confine iracheno' ANSA Guerra Iran, Trump: \"Non pronti ad accordo, colpiremo duro\". Super bombardieri in allerta Sky TG24 5 euro - Fiumi e uccelli / Montagna in primavera Il Sole 24 ORE Teheran, '",
+          "pubDate": "Thu, 23 Jul 2026 01:03:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Dazi: Trump, dal 2028 su farmaci generici saliranno al 100% e poi al 200% - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGYyd2g5eC04bnFxZ2dfYnRTRnA2aWpJbG1PcDJoaU1CV0lSNlhmX1gtMkE4N0FTZ0h6VU1lY2xFZlJNb1dOSV84ZFNWX3pMaW5DanZ6akpvVkNQclRpNnRmdld5YXQ3QTVrUmlxMFBzM19veDZ0V3Q1ZUJKZWZHU2FTSHgxVHVHeXgwWllVdnI1RVFPY2dJRnRfVFlZcU9ZNkRoZE5wS2xLVE56V0Y4Ym1n?oc=5",
+          "description": "Dazi: Trump, dal 2028 su farmaci generici saliranno al 100% e poi al 200% Il Sole 24 ORE Dazi, Trump apre la nuova guerra commerciale: sui farmaci tariffe fino al 200%, Canada, Brasile ed Europa, chi è nel mirino Corriere della Sera Farmaci: Zagaria (Egualia), sicurezza approvvigionamenti prima di barriere commercio -2- Il Sole 24 ORE Trump annuncia dazi al 100% sui farmaci generici dal 2028, poi ",
+          "pubDate": "Wed, 22 Jul 2026 06:00:44 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Usa, lanciata nuova ondata di attacchi contro l'Iran",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/23/usa-lanciata-nuova-ondata-di-attacchi-contro-liran_20d1dc4e-108f-44c0-9a5d-159f2609913a.html",
+          "description": "Nel mirino target militari",
+          "pubDate": "Thu, 23 Jul 2026 00:14:49 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Ancora rincari per i carburanti. Urso: 'Se necessario agiremo' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNVFaOXVUR3lLTGJ5Q1ZSaTZ4S09WeS1OS2pGelJYVHdLeWhWYmo4UUktdzVHTDlxRDRXUmJMQkVYcjVpNHFEZ2dYU1N3NnFyVDZNcnJ2NE9SOS11a2NsNmZwVXRVMUNKZjVOS3l5ZDhYS3JCT21sZFQxTjJoOFhyYjVrV3J5TE9JVXNuaU5ZQXlmbENzNld2Uk8xOGo5SEE4ZU45S1lvTzFNbEQ1UURBaWsxUjNoYWt0TTVZbTFYUjZXbmp1R25vMENta21wR25ud3BUX1JqekxsMnRBRFE3LUF2VmVWcmRhZ1BxMmJ2QdIB9AFBVV95cUxPX1FKbUJCdDhVc2JpMnlsMzd2RWo0Z2VYczJXNTYyYXYxZVBqM2VuNHA2QXEzU2RPaEUtemI3UGdmV19lZ2dZOTlyXy1Rb0ZtcVNIYmgxa002d0VEZ01IVDdEcnhTVVYySUhhMnNiWms5MjJtU2ZPZzdZWEd3Q0NiSDY3eGpXRENYc29ndFRnOW1aa1BiTVppbVJJM0VrMnVrS3NIbmE2LXRpZXVDXzAzV0dSVTVOeGk4aEJpVy1uNTJSczlEaGxaWUlqRDN1RlJ3amRENUtkbGRuOGduMk42Q3o1VTNhdF9ZUXpVeDEwdzZjcjJK?oc=5",
+          "description": "Ancora rincari per i carburanti. Urso: 'Se necessario agiremo' ANSA Aperto il canale per lo scarico massivo delle certificazioni uniche Il Sole 24 ORE Prezzi di diesel e benzina ai massimi pre-guerra, ma per ora niente sconti Il Fatto Quotidiano da lunedì 20/7 disponibile la nuova App “Osservaprezzi Carburanti” mimit.gov.it La benzina rincara, il governo monitora e basta. Giorgetti non ha soldi, \"",
+          "pubDate": "Wed, 22 Jul 2026 11:22:46 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "trump",
+      "n_items": 13,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 84,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Iran, Trump: \"Non pronti ad accordo, colpiremo duro\". Super bombardieri in allerta - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nRjFfSUFhN0tiNmJHYm9VZkRFb0ZINW9ZMVpCRWpydmFZTWs0Yy1ic051M3pwWFAxTGxtU1JZZzBhbEE4a3RncjVLY3ZXLWtBTHNUYXBJWTc4SlY3Zmlfc2JVUmdsSHMxTmtuc2JCaF85aG9FQmk0WGhRVQ?oc=5",
+          "description": "Guerra Iran, Trump: \"Non pronti ad accordo, colpiremo duro\". Super bombardieri in allerta Sky TG24 Nuova ondata di attacchi USA all'Iran, la promessa di Araghchi: \"Occhio per occhio\" - Gli Houthi: \"Attaccate due petroliere saudite nel Mar Rosso\" RaiNews Media, 'missili Usa colpiscono città iraniana al confine iracheno' ANSA 5 euro - Fiumi e uccelli / Montagna in primavera Il Sole 24 ORE Teheran, '",
+          "pubDate": "Wed, 22 Jul 2026 21:49:40 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Nuova ondata di attacchi USA all'Iran, la promessa di Araghchi: \"Occhio per occhio\" - Gli Houthi: \"Attaccate due petroliere saudite nel Mar Rosso\" - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPRENqOVhRRU1MUXBiQ2NxME8tT2RTbkpUSDhCcWFqVUl3cUxuQnF2eDlSVUloTUhUREZpRVhiUkc1bzRHZTJJRXRlbm1kYTF6ZlhReUlmVXo3QURTZEJGTnpMalRQVEtBbVZOZlNHdmh4YXB2T25Eb2pDSkR6aGwxV3pkU3RweTA2elFBTlE3ZWlob3RJYWJKdVVNSEp0YXphbGJBT09QMU9obzctV3RETU1aRW1IWEhrQWpfLXRuZTJ1ZkFpU0ZhTnNnV2lVLTlXS3VLb1pnc0RpMzUxUHlfdHBXUEtaZkRPNWwzNk5LYVhyUXY0d3dwWVhJZjAxQzl3V2QyYVJYMG1xc1luNjkyRjJaMDNKLWtQUFZBR3h1RXpPMFgtaU5J0gGsAkFVX3lxTFBscUk1NklxV0pqU1Nkd3pwU2ZjeUNYaUxSWkF3ZTMyRG1KcGI3b1owZkRad1M0VTdXeGpxSTRHWkZNUElQTjVGMEhrb1M0VlhERTZ6RzJ6aFAtUWlGUWtLajFmY1dwSHp0ajlNRXNvUTVEMkl5R3c4UDQ5YWRIekRvNVYxXzB1ZzRHZ1QzM3ZhVk9zWVZ6RE41T25vam1pSWpXa05wbkdYcDhTT3JkaDJXS3loOVBPRW55Ymd6bFl3YXl3T1pzd1VvWXZoMGtmOUdTY1JlM25wcHVTV0NlVjVlbzJYX011Qzdwb2tkR2s4MER2bGstWEx1OE5JQkRkU0RHR09pa195SFdHX3JKMWZMY2tLLVpGSmpsXzJJcnRoX1RfV1RxdkZPQXRscA?oc=5",
+          "description": "Nuova ondata di attacchi USA all'Iran, la promessa di Araghchi: \"Occhio per occhio\" - Gli Houthi: \"Attaccate due petroliere saudite nel Mar Rosso\" RaiNews Media, 'missili Usa colpiscono città iraniana al confine iracheno' ANSA Guerra Iran, Trump: \"Non pronti ad accordo, colpiremo duro\". Super bombardieri in allerta Sky TG24 5 euro - Fiumi e uccelli / Montagna in primavera Il Sole 24 ORE Teheran, '",
+          "pubDate": "Thu, 23 Jul 2026 01:03:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Trump adesso dice sì alle sanzioni. E Putin allora nega concessioni a Kiev - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWUFyVzk2WmVraGstSE5CWVJ6ZjZtV1JQVlpDbnZQSVVaYXBGdlRZNTgyMVBnYW1FbGczcmJSOVpwS3pzWlNBbTIyTlpkLWNzTTJJTWtiZS1UbExHVklRR2drUkRSWnQyTXFKeE9EZjc1bGlTMWgwZlc5a2pwanhHZEhYMW9Ma2FIakEwVUtyWFZCVFMxcU9JTi1YbElLV3QyZkVlLWVkN1dXYmvSAbABQVVfeXFMUC1OeW5vMWk3c01keHg0Tl9KWTk5Rk1RLWMyRzVKQ3hsQUVoMDFiQkJ6OWcwQUg1bG1PeFZlLXNEOWd5Y0V3dWk3NXNodEhNSk5CeFh6emlkRkNHbUFpWkgyU3pjajUxcnJhOE0xVGJ6VjZOZ1o0YjdIenpUaFpHbTl6X25xZTRwQWJDV1ZzelJKem1Uc2FqVnducGpkci1ZRVpwQ0Z4dHBhS2dFcnFpN2c?oc=5",
+          "description": "Trump adesso dice sì alle sanzioni. E Putin allora nega concessioni a Kiev Corriere della Sera Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Wed, 22 Jul 2026 21:30:56 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Dazi: Trump, dal 2028 su farmaci generici saliranno al 100% e poi al 200% - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGYyd2g5eC04bnFxZ2dfYnRTRnA2aWpJbG1PcDJoaU1CV0lSNlhmX1gtMkE4N0FTZ0h6VU1lY2xFZlJNb1dOSV84ZFNWX3pMaW5DanZ6akpvVkNQclRpNnRmdld5YXQ3QTVrUmlxMFBzM19veDZ0V3Q1ZUJKZWZHU2FTSHgxVHVHeXgwWllVdnI1RVFPY2dJRnRfVFlZcU9ZNkRoZE5wS2xLVE56V0Y4Ym1n?oc=5",
+          "description": "Dazi: Trump, dal 2028 su farmaci generici saliranno al 100% e poi al 200% Il Sole 24 ORE Dazi, Trump apre la nuova guerra commerciale: sui farmaci tariffe fino al 200%, Canada, Brasile ed Europa, chi è nel mirino Corriere della Sera Farmaci: Zagaria (Egualia), sicurezza approvvigionamenti prima di barriere commercio -2- Il Sole 24 ORE Trump annuncia dazi al 100% sui farmaci generici dal 2028, poi ",
+          "pubDate": "Wed, 22 Jul 2026 06:00:44 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Rubio, controllo iraniano su Hormuz sarebbe precedente pericoloso - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSWw3RlA5dUVUQ0tUbU5Td0tJaWtKOTRDdlB4LV9tMGxvTWNPbXNVWGphTlJLSkdwZ3dQd1ZjbHdqcVBObGNFdzJ3UGtWbEltU2E3bEUwTUpOZFRTZ1QyTVRjTlpJZVNXV0VUUEd5V2g3bFRHWlFhY3Z5Z0VVUHhXaVVlMUcySHN2X3pQY2NtcDNPZ2hvOEpUV3ZsWmx4RDlPS1ZuTmlCRFFSMWZuVlBpRmtUNnZtU3dOMFluMnd4SktIcHhRMjZyYW4tSG1vTlRGdUlTWXdBbHl1NlR3Y0RlNUtDamhCeWtOMzdpNGp3MA?oc=5",
+          "description": "Rubio, controllo iraniano su Hormuz sarebbe precedente pericoloso ANSA Da Hormuz a Bab el Mandeb, chi ha creato il precedente? HuffPost Italia Rubio all'ASEAN: controllo iraniano su Hormuz creerebbe precedente pericoloso Treccani Iran, sale lo scontro con gli Usa, Rubio: gli alleati si mobilitino per Hormuz Askanews Trump dice di aver sconfitto l'Iran, ma chiede aiuto all'Ue La Notizia",
+          "pubDate": "Wed, 22 Jul 2026 03:24:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "nuovo",
+      "n_items": 12,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 78,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Dalla pena \"sproporzionata\" ai risarcimenti: tutte le fake news sul caso Roggero - Il Foglio",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS192bXpzbUdJcHdfU3dPLU1aV1VIclJIeTc3UEJqWVJkajdFSVZLb1MzNGhsVUVOU1UxWlFoR21IVHJSOVRuYURtN3dENWtISEttS3FPbzJzWjREUzllQk5oU09STnVQZDRUN25lQ0lVUUxsQlFhd3UzVno3Z2dobmtSZE1tckVzNDlhSVExUjE0aVpHNUt3ZmhMUEtHS1IyVHpEbjBhd1FOY2pSN2twSENQOWVmRVY0V3R4Sk5TWi1EZjBCaVo4X0hSWjFjVWhk?oc=5",
+          "description": "Dalla pena \"sproporzionata\" ai risarcimenti: tutte le fake news sul caso Roggero Il Foglio Roggero, l'Ufficio di sorveglianza di Torino respinge l'istanza di scarcerazione RaiNews I riflettori del carcere su un solo (nuovo) detenuto. E gli altri 65mila? Avvenire Niente sospensione della pena per Roggero, resta in carcere ANSA Mario Roggero resta in carcere: respinta la richiesta di differimento de",
+          "pubDate": "Wed, 22 Jul 2026 04:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Ucraina Russia, Zelensky rimuove Syrsky da capo delle forze armate - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMHlxWGFESFJqNFA3Vkg1VWpZbTg4UURmME5DRzg0Q05fR0lvS21uSjZLVG9BU2tFbHdHTmt5WGRmVFN6bWcweHR3RmRfMy16cFhhUXN5U21RRWJ4WHZGMFZOXzJ3YU4tMnFHVGVma3R6b0lKZ0JuWW5lUDJXQlNzS3pLWHQ1Umoy?oc=5",
+          "description": "Guerra Ucraina Russia, Zelensky rimuove Syrsky da capo delle forze armate Sky TG24 Zelensky cambia i vertici militari, silurato anche il capo delle forze armate Oleksandr Syrsky - Primo duello aereo per gli F-16 ucraini: abbattuto un caccia russo Su-35 RaiNews In Ucraina qualcosa è cambiato. Perché la piazza ora detta la linea a Zelensky Avvenire Chi è il nuovo capo delle forze armate ucraine Il P",
+          "pubDate": "Wed, 22 Jul 2026 05:24:25 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Come aggirare Hormuz, il piano di Turchia e Arabia Saudita: ridare vita alla storica ferrovia ottomana - Quotidiano Nazionale",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVDFJeFo2dXdaV3lvTXZFR0ozVUpHMTdaVDdxU0Q3Q1RNbGZCcHA4dzAtRHBjR1lHamxuWUx2bW1JZHdQb3cyNGpxU1RDWmFQVGwwR3pUTzdPWldoa1FMNUZrNnRrb1NabElMWWtqZ0RaU09rUzFPeHJ1MUpaMUNCdW5oUU94ZkZxaWNNcTFWSFZRaFNBMWczb0xqUFhteVBKOERtOVBqc1ZKZlJxU0tUV2JTbTJTLTJPcWpCbXFsdDNoc0VKV3d5WlJhMDA4SE85VEQ2ejdUdmE0Qjg?oc=5",
+          "description": "Come aggirare Hormuz, il piano di Turchia e Arabia Saudita: ridare vita alla storica ferrovia ottomana Quotidiano Nazionale DP World firma un accordo 50 anni per due terminal a Fujairah Investing.com Stretto di Hormuz e petrolio, le soluzioni dei Paesi del Golfo per non dipendere dall'Iran Sky TG24 Dubai sta progettando un nuovo porto per aggirare lo stretto di Hormuz Startmag Dp World punta anche",
+          "pubDate": "Wed, 22 Jul 2026 16:01:15 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Burnham abbassa il prezzo massimo per i biglietti dei bus a due sterline - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMHh1ZXM0OTFqeWZhbkxZVUNhWFVsXzlxSnZEbUlkZFlId3BSal9FeDVRLVZJN2trOFRqODdmbUppUzBaRzQ2UlB4SjBCRnVBWG5VUThtSlpHT3dTOGZXcC1GcmRxTGR3MTUxNmo2eW9CVEZZcUFRVHQxM1YtT0M4eWNyZ081emNvbDNpSEt0N0xaYmVYNW44ZWdCejVmUQ?oc=5",
+          "description": "Burnham abbassa il prezzo massimo per i biglietti dei bus a due sterline Il Sole 24 ORE Burnham ha fretta di mostrarsi diverso Il Post Nuovo premier britannico lancia il 'governo del caro vita' con taglio Iva e tetto ai bus Yahoo Finanza Andy Burnham nuovo Primo Ministro britannico. Cosa aspettarsi dal \"Re del Nord\". Collegamento da Londra con Sabrina Provenzani Radio Radicale Anche Larry The Cat ",
+          "pubDate": "Wed, 22 Jul 2026 16:05:34 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Papa Leone in nuovo libro: \"La pace è responsabilità. Facciamone la causa nostre vite\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUR0VGZUpIY0t6YlJIRjhMdlVQVUp5bjFuM3NIU3ZtMERFY2k4MTVtd1pFVjNCcDZ3WWdzSE5xRGZJYlFEMmMtdFowWkFSUTJyNk9DMjJzbmM4bkw2Y0xJZmdYXzhreVo4?oc=5",
+          "description": "Papa Leone in nuovo libro: \"La pace è responsabilità. Facciamone la causa nostre vite\" Sky TG24 Leone XIV: «Fermiamo il riarmo globale. La bomba atomica minaccia il pianeta» Avvenire La pace irrisa, la legge degli stupidi Corriere della Sera Perché serve anche la forza per salvare la pace La Stampa I cattolici si mobilitano per la pace IlPiacenza",
+          "pubDate": "Tue, 21 Jul 2026 20:32:51 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "houthi",
+      "n_items": 9,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 60,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Iran, Trump: \"Non pronti ad accordo, colpiremo duro\". Super bombardieri in allerta - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nRjFfSUFhN0tiNmJHYm9VZkRFb0ZINW9ZMVpCRWpydmFZTWs0Yy1ic051M3pwWFAxTGxtU1JZZzBhbEE4a3RncjVLY3ZXLWtBTHNUYXBJWTc4SlY3Zmlfc2JVUmdsSHMxTmtuc2JCaF85aG9FQmk0WGhRVQ?oc=5",
+          "description": "Guerra Iran, Trump: \"Non pronti ad accordo, colpiremo duro\". Super bombardieri in allerta Sky TG24 Nuova ondata di attacchi USA all'Iran, la promessa di Araghchi: \"Occhio per occhio\" - Gli Houthi: \"Attaccate due petroliere saudite nel Mar Rosso\" RaiNews Media, 'missili Usa colpiscono città iraniana al confine iracheno' ANSA 5 euro - Fiumi e uccelli / Montagna in primavera Il Sole 24 ORE Teheran, '",
+          "pubDate": "Wed, 22 Jul 2026 21:49:40 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Houthi, 'attaccate due petroliere saudite che hanno violato il blocco navale' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNEpaakdFMmpxMnFfbk1UV0VDdVp2YzRQUk1meGZmbm5rOTlqQmxvRlh3SWt4a2t4NV9kWTdkV2RtT0ZQTDdRZ0RUdkdPb3FCQ1RJMTFZeC1ZN0NhQlNWcEFQWEFnYUFhVlRvZ2pyOE5VTFExVTZLS0hId1F0Yzl6ZXhIcTVJamRIak41cjM4UkEtZnZKUVZ6Mjd0c2xhRjdWNXFBaVlpZDlvamtRZHM2RDdJM0Eybm5uTHhmRlMtdkZZMTUzQlNxTUpqREM2U0lrSlJiZE9ueTJRTEtfQkdlU1l4bDBpWVJSRVdXOElVNmpKekZwcHM5SmZ1Smo?oc=5",
+          "description": "Houthi, 'attaccate due petroliere saudite che hanno violato il blocco navale' ANSA Gli Houthi rialzano la testa, scommettono sull'Iran sfidando Riad ANSA Attaccate dagli Houthi due petroliere saudite che hanno violato il blocco navale la Repubblica Bab el-Mandeb, la seconda trappola ISPI Si rischia il blocco di un altro stretto: quello di Bab el Mandeb Il Post",
+          "pubDate": "Wed, 22 Jul 2026 22:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Nuova ondata di attacchi USA all'Iran, la promessa di Araghchi: \"Occhio per occhio\" - Gli Houthi: \"Attaccate due petroliere saudite nel Mar Rosso\" - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPRENqOVhRRU1MUXBiQ2NxME8tT2RTbkpUSDhCcWFqVUl3cUxuQnF2eDlSVUloTUhUREZpRVhiUkc1bzRHZTJJRXRlbm1kYTF6ZlhReUlmVXo3QURTZEJGTnpMalRQVEtBbVZOZlNHdmh4YXB2T25Eb2pDSkR6aGwxV3pkU3RweTA2elFBTlE3ZWlob3RJYWJKdVVNSEp0YXphbGJBT09QMU9obzctV3RETU1aRW1IWEhrQWpfLXRuZTJ1ZkFpU0ZhTnNnV2lVLTlXS3VLb1pnc0RpMzUxUHlfdHBXUEtaZkRPNWwzNk5LYVhyUXY0d3dwWVhJZjAxQzl3V2QyYVJYMG1xc1luNjkyRjJaMDNKLWtQUFZBR3h1RXpPMFgtaU5J0gGsAkFVX3lxTFBscUk1NklxV0pqU1Nkd3pwU2ZjeUNYaUxSWkF3ZTMyRG1KcGI3b1owZkRad1M0VTdXeGpxSTRHWkZNUElQTjVGMEhrb1M0VlhERTZ6RzJ6aFAtUWlGUWtLajFmY1dwSHp0ajlNRXNvUTVEMkl5R3c4UDQ5YWRIekRvNVYxXzB1ZzRHZ1QzM3ZhVk9zWVZ6RE41T25vam1pSWpXa05wbkdYcDhTT3JkaDJXS3loOVBPRW55Ymd6bFl3YXl3T1pzd1VvWXZoMGtmOUdTY1JlM25wcHVTV0NlVjVlbzJYX011Qzdwb2tkR2s4MER2bGstWEx1OE5JQkRkU0RHR09pa195SFdHX3JKMWZMY2tLLVpGSmpsXzJJcnRoX1RfV1RxdkZPQXRscA?oc=5",
+          "description": "Nuova ondata di attacchi USA all'Iran, la promessa di Araghchi: \"Occhio per occhio\" - Gli Houthi: \"Attaccate due petroliere saudite nel Mar Rosso\" RaiNews Media, 'missili Usa colpiscono città iraniana al confine iracheno' ANSA Guerra Iran, Trump: \"Non pronti ad accordo, colpiremo duro\". Super bombardieri in allerta Sky TG24 5 euro - Fiumi e uccelli / Montagna in primavera Il Sole 24 ORE Teheran, '",
+          "pubDate": "Thu, 23 Jul 2026 01:03:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Iran War Updates: U.S. launches 12th straight night of strikes as threats to oil trade deepen - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnFoblVaeW56TWFYUWE1SGl5N0RtX2t1S25oOFprWVlLZjFPa0Nmdm5hWjdzcmNpTGJCejk5OUxnMF9Pbnh0SklXc3BRYlktaVR2cS1Mbk1FNVVhak5QakV0UEh2VXF5UEFJQ2ppWXZ1Um9FX2lYSEpiaUEtT3dFaEQ2N3lRdTRLSjZRTnZGWk1PUk1tWHUwOVdVZjc?oc=5",
+          "description": "Iran War Updates: U.S. launches 12th straight night of strikes as threats to oil trade deepen CBS News Iran war live: US launches new attacks; Houthis attack 2 Saudi oil tankers Al Jazeera US military completes 12th straight night of strikes on Iran Reuters Iran War Live Updates: Trump Threatens to Hit Bridges and Power Plants if Iran Strikes in Strait The New York Times US military carries out st",
+          "pubDate": "Thu, 23 Jul 2026 02:55:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Yemen’s Houthis claim attack on two Saudi oil tankers - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkQ3bDFHdEZrQjNEQmtHZkRSUk1Ydnp4YXNDbHF2V0lDSkFmaEVrcmcxd3NPNVU5aXA3TnlWSFF0LW54cXBMcDcyS3ptOXlLaEl2ZVBITjN0T0Vra2llVjNBZUFTY0Z1N0FXQ0RNSnR1ZGI2MHN1bXJqdUZsdWxLNXA2dWdXVnhBejZYZEgzZnJwb2R3TTFTbdIBngFBVV95cUxQX2piN0J0Q2YwOUcyOTZBc2lFdkJpR3Q4SGJwMjhmVHlvZzJjM0pKUzgzWWZwMzRDdXhQWGRveG9NTTFwT1ZHX1ozYTdWcmlfa2J4STdFWXhuQ0U0azRaVEdIcDV3elJnRklrYWNUOHV2Z3ZrWDBEVC1DY3ZqWGRWTXpzYTJZNlZGWVlpaDIxb1R3ZFd5clItcE1VMDYtUQ?oc=5",
+          "description": "Yemen’s Houthis claim attack on two Saudi oil tankers Al Jazeera See more headlines & perspectives on Google News",
+          "pubDate": "Thu, 23 Jul 2026 01:41:15 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "borsa",
+      "n_items": 13,
+      "n_sources": 3,
+      "category": "economia",
+      "score": 45,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Wall Street attende le trimestrali dei big tecnologici mentre il petrolio continua a salire: Dow Jones, S&P, Nasdaq, Futures - Yahoo Finanza",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhZWGlwUVhDazk1U211dFFtRlZiUmJva3V6TmhZQlNlWTF3X0FfZG0zU21WdzBJdGl4VllfV0wyNHFnaWJRSHNPY0lRSGd1RUdtVVJZNmpBSGlDOF91SENORlZBYUpZQjBkaGlYMWR1ZDcxRXhnSEdlM1RCRDdJOHBVVlBTT2NOd3p0S3FWSQ?oc=5",
+          "description": "Wall Street attende le trimestrali dei big tecnologici mentre il petrolio continua a salire: Dow Jones, S&P, Nasdaq, Futures Yahoo Finanza La diretta da Wall Street | Borse Usa chiudono contrastate: Nasdaq -0,57%, S&P 500 -0,13% e Dow Jones +0,09% Milano Finanza Chiusura al rialzo a Wall Street Borsa Italiana Listini Usa proseguono con poca enfasi in attesa delle big tech ANSA Wall Street: apre in",
+          "pubDate": "Wed, 22 Jul 2026 10:07:19 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Chiusura positiva per le Borse europee con focus su petrolio e trimestrali - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSmdjQXJ4U2dkT25HUm5lVHJaeVF5ZFM0RUg0ZVpqMmN0RmJuOGpJSVlZZzlFZC1NNFhpa01VLWxOejFvYnNtcGZWODA1TlBrOE4tT0hfM2tWMEo4bjNZQ2FtQ0tIMlk5R29mOXRjNWRQcFRNWGR4ODVjQnJXSkJNSUI2THJ2WnlFeU9DQ3JNN05jemRNcXlNcEwwc1d3UUJYRHFBLXR2UnNTd3RBVzZrQlVhcTR3a2o0RTNpVVIwOHpGSmtvekQxRE5adDN0WGF0MEdHX2J0SGpEVUd0MFlfV3VzZXlUTUp2RTIyendzSU9NS3hneGxnVWJSSEUzQQ?oc=5",
+          "description": "Chiusura positiva per le Borse europee con focus su petrolio e trimestrali Borsa Italiana Borse europee in rialzo con focus su petrolio e trimestrali in attesa di big tech Borsa Italiana Borsa: Milano chiude in rialzo dello 0,97% ANSA Le Borse europee avanzano mentre il rallentamento dell’inflazione nel Regno Unito attenua le preoccupazioni geopolitiche: DAX, CAC, FTSE100 Yahoo Finanza Borse ottim",
+          "pubDate": "Wed, 22 Jul 2026 16:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "In Italia ci sono sempre meno negozi: chiuse 96mila attività in 7 anni - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU05wdGFtdXFuSHpuX1huSDhPTWh5cXZwdjdQYkJYNERBUjdfSnJWbG9iOTRTMU1JRXRsVUtleTVoRVlHWExLeUNaMWtfdXM2aHFraEYwRjJUN2lKY29rWlp1WS1ETWVpanNXRXpOdVlLd3hSTE83bkRpN19qN0lXSHNRWXRGR0JER0FMX3gwTEhVTGh4ZURxWE84c1hiVEphRDhzM1Q2THkyNTdsR2hXNVRn?oc=5",
+          "description": "In Italia ci sono sempre meno negozi: chiuse 96mila attività in 7 anni Tgcom24 Commercio in Italia, il Rapporto sull'evoluzione della rete di vendita Confcommercio Confcommercio, persi 96 mila negozi in sette anni. Urso: “Non rassegnamoci alla desertificazione” la Repubblica Confcommercio, dal 2018 meno negozi ma più fatturato. Sangalli: \"Persi quasi 100mila punti vendita\" Borsa Italiana Confcomme",
+          "pubDate": "Wed, 22 Jul 2026 10:56:16 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Europa cauta con Piazza Affari in leggero rialzo - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLUlhbzczUHF5Sk1xMWRhYjhMOFROTU1PQUpBQS1vTEhMblc1YzhwMTRlc3c0WlJvLWUxZzZRbWFISVpiRUZtdEZOaW02YWI4eEFnUk5Ia3JmS3drMGRaZVdxNlVYTVp4X3luUzR0emtGM2xHM1FRNExVLXVJM1l4c3FIZEEtNjBzZDFBMzcxTkFHZWpvV2s0d0tBODVyU0tfZGoxejNmWGR3Rk9iYjA4dVFDYUxPY2ZhdWhTX3pvdmJrUzdEcDlJMXNUaFRyMGtGTU1RWW5WMDdhVDg?oc=5",
+          "description": "Europa cauta con Piazza Affari in leggero rialzo Borsa Italiana Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Wed, 22 Jul 2026 07:30:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Saipem, cosa attendersi dalla trimestrale tra rischio Hormuz e fusione con Subsea 7 - Morningstar",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSlplbnZnMUdQa19yeEFNTVpQN1NQZ1RkelFtZnJwX00xdmhCemVJVU5Bc1Q1X1ZjbHVoanhsdFRiRDZYNzZ0eXBSbnBUNHV0b3VHTDdFZDdydXhqSnV6VDZEM2l6QUZxMTlUNk5mVFduak5wWGpaXzN6bnlSemY0dWJDSmMxdnRWZ3N1YXlreVJMNTl1X0ZmQ0pET19RNmpDNW9DZjBXZ1ZvaFZLc2hhTklFTmNHcUtzeEpLbDdJMUw?oc=5",
+          "description": "Saipem, cosa attendersi dalla trimestrale tra rischio Hormuz e fusione con Subsea 7 Morningstar Commissione UE avvia indagine approfondita su fusione tra Saipem e Subsea7 Borsa Italiana Cos'è successo oggi sui mercati: dall'indagine Ue su Saipem-Subsea7 agli affari nella Difesa di GM Milano Finanza La Turchia approva la fusione tra Saipem e Subsea7 Investing.com Indagine Ue su fusione Saipem-Subse",
+          "pubDate": "Wed, 22 Jul 2026 15:34:22 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "italiana",
+      "n_items": 9,
+      "n_sources": 4,
+      "category": "economia",
+      "score": 42,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Wall Street attende le trimestrali dei big tecnologici mentre il petrolio continua a salire: Dow Jones, S&P, Nasdaq, Futures - Yahoo Finanza",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhZWGlwUVhDazk1U211dFFtRlZiUmJva3V6TmhZQlNlWTF3X0FfZG0zU21WdzBJdGl4VllfV0wyNHFnaWJRSHNPY0lRSGd1RUdtVVJZNmpBSGlDOF91SENORlZBYUpZQjBkaGlYMWR1ZDcxRXhnSEdlM1RCRDdJOHBVVlBTT2NOd3p0S3FWSQ?oc=5",
+          "description": "Wall Street attende le trimestrali dei big tecnologici mentre il petrolio continua a salire: Dow Jones, S&P, Nasdaq, Futures Yahoo Finanza La diretta da Wall Street | Borse Usa chiudono contrastate: Nasdaq -0,57%, S&P 500 -0,13% e Dow Jones +0,09% Milano Finanza Chiusura al rialzo a Wall Street Borsa Italiana Listini Usa proseguono con poca enfasi in attesa delle big tech ANSA Wall Street: apre in",
+          "pubDate": "Wed, 22 Jul 2026 10:07:19 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Filosa a Lula, 'Fiat storia italiana di successo in Brasile da 50 anni'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/23/filosa-a-lula-fiat-storia-italiana-di-successo-in-brasile-da-50-anni_1a27be09-3957-4c56-b329-c6008bde9edc.html",
+          "description": "Il ceo di Stellantis all'ANSA annuncia 30 miliardi di reais di investimenti",
+          "pubDate": "Thu, 23 Jul 2026 00:27:56 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Chiusura positiva per le Borse europee con focus su petrolio e trimestrali - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSmdjQXJ4U2dkT25HUm5lVHJaeVF5ZFM0RUg0ZVpqMmN0RmJuOGpJSVlZZzlFZC1NNFhpa01VLWxOejFvYnNtcGZWODA1TlBrOE4tT0hfM2tWMEo4bjNZQ2FtQ0tIMlk5R29mOXRjNWRQcFRNWGR4ODVjQnJXSkJNSUI2THJ2WnlFeU9DQ3JNN05jemRNcXlNcEwwc1d3UUJYRHFBLXR2UnNTd3RBVzZrQlVhcTR3a2o0RTNpVVIwOHpGSmtvekQxRE5adDN0WGF0MEdHX2J0SGpEVUd0MFlfV3VzZXlUTUp2RTIyendzSU9NS3hneGxnVWJSSEUzQQ?oc=5",
+          "description": "Chiusura positiva per le Borse europee con focus su petrolio e trimestrali Borsa Italiana Borse europee in rialzo con focus su petrolio e trimestrali in attesa di big tech Borsa Italiana Borsa: Milano chiude in rialzo dello 0,97% ANSA Le Borse europee avanzano mentre il rallentamento dell’inflazione nel Regno Unito attenua le preoccupazioni geopolitiche: DAX, CAC, FTSE100 Yahoo Finanza Borse ottim",
+          "pubDate": "Wed, 22 Jul 2026 16:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "In Italia ci sono sempre meno negozi: chiuse 96mila attività in 7 anni - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU05wdGFtdXFuSHpuX1huSDhPTWh5cXZwdjdQYkJYNERBUjdfSnJWbG9iOTRTMU1JRXRsVUtleTVoRVlHWExLeUNaMWtfdXM2aHFraEYwRjJUN2lKY29rWlp1WS1ETWVpanNXRXpOdVlLd3hSTE83bkRpN19qN0lXSHNRWXRGR0JER0FMX3gwTEhVTGh4ZURxWE84c1hiVEphRDhzM1Q2THkyNTdsR2hXNVRn?oc=5",
+          "description": "In Italia ci sono sempre meno negozi: chiuse 96mila attività in 7 anni Tgcom24 Commercio in Italia, il Rapporto sull'evoluzione della rete di vendita Confcommercio Confcommercio, persi 96 mila negozi in sette anni. Urso: “Non rassegnamoci alla desertificazione” la Repubblica Confcommercio, dal 2018 meno negozi ma più fatturato. Sangalli: \"Persi quasi 100mila punti vendita\" Borsa Italiana Confcomme",
+          "pubDate": "Wed, 22 Jul 2026 10:56:16 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Europa cauta con Piazza Affari in leggero rialzo - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLUlhbzczUHF5Sk1xMWRhYjhMOFROTU1PQUpBQS1vTEhMblc1YzhwMTRlc3c0WlJvLWUxZzZRbWFISVpiRUZtdEZOaW02YWI4eEFnUk5Ia3JmS3drMGRaZVdxNlVYTVp4X3luUzR0emtGM2xHM1FRNExVLXVJM1l4c3FIZEEtNjBzZDFBMzcxTkFHZWpvV2s0d0tBODVyU0tfZGoxejNmWGR3Rk9iYjA4dVFDYUxPY2ZhdWhTX3pvdmJrUzdEcDlJMXNUaFRyMGtGTU1RWW5WMDdhVDg?oc=5",
+          "description": "Europa cauta con Piazza Affari in leggero rialzo Borsa Italiana Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Wed, 22 Jul 2026 07:30:00 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "says",
+      "n_items": 9,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 42,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Trump’s split screen: War and campaigning - Politico",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamkzUFBSZDRlUC1nOXhlNG96aU05UDZNWmlmMEIzNUF0ZVROSy1NckRnTWNfX1A3Q0h2UnpLZkh3X2diemRRc24yN2tlVlVFS0NsendYaS1RdndlNXNtakhQOF8yU3VUNi1WU0J3dGp0bTJ4MnU1ajJyR0NzTnFYYWlydURVUnVF?oc=5",
+          "description": "Trump’s split screen: War and campaigning Politico Speaking for Fallen Soldiers, Trump Says They Supported the Iran War The New York Times Trump gives emotional tribute to fallen Army Lt Tyler Feehan after flying grieving family on Air Force One Fox News Trump Attends Dignified Transfer for U.S. Servicemembers Killed in Middle East WSJ Trump attends dignified transfer of 4 service members killed i",
+          "pubDate": "Wed, 22 Jul 2026 22:03:00 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "US signs landmark nuclear deal with Saudi Arabia",
+          "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+          "description": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
+          "pubDate": "Thu, 23 Jul 2026 00:21:53 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "China's Moonshot AI stole from Anthropic, Trump tech adviser says",
+          "link": "https://www.bbc.co.uk/news/articles/c5ye2gyz0x4o?at_medium=RSS&at_campaign=rss",
+          "description": "The allegations come as Chinese AI companies are facing increased US government scrutiny.",
+          "pubDate": "Thu, 23 Jul 2026 01:52:10 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Former Lloyd's of London boss's relationship breached rules, firm says",
+          "link": "https://www.bbc.co.uk/news/articles/cre48d34ewzo?at_medium=RSS&at_campaign=rss",
+          "description": "The insurance market's chairman said the CEO's conduct \"fell significantly below the standards expected of him\".",
+          "pubDate": "Wed, 22 Jul 2026 17:08:53 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Aston Martin secures £550m loan deal",
+          "link": "https://www.bbc.co.uk/news/articles/cjejx083jkeo?at_medium=RSS&at_campaign=rss",
+          "description": "The luxury car maker says the loans will be used to fund current and future product plans.",
+          "pubDate": "Wed, 22 Jul 2026 18:02:05 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "italia",
+      "n_items": 29,
+      "n_sources": 13,
+      "category": "tech-ai",
+      "score": 38.3,
+      "cooldown": true,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Decine di incendi in Sicilia, pompiere morto per un malore. Blackout a Palermo - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtVFZvYTYzLXpZWVRQSnRmS1Q2U1NxZ1Bxd3FSWFdHQXk1RndoaEg4aDdxalQ5eG83OXBWQ0VDRW53OGdadzlYZFpucmZ4VXRwUGJLdFBlWkF5Zlc4aEw3VUZMVzg?oc=5",
+          "description": "Decine di incendi in Sicilia, pompiere morto per un malore. Blackout a Palermo Sky TG24 La UIL FP VVF esige un’inchiesta immediata sulle morti sul lavoro e condanna la letale disorganizzazione dei soccorsi in tutta Italia UILPA VVF Incendi in Sicilia: morto un vigile del fuoco, un collega in ospedale Corriere della Sera Cordoglio della Difesa e del Ministro Crosetto per la scomparsa del Vigile del",
+          "pubDate": "Wed, 22 Jul 2026 08:11:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "La casa natale di Hitler ora è un commissariato di polizia - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUlZuRkJSSlo0Slg3ZmQyN0VibUdCUkt6OFNqZjdIUFczR0dLRU51TnlWWEY1UXlqTHlRS3lTWXpLeG1ta0F4TnFmWHlyWFZ3cklzWGpINlZLVW5TcHdmekc0SFlOSzV5aWw5UHFuTjAwcWNWMGNQblhnTmFpVFMxdURsWk11NlpZUi1tckZNazg4bFVDeXI1ZXkyR20tSmFiejFR?oc=5",
+          "description": "La casa natale di Hitler ora è un commissariato di polizia Il Fatto Quotidiano La casa natale di Hitler è infine diventata una stazione di polizia Il Post Austria, la casa natale di Hitler a Braunau è diventata una stazione della polizia la Repubblica Casa di Hitler in Austria diventa stazione di polizia. Sperando di fermare il viavai dei nostalgici (di D. Farace) HuffPost Italia Perché la casa a ",
+          "pubDate": "Wed, 22 Jul 2026 15:36:45 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Wall Street attende le trimestrali dei big tecnologici mentre il petrolio continua a salire: Dow Jones, S&P, Nasdaq, Futures - Yahoo Finanza",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhZWGlwUVhDazk1U211dFFtRlZiUmJva3V6TmhZQlNlWTF3X0FfZG0zU21WdzBJdGl4VllfV0wyNHFnaWJRSHNPY0lRSGd1RUdtVVJZNmpBSGlDOF91SENORlZBYUpZQjBkaGlYMWR1ZDcxRXhnSEdlM1RCRDdJOHBVVlBTT2NOd3p0S3FWSQ?oc=5",
+          "description": "Wall Street attende le trimestrali dei big tecnologici mentre il petrolio continua a salire: Dow Jones, S&P, Nasdaq, Futures Yahoo Finanza La diretta da Wall Street | Borse Usa chiudono contrastate: Nasdaq -0,57%, S&P 500 -0,13% e Dow Jones +0,09% Milano Finanza Chiusura al rialzo a Wall Street Borsa Italiana Listini Usa proseguono con poca enfasi in attesa delle big tech ANSA Wall Street: apre in",
+          "pubDate": "Wed, 22 Jul 2026 10:07:19 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Rubio, controllo iraniano su Hormuz sarebbe precedente pericoloso - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSWw3RlA5dUVUQ0tUbU5Td0tJaWtKOTRDdlB4LV9tMGxvTWNPbXNVWGphTlJLSkdwZ3dQd1ZjbHdqcVBObGNFdzJ3UGtWbEltU2E3bEUwTUpOZFRTZ1QyTVRjTlpJZVNXV0VUUEd5V2g3bFRHWlFhY3Z5Z0VVUHhXaVVlMUcySHN2X3pQY2NtcDNPZ2hvOEpUV3ZsWmx4RDlPS1ZuTmlCRFFSMWZuVlBpRmtUNnZtU3dOMFluMnd4SktIcHhRMjZyYW4tSG1vTlRGdUlTWXdBbHl1NlR3Y0RlNUtDamhCeWtOMzdpNGp3MA?oc=5",
+          "description": "Rubio, controllo iraniano su Hormuz sarebbe precedente pericoloso ANSA Da Hormuz a Bab el Mandeb, chi ha creato il precedente? HuffPost Italia Rubio all'ASEAN: controllo iraniano su Hormuz creerebbe precedente pericoloso Treccani Iran, sale lo scontro con gli Usa, Rubio: gli alleati si mobilitino per Hormuz Askanews Trump dice di aver sconfitto l'Iran, ma chiede aiuto all'Ue La Notizia",
+          "pubDate": "Wed, 22 Jul 2026 03:24:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Un cameriere italiano di 33 anni trovato morto a Ibiza",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/un-cameriere-italiano-trovato-morto-a-ibiza_e9b0dd80-ef16-40d8-a44d-9e3ba20cdf36.html",
+          "description": "Era il giorno del suo compleanno. 'Lavorava per pagarsi la passione per l'hip hop'",
+          "pubDate": "Wed, 22 Jul 2026 22:08:10 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "arabia",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Come aggirare Hormuz, il piano di Turchia e Arabia Saudita: ridare vita alla storica ferrovia ottomana - Quotidiano Nazionale",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVDFJeFo2dXdaV3lvTXZFR0ozVUpHMTdaVDdxU0Q3Q1RNbGZCcHA4dzAtRHBjR1lHamxuWUx2bW1JZHdQb3cyNGpxU1RDWmFQVGwwR3pUTzdPWldoa1FMNUZrNnRrb1NabElMWWtqZ0RaU09rUzFPeHJ1MUpaMUNCdW5oUU94ZkZxaWNNcTFWSFZRaFNBMWczb0xqUFhteVBKOERtOVBqc1ZKZlJxU0tUV2JTbTJTLTJPcWpCbXFsdDNoc0VKV3d5WlJhMDA4SE85VEQ2ejdUdmE0Qjg?oc=5",
+          "description": "Come aggirare Hormuz, il piano di Turchia e Arabia Saudita: ridare vita alla storica ferrovia ottomana Quotidiano Nazionale DP World firma un accordo 50 anni per due terminal a Fujairah Investing.com Stretto di Hormuz e petrolio, le soluzioni dei Paesi del Golfo per non dipendere dall'Iran Sky TG24 Dubai sta progettando un nuovo porto per aggirare lo stretto di Hormuz Startmag Dp World punta anche",
+          "pubDate": "Wed, 22 Jul 2026 16:01:15 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Nucleare, Usa e Arabia Saudita firmano accordo storico: sì all'arricchimento dell'uranio - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX01lLXBzQy1hdnE4d05VYXp2N3RlcVAzbVhFYUNCblVZREJnSHQzaGhTd19qSlFvOVF4aWhsRXVpdGhxTGdZZEhUS1FWQ3FEOXJWVDNqRzFmUlFyYUU2NzhPY3prZFlEZ0ZiWHF6ZW9VNW5NR2k1NmtkOHhVTjlraUdrVWlZVjVxYWp6WVM2MzVvNVJTX3ZJUw?oc=5",
+          "description": "Nucleare, Usa e Arabia Saudita firmano accordo storico: sì all'arricchimento dell'uranio Sky TG24 USA e Arabia Saudita firmano l'accordo sul nucleare, Riad potrà arricchire l'uranio - Usa: firmato con Arabia Saudita accordo di cooperazione nucleare RaiNews Trump minaccia i ponti iraniani e concede il nucleare ai sauditi la Repubblica La marcia di Riad per l'atomica e l'ostilità radicale degli isra",
+          "pubDate": "Wed, 22 Jul 2026 21:27:25 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "U.S. signs nuclear deal with Saudi Arabia that gives it path to enriching fuel - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeHgya3BPS203QXhIQVVkOV9JNmZpQ2M4eG1jSjJJZkk2UXY3eV8wVEhKZUZhd3o2TFJJaExWNWVTSUkyTi1QMTBSTkhGTGdTdXhGVEdVbnB0VzFqRzA5Y1JzMDJiNGROU2Q2VktGc2w4T3hoY0M0U3lVY3IybzFsUVdZUTF3aUtsUC1RRFRHcWVYZDV0OW9Yc2psMnctTmw4cU5NTV9weUMxRlBR?oc=5",
+          "description": "U.S. signs nuclear deal with Saudi Arabia that gives it path to enriching fuel The Washington Post Trump Approves Landmark Nuclear Deal With Saudi Arabia in Big Win for Kingdom WSJ US confirms signing a nuclear cooperation pact with Saudi Arabia, to Israel’s alarm The Times of Israel Saudis Reach Deal With U.S. That Could Let Them Enrich Nuclear Fuel The New York Times U.S. signs nuclear power agr",
+          "pubDate": "Thu, 23 Jul 2026 02:42:08 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Ukmto, petroliera colpita in attacco nel Mar Rosso al largo dell'Arabia Saudita",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/22/ukmto-petroliera-colpita-in-attacco-nel-mar-rosso-al-largo-dellarabia-saudita_0f1257e6-4583-44a2-88d4-05746c5912fe.html",
+          "description": "Un proiettile non identificato ha provocato incendio, non si segnalano vittime",
+          "pubDate": "Wed, 22 Jul 2026 23:50:00 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "US signs landmark nuclear deal with Saudi Arabia",
+          "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+          "description": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
+          "pubDate": "Thu, 23 Jul 2026 00:21:53 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "europa",
+      "n_items": 7,
+      "n_sources": 4,
+      "category": "economia",
+      "score": 34,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Dazi: Trump, dal 2028 su farmaci generici saliranno al 100% e poi al 200% - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGYyd2g5eC04bnFxZ2dfYnRTRnA2aWpJbG1PcDJoaU1CV0lSNlhmX1gtMkE4N0FTZ0h6VU1lY2xFZlJNb1dOSV84ZFNWX3pMaW5DanZ6akpvVkNQclRpNnRmdld5YXQ3QTVrUmlxMFBzM19veDZ0V3Q1ZUJKZWZHU2FTSHgxVHVHeXgwWllVdnI1RVFPY2dJRnRfVFlZcU9ZNkRoZE5wS2xLVE56V0Y4Ym1n?oc=5",
+          "description": "Dazi: Trump, dal 2028 su farmaci generici saliranno al 100% e poi al 200% Il Sole 24 ORE Dazi, Trump apre la nuova guerra commerciale: sui farmaci tariffe fino al 200%, Canada, Brasile ed Europa, chi è nel mirino Corriere della Sera Farmaci: Zagaria (Egualia), sicurezza approvvigionamenti prima di barriere commercio -2- Il Sole 24 ORE Trump annuncia dazi al 100% sui farmaci generici dal 2028, poi ",
+          "pubDate": "Wed, 22 Jul 2026 06:00:44 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Rapporto Onu su traffico di droga conferma l'Ecuador come snodo logistico",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/22/rapporto-onu-su-traffico-di-droga-conferma-lecuador-come-snodo-logistico_8d898c2b-3d18-48bb-b149-49bdc26799c0.html",
+          "description": "Il paese sudamericano al centro degli invii di cocaina in Europa, Nord America e Oceania.",
+          "pubDate": "Wed, 22 Jul 2026 22:41:15 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Europa cauta con Piazza Affari in leggero rialzo - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLUlhbzczUHF5Sk1xMWRhYjhMOFROTU1PQUpBQS1vTEhMblc1YzhwMTRlc3c0WlJvLWUxZzZRbWFISVpiRUZtdEZOaW02YWI4eEFnUk5Ia3JmS3drMGRaZVdxNlVYTVp4X3luUzR0emtGM2xHM1FRNExVLXVJM1l4c3FIZEEtNjBzZDFBMzcxTkFHZWpvV2s0d0tBODVyU0tfZGoxejNmWGR3Rk9iYjA4dVFDYUxPY2ZhdWhTX3pvdmJrUzdEcDlJMXNUaFRyMGtGTU1RWW5WMDdhVDg?oc=5",
+          "description": "Europa cauta con Piazza Affari in leggero rialzo Borsa Italiana Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Wed, 22 Jul 2026 07:30:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: Milano chiude in rialzo con l'Europa, corre Inwit",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/borsa-milano-chiude-in-rialzo-con-leuropa-corre-inwit_56fda49f-b1e7-4579-83dc-2142e4332868.html",
+          "description": "In fondo Prysmian e Banco Bpm. Lo spread tra Btp e Bund stabile a 82 punti",
+          "pubDate": "Wed, 22 Jul 2026 18:08:28 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: l'Europa chiude in rialzo con l'Ia, lente su Medio Oriente",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/borsa-leuropa-chiude-in-rialzo-con-lia-lente-su-medio-oriente_d250acd2-c4ac-4cce-b2ed-b27d56488999.html",
+          "description": "Londra (+1,24%), Parigi (+0,89%) e Francoforte (+0,58%)",
+          "pubDate": "Wed, 22 Jul 2026 17:57:41 +0200"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "more",
+      "n_items": 7,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 34,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Yemen’s Houthis claim attack on two Saudi oil tankers - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkQ3bDFHdEZrQjNEQmtHZkRSUk1Ydnp4YXNDbHF2V0lDSkFmaEVrcmcxd3NPNVU5aXA3TnlWSFF0LW54cXBMcDcyS3ptOXlLaEl2ZVBITjN0T0Vra2llVjNBZUFTY0Z1N0FXQ0RNSnR1ZGI2MHN1bXJqdUZsdWxLNXA2dWdXVnhBejZYZEgzZnJwb2R3TTFTbdIBngFBVV95cUxQX2piN0J0Q2YwOUcyOTZBc2lFdkJpR3Q4SGJwMjhmVHlvZzJjM0pKUzgzWWZwMzRDdXhQWGRveG9NTTFwT1ZHX1ozYTdWcmlfa2J4STdFWXhuQ0U0azRaVEdIcDV3elJnRklrYWNUOHV2Z3ZrWDBEVC1DY3ZqWGRWTXpzYTJZNlZGWVlpaDIxb1R3ZFd5clItcE1VMDYtUQ?oc=5",
+          "description": "Yemen’s Houthis claim attack on two Saudi oil tankers Al Jazeera See more headlines & perspectives on Google News",
+          "pubDate": "Thu, 23 Jul 2026 01:41:15 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "House passes $1.15 trillion defense bill, tees up billions more for Iran war - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOF9SSzMzT2hjNVpjMVlzQVFhYVZ4UjVhc3lxaktPTjJobmFMZThsMlU3YVR4SC1DamVLLW52R0x4SjgyOTdURWlEemZCNHRVT2YtX0piZ01wd01SWURoYnNyZndLSXhmckVoUkpDcVVhLVRjZ2JtUHh5VzVXb3RZbVJORUZWVzVMdDM2N0Z5ZS12YU1sQ29VXzhONUZvalpjSzlaVFlneEs3bVdPbjBDWjZSZkxJdkJFdDlyUzVqSmNzQ3lrRy1Qc19B?oc=5",
+          "description": "House passes $1.15 trillion defense bill, tees up billions more for Iran war The Washington Post House votes for Department of War renaming as part of an annual defense bill AP News 6 Democrats cross aisle, join GOP to back annual defense policy bill The Hill US House passes $1.15 trillion military bill expanding Israel cooperation Al Jazeera House passes Pentagon funding bill and a blueprint to u",
+          "pubDate": "Thu, 23 Jul 2026 03:40:54 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
+          "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+          "description": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
+          "pubDate": "Thu, 23 Jul 2026 03:48:27 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Apple is reportedly testing a MacBook Neo with more RAM - The Verge",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hcGdRZXlTY3pkRUw3SWhaclpHUUdvODN3UWNfTnJsSzk4dk5iSzFzeEFudTBDUncxMGE4dnMyZ0Jsbkd2X3ZyREk5VEJfbzdoMXk0WjBYbzNKMmFqYkpWQm0xeWp1Zzd6UjBRUFRxTThFQ3dGOUJpM25SUFdCWjg?oc=5",
+          "description": "Apple is reportedly testing a MacBook Neo with more RAM The Verge Apple Plans Overhaul of MacBooks, iMac in Push to Meet AI Demand Bloomberg.com AAPL Plans Major MacBook, iMac Overhaul To Capitalize On AI-Fueled Demand For High-Performance Devices Yahoo Finance Apple's Rumored Upgrades To Its Mac Lineup Go Beyond Touchscreens Engadget Upgraded Mac Mini, Mac Studio, and OLED iMac are all in the pip",
+          "pubDate": "Wed, 22 Jul 2026 16:35:58 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Microsoft brings original Xbox backward compatibility to Windows PCs - Ars Technica",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQblczamt2bWxjZ003WmF1R21jNUYxcWYyR3lwd2FDMl9rWXFuOGNBT3czd1NRVlp1LUhzb0dGamxWeEpMcWU4MEFBdU9NZ2RmMWhTN1NVaXpBSUIzTVhOSzJZWUlKUFVORDVVSWRad2VMaHBGYW1UZm1nVmVyVll5R3k3aXp0eXR2Sm5URjNVbGg2YWwzSmR1RUc3S2ZNRWlBVHk4eF9fVUZvc1NM?oc=5",
+          "description": "Microsoft brings original Xbox backward compatibility to Windows PCs Ars Technica Play More of the Games You Love, Wherever You Play with XBOX Backward Compatibility on PC XBOX Wire Microsoft is bringing original Xbox games to PC The Verge Microsoft Announces Xbox Backward Compatibility on PC, With New Features and Achievements IGN 2000s-Era Xbox Games Are Coming to Windows 11: Here Are the First ",
+          "pubDate": "Wed, 22 Jul 2026 20:36:19 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "hormuz",
+      "n_items": 5,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 31,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Come aggirare Hormuz, il piano di Turchia e Arabia Saudita: ridare vita alla storica ferrovia ottomana - Quotidiano Nazionale",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVDFJeFo2dXdaV3lvTXZFR0ozVUpHMTdaVDdxU0Q3Q1RNbGZCcHA4dzAtRHBjR1lHamxuWUx2bW1JZHdQb3cyNGpxU1RDWmFQVGwwR3pUTzdPWldoa1FMNUZrNnRrb1NabElMWWtqZ0RaU09rUzFPeHJ1MUpaMUNCdW5oUU94ZkZxaWNNcTFWSFZRaFNBMWczb0xqUFhteVBKOERtOVBqc1ZKZlJxU0tUV2JTbTJTLTJPcWpCbXFsdDNoc0VKV3d5WlJhMDA4SE85VEQ2ejdUdmE0Qjg?oc=5",
+          "description": "Come aggirare Hormuz, il piano di Turchia e Arabia Saudita: ridare vita alla storica ferrovia ottomana Quotidiano Nazionale DP World firma un accordo 50 anni per due terminal a Fujairah Investing.com Stretto di Hormuz e petrolio, le soluzioni dei Paesi del Golfo per non dipendere dall'Iran Sky TG24 Dubai sta progettando un nuovo porto per aggirare lo stretto di Hormuz Startmag Dp World punta anche",
+          "pubDate": "Wed, 22 Jul 2026 16:01:15 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Rubio, controllo iraniano su Hormuz sarebbe precedente pericoloso - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSWw3RlA5dUVUQ0tUbU5Td0tJaWtKOTRDdlB4LV9tMGxvTWNPbXNVWGphTlJLSkdwZ3dQd1ZjbHdqcVBObGNFdzJ3UGtWbEltU2E3bEUwTUpOZFRTZ1QyTVRjTlpJZVNXV0VUUEd5V2g3bFRHWlFhY3Z5Z0VVUHhXaVVlMUcySHN2X3pQY2NtcDNPZ2hvOEpUV3ZsWmx4RDlPS1ZuTmlCRFFSMWZuVlBpRmtUNnZtU3dOMFluMnd4SktIcHhRMjZyYW4tSG1vTlRGdUlTWXdBbHl1NlR3Y0RlNUtDamhCeWtOMzdpNGp3MA?oc=5",
+          "description": "Rubio, controllo iraniano su Hormuz sarebbe precedente pericoloso ANSA Da Hormuz a Bab el Mandeb, chi ha creato il precedente? HuffPost Italia Rubio all'ASEAN: controllo iraniano su Hormuz creerebbe precedente pericoloso Treccani Iran, sale lo scontro con gli Usa, Rubio: gli alleati si mobilitino per Hormuz Askanews Trump dice di aver sconfitto l'Iran, ma chiede aiuto all'Ue La Notizia",
+          "pubDate": "Wed, 22 Jul 2026 03:24:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Dubai Firm Cuts Deal for New Port to Bypass Strait of Hormuz - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMnFoQ1pBRS0tV1NWSV9WSldXdmUxOFNNME00ay1IVGpRdGZWaHFWUm9HMlNrOWVsamlEcENMUFRjaG40NEFVbVB6ME5KU3RiM0g1dnlYTnZONGNyMU4xQl9EWmdjc0hJRUFNUkw1N252cUJUb3hwRFg3LXBhMGZtS0M1OFFmMmpZZ05GZVBPbGpDSDlMUks1M2ZDTndScWZLVU9N?oc=5",
+          "description": "Dubai Firm Cuts Deal for New Port to Bypass Strait of Hormuz The New York Times DP World to Build Two UAE Container Terminals Outside of Hormuz Bloomberg.com DP World to build two new terminals on UAE's eastern coast, reducing Hormuz reliance Reuters Fujairah, DP World sign deal for two new ports under 50-year concession Emirates 24|7 DP World signs 50-year deal for new Fujairah terminals Port Tec",
+          "pubDate": "Wed, 22 Jul 2026 20:50:44 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Pasdaran, 'petroliera in fiamme a Hormuz, altre due fanno dietrofront'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/23/pasdaran-petroliera-in-fiamme-a-hormuz-altre-due-fanno-dietrofront_30e9727a-d09f-4fe3-a68f-46e83cd7b10b.html",
+          "description": "'Navi sostenute dagli Usa tentavano di attraversare la rotta minata a sud'",
+          "pubDate": "Thu, 23 Jul 2026 02:20:02 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Saipem, cosa attendersi dalla trimestrale tra rischio Hormuz e fusione con Subsea 7 - Morningstar",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSlplbnZnMUdQa19yeEFNTVpQN1NQZ1RkelFtZnJwX00xdmhCemVJVU5Bc1Q1X1ZjbHVoanhsdFRiRDZYNzZ0eXBSbnBUNHV0b3VHTDdFZDdydXhqSnV6VDZEM2l6QUZxMTlUNk5mVFduak5wWGpaXzN6bnlSemY0dWJDSmMxdnRWZ3N1YXlreVJMNTl1X0ZmQ0pET19RNmpDNW9DZjBXZ1ZvaFZLc2hhTklFTmNHcUtzeEpLbDdJMUw?oc=5",
+          "description": "Saipem, cosa attendersi dalla trimestrale tra rischio Hormuz e fusione con Subsea 7 Morningstar Commissione UE avvia indagine approfondita su fusione tra Saipem e Subsea7 Borsa Italiana Cos'è successo oggi sui mercati: dall'indagine Ue su Saipem-Subsea7 agli affari nella Difesa di GM Milano Finanza La Turchia approva la fusione tra Saipem e Subsea7 Investing.com Indagine Ue su fusione Saipem-Subse",
+          "pubDate": "Wed, 22 Jul 2026 15:34:22 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "after",
+      "n_items": 10,
+      "n_sources": 3,
+      "category": "general",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Trump’s split screen: War and campaigning - Politico",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamkzUFBSZDRlUC1nOXhlNG96aU05UDZNWmlmMEIzNUF0ZVROSy1NckRnTWNfX1A3Q0h2UnpLZkh3X2diemRRc24yN2tlVlVFS0NsendYaS1RdndlNXNtakhQOF8yU3VUNi1WU0J3dGp0bTJ4MnU1ajJyR0NzTnFYYWlydURVUnVF?oc=5",
+          "description": "Trump’s split screen: War and campaigning Politico Speaking for Fallen Soldiers, Trump Says They Supported the Iran War The New York Times Trump gives emotional tribute to fallen Army Lt Tyler Feehan after flying grieving family on Air Force One Fox News Trump Attends Dignified Transfer for U.S. Servicemembers Killed in Middle East WSJ Trump attends dignified transfer of 4 service members killed i",
+          "pubDate": "Wed, 22 Jul 2026 22:03:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Madison police kill man in broad daylight in front of witnesses - Wisconsin Examiner",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcm9RMGl2LTdaVlhMREF2Z3RkVWtWc1NQRmlIYjZ3bGtzZ042MmlQTS1vS0Y3bGxNZklkT1N5aHZ3Z0JBZjdNdzFVN2tWV3NONVhaSkFJc1Z4YVh0bk1zMHYxN3puQmVQT0JncTlicVVhMDBuY2QweXVZM2w4akhVQXdvN2N4WnYxYnV5amFHMjJfSEN0VXZNeXNUdGNXeXRXYnpJ?oc=5",
+          "description": "Madison police kill man in broad daylight in front of witnesses Wisconsin Examiner Man dies after Madison police shooting at Baldwin and Williamson Streets WKOW Fatal police shooting of man officials say was armed with knife prompts investigation and protests in Wisconsin CNN Police officer fatally shoots man in Madison, Wisconsin, sparking protests The Guardian Madison police shooting leaves man ",
+          "pubDate": "Thu, 23 Jul 2026 02:16:07 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "What to know about the Nolan Wells independent autopsy results - PBS",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPel9qa3RzTU9PNDE5ZS1QcmpOZ09wZndkTGlRNVdrUVM0ZEtfalZuSmo4aGhXQ2VKQ2t0MGFMRzJVcUw4SGdMbXVHQjNtQlhFV3VQUkVYbUczLXpuUEViN2dBSUNaQVZKRlRFaW9yNDdhQWs4ZHFOdExIZnpLUjBPMkZkd1dYbnNQSDlMM1JPazNza19JaC02MXlyME90Tjg?oc=5",
+          "description": "What to know about the Nolan Wells independent autopsy results PBS 2 weeks after a Mississippi football player’s death, many questions loom CNN Independent autopsy 'inconclusive' on cause of death for 18-year-old Nolan Wells in Mississippi NPR Before Nolan Wells’ death, Mississippi island was full of fun, friends and an unspoken danger NBC News Independent autopsy for Mississippi 18-year-old is in",
+          "pubDate": "Wed, 22 Jul 2026 18:54:12 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Mexico mayor killed in town hall months after surviving assassination attempt - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcDdrR2tzSlZxaUhaVFdKMlZqWkJoTG1icy15c19RcWE5bUROcE9GN2RsSFZ4cjF5anh6VUQzNnRVYU1pZnJmaVd5VWZ6dHNHLWM5Q3JtWkdMcEZnWVRJYjY1RDhQeHlaMUEzbGVVQ29VSkhyYkN4N3hZY3ZNaFh0TTgxVnJPV1FC?oc=5",
+          "description": "Mexico mayor killed in town hall months after surviving assassination attempt CBS News Mexican Mayor Shot Dead in his Office After Surviving Earlier Hit Bloomberg.com What we know about the killing of Mexico mayor Valentin Lavin WION Mexico Mayor Allied To Ruling Party Shot Dead After Surviving Previous Assassination Bid | World News News18 Mexican mayor shot dead in town hall ABS-CBN",
+          "pubDate": "Wed, 22 Jul 2026 23:07:30 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Tankers make sharp U-turns after Houthi shipping threat",
+          "link": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
+          "description": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows.",
+          "pubDate": "Wed, 22 Jul 2026 14:42:49 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "tgcom24",
+      "n_items": 6,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "L'auto sulla folla a Modena, muore dopo due mesi la donna 55enne rimasta ferita - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNc3BlZ01FTjZEX2hxZEFickROb253SnpBMVdaZXN6YTdpUktDeUFzbDlhQnpsOE1tcG1Takp0VUxmdFhTMDBMR2IwWG1xbEgtdjJKbHdVWFhlQXBwaFR2bEZfejZ6am1zUEVoQVdaQktla1JlZzNlcGUxZnlnQTlWR1Ewai1XWVVqdi01Wm1VS21uTjlPb3pJTDNmMTIyUjdMU2dIaEVzY09RbGRsZ0pQR2RabExYR0dEcVo3OWlLQl9XT3o4ZEd6UE5xYzJ2SGVEX0xBLVlGU19oLVBxdk5LTTFOZElRMC11bFlEYWJBZnXSAfYBQVVfeXFMUGcyQU14bzAtTGw2R3Z3aTdaNmRXMG5udkMtT1R5OVFqUjBpOHhfaHpCdGZpSUIwZ3RKZTB6a2NacXdremZFNjRyNjVzckdFWEp1R254LUE4V1lhbzYtdUhKUy1NdWJIbTF6SFBqUmVUSWt3M3ptWk15QmFoV2ZaVndYRXNKNEZyVm4zcEs5OHBqSkRXbnVTQjhXa1UyX3ZOQl9vRHN6eVpEQmM0X0xhSjdWTmtTMzNiU0I1S2hPT0dFaHB4VUJaZE5mU2ZmMnE3TUJLVGk2WDZjTnE1bEdUcHdsZURobnMxQXJIdmRZOVAyRHNqU1h3?oc=5",
+          "description": "L'auto sulla folla a Modena, muore dopo due mesi la donna 55enne rimasta ferita RaiNews Auto sulla folla a Modena, 55enne muore dopo due mesi ANSA Morte di Monica Esposito, il dolore della politica tra lutto cittadino, giustizia e sicurezza ModenaToday Auto sulla folla a Modena, donna 55enne muore dopo 2 mesi Sky TG24 Auto sulla folla a Modena, 55enne muore dopo due mesi in ospedale Tgcom24",
+          "pubDate": "Wed, 22 Jul 2026 18:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "In Italia ci sono sempre meno negozi: chiuse 96mila attività in 7 anni - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU05wdGFtdXFuSHpuX1huSDhPTWh5cXZwdjdQYkJYNERBUjdfSnJWbG9iOTRTMU1JRXRsVUtleTVoRVlHWExLeUNaMWtfdXM2aHFraEYwRjJUN2lKY29rWlp1WS1ETWVpanNXRXpOdVlLd3hSTE83bkRpN19qN0lXSHNRWXRGR0JER0FMX3gwTEhVTGh4ZURxWE84c1hiVEphRDhzM1Q2THkyNTdsR2hXNVRn?oc=5",
+          "description": "In Italia ci sono sempre meno negozi: chiuse 96mila attività in 7 anni Tgcom24 Commercio in Italia, il Rapporto sull'evoluzione della rete di vendita Confcommercio Confcommercio, persi 96 mila negozi in sette anni. Urso: “Non rassegnamoci alla desertificazione” la Repubblica Confcommercio, dal 2018 meno negozi ma più fatturato. Sangalli: \"Persi quasi 100mila punti vendita\" Borsa Italiana Confcomme",
+          "pubDate": "Wed, 22 Jul 2026 10:56:16 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Ucraina, attacco russo nel porto di Odessa: colpite due navi e infrastrutture - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT214S1JraFlfSHZReXNjTzNEdVgtT2lhUkZzajB4NVZHRU4yc3ZxMEdyR09iVzNOa2wwU3FIMUdvamlLZlRLempXeV9WVC1zS0FJTGp0dkVYUUY1dlI1VTdpWUR1UDRTZ3ZoOFR0ZTRXUVZsN21jN1ZBWFFCYklhVkZaOHJEa1VSbE9vQXh3Zl9wTlg4UjlRR29fcEU4N1dHSUhpSDhLVi1sVXZV0gFoQVVfeXFMTUstVk5PbFR4NEwwVEhDcFZKY2Vta2Q2Nm92Z1phX3ZEalZ5dHZtX3hCZFBYLUc5T1kwVjJ0RDQ3TVZ6MU10N29pREhLcXVjLVpBdmxOeXZPbXBlSmxWUU9IVXVhU0tweW8?oc=5",
+          "description": "Ucraina, attacco russo nel porto di Odessa: colpite due navi e infrastrutture Tgcom24",
+          "pubDate": "Wed, 22 Jul 2026 07:06:17 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Grandinate e impianti fotovoltaici, il presidente di Italia Solare: \"Resistenza garantita, ma i fenomeni eccezionali possono capitare\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZmVQM0M3NGh4LUx6dkpackJMZmNHdXJsc2VTN1ZOckFzOXBOU1htNHhod1NSYWlqZzV5VVFNWnRUTExQR0drQU9fYU56MVhLT2t6X2JrMm1MWk9jRVIwejNGRHEwWU5BeV95Zy1jNjBQM2NhZ1NXQVNyQk9DdDV3Ni1LTktSS1pfTDhLNFFucDZqVEpzMTdMRkR6WGZmTXRKcDUtUEZOTFcwalRKYkU3MVNvRTRweC03QjhrZm9uOGlrdzlkMmYtOHREOWVITGVRYldhVlVSbkU2U01TM3hiTEFR?oc=5",
+          "description": "Grandinate e impianti fotovoltaici, il presidente di Italia Solare: \"Resistenza garantita, ma i fenomeni eccezionali possono capitare\" Tgcom24",
+          "pubDate": "Tue, 21 Jul 2026 05:30:00 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Un razzo di Space X sta per schiantarsi sulla Luna ma potrebbe essere una buona notizia - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVFctT1hZcFhpaE9aNHRLcDNmRmFuMUJjZC1WNlQ4WXVVRnF5NFFpV1RuekFkZmdWSEZZMjk3QThvcHlyNHNTLTR4ZVFxaHhlZjI0TjJSTXJmRVZiVmlkRFNYYjZMLWxaM3RRa3p2R0JraElXalNQY0dKTkp5bHBURHQxbVgtR1hVVTg3cFZQWWlqanJD0gFoQVVfeXFMUFA3SElISzROeEstNnBFN29tckRmVmdaWnFVNGgtaUNKNThDT1lZM3d6ZE1rclpONjZfM2xXTDdSYUZuOXVQaTB2U1IxVkpMOEpZOXk3TkpnMFlIQzU1REh3RVBNcTlhSEU?oc=5",
+          "description": "Un razzo di Space X sta per schiantarsi sulla Luna ma potrebbe essere una buona notizia Tgcom24",
+          "pubDate": "Wed, 22 Jul 2026 09:51:47 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "rialzo",
+      "n_items": 8,
+      "n_sources": 3,
+      "category": "economia",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Wall Street attende le trimestrali dei big tecnologici mentre il petrolio continua a salire: Dow Jones, S&P, Nasdaq, Futures - Yahoo Finanza",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhZWGlwUVhDazk1U211dFFtRlZiUmJva3V6TmhZQlNlWTF3X0FfZG0zU21WdzBJdGl4VllfV0wyNHFnaWJRSHNPY0lRSGd1RUdtVVJZNmpBSGlDOF91SENORlZBYUpZQjBkaGlYMWR1ZDcxRXhnSEdlM1RCRDdJOHBVVlBTT2NOd3p0S3FWSQ?oc=5",
+          "description": "Wall Street attende le trimestrali dei big tecnologici mentre il petrolio continua a salire: Dow Jones, S&P, Nasdaq, Futures Yahoo Finanza La diretta da Wall Street | Borse Usa chiudono contrastate: Nasdaq -0,57%, S&P 500 -0,13% e Dow Jones +0,09% Milano Finanza Chiusura al rialzo a Wall Street Borsa Italiana Listini Usa proseguono con poca enfasi in attesa delle big tech ANSA Wall Street: apre in",
+          "pubDate": "Wed, 22 Jul 2026 10:07:19 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Chiusura positiva per le Borse europee con focus su petrolio e trimestrali - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSmdjQXJ4U2dkT25HUm5lVHJaeVF5ZFM0RUg0ZVpqMmN0RmJuOGpJSVlZZzlFZC1NNFhpa01VLWxOejFvYnNtcGZWODA1TlBrOE4tT0hfM2tWMEo4bjNZQ2FtQ0tIMlk5R29mOXRjNWRQcFRNWGR4ODVjQnJXSkJNSUI2THJ2WnlFeU9DQ3JNN05jemRNcXlNcEwwc1d3UUJYRHFBLXR2UnNTd3RBVzZrQlVhcTR3a2o0RTNpVVIwOHpGSmtvekQxRE5adDN0WGF0MEdHX2J0SGpEVUd0MFlfV3VzZXlUTUp2RTIyendzSU9NS3hneGxnVWJSSEUzQQ?oc=5",
+          "description": "Chiusura positiva per le Borse europee con focus su petrolio e trimestrali Borsa Italiana Borse europee in rialzo con focus su petrolio e trimestrali in attesa di big tech Borsa Italiana Borsa: Milano chiude in rialzo dello 0,97% ANSA Le Borse europee avanzano mentre il rallentamento dell’inflazione nel Regno Unito attenua le preoccupazioni geopolitiche: DAX, CAC, FTSE100 Yahoo Finanza Borse ottim",
+          "pubDate": "Wed, 22 Jul 2026 16:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Europa cauta con Piazza Affari in leggero rialzo - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLUlhbzczUHF5Sk1xMWRhYjhMOFROTU1PQUpBQS1vTEhMblc1YzhwMTRlc3c0WlJvLWUxZzZRbWFISVpiRUZtdEZOaW02YWI4eEFnUk5Ia3JmS3drMGRaZVdxNlVYTVp4X3luUzR0emtGM2xHM1FRNExVLXVJM1l4c3FIZEEtNjBzZDFBMzcxTkFHZWpvV2s0d0tBODVyU0tfZGoxejNmWGR3Rk9iYjA4dVFDYUxPY2ZhdWhTX3pvdmJrUzdEcDlJMXNUaFRyMGtGTU1RWW5WMDdhVDg?oc=5",
+          "description": "Europa cauta con Piazza Affari in leggero rialzo Borsa Italiana Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Wed, 22 Jul 2026 07:30:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: Milano chiude in rialzo con l'Europa, corre Inwit",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/borsa-milano-chiude-in-rialzo-con-leuropa-corre-inwit_56fda49f-b1e7-4579-83dc-2142e4332868.html",
+          "description": "In fondo Prysmian e Banco Bpm. Lo spread tra Btp e Bund stabile a 82 punti",
+          "pubDate": "Wed, 22 Jul 2026 18:08:28 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: l'Europa chiude in rialzo con l'Ia, lente su Medio Oriente",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/borsa-leuropa-chiude-in-rialzo-con-lia-lente-su-medio-oriente_d250acd2-c4ac-4cce-b2ed-b27d56488999.html",
+          "description": "Londra (+1,24%), Parigi (+0,89%) e Francoforte (+0,58%)",
+          "pubDate": "Wed, 22 Jul 2026 17:57:41 +0200"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "chiude",
+      "n_items": 7,
+      "n_sources": 3,
+      "category": "economia",
+      "score": 27,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Chiusura positiva per le Borse europee con focus su petrolio e trimestrali - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSmdjQXJ4U2dkT25HUm5lVHJaeVF5ZFM0RUg0ZVpqMmN0RmJuOGpJSVlZZzlFZC1NNFhpa01VLWxOejFvYnNtcGZWODA1TlBrOE4tT0hfM2tWMEo4bjNZQ2FtQ0tIMlk5R29mOXRjNWRQcFRNWGR4ODVjQnJXSkJNSUI2THJ2WnlFeU9DQ3JNN05jemRNcXlNcEwwc1d3UUJYRHFBLXR2UnNTd3RBVzZrQlVhcTR3a2o0RTNpVVIwOHpGSmtvekQxRE5adDN0WGF0MEdHX2J0SGpEVUd0MFlfV3VzZXlUTUp2RTIyendzSU9NS3hneGxnVWJSSEUzQQ?oc=5",
+          "description": "Chiusura positiva per le Borse europee con focus su petrolio e trimestrali Borsa Italiana Borse europee in rialzo con focus su petrolio e trimestrali in attesa di big tech Borsa Italiana Borsa: Milano chiude in rialzo dello 0,97% ANSA Le Borse europee avanzano mentre il rallentamento dell’inflazione nel Regno Unito attenua le preoccupazioni geopolitiche: DAX, CAC, FTSE100 Yahoo Finanza Borse ottim",
+          "pubDate": "Wed, 22 Jul 2026 16:02:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Il prezzo del gas chiude oltre i 60 euro, ai massimi da marzo scorso",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/il-prezzo-del-gas-chiude-oltre-i-60-euro-ai-massimi-da-marzo-scorso_37563033-52ed-4863-8ac9-3e077da0e351.html",
+          "description": "Ad Amsterdam le quotazioni sono in crescita del 4,7%",
+          "pubDate": "Wed, 22 Jul 2026 18:45:25 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: Milano chiude in rialzo con l'Europa, corre Inwit",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/borsa-milano-chiude-in-rialzo-con-leuropa-corre-inwit_56fda49f-b1e7-4579-83dc-2142e4332868.html",
+          "description": "In fondo Prysmian e Banco Bpm. Lo spread tra Btp e Bund stabile a 82 punti",
+          "pubDate": "Wed, 22 Jul 2026 18:08:28 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Lo spread tra Btp e Bund chiude stabile a 82 punti",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/lo-spread-tra-btp-e-bund-chiude-stabile-a-82-punti_420b1ea3-53a6-4ffa-ac24-9d2c2a265f32.html",
+          "description": "Il rendimento del decennale italiano sale al 3,99%",
+          "pubDate": "Wed, 22 Jul 2026 18:07:17 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: l'Europa chiude in rialzo con l'Ia, lente su Medio Oriente",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/22/borsa-leuropa-chiude-in-rialzo-con-lia-lente-su-medio-oriente_d250acd2-c4ac-4cce-b2ed-b27d56488999.html",
+          "description": "Londra (+1,24%), Parigi (+0,89%) e Francoforte (+0,58%)",
+          "pubDate": "Wed, 22 Jul 2026 17:57:41 +0200"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "petroliere",
+      "n_items": 5,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "score": 26,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Iran, Trump: \"Non pronti ad accordo, colpiremo duro\". Super bombardieri in allerta - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nRjFfSUFhN0tiNmJHYm9VZkRFb0ZINW9ZMVpCRWpydmFZTWs0Yy1ic051M3pwWFAxTGxtU1JZZzBhbEE4a3RncjVLY3ZXLWtBTHNUYXBJWTc4SlY3Zmlfc2JVUmdsSHMxTmtuc2JCaF85aG9FQmk0WGhRVQ?oc=5",
+          "description": "Guerra Iran, Trump: \"Non pronti ad accordo, colpiremo duro\". Super bombardieri in allerta Sky TG24 Nuova ondata di attacchi USA all'Iran, la promessa di Araghchi: \"Occhio per occhio\" - Gli Houthi: \"Attaccate due petroliere saudite nel Mar Rosso\" RaiNews Media, 'missili Usa colpiscono città iraniana al confine iracheno' ANSA 5 euro - Fiumi e uccelli / Montagna in primavera Il Sole 24 ORE Teheran, '",
+          "pubDate": "Wed, 22 Jul 2026 21:49:40 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Houthi, 'attaccate due petroliere saudite che hanno violato il blocco navale' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNEpaakdFMmpxMnFfbk1UV0VDdVp2YzRQUk1meGZmbm5rOTlqQmxvRlh3SWt4a2t4NV9kWTdkV2RtT0ZQTDdRZ0RUdkdPb3FCQ1RJMTFZeC1ZN0NhQlNWcEFQWEFnYUFhVlRvZ2pyOE5VTFExVTZLS0hId1F0Yzl6ZXhIcTVJamRIak41cjM4UkEtZnZKUVZ6Mjd0c2xhRjdWNXFBaVlpZDlvamtRZHM2RDdJM0Eybm5uTHhmRlMtdkZZMTUzQlNxTUpqREM2U0lrSlJiZE9ueTJRTEtfQkdlU1l4bDBpWVJSRVdXOElVNmpKekZwcHM5SmZ1Smo?oc=5",
+          "description": "Houthi, 'attaccate due petroliere saudite che hanno violato il blocco navale' ANSA Gli Houthi rialzano la testa, scommettono sull'Iran sfidando Riad ANSA Attaccate dagli Houthi due petroliere saudite che hanno violato il blocco navale la Repubblica Bab el-Mandeb, la seconda trappola ISPI Si rischia il blocco di un altro stretto: quello di Bab el Mandeb Il Post",
+          "pubDate": "Wed, 22 Jul 2026 22:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Nuova ondata di attacchi USA all'Iran, la promessa di Araghchi: \"Occhio per occhio\" - Gli Houthi: \"Attaccate due petroliere saudite nel Mar Rosso\" - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPRENqOVhRRU1MUXBiQ2NxME8tT2RTbkpUSDhCcWFqVUl3cUxuQnF2eDlSVUloTUhUREZpRVhiUkc1bzRHZTJJRXRlbm1kYTF6ZlhReUlmVXo3QURTZEJGTnpMalRQVEtBbVZOZlNHdmh4YXB2T25Eb2pDSkR6aGwxV3pkU3RweTA2elFBTlE3ZWlob3RJYWJKdVVNSEp0YXphbGJBT09QMU9obzctV3RETU1aRW1IWEhrQWpfLXRuZTJ1ZkFpU0ZhTnNnV2lVLTlXS3VLb1pnc0RpMzUxUHlfdHBXUEtaZkRPNWwzNk5LYVhyUXY0d3dwWVhJZjAxQzl3V2QyYVJYMG1xc1luNjkyRjJaMDNKLWtQUFZBR3h1RXpPMFgtaU5J0gGsAkFVX3lxTFBscUk1NklxV0pqU1Nkd3pwU2ZjeUNYaUxSWkF3ZTMyRG1KcGI3b1owZkRad1M0VTdXeGpxSTRHWkZNUElQTjVGMEhrb1M0VlhERTZ6RzJ6aFAtUWlGUWtLajFmY1dwSHp0ajlNRXNvUTVEMkl5R3c4UDQ5YWRIekRvNVYxXzB1ZzRHZ1QzM3ZhVk9zWVZ6RE41T25vam1pSWpXa05wbkdYcDhTT3JkaDJXS3loOVBPRW55Ymd6bFl3YXl3T1pzd1VvWXZoMGtmOUdTY1JlM25wcHVTV0NlVjVlbzJYX011Qzdwb2tkR2s4MER2bGstWEx1OE5JQkRkU0RHR09pa195SFdHX3JKMWZMY2tLLVpGSmpsXzJJcnRoX1RfV1RxdkZPQXRscA?oc=5",
+          "description": "Nuova ondata di attacchi USA all'Iran, la promessa di Araghchi: \"Occhio per occhio\" - Gli Houthi: \"Attaccate due petroliere saudite nel Mar Rosso\" RaiNews Media, 'missili Usa colpiscono città iraniana al confine iracheno' ANSA Guerra Iran, Trump: \"Non pronti ad accordo, colpiremo duro\". Super bombardieri in allerta Sky TG24 5 euro - Fiumi e uccelli / Montagna in primavera Il Sole 24 ORE Teheran, '",
+          "pubDate": "Thu, 23 Jul 2026 01:03:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Houthi colpiscono le petroliere, nuovi raid Usa sull'Iran",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/22/usa-lanciati-nuovi-attacchi-contro-target-militari-in-iran_6b47e3c9-5f60-4545-8bad-29e6206739ef.html",
+          "description": "Trump fa asse con Riad e lancia la sfida a Russia e Cina",
+          "pubDate": "Thu, 23 Jul 2026 01:49:04 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Houthi, 'attaccate due petroliere saudite che hanno violato il blocco navale'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/23/houthi-attaccate-due-petroliere-saudite-che-hanno-violato-il-blocco-navale_d7eafc61-328c-40bd-a586-76d6255b9510.html",
+          "description": "'Le navi Encelia e Layla prese di mira con missili e droni, vasto incendio su entrambe'",
+          "pubDate": "Thu, 23 Jul 2026 00:03:14 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "caso",
+      "n_items": 5,
+      "n_sources": 5,
+      "category": "general",
+      "score": 25,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Dalla pena \"sproporzionata\" ai risarcimenti: tutte le fake news sul caso Roggero - Il Foglio",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS192bXpzbUdJcHdfU3dPLU1aV1VIclJIeTc3UEJqWVJkajdFSVZLb1MzNGhsVUVOU1UxWlFoR21IVHJSOVRuYURtN3dENWtISEttS3FPbzJzWjREUzllQk5oU09STnVQZDRUN25lQ0lVUUxsQlFhd3UzVno3Z2dobmtSZE1tckVzNDlhSVExUjE0aVpHNUt3ZmhMUEtHS1IyVHpEbjBhd1FOY2pSN2twSENQOWVmRVY0V3R4Sk5TWi1EZjBCaVo4X0hSWjFjVWhk?oc=5",
+          "description": "Dalla pena \"sproporzionata\" ai risarcimenti: tutte le fake news sul caso Roggero Il Foglio Roggero, l'Ufficio di sorveglianza di Torino respinge l'istanza di scarcerazione RaiNews I riflettori del carcere su un solo (nuovo) detenuto. E gli altri 65mila? Avvenire Niente sospensione della pena per Roggero, resta in carcere ANSA Mario Roggero resta in carcere: respinta la richiesta di differimento de",
+          "pubDate": "Wed, 22 Jul 2026 04:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Caso Rupnik, Vaticano: «Infondate» le notizie sull'assoluzione - Avvenire",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaE4zTGZ5M2x6MEJONXFTbVd6bnVfOGZLU2pmeHItRnlGX0VEQWdzbUN4SEZmcUw4UThNeC1fUnNnY3B1WDB3bmVmdFAzRUFhM3g2ZGprUnEtUGR1SjktX0dtQV9zR3gxOThzNjlBSVg4cmdvZ01XYzhSenpRYlFtYjA3b3BsZ0c4S0RJczNadTFjOHVDSnBPZU9mUQ?oc=5",
+          "description": "Caso Rupnik, Vaticano: «Infondate» le notizie sull'assoluzione Avvenire Dichiarazione del direttore della Sala stampa della Santa Sede osservatoreromano.va Bruni: assolutamente infondate le notizie su Rupnik, valutazione ancora in corso Vatican News Il Vaticano: “Infondate le notizie sull’assoluzione di Rupnik, il giudizio è ancora in corso” la Repubblica Abusi, giallo sull’assoluzione di padre Ru",
+          "pubDate": "Wed, 22 Jul 2026 15:26:00 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Caso Finalter, perquisizioni per false fatture",
+          "link": "https://www.ilsole24ore.com/art/caso-finalter-perquisizioni-false-fatture-AJEkacS",
+          "description": "Si ingrossa il caso della Finalter, società di consulenza che avrebbe, secondo la procura di Milano, emesso fatture false senza avere una vera struttura operativa. La sede milanese è stata...",
+          "pubDate": "Wed, 22 Jul 2026 18:03:00 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "West Nile, accertato un caso nel Vicentino - VicenzaToday",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TTTFzZDBUblJsNHA2NllYS0Y3cVJYTkxIaEJabU5OZVB1eV9Hb1BrcFQwSUplUi1wSkMwVnB3cjkyZElPcUJIdWZoUjVHM1VsXzdwa19tM1Qtdm1iNnc4dEo4bFVpSFZoRU44bktGSVRsWTFqRjlFajVaYV9nemM?oc=5",
+          "description": "West Nile, accertato un caso nel Vicentino VicenzaToday West Nile, primo caso del 2026 nel Vicentino: contagio accertato a Lonigo Il Giornale di Vicenza Primo caso di infezione da West Nile nel Vicentino ANSA West Nile, primo caso registrato nel Vicentino: la paziente non aveva fatto viaggi all'estero Il Gazzettino West Nile: caldo e zanzare riaccendono il rischio per anziani e fragili Mondosanità",
+          "pubDate": "Wed, 22 Jul 2026 12:27:51 GMT"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Chat Delmastro-Caroccia, 'frasi inopportune ma nulla sui clan' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPLVlzc0djeGlwcUNXcF9HeE1WN2RDQ0tNaWJ2Nkk2MERIZzFodnoxOVJpNFoyUVVVNjdud0phTnhRQ0VkUUxWVm4ydXNTSzhEcmlUMW1IQ19hTDVvTnd4NnFkTHVlN3B4M2ZPbU9RQjNpeC1wcWxPWnctTTUyRERnOEdFeC13cDQ4cTVweEpkdmkyNWtTdHdlMUpYSHlLVWpRbEN0NFJ0MkdUemI5MUIzY2VvbktJNkVYTU5IeEJWb3V2QWdxZWtrWDFYWUE1ci1Hb1B2aktCcm1zWFZnaXNuTkZCMXExbXpR0gHuAUFVX3lxTE1zU00zMDdTNkJsR2pJSEhyekRxUVIwbGVQZjR0aXJvVlBpMzlYdjBlOWphU3k1emE3VnRWMFNyRnhKWXJ2MXVkVGZjQkU0dlY0RFlHdW1mUDlDa2ZWeVhzYzdvM3ZiT2xIMHdxNWI5aVlpOV9hclVfcXFtNGNiZXlFeXBSeS04ZG1aQkFDeVpMZTlsbjZRUGFIeHRBcklKNEFnUGNDMmtPSkJkdFJJNkFjbXB2UExTQmV2cDFpb2Z6WnJJZ0JqS0dDVkE0Qi1jTnJ0Q0xYSlZDNWxGQzlWSG1BTE9MQjhERi1BLXVpa3c?oc=5",
+          "description": "Chat Delmastro-Caroccia, 'frasi inopportune ma nulla sui clan' ANSA Donzelli: “Su Delmastro niente da nascondere, è solo accanimento. Vannacci? Non è lui la destra” la Repubblica La Procura vuol ricorrere alla Corte Costituzionale Il Fatto Quotidiano Delmastro, no della Giunta alla richiesta dei pm di acquisire le chat. M5s occupa i banchi del governo Il Sole 24 ORE Roggero, Bologna e caso Delmast",
+          "pubDate": "Wed, 22 Jul 2026 18:27:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    }
+  ]
+}

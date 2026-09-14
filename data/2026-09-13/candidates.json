@@ -1,0 +1,719 @@
+{
+  "date": "2026-09-13",
+  "top_topics": [
+    {
+      "keyword": "houthi arabia saudita attacchi",
+      "label": "Houthi attaccano infrastrutture petrolifere saudite con droni e missili",
+      "n_items": 9,
+      "n_sources": 7,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 4,
+      "score": 79,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Iran, Houthi attaccano il sud dell’Arabia Saudita. Smentito contatto con gli Usa - tg24.sky.it",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ja1BORHlYcmdhaTFyLWdtUG9TSWRrenNiV052aVl2YjJYemR6b01SdUZUZHJjNGpwSy02VHdrUkt1RGxCamE4TG5Rc19XYVhnZWM5WVNGUTRLeVRBajVITHhmTWlXc1F5OVZFdU56ZzVSRWZ4VGdSeGFXSQ?oc=5",
+          "description": "Iran, Houthi attaccano il sud dell’Arabia Saudita. Smentito contatto con gli Usa tg24.sky.it Attacco Houthi in Arabia Saudita: presi di mira depositi d'armi e base militare a Sharurah - Teheran: \"Colpita nostra nave a Hengam,1 morto e 3 feriti\" RaiNews Iran, Houthi avanti in Yemen. Colpita una base in Arabia Saudita. LIVE tg24.sky.it Yemen, continua l'avanzata Houthi. Crisi dei profughi: «Un'apoca",
+          "pubDate": "Sun, 13 Sep 2026 05:08:10 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Houthi, 'colpita una base militare saudita con missili balistici e droni' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZGMtQ09HS1dCOVpSWWlLTEFzUVMzbUxnREhaejZySEY0X1J0U1owUWttLWhkX2VaYjBzNTJWT20zckY5YVNJMmNqSXlKTnVhNkE0M3hvWE5zbXFwQUJ2NGVKUEFwNDBXcUNmQktWUVB4THlfcUt6WkhENU1GOGppWVlaeWp0dFEyZUxqU3pnbDB0a3Z6d1NwWEtFNTl5WU82Q1JuV244eWFMYUUyX0tqRzhvdFZEeWlnMXg1dXJKaWltZWtZNUFpS280Qk55WWFNUHlsNkhUb1pheFA1QTFXdkVUZzRoVFJaNWhvQi1hUjVZa0hSWmxz?oc=5",
+          "description": "Houthi, 'colpita una base militare saudita con missili balistici e droni' ANSA Attacco Houthi in Arabia Saudita: presi di mira depositi d'armi e base militare a Sharurah - Teheran: \"Colpita nostra nave a Hengam,1 morto e 3 feriti\" RaiNews Guerra Iran, Houthi avanzano in Yemen. Colpita una base militare in Arabia Saudita. LIVE tg24.sky.it Yemen, continua l'avanzata Houthi. Crisi dei profughi: «Un'a",
+          "pubDate": "Sat, 12 Sep 2026 22:19:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "L'Arabia Saudita: \"Oleodotto Est-Ovest colpito da droni provenienti dall'Iraq\" | Pezeshkian: \"Non ci piegheremo agli Usa\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNHE4anlzcGc5aF9MOENmeWJWSlZnMW1KNGoxOEhMSUxjdEpQQ2VIdk42OWNwM1J4X0JOOWlUbXctbUZ3ZjJDS3pET0RLLTNobjRVNS1fSUhLM0xCTUxQNTlKblBQMnppbWxlaUh5TFBxazNpbHd0MGVsNVpoQkl1NEowendIY3QwS3p3a2NNaTZVYl8wYjVrQmVhZXZwZTlWRm00V0ZpZ2hPaUItSEdRd0wzdjViY1JoQnc?oc=5",
+          "description": "L'Arabia Saudita: \"Oleodotto Est-Ovest colpito da droni provenienti dall'Iraq\" | Pezeshkian: \"Non ci piegheremo agli Usa\" Tgcom24 L'Arabia Saudita nell'angolo «abbandonata» da Trump: tutte le fragilità del regno che per mezzo secolo ha garantito stabilità al mercato del petrolio Corriere della Sera Chiuso l'oleodotto chiave, Riad nella morsa delle milizie filo-iraniane ANSA Trump: \"L'Iran dietro l",
+          "pubDate": "Sat, 12 Sep 2026 21:10:25 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Iraq seizes drone-launching platform used for targeting Saudi oil pipeline - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSnBidlRhOC02Y0Nja3gwRGVsak14Q0FvVm1MSUNDaTJlUkR2MVdDQi1UYnBBUkZqLXlWTGxiRGQyTlRrbklxcDB6Vno1d2VNdVd5SE1uckRkZllQTWt2V19Ub1pvN2ZLQmxuV3J6SXc3RTdzT3h6TDg2OWh2aEhIeVQyc0o4U1JpUTFrVVl0b1JlajdTcm5fQThRSlJjdVNDX3lLVkhOWGpjNWhMRjJlSW9QRWVad9IBuwFBVV95cUxOamctS0hMdVZQMDh2Tk1HRjEtbG9hUldhN2s5eUtmLTFYOWdnb1JJVTBGTXRKbDlnSnBiSXpSUHdUWldkanRVWDhpNU02ZmFrTzY0eUg0R3I5LWcybDRXcE1BTzUxSmt3Z2NfV0JTSEFteDdTLTZvOUVtWUJKejVVS19md3YyRGhfbXQtRjRRMzB5QWlXQ1BYMUFfNnZ5b1ZURDhmYnRJZWJaWkpaZFZGbzgtZ2RUdUdCRmtJ?oc=5",
+          "description": "Iraq seizes drone-launching platform used for targeting Saudi oil pipeline Al Jazeera Saudi Arabia has few options as it faces mounting threats from Iran and its allies AP News World in Brief: Saudi Arabia shuts East-West pipeline; Anthropic’s boss issues a warning The Economist Trump says Iran likely responsible for attack that shut vital Saudi oil pipeline CNN Iraq probes drone strikes on Saudi ",
+          "pubDate": "Sun, 13 Sep 2026 02:40:22 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Houthi, 'colpita una base militare saudita con missili balistici e droni'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/13/houthi-colpita-una-base-militare-saudita-con-missili-balistici-e-droni_71ed5ae4-5a31-4905-acc2-7d81e6d514a6.html",
+          "description": "'Gli attacchi sono stati precisi e diretti'",
+          "pubDate": "Sun, 13 Sep 2026 00:21:01 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Chiuso l'oleodotto chiave, Riad nella morsa delle milizie filo-iraniane",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/12/larabia-saudita-chiude-loleodotto-chiave-colpito-da-droni-provenienti-dalliraq_246a5129-7cd7-47e8-bb62-f1d689aa63bb.html",
+          "description": "Droni dall'Iraq. Trump: 'Gli houthi ci hanno chiesto di non intervenire'. Ma loro negano",
+          "pubDate": "Sun, 13 Sep 2026 08:45:28 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+          "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+          "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+          "pubDate": "Sat, 12 Sep 2026 12:15:50 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Prezzo del petrolio: più rischi di rialzo. Hormuz e \"porta\" del Mar Rosso, cosa succede - La Gazzetta dello Sport",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNXp1VEVIQ2tFQlVzc24yd21DMHhKZjczVmQtTlBJeWthMGt4czQ0YTJNNXROM3gtUzBOWjFYcXF1V0ZuUmNxa1VMb3dXMHJkSkM2X3JzcEotUGRla010eXNzTmRMSzJfenNNMmtvRXVCMUxSU2tXdGJZUlZCNk9fQnF0eEJBc3BFamdaN0o5aFJ4ZUlGTzNPSl84U1ZBU3BSQ2E0OHpRZHZYYUdocU9ON1V0aS1RbmVaTUlMbkpEUXVkVXVRdXlqMWNtaVfSAdIBQVVfeXFMTjhtRVZSRWN2c1lSRERGLU12Z2g3Q1BZV3N2Rm5Kck1XaHFQb0J6bktWWUZPSGlKM3V4ZFFFeWJsU0gwQzh2VGxqQmpwb0ZzWDVwTFF2M2V2dWdlWXZJNFdWRUdvdzhVX2tQZjg4UUxsbUVqaklxblpzSnQ5V3VyTjMyN2kwSFdwR051dUpBMV9jV28wY3lYNWdNSWhYVEZGTzRvRGFWenVubm8tOUZhVFNza0VwOG13WThTT2lqb2pxUllBUFVVSHI3TnVRcEV4dHNB?oc=5",
+          "description": "Prezzo del petrolio: più rischi di rialzo. Hormuz e \"porta\" del Mar Rosso, cosa succede La Gazzetta dello Sport Gli Houthi a Bab el-Mandeb, vola il greggio. Ecco perché il conto più salato è per Riad la Repubblica Borse in diretta, prezzo del petrolio dell'11 settembre | Asia in rosso con timori inflazione, Brent a 106 dollari Corriere della Sera Il petrollio è in calo a New York a 98,73 dollari A",
+          "pubDate": "Sat, 12 Sep 2026 10:53:52 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "anthropic ia rallentare sviluppo",
+      "label": "Anthropic chiede di rallentare sviluppo IA per evitare rischi catastrofici",
+      "n_items": 8,
+      "n_sources": 7,
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 4,
+      "score": 72,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IMkFTZ25QYzR0R0V3UnUteU9DTl9KZzRRd0ZKMjhYS0tqVUFDYjlLaFYtSW45eVpjeGg3Q0EybnlKQ1JLUWZiQ25DTVBYUjJlVEhGeVQtR1JuQQ?oc=5",
+          "description": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC BBC We Must Pace the Frontier darioamodei.com Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears WSJ One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’ WIRED Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown nytimes.com",
+          "pubDate": "Sun, 13 Sep 2026 07:06:41 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Anthropic: 'Senza misure di sicurezza l'IA potrebbe controllare Internet in 6-12 mesi'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/13/anthropic-senza-misure-di-sicurezza-lia-potrebbe-controllare-internet-in-6-12-mesi_3334a155-424f-4620-987f-e26b24d0c667.html",
+          "description": "Amodei: \"Non credo di aver compreso appieno il significato di un progresso così rapido\"",
+          "pubDate": "Sun, 13 Sep 2026 08:19:22 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Musk e Altman, 'Anthropic ha ragione su rallentamento sviluppo IA'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/12/musk-e-altman-anthropic-ha-ragione-su-rallentamento-sviluppo-ia_2b7a4876-6887-46b4-b049-89929f19278a.html",
+          "description": "'Gestire i ritmi di sviluppo delle tecnologie di frontiera'",
+          "pubDate": "Sat, 12 Sep 2026 19:37:21 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+          "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+          "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+          "pubDate": "Sat, 12 Sep 2026 21:16:47 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Dario Amodei di Anthropic: rallentare lo sviluppo dell’AI per evitare rischi catastrofici - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMW9uWFhTOEZEUHpyQlZLNzRrendRSU9Ta2xfN1VwQzhlYjlEd2lBekxvX1NrRWtxU2kyZWIzLTRxRzlmTEN6R3hCSVhuZXFUS2ZDYjRnY2ZtcGZLRmFlZ0JFYmVXSzltbkNHNlVST3NPTHlpb0ljUXc1Y3ZYOEZKNm9uZ3J5ODN4cEUtWlQ4aEdQblhZMVVjdlp5cTFJLURTcGdjMDl4aF9MTEla?oc=5",
+          "description": "Dario Amodei di Anthropic: rallentare lo sviluppo dell’AI per evitare rischi catastrofici Il Sole 24 ORE «Dobbiamo rallentare il ritmo di sviluppo dei modelli di Ai». I dubbi di Anthropic (dopo OpenAi) nel lungo post di Amodei Corriere della Sera Ricercatore di OpenAI sulla sicurezza stima il rischio di estinzione umana al 70% entro 3 anni Yahoo Finanza Amodei di Anthropic: \"L'AI sta correndo trop",
+          "pubDate": "Sun, 13 Sep 2026 07:18:45 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "«Dobbiamo rallentare il ritmo di sviluppo dei modelli di Ai». I dubbi di Anthropic (dopo OpenAi) nel lungo post di Amodei - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNMzBubFdhdGhXSkFCU01MLTZrZkE5M1BNNFM2Y05XN3BoX0puTmo0eGFiOUFUMFE0Vlo5a1R1WjlFRm4yZlkwYjhMNm5wcF9KTi1vNGFBTE1FQ3dPUEdqZVRsak9ySXVXS3JOMVlNZGRxUkVPMkl0TTcxOU5TbGZWSF83eWhiTXNObzRuRko1dlpQYnNWMElZNzdDRURaTEgxdWhfYjF5cEhEckhmS2VTZVJ3SFB3aGZQNlZWVVp1UzlVMi14dHRXQzJWM0owVzFpU1B0LWhLR0dZaUNTS1FiR3dGaDlzY0VRSWhncVdjS2R6UFZ1OVFxXzBCVEVlSU5NU1Foa1duaW85Q1V0QzJjWXFsMGo3NE1HY3lSTUVoRXZrQdIBpwJBVV95cUxNMkxVVGZYWmdmNnVfQnFEV1FtWjdYaEVkQUNwakJicTVTOHpkVXo3QUZaWHpyREU4QWNQQmN5Unp0NGREVWdSVndCUUJrRWYxMDRNT21feHBIMWJEaXRKeE53ZW5NaTBUaTJpb05XcjQ1RmFra3dTNHc2ZUVEdEZadUY5LUQ3UWtYcnN6MkdlYnhFbU1oN21vRmdxeG9tXzlseUc5dFJ0cTcweEJ6aWw4M3JjNEt3R0FEWmFzQVJHYk1xdlAzZDNENkw2R1FMcmYxT1JHeWZDTlBoZWpmN1JudHFwREZ1d0JBZXhSUXBoQ2hrMlNXMUFzS0tnc3JHUlNqZWNxZWhXa0wzY2dyT3FZMzdsR05IMkRQWnEzVXhZN01saFJ2UHQ0?oc=5",
+          "description": "«Dobbiamo rallentare il ritmo di sviluppo dei modelli di Ai». I dubbi di Anthropic (dopo OpenAi) nel lungo post di Amodei Corriere della Sera",
+          "pubDate": "Sat, 12 Sep 2026 17:53:23 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'IA può portare all'estinzione, l'allerta di decine di ricercatori",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/-lia-puo-portare-allestinzione-lallerta-di-decine-di-ricercatori-_f2907c59-c053-4af7-b511-410cbb0bc59b.html",
+          "description": "Tra i firmatari gli ad di OpenAI e Google Deepmind, ci sono anche italiani tra cui l'esperto di tecnologie dell'informazione Luca Simoncini",
+          "pubDate": "Tue, 30 May 2023 17:55:51 +0200"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'allarme dei big, 'rischio estinzione con l'IA, è come le pandemie'",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/lallarme-dei-big-rischio-estinzione-con-ia-e-come-pandemie_3afde5e5-7bcf-464e-b3aa-aee6577a9b23.html",
+          "description": "Nyt riporta lettera di 350 leader industria, anche ceo OpenAI",
+          "pubDate": "Tue, 30 May 2023 14:12:41 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "zelensky putin g20 miami",
+      "label": "Zelensky propone incontro con Putin al G20 di Miami a dicembre",
+      "n_items": 7,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 4,
+      "score": 44,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Zelensky invita Putin al G20. Il Cremlino replica: «Venga a Mosca». Le mosse Usa in vista del vertice di Miami - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNQTg3N2FtM2pHRk9VbnE2bkZLS0VCZFJpRnltVFhkeVdISHk0Z3p1b3A0SEZGekhOMENJUHRXY25XXzY3VHp6LWFmYlpRbTJRSWFXRkhBSnBvLUowNnNYUS1Ydm15UmtTQWc4dVRjcThldEUzZlVTZ0VnZi15S1ktV1RTMUFWT2Z6N21La2c4Nzh4dk9LRllaNy1aRklZX1hpTW9GTDZaaTJzZkZ2bi0xcjduMjZOUjRPVUdlVGhLendjb3VHeVhQM0R4MzFrTXRvbjZZVDhJa2I2NXF1ZW9paXgxTFZwRnJwaTYzWTlvcU5VcHBURWJLMHdMSHJCUUlabUlQRHZqZGw5Wm9mSDdBeHF4djV2RkNZQ1A3MFJaWnfSAaYCQVVfeXFMTVk5bVN6ZUVKSW1TZmphT2dTajlBT1d6cXJ3WDRxWFBzVVE4NDJyVnFVb0ZqQjNtX3Z1MGVNbUo4RjNDckNSeUFzN2NYeWZjTHhBZmkwN1RZSmJ5RVYyRmxmYlEzSDJqMFQ1bmh5dzRXMklsX2JncmVrMlgzc0ZBSkhtd3JMRHYyWWVqTVoyY2RrOHNHYk4tdjNkaUNKVWpWS3hWVmk4OURlQ3lvVHlKZ3N6TjNZMjhPNmVSVWFEU3hiWVBUUDc1UGdVVDdzUzhlUUlfT1N5RHlURTNBYmotWklQd3Rac3lFcXNBYzZSUnNxZXRWeWhkQkdja1BTRWszRnlidVdTcUstODlVNnJmWm9oNHBvMDFPaUFkd05KdFkyUk9LYmVB?oc=5",
+          "description": "Zelensky invita Putin al G20. Il Cremlino replica: «Venga a Mosca». Le mosse Usa in vista del vertice di Miami Corriere della Sera Mi telefoni o no? Il Fatto Quotidiano Guerra Ucraina Russia, Zelensky invita Putin al G20. Cremlino: \"Venga a Mosca\". LIVE tg24.sky.it Ucraina sotto attacco, bombardamenti a Kramatorsk e Kryvyj Rih, Zelensky: summit a Miami, Putin: no - Kushner, accordo vicino se Kiev ",
+          "pubDate": "Sat, 12 Sep 2026 20:37:45 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Ucraina-Russia, le notizie in diretta | Zelensky propone di incontrare Putin al G20 di Miami a dicembre. Il Cremlino: «Impossibile, se vuole venga a Mosca». Kushner: accordo vicino se Kiev accettasse di cedere i territori chiesti da Putin - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQOWVDNk42UVc4M2MyaHpUNWpPVmlYcEtHWTFSX3lCX0oyaW9PQWhjM0pyZDBocnhmREdxb0VkZkJlcXh0Wld5bUhIcXB6RTROWGg4YW80Umx5RG5qVUE4eVl1TWkxVlkyWW11d2ZLejJHeGpBeVhGd29Nak1YVlRwNGw3cTY1eEFFNXdPSFhLNGgtZFdTeTIxcVNsSHdLRGJQZ0g4c0xwU2JuVGphb21IanVNUTkwNUJfOUtfNzFZVnVPWHZnWkNSZjJ6MzI1aDhUclRhaHBWWTZyUDlZYkdrMVAzZURtVWxMRE5LVUE5ZXJzNTVud0dTTlJxNi04NEJtbXk3YmE0a2lDQ3hrT1VJU0pVQdIBmAJBVV95cUxQWGZObDlvZVdWY0JZZURESGpvUDNQb3F5QjhwbFB1WkF0ZHdSdkdXSF84Q0tPdGlXMk1ONG0yTWh4ZnZkNmFuYi1kQl9TZlBneGZXdm0tZEU1ay0wQ0VYRnp3SHBlNS1kLXpWTUZfenlJQlR3QUZKZEJpaERtUnpzTm1oN3IzcEtnY1d0d3RUNzNsWlFBdmtQbHUtWmJfRk1NNVU1TXZwLVdpOFRVX0VxenEtdG5iOXQ3TWxXeTdaajRLTklGdWxUZzRBT1Q3NVlySzdJZ19hVjdtODVMUTZBNDdUX1pzd2wzTGI5YUJfN2trb1RpWlJPc1RRTFU2SDRyOXM1c3NkWVBxWFBEZm9wVDF2MVI1Zjkw?oc=5",
+          "description": "Guerra Ucraina-Russia, le notizie in diretta | Zelensky propone di incontrare Putin al G20 di Miami a dicembre. Il Cremlino: «Impossibile, se vuole venga a Mosca». Kushner: accordo vicino se Kiev accettasse di cedere i territori chiesti da Putin Corriere della Sera Zelensky invita Putin al G20. Il Cremlino replica: «Venga a Mosca». Le mosse Usa in vista del vertice di Miami Corriere della Sera Mi ",
+          "pubDate": "Sun, 13 Sep 2026 05:58:33 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Ucraina - Russia, le news di oggi. Kushner: accordo vicino se Kiev accettasse di cedere i territori chiesti da Putin - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM1d0MFhyUjMyN2hhQWJzNVcxVkMzX0VaUDc0TTI4SmVYYTVQZkhnLW16Q1FldFhaLXlHWllieUNQaEUzTWhIZzJrRktMR3hzX1dQb2p4em5vcmZxRlVkVHZTdGlmOGZVY0lvVjdiZVhGVDFJYTg0YXl3cVRyZmJMSzREV0ZJb3JNTDlRa3pSajU1UU5wMlJXdGln?oc=5",
+          "description": "Guerra Ucraina - Russia, le news di oggi. Kushner: accordo vicino se Kiev accettasse di cedere i territori chiesti da Putin la Repubblica Ucraina: a Kiev colloqui consiglieri sicurezza di Italia, Uk Germania e Francia Il Sole 24 ORE Putin al telefono con Trump. Su Kiev tornano i missili. Zelensky: ora un vertice a tre la Repubblica Russia-Ucraina, Kushner: \"Già un accordo se Kiev accettasse di ced",
+          "pubDate": "Sun, 13 Sep 2026 05:51:57 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Zelensky: 'Servono 120 missili Patriot al mese per affrontare l'inverno' - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS0F6RmhJbnVxNjhIcGFTT3Y0OVgzNXlkU3BWSncxMG9udjE4cWVYOXdsZnRJcVJ4TWlfVHE4dF9wRDdZcmxVbzFiMXV4NnZvdlRIVXF4SmVxZ1JFX1VfNi1oVnVoZUxuSnluNUZ2cmUyWHR3dGdreGxvekxuX3hjT2o2cm1SaW1SU2JYVWZ1YXhyaFpSaUE0SmV0R0dnRVh4MXdN?oc=5",
+          "description": "Zelensky: 'Servono 120 missili Patriot al mese per affrontare l'inverno' Il Fatto Quotidiano Aiuti all’Ucraina, dopo lo sblocco Ue dei Patriot ipotesi Samp T di nuova generazione Il Sole 24 ORE Ucraina, 6,1 miliardi di euro da Commissione UE per difesa: previsto acquisto di Patriot Borsa Italiana Kubilius, 'abbiamo stanziato 6 miliardi per la difesa aerea dell'Ucraina' (2) ANSA Ucraina, l’Ue appro",
+          "pubDate": "Sat, 12 Sep 2026 17:13:37 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Ucraina, Zelensky a Putin: 'Vediamoci al G20 a Miami'. Gelo di Mosca ",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/12/ucraina-zelensky-a-putin-vediamoci-al-g20-a-miami.-gelo-di-moscanbsp_1a9e23a8-4a39-42d1-bcc4-42ab5d6f1b5f.html",
+          "description": "Il Cremlino: 'Impossibile. Se vuole parlarci venga lui in Russia'. Ancora raid e morti",
+          "pubDate": "Sat, 12 Sep 2026 22:38:38 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Cremlino, 'impossibile un incontro tra Putin e Zelensky al G20'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/12/cremlino-impossibile-un-incontro-tra-putin-e-zelensky-al-g20_1fc445c5-7bea-4385-b334-cfa1cefd23d5.html",
+          "description": "Peskov, 'un eventuale incontro potrebbe svolgersi soltanto nella capitale russa'",
+          "pubDate": "Sat, 12 Sep 2026 19:27:59 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Cremlino, 'Zelensky vuole vedere Putin? Venga lui a Mosca'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/12/cremlino-zelensky-vuole-vedere-putin-venga-lui-a-mosca_fc6af7ec-07be-48e5-95b5-865f1b9b2bcc.html",
+          "description": "'L'invito resta valido'",
+          "pubDate": "Sat, 12 Sep 2026 16:49:33 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "ex ilva taranto area caldo",
+      "label": "Ex Ilva Taranto: Corte conferma lo stop all'area a caldo per amianto",
+      "n_items": 5,
+      "n_sources": 3,
+      "category": "energia",
+      "macro_area": "economia",
+      "richness": 4,
+      "score": 31,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-economia",
+          "title": "Ex Ilva, \"fuoriuscita materiale schiumoso verso i canali\"",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/12/ex-ilva-fuoriuscita-materiale-schiumoso-verso-i-canali_8173a464-ec8c-4d9e-bd79-042e434a7a2f.html",
+          "description": "L'attivista Manna di Veraleaks ha allertato Arpa Puglia e Guardia costiera",
+          "pubDate": "Sat, 12 Sep 2026 11:55:55 +0200"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Ex Ilva Taranto: piano governativo a fasi per gestire lo stop all’area a caldo e le ripercussioni occupazionali",
+          "link": "https://www.ilsole24ore.com/art/ex-ilva-taranto-piano-governativo-fasi-gestire-stop-all-area-caldo-e-ripercussioni-occupazionali-AJE5fPBB",
+          "description": "Ora che la Corte d’Appello di Milano ha confermato , con un’ordinanza emessa l’11 settembre, che l’area a caldo dell’ex Ilva di Taranto dovrà fermarsi entro fine ottobre perché...",
+          "pubDate": "Sat, 12 Sep 2026 10:52:32 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Produzione avanti adagio in Lombardia",
+          "link": "https://www.ilsole24ore.com/art/produzione-avanti-adagio-lombardia-AJkJT05",
+          "description": "Avanti adagio, comunque avanti. Nel secondo trimestre l’economia lombarda cresce in termini di produzione industriale dello 0,1% su base congiunturale, sesto progresso consecutivo in un percorso di recupero avviato a...",
+          "pubDate": "Sat, 12 Sep 2026 07:24:00 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Allarme Arvedi Ast: non più sostenibile il costo dell’energia",
+          "link": "https://www.ilsole24ore.com/art/allarme-arvedi-ast-non-piu-sostenibile-costo-dell-energia-AJ7VV5AB",
+          "description": "«Il peso dei costi energetici per Arvedi Ast e per le industrie siderurgiche italiane è diventato insostenibile». Lo denuncia il gruppo del quale fa parte l’acciaieria ternana. «Ci troviamo ad...",
+          "pubDate": "Fri, 11 Sep 2026 19:55:00 GMT"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Ilva, la Corte conferma lo stop: 2 tonnellate di amianto nei tubi - agi.it",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTWJaR2E5MHE3Q0VRT3BpaWRQNFEwRDJBTlZYWHJwVmw1Y0YxM2w2OWNZNFhpQlJjMjlfZ1FsU2RNSEdRUkJDLWV0X2lBSFo2WEFKbzVCMG9OcDNWLXNyTEluVWRaemlZS2l0Tmw3WXdaUW5fQ0ktbmJXbzg4cmxLQXdmWQ?oc=5",
+          "description": "Ilva, la Corte conferma lo stop: 2 tonnellate di amianto nei tubi agi.it Ex Ilva, cosa succede ora: ripartono 2.500 licenziamenti, gara in bilico e futuro senza altoforni Corriere della Sera La cordata italiana spinge sull’area a freddo. Nuovo faccia a faccia con il ministro Urso la Repubblica Ex Ilva Taranto: piano governativo a fasi per gestire lo stop all’area a caldo e le ripercussioni occupaz",
+          "pubDate": "Fri, 11 Sep 2026 17:48:43 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "indonesia nave dispersa mare giava",
+      "label": "Nave dispersa nel Mare di Giava con 241 persone: soccorsi in corso",
+      "n_items": 4,
+      "n_sources": 4,
+      "category": "general",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 28,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Dispersa nel Mare di Giava una nave con 241 persone a bordo: soccorsi in corsa contro il tempo - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNaG5FRHc1VjNMaGVNVHFTRkR4ZE1tXzNEX0ZlUnNTZlFXVTlHWHo5WkxqcHBoYlh4c0tmRnhNbzlKd0NqdHRNbE1ER05YS2xmMzMtUlJmSVgwR3lsQUlENEVpYjBWTHBrd2hBR1ZlbkZFS1g1VXNmVm1hM1ZDUW9iN2diU3hmLVBHaHBUdkZWZnNGVlBRRndmX2NmcVRNX0VjbGM5eDZZQV9YU3g5Vm5GUk80eXg3QnZteDlJZlotcGR5c255dG5hMXc1czBXbVpQTEZrcWNzVy1ZNTRBRklzLWdRUHdHdmp3R2tlUjhleHVhS0l0U3hVRmZNMndLLWh1UDdqZTFB0gGLAkFVX3lxTE1nb2hJb0dtaVdfa3JOOERDZGlRbThQZnBXdUN5X3c2Z0YybXVNTXVLWktOSVlMTTg5OTR0aTlTUlpWSnpMZURsOVFud0JfMUpxUmFndG5nZHFTXzNYaWFNWm1NZENpTTdiTS10ZGtzMG5Yd3lMbE45UGtIYzhtQk40eGZpMDV0RUFwaGw0VW9kRDVmSkdheXA2d0ZXZWFFQXJ6OWh6WjRKdU1zQU9mVTZmb2RnX2ttVnJ4b3pZaHh4R3dabDI5YVdyaXB2dFNzRnFMN2d0WV9aVUlzbloxRVV2SkFwTktBVWxVYmdaZVQ4NnRFLUJnUW56bFpiTWF5aDFNLUs0U2FhRWpiOA?oc=5",
+          "description": "Dispersa nel Mare di Giava una nave con 241 persone a bordo: soccorsi in corsa contro il tempo RaiNews Indonesia, 'persi contatti con un traghetto con 243 persone a bordo' ANSA Indonesia, traghetto in avaria per il maltempo: un morto e oltre 100 persone evacuate la Repubblica Indonesia: traghetto in avaria, un morto e oltre 100 evacuati Corriere della Sera Indonesia, traghetto in avaria con 243 pe",
+          "pubDate": "Sun, 13 Sep 2026 05:54:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Alla deriva nel Mare di Giava una nave con 241 persone a bordo: 102 tratti in salvo, una vittima - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNaG5FRHc1VjNMaGVNVHFTRkR4ZE1tXzNEX0ZlUnNTZlFXVTlHWHo5WkxqcHBoYlh4c0tmRnhNbzlKd0NqdHRNbE1ER05YS2xmMzMtUlJmSVgwR3lsQUlENEVpYjBWTHBrd2hBR1ZlbkZFS1g1VXNmVm1hM1ZDUW9iN2diU3hmLVBHaHBUdkZWZnNGVlBRRndmX2NmcVRNX0VjbGM5eDZZQV9YU3g5Vm5GUk80eXg3QnZteDlJZlotcGR5c255dG5hMXc1czBXbVpQTEZrcWNzVy1ZNTRBRklzLWdRUHdHdmp3R2tlUjhleHVhS0l0U3hVRmZNMndLLWh1UDdqZTFB0gGLAkFVX3lxTE1nb2hJb0dtaVdfa3JOOERDZGlRbThQZnBXdUN5X3c2Z0YybXVNTXVLWktOSVlMTTg5OTR0aTlTUlpWSnpMZURsOVFud0JfMUpxUmFndG5nZHFTXzNYaWFNWm1NZENpTTdiTS10ZGtzMG5Yd3lMbE45UGtIYzhtQk40eGZpMDV0RUFwaGw0VW9kRDVmSkdheXA2d0ZXZWFFQXJ6OWh6WjRKdU1zQU9mVTZmb2RnX2ttVnJ4b3pZaHh4R3dabDI5YVdyaXB2dFNzRnFMN2d0WV9aVUlzbloxRVV2SkFwTktBVWxVYmdaZVQ4NnRFLUJnUW56bFpiTWF5aDFNLUs0U2FhRWpiOA?oc=5",
+          "description": "Alla deriva nel Mare di Giava una nave con 241 persone a bordo: 102 tratti in salvo, una vittima RaiNews Indonesia, 'persi contatti con un traghetto con 243 persone a bordo' ANSA Indonesia, traghetto in avaria per il maltempo: un morto e oltre 100 persone evacuate la Repubblica Indonesia, «persi contatti con traghetto con 243 persone a bordo» Corriere della Sera Indonesia, traghetto in avaria con ",
+          "pubDate": "Sun, 13 Sep 2026 05:54:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Rescuers searching for 140 people from Indonesia passenger ship, official says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeG1Da244T0lHMENCalZmSktXZjd2UU1DLVFJdlktZjNTU0NHRVR4OHI2YnFPU2VwWFUzOHRDOTdTYmVBeFYwZC0wVERfcmUzSFdlcG1yMWdycDVyWDhZT1dpN1VCWEFReDQ2VWFnalQ1dGY3cjI0ZWYzd0pPTF9yRTBuNXRmTjN4cDk2YWlWNWRGYlpTaWdVdWItcmVUR2hiZEZWQXhFZ0FQLUNvQlRQNHBaU3ZqTVhIZkdSakctZTJfcDZMR2JZ?oc=5",
+          "description": "Rescuers searching for 140 people from Indonesia passenger ship, official says Reuters See more headlines & perspectives on Google News",
+          "pubDate": "Sun, 13 Sep 2026 03:33:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Indonesia, \"persi contatti con un traghetto con 243 persone a bordo\"",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/13/indonesia-persi-contatti-con-un-traghetto-con-243-persone-a-bordo_f3df3474-5409-424b-ae53-01fc70017cc9.html",
+          "description": "I responsabili del soccorso: \"Almeno una persona è morta e 102 sono state salvate\"",
+          "pubDate": "Sun, 13 Sep 2026 07:36:21 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "carburanti benzina diesel rincari",
+      "label": "Benzina a 2,1 euro, diesel a 2,208: governo studia aiuti mirati",
+      "n_items": 4,
+      "n_sources": 3,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 3,
+      "score": 24,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Carburanti, corsa senza fine. La benzina a 2,1 euro, diesel a 2,208. Ecco i rincari in 30 anni - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR1haVUxRTlJ0VVZnMTdXV1lpR3pxLTh4UFFsbXRLWE52UlhUeWxhRzR2d3lvc2ZySTRFY29mcVA5dTVvc3BuRU5BZkZVcmRjanBoWWotUVJ3Z3pkX2FtYzlUNFNlRm1ZZGhuRWJydmJUampQZlRYc29BWlFmdmR0SDFuc3B4LWdZRm44eklOZW5TMkg4Y1RnSDk2dnhjYlNtWmZWYjNyZw?oc=5",
+          "description": "Carburanti, corsa senza fine. La benzina a 2,1 euro, diesel a 2,208. Ecco i rincari in 30 anni la Repubblica La benzina vola, rebus nuovi sostegni per il governo ANSA Gasolio al massimo storico in Italia: Governo valuta aiuti mirati per lavoratori e autonomi Il Sole 24 ORE Carburanti alle stelle, Mimit: \"Prezzo medio self 2,1 euro al litro per benzina e 2,208 il gasolio\" Il Fatto Quotidiano Benzin",
+          "pubDate": "Sat, 12 Sep 2026 08:08:02 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Caro carburanti, le ipotesi di aiuti allo studio del governo - tg24.sky.it",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOai1mLXFXRFU1clNNX3R3TjFKOTBKendWOGZPUXNqUWhXWG96dlByVFA1QlV2Vk1HWVRBekFYWnk3b2k5c0pkeFZMX3l4NVo0S2dsTF9PNlV2eGExLTFpb0w1bDgzbUduM0xZUUdxVS1QamV4M1ZGODZpblRXVTRONHFnMHoxZWNT?oc=5",
+          "description": "Caro carburanti, le ipotesi di aiuti allo studio del governo tg24.sky.it Caro carburanti, il governo lavora all’ipotesi buono benzina: una tantum da 100 euro la Repubblica Carburanti sempre più cari: Meloni promette aiuti ai redditi bassi Il Fatto Quotidiano Il dilemma del Tesoro sul tesoretto. Le sorti della manovra appese al 22 settembre HuffPost Italia Un bonus benzina per famiglie e lavoratori",
+          "pubDate": "Sun, 13 Sep 2026 04:53:07 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Il Cdm approva il decreto, taglio delle accise prorogato di una settimana - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSUpxLUNocXdLY3A4UDE2dWhidUYtcUJQTjdiSUg2djQ3QUVBT3pzTUpNYk8wY1ZxYmFQc2phMVhGX0d4TmZkNUlJUnBpXy1WNGJScjdZSFByWFVqaEwxN0NrbzFsSWdKWGQ4eXV3b3N5ajcwNWRoOGNxTlBOZXRnR0pnZFVPR3R6UUx6TExXRUlDVVgzaVRSZ0Qwam5Bb0pfNFZPVFNhZDJiWEt4c0lsRVdsYU1YamZOVzg3NjZpclFObm0xWnRHNjJMNkdvdE5aNVR5TVh4ZnJnckVvMlRiUmVNcXV5ZmtnTGZLWEZGRVQ1NzjSAfgBQVVfeXFMUGQ5QmRuZmprXzZ3dDVXRzdxaGx2VTN4TE5IZl81OE4zLWFBOWhjWUpQWUU4clR6RDVkRXVWZWFUcVJGZjlSZVhkQTNadXMyZldULVJZTlNUTS1Yb2ZmWW5LUmQ5RXZVV050Y1NiUjJ3TjQzRG1oQ2NWTVBSV05nMGEwUXA2QVZ5bFlGdEJMNk1fZFFkQk5ldEdoS21uRGZjSXEtRFlVNi1wLU8yWU93WnllWkE5aVJEay13UmFXNnh3aGRZSjBWNFRBTUlFVDlrVjd5TnZJZDdNN242bjNyVVhqZEFZZEtuWm0zNHJyejZkVEx1RTV4aDY?oc=5",
+          "description": "Il Cdm approva il decreto, taglio delle accise prorogato di una settimana ANSA Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Thu, 10 Sep 2026 15:49:48 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "La benzina vola, rebus nuovi sostegni per il governo",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/12/prezzi-dei-carburanti-ancora-in-rialzo-il-gasolio-a-2208-euro_885d9f70-8fde-40f0-b0c3-f285fd93b75a.html",
+          "description": "Verso aiuti mirati, si cercano coperture e accordo politico",
+          "pubDate": "Sat, 12 Sep 2026 22:04:03 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "trump irlanda unificazione",
+      "label": "Trump endorsa la riunificazione dell'Irlanda, rottura con 70 anni di politica Usa",
+      "n_items": 3,
+      "n_sources": 3,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 21,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Trump in visita a Dublino: “L’Irlanda tornerà a essere unita: sarà bellissimo” - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSWdzZmNYX2JxelloOVVnaS16eDdBOS0tZ1VJMVFibXQ2bl9jMl91NmFvUUoxM1p6VDdObVVpNTgyaW4wMERmdVNFclAxQWZHNUx0MTMtR2NrbGhFNjFhNXB2blpMSnJkN3RwZkNDaHVDcXB3OWJYSllVLU13dFptdkxQenJhUGMxTTlNTXhvcnhnOEtIczQtbkJOU1lBQkxxUl9McDNPZmFyQlVwdU5Uc1Y5NkJJaUhJTVHSAb8BQVVfeXFMT0dYVjhpMG1RN3JGblVnMTJuT1VOcGJNYXZ1WlhDZFRaNXJOb0Y1WER0dmdfYjN0NmRWUXFHa3N4ZUNkVmExQ0RycjQxRGFRYjNCT3lFN0dKUk1wdVRSOEwtQVRIaHE1Rmt3Q2pic1l3elB0Vml1N2FhTnRYVHhpYTBvVFhFeUszckl1Smsza2V6U3lZZ1R0aVE4MGlpWWczRFRlUE1HXzhnMjdiX3o2OG9HSjhKSEgtTG9CU2VpV2s?oc=5",
+          "description": "Trump in visita a Dublino: “L’Irlanda tornerà a essere unita: sarà bellissimo” la Repubblica Trump vuole l'Irlanda unita: la reazione degli Unionisti Il Fatto Quotidiano Trump show a Dublino: 'un'Irlanda unita sarebbe fantastica' ANSA Trump a Dublino: «Vorrei un'Irlanda unita, accadrà prima o poi» Corriere della Sera Trump: «Irlanda unita». Migliaia in piazza contro di lui a Dublino il manifesto",
+          "pubDate": "Sat, 12 Sep 2026 11:09:10 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump endorses Irish reunification, breaking with decades of U.S. policy - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdTFIZUN5UjlRRmk0MGhKVjFvQ2p3bU13U05mRFoxdFhabHZXOGFFZUFScVZjWXhSYXJ5ZExkQmpPdy14eVhTM05YYVVtZnpJbFA2bFZBcmhwRXlLNmtFR0JqbDhRZ19iRWN4QXB4MVotZEk2a2NVdExaSFFLTDdKRnpoNEs2WDlNMnhVTFhlV3E4MkNJYTBpUXhQc3Q2WXE4UDQ5aHhkUQ?oc=5",
+          "description": "Trump endorses Irish reunification, breaking with decades of U.S. policy The Washington Post Trump's comments on a united Ireland may have targeted audience across the Atlantic BBC Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent nytimes.com Trump touches a nerve while in Ireland by saying reunification would be 'fantastic' PBS Irish leaders react after Trump says he'd 'l",
+          "pubDate": "Sun, 13 Sep 2026 03:23:24 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+          "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+          "description": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+          "pubDate": "Sat, 12 Sep 2026 21:25:28 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "inflazione usa prezzi 3,4%",
+      "label": "Inflazione Usa sale al 3,4%: benzina e costi energetici premono sui consumi",
+      "n_items": 3,
+      "n_sources": 2,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 3,
+      "score": 18,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Il gallone a 6 dollari e il Treasury al 5%. I numeri che fanno traballare Trump - HuffPost Italia",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUFVMTTg5SDRCN2tVdkpxYkt3eFVHcndhWDdxMHlGbUc2VFR0SDkwWjhiNzFURVVkYmc3TldfTnhXR09TTFdxY3lweWVLZURIOFRxZzhpaURTU19ObkJBOHV6a0padUtwYk9hRjJOcUswSEpVV2VEMHpnUkFUYktpUEt2bVpjQ2g3NjlGSHVqU1J1U3N0LUZKalFZWQ?oc=5",
+          "description": "Il gallone a 6 dollari e il Treasury al 5%. I numeri che fanno traballare Trump HuffPost Italia L’inflazione Usa resta alta: monta la pressione sulla Fed Il Sole 24 ORE Borsa: Punta al rialzo il Dow Jones, in aumento dell'1,15% alle 19:30 Borsa Italiana Flash crash di Bitcoin e oro, perché un CPI al 2,4% è ancora troppo elevato Yahoo Finanza La diretta da Wall Street | Le borse Usa chiudono in ria",
+          "pubDate": "Fri, 11 Sep 2026 16:12:00 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "US prices remain high as fuel costs squeeze household budgets",
+          "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
+          "description": "Prices in the US rose 3.4% in the 12 months to August, according to the latest official report on inflation.",
+          "pubDate": "Fri, 11 Sep 2026 14:22:42 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Interest rates could rise again across the world – here's why",
+          "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+          "description": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
+          "pubDate": "Fri, 11 Sep 2026 13:35:29 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "diritti donne violenza invisibilità",
+      "label": "Venezia 2026: Leone d'oro a Woman Unknown, film sull'invisibilità femminile",
+      "n_items": 3,
+      "n_sources": 1,
+      "category": "diritti",
+      "macro_area": "societa-diritti",
+      "richness": 3,
+      "score": 15,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-cultura",
+          "title": "Mostra del cinema di Venezia, Leone d'oro a 'Woman Unknown' la rivincita delle donne",
+          "link": "https://www.ansa.it/sito/notizie/cultura/2026/09/12/mostra-del-cinema-di-venezia-leone-doro-a-woman-unknown-la-rivincita-delle_2c5ad0ae-09b8-4ad2-a5b2-075bbcafdffc.html",
+          "description": "Edizione di ottima qualità. Capolavoro Possible Love, a Naza premio che fa meno rumore. Riccardo Scamarcio miglior attore della Sezione Orizzonti per I Figli della Scimmia",
+          "pubDate": "Sun, 13 Sep 2026 00:35:48 +0200"
+        },
+        {
+          "source": "ansa-cultura",
+          "title": "Il Leone d'oro per il miglior film va a Woman Unknown",
+          "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/09/12/il-leone-doro-per-il-miglior-film-va-a-woman-unknown_ec729e99-246c-4e0d-af52-08328f1516e3.html",
+          "description": "Firmato dalla regista May el-Toukhy",
+          "pubDate": "Sat, 12 Sep 2026 20:55:47 +0200"
+        },
+        {
+          "source": "ansa-cultura",
+          "title": "Mostra del cinema di Venezia: Woman Unknown, un film sull'invisibilità delle donne",
+          "link": "https://www.ansa.it/sito/notizie/cultura/2026/09/12/mostra-del-cinema-di-venezia-woman-unknown-un-film-sullinvisibilita-delle-donne_04715168-df75-4eae-a360-ee200dc6c3bb.html",
+          "description": "May el-Toukhy: 'Il corpo femminile come campo di battaglia'",
+          "pubDate": "Sat, 12 Sep 2026 21:55:24 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "robot umanoidi fabbrica veneto",
+      "label": "Robot umanoidi rivoluzionano fabbriche: la rivoluzione parte dal Veneto",
+      "n_items": 2,
+      "n_sources": 1,
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 3,
+      "score": 14,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-tech",
+          "title": "Il futuro di Seco ha la forma di un robot umanoide. E l’azienda alza il target dei ricavi - Milano Finanza",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPR3hFc2pQNTlpcW11WWxzMzlZcEZCVWxoNFVvM0JnMmFhV3JxZWZBV3Y3OXZnZlplZVJVakdXSXAwSnItLVo5Yko2Z2J6eTVqVkQ4SGhmN28tTlk2MDR5NDdIcXZIZkJpV09nQXBWX3ZSUjNTY0ZmUF9yQ0Q2YjhtRGRIUGZmQVEzdnVZc21ZN3UzbkhHSjZJZTJXaXAtNUxQNFRPT2xma0NzZWlKOWNySWt3OTFrMm9seF8ybE5RZ3BtY250QmFSM1c4ZGRrT3FqRFVPSWh6NG4?oc=5",
+          "description": "Il futuro di Seco ha la forma di un robot umanoide. E l’azienda alza il target dei ricavi Milano Finanza",
+          "pubDate": "Sat, 12 Sep 2026 14:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "I robot umanoidi in fabbrica: la rivoluzione parte dal Veneto - il Nord Est",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcjh3eVBrYWpjU3pPdldYWXljTUQ4NXZjR1Q2N29rblFEallJSGV6bWF4X2xGbDlPby1CcmRZeWl5MVY4YmdzdjBpZmp3Nmhsajg2NlNlcDAwNmlTZTYxc2w3S2tCajgtTFNyUnd2LXg2aUUxc25wU04wdUhaRXd4R25TSFVvaS1KaGdZQW53SGtEN0JvLVZMcDVFaTBrYk5ReC1ZbEVIaDZIMUkzdjk0blkxME81UzVNRllFaEFaZGpvWXRTOUczdGhrOA?oc=5",
+          "description": "I robot umanoidi in fabbrica: la rivoluzione parte dal Veneto il Nord Est",
+          "pubDate": "Sun, 13 Sep 2026 04:59:58 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "afghanistan donna deportata terrorismo",
+      "label": "Donna afgana residente Usa deportata con legge 'alien terrorist'",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "diritti",
+      "macro_area": "societa-diritti",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Afghan woman deported from US in first use of 'alien terrorist' court - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CQWxvNmdEU1l2NW9neTNFdDUzRkdiaWVpUFJSdkpocWxNRlB6UThoRVBqY2FQOVM3ZTNJVkVvWlMweUlwMEJ6LTVzTWVyMTh2TjdZVUpSWk5tQQ?oc=5",
+          "description": "Afghan woman deported from US in first use of 'alien terrorist' court BBC DOJ avoids legal battle over secretive terrorism court Politico Woman deported to Afghanistan in first use of Alien Terrorist Removal Court The Washington Post Justice Department secures deportation order in first-of-its-kind case brought in secretive court CNN Alien Terrorist Removal Court deports legal US resident to Afgha",
+          "pubDate": "Sat, 12 Sep 2026 21:19:11 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
+          "link": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
+          "description": "The legal US resident was never charged with a crime, but was deported due to her family links to terrorism.",
+          "pubDate": "Sat, 12 Sep 2026 21:19:11 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "osteoporosi ossa invecchiamento",
+      "label": "Scoperto freno naturale contro osteoporosi: nuovo approccio terapeutico",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "salute",
+      "macro_area": "clima-salute",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-science",
+          "title": "Osteoporosi, scoperto il freno naturale che limita le cellule che consumano l’osso - mondosanita.it",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWUg4OHl2RkJHVmtlOUdtdFh3NXBjZUFmNnBxZWpJUWdUMkpKODJTQWtUZllKRzdSVkJhM2NhSUVkeFZiZUVicW0wUy10Tkw5NlpURG9tWkNuV3RpWXlnbWZiZXlwYzFUT1RNOThCaDJRQTBPdHdtRnpJeFlRR3NfeFg5SEx0M2dDckNZZVJUMEZkTVd4YUlRUUNUcWF6SGRlQmJvSm1Hdnc3ZG5LeVV0QTRnbWpkTVRZSnotZWF4aFZRZ1dzLWJNWWpDeEJoSUpCUmpmckxnUQ?oc=5",
+          "description": "Osteoporosi, scoperto il freno naturale che limita le cellule che consumano l’osso mondosanita.it",
+          "pubDate": "Thu, 10 Sep 2026 18:45:00 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Pesi, corsa o yoga: qual è l’esercizio migliore per proteggere le ossa dopo i 50 anni? - mondosanita.it",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOVFJa0RTNXlGNkl6aURsUGFzczcwZHI5R2xqMGswd2RZcG40Wjczdmp3aEtnc0JEVkdyVEcteHltZU5OcThlejZ0elpBbDYxY0JwRXljZmNZMmZlb1RhVHN3dVFtakVDVXAtekhTUTF3Y0xvbmduQ3dqMTBjNFpJbzRpb29tUlBGVk82T2tPQWFjN3VZOW1KWmVrYTZyNzlCUlQ5N0lhdWxsVEFUR1JFWnpreHRlWmZNZjVmdEkzQmo4VlNYV2JrdjVwbEVLUQ?oc=5",
+          "description": "Pesi, corsa o yoga: qual è l’esercizio migliore per proteggere le ossa dopo i 50 anni? mondosanita.it",
+          "pubDate": "Sun, 13 Sep 2026 06:30:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "uragani atlantico el nino",
+      "label": "El Niño frena gli uragani atlantici: stagione più lenta del previsto",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "clima",
+      "macro_area": "clima-salute",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Where have all the Atlantic hurricanes gone? El Nino might bring record slow storm season - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM3lrZmticlFqRjA0aTBYNHMyT1JRRWpnejdYZ1ZqV2hkemZCdUVaWkpJVXlVNUJETEtWS3Z1RnkzMGkzd1FqeFJhZkVkaDBUVzA5NEh2NU8xNTZaUklTUEdLWDFJS29fSnc5VFlBSV91eFgxUkxMQksyRUFnWl9aMVpYNlNuNDBFRXpaMzQ3VlUyMXgtZEtIWURIeFdSMlB5U0x4NQ?oc=5",
+          "description": "Where have all the Atlantic hurricanes gone? El Nino might bring record slow storm season AP News El Niño has broken Atlantic hurricanes. Now the season is breaking records CNN Powerful El Niño creates conditions for a record-low Atlantic hurricane season CBS News Atlantic Hurricane Season Hasn’t Recorded a Single Hurricane This Year nytimes.com The Atlantic hurricane season just quietly broke a n",
+          "pubDate": "Sat, 12 Sep 2026 19:09:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "El Niño frena gli uragani nell’Atlantico, ecco cosa sta succedendo - 3BMeteo",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdkZMeU1rbVF6Q2hHemtYWXlxZGpRWGVNY3I2bHRuam03ekZFd2hPbVRDdVBmN3BJNjIwakRTM094YjRDYlNoYkNCbGVHWGZsLUowYy1rWXlMckNRR2xyZU96T0czT05mT05JUDV5Z3V4VXVmTnA1X2o5NHduTlV6ZTA4a2NNcmVXVXhtUUxEME9WaHBlV1VJMTBuQU1PVk93c3Z3YzAwVWs?oc=5",
+          "description": "El Niño frena gli uragani nell’Atlantico, ecco cosa sta succedendo 3BMeteo",
+          "pubDate": "Sat, 12 Sep 2026 08:56:13 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "svezia elezioni ultradestra",
+      "label": "Elezioni in Svezia: il voto decide il nuovo governo con incognita ultradestra",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Elezioni in Svezia, oggi il voto per il nuovo governo. Incognita ultradestra - tg24.sky.it",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtdk1CbjVLUmt0RmZTaFBHWDZESmZoZkFtSXl3LXdKWFdoWm5ybzFNM3FhTHpRNWZiWm5xbHNtb180R1VlMVB0U2I2bW1XYzNZR2tkNUFjWmplTERfT2g5M2gzWF85WDNRQmtOUTduRWd4WE1jNFE?oc=5",
+          "description": "Elezioni in Svezia, oggi il voto per il nuovo governo. Incognita ultradestra tg24.sky.it «La Svezia dei migranti non è la Svezia»: Jimmie Åkesson sfida la Stoccolma multietnica con gli slogan Maga. Oggi il voto Corriere della Sera Aperti i seggi elettorali in Svezia, legislative molto combattute ANSA “La Svezia ha cambiato volto, la retorica sui migranti ha contagiato tutti i partiti” la Repubblic",
+          "pubDate": "Sun, 13 Sep 2026 04:25:18 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Sweden election: Far right eyes power for 1st time - DW.com",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVzdFQ1RYSFNSei1EVGRlekFaVzhualVCS2pFNGVoMlJ2SG5zSmhhYnJVLUY0WTU0X0M3a2VoVVVIRFo1TVFURURnUnpSSHdwTDJGbk5VajgtTko2S0hicWs5UFZuOUhKaTB2UkNHM3YtcWhnM1RTenFZNXEydThsQ0F5eHVpdVlKd3fSAYoBQVVfeXFMUHo2b1FFcVpkc1FJX0JvT0RLOGRDYWQybGRRMmJkeDZUa3U4YmZfX1F4eWFTY3JiSVlVT1FHNi1yRjcxSUFDeHV6ZV8xMENrdldWaGlubUVXaFZxTVBycUF5TEtsUldnZFR6dFR2Q3B2Z2JFb1dnM2RSRVY0bk4yanlKN3FxcGt2TDFB?oc=5",
+          "description": "Sweden election: Far right eyes power for 1st time DW.com In the Home of Volvo and Spotify, an Election Shows Shifting Priorities nytimes.com Voting opens in Sweden's general election that could see far-right enter government for first time timesofisrael.com Swedes vote in election that could usher far right into government Reuters Multicultural Malmo: Swedish city loathed by far right braces for ",
+          "pubDate": "Sun, 13 Sep 2026 03:45:07 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "zamperla giostre sessant anni",
+      "label": "Zamperla compie 60 anni: leader mondiale nelle attrazioni da parco",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-economia",
+          "title": "Compie 60 anni Zamperla, leader mondiale nelle attrazioni da parco",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/12/compie-60-anni-zamperla-leader-mondiale-nelle-attrazioni-da-parco_27d73fd6-1f5b-4620-b9a7-1ede97d51c1b.html",
+          "description": "Presentata in anteprima la nuova giostra 'Hypnosiz' di oltre 11 metri",
+          "pubDate": "Sat, 12 Sep 2026 18:00:49 +0200"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Progetti speciali e nuove giostre, Zamperla punta ai 130 milioni di fatturato",
+          "link": "https://www.ilsole24ore.com/art/progetti-speciali-e-nuove-giostre-zamperla-punta-130-milioni-fatturato-AJfbQVBB",
+          "description": "A sessant’anni Zamperla - fondata nel 1966 ad Altavilla Vicentina, oggi una delle realtà di riferimento a livello internazionale nella progettazione e produzione di attrazioni per parchi divertimento e destinazioni...",
+          "pubDate": "Sun, 13 Sep 2026 07:00:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "openai ipo 2027",
+      "label": "OpenAI: IPO rimandato al 2027, focus sulla sicurezza dell'IA",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-economia",
+          "title": "Altman: 'Ipo OpenAI nel 2027, ci concentreremo sulla sicurezza'",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/13/altman-ipo-openai-nel-2027-ci-concentreremo-sulla-sicurezza_36bf11fa-34ee-4a23-93fd-5b8dc38db3f4.html",
+          "description": "'Non è il momento opportuno per quotarsi in Borsa, non avverrà nel 2026'",
+          "pubDate": "Sun, 13 Sep 2026 08:18:45 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "venezuela oppositore maduro diritti",
+      "label": "Lorent Saleh, oppositore di Maduro: lotta per i diritti in Venezuela",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "diritti",
+      "macro_area": "societa-diritti",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Lorent Saleh, oppositore di Maduro: «Il destino del Venezuela è nelle nostre mani. Io in cella per quattro anni senza processo, ho perdonato il regime per tornare libero» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNjhrQU9vNlY3dUt4MmZyZ1gxNC1YcnNtbFpjaG53VTdxYjVvU2lXdm4wYmVFMTZUNHZ2Q0t1YTUxdU5KNHpPcEpnbHJlZXdRZGxzZkttV2FISHNld1U4SVJlUnREbGl5TDE2NURBcHZHa3ZmN0FCTUZOS1AzZ0NNVDFvRFNYWXlRY18xcDlFVXBPbjQ5UWZDbmtwdnc0OUVWaWczdGJOTXJpOUpBYW1DLVhCRE9oVHJKejZ2Vl9vWjR5Ty1LRThZUTVuQktKYWw5MmdMbGo5YWvSAd4BQVVfeXFMTy1wRlY5YnlIcUxLZ3o1RTF2ZVlfRU1qanVhUi1rRVAwNk1BeFIwVGFIT0ozTUcyRm0zbk9vaUs0d1preWFrTWczSUU4MThHNmI3MkY1amFhbi1SOGpBdkpIellGaXYya3hrUFJQZVp6eEV2VUlFTTFlVHRSOFdZcy1fSm96UkR4aDdfZDZUY2FlYWtTMzZoeWJoZ1I5bTZ6ME1DdFA4RGJORXRvUGdzMXlESFc5RWwydHJ0QUF3UmhrTXp2Vy1Dc3lQdFV3NmFCb1RfZkFVaDBZS0xIejNB?oc=5",
+          "description": "Lorent Saleh, oppositore di Maduro: «Il destino del Venezuela è nelle nostre mani. Io in cella per quattro anni senza processo, ho perdonato il regime per tornare libero» Corriere della Sera",
+          "pubDate": "Sun, 13 Sep 2026 05:38:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "west nile italia 590 casi",
+      "label": "Febbre del Nilo in Europa: 1.285 casi, 590 in Italia",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "salute",
+      "macro_area": "clima-salute",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-health",
+          "title": "Febbre del Nilo, 1.285 casi in Europa di cui 590 in Italia: ecco dove - tg24.sky.it",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0RDd2FhRUJQcFJCSktXWExyQWx3TDZiT0JuM2JxQzR0MU9QVjlzSXBHcEp5dVVtN1RFdzhGY21SYjlZZ3QtU2dqUG1TbU1hYzRyNDExRl9JOWk5YXZsbkh3dFVMQV9iZlFDZmJhdkcxbE9QcXVDZ28yaXNkNldIMnpnU3Y3NHc?oc=5",
+          "description": "Febbre del Nilo, 1.285 casi in Europa di cui 590 in Italia: ecco dove tg24.sky.it",
+          "pubDate": "Fri, 11 Sep 2026 15:07:11 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "occupazione italia record istat",
+      "label": "Mai così tanti occupati in Italia: record nel secondo trimestre 2026",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "lavoro",
+      "macro_area": "economia",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Mai così tanti gli occupati in Italia. I dati dell'Istat - Il Tempo",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdmJlaWJ1bnJCZWs0TVJGUW9kNk1ES1RHaWZwVl95WVE5NzgyaE1PUG1DVGl2SGNTb1Z4LVA3dHZGeW9icnMzbWFkQU90Y08xLVh3b2pmNGdTczFjS2ZnQ1hiSGl2bHlpOUJNal9KRENJZHlYWDBIa2JUT0cwNkF5VTBJOHExQ2g1SGJRb1hRQzAzY2ZxeXAyLTF0ajYtcXVQeTFiRS1TNE9JOXV0ekkzaHJ5YVpTZ9IBuwFBVV95cUxOVl82VjdTTGhXVjZBSkhCcDF1UHBaaGstY21SMGhLYUVPVVJxREJ4amNxMjh3eFR6cGdiRG1fTWNIR3NsV1I1RXFMSkxDbGo3MXlxaGNuOElZcVQ0dFd6d3pTU25HTWdKMVptNWVhVWY1V085V0tpUTRmblZNYlRSZE1fRnJhZGlDZHZ0THl5eEozWnBHcEpIOU44bi1KQ3ZtU3FQQVp3aW9EUjQ3OFVOUV9nY01FaG8tLVRr?oc=5",
+          "description": "Mai così tanti gli occupati in Italia. I dati dell'Istat Il Tempo Istat: nel secondo trimestre +246mila occupati sull’anno Il Sole 24 ORE Torna il tempo indeterminato ma la Gen Z resta fuori dal «gioco» L'Eco di Bergamo Istat, nel secondo trimestre tasso di occupazione record al 63,1% ANSA Il lavoro cresce per gli over 50 e diventa sempre più povero il manifesto",
+          "pubDate": "Sat, 12 Sep 2026 13:49:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "poste italiane tim opas 66%",
+      "label": "Poste Italiane raggiunge il 66,6% del capitale TIM con OPAS",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Poste Italiane, risultati OPAS provvisori: raggiunto il 66,6% del capitale di TIM - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQ055UndsWUlSTGI4ZlE2U1NaN01EalV0czJoQXh4VVF1QXpfc2sxZk9Ya0puR05NRlBtdlZzUGpjRjhIZUVsNWF2X1NtakpCeTdWOXBwckpjYWZ5TGlGZTg2THU1Y3ZCb0xEdmw4VUdEanFHYnJvczZCclVITmVxMksyc05KM0g1RU5HdVF3clpESnk2a0JGeFFhTFZ5QjQ3eHNGVUhLR216dGRPMkpKLUFFeDNqRDhpRDVGdTRrdEsyZjltdFg1OGttdFFrSFZOcnNreHJKZGdCZGdaMTlVbjQ4RW1HNHJyQjJOZndTTEU4SnFs?oc=5",
+          "description": "Poste Italiane, risultati OPAS provvisori: raggiunto il 66,6% del capitale di TIM Borsa Italiana Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Fri, 11 Sep 2026 18:07:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    }
+  ]
+}

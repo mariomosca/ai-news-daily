@@ -1,0 +1,925 @@
+{
+  "date": "2026-07-27",
+  "top_topics": [
+    {
+      "keyword": "italia",
+      "n_items": 26,
+      "n_sources": 10,
+      "category": "tech-ai",
+      "score": 266,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "I dazi di Trump spaventano i repubblicani in vista dei midterm - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPc0c4clhuQk1tWDJfR2pNTnV3dExhV1pCR3NWVnJlOUdjbVNmODBpNWZhc3pFR3ZYaFdGLV8wcDZJdWNMQTV0VnJPVDRiZ21ycFhHQ2ZvUDBpTWdVWDM2aVB3d3E2dHVUNWQxaWRkTWV2X014OGtsNkh1aVJaaGRpdV9yanpMZkxoMWV5Tjdxby1QY1JKVlMxZGlrbTFNQk1MTm9oNkVsZDNtTjBCclJyd2NTRThHNkg1djctR0NnNmdETVJOcC13MGp0WXhITzVSdFhKSEFXRmlXQnZZR0NQalJjTjYyN2d6ZExFMExDVjlqVDhRZF8yWlRfWGIwdHJYUndLd1pQaU8?oc=5",
+          "description": "I dazi di Trump spaventano i repubblicani in vista dei midterm Il Fatto Quotidiano Dazi Trump, cosa cambia per l'Italia? Gli effetti su vino, prosciutto, formaggi, farmaci e Made in Italy Corriere della Sera Tra Europa e Usa la guerra commerciale sarà sul digitale la Repubblica Il rame del Canada, i dazi di Trump e la lite fra le tribù dei nativi (di N. Graziani) HuffPost Italia Dazi, il sollievo ",
+          "pubDate": "Sat, 25 Jul 2026 07:14:11 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Da de Chirico e Balla a Maria Lai, i maestri italiani nelle mostre dell'estate",
+          "link": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/07/25/da-de-chirico-e-balla-a-maria-lai-i-maestri-italiani-nelle-mostre-dellestate_998b3c95-9165-4120-b16d-d486ddb78133.html",
+          "description": "A Udine il prestito eccezionale della Nuda Veritas di Klimt",
+          "pubDate": "Sat, 25 Jul 2026 19:49:37 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "L'amarezza di Pirlo: 'L'amore per l'Italia non dipende da un incarico'",
+          "link": "https://www.ansa.it/sito/notizie/sport/2026/07/27/lamarezza-di-pirlo-lamore-per-litalia-non-dipende-da-un-incarico_2dec2d1e-c7b5-476a-9142-af1ffcbaec7d.html",
+          "description": "Sul ruolo da ambassador dell'agenzia di scommesse russa: \"Nessun significato politico\"",
+          "pubDate": "Mon, 27 Jul 2026 00:36:29 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Una foto di un neo può salvarti la vita? Ecco cosa può fare oggi l’Intelligenza Artificiale - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR3dIZlg2OUNxdkJUelptVkNKUHZjeU53eXdZd3lwTnRrQUhQbTk4dDk2ZTF5ekZpaXFsaTkwQ05NdWdDT3hwdWdDZFpOS1NjMHJ0VFhjU211eDB0U3hCWUlOMmZha3ZfeGxvSzZZaDViQkx3X1pzbzVkTXVEZjV1T3BkZWxQZk9QZERpWVRKMnRGdC01SklyaFRRYTBJOW8wZDdtVG83WnlsUGZJMmM1NU9qMTRVdVhLOWdqMi11QS1STzB2U3JTVU9naXRJWnU1cXI4bjV4RQ?oc=5",
+          "description": "Una foto di un neo può salvarti la vita? Ecco cosa può fare oggi l’Intelligenza Artificiale Mondosanità In Veneto l’intelligenza artificiale accorcia le attese: «Ti chiama per prenotare la visita» L'Arena Cds accelera sull’intelligenza artificiale: così cambia la diagnostica e la sanità del futuro Forbes Italia Intelligenza artificiale in sanità: dove sta funzionando davvero Agenda Digitale La gov",
+          "pubDate": "Sun, 26 Jul 2026 13:05:34 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Scenari positivi per Tisg. Azimut Benetti si fa avanti - La Nazione",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLWtnTGFyZmFvVnJBVVM4bDZxMndjdW1VX2QzVVNVLWM5aWhZejNPZ2JvbGtfVGhjNlptY2pDQWtMOXk4ZFNlcjJGRGVuR0hQUWhIMEJ1UVYtM1Fxa1BoajBnRElzTU1Pb1J6Sk1DOGo2Wi1OM2VDbFhCQ2N1SC15RE51MC1aT0NZVUE3Sw?oc=5",
+          "description": "Scenari positivi per Tisg. Azimut Benetti si fa avanti La Nazione Meti Corporate Finance affianca The Italian Sea Group nella valorizzazione del Cantiere di La Spezia Financecommunity The Italian Sea Group conferma contatti per la vendita del cantiere di La Spezia Borsa Italiana The Italian Sea Group, gli operai chiedono certezze Collettiva Possibile interessamento di Azimut Benetti per il cantier",
+          "pubDate": "Sun, 26 Jul 2026 03:20:57 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "trump",
+      "n_items": 18,
+      "n_sources": 9,
+      "category": "geopolitica",
+      "score": 168,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Axios, 'per capo Centcom i raid a Hormuz hanno raggiunto limiti d'efficacia' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUTVLc2NFQ0ZRdUo5OWhBeDZLTmQ2RklrMHhUR01CVkdHa2RBYlpQQnhIdnJONFVKQjFucXJEdVNVSkQtcW5QMHZ2LXlweE9vOV9MYkVXSFpuQTFlX2RsU0VqNzJFLW94blAwVVo2bVdpZ3ZGZEdham9KaUVSV0FJcGdKRXFuR2hSOUJ4MFh0dGZ6Mk0za3lja09kWjBBbnkwaDVOUmdGNWlzbm9HTVlvN1hmMXV1V1g2RDRXRUpiek1xelJzc1hoNDRlXzNvSFkxdFhJOXlEcUEtQWtKV015VFRxUlpEUlByMWVHdk1oOTRKdTZOZ0JjWVFn?oc=5",
+          "description": "Axios, 'per capo Centcom i raid a Hormuz hanno raggiunto limiti d'efficacia' ANSA 'Teheran è disponibile a proseguire i negoziati'. Trump accantona l'escalation - LA CRONACA DEL 26 LUGLIO ANSA Cisgiordania in fiamme: moschee bruciate e nuovi insediamenti illegali Il Fatto Quotidiano “Raid su Hormuz inutili”, Trump sospende la guerra. Teheran: “Ci fermiamo” la Repubblica Stati Uniti e Iran sospendo",
+          "pubDate": "Sun, 26 Jul 2026 18:07:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "USA-Iran, spiragli di dialogo. Media: \"Scarseggiano munizioni\", Trump: \"Ne abbiamo più di chiunque\" - Cisgiordania, i coloni incendiano due moschee e l'esercito arresta 80 palestinesi - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNSDdZaWl2dVhWQVhXNmwtNHZwSkF2YlFJaUFfTUswUllrUDZEazUyanRfbnA2MVV4M3doMFN0aUpIbW44X3hsUmNsQ2ZnSkF2OEQ4cWhrRHJyaHZZVjMxaDJ4OFBON3JkOXJPNnNwNnRTaGF6djBHSlpaTGpHVzlTS09acG9iQnJubHBlaHFEbDRwVnNEQ3lpM09DNXNxME5FOFRHanJzWkZjeDM0ZU5GVEdLMkhWSTQtenpOYVNHSmVKd25jWGduRUR0QVhDOUhJeFlha2NFTW9tLTN1Mk96OVNiQVR6MjRrMkhzVnNQY2xCNFRFZm9VNHI5RUFfdmZkU2R0d1BRUmgwWVJFcDVhYktUdHgtZDI3d0hfanRQTTVOel9IUl9xZnFaSGNQaEdxUEJV0gG4AkFVX3lxTE9fRjJ4bGkzT29wczhMeWpBN3llNFZHUy1HRGhlSEhyRFQzcm1BR1dkUU9BOTUtLWJDcTJTRW45QW44UFNLRG5iOHhpc3Nsa2xXRGc2alJwTThGMU14UVhsNlNRLXUzRGFSWlA3ZmdmWm1SOWp0Qm1lelFqVjdpM0F0Y0hQSzFZT2paY0oxc2lmNGJuMUIwa2VrTTczc2tYeG9kSTFLeXRMOWdQR3duNEZFVjBQSFZMRHVhYkpZUmJtdVZXUE1VeWQ3cWUtbUU1UGVwVnJVZlE0cGlzeVVGTVhmYWtDU3J2SkwtQ01zakVKUm94WVVyVXkzYjY5TkppbVVKemxZeUxTdGlCSnNVVERlTkxiVVczQmFxY195MWJDU0tReVhEdEFhV3NNS2M3NGJmMnNxWm83Qw?oc=5",
+          "description": "USA-Iran, spiragli di dialogo. Media: \"Scarseggiano munizioni\", Trump: \"Ne abbiamo più di chiunque\" - Cisgiordania, i coloni incendiano due moschee e l'esercito arresta 80 palestinesi RaiNews Guerra Usa-Iran, le notizie in diretta | Trump: «Abbiamo munizioni più di chiunque altro e ben oltre il nostro fabbisogno». Il petrolio cede in Asia più del 5% sulle speranze di accordo. Corriere della Sera G",
+          "pubDate": "Mon, 27 Jul 2026 02:37:30 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "I dazi di Trump spaventano i repubblicani in vista dei midterm - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPc0c4clhuQk1tWDJfR2pNTnV3dExhV1pCR3NWVnJlOUdjbVNmODBpNWZhc3pFR3ZYaFdGLV8wcDZJdWNMQTV0VnJPVDRiZ21ycFhHQ2ZvUDBpTWdVWDM2aVB3d3E2dHVUNWQxaWRkTWV2X014OGtsNkh1aVJaaGRpdV9yanpMZkxoMWV5Tjdxby1QY1JKVlMxZGlrbTFNQk1MTm9oNkVsZDNtTjBCclJyd2NTRThHNkg1djctR0NnNmdETVJOcC13MGp0WXhITzVSdFhKSEFXRmlXQnZZR0NQalJjTjYyN2d6ZExFMExDVjlqVDhRZF8yWlRfWGIwdHJYUndLd1pQaU8?oc=5",
+          "description": "I dazi di Trump spaventano i repubblicani in vista dei midterm Il Fatto Quotidiano Dazi Trump, cosa cambia per l'Italia? Gli effetti su vino, prosciutto, formaggi, farmaci e Made in Italy Corriere della Sera Tra Europa e Usa la guerra commerciale sarà sul digitale la Repubblica Il rame del Canada, i dazi di Trump e la lite fra le tribù dei nativi (di N. Graziani) HuffPost Italia Dazi, il sollievo ",
+          "pubDate": "Sat, 25 Jul 2026 07:14:11 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Iran e Usa sospendono gli attacchi. Netanyahu: \"Ascolterò Trump, ogni decisione spetta a lui\" - AGI",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OVTlBNnROTHFEOVdMZGtBRmdCb0ZIeV85aXNqdU42dkI1Nk9HSkt0Tm1tWm82OEhYbFNZZ3BvSlhVZDhkYjFKdU5zTnowcnBrc3FUMkd5TnlxRlZ3NVc3ZUxZYy1tSUc4Y0U1Qno5ZVZKQ0h4TUcyZg?oc=5",
+          "description": "Iran e Usa sospendono gli attacchi. Netanyahu: \"Ascolterò Trump, ogni decisione spetta a lui\" AGI 'Teheran è disponibile a proseguire i negoziati'. Trump accantona l'escalation - LA CRONACA DEL 26 LUGLIO ANSA Cisgiordania in fiamme: moschee bruciate e nuovi insediamenti illegali Il Fatto Quotidiano “Raid su Hormuz inutili”, Trump sospende la guerra. Teheran: “Ci fermiamo” la Repubblica Stati Uniti",
+          "pubDate": "Sun, 26 Jul 2026 21:58:30 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump wants to give U.S.-Iran talks ‘some space’ as he weighs escalation, aide says - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcF9sY3BpTUlqMXVNUHdkeE5XMjNDSXhsUVdMQ3pGXzZXSjVzWnlHQ0lSZlJVNkhnM2VveENSRS1waTZlMjBvT0U4NjJ3b2VrdkdxLVVuWTRpU21FVW5WSkpfQ2xMcWdWUFhnMk9hWVNLQVlZSmo3SWY2VURja2hlZ2drcmJHN0lqRVExQmFJeUlGRUd0a3R1QW1vRnVzOVJNM3R6dWRPdzhQaDJVc3NaVU5WSGxLZjJQM0RJQ29mOFpjTzYwbkE?oc=5",
+          "description": "Trump wants to give U.S.-Iran talks ‘some space’ as he weighs escalation, aide says The Washington Post Trump Pauses Iran Strikes as Officials Weigh Dwindling Air Defense Stocks WSJ Top U.S. military commander in Middle East advised halting Hormuz bombing Axios Iran war live: Tehran halts retaliatory strikes after pause in US attacks Al Jazeera US strikes 'on a hold,' as talks, battle for Strait o",
+          "pubDate": "Mon, 27 Jul 2026 00:45:51 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "iran",
+      "n_items": 17,
+      "n_sources": 7,
+      "category": "geopolitica",
+      "score": 125,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Axios, 'per capo Centcom i raid a Hormuz hanno raggiunto limiti d'efficacia' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUTVLc2NFQ0ZRdUo5OWhBeDZLTmQ2RklrMHhUR01CVkdHa2RBYlpQQnhIdnJONFVKQjFucXJEdVNVSkQtcW5QMHZ2LXlweE9vOV9MYkVXSFpuQTFlX2RsU0VqNzJFLW94blAwVVo2bVdpZ3ZGZEdham9KaUVSV0FJcGdKRXFuR2hSOUJ4MFh0dGZ6Mk0za3lja09kWjBBbnkwaDVOUmdGNWlzbm9HTVlvN1hmMXV1V1g2RDRXRUpiek1xelJzc1hoNDRlXzNvSFkxdFhJOXlEcUEtQWtKV015VFRxUlpEUlByMWVHdk1oOTRKdTZOZ0JjWVFn?oc=5",
+          "description": "Axios, 'per capo Centcom i raid a Hormuz hanno raggiunto limiti d'efficacia' ANSA 'Teheran è disponibile a proseguire i negoziati'. Trump accantona l'escalation - LA CRONACA DEL 26 LUGLIO ANSA Cisgiordania in fiamme: moschee bruciate e nuovi insediamenti illegali Il Fatto Quotidiano “Raid su Hormuz inutili”, Trump sospende la guerra. Teheran: “Ci fermiamo” la Repubblica Stati Uniti e Iran sospendo",
+          "pubDate": "Sun, 26 Jul 2026 18:07:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "USA-Iran, spiragli di dialogo. Media: \"Scarseggiano munizioni\", Trump: \"Ne abbiamo più di chiunque\" - Cisgiordania, i coloni incendiano due moschee e l'esercito arresta 80 palestinesi - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNSDdZaWl2dVhWQVhXNmwtNHZwSkF2YlFJaUFfTUswUllrUDZEazUyanRfbnA2MVV4M3doMFN0aUpIbW44X3hsUmNsQ2ZnSkF2OEQ4cWhrRHJyaHZZVjMxaDJ4OFBON3JkOXJPNnNwNnRTaGF6djBHSlpaTGpHVzlTS09acG9iQnJubHBlaHFEbDRwVnNEQ3lpM09DNXNxME5FOFRHanJzWkZjeDM0ZU5GVEdLMkhWSTQtenpOYVNHSmVKd25jWGduRUR0QVhDOUhJeFlha2NFTW9tLTN1Mk96OVNiQVR6MjRrMkhzVnNQY2xCNFRFZm9VNHI5RUFfdmZkU2R0d1BRUmgwWVJFcDVhYktUdHgtZDI3d0hfanRQTTVOel9IUl9xZnFaSGNQaEdxUEJV0gG4AkFVX3lxTE9fRjJ4bGkzT29wczhMeWpBN3llNFZHUy1HRGhlSEhyRFQzcm1BR1dkUU9BOTUtLWJDcTJTRW45QW44UFNLRG5iOHhpc3Nsa2xXRGc2alJwTThGMU14UVhsNlNRLXUzRGFSWlA3ZmdmWm1SOWp0Qm1lelFqVjdpM0F0Y0hQSzFZT2paY0oxc2lmNGJuMUIwa2VrTTczc2tYeG9kSTFLeXRMOWdQR3duNEZFVjBQSFZMRHVhYkpZUmJtdVZXUE1VeWQ3cWUtbUU1UGVwVnJVZlE0cGlzeVVGTVhmYWtDU3J2SkwtQ01zakVKUm94WVVyVXkzYjY5TkppbVVKemxZeUxTdGlCSnNVVERlTkxiVVczQmFxY195MWJDU0tReVhEdEFhV3NNS2M3NGJmMnNxWm83Qw?oc=5",
+          "description": "USA-Iran, spiragli di dialogo. Media: \"Scarseggiano munizioni\", Trump: \"Ne abbiamo più di chiunque\" - Cisgiordania, i coloni incendiano due moschee e l'esercito arresta 80 palestinesi RaiNews Guerra Usa-Iran, le notizie in diretta | Trump: «Abbiamo munizioni più di chiunque altro e ben oltre il nostro fabbisogno». Il petrolio cede in Asia più del 5% sulle speranze di accordo. Corriere della Sera G",
+          "pubDate": "Mon, 27 Jul 2026 02:37:30 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Iran e Usa sospendono gli attacchi. Netanyahu: \"Ascolterò Trump, ogni decisione spetta a lui\" - AGI",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OVTlBNnROTHFEOVdMZGtBRmdCb0ZIeV85aXNqdU42dkI1Nk9HSkt0Tm1tWm82OEhYbFNZZ3BvSlhVZDhkYjFKdU5zTnowcnBrc3FUMkd5TnlxRlZ3NVc3ZUxZYy1tSUc4Y0U1Qno5ZVZKQ0h4TUcyZg?oc=5",
+          "description": "Iran e Usa sospendono gli attacchi. Netanyahu: \"Ascolterò Trump, ogni decisione spetta a lui\" AGI 'Teheran è disponibile a proseguire i negoziati'. Trump accantona l'escalation - LA CRONACA DEL 26 LUGLIO ANSA Cisgiordania in fiamme: moschee bruciate e nuovi insediamenti illegali Il Fatto Quotidiano “Raid su Hormuz inutili”, Trump sospende la guerra. Teheran: “Ci fermiamo” la Repubblica Stati Uniti",
+          "pubDate": "Sun, 26 Jul 2026 21:58:30 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Media: \"Iran e Stati Uniti aprono al ritorno dei negoziati\" | \"Per il Centcom i raid su Hormuz hanno raggiunto i limiti d'efficacia\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN3B1alpxRXlXeGY5UE1kcGJoZ0l1Q0I2TW5DZGlsRE1BTFpnUFNES0hxajFycldieVN3aG1wckpYSmdVX3NvV3NZRTNDTVYzdW1mRHMwZmw5Um5EeDhubDhWWm5jc2VtZ1pFZ1RHWHNQTUNXb0ZucUJCaS1BU0pESTJrUmpkN2V3ZlB2cUkwMHJJY19fdi1HQ0pqdzdHSVhNdFVuWlB2bTJXRHBNVWVR0gFoQVVfeXFMTmhFTjZLMHdDM0lTbnlJU3RBUnE0WmhSYy1XdGtObld4U1hpVWI4ZjBpRUFLZmI4TWw3Rk43YlF1ODJpWTFnRldHYWF6czNfQnR2bmNPc1dBVzZrdDljWDNPZ3BWaHhOajA?oc=5",
+          "description": "Media: \"Iran e Stati Uniti aprono al ritorno dei negoziati\" | \"Per il Centcom i raid su Hormuz hanno raggiunto i limiti d'efficacia\" Tgcom24 Iran: \"L'attività di mediazione continua ma priorità è la difesa della nostra sovranità\" - Il portavoce del ministero degli Esteri iraniano, Esmaeil Baqaei: \"L'attività di mediazione continua ma la priorità è la difesa della nostra sovrnità\" RaiNews Guerra in",
+          "pubDate": "Sun, 26 Jul 2026 21:23:18 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Iran, ultime news oggi: stop per ora ad attacchi Usa ma blocco navale continua, notizie live - Adnkronos",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTk40RWtnZFdHbHNINWdFTHdadmpMMnloeGdLM1psazNnbC1jd1V0cE5ubVdEckRmb1czOW1KemlLZ3kxT1hpTVpOdkFrVFd4Z0lWbkNRd1U1YkZtT0pITEE0VVA2dVpVRU1PMS10M21KS0FoWDVnd0dzTUlNNEp0RkNYQXE3SHJlNTlhbGppY3N3VmFPeF9NSkcxTXJKRWVsYm1MZzBFM01oNG4tcDI1dWcwcmk?oc=5",
+          "description": "Iran, ultime news oggi: stop per ora ad attacchi Usa ma blocco navale continua, notizie live Adnkronos L'Iran blocca 6 navi in Stretto Hormuz RaiNews Esercito Usa, 'spari contro petroliera che voleva forzare il blocco a Hormuz' ANSA Iran, l'esercito Usa spara su una petroliera. I pasdaran bloccano quattro navi a Hormuz AGI Guerra Iran-Usa, notizie e aggiornamenti 26 luglio 2026 Italpress",
+          "pubDate": "Sun, 26 Jul 2026 07:41:12 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "google",
+      "n_items": 10,
+      "n_sources": 8,
+      "category": "general",
+      "score": 80,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Sua Maestà e le drag queen, al via il WorldPride 2026 ad Amsterdam - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSTlzWGxUWEc2LWl0MEtjSFAyaE1yZ3V1RlQ3d240VDRQd3RWM0xBb0Y5cF9MUnoxWmZPMzJyZUMtU0s0dGZMMlg1dTdqNnFxZDAzdEU5OXd1am9fMjItYjQ1cEFLalNuZ01rMG0weWZqdEM5WlNsNFZXM1ptYURYX3hJc1oxSkdXc3NENkt2U1lXQ2l6RGNqUTJZcDdJSS1YTV9MZ3oydDA3NmYyNEhldUQzS0E2NmZ3RHZxVjJWcnNjZGR2VHJtQW4wZDJzOEQ3ZUY4dGxVVG81bmVVcldQOXdtWWlFcXduYVoyRWsySDE?oc=5",
+          "description": "Sua Maestà e le drag queen, al via il WorldPride 2026 ad Amsterdam ANSA Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Sat, 25 Jul 2026 18:29:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Iran’s FM claims Ukraine struck Iranian vessel ‘at Israel’s behest,’ vows retaliation - The Times of Israel",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVlNxdHdaMG9nMERGSTNoM1ZoQzJLUWZLR01KbmlJM3J1dVJha2RyenZhalBQdTZiN05fMnlOeWMzU1NTNHpKM3hDWDNQVlJjV1N1QzlLYUFxc2lVSFA4T1dMTnEwaFZzMG4ybVhJOUI5Z1BxMEZiSXR5RmE5R0ItNGpiU0NzSkJNZDBDbjU1Y1kyV2M4VWV0V3dGajlKLUZMM2xseVFCdmNOUGphNGZZQ9IBtgFBVV95cUxPZ3IwaGFobGVoVUs4blp3VEdXc2JtcGRhUVA0bWs3eXhmNG9CYnM0RXVMZ0YyR3hQaHVUWWZYX0JTdU9PVGxsajkxWnpHZmFJcXBsYUdqRE1KNVNBOFFWbkxRb0tUUEhfS1ZvNElZdmt2a2JENERZa0ItV1dkSG02bjY4RjlNcWQ5NkVZcEN0dmNROWZLWFVKWmZlOUxfTEV6OFUycHhvdUV0aWs3cHNGZWpxckhTdw?oc=5",
+          "description": "Iran’s FM claims Ukraine struck Iranian vessel ‘at Israel’s behest,’ vows retaliation The Times of Israel See more headlines & perspectives on Google News",
+          "pubDate": "Sun, 26 Jul 2026 22:04:25 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Google lancia le 'Fonti Preferite': scegli ANSA.it",
+          "link": "https://www.ansa.it/sito/notizie/magazine/2026/07/03/google-lancia-le-fonti-preferite-scegli-ansa.it_f12f4406-1ce0-42f2-b837-c8c89e5793a9.html",
+          "description": "",
+          "pubDate": "Tue, 14 Jul 2026 09:55:50 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Trump vows to investigate EU over fining of US tech companies",
+          "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+          "description": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+          "pubDate": "Fri, 24 Jul 2026 20:23:58 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Google, maxi multa Ue da 890 milioni: Trump minaccia l’Europa - QuiFinanza",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeVNHSWtHaVF1ZW1QeVZTV3hTMnFfTU1vczhtYzFHb2oycm5vdWhQWjVuTlNUeFNTWmdlUmpTNTNYemplaFZqQmg3a0U4aFk1MzF1eXlweDFSSkp3UXk1cG55RUhaZUFDSGRWVGdUeWs5NWNISkVSd243bkhCUG9MTDh30gGHAUFVX3lxTE5JQU0zRFlLb3hzaWlfRlp6N3FFdlZGSkFsWjlVbHBiRlBMMVhVcjZtVUVGdkZIZC1iQjhhY1VlcV9NRXpPOEd4ay0tNmVyTHl4Y1VpdXp4UU04dWZVamhiQURlYUhJSjdoMVZ6eVdlZ19WOWRtQllUYVFFZWhBTTcyeEFkcFVPdw?oc=5",
+          "description": "Google, maxi multa Ue da 890 milioni: Trump minaccia l’Europa QuiFinanza Dazi, Trump minaccia l’Ue dopo la multa a Google: “Pagherà un prezzo molto alto, li avevo avvertiti” la Repubblica Trump minaccia la Ue con dazi: «La pagherà, revochi multe a società Usa» Il Sole 24 ORE Dazi, Usa furenti per la multa a Google inflitta dall'Ue: Trump minaccia nuove tariffe Corriere della Sera Multa Ue a Google",
+          "pubDate": "Sat, 25 Jul 2026 10:37:40 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "guerra",
+      "n_items": 13,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 71,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Axios, 'per capo Centcom i raid a Hormuz hanno raggiunto limiti d'efficacia' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUTVLc2NFQ0ZRdUo5OWhBeDZLTmQ2RklrMHhUR01CVkdHa2RBYlpQQnhIdnJONFVKQjFucXJEdVNVSkQtcW5QMHZ2LXlweE9vOV9MYkVXSFpuQTFlX2RsU0VqNzJFLW94blAwVVo2bVdpZ3ZGZEdham9KaUVSV0FJcGdKRXFuR2hSOUJ4MFh0dGZ6Mk0za3lja09kWjBBbnkwaDVOUmdGNWlzbm9HTVlvN1hmMXV1V1g2RDRXRUpiek1xelJzc1hoNDRlXzNvSFkxdFhJOXlEcUEtQWtKV015VFRxUlpEUlByMWVHdk1oOTRKdTZOZ0JjWVFn?oc=5",
+          "description": "Axios, 'per capo Centcom i raid a Hormuz hanno raggiunto limiti d'efficacia' ANSA 'Teheran è disponibile a proseguire i negoziati'. Trump accantona l'escalation - LA CRONACA DEL 26 LUGLIO ANSA Cisgiordania in fiamme: moschee bruciate e nuovi insediamenti illegali Il Fatto Quotidiano “Raid su Hormuz inutili”, Trump sospende la guerra. Teheran: “Ci fermiamo” la Repubblica Stati Uniti e Iran sospendo",
+          "pubDate": "Sun, 26 Jul 2026 18:07:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "USA-Iran, spiragli di dialogo. Media: \"Scarseggiano munizioni\", Trump: \"Ne abbiamo più di chiunque\" - Cisgiordania, i coloni incendiano due moschee e l'esercito arresta 80 palestinesi - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNSDdZaWl2dVhWQVhXNmwtNHZwSkF2YlFJaUFfTUswUllrUDZEazUyanRfbnA2MVV4M3doMFN0aUpIbW44X3hsUmNsQ2ZnSkF2OEQ4cWhrRHJyaHZZVjMxaDJ4OFBON3JkOXJPNnNwNnRTaGF6djBHSlpaTGpHVzlTS09acG9iQnJubHBlaHFEbDRwVnNEQ3lpM09DNXNxME5FOFRHanJzWkZjeDM0ZU5GVEdLMkhWSTQtenpOYVNHSmVKd25jWGduRUR0QVhDOUhJeFlha2NFTW9tLTN1Mk96OVNiQVR6MjRrMkhzVnNQY2xCNFRFZm9VNHI5RUFfdmZkU2R0d1BRUmgwWVJFcDVhYktUdHgtZDI3d0hfanRQTTVOel9IUl9xZnFaSGNQaEdxUEJV0gG4AkFVX3lxTE9fRjJ4bGkzT29wczhMeWpBN3llNFZHUy1HRGhlSEhyRFQzcm1BR1dkUU9BOTUtLWJDcTJTRW45QW44UFNLRG5iOHhpc3Nsa2xXRGc2alJwTThGMU14UVhsNlNRLXUzRGFSWlA3ZmdmWm1SOWp0Qm1lelFqVjdpM0F0Y0hQSzFZT2paY0oxc2lmNGJuMUIwa2VrTTczc2tYeG9kSTFLeXRMOWdQR3duNEZFVjBQSFZMRHVhYkpZUmJtdVZXUE1VeWQ3cWUtbUU1UGVwVnJVZlE0cGlzeVVGTVhmYWtDU3J2SkwtQ01zakVKUm94WVVyVXkzYjY5TkppbVVKemxZeUxTdGlCSnNVVERlTkxiVVczQmFxY195MWJDU0tReVhEdEFhV3NNS2M3NGJmMnNxWm83Qw?oc=5",
+          "description": "USA-Iran, spiragli di dialogo. Media: \"Scarseggiano munizioni\", Trump: \"Ne abbiamo più di chiunque\" - Cisgiordania, i coloni incendiano due moschee e l'esercito arresta 80 palestinesi RaiNews Guerra Usa-Iran, le notizie in diretta | Trump: «Abbiamo munizioni più di chiunque altro e ben oltre il nostro fabbisogno». Il petrolio cede in Asia più del 5% sulle speranze di accordo. Corriere della Sera G",
+          "pubDate": "Mon, 27 Jul 2026 02:37:30 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "I dazi di Trump spaventano i repubblicani in vista dei midterm - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPc0c4clhuQk1tWDJfR2pNTnV3dExhV1pCR3NWVnJlOUdjbVNmODBpNWZhc3pFR3ZYaFdGLV8wcDZJdWNMQTV0VnJPVDRiZ21ycFhHQ2ZvUDBpTWdVWDM2aVB3d3E2dHVUNWQxaWRkTWV2X014OGtsNkh1aVJaaGRpdV9yanpMZkxoMWV5Tjdxby1QY1JKVlMxZGlrbTFNQk1MTm9oNkVsZDNtTjBCclJyd2NTRThHNkg1djctR0NnNmdETVJOcC13MGp0WXhITzVSdFhKSEFXRmlXQnZZR0NQalJjTjYyN2d6ZExFMExDVjlqVDhRZF8yWlRfWGIwdHJYUndLd1pQaU8?oc=5",
+          "description": "I dazi di Trump spaventano i repubblicani in vista dei midterm Il Fatto Quotidiano Dazi Trump, cosa cambia per l'Italia? Gli effetti su vino, prosciutto, formaggi, farmaci e Made in Italy Corriere della Sera Tra Europa e Usa la guerra commerciale sarà sul digitale la Repubblica Il rame del Canada, i dazi di Trump e la lite fra le tribù dei nativi (di N. Graziani) HuffPost Italia Dazi, il sollievo ",
+          "pubDate": "Sat, 25 Jul 2026 07:14:11 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Iran e Usa sospendono gli attacchi. Netanyahu: \"Ascolterò Trump, ogni decisione spetta a lui\" - AGI",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OVTlBNnROTHFEOVdMZGtBRmdCb0ZIeV85aXNqdU42dkI1Nk9HSkt0Tm1tWm82OEhYbFNZZ3BvSlhVZDhkYjFKdU5zTnowcnBrc3FUMkd5TnlxRlZ3NVc3ZUxZYy1tSUc4Y0U1Qno5ZVZKQ0h4TUcyZg?oc=5",
+          "description": "Iran e Usa sospendono gli attacchi. Netanyahu: \"Ascolterò Trump, ogni decisione spetta a lui\" AGI 'Teheran è disponibile a proseguire i negoziati'. Trump accantona l'escalation - LA CRONACA DEL 26 LUGLIO ANSA Cisgiordania in fiamme: moschee bruciate e nuovi insediamenti illegali Il Fatto Quotidiano “Raid su Hormuz inutili”, Trump sospende la guerra. Teheran: “Ci fermiamo” la Repubblica Stati Uniti",
+          "pubDate": "Sun, 26 Jul 2026 21:58:30 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Media: \"Iran e Stati Uniti aprono al ritorno dei negoziati\" | \"Per il Centcom i raid su Hormuz hanno raggiunto i limiti d'efficacia\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN3B1alpxRXlXeGY5UE1kcGJoZ0l1Q0I2TW5DZGlsRE1BTFpnUFNES0hxajFycldieVN3aG1wckpYSmdVX3NvV3NZRTNDTVYzdW1mRHMwZmw5Um5EeDhubDhWWm5jc2VtZ1pFZ1RHWHNQTUNXb0ZucUJCaS1BU0pESTJrUmpkN2V3ZlB2cUkwMHJJY19fdi1HQ0pqdzdHSVhNdFVuWlB2bTJXRHBNVWVR0gFoQVVfeXFMTmhFTjZLMHdDM0lTbnlJU3RBUnE0WmhSYy1XdGtObld4U1hpVWI4ZjBpRUFLZmI4TWw3Rk43YlF1ODJpWTFnRldHYWF6czNfQnR2bmNPc1dBVzZrdDljWDNPZ3BWaHhOajA?oc=5",
+          "description": "Media: \"Iran e Stati Uniti aprono al ritorno dei negoziati\" | \"Per il Centcom i raid su Hormuz hanno raggiunto i limiti d'efficacia\" Tgcom24 Iran: \"L'attività di mediazione continua ma priorità è la difesa della nostra sovranità\" - Il portavoce del ministero degli Esteri iraniano, Esmaeil Baqaei: \"L'attività di mediazione continua ma la priorità è la difesa della nostra sovrnità\" RaiNews Guerra in",
+          "pubDate": "Sun, 26 Jul 2026 21:23:18 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "after",
+      "n_items": 15,
+      "n_sources": 4,
+      "category": "general",
+      "score": 60,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Trump wants to give U.S.-Iran talks ‘some space’ as he weighs escalation, aide says - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcF9sY3BpTUlqMXVNUHdkeE5XMjNDSXhsUVdMQ3pGXzZXSjVzWnlHQ0lSZlJVNkhnM2VveENSRS1waTZlMjBvT0U4NjJ3b2VrdkdxLVVuWTRpU21FVW5WSkpfQ2xMcWdWUFhnMk9hWVNLQVlZSmo3SWY2VURja2hlZ2drcmJHN0lqRVExQmFJeUlGRUd0a3R1QW1vRnVzOVJNM3R6dWRPdzhQaDJVc3NaVU5WSGxLZjJQM0RJQ29mOFpjTzYwbkE?oc=5",
+          "description": "Trump wants to give U.S.-Iran talks ‘some space’ as he weighs escalation, aide says The Washington Post Trump Pauses Iran Strikes as Officials Weigh Dwindling Air Defense Stocks WSJ Top U.S. military commander in Middle East advised halting Hormuz bombing Axios Iran war live: Tehran halts retaliatory strikes after pause in US attacks Al Jazeera US strikes 'on a hold,' as talks, battle for Strait o",
+          "pubDate": "Mon, 27 Jul 2026 00:45:51 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "ICE prepares major operation targeting Haitians losing TPS after Supreme Court ruling - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeDFNMld3QnotendUTDJVdlNjR09qMTQtYWJPeTlVa0lNdjdORXlfbW5jWDJveGpJZjdhZDUxc1FhMFZfblFPd0R0YUFpOC03bG5VWERDUlRsVlh6SEdMaWNxSVU5YkVGSS05QVNneFlLWUg0M1JIMXdyUUozS2NKaWJJdTVZUUVNV2ptNDZfNU1MdDVIaWZkcl84aHN1WG5KQXlVbFhUSlN4cElRZjdxd1Fn0gG3AUFVX3lxTE5OY2drWHNNeFJmZm41aUhxM0tqQVVMelQ2eHlBVXVRbDhENWItWlRxNmdGY3drMkxUMkNRY201enYzLWgwYWpWaWZHZjV2dzJrdmFRaGw2U3ZOd2NiV3RxNjE2eTI1VHh1emZoaFRKdUNMbFFuNDVzdFg4enI5cXZhZzNxcUtud0NiOE1DN2NscW8yeG9nYXRxdzNsNG03Z243dDV1Z29BeVp2U0Y3bFgxaWc1ck1nRQ?oc=5",
+          "description": "ICE prepares major operation targeting Haitians losing TPS after Supreme Court ruling Fox News Employers Fear Labor Shortage as Many Immigrants Lose Protected Status The New York Times ICE plans to target Haitians as Temporary Protected Status is set to end, sources say CBS News ‘It’s like firing your best worker for no apparent reason’: Why this New York family is dreading a looming deadline CNN ",
+          "pubDate": "Sun, 26 Jul 2026 20:45:40 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwTUJ2SFJWQmw1V09jWGdYd0ZEWnZBUGMxRUI0bnBZQU0tY1B1elRsekUzemlaa2ZscXNMUWZqRnVySnhMSEVLVExKMWZtZ2JZLU5RN2JvSWwxUQ?oc=5",
+          "description": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat BBC NBA star rips socialist NYC Mayor Zohran Mamdani as 'mayor playing president' after Netanyahu video Fox News Netanyahu Accuses Mamdani of ‘Hate Speech’ After Mayor’s Video Address The New York Times Netanyahu accuses Mamdani of ‘fomenting hate’ and calls ICC war-crimes charges ‘bogus’ AP News Khanna echoes Mamdani’s ca",
+          "pubDate": "Mon, 27 Jul 2026 00:27:58 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Why are Israeli settlers on a rampage in the occupied West Bank? - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLVRFZ0NEWFRLUlRFbS1PSmxLTDlROWhCTkwxNUNnWUxfXzlHUjhYclUtc3Zwb3RPWlFxLXAxb2tTdTc2Qm5ZZmxaY3dVSVhMQ2NESDVYRXVHbHBleUFOemNTU3hJSzlJQjhaRDdVaTZkTS1mV2RWUVViY3U3ZkJ6bUlQZDNzVjhsbFIyMlZpSWxORjM3ZjhackoxdDJEUGVlZFN1TnNTVdIBrAFBVV95cUxOQXJjaF9IVzZJRjdCT3ktdFpYUUVWeGNWUVBXcldhQWU2dHFiOUx1QTNuOVlrXzFxN0YtQXF5TExyZzZpWGkwYm5KdG9iUmtaS3laZ09ZbUtrbGpsTDd5VC1IMGhHMHB3b0hrdm1KZWpJSGh1QmU4bU1Ydnlvd01faHVaVm9DU0VKVThfcHBHa2xxbVI3MlhvOGFFM0tqUEd6ZmgxcVJOTkFDUldJ?oc=5",
+          "description": "Why are Israeli settlers on a rampage in the occupied West Bank? Al Jazeera 2 mosques in the West Bank are set on fire during a deadly surge in settler violence AP News Israel prepares major military operation in West Bank after four Palestinians and two Israelis killed CNN Daily Briefing July 26: West Bank clashes turn deadly The Times of Israel Israeli settlers set fire to West Bank mosques afte",
+          "pubDate": "Sun, 26 Jul 2026 13:33:01 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+          "link": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
+          "description": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
+          "pubDate": "Mon, 27 Jul 2026 00:27:58 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "mondosanità",
+      "n_items": 16,
+      "n_sources": 3,
+      "category": "tech-ai",
+      "score": 54,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Una foto di un neo può salvarti la vita? Ecco cosa può fare oggi l’Intelligenza Artificiale - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR3dIZlg2OUNxdkJUelptVkNKUHZjeU53eXdZd3lwTnRrQUhQbTk4dDk2ZTF5ekZpaXFsaTkwQ05NdWdDT3hwdWdDZFpOS1NjMHJ0VFhjU211eDB0U3hCWUlOMmZha3ZfeGxvSzZZaDViQkx3X1pzbzVkTXVEZjV1T3BkZWxQZk9QZERpWVRKMnRGdC01SklyaFRRYTBJOW8wZDdtVG83WnlsUGZJMmM1NU9qMTRVdVhLOWdqMi11QS1STzB2U3JTVU9naXRJWnU1cXI4bjV4RQ?oc=5",
+          "description": "Una foto di un neo può salvarti la vita? Ecco cosa può fare oggi l’Intelligenza Artificiale Mondosanità In Veneto l’intelligenza artificiale accorcia le attese: «Ti chiama per prenotare la visita» L'Arena Cds accelera sull’intelligenza artificiale: così cambia la diagnostica e la sanità del futuro Forbes Italia Intelligenza artificiale in sanità: dove sta funzionando davvero Agenda Digitale La gov",
+          "pubDate": "Sun, 26 Jul 2026 13:05:34 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Il cervello cambia difese nella mezza età: cosa accade tra i 50 e i 75 anni - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYXRpZVBOVldaM2JHVU1fd1NqX1hRUDM2Mmt3cVhKNFg3ZnE4WWVsSXc0QVk0dklQY09nLW1GV2RGNGdGUHZOVm5wU1NtYV84UWFHWjl1VVhWTl95blBCMG9pOWl5Q1lIYjFKM2Jtd3lIbDhBZ2toQVg2VkRwSlBvNFprOGxaMWF0UEdPb1VWRXN2ZWlnY3lUMTBoY29sNTZHLU93YXZCV3hrcEtBX1JaM2J3VVR6bWhzR2EtcExMdHMwaFVieDdFa2xyYXRPNDg?oc=5",
+          "description": "Il cervello cambia difese nella mezza età: cosa accade tra i 50 e i 75 anni Mondosanità",
+          "pubDate": "Sat, 25 Jul 2026 20:33:28 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Perché ci sentiamo in colpa quando non facciamo nulla? La scienza del riposo “proibito” - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZG0zMzBibE5zWlVkVU13WHl5Tm5yeUtndHJmN21BemUyQnJDRmlzcjRfVVdvUHMwVFlad1R0eWM2RElFVjhwZ2RPNm5nNVZfeGZYV21mdy1iOXFFellOUkxXOENDa2g2S1NyZzdNUGJwYWVaVVpsYTMtZHJ6Q3BqNEtCbHNFd0wxY2lsdG85am9lQ1JBbkNWVTRZSTJXdTN1SVpyWno3d1ZjZzd6YzJISmdZQktERi10ODZqTGlDZnNIT2RnMUFla0JCZHZFVU5RNkVGRWFhSTlhRXpN?oc=5",
+          "description": "Perché ci sentiamo in colpa quando non facciamo nulla? La scienza del riposo “proibito” Mondosanità",
+          "pubDate": "Sun, 26 Jul 2026 06:34:56 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Muhammad Ali e il Parkinson: la diagnosi a 42 anni e cosa sappiamo davvero sui colpi alla testa - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdXVqM2RvZVpCRlZrX0RCOTVUbVZFTTRTR005NUYwTnJCRkxRQnk1aFptVVI0TVpiOU9JY2g2VklIZ1VBSHdvUjZONlZWem84MDQ3R0hUMW9DLXpBTkR3VDFLbkdIbEZNVU5NbzhRc3laSDZUaHA3RVVENUNWdGNDRGFOWC01V29BNEJiVkJjYkNhWE1WcWlkNC1aRkJhcXRFYU9ENVdzWVJPanpva0xfb0hvc3c0S0dKSUY3OVRDeHhzOE9UUGlIZXQ3MTk3SWVXbWVzYkFlRnhSbDYzbmFTbTV2VjQ5OW9k?oc=5",
+          "description": "Muhammad Ali e il Parkinson: la diagnosi a 42 anni e cosa sappiamo davvero sui colpi alla testa Mondosanità",
+          "pubDate": "Sun, 26 Jul 2026 03:04:10 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Cannella e glicemia, la tradizione anticipa la scienza: può attenuare il picco glicemico - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSktMbTYyWkdnYlNCenJXbFpqNVhGZ0tnejVJc0tETWQ4d1hhMWlmOVVrZF9Lb2U4N0MtNmlXakJCREF2eDQteHgtRWRXRVB3WjN3djJDM3dJV1FyRDFudWx6ejNpb3ZxWUQxU0JyMkJzaWxOYS04UzJ6bklCNVNTMzVGNmdja3JiV0phRTBFS0FPbmVkemxqNmZZbkxYc2hnNEhDZktVV0NkOFl1RmRqRkRTbV94RE1pMUhhTmk4enNiNlNwYmYzUzYtWEU2Y0NtTF9J?oc=5",
+          "description": "Cannella e glicemia, la tradizione anticipa la scienza: può attenuare il picco glicemico Mondosanità",
+          "pubDate": "Sun, 26 Jul 2026 08:35:09 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "pride",
+      "n_items": 9,
+      "n_sources": 6,
+      "category": "general",
+      "score": 54,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Attentato a Berlino, ucciso dalla polizia il presunto autore - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRV91a1Q0b2NROHZqaGpMbWxscHMzMTJzXzdPbFlJdE1VdnNLajlKOEhjU2hWbmVjU1BUMW1PNUNXMXlOWG45amV2Q0RyQTlrRlpfRmN6cEVZMEdDbTJ1UnRmZ1hFc3BZNmdqbndSSDVqNS1CS2JnUzdnMGVjTVZpMmRjSDNWTnd4blpLNjhmQ0pNTDZuUVh3MlZOTmRTb2w2RDBoa3VoOV9DNHc?oc=5",
+          "description": "Attentato a Berlino, ucciso dalla polizia il presunto autore Tgcom24 Ucciso dalla polizia l'attentatore del Pride a Berlino, 'sosteneva l'Isis' ANSA Abdul, il fanatico jihadista condannato per terrorismo: “Doveva deradicalizzarsi” la Repubblica L'italo-tedesco Pantisano: «Mi trovavo dietro al palco, l'omofobia è dappertutto» Corriere della Sera Attentato al Pride di Berlino, è morto Abdul Ballout:",
+          "pubDate": "Sun, 26 Jul 2026 21:11:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Chi è il giovane ricercato per l'attentato al Pride di Berlino - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNc2NnQ1JQdnRMOElQamlpWnc5a09lOTQzZWlzNHpJbFgwX05QbU1lSVhLaGluOC01dm5HLTRrWFE0ZG5ReFV5NlhMNVRCU3lUTW5ieGUwaDB3aU9VYVhYYzBVQ19lN1hhcnFaWFZfZE1ZSENrZzhrdjZPUmtBN05qUkpJYmR5NTV1MVl4YTdCNjUzWEs5N1lNdzhnT3dMV1piV3lZa0VDdmxkS3RKczJzcm02TWlIdVFYQkp0VHg4ZXM3Tmh1elBsbmtEdGEta3d5NlhFdFRwTnM2YTNUblRsTUJ0NGI3dXVTekgweThlaS1vZU45MjhzaWM1WjBHc3c20gGGAkFVX3lxTE44TDBIQW0zeW56b1IxekJfdXlaSzc2cjBnemhEdUFjd3Q4U1doTUNBSmJKdi0tR1BBM1YwTjNRQTJGb1ZDTU1zaFJDTDVuSjVQVHd0N1JCWjFvTlJXVkVORnMwSTRLcG85SmVHZU5YZGVJVmRONWFhYnlialIyUjJBOHc0emJOd21LdUtOdno4SWJreVFHSVhzMzNWWUVJVlJSZUJlaEtwdU1sZmlTcG1UeFRFSFUyMllpZmhlNExacEpmNlJRay1VUVd6ZzhwaHYtbEY5ME1PYXRQX1BnVmF0ejRfLTY0cko3OGFCQUk5Z254WVNIR1I5ZTlsLWRMYlFHV2F6dUE?oc=5",
+          "description": "Chi è il giovane ricercato per l'attentato al Pride di Berlino ANSA Ucciso dalla polizia l'attentatore del Pride a Berlino, 'sosteneva l'Isis' ANSA Abdul, il fanatico jihadista condannato per terrorismo: “Doveva deradicalizzarsi” la Repubblica L'italo-tedesco Pantisano: «Mi trovavo dietro al palco, l'omofobia è dappertutto» Corriere della Sera Attentato a Berlino, ucciso dalla polizia il presunto ",
+          "pubDate": "Sun, 26 Jul 2026 10:15:53 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Sua Maestà e le drag queen, al via il WorldPride 2026 ad Amsterdam - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSTlzWGxUWEc2LWl0MEtjSFAyaE1yZ3V1RlQ3d240VDRQd3RWM0xBb0Y5cF9MUnoxWmZPMzJyZUMtU0s0dGZMMlg1dTdqNnFxZDAzdEU5OXd1am9fMjItYjQ1cEFLalNuZ01rMG0weWZqdEM5WlNsNFZXM1ptYURYX3hJc1oxSkdXc3NENkt2U1lXQ2l6RGNqUTJZcDdJSS1YTV9MZ3oydDA3NmYyNEhldUQzS0E2NmZ3RHZxVjJWcnNjZGR2VHJtQW4wZDJzOEQ3ZUY4dGxVVG81bmVVcldQOXdtWWlFcXduYVoyRWsySDE?oc=5",
+          "description": "Sua Maestà e le drag queen, al via il WorldPride 2026 ad Amsterdam ANSA Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Sat, 25 Jul 2026 18:29:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "The suspect in the deadly Berlin Pride attack is killed in a confrontation with police - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUk1peTczYkVuampNNFg3QXNzcV9acU1tTndtdXl3dFcwT01hZGJxUzQ5b2ZfckltZnJaLWpzVXdZcmlpQl93cFJqWWFxa3RmLTdkWlhDTTBnX3RMUGtvejhDWDJmRVEwTWl3ZWJHNlhubWRwOWFoYjdKWHBXakxPRVhqSnNkb1UwczFCaF82YnpuZEk4bVdwdzc4RC1sSEtwS2RDTXRsVDA?oc=5",
+          "description": "The suspect in the deadly Berlin Pride attack is killed in a confrontation with police AP News Berlin Pride Event Attacker Killed in Police Shootout, Officials Say The New York Times A fatal attack on Berlin's Pride festival leaves locals wondering how their city will recover Yahoo Suspect in deadly Berlin LGBTQ+ parade vehicle crash killed, police say ABC News - Breaking News, Latest News and Vid",
+          "pubDate": "Mon, 27 Jul 2026 01:58:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Ucciso dalla polizia l'attentatore del Pride a Berlino, 'sosteneva l'Isis'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/ucciso-dalla-polizia-lattentatore-del-pride-a-berlino-sosteneva-lisis_3d8ec836-20e8-48cf-b7df-a3462a666d83.html",
+          "description": "Il 21enne contro gli agenti con un coltello. Un morto e 29 feriti. 'Terrorismo islamista'",
+          "pubDate": "Sun, 26 Jul 2026 20:50:51 +0200"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "hanno",
+      "n_items": 8,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 54,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Axios, 'per capo Centcom i raid a Hormuz hanno raggiunto limiti d'efficacia' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUTVLc2NFQ0ZRdUo5OWhBeDZLTmQ2RklrMHhUR01CVkdHa2RBYlpQQnhIdnJONFVKQjFucXJEdVNVSkQtcW5QMHZ2LXlweE9vOV9MYkVXSFpuQTFlX2RsU0VqNzJFLW94blAwVVo2bVdpZ3ZGZEdham9KaUVSV0FJcGdKRXFuR2hSOUJ4MFh0dGZ6Mk0za3lja09kWjBBbnkwaDVOUmdGNWlzbm9HTVlvN1hmMXV1V1g2RDRXRUpiek1xelJzc1hoNDRlXzNvSFkxdFhJOXlEcUEtQWtKV015VFRxUlpEUlByMWVHdk1oOTRKdTZOZ0JjWVFn?oc=5",
+          "description": "Axios, 'per capo Centcom i raid a Hormuz hanno raggiunto limiti d'efficacia' ANSA 'Teheran è disponibile a proseguire i negoziati'. Trump accantona l'escalation - LA CRONACA DEL 26 LUGLIO ANSA Cisgiordania in fiamme: moschee bruciate e nuovi insediamenti illegali Il Fatto Quotidiano “Raid su Hormuz inutili”, Trump sospende la guerra. Teheran: “Ci fermiamo” la Repubblica Stati Uniti e Iran sospendo",
+          "pubDate": "Sun, 26 Jul 2026 18:07:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "\"Verità e giustizia\": il corteo per Fakir a Bologna - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc3dUVFJKQUJIOE5sTlFQSlhJeDBNcElFVXQ2bHJoMkJuT1Zob2s5Uk9ZTm0yMmtlQ0ViRkNuOVZfc2g4cTBMUG1kMEx0V0pvR0pGeE13cWNWVFhYTzAtZjk4ekxiZWhJai02ZFlNS0xvNFVrWnZlQnRRWWRwWWxEWUZfWUZTd3lHekcwRmhhd1BMQUpKMHJzQzR3?oc=5",
+          "description": "\"Verità e giustizia\": il corteo per Fakir a Bologna Il Fatto Quotidiano Manifestazione al Pilastro di Bologna, circa 2mila in corteo: “Via Svevo diventi via Fakir”. E torna il simbolo di George Floyd Il Resto del Carlino “Voleva aiuto, lo hanno ucciso”. La marcia del Pilastro per Fakir la Repubblica La morte di Fakir, il caso Roggero, il suicidio assistito, l'Ucraina: parla Zuppi Avvenire Morte Fa",
+          "pubDate": "Sun, 26 Jul 2026 19:26:50 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "India, Ghosh: \"Gen Z straordinaria, per la prima volta slogan contro Modi\" - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYWMtQ1BfUGx3V2FZWlQ2RGZ2b0d5ai10eF9JQXB3MkpjbW1SQmtWQ2hYbXdQUnhPXzBiT2FmZG9OckNsVU90X2FwSGt6RnpIT0lFaVJEcUNKNnAtTGtyMUVqNXJNbVZqWFFpalNsR0s1T3FwZkk1LXNfMHJkTmxaV1FwOU9FSmk5eFM0Q09tdE9zMTBTT0VQT1VoeS0tYU0?oc=5",
+          "description": "India, Ghosh: \"Gen Z straordinaria, per la prima volta slogan contro Modi\" Il Fatto Quotidiano India, il ministro dell'Istruzione si dimette: vince il partito degli scarafaggi Il Fatto Quotidiano L’esame che ha innescato la protesta degli scarafaggi in India Il Post Il grande ritorno di Gandhi, dagli studenti ai contadini è il trionfo della non-violenza la Repubblica I giovani indiani hanno vinto.",
+          "pubDate": "Sun, 26 Jul 2026 07:18:22 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Media: \"Iran e Stati Uniti aprono al ritorno dei negoziati\" | \"Per il Centcom i raid su Hormuz hanno raggiunto i limiti d'efficacia\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN3B1alpxRXlXeGY5UE1kcGJoZ0l1Q0I2TW5DZGlsRE1BTFpnUFNES0hxajFycldieVN3aG1wckpYSmdVX3NvV3NZRTNDTVYzdW1mRHMwZmw5Um5EeDhubDhWWm5jc2VtZ1pFZ1RHWHNQTUNXb0ZucUJCaS1BU0pESTJrUmpkN2V3ZlB2cUkwMHJJY19fdi1HQ0pqdzdHSVhNdFVuWlB2bTJXRHBNVWVR0gFoQVVfeXFMTmhFTjZLMHdDM0lTbnlJU3RBUnE0WmhSYy1XdGtObld4U1hpVWI4ZjBpRUFLZmI4TWw3Rk43YlF1ODJpWTFnRldHYWF6czNfQnR2bmNPc1dBVzZrdDljWDNPZ3BWaHhOajA?oc=5",
+          "description": "Media: \"Iran e Stati Uniti aprono al ritorno dei negoziati\" | \"Per il Centcom i raid su Hormuz hanno raggiunto i limiti d'efficacia\" Tgcom24 Iran: \"L'attività di mediazione continua ma priorità è la difesa della nostra sovranità\" - Il portavoce del ministero degli Esteri iraniano, Esmaeil Baqaei: \"L'attività di mediazione continua ma la priorità è la difesa della nostra sovrnità\" RaiNews Guerra in",
+          "pubDate": "Sun, 26 Jul 2026 21:23:18 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Axios, 'per capo Centcom i raid a Hormuz hanno raggiunto limiti d'efficacia'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/26/axios-per-capo-centcom-i-raid-a-hormuz-hanno-raggiunto-limiti-defficacia_32e11869-2d89-4464-a117-88d64e291f49.html",
+          "description": "L'ammiraglio Cooper ha così influito sulla decisione di Trump di fermare gli attacchi",
+          "pubDate": "Sun, 26 Jul 2026 20:08:32 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "nuovo",
+      "n_items": 9,
+      "n_sources": 6,
+      "category": "general",
+      "score": 54,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Incendi in Francia e Spagna, si valuta l’evacuazione di Bordeaux. Nuovo fronte vicino a Valencia e fiamme alle porte di Madrid - Quotidiano Nazionale",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaVZIc1NtenVuZDVDSWZSdk1YVDZnRWd5d3JXMVlwY1NLTUI5Q2FGRng3aERoU0lRZmdHNHA5cFFTemhRdXQwaGJBeTJ1bmVrNzBMWF9XVVE2dFVKa3VOLWlhRDk3UFM1Zk5OOTZQVTJLSUNXOFZEbmlXQUNRSDdtaDFuOVRzdmtFX3dHZXZrM2N4V21OcGtLaTc3c0x5Zw?oc=5",
+          "description": "Incendi in Francia e Spagna, si valuta l’evacuazione di Bordeaux. Nuovo fronte vicino a Valencia e fiamme alle porte di Madrid Quotidiano Nazionale Il fuoco ora minaccia Bordeaux: in campo anche l'esercito. Resta l'emergenza anche in Spagna Corriere della Sera Incendi, oltre 300mila persone in fuga in Francia e Spagna. FOTO Sky TG24 Gli incendi minacciano la periferia di Bordeaux | Un morto a Vale",
+          "pubDate": "Sun, 26 Jul 2026 16:28:52 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Gb, Burnham debutta con tre misure fiscali popolari - AGI",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeGt4Q0tJdFpaX1YyX2NRSFB1Mk81a1ZPdWhfWFhhMklzbkVXRHBSUXltN0xfcEdQQW1MOVA3ZkNXaXl3ZHF1T21PN2ZjaDlUdnVrb040S3JkV2wtQV9oYThYYjE5eTFZWl9XVGZBQlUxYWlVUXdia05CeXZycGxyVU1aN2Y3Uk9nTVdTRmw1SHA?oc=5",
+          "description": "Gb, Burnham debutta con tre misure fiscali popolari AGI Se Londra va a Manchester la Repubblica Il Bandolo - Speciale - Politica ed economia in UK. Quali sfide per il nuovo Premier Andy Burnham, il Re del nord Radio Radicale Andy Burnham raddoppia e apre una sede del governo a Manchester. Le ironie su N.10 North: «Ci andrà per le partite dell'Everton» Corriere della Sera Burnham a Bbc, 'pronto a c",
+          "pubDate": "Sun, 26 Jul 2026 22:04:23 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Latte fresco, scende in campo la Regione: per chi lo acquista, rimborsi fino a 5mila euro - RomaToday",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMGpfNWs0WUJaRXFiZXZETFA1UFg5ZUpPTk9VZ1NhNWtMM0Z6ZHJMS1hja3FpWm9GYXFOeVFtcmFRMjdGUW1NQlFBX3hFUW4xSDFtd1hnX1g3M2IwUUdkY1d3LV8zdmd2M29fQTBlNHRBMGs1M2JEWGp2WUh2OFh1enVxQkdibW1obG5QLXBtTGk?oc=5",
+          "description": "Latte fresco, scende in campo la Regione: per chi lo acquista, rimborsi fino a 5mila euro RomaToday Aperto il nuovo Bando Fresco Lazio 2026 Regione Lazio \"Fresco Lazio 2026\", bando da 1,5 milioni per la filiera del latte: contributi a fondo perduto per bar, gelaterie e ristoranti Abitare A Roma Fresco Lazio 2026, contributi per il latte fresco del territorio: chi può richiederli e come fare domand",
+          "pubDate": "Sun, 26 Jul 2026 13:07:03 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Nuovo stop ai treni fino al 30 luglio a Firenze, da oggi secondo round di lavori",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/26/nuovo-stop-ai-treni-fino-al-30-luglio-a-firenze-da-oggi-secondo-round-di-lavori_304d2647-2e2e-4681-93c3-db958076034f.html",
+          "description": "Lo comunica Rfi, per il varo del Cavalcaferrovia Ponte al Pino",
+          "pubDate": "Sun, 26 Jul 2026 10:46:30 +0200"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Nuovo stop dei treni a Firenze: Italia divisa in due",
+          "link": "https://www.ilsole24ore.com/art/nuovo-stop-treni-firenze-italia-divisa-due-AJKCy0U",
+          "description": "Da domenica 26 a giovedì 30 luglio modifiche alla circolazione per il varo del nuovo cavalcaferrovia Ponte al Pino",
+          "pubDate": "Sat, 25 Jul 2026 07:02:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "hormuz",
+      "n_items": 9,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 51,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Axios, 'per capo Centcom i raid a Hormuz hanno raggiunto limiti d'efficacia' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUTVLc2NFQ0ZRdUo5OWhBeDZLTmQ2RklrMHhUR01CVkdHa2RBYlpQQnhIdnJONFVKQjFucXJEdVNVSkQtcW5QMHZ2LXlweE9vOV9MYkVXSFpuQTFlX2RsU0VqNzJFLW94blAwVVo2bVdpZ3ZGZEdham9KaUVSV0FJcGdKRXFuR2hSOUJ4MFh0dGZ6Mk0za3lja09kWjBBbnkwaDVOUmdGNWlzbm9HTVlvN1hmMXV1V1g2RDRXRUpiek1xelJzc1hoNDRlXzNvSFkxdFhJOXlEcUEtQWtKV015VFRxUlpEUlByMWVHdk1oOTRKdTZOZ0JjWVFn?oc=5",
+          "description": "Axios, 'per capo Centcom i raid a Hormuz hanno raggiunto limiti d'efficacia' ANSA 'Teheran è disponibile a proseguire i negoziati'. Trump accantona l'escalation - LA CRONACA DEL 26 LUGLIO ANSA Cisgiordania in fiamme: moschee bruciate e nuovi insediamenti illegali Il Fatto Quotidiano “Raid su Hormuz inutili”, Trump sospende la guerra. Teheran: “Ci fermiamo” la Repubblica Stati Uniti e Iran sospendo",
+          "pubDate": "Sun, 26 Jul 2026 18:07:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Iran e Usa sospendono gli attacchi. Netanyahu: \"Ascolterò Trump, ogni decisione spetta a lui\" - AGI",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OVTlBNnROTHFEOVdMZGtBRmdCb0ZIeV85aXNqdU42dkI1Nk9HSkt0Tm1tWm82OEhYbFNZZ3BvSlhVZDhkYjFKdU5zTnowcnBrc3FUMkd5TnlxRlZ3NVc3ZUxZYy1tSUc4Y0U1Qno5ZVZKQ0h4TUcyZg?oc=5",
+          "description": "Iran e Usa sospendono gli attacchi. Netanyahu: \"Ascolterò Trump, ogni decisione spetta a lui\" AGI 'Teheran è disponibile a proseguire i negoziati'. Trump accantona l'escalation - LA CRONACA DEL 26 LUGLIO ANSA Cisgiordania in fiamme: moschee bruciate e nuovi insediamenti illegali Il Fatto Quotidiano “Raid su Hormuz inutili”, Trump sospende la guerra. Teheran: “Ci fermiamo” la Repubblica Stati Uniti",
+          "pubDate": "Sun, 26 Jul 2026 21:58:30 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Media: \"Iran e Stati Uniti aprono al ritorno dei negoziati\" | \"Per il Centcom i raid su Hormuz hanno raggiunto i limiti d'efficacia\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN3B1alpxRXlXeGY5UE1kcGJoZ0l1Q0I2TW5DZGlsRE1BTFpnUFNES0hxajFycldieVN3aG1wckpYSmdVX3NvV3NZRTNDTVYzdW1mRHMwZmw5Um5EeDhubDhWWm5jc2VtZ1pFZ1RHWHNQTUNXb0ZucUJCaS1BU0pESTJrUmpkN2V3ZlB2cUkwMHJJY19fdi1HQ0pqdzdHSVhNdFVuWlB2bTJXRHBNVWVR0gFoQVVfeXFMTmhFTjZLMHdDM0lTbnlJU3RBUnE0WmhSYy1XdGtObld4U1hpVWI4ZjBpRUFLZmI4TWw3Rk43YlF1ODJpWTFnRldHYWF6czNfQnR2bmNPc1dBVzZrdDljWDNPZ3BWaHhOajA?oc=5",
+          "description": "Media: \"Iran e Stati Uniti aprono al ritorno dei negoziati\" | \"Per il Centcom i raid su Hormuz hanno raggiunto i limiti d'efficacia\" Tgcom24 Iran: \"L'attività di mediazione continua ma priorità è la difesa della nostra sovranità\" - Il portavoce del ministero degli Esteri iraniano, Esmaeil Baqaei: \"L'attività di mediazione continua ma la priorità è la difesa della nostra sovrnità\" RaiNews Guerra in",
+          "pubDate": "Sun, 26 Jul 2026 21:23:18 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Iran, ultime news oggi: stop per ora ad attacchi Usa ma blocco navale continua, notizie live - Adnkronos",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTk40RWtnZFdHbHNINWdFTHdadmpMMnloeGdLM1psazNnbC1jd1V0cE5ubVdEckRmb1czOW1KemlLZ3kxT1hpTVpOdkFrVFd4Z0lWbkNRd1U1YkZtT0pITEE0VVA2dVpVRU1PMS10M21KS0FoWDVnd0dzTUlNNEp0RkNYQXE3SHJlNTlhbGppY3N3VmFPeF9NSkcxTXJKRWVsYm1MZzBFM01oNG4tcDI1dWcwcmk?oc=5",
+          "description": "Iran, ultime news oggi: stop per ora ad attacchi Usa ma blocco navale continua, notizie live Adnkronos L'Iran blocca 6 navi in Stretto Hormuz RaiNews Esercito Usa, 'spari contro petroliera che voleva forzare il blocco a Hormuz' ANSA Iran, l'esercito Usa spara su una petroliera. I pasdaran bloccano quattro navi a Hormuz AGI Guerra Iran-Usa, notizie e aggiornamenti 26 luglio 2026 Italpress",
+          "pubDate": "Sun, 26 Jul 2026 07:41:12 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Un conflitto tira l’altro, l’Arabia saudita colpita dagli Houthi - il manifesto",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcDZCZ05xSk1yQjU5TE96Ykk4d3A2SkNLWkRLejY5OHZpX3RpZzdqS2s2SmtIYWdxNjJRakRmWGhubmRNdXdRbmJMbWFZc2pSSGp5THo1dzY0aldIaVh5NU1tSFNPWm5OSmlfT3l4ZlAwYVJfQnlOWDhOZm9mMHltZm93OGJaeTVoYkRTbA?oc=5",
+          "description": "Un conflitto tira l’altro, l’Arabia saudita colpita dagli Houthi il manifesto I patriot del battaglione greco fanno scudo ai siti petroliferi di Aramco la Repubblica Slalom in barca tra le mine di Hormuz. “Il mare è l’arma micidiale di Teheran” La Stampa Il conflitto Usa-Iran: tutti gli aggiornamenti di oggi 25 luglio. Diretta Il Fatto Quotidiano Houthi: 'Se Usa supportano i sauditi contro lo Yeme",
+          "pubDate": "Sat, 25 Jul 2026 22:09:58 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "stop",
+      "n_items": 6,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 42,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Iran, ultime news oggi: stop per ora ad attacchi Usa ma blocco navale continua, notizie live - Adnkronos",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTk40RWtnZFdHbHNINWdFTHdadmpMMnloeGdLM1psazNnbC1jd1V0cE5ubVdEckRmb1czOW1KemlLZ3kxT1hpTVpOdkFrVFd4Z0lWbkNRd1U1YkZtT0pITEE0VVA2dVpVRU1PMS10M21KS0FoWDVnd0dzTUlNNEp0RkNYQXE3SHJlNTlhbGppY3N3VmFPeF9NSkcxTXJKRWVsYm1MZzBFM01oNG4tcDI1dWcwcmk?oc=5",
+          "description": "Iran, ultime news oggi: stop per ora ad attacchi Usa ma blocco navale continua, notizie live Adnkronos L'Iran blocca 6 navi in Stretto Hormuz RaiNews Esercito Usa, 'spari contro petroliera che voleva forzare il blocco a Hormuz' ANSA Iran, l'esercito Usa spara su una petroliera. I pasdaran bloccano quattro navi a Hormuz AGI Guerra Iran-Usa, notizie e aggiornamenti 26 luglio 2026 Italpress",
+          "pubDate": "Sun, 26 Jul 2026 07:41:12 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "ICC top prosecutor removed over sexual misconduct allegations",
+          "link": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
+          "description": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.",
+          "pubDate": "Fri, 24 Jul 2026 21:02:30 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Stop Prezzo Unico Nazionale, bollette più basse e illusione dei costi zonali al Sud - QuiFinanza",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMQXdBdjdFTTEzOGhyOTJnUnVpc2g0MDBjVUFWNjFBTlphNGJ0ZFU3MU1aVUZ6eXFIU29oRUlBSjBxV1VaTGs1akxDV05TQ0Vscm8yQ3RoZWxKZkpVeGU4N2N5dGoyUGtpMW93bFZqR3Q3U2lRUWpDakkyY0XSAYIBQVVfeXFMTVpzUWRoNXBWci1lX1pVZl9MQV9YamJaTmloYVZiX014RHIyalFZclRJUmVZaEdCN2ROdVBVQ0ZkME9GUjMzWTJESVhWNUloVEZEbTlmOVdLNjB1YU1JVWZFenAyUFBhSFJBX00wTDhoak9IbklHVEl6eDhEck9EMU5mdw?oc=5",
+          "description": "Stop Prezzo Unico Nazionale, bollette più basse e illusione dei costi zonali al Sud QuiFinanza Prezzo unico dell'energia: è davvero utile eliminarlo? Segugio.it",
+          "pubDate": "Sun, 26 Jul 2026 05:00:39 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Nuovo stop ai treni fino al 30 luglio a Firenze, da oggi secondo round di lavori",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/26/nuovo-stop-ai-treni-fino-al-30-luglio-a-firenze-da-oggi-secondo-round-di-lavori_304d2647-2e2e-4681-93c3-db958076034f.html",
+          "description": "Lo comunica Rfi, per il varo del Cavalcaferrovia Ponte al Pino",
+          "pubDate": "Sun, 26 Jul 2026 10:46:30 +0200"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Nuovo stop dei treni a Firenze: Italia divisa in due",
+          "link": "https://www.ilsole24ore.com/art/nuovo-stop-treni-firenze-italia-divisa-due-AJKCy0U",
+          "description": "Da domenica 26 a giovedì 30 luglio modifiche alla circolazione per il varo del nuovo cavalcaferrovia Ponte al Pino",
+          "pubDate": "Sat, 25 Jul 2026 07:02:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "nuova",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-mondo",
+          "title": "Pentagono 'taglia' 4 militari caduti dalla guerra all'Iran e crea nuova categoria",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/27/pentagono-taglia-4-militari-caduti-dalla-guerra-alliran-e-crea-nuova-categoria_9ff80be9-13f2-4a24-83bc-f486af189fe8.html",
+          "description": "I feriti dal 28 febbraio nel conteggio combinato salgono a 624, restano 18 i morti",
+          "pubDate": "Mon, 27 Jul 2026 02:29:15 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Obicetrapib, il CETP di nuova generazione convince il Chmp: colesterolo LDL ridotto fino al 50% - Pharmastar",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY2YyY0ZUSE5DVGs4dnVKY2hxZW5QUlN1UFQ1OXAtNV9nRGF4bTBhUHpyX2k3ZFh1TGtZdFNWV1F5WGpDcllMb1lJQWJBakR1a3NlZjhVc2ZRT2ZJVzd0OU1zd2ZtaWRaQlhuS2NfMUhXVE5ma3J0LWVHbW8yUzVMZUFZTGdTVDdQZ0F0TFJ5LW9pQlZHXzJPYkxocVlUWGlQWWVKWmUzTkF2NEY5Ml83WVZkTUNlejdSVThMdDY1d0JpOWhncUpEd29xRHEyVGs?oc=5",
+          "description": "Obicetrapib, il CETP di nuova generazione convince il Chmp: colesterolo LDL ridotto fino al 50% Pharmastar Il CHMP raccomanda l’approvazione da parte dell’UE di Susvimo ​​di Roche tecnomedicina.it",
+          "pubDate": "Sat, 25 Jul 2026 21:00:15 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Klinger, dall’Italia la nuova spinta all’innovazione",
+          "link": "https://www.ilsole24ore.com/art/klinger-dall-italia-nuova-spinta-all-innovazione-AJdis6U",
+          "description": "Da filiale commerciale a polo di sviluppo per il gruppo. Klinger Italy rafforza il proprio ruolo nella multinazionale austriaca specializzata in valvole, indicatori di livello e guarnizioni industriali, portando sul...",
+          "pubDate": "Sat, 25 Jul 2026 05:02:01 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Vaccino personalizzato contro il melanoma: la nuova rivoluzione nelle cure - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSEZLb3FWMXM1R0pRaVh6b0xUMENPcFhSWXNLNDFXbldNeTRRbkt6d21FNEM0VWxURVZleHpjbGNGNXVnT1VnOUVQQ3BwZnk5UWhxVW5QWEFKbF9xY2hEbUZQd0FiZEx2c0lWbXV1UW9LcGNCa28xdHlsQUViOFZib0REaEVybEQ5V3BhbFZOWk9nTlhWNTk3MkNMMDhDWTJTNU41cURfX1ozaU9pY2pNdzFYbV94Z3dJcTgwQ1c4aDNiQQ?oc=5",
+          "description": "Vaccino personalizzato contro il melanoma: la nuova rivoluzione nelle cure Mondosanità Rino Rappuoli, la rivoluzione dei vaccini RaiNews Ascierto, attesi 'in autunno i risultati della nostra ricerca' sui vaccini anticancro ANSA Tumori, la corsa al vaccino universale: dal microbiota alla sfida del \"mimetismo molecolare\" guidata da Luigi Buonaguro Mondosanità",
+          "pubDate": "Sun, 26 Jul 2026 15:00:52 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Dal coma al ritorno a casa: il caso di nonno Aniello apre nuove prospettive per l'encefalite da West Nile - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZTN5Yk9IUXRONm1UeThVV2lSUmVTMWdDbzltSnU2d0pBZXJKTlhpMnVBb1BvS2JOVnA2LUsyYlB5Rk94alpidE9ONmlVRU1pcGNINDhtQS1GWWJQYzZOeF9zQnUza3lLdTliWl85QkgycGFPU2RCRE5Ea1EwMkVpeW93YU1iQjNmU0d5T3g1RXlvT0JNU3A5ZXdZVFpvUTJRQzJaMFZoQzExNjE5amhDaVBSZ3czOU5CbWxMaDNIWWJwYmd5U1pxcVByU0RrZmRsTG5EYzZGZVhvTEVUV0ttdF9LU1p6RU1pemxEUzh5UjNQVUR6dmc?oc=5",
+          "description": "Dal coma al ritorno a casa: il caso di nonno Aniello apre nuove prospettive per l'encefalite da West Nile Mondosanità Aumentano i casi di West Nile in Europa, l'Italia la più colpita RaiNews Il West Nile allarma l’Europa, Italia osservata speciale – Che virus è, i sintomi e come proteggersi La Nuova Sardegna Focolaio di West Nile a Oderzo, ma ad essere infettate a morte sono le oche domestiche. I ",
+          "pubDate": "Sun, 26 Jul 2026 15:30:54 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "attack",
+      "n_items": 11,
+      "n_sources": 3,
+      "category": "general",
+      "score": 33,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Trump wants to give U.S.-Iran talks ‘some space’ as he weighs escalation, aide says - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcF9sY3BpTUlqMXVNUHdkeE5XMjNDSXhsUVdMQ3pGXzZXSjVzWnlHQ0lSZlJVNkhnM2VveENSRS1waTZlMjBvT0U4NjJ3b2VrdkdxLVVuWTRpU21FVW5WSkpfQ2xMcWdWUFhnMk9hWVNLQVlZSmo3SWY2VURja2hlZ2drcmJHN0lqRVExQmFJeUlGRUd0a3R1QW1vRnVzOVJNM3R6dWRPdzhQaDJVc3NaVU5WSGxLZjJQM0RJQ29mOFpjTzYwbkE?oc=5",
+          "description": "Trump wants to give U.S.-Iran talks ‘some space’ as he weighs escalation, aide says The Washington Post Trump Pauses Iran Strikes as Officials Weigh Dwindling Air Defense Stocks WSJ Top U.S. military commander in Middle East advised halting Hormuz bombing Axios Iran war live: Tehran halts retaliatory strikes after pause in US attacks Al Jazeera US strikes 'on a hold,' as talks, battle for Strait o",
+          "pubDate": "Mon, 27 Jul 2026 00:45:51 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "The suspect in the deadly Berlin Pride attack is killed in a confrontation with police - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUk1peTczYkVuampNNFg3QXNzcV9acU1tTndtdXl3dFcwT01hZGJxUzQ5b2ZfckltZnJaLWpzVXdZcmlpQl93cFJqWWFxa3RmLTdkWlhDTTBnX3RMUGtvejhDWDJmRVEwTWl3ZWJHNlhubWRwOWFoYjdKWHBXakxPRVhqSnNkb1UwczFCaF82YnpuZEk4bVdwdzc4RC1sSEtwS2RDTXRsVDA?oc=5",
+          "description": "The suspect in the deadly Berlin Pride attack is killed in a confrontation with police AP News Berlin Pride Event Attacker Killed in Police Shootout, Officials Say The New York Times A fatal attack on Berlin's Pride festival leaves locals wondering how their city will recover Yahoo Suspect in deadly Berlin LGBTQ+ parade vehicle crash killed, police say ABC News - Breaking News, Latest News and Vid",
+          "pubDate": "Mon, 27 Jul 2026 01:58:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Appeals Court Upholds Blocks on Trump Order Restricting Mail Voting - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS2tzSzc0T1FOOXNtRndMaktwQU02QWQ5ZHVGSGFWQ1FUZDYxTEZTQTZMOHhlQzZtbmFNQ2tiRFF4YV80M0dBYjhBTm96dFl4SDVaUF9RT1A1RzJIcTZqVnYxZHRDeERFZXdMN2tlOXdiS3Bwd3NKQVBhVTE4WDFmZS16UEpyMWVKNl8w?oc=5",
+          "description": "Appeals Court Upholds Blocks on Trump Order Restricting Mail Voting The New York Times U.S. appeals court rules Trump cannot implement mail-in voting order CNBC US appeals court upholds injunction that blocks Trump’s order to create a federal voter list AP News Judge says Trump’s attack on mail voting is ‘unconstitutional,’ legal challenge can continue Democracy Docket Appeals court says Trump can",
+          "pubDate": "Mon, 27 Jul 2026 02:37:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Stock futures climb, oil prices fall as U.S. and Iran pause attacks: Live updates - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52RnVCcG03VEVsNlExWlp0enhtV1UtNkhCNzFCaVl3VGZlS19wanVxejZ0VzFuUjI4eWQyZ3lsUXlNcmlYcWhORS1ZSUs1Q180RWFrV1FHT2I4Yk14M2dtMGlfTGZLTjhDM1FGbjNOUzlpaTg1SFlN0gF8QVVfeXFMUGJVbnA0bXg1SDhZVm9TcXZmRXdkZ1l5cXRUa3hCVUZLR2FQMThtNEloRFRHOVhvUDlDaUJwVVNuMVBoYTZzZ3loVVJGUTlxeTYzZkV4Tm5jOVVvWXlRZlYxREZfYnB5eEpweFA1QmM3Z0I3ZDA0cFZxVFc3QQ?oc=5",
+          "description": "Stock futures climb, oil prices fall as U.S. and Iran pause attacks: Live updates CNBC Oil slides 5% as Iran reportedly signals halt to attacks if U.S. pause holds CNBC Oil Tumbles as US and Iran Pause Military Strikes: Markets Wrap Bloomberg.com Kospi index and US stock futures jump as Hormuz talks send oil prices plunging ahead of Fed meeting Fortune Oil prices fall as Iran and US pause strikes ",
+          "pubDate": "Mon, 27 Jul 2026 00:40:00 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Berlin Pride attack suspect shot and killed during police operation",
+          "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+          "description": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
+          "pubDate": "Sun, 26 Jul 2026 19:21:26 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "says",
+      "n_items": 9,
+      "n_sources": 3,
+      "category": "tech-ai",
+      "score": 33,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Trump wants to give U.S.-Iran talks ‘some space’ as he weighs escalation, aide says - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcF9sY3BpTUlqMXVNUHdkeE5XMjNDSXhsUVdMQ3pGXzZXSjVzWnlHQ0lSZlJVNkhnM2VveENSRS1waTZlMjBvT0U4NjJ3b2VrdkdxLVVuWTRpU21FVW5WSkpfQ2xMcWdWUFhnMk9hWVNLQVlZSmo3SWY2VURja2hlZ2drcmJHN0lqRVExQmFJeUlGRUd0a3R1QW1vRnVzOVJNM3R6dWRPdzhQaDJVc3NaVU5WSGxLZjJQM0RJQ29mOFpjTzYwbkE?oc=5",
+          "description": "Trump wants to give U.S.-Iran talks ‘some space’ as he weighs escalation, aide says The Washington Post Trump Pauses Iran Strikes as Officials Weigh Dwindling Air Defense Stocks WSJ Top U.S. military commander in Middle East advised halting Hormuz bombing Axios Iran war live: Tehran halts retaliatory strikes after pause in US attacks Al Jazeera US strikes 'on a hold,' as talks, battle for Strait o",
+          "pubDate": "Mon, 27 Jul 2026 00:45:51 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Appeals Court Upholds Blocks on Trump Order Restricting Mail Voting - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS2tzSzc0T1FOOXNtRndMaktwQU02QWQ5ZHVGSGFWQ1FUZDYxTEZTQTZMOHhlQzZtbmFNQ2tiRFF4YV80M0dBYjhBTm96dFl4SDVaUF9RT1A1RzJIcTZqVnYxZHRDeERFZXdMN2tlOXdiS3Bwd3NKQVBhVTE4WDFmZS16UEpyMWVKNl8w?oc=5",
+          "description": "Appeals Court Upholds Blocks on Trump Order Restricting Mail Voting The New York Times U.S. appeals court rules Trump cannot implement mail-in voting order CNBC US appeals court upholds injunction that blocks Trump’s order to create a federal voter list AP News Judge says Trump’s attack on mail voting is ‘unconstitutional,’ legal challenge can continue Democracy Docket Appeals court says Trump can",
+          "pubDate": "Mon, 27 Jul 2026 02:37:00 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+          "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+          "description": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
+          "pubDate": "Sat, 25 Jul 2026 06:34:40 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+          "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+          "description": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
+          "pubDate": "Fri, 24 Jul 2026 22:49:59 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Trump vows to investigate EU over fining of US tech companies",
+          "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+          "description": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+          "pubDate": "Fri, 24 Jul 2026 20:23:58 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "media",
+      "n_items": 5,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 31,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "USA-Iran, spiragli di dialogo. Media: \"Scarseggiano munizioni\", Trump: \"Ne abbiamo più di chiunque\" - Cisgiordania, i coloni incendiano due moschee e l'esercito arresta 80 palestinesi - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNSDdZaWl2dVhWQVhXNmwtNHZwSkF2YlFJaUFfTUswUllrUDZEazUyanRfbnA2MVV4M3doMFN0aUpIbW44X3hsUmNsQ2ZnSkF2OEQ4cWhrRHJyaHZZVjMxaDJ4OFBON3JkOXJPNnNwNnRTaGF6djBHSlpaTGpHVzlTS09acG9iQnJubHBlaHFEbDRwVnNEQ3lpM09DNXNxME5FOFRHanJzWkZjeDM0ZU5GVEdLMkhWSTQtenpOYVNHSmVKd25jWGduRUR0QVhDOUhJeFlha2NFTW9tLTN1Mk96OVNiQVR6MjRrMkhzVnNQY2xCNFRFZm9VNHI5RUFfdmZkU2R0d1BRUmgwWVJFcDVhYktUdHgtZDI3d0hfanRQTTVOel9IUl9xZnFaSGNQaEdxUEJV0gG4AkFVX3lxTE9fRjJ4bGkzT29wczhMeWpBN3llNFZHUy1HRGhlSEhyRFQzcm1BR1dkUU9BOTUtLWJDcTJTRW45QW44UFNLRG5iOHhpc3Nsa2xXRGc2alJwTThGMU14UVhsNlNRLXUzRGFSWlA3ZmdmWm1SOWp0Qm1lelFqVjdpM0F0Y0hQSzFZT2paY0oxc2lmNGJuMUIwa2VrTTczc2tYeG9kSTFLeXRMOWdQR3duNEZFVjBQSFZMRHVhYkpZUmJtdVZXUE1VeWQ3cWUtbUU1UGVwVnJVZlE0cGlzeVVGTVhmYWtDU3J2SkwtQ01zakVKUm94WVVyVXkzYjY5TkppbVVKemxZeUxTdGlCSnNVVERlTkxiVVczQmFxY195MWJDU0tReVhEdEFhV3NNS2M3NGJmMnNxWm83Qw?oc=5",
+          "description": "USA-Iran, spiragli di dialogo. Media: \"Scarseggiano munizioni\", Trump: \"Ne abbiamo più di chiunque\" - Cisgiordania, i coloni incendiano due moschee e l'esercito arresta 80 palestinesi RaiNews Guerra Usa-Iran, le notizie in diretta | Trump: «Abbiamo munizioni più di chiunque altro e ben oltre il nostro fabbisogno». Il petrolio cede in Asia più del 5% sulle speranze di accordo. Corriere della Sera G",
+          "pubDate": "Mon, 27 Jul 2026 02:37:30 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Media: \"Iran e Stati Uniti aprono al ritorno dei negoziati\" | \"Per il Centcom i raid su Hormuz hanno raggiunto i limiti d'efficacia\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN3B1alpxRXlXeGY5UE1kcGJoZ0l1Q0I2TW5DZGlsRE1BTFpnUFNES0hxajFycldieVN3aG1wckpYSmdVX3NvV3NZRTNDTVYzdW1mRHMwZmw5Um5EeDhubDhWWm5jc2VtZ1pFZ1RHWHNQTUNXb0ZucUJCaS1BU0pESTJrUmpkN2V3ZlB2cUkwMHJJY19fdi1HQ0pqdzdHSVhNdFVuWlB2bTJXRHBNVWVR0gFoQVVfeXFMTmhFTjZLMHdDM0lTbnlJU3RBUnE0WmhSYy1XdGtObld4U1hpVWI4ZjBpRUFLZmI4TWw3Rk43YlF1ODJpWTFnRldHYWF6czNfQnR2bmNPc1dBVzZrdDljWDNPZ3BWaHhOajA?oc=5",
+          "description": "Media: \"Iran e Stati Uniti aprono al ritorno dei negoziati\" | \"Per il Centcom i raid su Hormuz hanno raggiunto i limiti d'efficacia\" Tgcom24 Iran: \"L'attività di mediazione continua ma priorità è la difesa della nostra sovranità\" - Il portavoce del ministero degli Esteri iraniano, Esmaeil Baqaei: \"L'attività di mediazione continua ma la priorità è la difesa della nostra sovrnità\" RaiNews Guerra in",
+          "pubDate": "Sun, 26 Jul 2026 21:23:18 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Missili russi su Kiev. Mosca: distrutti 133 droni ucraini. \"Putin vuole 30mila soldati nordcoreani\" - Media: Usa e Ucraina hanno discusso proposta per cessate fuoco aereo - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNckMxVWJWT3NyR3EyNmlxMWRIcUxXdDVEMTk1XzY1LUlYM1NIU0drYm9XTDAzVmxYbmNhcWRjdjQ4eHZITVoyWGp0UFdJTEd1a1Q1YWEtMUFmZ2dDeGdGNWdPWDFDQUd0dFE2VUg5b2JESFlCV2FYWDVqTURUQVpLSS1IenN5V3VTMlUwdF9tWk1TWm56T0dia1ctRFJac19rT092U0tpcnRwUGZ2ZU5xdDVjVGY1ZnJvRV9pOFBkemhMWG1EYkhHZVp0cHQ5Y2NxVFQ0MnYwdEZUWDdnVnhjcDd0LUJmMldSaFp3eVhpMDJVbEV4Nzk2YjVIYznSAYICQVVfeXFMTUpRQXJwOTd6VG91SnVHSk5pVUxYR1RVLVFUMkRFN3RHWGJuaHluZm52eFg5VlByNDFiWEV3WE1tNVEwTzRha1hGek1VZTh3WEpGVThqT21lLXpvSXNDRUZ2N21IQmhmeVJtRDljM1RyYzFtYVBRZ3hMMWxFaWx1TTBWd3Jqc1oxN2dQQ3plMkVuMWdEWllHSTRBcVduZmhWRlQ3Yy14QUg1V0plR1lPUmJHNXBrclpPN2prb0s2NU5IVm53Q0s5c1Z6ZXRJZmR0V3dXclBpNTVCYldyY1FlWHhkeWVGaHZLWVRKbWF1MnRRb3pxbkc1Qmg5bmN0LVVKMkpR?oc=5",
+          "description": "Missili russi su Kiev. Mosca: distrutti 133 droni ucraini. \"Putin vuole 30mila soldati nordcoreani\" - Media: Usa e Ucraina hanno discusso proposta per cessate fuoco aereo RaiNews",
+          "pubDate": "Sun, 26 Jul 2026 19:07:31 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Falcon 9 contro la Luna: appuntamento il 5 agosto - Media INAF",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSDFvQU4zN1lPTllmMmxXaTFMZUlDVGNCVk9HYnlnQjBaeDNJZUpwUzRNOUIwZWpMdGk2VlhnT2FaUjBrUWNCbUV1bGNHQk4tNk81cUY0dXBxaGJmc0JPRnJuMEJENmJaSjFZYXd1U1Rjc3BYUW1KSExGZUpkYlQ0VEh2WDZ2ckRpeEp5ejdIQQ?oc=5",
+          "description": "Falcon 9 contro la Luna: appuntamento il 5 agosto Media INAF",
+          "pubDate": "Fri, 24 Jul 2026 11:54:07 GMT"
+        },
+        {
+          "source": "ansa-cultura",
+          "title": "Dalla storia di Carlo Acutis a Yaman agente segreto, la nuova fiction Mediaset",
+          "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/07/26/dalla-storia-di-carlo-acutis-a-yaman-agente-segreto-la-nuova-fiction-mediaset_517d10a0-ba90-4baf-a339-f7abbf1bed6c.html",
+          "description": "Samuele Carrino è il giovane santo. Tornano Incontrada e Ferilli, un progetto per Bova",
+          "pubDate": "Sun, 26 Jul 2026 13:26:08 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "raid",
+      "n_items": 6,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Axios, 'per capo Centcom i raid a Hormuz hanno raggiunto limiti d'efficacia' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUTVLc2NFQ0ZRdUo5OWhBeDZLTmQ2RklrMHhUR01CVkdHa2RBYlpQQnhIdnJONFVKQjFucXJEdVNVSkQtcW5QMHZ2LXlweE9vOV9MYkVXSFpuQTFlX2RsU0VqNzJFLW94blAwVVo2bVdpZ3ZGZEdham9KaUVSV0FJcGdKRXFuR2hSOUJ4MFh0dGZ6Mk0za3lja09kWjBBbnkwaDVOUmdGNWlzbm9HTVlvN1hmMXV1V1g2RDRXRUpiek1xelJzc1hoNDRlXzNvSFkxdFhJOXlEcUEtQWtKV015VFRxUlpEUlByMWVHdk1oOTRKdTZOZ0JjWVFn?oc=5",
+          "description": "Axios, 'per capo Centcom i raid a Hormuz hanno raggiunto limiti d'efficacia' ANSA 'Teheran è disponibile a proseguire i negoziati'. Trump accantona l'escalation - LA CRONACA DEL 26 LUGLIO ANSA Cisgiordania in fiamme: moschee bruciate e nuovi insediamenti illegali Il Fatto Quotidiano “Raid su Hormuz inutili”, Trump sospende la guerra. Teheran: “Ci fermiamo” la Repubblica Stati Uniti e Iran sospendo",
+          "pubDate": "Sun, 26 Jul 2026 18:07:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Iran e Usa sospendono gli attacchi. Netanyahu: \"Ascolterò Trump, ogni decisione spetta a lui\" - AGI",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OVTlBNnROTHFEOVdMZGtBRmdCb0ZIeV85aXNqdU42dkI1Nk9HSkt0Tm1tWm82OEhYbFNZZ3BvSlhVZDhkYjFKdU5zTnowcnBrc3FUMkd5TnlxRlZ3NVc3ZUxZYy1tSUc4Y0U1Qno5ZVZKQ0h4TUcyZg?oc=5",
+          "description": "Iran e Usa sospendono gli attacchi. Netanyahu: \"Ascolterò Trump, ogni decisione spetta a lui\" AGI 'Teheran è disponibile a proseguire i negoziati'. Trump accantona l'escalation - LA CRONACA DEL 26 LUGLIO ANSA Cisgiordania in fiamme: moschee bruciate e nuovi insediamenti illegali Il Fatto Quotidiano “Raid su Hormuz inutili”, Trump sospende la guerra. Teheran: “Ci fermiamo” la Repubblica Stati Uniti",
+          "pubDate": "Sun, 26 Jul 2026 21:58:30 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Media: \"Iran e Stati Uniti aprono al ritorno dei negoziati\" | \"Per il Centcom i raid su Hormuz hanno raggiunto i limiti d'efficacia\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN3B1alpxRXlXeGY5UE1kcGJoZ0l1Q0I2TW5DZGlsRE1BTFpnUFNES0hxajFycldieVN3aG1wckpYSmdVX3NvV3NZRTNDTVYzdW1mRHMwZmw5Um5EeDhubDhWWm5jc2VtZ1pFZ1RHWHNQTUNXb0ZucUJCaS1BU0pESTJrUmpkN2V3ZlB2cUkwMHJJY19fdi1HQ0pqdzdHSVhNdFVuWlB2bTJXRHBNVWVR0gFoQVVfeXFMTmhFTjZLMHdDM0lTbnlJU3RBUnE0WmhSYy1XdGtObld4U1hpVWI4ZjBpRUFLZmI4TWw3Rk43YlF1ODJpWTFnRldHYWF6czNfQnR2bmNPc1dBVzZrdDljWDNPZ3BWaHhOajA?oc=5",
+          "description": "Media: \"Iran e Stati Uniti aprono al ritorno dei negoziati\" | \"Per il Centcom i raid su Hormuz hanno raggiunto i limiti d'efficacia\" Tgcom24 Iran: \"L'attività di mediazione continua ma priorità è la difesa della nostra sovranità\" - Il portavoce del ministero degli Esteri iraniano, Esmaeil Baqaei: \"L'attività di mediazione continua ma la priorità è la difesa della nostra sovrnità\" RaiNews Guerra in",
+          "pubDate": "Sun, 26 Jul 2026 21:23:18 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Ucraina Russia, 10 morti: 4 in attacchi russi, 6 in raid di Kiev - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU21ENUlRTjczdkRyWU5WRk5KMWJtdW1WRVluMkhPMTg1NXJiYVNoWGZLbW5rX2I1d3ZUR1pnQXlGbm9OMTVob3lkcmZLLU1ZYWFqdnAteGJ4YzF6QUNEcDVVVEgyTVV5XzhXY2xOOEt0ZlVtWFZjMFpYZGh3MVdYSFIwWEpXbFNh?oc=5",
+          "description": "Guerra Ucraina Russia, 10 morti: 4 in attacchi russi, 6 in raid di Kiev Sky TG24 Le notizie di domenica 26 sulla guerra tra Russia e Ucraina Corriere della Sera Attacchi incrociati Russia-Ucraina, ieri almeno 10 civili uccisi - Attacco russo su Sumy, 5 feriti RaiNews Ucraina, Kyiv colpita da nuovi raid russi nella notte Vatican News Guerra Ucraina - Russia, le news del 26 luglio. Terzo drone abbat",
+          "pubDate": "Sun, 26 Jul 2026 21:37:05 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Axios, 'per capo Centcom i raid a Hormuz hanno raggiunto limiti d'efficacia'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/26/axios-per-capo-centcom-i-raid-a-hormuz-hanno-raggiunto-limiti-defficacia_32e11869-2d89-4464-a117-88d64e291f49.html",
+          "description": "L'ammiraglio Cooper ha così influito sulla decisione di Trump di fermare gli attacchi",
+          "pubDate": "Sun, 26 Jul 2026 20:08:32 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "about",
+      "n_items": 7,
+      "n_sources": 4,
+      "category": "general",
+      "score": 28,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Transcript: Louisiana Sen. John Kennedy on \"Face the Nation with Margaret Brennan,\" July 26, 2026 - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdW9lRklCYXhyVmY3Zzd2YzFqNFNkNUxfU0Q4UTNhaXpwR0NpRmVSV045NXllUEdIU0o3RE1LdzZ1X3QwUmlwdWw2clh3dVZPTHJuZnBYMm5BdlV2eGhnelZPMDY3SG9LZTRRUE1JNi1CbjNUWE1McnptQXByOXM1aDMxcHhkUDlveFpaTzZhcHF5NGlGWHVZdmYxMjhXZVdReEE?oc=5",
+          "description": "Transcript: Louisiana Sen. John Kennedy on \"Face the Nation with Margaret Brennan,\" July 26, 2026 CBS News The Saudis Learn the Truth About Trump The Atlantic Opinion | The Saudi Nuclear Deal Invites Disaster WSJ WATCH: Democrats blast Trump Saudi nuclear deal as GOP touts regional alliance Fox News Trump Is Pushing Nuclear Energy, Including Saudi Deal. His Family and Supporters Could Benefit. The",
+          "pubDate": "Sun, 26 Jul 2026 16:37:32 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "What we know so far about the Berlin Pride ramming attack",
+          "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+          "description": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park.",
+          "pubDate": "Sun, 26 Jul 2026 20:34:23 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+          "link": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
+          "description": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
+          "pubDate": "Sat, 25 Jul 2026 10:14:41 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "UK complacent about war threat, warns BAE boss",
+          "link": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss",
+          "description": "The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned. Dr Charles Woodburn",
+          "pubDate": "Thu, 23 Jul 2026 23:04:19 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Apple is banking on privacy to set its smart glasses apart - The Verge",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PbjVVVmlGNnBOM1hmSUV3bmg4SFFtS19JeGlneXZzMkNGTXRNLVdyclEtRmpGbFE2cUpMcVUtTlRwSFUzazk5S01zYU40T0RVcWQ4UTNQTkg2Q1hJNjZZWVRFN0t4ZkhENXJWenh0LXRIZw?oc=5",
+          "description": "Apple is banking on privacy to set its smart glasses apart The Verge Apple’s Smart Glasses Will Need to Overcome Meta’s Privacy Reputation Bloomberg.com Apple Is Reportedly Worried About Its Non-Creepy Reputation as It Prepares to Enter a Creepy Product Category Gizmodo Apple’s AI glasses to be unveiled at WWDC27: report 9to5Mac Can Apple make smart glasses that aren’t a constant privacy threat? T",
+          "pubDate": "Sun, 26 Jul 2026 19:36:38 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "perché",
+      "n_items": 7,
+      "n_sources": 4,
+      "category": "general",
+      "score": 28,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Hormuz, la guerra senza sbocco e il prezzo dell’impotenza europea - InsideOver - Inside the news Over the world",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUl9SbjU5a2s2aU1KQi1KV0R5NkstOWVUeVdRYW5qYnFRNVN3TkJYNGJidDBVRHM2b2U1V09Zci1VY29vYmFlQU9ISkxGZS1FS1M2ZV8wT01feUlJaFU1eVBxeWYzUU5ubXpGY3lvdzNjMUpsZXF2SWREbkFUNS1SNXkxVDVoWGhOdEZ0dU9DQk5QU19RdlVsYjZmVHhaVzYxNDFmeHZ3?oc=5",
+          "description": "Hormuz, la guerra senza sbocco e il prezzo dell’impotenza europea InsideOver - Inside the news Over the world Crisi nello Stretto di Hormuz: cosa succede a petrolio e mercati se la tensione esplode la Repubblica Ai massimi pure il prezzo del gas, riserve in Europa mezze vuote Il Fatto Quotidiano Petrolio e gas, perché torna il panico dei mercati: prezzi su del 43%. La partita si gioca su Yanbu Cor",
+          "pubDate": "Sun, 26 Jul 2026 05:17:33 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Perché i cavi USB Type-B sono rimasti molto di nicchia? - HDblog.it",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOGhwX2Y5cnR5MjVTeXZTRlpQVlNpS2lRS3ZrWkk4aUloSXpjMWJudXBLTjd6OFM3S2ZFZTdKVGRQX2hPRE5JVjROT1V5Z2VGSWludnRDTUpCaHVLTHozYnNjQkV0T1RzWmJ5YlJZd3FCemhQM3BkdGlIMXFaVGlrT2IwMkVzN0M4TU84VmFFSHp6cExx?oc=5",
+          "description": "Perché i cavi USB Type-B sono rimasti molto di nicchia? HDblog.it",
+          "pubDate": "Sun, 26 Jul 2026 10:09:13 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Google Maps: come attivare tachimetro e autovelox, e perché farlo - macitynet.it",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1TGRkNDBmbjRxNXpmTElBY0dzUGJJT2hOSnB3eGlBU214MlRuaHp0NUJwd1JBZ1VuQTZwNzJXTGRnYURhUHpTdl9FSEFpa2c0SnlPRE1hTnI3U3lU?oc=5",
+          "description": "Google Maps: come attivare tachimetro e autovelox, e perché farlo macitynet.it",
+          "pubDate": "Sat, 25 Jul 2026 08:59:51 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Perché ci sentiamo in colpa quando non facciamo nulla? La scienza del riposo “proibito” - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZG0zMzBibE5zWlVkVU13WHl5Tm5yeUtndHJmN21BemUyQnJDRmlzcjRfVVdvUHMwVFlad1R0eWM2RElFVjhwZ2RPNm5nNVZfeGZYV21mdy1iOXFFellOUkxXOENDa2g2S1NyZzdNUGJwYWVaVVpsYTMtZHJ6Q3BqNEtCbHNFd0wxY2lsdG85am9lQ1JBbkNWVTRZSTJXdTN1SVpyWno3d1ZjZzd6YzJISmdZQktERi10ODZqTGlDZnNIT2RnMUFla0JCZHZFVU5RNkVGRWFhSTlhRXpN?oc=5",
+          "description": "Perché ci sentiamo in colpa quando non facciamo nulla? La scienza del riposo “proibito” Mondosanità",
+          "pubDate": "Sun, 26 Jul 2026 06:34:56 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Galileo: perché chiamiamo il \"padre della scienza moderna\" col nome proprio? - Focus.it",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNElBTGNmNjY1TnNIQnBtUHd1SnloY0U1MndzN2toRlE1RUlxSEl2b1ViV1Zaa3NnYVNYOUQxR0FLSGl4LUFJa0RTcE1HMHhqVi1LZ2I4SDFGMHB4aU5vODBSRmxXcmR1cTB4Z1JWa2plRnNLVWpyS1NqUDZBU3dnejZSWWlCZW9BQ21icVo2WGdVdnVjMnpObW1xMjI2TEZEMXZFYXh4aDZiYXJKVjJ0emM0M0VlTzBqVC1XLTMySXIyZw?oc=5",
+          "description": "Galileo: perché chiamiamo il \"padre della scienza moderna\" col nome proprio? Focus.it",
+          "pubDate": "Sat, 25 Jul 2026 10:05:21 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "corteo",
+      "n_items": 7,
+      "n_sources": 3,
+      "category": "diritti",
+      "score": 27,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "No Tav, scontri in Val Susa. Meloni: violenza non piega lo Stato. Mattarella: grato e vicino ad agenti feriti - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMlFBQ3Rla2R3NWpkeEw4M2tIbkw0ZWxvLVRxTjZtNmx3NmJyMXV3T3M4MGpieWZ5eVlGUjBXRjhxUnN3R2hJNkN2SERTZzBmWE5ydGRfR3ZTSUpBWDJqNGpTNFRscHpiUUJKdk5YQjRzSmZfQWRwNGxVUThDTTcwbl91T29jZGdNUUFNNHVLNFplS0FSMi02WDh0ZHh0ajJ2b3pvRFJGR2ctZw?oc=5",
+          "description": "No Tav, scontri in Val Susa. Meloni: violenza non piega lo Stato. Mattarella: grato e vicino ad agenti feriti Il Sole 24 ORE Per gli scontri in Val Susa al corteo No TAV sono state identificate 450 persone Il Post No Tav, il cardinale Repole condanna gli scontri: «Nessuno sforzo di comprensione. È pura violenza terroristica» Corriere Torino Telt, 'prima stima di danni è 1 milione di euro solo a Ch",
+          "pubDate": "Sun, 26 Jul 2026 09:38:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "\"Verità e giustizia\": il corteo per Fakir a Bologna - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc3dUVFJKQUJIOE5sTlFQSlhJeDBNcElFVXQ2bHJoMkJuT1Zob2s5Uk9ZTm0yMmtlQ0ViRkNuOVZfc2g4cTBMUG1kMEx0V0pvR0pGeE13cWNWVFhYTzAtZjk4ekxiZWhJai02ZFlNS0xvNFVrWnZlQnRRWWRwWWxEWUZfWUZTd3lHekcwRmhhd1BMQUpKMHJzQzR3?oc=5",
+          "description": "\"Verità e giustizia\": il corteo per Fakir a Bologna Il Fatto Quotidiano Manifestazione al Pilastro di Bologna, circa 2mila in corteo: “Via Svevo diventi via Fakir”. E torna il simbolo di George Floyd Il Resto del Carlino “Voleva aiuto, lo hanno ucciso”. La marcia del Pilastro per Fakir la Repubblica La morte di Fakir, il caso Roggero, il suicidio assistito, l'Ucraina: parla Zuppi Avvenire Morte Fa",
+          "pubDate": "Sun, 26 Jul 2026 19:26:50 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "A Bologna il corteo per Fakir, il sindaco Lepore sotto scorta",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/minacce-social-assegnata-la-scorta-al-sindaco-di-bologna-lepore-_bdd19b9e-2c31-450b-8c34-ab215277a2c7.html",
+          "description": "Torna il pugno chiuso di Floyd, in un frame della bodycam la ferita sulla nuca",
+          "pubDate": "Sun, 26 Jul 2026 21:42:29 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Niente saluti romani né corteo, ricorrenza sottotono a Predappio per Mussolini",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/niente-saluti-romani-ne-corteo-ricorrenza-sottotono-a-predappio-per-mussolini_05fca82b-237e-4a00-8815-eed9fcac79a0.html",
+          "description": "Una cinquantina di nostalgici sulla tomba del Duce per ricordare la nascita",
+          "pubDate": "Sun, 26 Jul 2026 17:17:57 +0200"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Ricetrasmittenti e mimetiche, la guerriglia a Chiomonte: chi sono i violenti tra i No Tav - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPam9qWnBJQ0dvRy1IUHZSdGVsbmFuZXRhbzd4QnRFMDJnT2N5Y19JY1gzVk1nWGhFMDdMcFRGYTAxSEljT09jYTg2RlN5QTFTekIzYTZzS2o4SHZsaFZkSzZOUU9XdW5nTDFXdERjRXN4MXV1a0s4SHdWNGNpVmVkcE5yVkFwMVBtOExwU3lmOUliR1dTVzdGSHdyTEg2NDZfSWR4VTFnX0lkQW93a3h4bjBVMTctZE9jeUMwajVDMGFpWTdHNF96dW9xQklnUFNGeVdDMGhzWUlfRExyQWtwbnFXSjNpcU5FUVVjTTB0Q1VqeDZ0SlNnVEQxXzRHV3pMbGJjS2pjb9IBjAJBVV95cUxQam9uMDBDRDVtYjJGQkg5VXJqcXZJaVdNRVFlUU9wQTUxR2RyV3FGQ2M4RW00RjVmYTg1TERuZzF2Vk95Q09aOFB6TGlSUzRRcDNyV1lVQ3cwRlBmbjBxeVM3RjNSdHZXTkNSSFM5aVJQVUpVa3dKLXRYYjUwdlcyZDRHU0taeEloVjI1N054SjlSSjVUVmloMF9rLWpDX3piaGNmeWN6NHBOX0s4MVpSSXB1YU4wWVc0dFdxN05Na2U3Nk5iN2hwYUlhdWpJZTN4OG9QS2tDU1NBN2NWczhsdzJDTnctTXE0TnFZWTloTUt0VWdNQ1BHZ3duRnRueGtGYmQ4dmFsektOMlc0?oc=5",
+          "description": "Ricetrasmittenti e mimetiche, la guerriglia a Chiomonte: chi sono i violenti tra i No Tav Corriere della Sera Per gli scontri in Val Susa al corteo No TAV sono state identificate 450 persone Il Post No Tav, il cardinale Repole condanna gli scontri: «Nessuno sforzo di comprensione. È pura violenza terroristica» Corriere Torino Telt, 'prima stima di danni è 1 milione di euro solo a Chiomonte' ANSA M",
+          "pubDate": "Sun, 26 Jul 2026 20:56:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    }
+  ]
+}

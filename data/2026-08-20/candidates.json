@@ -1,0 +1,925 @@
+{
+  "date": "2026-08-20",
+  "top_topics": [
+    {
+      "keyword": "italia",
+      "n_items": 28,
+      "n_sources": 12,
+      "category": "tech-ai",
+      "score": 342,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Anche l’Austria rimanda i migranti in Italia con il nuovo Patto Ue: 4 trasferimenti dal 12 giugno - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTVpGX3NmWVFQXy1QeTRPZE9kb3pGWVhHakdTUHNmWUxRQjU5c0psaWJCRzFNZ0pnT1FYcVVlcHpydmxGZkVJV2hlczZNNGVKMkI1TFJwM0Z6MUdDX0ljeGJ2N0lOME1FUHhyX3MzdVYtaTYwbzQ4QV9uSDVOdThnS2JfREJCSEFLNWRyemdmWHVyeDI3MlRjSXdQdHMxRkx4Nzk0WlBnUkRiQVBQLVNCcFhPNXIwV244S0xtLU5fNVR3VjZMQzVQazRzN1lfLU5LbU1nLWtjelY0ZmpzTG5jNVI2WUVlckFZY3ViZGwya9IB9AFBVV95cUxObnM0SkJrLTF0dWkxRzQwRXlyWmRmcHFDbmRaLTZNb0Q3bDhkRnlpWWZLaFFsMkwxWVV2emRJNkNyTVBZaWdpVGU0d3J4ZmdWbWxkVW1pSXlGaWlPQ01iNjFOVFpzM0JCYzQxeE1laEFpZUtVWGZkV2wtdlhsVkRic0l6N0trbDhyLUtZSUxmaXdrd3dXTFlmMlQ1T0dNZXpaTDl6UWh1X2Y4a25SYmM0bUdINnhwZHlmQ2EyeDZjZklJcU1ia29NYWxMdEdFbUJDU2ExVUplM1lhZ0g2S1NOajNNNFJQaV9DcVpPUlQtYTBiU19a?oc=5",
+          "description": "Anche l’Austria rimanda i migranti in Italia con il nuovo Patto Ue: 4 trasferimenti dal 12 giugno la Repubblica Effetto domino, anche Vienna rimanda i migranti in Italia ANSA Migranti, Vienna rimanda i dublinanti in Italia: già quattro trasferiti RaiNews Vienna is sending Dublin cases back to Italia; four have already been transferred Il Sole 24 ORE L'Austria rimanda i migranti in Italia. «Dal 12 ",
+          "pubDate": "Wed, 19 Aug 2026 15:32:06 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Dazi, Trump sospende per 3 giorni le tariffe al 50% sul Canada: \"Presto un accordo\" - tg24.sky.it",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyV3NQdTlaaHA3MG5GdE9POC1USnNXeFB0dG10Qy1nMzVxTG9CSnBBWHRLcGxZdnc2dHFmeE93WVE2bV9nVlB2TmEwVjI3S1RiZ1ZfXzNMc25tZjFEblhYU0E1TEYtSWdPYk53NUVKUWM?oc=5",
+          "description": "Dazi, Trump sospende per 3 giorni le tariffe al 50% sul Canada: \"Presto un accordo\" tg24.sky.it Dazi, Trump sospende le tariffe al 50% sul Canada: «Raggiunto un accordo» Il Sole 24 ORE USA e Canada verso accordo commerciale: dazi al 50% in pausa per tre giorni Borsa Italiana Stellantis, Trump congela i dazi contro il Canada: attesa una riduzione dal 25% al 15% sulle auto. Il titolo rimbalza Milano",
+          "pubDate": "Wed, 19 Aug 2026 05:38:05 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Caldo, niente bollini rossi fino a venerdì ma domani 6 città in arancione",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/caldo-niente-bollini-rossi-fino-a-venerdi-ma-domani-6-citta-in-arancione_43900bcc-2fcf-4ee5-94f3-df4f8a0888bc.html",
+          "description": "Italia divisa dal meteo, domani piogge intense a Nord e caldo estivo a Sud",
+          "pubDate": "Wed, 19 Aug 2026 15:52:53 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Effetto domino, anche Vienna rimanda i migranti in Italia",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/19/effetto-domino-anche-vienna-rimanda-i-migranti-in-italia_855429d5-22cd-41c3-b73d-506760b01526.html",
+          "description": "'Già 4 espulsi dal 12 giugno'. La decisione dopo Berlino e Berna, opposizioni all'attacco",
+          "pubDate": "Wed, 19 Aug 2026 21:49:43 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Un italiano tra i morti nello schianto dell'elicottero in Kenya",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/19/un-italiano-tra-i-morti-nello-schianto-dellelicottero-in-kenya-_1fdfe34b-8f84-4dfe-a5e1-03ccb047e834.html",
+          "description": "È l'imprenditore e politico italo-ecuadoriano Michele Sensi Contugi",
+          "pubDate": "Wed, 19 Aug 2026 21:14:03 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "trump",
+      "n_items": 19,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 120,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump annuncia, 'da oggi guerra economica contro l'Iran' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORkJvMlMyaG1UZnNscGFaT1RHaDVheDUxeFVJbS1vMGJYRzRZOW85MVVTNzRJNGdMNzlnVV9hM3RaZWR4Ym9XQTNiOTJJVFprWnJLTFNXOG0yVm43WEVjd1c2TnVuTnJ1NFpqTUxET3ZaMmJxUjIwVkg4S1p6OGxhUXc1ZC0wYU8wV2JkbVFLR2EyeG1FcnVZY084QmF6VXJ5U1lNVE9Cbm4wODJ4UmJiMTBreTh3d1FIOC1IS0RFeEVmZXdDc19SUnBON0tHcGw3T3B4MExab2F3bjlQZ1Qw?oc=5",
+          "description": "Trump annuncia, 'da oggi guerra economica contro l'Iran' ANSA Guerra Usa-Iran, le notizie in diretta | Trump annuncia la guerra economica contro Teheran, «Operazione paragonabile al D-Day». Istituito un corridoio segreto Usa per il trasporto di petrolio attraverso Hormuz Corriere della Sera 1mattina News 2026 - Stati Uniti - Iran, Trump: \"Hormuz è territorio USA\" - 19/08/2026 - Video RaiPlay Hormu",
+          "pubDate": "Wed, 19 Aug 2026 23:14:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Trump: “Voglio incontrare Kim Jong-un nel 2026”. Ma la sorella del leader nordcoreano: “Non ne so niente” - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ2dQX3FQWThubFl3elJlakxSWVExUm9Ia1V1VHBWOFlaWUR1NGwwbU51VzV4Q3FZOUhoaFQySzVkREdWQVVpNFRuSkd6XzBBZmkyQmxNaXhMSXowUXVadlRUZGhZRnBSRFMwVWJNOEtYQnZGSG1rd2pFbkRkWkx1MGxOd2lMazZBcC1zX2hlenRKRUVCRGc?oc=5",
+          "description": "Trump: “Voglio incontrare Kim Jong-un nel 2026”. Ma la sorella del leader nordcoreano: “Non ne so niente” Il Fatto Quotidiano Trump: “Kim possiede 57 armi nucleari molto potenti”. E dichiara che lo incontrerà entro l’anno la Repubblica Donald Trump punta a incontrare Kim e valuta una visita in autunno ANSA Trump: \"La Corea del Nord ha 57 armi nucleari, ma andiamo d'accordo\" tg24.sky.it Corea del S",
+          "pubDate": "Wed, 19 Aug 2026 17:07:29 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Gli Usa sanzionano la presidente della Corte penale internazionale, ira di Tokyo - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcnV6ZlVKUEVGbW9DZlVpanhFQ3hfMF91N2ZEajA4bVhJcmV6YldRTmJ4WXdFZm4xaUZ6T004ZTlQVmxka21kOFRCZkIwVENQQjRqY2xQZkRkOEhFcV9Dc2lBSDIyS1hlMExtTjVVUzhsaThPeXRJWHY4VzlZdFdpajRFcC1NS19RT3JUYjhOQXYxWUUtN25OcG1IcDlHUGhvZVhHd3AtM0lVNENOeExiQlBJVkdsTkVrSnJEYU8tTExBYUt6OFZvNnRnZ1RYRXhOakRQcFZFTGtSa0lQdFJvMFFBTnJHQWRCZVg2UVFpcW9yUlXSAfgBQVVfeXFMTnJYdWRzVjdtbVhBcll1d0c3dGVoZ21SRGpzUXpHemVFWVdhTXlTRTMtdkY3TEhTY29ER1JITHIwZ3dSMjRnT1ZpajlEUll4WHFrT2JKS1FUY3dsM2lMNnZaY0F4VEFDMW9BZGR4RllIWTQxdHp4T2FyYmdrYldBWFZjRTBJcWpmN2dudHFDMklIZURac0ctQUt4eTl2aUVEY0hfX3hPSEl5enh6bHdfY01EZnJtOGIwVUpmbXh1VllqbnBsUWFNZ0IzajVTc2hCMXZOU1JhTk9QOGh5MmJsYlc3cjFqOEQ2azFRWW5obHAxV3ZBLXhldGI?oc=5",
+          "description": "Gli Usa sanzionano la presidente della Corte penale internazionale, ira di Tokyo RaiNews Gli Stati Uniti hanno emesso sanzioni contro la presidente della Corte penale internazionale Tomoko Akane Il Post Trump sanziona la presidente della CPI Tomoko Akane Il Fatto Quotidiano Trump, altre sanzioni alla Corte penale. E ora gli Stati si ritirano il manifesto Vertici Ue, 'sosteniamo con fermezza la Cor",
+          "pubDate": "Wed, 19 Aug 2026 14:57:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Usa-Iran, le notizie in diretta | Trump annuncia la guerra economica contro Teheran, «Operazione paragonabile al D-Day». Istituito un corridoio segreto Usa per il trasporto di petrolio attraverso Hormuz - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLUJqQ3lBZ01MWFQ0cjhQdGdKSHg5ZC1fZ1RFTVJyd0dlSEpuQjJLVGc3UDFwV1RyMjd4OG1UdmhHVTVRVWVFUEJNcnVVMUNzRjRWRmVUNlFFclN4a2dfbWJXeG1iZU0tYURJNk83aDlQNHBLaERwQjZHNFRLNjRQemo5T3F6N21FVVkzMVlIUdIBlAFBVV95cUxPbkJwMVRsbE9hTzZRLWJCVWs4Y0RaYTJackNGT3dvajlLSlpfR1ZsRUlDSHBRWS1tR01pUDZkLXhxWk9CSFdsaEd3UENacUJvTy0tZzM2MllsaEI0aUV3bkZ0RGFiYUZRSDh2cUZaU2lTQTBDeHVwX3RseS1WSzhtajIyU01ESG9rVmI4SXZEREJTazI4?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Trump annuncia la guerra economica contro Teheran, «Operazione paragonabile al D-Day». Istituito un corridoio segreto Usa per il trasporto di petrolio attraverso Hormuz Corriere della Sera 1mattina News 2026 - Stati Uniti - Iran, Trump: \"Hormuz è territorio USA\" - 19/08/2026 - Video RaiPlay Hormuz, rallenta il traffico navale tra i rischi persistenti Borsa ",
+          "pubDate": "Thu, 20 Aug 2026 00:49:18 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Dazi, Trump sospende per 3 giorni le tariffe al 50% sul Canada: \"Presto un accordo\" - tg24.sky.it",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyV3NQdTlaaHA3MG5GdE9POC1USnNXeFB0dG10Qy1nMzVxTG9CSnBBWHRLcGxZdnc2dHFmeE93WVE2bV9nVlB2TmEwVjI3S1RiZ1ZfXzNMc25tZjFEblhYU0E1TEYtSWdPYk53NUVKUWM?oc=5",
+          "description": "Dazi, Trump sospende per 3 giorni le tariffe al 50% sul Canada: \"Presto un accordo\" tg24.sky.it Dazi, Trump sospende le tariffe al 50% sul Canada: «Raggiunto un accordo» Il Sole 24 ORE USA e Canada verso accordo commerciale: dazi al 50% in pausa per tre giorni Borsa Italiana Stellantis, Trump congela i dazi contro il Canada: attesa una riduzione dal 25% al 15% sulle auto. Il titolo rimbalza Milano",
+          "pubDate": "Wed, 19 Aug 2026 05:38:05 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "nuovo",
+      "n_items": 12,
+      "n_sources": 8,
+      "category": "general",
+      "score": 96,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Anche l’Austria rimanda i migranti in Italia con il nuovo Patto Ue: 4 trasferimenti dal 12 giugno - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTVpGX3NmWVFQXy1QeTRPZE9kb3pGWVhHakdTUHNmWUxRQjU5c0psaWJCRzFNZ0pnT1FYcVVlcHpydmxGZkVJV2hlczZNNGVKMkI1TFJwM0Z6MUdDX0ljeGJ2N0lOME1FUHhyX3MzdVYtaTYwbzQ4QV9uSDVOdThnS2JfREJCSEFLNWRyemdmWHVyeDI3MlRjSXdQdHMxRkx4Nzk0WlBnUkRiQVBQLVNCcFhPNXIwV244S0xtLU5fNVR3VjZMQzVQazRzN1lfLU5LbU1nLWtjelY0ZmpzTG5jNVI2WUVlckFZY3ViZGwya9IB9AFBVV95cUxObnM0SkJrLTF0dWkxRzQwRXlyWmRmcHFDbmRaLTZNb0Q3bDhkRnlpWWZLaFFsMkwxWVV2emRJNkNyTVBZaWdpVGU0d3J4ZmdWbWxkVW1pSXlGaWlPQ01iNjFOVFpzM0JCYzQxeE1laEFpZUtVWGZkV2wtdlhsVkRic0l6N0trbDhyLUtZSUxmaXdrd3dXTFlmMlQ1T0dNZXpaTDl6UWh1X2Y4a25SYmM0bUdINnhwZHlmQ2EyeDZjZklJcU1ia29NYWxMdEdFbUJDU2ExVUplM1lhZ0g2S1NOajNNNFJQaV9DcVpPUlQtYTBiU19a?oc=5",
+          "description": "Anche l’Austria rimanda i migranti in Italia con il nuovo Patto Ue: 4 trasferimenti dal 12 giugno la Repubblica Effetto domino, anche Vienna rimanda i migranti in Italia ANSA Migranti, Vienna rimanda i dublinanti in Italia: già quattro trasferiti RaiNews Vienna is sending Dublin cases back to Italia; four have already been transferred Il Sole 24 ORE L'Austria rimanda i migranti in Italia. «Dal 12 ",
+          "pubDate": "Wed, 19 Aug 2026 15:32:06 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Il diritto di contare Fedorov torna all’attacco di Zelensky e chiede elezioni anche durante la guerra - Linkiesta.it",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRlNiWUpWSml6OXJ3RWNfcFM1Yk1yelNjVzdLbmJzUTdzRmRsSWJkMi10cDFvbW45STlrV0FxdzJldkRORjhBMGlWSnF4N2dzemxQYkpNTnNCdG5mNnhvTTk5Mnc1ZW9VSVM2QkU5ZkVyWG10X0xvUFpSVFdqR0FueG9IbVFMcTNaQmxnRnN3?oc=5",
+          "description": "Il diritto di contare Fedorov torna all’attacco di Zelensky e chiede elezioni anche durante la guerra Linkiesta.it Fedorov sfida Zelensky: «Elezioni in Ucraina anche in guerra» Il Fatto Quotidiano Parlamento ucraino approva la nomina di Yevhenii Khmara come nuovo ministro Difesa ANSA Congratulazioni del Ministro Crosetto per la nomina di Yevhenii Khmara a Ministro della Difesa dell’Ucraina difesa.",
+          "pubDate": "Wed, 19 Aug 2026 05:42:20 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "\"Una forca per l'impiccagione e delle sale per assistere all'esecuzione\": il nuovo video shock di Ben-Gvir - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc29ISzBsN3Rtd2hodVdjRzBrVC1QdkZDR043dzJxOWdOQmtVNHBOZVBQV0RrQ0NZUGloa0UyaUJXTlNCN1JrQ1YzMFZLWHNjZDdwemdmQmR2LWp4TVpDcGtwYXZJMXAyQnZwMENXcWc5RDBpQnE2Q2piWkxBUlFrdjdSNFF1QjY4VDFZUDhkT3ZrQnN0MVZCRW01czJyZw?oc=5",
+          "description": "\"Una forca per l'impiccagione e delle sale per assistere all'esecuzione\": il nuovo video shock di Ben-Gvir Il Fatto Quotidiano Ben-Gvir invoca l’uccisione di 30-40 persone a Gaza ogni notte: \"Non sono persone\" Euronews.com L'effetto che fanno le parole di Ben Gvir Il Foglio Il destino di Gaza, proliferano i paradossi L'Eco di Bergamo Autocrati e liberali, il piano inclinato della guerra giusta il ",
+          "pubDate": "Wed, 19 Aug 2026 20:23:20 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Trump, 'guerra economica contro l'Iran'. E minaccia chi aiuta Teheran",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/20/trump-guerra-economica-contro-liran.-e-minaccia-chi-aiuta-teheran_c07cd0bc-0506-4e98-8f87-170b8797e7d6.html",
+          "description": "'E' un nuovo D-Day, il mondo si unisca agli Stati Uniti contro i pasdaran'",
+          "pubDate": "Thu, 20 Aug 2026 01:53:23 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Sbranato da due rottweiler, muore 72enne nel Salento",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/sbranato-da-due-rottweiler-muore-un-uomo-nelle-campagne-del-salento_9860ad31-629b-42a7-88c4-decf4560dc08.html",
+          "description": "Trovato dal figlio. Ed è allarme lupi: nuovo avvistamento vicino Bari, parchi chiusi a Riccione",
+          "pubDate": "Wed, 19 Aug 2026 20:12:44 +0200"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "iran",
+      "n_items": 12,
+      "n_sources": 7,
+      "category": "geopolitica",
+      "score": 90,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra ultime notizie. Ft: Iran valuta di colpire obiettivi militari Usa anche in Europa - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbExXM2hfRDlxZVN3dW5wZWo4a0t5WmRJanplZWtJSGFDa0RWX0tvZ19HS3lMWDVROXdRcDBMcl9HQ3dIUDBlSTBYRkNnekZFZkItVGZibVBNbFUtUVZxVzZqSklyREpRNFM4WmJYZEx2VENTaHJ0WTJzNE82X2hldnk5Mm9ZZlVGLXc2OXFFNGFMMDdhZ29JQUtkZnVIaHV3dFVmWnVzMkRGSnNqNVdXZ0xISlFTcEZWNzU3NQ?oc=5",
+          "description": "Guerra ultime notizie. Ft: Iran valuta di colpire obiettivi militari Usa anche in Europa Il Sole 24 ORE Financial Times: \"Iran minaccia le basi americane in Europa\". La Nato pronta a qualsiasi situazione - Israele non crede al disarmo di Hamas: \"Raid a Gaza con il via libera degli USA\" RaiNews I piani di Teheran in caso di escalation: 'Pronti a colpire le basi militari Usa in Europa' ANSA Iran, le",
+          "pubDate": "Thu, 20 Aug 2026 00:04:06 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Trump annuncia, 'da oggi guerra economica contro l'Iran' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORkJvMlMyaG1UZnNscGFaT1RHaDVheDUxeFVJbS1vMGJYRzRZOW85MVVTNzRJNGdMNzlnVV9hM3RaZWR4Ym9XQTNiOTJJVFprWnJLTFNXOG0yVm43WEVjd1c2TnVuTnJ1NFpqTUxET3ZaMmJxUjIwVkg4S1p6OGxhUXc1ZC0wYU8wV2JkbVFLR2EyeG1FcnVZY084QmF6VXJ5U1lNVE9Cbm4wODJ4UmJiMTBreTh3d1FIOC1IS0RFeEVmZXdDc19SUnBON0tHcGw3T3B4MExab2F3bjlQZ1Qw?oc=5",
+          "description": "Trump annuncia, 'da oggi guerra economica contro l'Iran' ANSA Guerra Usa-Iran, le notizie in diretta | Trump annuncia la guerra economica contro Teheran, «Operazione paragonabile al D-Day». Istituito un corridoio segreto Usa per il trasporto di petrolio attraverso Hormuz Corriere della Sera 1mattina News 2026 - Stati Uniti - Iran, Trump: \"Hormuz è territorio USA\" - 19/08/2026 - Video RaiPlay Hormu",
+          "pubDate": "Wed, 19 Aug 2026 23:14:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Gli Usa sanzionano la presidente della Corte penale internazionale, ira di Tokyo - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcnV6ZlVKUEVGbW9DZlVpanhFQ3hfMF91N2ZEajA4bVhJcmV6YldRTmJ4WXdFZm4xaUZ6T004ZTlQVmxka21kOFRCZkIwVENQQjRqY2xQZkRkOEhFcV9Dc2lBSDIyS1hlMExtTjVVUzhsaThPeXRJWHY4VzlZdFdpajRFcC1NS19RT3JUYjhOQXYxWUUtN25OcG1IcDlHUGhvZVhHd3AtM0lVNENOeExiQlBJVkdsTkVrSnJEYU8tTExBYUt6OFZvNnRnZ1RYRXhOakRQcFZFTGtSa0lQdFJvMFFBTnJHQWRCZVg2UVFpcW9yUlXSAfgBQVVfeXFMTnJYdWRzVjdtbVhBcll1d0c3dGVoZ21SRGpzUXpHemVFWVdhTXlTRTMtdkY3TEhTY29ER1JITHIwZ3dSMjRnT1ZpajlEUll4WHFrT2JKS1FUY3dsM2lMNnZaY0F4VEFDMW9BZGR4RllIWTQxdHp4T2FyYmdrYldBWFZjRTBJcWpmN2dudHFDMklIZURac0ctQUt4eTl2aUVEY0hfX3hPSEl5enh6bHdfY01EZnJtOGIwVUpmbXh1VllqbnBsUWFNZ0IzajVTc2hCMXZOU1JhTk9QOGh5MmJsYlc3cjFqOEQ2azFRWW5obHAxV3ZBLXhldGI?oc=5",
+          "description": "Gli Usa sanzionano la presidente della Corte penale internazionale, ira di Tokyo RaiNews Gli Stati Uniti hanno emesso sanzioni contro la presidente della Corte penale internazionale Tomoko Akane Il Post Trump sanziona la presidente della CPI Tomoko Akane Il Fatto Quotidiano Trump, altre sanzioni alla Corte penale. E ora gli Stati si ritirano il manifesto Vertici Ue, 'sosteniamo con fermezza la Cor",
+          "pubDate": "Wed, 19 Aug 2026 14:57:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Usa-Iran, le notizie in diretta | Trump annuncia la guerra economica contro Teheran, «Operazione paragonabile al D-Day». Istituito un corridoio segreto Usa per il trasporto di petrolio attraverso Hormuz - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLUJqQ3lBZ01MWFQ0cjhQdGdKSHg5ZC1fZ1RFTVJyd0dlSEpuQjJLVGc3UDFwV1RyMjd4OG1UdmhHVTVRVWVFUEJNcnVVMUNzRjRWRmVUNlFFclN4a2dfbWJXeG1iZU0tYURJNk83aDlQNHBLaERwQjZHNFRLNjRQemo5T3F6N21FVVkzMVlIUdIBlAFBVV95cUxPbkJwMVRsbE9hTzZRLWJCVWs4Y0RaYTJackNGT3dvajlLSlpfR1ZsRUlDSHBRWS1tR01pUDZkLXhxWk9CSFdsaEd3UENacUJvTy0tZzM2MllsaEI0aUV3bkZ0RGFiYUZRSDh2cUZaU2lTQTBDeHVwX3RseS1WSzhtajIyU01ESG9rVmI4SXZEREJTazI4?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Trump annuncia la guerra economica contro Teheran, «Operazione paragonabile al D-Day». Istituito un corridoio segreto Usa per il trasporto di petrolio attraverso Hormuz Corriere della Sera 1mattina News 2026 - Stati Uniti - Iran, Trump: \"Hormuz è territorio USA\" - 19/08/2026 - Video RaiPlay Hormuz, rallenta il traffico navale tra i rischi persistenti Borsa ",
+          "pubDate": "Thu, 20 Aug 2026 00:49:18 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Attacchi di Israele contro Siria e Gaza, missili iraniani intercettati dagli Emirati - L’Iran: non abbiamo lanciato noi i missili contro gli Emirati - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNE5WZzJ1Mk5MY0hvTlBSV3F6SFkydTlTcFNmcUFiUk1VVDJaQWU2d211U2xUWG5hdlRUOXFtVTVrOWZNMkVDS2lwWFhXdEZqeHRGdExvTVBIWHRFQkswVjRYdVF0RkVQTUtPaFpKLWhIMTh0UUdwZVh1RUF5bmNmR1BCcEpBUEh4NjNRTDVydXViUkRwX3hUcEppY252UzhfQlZKekZDRmdSRlowMUxOMWxzVDJCaTd1b3VlNWZOcE9ZX0hwVDc3bmZ2MlppYmNGWU5kMzN2M0RhYjFXTkszU3BQM0hjSzVDdFhLc9IB8gFBVV95cUxOaHpKMHNiYi1BRFVUN3dIVF9RT1ZCSEtOcVR1RFhIaWI4MVpTUnpBMTZiOWZfbnhibnZhUE1ldWtaalNsRl9aWC05WERGLWUwUEtrNUNYLTZpZG1ENlV0OGFoSzlsYmcyb1UxVkZRTU1TaEZJUG0wOTNqbUhVZ3RJalRFSmJDclhDVmxLd2FuVDVGSl94VGlsZFFoOV9EZXVJZ055QzdjS2F1MmlnMHdUUUlsS3FxR1g0OHRReFl2VTdydnhhblg0MjBtR2RNb0FYbWxvaXZTaWZLdnYzZC0xWDJyT1g2ZGZKUXZkeDlWTjNQZw?oc=5",
+          "description": "Attacchi di Israele contro Siria e Gaza, missili iraniani intercettati dagli Emirati - L’Iran: non abbiamo lanciato noi i missili contro gli Emirati RaiNews Trump “nessun negoziato”, missili balistici di Teheran tornano a colpire il Golfo. Nbc: la Russia invia armi … la Repubblica Gli Emirati Arabi Uniti hanno interrotto i rapporti commerciali con l'Iran, accusandolo di aver attaccato il loro terr",
+          "pubDate": "Tue, 18 Aug 2026 21:09:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "borsa",
+      "n_items": 17,
+      "n_sources": 4,
+      "category": "economia",
+      "score": 74,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Usa-Iran, le notizie in diretta | Trump annuncia la guerra economica contro Teheran, «Operazione paragonabile al D-Day». Istituito un corridoio segreto Usa per il trasporto di petrolio attraverso Hormuz - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLUJqQ3lBZ01MWFQ0cjhQdGdKSHg5ZC1fZ1RFTVJyd0dlSEpuQjJLVGc3UDFwV1RyMjd4OG1UdmhHVTVRVWVFUEJNcnVVMUNzRjRWRmVUNlFFclN4a2dfbWJXeG1iZU0tYURJNk83aDlQNHBLaERwQjZHNFRLNjRQemo5T3F6N21FVVkzMVlIUdIBlAFBVV95cUxPbkJwMVRsbE9hTzZRLWJCVWs4Y0RaYTJackNGT3dvajlLSlpfR1ZsRUlDSHBRWS1tR01pUDZkLXhxWk9CSFdsaEd3UENacUJvTy0tZzM2MllsaEI0aUV3bkZ0RGFiYUZRSDh2cUZaU2lTQTBDeHVwX3RseS1WSzhtajIyU01ESG9rVmI4SXZEREJTazI4?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Trump annuncia la guerra economica contro Teheran, «Operazione paragonabile al D-Day». Istituito un corridoio segreto Usa per il trasporto di petrolio attraverso Hormuz Corriere della Sera 1mattina News 2026 - Stati Uniti - Iran, Trump: \"Hormuz è territorio USA\" - 19/08/2026 - Video RaiPlay Hormuz, rallenta il traffico navale tra i rischi persistenti Borsa ",
+          "pubDate": "Thu, 20 Aug 2026 00:49:18 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Dazi, Trump sospende per 3 giorni le tariffe al 50% sul Canada: \"Presto un accordo\" - tg24.sky.it",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyV3NQdTlaaHA3MG5GdE9POC1USnNXeFB0dG10Qy1nMzVxTG9CSnBBWHRLcGxZdnc2dHFmeE93WVE2bV9nVlB2TmEwVjI3S1RiZ1ZfXzNMc25tZjFEblhYU0E1TEYtSWdPYk53NUVKUWM?oc=5",
+          "description": "Dazi, Trump sospende per 3 giorni le tariffe al 50% sul Canada: \"Presto un accordo\" tg24.sky.it Dazi, Trump sospende le tariffe al 50% sul Canada: «Raggiunto un accordo» Il Sole 24 ORE USA e Canada verso accordo commerciale: dazi al 50% in pausa per tre giorni Borsa Italiana Stellantis, Trump congela i dazi contro il Canada: attesa una riduzione dal 25% al 15% sulle auto. Il titolo rimbalza Milano",
+          "pubDate": "Wed, 19 Aug 2026 05:38:05 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Carburanti, ultima settimana di taglio accise. E il gasolio torna sopra 2,1 euro al litro - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMGVqOHZHdnJDN3cxSkdOY1JrbDJyekZpeVJpQU1xXzdBQklBUGRUVTB4SnlxT3UzV3kzOXhTV3VES0NuTEVRejZDdWc4MmppZjgtUWFaUklDbFhZVjMyM0xHdnNoR21WdDh0bTNnZU5yXzNoWmRjZFVjaTdMXzZFX2N1cUZ5WW56TXBZd1JhYm4tcnFuSTRXX2VoMWZ2UE5YelZNSzRsa2FxbGQ0SzhNTjZpZGk4MElz?oc=5",
+          "description": "Carburanti, ultima settimana di taglio accise. E il gasolio torna sopra 2,1 euro al litro Il Sole 24 ORE Ancora su il prezzo del gasolio nonostante lo sconto fiscale: in autostrada 2,178 euro al litro Il Fatto Quotidiano Carburanti, Mimit: prezzo medio self benzina a 1,997 euro e gasolio a 2,107 euro Borsa Italiana Carburanti, azzerato in autostrada lo sconto sul gasolio la Repubblica FederPetroli",
+          "pubDate": "Wed, 19 Aug 2026 18:27:32 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Il titolo Unitree apre in rialzo del 629% dopo che i trader crypto avevano sottovalutato il suo debutto - Yahoo Finanza",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMnVhYXU5VGFIMjl6cjFBUFN2VkRkWmd1WFJRaTFKanV1aHdNVFJNdTlpLUhqOHNhMWZ1VDJHU21FejJUTU1hU3VSWFpZZ09IMmVBdDZFTmxzVkJDX3lpZTlNZTc3MjFqcFpONUdER3NBLWl2a3NlaEhFNnZSemtINjZSMXpKNXpE?oc=5",
+          "description": "Il titolo Unitree apre in rialzo del 629% dopo che i trader crypto avevano sottovalutato il suo debutto Yahoo Finanza Unitree, il boom in Borsa dei robot umanoidi cinesi: rialzo del 629% al debutto. L'euforia dei risparmiatori e i dubbi degli esperti Corriere della Sera Azienda robotica Unitree debutta in Borsa: boom a Shanghai e tensioni USA Focus.it Ecco come il giovane Wang Xingxing di Unitree ",
+          "pubDate": "Wed, 19 Aug 2026 06:13:30 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Eurolistini perlopiù in territorio negativo - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMnBqNlAyTUJTUU41LUhYdzROS3JRaVpkTTJHc3dLVnlxZFJSUFpDcVVPS0Qtc2VhTnlEdmJyZERmMk5LM09Ud1hNQnRLR2hKcHU0aGlIZGF6QlNhU0NSa1JlblQ2X09Ga0l1MWpHRGN6M280QnVPb0h6dDU1UDRuU3ZKdFVXU1BPd1RfZW9zbjBYWkUwbWJvZXlTTXpQMXZiUUYyME1RZkduZXI5cWVfY3c0RXFQRWdVTFpzendtVEJISmlWRGxLVw?oc=5",
+          "description": "Eurolistini perlopiù in territorio negativo Borsa Italiana Borse europee sulla parità. In rosso Piazza Affari Borsa Italiana Piazza Affari giù con le banche, brilla Stellantis (+5,9%) SoldiOnline.it Borsa: Milano chiude in calo, Ftse Mib -0,75% ANSA Borse in diretta, prezzo del petrolio oggi 19 agosto | Listini poco mossi, crollano i titoli tech in Asia: il collo di bottiglia di Hormuz Corriere de",
+          "pubDate": "Tue, 18 Aug 2026 14:10:00 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "milano",
+      "n_items": 9,
+      "n_sources": 7,
+      "category": "economia",
+      "score": 69,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Milano, allerta per temporali e raffiche di vento dall'alba di giovedì 20 agosto. Il Comune chiude i parchi, le piscine ferme dalle 14 - Corriere Milano",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOekFLUktxTHZKbjdCVFlPZFhVeFYxdUNOaVVOeVdFVFdSVGgzU2tMOVZXN2FXMjdiMjVBT0FuSUJ0aGlpZG93RzJ4UFl1VlpSQm91V19VSXBEM2NRV25JMnlwU1BTTFI4aXNxQS1tSU9hQktVNm81WW93SHR6ZzZpaHphRWpjNW9NRGdIRUZjcHFTbC00Sm4xVDJOeGZEb0lTbi1RbVJJM0ZVMjFPcUZxakJwR0FxZFVXeHJ1ZUJ5MmZBUDcyU1l6WFd0OV9EcjZVTGpVdXJGMlU1Znh1T1M0cGEtQzRfaHRqbXdvXzQ0UlVNc3ZtTWJQZnZVUlRzVktSSGpkLW1EUEN1RVRxNW91VnB4YXBYNWc1eFV2YVFEN3diYWZiSzVQSk1VMUZFSzVXWnRNYVRMZjVFMWFPTm8zUk53b1lWODDSAcwCQVVfeXFMTUZaQ3lZd2x2TS1BbmlmeVBNWG9USEhXWU9UOV93a3NvTS1mQmdiSjdEcm1ZRlA3VDB6alJQUzBFZWZoU09VTVhkdFgwLU9pMENIY21iYzZxZ2NOTExsQlBSODBzMmM1b3F2TFZHQUlTLUg5WnNLcXA2NXNjU25LWXJfcE40bFMyeWhndXNYdjRwaU5feFNmVU85aWpvU2FoWXNjX0g4X3c1YnA3MXZqR3E1VThlUEZlMVRxeGtQcWVKbWhyVFdBWmNwRUxKN0Z0S01KbVVVczRrQ1VxNUl4aHI2NXZ5bHFPSWZSSXBmc1lIc2tLamduWTZQbTFxbGpJeHFwb0lEdmh0b3UzV1d0V1JzY19DWnRRTnFkX3NqZDNkelY0UTAwOGtHOGhEZDc0NVRiV0tCMEJVekZyajgyOU9OZ0RWZVFlZmtsWWE?oc=5",
+          "description": "Milano, allerta per temporali e raffiche di vento dall'alba di giovedì 20 agosto. Il Comune chiude i parchi, le piscine ferme dalle 14 Corriere Milano Maltempo, allerta meteo arancione e gialla per temporali giovedì 20 agosto: la mappa delle regioni a rischio Adnkronos Meteo, scatta l’allerta arancione: temporali e forte vento. A Milano chiusi parchi e piscine la Repubblica Pioggia e grandine in E",
+          "pubDate": "Wed, 19 Aug 2026 18:14:41 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Dazi, Trump sospende per 3 giorni le tariffe al 50% sul Canada: \"Presto un accordo\" - tg24.sky.it",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyV3NQdTlaaHA3MG5GdE9POC1USnNXeFB0dG10Qy1nMzVxTG9CSnBBWHRLcGxZdnc2dHFmeE93WVE2bV9nVlB2TmEwVjI3S1RiZ1ZfXzNMc25tZjFEblhYU0E1TEYtSWdPYk53NUVKUWM?oc=5",
+          "description": "Dazi, Trump sospende per 3 giorni le tariffe al 50% sul Canada: \"Presto un accordo\" tg24.sky.it Dazi, Trump sospende le tariffe al 50% sul Canada: «Raggiunto un accordo» Il Sole 24 ORE USA e Canada verso accordo commerciale: dazi al 50% in pausa per tre giorni Borsa Italiana Stellantis, Trump congela i dazi contro il Canada: attesa una riduzione dal 25% al 15% sulle auto. Il titolo rimbalza Milano",
+          "pubDate": "Wed, 19 Aug 2026 05:38:05 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Eurolistini perlopiù in territorio negativo - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMnBqNlAyTUJTUU41LUhYdzROS3JRaVpkTTJHc3dLVnlxZFJSUFpDcVVPS0Qtc2VhTnlEdmJyZERmMk5LM09Ud1hNQnRLR2hKcHU0aGlIZGF6QlNhU0NSa1JlblQ2X09Ga0l1MWpHRGN6M280QnVPb0h6dDU1UDRuU3ZKdFVXU1BPd1RfZW9zbjBYWkUwbWJvZXlTTXpQMXZiUUYyME1RZkduZXI5cWVfY3c0RXFQRWdVTFpzendtVEJISmlWRGxLVw?oc=5",
+          "description": "Eurolistini perlopiù in territorio negativo Borsa Italiana Borse europee sulla parità. In rosso Piazza Affari Borsa Italiana Piazza Affari giù con le banche, brilla Stellantis (+5,9%) SoldiOnline.it Borsa: Milano chiude in calo, Ftse Mib -0,75% ANSA Borse in diretta, prezzo del petrolio oggi 19 agosto | Listini poco mossi, crollano i titoli tech in Asia: il collo di bottiglia di Hormuz Corriere de",
+          "pubDate": "Tue, 18 Aug 2026 14:10:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Oro: rimbalza su calo Treasury e discesa dollaro, +2,8% contratto spot a 4.456$ - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN05hU2o3d0U3M3dJUjI1NVVXOEdWdko1dTFuQlRMSjU1eVRMNjEtb2xnbVNpbFZuTEpXMk5zTjhIdUMwNnJxNE5MdFVfZXBlOUs2R2tXZWEyQnprWXlrbS11TWc3NHNqS2xQZXhGckg3MnF6QUdTQWpjaGpiczNlQUVoQ051RG5uY1RzTFBJTU14b0hOMXcwelRNTVdMV1ZGankxVjBpcllHVl9NcDlpSkVhODV3UWM?oc=5",
+          "description": "Oro: rimbalza su calo Treasury e discesa dollaro, +2,8% contratto spot a 4.456$ Il Sole 24 ORE L’oro sale leggermente con dollaro e rendimenti in calo prima dei verbali Fed Yahoo Finanza GOLD del 18/08/2026 Teleborsa Oro, l\"analisi tecnica di oggi: sotto pressione il supporto a 4.420-4.400 Milano Finanza Oro giù dello 0,63% sul Comex: cosa indicano i nuovi prezzi SoldiOnline.it",
+          "pubDate": "Wed, 19 Aug 2026 15:57:38 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: Milano chiude in calo, Ftse Mib -0,75%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/borsa-milano-chiude-in-calo-ftse-mib-075_05bc77c0-0aa1-42d2-a568-d056003787c9.html",
+          "description": "In calo le banche del risiko, sugli scudi solo Banca Generali. Corre Stellantis",
+          "pubDate": "Wed, 19 Aug 2026 17:47:14 +0200"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "calo",
+      "n_items": 10,
+      "n_sources": 5,
+      "category": "economia",
+      "score": 56,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Eurolistini perlopiù in territorio negativo - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMnBqNlAyTUJTUU41LUhYdzROS3JRaVpkTTJHc3dLVnlxZFJSUFpDcVVPS0Qtc2VhTnlEdmJyZERmMk5LM09Ud1hNQnRLR2hKcHU0aGlIZGF6QlNhU0NSa1JlblQ2X09Ga0l1MWpHRGN6M280QnVPb0h6dDU1UDRuU3ZKdFVXU1BPd1RfZW9zbjBYWkUwbWJvZXlTTXpQMXZiUUYyME1RZkduZXI5cWVfY3c0RXFQRWdVTFpzendtVEJISmlWRGxLVw?oc=5",
+          "description": "Eurolistini perlopiù in territorio negativo Borsa Italiana Borse europee sulla parità. In rosso Piazza Affari Borsa Italiana Piazza Affari giù con le banche, brilla Stellantis (+5,9%) SoldiOnline.it Borsa: Milano chiude in calo, Ftse Mib -0,75% ANSA Borse in diretta, prezzo del petrolio oggi 19 agosto | Listini poco mossi, crollano i titoli tech in Asia: il collo di bottiglia di Hormuz Corriere de",
+          "pubDate": "Tue, 18 Aug 2026 14:10:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Oro: rimbalza su calo Treasury e discesa dollaro, +2,8% contratto spot a 4.456$ - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN05hU2o3d0U3M3dJUjI1NVVXOEdWdko1dTFuQlRMSjU1eVRMNjEtb2xnbVNpbFZuTEpXMk5zTjhIdUMwNnJxNE5MdFVfZXBlOUs2R2tXZWEyQnprWXlrbS11TWc3NHNqS2xQZXhGckg3MnF6QUdTQWpjaGpiczNlQUVoQ051RG5uY1RzTFBJTU14b0hOMXcwelRNTVdMV1ZGankxVjBpcllHVl9NcDlpSkVhODV3UWM?oc=5",
+          "description": "Oro: rimbalza su calo Treasury e discesa dollaro, +2,8% contratto spot a 4.456$ Il Sole 24 ORE L’oro sale leggermente con dollaro e rendimenti in calo prima dei verbali Fed Yahoo Finanza GOLD del 18/08/2026 Teleborsa Oro, l\"analisi tecnica di oggi: sotto pressione il supporto a 4.420-4.400 Milano Finanza Oro giù dello 0,63% sul Comex: cosa indicano i nuovi prezzi SoldiOnline.it",
+          "pubDate": "Wed, 19 Aug 2026 15:57:38 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Bond alle stelle, dollaro debole e disoccupazione: ma cosa succede all'economia Usa? - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQLWxhcExPd1hqU2RRblRfRWNXWXJxMFJpTnJxZ1p4ZjFFRm40MjJ3T25LY0VrRS1zV09HUWUzTDk5MVEtTmU5cEQ1Snk5S1N0RnlfR0hYa0tzU0s3US1NcS0teGI5a0h5ZXhIZGdoeVN4OWw1bzJUYUdqYzU1a2FNelh2emFtYy05LUJWUlBYUERGbk51bEY4WnpjcTNhdTJGWHhKc3RLMjZybndoUkdFb3VsLWttSlItSWdNczBSbWRUNzRzS3lSc2hpam1QM3ExWGdhY0xPdXhTWkJwWHZ2SHlnNG1QWGRtU0ZpUktUZkRBdHljelVaRGFXRkFZUXVuamNyQjdPUENIQdIBjwJBVV95cUxNUFd4VUlpdkVNZlA2Yk9POTRWNk5wbDdVelN1SWlqcWhXVFdSc1dncU53TWZlTGVHbVFCLTBucFR4bjNJWFpwazBxcFFLeXk2VURfNVl4WEN6ZmpYS3FQTUs5dkh5bmg1NEpEM1l2Y05XYkdKRjBQX1NPTWtDTExaUnlCRzBTbUgyeFQ3RTMyR0ZReXhoNlVCU0hkTTVnLUdySDhmVHV0NHZlQW5PU3BmWkVrWmt4V0VLLThhR1g4YkRHV3ljWlY3VFNsUDdKdXpCNzVoZHlyeFFvS25tLXBjaWRsN2ZQTGNrdmozeW8yR25kNWJWYmtraWFKMW1YX2ZXazJBbWRwU0hzcmJlS3RZ?oc=5",
+          "description": "Bond alle stelle, dollaro debole e disoccupazione: ma cosa succede all'economia Usa? Corriere della Sera Borsa, Wall Street recupera grazie al calo dei rendimenti Treasury. Moderna vola con vaccino antimelanoma Il Sole 24 ORE Il Tesoro ha appena tracciato una linea nella sabbia al 5,3% e Bitcoin se n’è accorto Yahoo Finanza Btp trentennale vicino al 5% sulle tensioni per il debito Usa ANSA Usa, bl",
+          "pubDate": "Wed, 19 Aug 2026 09:38:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: Milano chiude in calo, Ftse Mib -0,75%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/borsa-milano-chiude-in-calo-ftse-mib-075_05bc77c0-0aa1-42d2-a568-d056003787c9.html",
+          "description": "In calo le banche del risiko, sugli scudi solo Banca Generali. Corre Stellantis",
+          "pubDate": "Wed, 19 Aug 2026 17:47:14 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "S&P, con ondate di calore sale mortalità, effetti su risultati assicurazioni",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/sp-con-ondate-di-calore-sale-mortalita-effetti-su-risultati-assicurazioni_3b35f3b6-fe99-4e0c-9597-23ffac994983.html",
+          "description": "'Società europee ben posizionate, ma implicazioni sui rating potrebbero aumentare'",
+          "pubDate": "Wed, 19 Aug 2026 17:41:17 +0200"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "agosto",
+      "n_items": 11,
+      "n_sources": 5,
+      "category": "general",
+      "score": 55,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Milano, allerta per temporali e raffiche di vento dall'alba di giovedì 20 agosto. Il Comune chiude i parchi, le piscine ferme dalle 14 - Corriere Milano",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOekFLUktxTHZKbjdCVFlPZFhVeFYxdUNOaVVOeVdFVFdSVGgzU2tMOVZXN2FXMjdiMjVBT0FuSUJ0aGlpZG93RzJ4UFl1VlpSQm91V19VSXBEM2NRV25JMnlwU1BTTFI4aXNxQS1tSU9hQktVNm81WW93SHR6ZzZpaHphRWpjNW9NRGdIRUZjcHFTbC00Sm4xVDJOeGZEb0lTbi1RbVJJM0ZVMjFPcUZxakJwR0FxZFVXeHJ1ZUJ5MmZBUDcyU1l6WFd0OV9EcjZVTGpVdXJGMlU1Znh1T1M0cGEtQzRfaHRqbXdvXzQ0UlVNc3ZtTWJQZnZVUlRzVktSSGpkLW1EUEN1RVRxNW91VnB4YXBYNWc1eFV2YVFEN3diYWZiSzVQSk1VMUZFSzVXWnRNYVRMZjVFMWFPTm8zUk53b1lWODDSAcwCQVVfeXFMTUZaQ3lZd2x2TS1BbmlmeVBNWG9USEhXWU9UOV93a3NvTS1mQmdiSjdEcm1ZRlA3VDB6alJQUzBFZWZoU09VTVhkdFgwLU9pMENIY21iYzZxZ2NOTExsQlBSODBzMmM1b3F2TFZHQUlTLUg5WnNLcXA2NXNjU25LWXJfcE40bFMyeWhndXNYdjRwaU5feFNmVU85aWpvU2FoWXNjX0g4X3c1YnA3MXZqR3E1VThlUEZlMVRxeGtQcWVKbWhyVFdBWmNwRUxKN0Z0S01KbVVVczRrQ1VxNUl4aHI2NXZ5bHFPSWZSSXBmc1lIc2tLamduWTZQbTFxbGpJeHFwb0lEdmh0b3UzV1d0V1JzY19DWnRRTnFkX3NqZDNkelY0UTAwOGtHOGhEZDc0NVRiV0tCMEJVekZyajgyOU9OZ0RWZVFlZmtsWWE?oc=5",
+          "description": "Milano, allerta per temporali e raffiche di vento dall'alba di giovedì 20 agosto. Il Comune chiude i parchi, le piscine ferme dalle 14 Corriere Milano Maltempo, allerta meteo arancione e gialla per temporali giovedì 20 agosto: la mappa delle regioni a rischio Adnkronos Meteo, scatta l’allerta arancione: temporali e forte vento. A Milano chiusi parchi e piscine la Repubblica Pioggia e grandine in E",
+          "pubDate": "Wed, 19 Aug 2026 18:14:41 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Ucraina, massiccio attacco con missili balistici su Kiev - tg24.sky.it",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOXJ4VUF6RUVydEpwTHpoS1YtUC1XTi1ETHFma3g4UkJFNnZNVFU3V2hoTTAtb2Y0aFBrZVZvc2Z0UGk1amU0T2xyS2h5M2NveFN2R1RPWW5JQmdzRjNwV0dLbk5MWFUxUHhFYjFLOGNUay12WDBJb0NZNFVWOTdGcnJ3eU8zU0JR?oc=5",
+          "description": "Ucraina, massiccio attacco con missili balistici su Kiev tg24.sky.it Le notizie sulla guerra Ucraina-Russia di mercoledì 19 agosto Corriere della Sera Mosca, l’attacco più duro: oltre 800 droni ucraini si abbattono sulla Russia la Repubblica Un attacco missilistico russo ha ucciso 10 persone nella regione di Kharkiv, in Ucraina Il Post L’avvertimento di Mosca a Londra. “Pagherete per i droni a Zel",
+          "pubDate": "Wed, 19 Aug 2026 21:52:56 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Eurolistini perlopiù in territorio negativo - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMnBqNlAyTUJTUU41LUhYdzROS3JRaVpkTTJHc3dLVnlxZFJSUFpDcVVPS0Qtc2VhTnlEdmJyZERmMk5LM09Ud1hNQnRLR2hKcHU0aGlIZGF6QlNhU0NSa1JlblQ2X09Ga0l1MWpHRGN6M280QnVPb0h6dDU1UDRuU3ZKdFVXU1BPd1RfZW9zbjBYWkUwbWJvZXlTTXpQMXZiUUYyME1RZkduZXI5cWVfY3c0RXFQRWdVTFpzendtVEJISmlWRGxLVw?oc=5",
+          "description": "Eurolistini perlopiù in territorio negativo Borsa Italiana Borse europee sulla parità. In rosso Piazza Affari Borsa Italiana Piazza Affari giù con le banche, brilla Stellantis (+5,9%) SoldiOnline.it Borsa: Milano chiude in calo, Ftse Mib -0,75% ANSA Borse in diretta, prezzo del petrolio oggi 19 agosto | Listini poco mossi, crollano i titoli tech in Asia: il collo di bottiglia di Hormuz Corriere de",
+          "pubDate": "Tue, 18 Aug 2026 14:10:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Le Borse oggi, 19 agosto. Focus sul risiko: Mps cede il 2,2% dopo la contromossa su Bpm e Generali - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSHA5enFMeWtyNWE0Q2RpYkpFWmJxOU1DRGd6Nm9DdjI5OXEwd21Nd1A4bWxhZDlOVFVYa2M1bVU2UU56VlNfZE1leDVVSzhVMUJEemR6RVotWlNVMmlqamJrTjlYNXM4dXVYVEhXQWtwb3ZHajRMeVYyS3I0S2RWNkZfUV9iZ3VnSTY2YzVUZlpCaVZDS3RIWnlWVVV5d2JxMC1IS1dRZWRadmpzeXlzX1Z6WERySktSSUxWVWttMEt2eUZkUGEySHlpdG9seTZQUGdKcWFvQQ?oc=5",
+          "description": "Le Borse oggi, 19 agosto. Focus sul risiko: Mps cede il 2,2% dopo la contromossa su Bpm e Generali la Repubblica Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Wed, 19 Aug 2026 07:13:58 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Melfi verso la ripresa con DS7 e Lancia Gamma",
+          "link": "https://www.ilsole24ore.com/art/melfi-la-ripresa-ds7-e-lancia-gamma-AJv49Bp",
+          "description": "Riapre l’Unità di montaggio, nel 2027 le pre-serie del nuovo suv Alfa Romeo - Il 24 agosto toccherà a Mirafiori e Pomigliano, dove i contratti di solidarietà sono stati prolungati di un anno",
+          "pubDate": "Wed, 19 Aug 2026 04:32:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "sale",
+      "n_items": 8,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 54,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Salento, 72enne muore sbranato da due cani rottweiler a Nardò - tg24.sky.it",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNGlKeTlYdDRKamkxTklJM2dqbjdCWlc1ZnFPbjBEYnctMll5cl9hZHRZMUxWN3hkeURuV01QT0VhOHFuZHBCa21hR3VLZUNHYUdYVjBBVFVwd0ZBNkUwX1AwSW5GUlRObFBTM2JrclR3QTFudXBOcWpBSVpkVk94WllzTGZhdnI3eWNj?oc=5",
+          "description": "Salento, 72enne muore sbranato da due cani rottweiler a Nardò tg24.sky.it Dramma nelle campagne, 72enne ritrovato senza vita: sul corpo morsi di cane LeccePrima Sbranato da due rottweiler, muore 72enne nelle campagne del Salento RaiNews Azzannato da due rottweiler mentre raccoglie frutta nelle campagne del Salento: morto 72enne Il Fatto Quotidiano Choc nel Salento, azzannato da due rottweiler: ucc",
+          "pubDate": "Wed, 19 Aug 2026 15:05:01 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "\"Una forca per l'impiccagione e delle sale per assistere all'esecuzione\": il nuovo video shock di Ben-Gvir - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc29ISzBsN3Rtd2hodVdjRzBrVC1QdkZDR043dzJxOWdOQmtVNHBOZVBQV0RrQ0NZUGloa0UyaUJXTlNCN1JrQ1YzMFZLWHNjZDdwemdmQmR2LWp4TVpDcGtwYXZJMXAyQnZwMENXcWc5RDBpQnE2Q2piWkxBUlFrdjdSNFF1QjY4VDFZUDhkT3ZrQnN0MVZCRW01czJyZw?oc=5",
+          "description": "\"Una forca per l'impiccagione e delle sale per assistere all'esecuzione\": il nuovo video shock di Ben-Gvir Il Fatto Quotidiano Ben-Gvir invoca l’uccisione di 30-40 persone a Gaza ogni notte: \"Non sono persone\" Euronews.com L'effetto che fanno le parole di Ben Gvir Il Foglio Il destino di Gaza, proliferano i paradossi L'Eco di Bergamo Autocrati e liberali, il piano inclinato della guerra giusta il ",
+          "pubDate": "Wed, 19 Aug 2026 20:23:20 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Sbranato da due rottweiler, muore 72enne nel Salento",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/sbranato-da-due-rottweiler-muore-un-uomo-nelle-campagne-del-salento_9860ad31-629b-42a7-88c4-decf4560dc08.html",
+          "description": "Trovato dal figlio. Ed è allarme lupi: nuovo avvistamento vicino Bari, parchi chiusi a Riccione",
+          "pubDate": "Wed, 19 Aug 2026 20:12:44 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Oro: rimbalza su calo Treasury e discesa dollaro, +2,8% contratto spot a 4.456$ - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN05hU2o3d0U3M3dJUjI1NVVXOEdWdko1dTFuQlRMSjU1eVRMNjEtb2xnbVNpbFZuTEpXMk5zTjhIdUMwNnJxNE5MdFVfZXBlOUs2R2tXZWEyQnprWXlrbS11TWc3NHNqS2xQZXhGckg3MnF6QUdTQWpjaGpiczNlQUVoQ051RG5uY1RzTFBJTU14b0hOMXcwelRNTVdMV1ZGankxVjBpcllHVl9NcDlpSkVhODV3UWM?oc=5",
+          "description": "Oro: rimbalza su calo Treasury e discesa dollaro, +2,8% contratto spot a 4.456$ Il Sole 24 ORE L’oro sale leggermente con dollaro e rendimenti in calo prima dei verbali Fed Yahoo Finanza GOLD del 18/08/2026 Teleborsa Oro, l\"analisi tecnica di oggi: sotto pressione il supporto a 4.420-4.400 Milano Finanza Oro giù dello 0,63% sul Comex: cosa indicano i nuovi prezzi SoldiOnline.it",
+          "pubDate": "Wed, 19 Aug 2026 15:57:38 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Il petrolio chiude in rialzo a New York, a 86,16 dollari",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/il-petrolio-chiude-in-rialzo-a-new-york-a-8616-dollari_6dcfc93d-a1ed-4866-b6e7-72067befe03f.html",
+          "description": "Il Wti sale dell'1,44%, il Brent dello 0,90% a quota 91,84",
+          "pubDate": "Wed, 19 Aug 2026 20:39:21 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "guerra",
+      "n_items": 9,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 51,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra ultime notizie. Ft: Iran valuta di colpire obiettivi militari Usa anche in Europa - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbExXM2hfRDlxZVN3dW5wZWo4a0t5WmRJanplZWtJSGFDa0RWX0tvZ19HS3lMWDVROXdRcDBMcl9HQ3dIUDBlSTBYRkNnekZFZkItVGZibVBNbFUtUVZxVzZqSklyREpRNFM4WmJYZEx2VENTaHJ0WTJzNE82X2hldnk5Mm9ZZlVGLXc2OXFFNGFMMDdhZ29JQUtkZnVIaHV3dFVmWnVzMkRGSnNqNVdXZ0xISlFTcEZWNzU3NQ?oc=5",
+          "description": "Guerra ultime notizie. Ft: Iran valuta di colpire obiettivi militari Usa anche in Europa Il Sole 24 ORE Financial Times: \"Iran minaccia le basi americane in Europa\". La Nato pronta a qualsiasi situazione - Israele non crede al disarmo di Hamas: \"Raid a Gaza con il via libera degli USA\" RaiNews I piani di Teheran in caso di escalation: 'Pronti a colpire le basi militari Usa in Europa' ANSA Iran, le",
+          "pubDate": "Thu, 20 Aug 2026 00:04:06 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Trump annuncia, 'da oggi guerra economica contro l'Iran' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORkJvMlMyaG1UZnNscGFaT1RHaDVheDUxeFVJbS1vMGJYRzRZOW85MVVTNzRJNGdMNzlnVV9hM3RaZWR4Ym9XQTNiOTJJVFprWnJLTFNXOG0yVm43WEVjd1c2TnVuTnJ1NFpqTUxET3ZaMmJxUjIwVkg4S1p6OGxhUXc1ZC0wYU8wV2JkbVFLR2EyeG1FcnVZY084QmF6VXJ5U1lNVE9Cbm4wODJ4UmJiMTBreTh3d1FIOC1IS0RFeEVmZXdDc19SUnBON0tHcGw3T3B4MExab2F3bjlQZ1Qw?oc=5",
+          "description": "Trump annuncia, 'da oggi guerra economica contro l'Iran' ANSA Guerra Usa-Iran, le notizie in diretta | Trump annuncia la guerra economica contro Teheran, «Operazione paragonabile al D-Day». Istituito un corridoio segreto Usa per il trasporto di petrolio attraverso Hormuz Corriere della Sera 1mattina News 2026 - Stati Uniti - Iran, Trump: \"Hormuz è territorio USA\" - 19/08/2026 - Video RaiPlay Hormu",
+          "pubDate": "Wed, 19 Aug 2026 23:14:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Ucraina, massiccio attacco con missili balistici su Kiev - tg24.sky.it",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOXJ4VUF6RUVydEpwTHpoS1YtUC1XTi1ETHFma3g4UkJFNnZNVFU3V2hoTTAtb2Y0aFBrZVZvc2Z0UGk1amU0T2xyS2h5M2NveFN2R1RPWW5JQmdzRjNwV0dLbk5MWFUxUHhFYjFLOGNUay12WDBJb0NZNFVWOTdGcnJ3eU8zU0JR?oc=5",
+          "description": "Ucraina, massiccio attacco con missili balistici su Kiev tg24.sky.it Le notizie sulla guerra Ucraina-Russia di mercoledì 19 agosto Corriere della Sera Mosca, l’attacco più duro: oltre 800 droni ucraini si abbattono sulla Russia la Repubblica Un attacco missilistico russo ha ucciso 10 persone nella regione di Kharkiv, in Ucraina Il Post L’avvertimento di Mosca a Londra. “Pagherete per i droni a Zel",
+          "pubDate": "Wed, 19 Aug 2026 21:52:56 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Il diritto di contare Fedorov torna all’attacco di Zelensky e chiede elezioni anche durante la guerra - Linkiesta.it",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRlNiWUpWSml6OXJ3RWNfcFM1Yk1yelNjVzdLbmJzUTdzRmRsSWJkMi10cDFvbW45STlrV0FxdzJldkRORjhBMGlWSnF4N2dzemxQYkpNTnNCdG5mNnhvTTk5Mnc1ZW9VSVM2QkU5ZkVyWG10X0xvUFpSVFdqR0FueG9IbVFMcTNaQmxnRnN3?oc=5",
+          "description": "Il diritto di contare Fedorov torna all’attacco di Zelensky e chiede elezioni anche durante la guerra Linkiesta.it Fedorov sfida Zelensky: «Elezioni in Ucraina anche in guerra» Il Fatto Quotidiano Parlamento ucraino approva la nomina di Yevhenii Khmara come nuovo ministro Difesa ANSA Congratulazioni del Ministro Crosetto per la nomina di Yevhenii Khmara a Ministro della Difesa dell’Ucraina difesa.",
+          "pubDate": "Wed, 19 Aug 2026 05:42:20 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Usa-Iran, le notizie in diretta | Trump annuncia la guerra economica contro Teheran, «Operazione paragonabile al D-Day». Istituito un corridoio segreto Usa per il trasporto di petrolio attraverso Hormuz - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLUJqQ3lBZ01MWFQ0cjhQdGdKSHg5ZC1fZ1RFTVJyd0dlSEpuQjJLVGc3UDFwV1RyMjd4OG1UdmhHVTVRVWVFUEJNcnVVMUNzRjRWRmVUNlFFclN4a2dfbWJXeG1iZU0tYURJNk83aDlQNHBLaERwQjZHNFRLNjRQemo5T3F6N21FVVkzMVlIUdIBlAFBVV95cUxPbkJwMVRsbE9hTzZRLWJCVWs4Y0RaYTJackNGT3dvajlLSlpfR1ZsRUlDSHBRWS1tR01pUDZkLXhxWk9CSFdsaEd3UENacUJvTy0tZzM2MllsaEI0aUV3bkZ0RGFiYUZRSDh2cUZaU2lTQTBDeHVwX3RseS1WSzhtajIyU01ESG9rVmI4SXZEREJTazI4?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Trump annuncia la guerra economica contro Teheran, «Operazione paragonabile al D-Day». Istituito un corridoio segreto Usa per il trasporto di petrolio attraverso Hormuz Corriere della Sera 1mattina News 2026 - Stati Uniti - Iran, Trump: \"Hormuz è territorio USA\" - 19/08/2026 - Video RaiPlay Hormuz, rallenta il traffico navale tra i rischi persistenti Borsa ",
+          "pubDate": "Thu, 20 Aug 2026 00:49:18 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "europa",
+      "n_items": 7,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 48,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra ultime notizie. Ft: Iran valuta di colpire obiettivi militari Usa anche in Europa - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbExXM2hfRDlxZVN3dW5wZWo4a0t5WmRJanplZWtJSGFDa0RWX0tvZ19HS3lMWDVROXdRcDBMcl9HQ3dIUDBlSTBYRkNnekZFZkItVGZibVBNbFUtUVZxVzZqSklyREpRNFM4WmJYZEx2VENTaHJ0WTJzNE82X2hldnk5Mm9ZZlVGLXc2OXFFNGFMMDdhZ29JQUtkZnVIaHV3dFVmWnVzMkRGSnNqNVdXZ0xISlFTcEZWNzU3NQ?oc=5",
+          "description": "Guerra ultime notizie. Ft: Iran valuta di colpire obiettivi militari Usa anche in Europa Il Sole 24 ORE Financial Times: \"Iran minaccia le basi americane in Europa\". La Nato pronta a qualsiasi situazione - Israele non crede al disarmo di Hamas: \"Raid a Gaza con il via libera degli USA\" RaiNews I piani di Teheran in caso di escalation: 'Pronti a colpire le basi militari Usa in Europa' ANSA Iran, le",
+          "pubDate": "Thu, 20 Aug 2026 00:04:06 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "I piani di Teheran in caso di escalation: 'Pronti a colpire le basi militari Usa in Europa'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/19/i-piani-di-teheran-in-caso-di-escalation-pronti-a-colpire-le-basi-militari-usa-in-europa_adb2a067-b9d7-4f27-a0ab-804e0660a137.html",
+          "description": "La risposta della Nato: 'Preparati a qualsiasi minaccia'. Nel mirino chi fornisce aiuto agli aerei americani",
+          "pubDate": "Wed, 19 Aug 2026 21:10:08 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Apple riscrive le regole dell’App Store e fa pace (forse) con la Commissione Ue - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTTBPaktVbURqMkhCZTZ0VExoSFhSd2pzeThaMnFEb1dOU052RmZsY3R4bGp0ejgzUVlETlJYREkwZThxTkJJcWtNU1ljMXBvbEZnOEdaaGxFY2FaRUtxQ1hmNmplckhFM091bUdqUkdwM3ZnZXZwQ0FrdG9wby1SYVBZQUR6Y2hYSnpZbkZ6enBFeXZXUWRhN3pQOW5CMEJOWXloMHdiV0QzYktOYVNJ?oc=5",
+          "description": "Apple riscrive le regole dell’App Store e fa pace (forse) con la Commissione Ue Il Sole 24 ORE Apple, le misure Antitrust erodono i profitti stellari dell'App Store. E il titolo va giù a Wall Street Corriere della Sera Tregua storica tra Apple e l'Ue sulle app: ecco cosa cambia per utenti e mercato la Repubblica Apple abbassa le barriere per gli store alternativi su iPhone in Europa Hardware Upgra",
+          "pubDate": "Wed, 19 Aug 2026 09:18:56 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: in Europa vince la volatilità, indici poco variati",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/borsa-in-europa-vince-la-volatilita-indici-poco-variati_8374fd9f-5b96-4138-96ec-035bbdff808f.html",
+          "description": "Londra +0,1%, Francoforte -0,1%, Parigi -0,09%",
+          "pubDate": "Wed, 19 Aug 2026 17:53:31 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: Europa tentenna, Parigi sale dello 0,2%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/borsa-europa-tentenna-parigi-sale-dello-02_e59707a9-b062-457e-8399-5af4b3d56ee6.html",
+          "description": "Milano -0,18% con le banche in calo. Rimbalza Stellantis +4%",
+          "pubDate": "Wed, 19 Aug 2026 16:04:10 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "attacco",
+      "n_items": 8,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 46,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Attacco russo su Kiev: colpiti un ospedale pediatrico e un edificio residenziale - IL PUNTO - Inchiesta \"Forrest Gump\" in Ucraina: travolta la presidenza Zelensky tra accuse di riciclaggio e tensioni politiche - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNdDVNUHNvYlgyckVMMF9Fd2M4RkRtSVlUaHdfbWlRMjd2dUYya2NfdTRZOEt6dTQzR1FHZDcwT0ZQbmhObWJXck1SUTJOY19HU1NpUE81WDZVUVdfTnU5NzNtWUJMdVVIQ3FjellNUHFVYXVHTEZYSzlCNmdtaVNZZ0J0eTZubDJSZ0dLNHEzOUQxb1BZM1Baa3FZaGk5WHJ1NDZtTnZXWUxpaTB1VUx5T3FwSmM1ZGRzVEpoaWh3RU5PUk8yTV8zVEt0NmdjOVdmUG96SXBzYmFUU3NHNTd2dGRMVDdTRHN4amV3em84YlliR3pWLWgyMklDbmZnV2c5azRsM3RQRUQtQkItYUFZUHBoWkRRdDViaG5VX29sWWltZTNmVVFDM0FJbTVwZ9IBswJBVV95cUxOZU9TakFBbTN6N3ZRR1BMSFNSbkNiQnNzWHg2NGd4NkRTVkpBdC1PalBySXFqLU95YWoyTWpUdThsVjNCZElsN3kyRzZ5ZF9VU25JWTR6M1Raekg4ZGkwa3llTFotRnZkR3p2Ujd1a3prYnRWTzM3Z2ZWR09MdWZ0RmFPY3dadGRZWjFGMXlLNG1Wa2lER3l2a0htRGFWVnhHNlRzNkF3bEhPS2Rrekp6dGE5TVZSdl9LcFBFd3h4SjZ6ckQxaGNTVm4teXh2c3kyZmVNalZaNXZZTEVYN182QVZGWlB0d3g4bUJQSFF3eWw5M3U4YU9EOHFrdjR2QXZOTmZNc3VqRWo4RS1lNzltMjAyWV82WWJvdFc4WHpNMnpGYVRfQU5SdEZMMDdmaEpFb1Nz?oc=5",
+          "description": "Attacco russo su Kiev: colpiti un ospedale pediatrico e un edificio residenziale - IL PUNTO - Inchiesta \"Forrest Gump\" in Ucraina: travolta la presidenza Zelensky tra accuse di riciclaggio e tensioni politiche RaiNews Ucraina, Zelensky manda via Iryna Mudra, la n.2 dello staff indagata dall'anticorruzione RaiNews Volodymyr Zelenskyy ha licenziato la vice responsabile del suo ufficio, perquisita in",
+          "pubDate": "Thu, 20 Aug 2026 02:40:47 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Ucraina, massiccio attacco con missili balistici su Kiev - tg24.sky.it",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOXJ4VUF6RUVydEpwTHpoS1YtUC1XTi1ETHFma3g4UkJFNnZNVFU3V2hoTTAtb2Y0aFBrZVZvc2Z0UGk1amU0T2xyS2h5M2NveFN2R1RPWW5JQmdzRjNwV0dLbk5MWFUxUHhFYjFLOGNUay12WDBJb0NZNFVWOTdGcnJ3eU8zU0JR?oc=5",
+          "description": "Ucraina, massiccio attacco con missili balistici su Kiev tg24.sky.it Le notizie sulla guerra Ucraina-Russia di mercoledì 19 agosto Corriere della Sera Mosca, l’attacco più duro: oltre 800 droni ucraini si abbattono sulla Russia la Repubblica Un attacco missilistico russo ha ucciso 10 persone nella regione di Kharkiv, in Ucraina Il Post L’avvertimento di Mosca a Londra. “Pagherete per i droni a Zel",
+          "pubDate": "Wed, 19 Aug 2026 21:52:56 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Il diritto di contare Fedorov torna all’attacco di Zelensky e chiede elezioni anche durante la guerra - Linkiesta.it",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRlNiWUpWSml6OXJ3RWNfcFM1Yk1yelNjVzdLbmJzUTdzRmRsSWJkMi10cDFvbW45STlrV0FxdzJldkRORjhBMGlWSnF4N2dzemxQYkpNTnNCdG5mNnhvTTk5Mnc1ZW9VSVM2QkU5ZkVyWG10X0xvUFpSVFdqR0FueG9IbVFMcTNaQmxnRnN3?oc=5",
+          "description": "Il diritto di contare Fedorov torna all’attacco di Zelensky e chiede elezioni anche durante la guerra Linkiesta.it Fedorov sfida Zelensky: «Elezioni in Ucraina anche in guerra» Il Fatto Quotidiano Parlamento ucraino approva la nomina di Yevhenii Khmara come nuovo ministro Difesa ANSA Congratulazioni del Ministro Crosetto per la nomina di Yevhenii Khmara a Ministro della Difesa dell’Ucraina difesa.",
+          "pubDate": "Wed, 19 Aug 2026 05:42:20 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Attacchi alle raffinerie, la Russia corre ai ripari: “Stiamo importando petrolio” - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZE51NHE0LUNMWFJxbDJBYTZiU05HdWNDV2E1WHp4MjZrNE9zUk5xUlg1YUlzQndyWjc1RVE2X3JKM3BDTXJReThQOEZMUEU2WFotcFFQSmppVkdoc2dYWVRxNi1BM0lEYmFPa2tUOXRNaDNqQi0xVXpzTjlURTFXTERxSnZNMXZLUWx0MmlxaS05VzA4bWFjX3pfVnZIOU1tODZCUG5UOUF2VDFRa2ZHQmJkbG1jX2oxRWQ0MQ?oc=5",
+          "description": "Attacchi alle raffinerie, la Russia corre ai ripari: “Stiamo importando petrolio” la Repubblica Attacco russo su Kiev: colpiti un ospedale pediatrico e un edificio residenziale - IL PUNTO - Inchiesta \"Forrest Gump\" in Ucraina: travolta la presidenza Zelensky tra accuse di riciclaggio e tensioni politiche RaiNews La Russia costretta a importare petrolio dopo i raid ucraini sulle raffinerie Il Fatto",
+          "pubDate": "Wed, 19 Aug 2026 16:51:04 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Sabotaggio al gasdotto Nordstream, arrestato un sub ucraino in Croazia: “Complice dell’attacco” - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVUZpR0kyNnRramVsN2lpeWtlWVBXek5YVGRHa3dMVHdVdldBc2l2dXlpbWdIM2d4bGVxNXp2eDhfVkZCQmNpWU8wcXZvY3YyNVVrYjBVYUVpcUpQajItZ09PV095cjl6Y0FBZ1JFNlA0dkhoZHdjeHZHUEVkZmJ0dGt6LVhxNFlkOUxlMmpGTW1RMmdCX0ZjR2FQV0VTR0xUNjktc3NFd2Z0TlV5NFh3azBjUGd1TV9lWjcxanRKNG1vWkI5S204bnYxNVLSAdIBQVVfeXFMTU82Tm1MNGRobVd5UWF0Vm0zaVZUMmZRdUVIOWhmRXJ1VnJHdmNoVGdNZloxbnhNajdKNlVtMVF0MDF2aUxZbkFYRktPbnRBcHVkeDVneGtuZ201NlFQYmtNR3JITWR0LWpaM0REWWxlNEdRSnhSa0VLLVFnVXd6MnlTbi02dXQ1aTVIUE16U2wxVUxHYmdqMVFMdzMyY3dHcnQ0MzMxWVNVZ2VoYlZTX0JKSkF5ZDdNS1kwMHd1dXpFUlNDc0o2ZlZDWnEtdW1XQXh3?oc=5",
+          "description": "Sabotaggio al gasdotto Nordstream, arrestato un sub ucraino in Croazia: “Complice dell’attacco” la Repubblica Nord Stream, arrestato un secondo sospettato per sabotaggio Il Sole 24 ORE Un altro uomo ucraino sospettato del sabotaggio dei gasdotti Nord Stream è stato arrestato in Croazia Il Post Arrestato un cittadino ucraino in Croazia: è sospettato degli attentati ai gasdotti Nord Stream del 2022 ",
+          "pubDate": "Wed, 19 Aug 2026 16:42:11 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "after",
+      "n_items": 11,
+      "n_sources": 3,
+      "category": "tech-ai",
+      "score": 39,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "L.A. officer who recorded colleagues’ racist remarks won’t face felony charges - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSm1IS2tyeHFoRzcxeTk2WVFpclJpUzU5WmtFb1ZPOWM4eUIyTTlBb2pkWS1GN1FtMTd2YzF5TGZmX2VGREZRdEdYdmxWdGtwd1gtQTlYVUFVWW02WkZDMmZaSHEtMDF1Vml2Tm1lV1YxdDNHcTBEeHdieE9oLUZrODRSOWhla0ctYnlvWlZ6VWd5S0tRRU1MZ2NNYWpGMFdGcGdBYnhYM1BzSlBqdjFSTk40TWhHZEk4OFJLRmRiSTY?oc=5",
+          "description": "L.A. officer who recorded colleagues’ racist remarks won’t face felony charges The Washington Post LAPD officer under investigation for secret recordings of bigoted remarks by fellow officers avoids prison KTLA Prosecutor Reduces Charges Against L.A.P.D. Whistle-Blower After Uproar The New York Times Los Angeles DA, criticized for charging officer who taped others making racist remarks, drops felo",
+          "pubDate": "Thu, 20 Aug 2026 01:09:45 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump’s Plan to Squeeze Iran’s Economy Will Live or Die in Dubai - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2pfemR3czYyOTVqcnF1bWwweUVZVFR4NjRNRXFobmpwMmxHanNlQ29KelBpcHZUUTQzWURFV1VaZENJNTJjRUNwTkhHTkZDVVNjLUJROVVLX3NoQlVsb2M3ZWUwQks3LWRtbkc1U1Q1M1ZBTE1aOVZrNFVWcGVPd3VsSkU2aGpsZUY3cUdOZGpqTlN2Qms0TkVHRUJmMk9pNlRLeDNEWTh6UkRSTWc?oc=5",
+          "description": "Trump’s Plan to Squeeze Iran’s Economy Will Live or Die in Dubai WSJ Live updates: UAE halts trade with Iran after accusing Tehran of firing ballistic missiles edition.cnn.com What to Know About Iran’s Economic Ties With Gulf Countries The New York Times UAE severs trade with Iran after reported missile strike CNBC Iran loses key economic lifeline in Middle East that Trump's sanctions couldn't rea",
+          "pubDate": "Wed, 19 Aug 2026 22:00:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Bodies discovered in Swiss Alps as melting glaciers reveal remains - USA Today",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdHdxaU5hUjBvWkdBOFVScUlqcVJLSm5raFU4ak9NTG1abjktT3pzUEVoeTlxak9yRm1sVUNwcVhrQ29HQzllWWN3akpBWlAtZWJ2d2E5U2JiQk5sdUthaVBiSGFRZXNKUWtWdnJubjBzNzdzWGYzU1NBMFBzNjZvQ3dDbTJUa0Zqb1ptSWlvUDhoMWpIRW9MbUJjR3NxRWU5LXZ1THo0UVRNX2YtRkxCbHhSNlI?oc=5",
+          "description": "Bodies discovered in Swiss Alps as melting glaciers reveal remains USA Today Melting glaciers keep revealing hikers who vanished decades ago NewsNation Bodies of hikers who disappeared 3 decades ago in the Swiss Alps discovered after glacier melts New York Post Bodies of 2 Mountaineers Found on Fast-Melting Glacier After They Went Missing in 1992 People.com Public vote on which Wallace and Gromit ",
+          "pubDate": "Thu, 20 Aug 2026 00:11:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Asian Stocks to Gain as US Treasury Supports Bonds: Markets Wrap - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNWJyaXc1dHFwdzN1S2xHZEFyU21hV1lLUkVTZlF2LTM3LUNURk5KaTdQZ21qVjJCT1FvaFVpaHB5S211b3lMTklGSDJjeGxDUFFEMGt6WFBmaXhqZ1JVT2tHeHl5WlhGQWIzb21OdTlxNS1wTzNaTjRpczRmZW81TUU3VG4wTEZxS25wYjBIR3lxV3F3?oc=5",
+          "description": "Asian Stocks to Gain as US Treasury Supports Bonds: Markets Wrap Bloomberg.com Treasury doubles debt buybacks as Bessent moves to steady bond market CNBC An alarmed bond market gets the Trump administration to act again AP News Bonds steady after US Treasury comes to the rescue Reuters JPMorgan Sees Credibility Risk in Treasury’s Bond Buybacks Bloomberg.com",
+          "pubDate": "Wed, 19 Aug 2026 22:12:30 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+          "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+          "description": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
+          "pubDate": "Thu, 20 Aug 2026 03:12:07 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "apple",
+      "n_items": 8,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 38,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "All'asta il progetto delle medie di Steve Jobs, stima da oltre 20 mila dollari",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/allasta-il-progetto-delle-medie-di-steve-jobs-stima-da-oltre-20-mila-dollari_20f614b2-ba82-4dda-8db2-d09b2f46b5c2.html",
+          "description": "Costruito per la fiera delle scienze alle medie, nella collezione dei 50 anni di Apple",
+          "pubDate": "Wed, 19 Aug 2026 16:31:35 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Apple riscrive le regole dell’App Store e fa pace (forse) con la Commissione Ue - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTTBPaktVbURqMkhCZTZ0VExoSFhSd2pzeThaMnFEb1dOU052RmZsY3R4bGp0ejgzUVlETlJYREkwZThxTkJJcWtNU1ljMXBvbEZnOEdaaGxFY2FaRUtxQ1hmNmplckhFM091bUdqUkdwM3ZnZXZwQ0FrdG9wby1SYVBZQUR6Y2hYSnpZbkZ6enBFeXZXUWRhN3pQOW5CMEJOWXloMHdiV0QzYktOYVNJ?oc=5",
+          "description": "Apple riscrive le regole dell’App Store e fa pace (forse) con la Commissione Ue Il Sole 24 ORE Apple, le misure Antitrust erodono i profitti stellari dell'App Store. E il titolo va giù a Wall Street Corriere della Sera Tregua storica tra Apple e l'Ue sulle app: ecco cosa cambia per utenti e mercato la Repubblica Apple abbassa le barriere per gli store alternativi su iPhone in Europa Hardware Upgra",
+          "pubDate": "Wed, 19 Aug 2026 09:18:56 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Apple’s Camera-Equipped AI AirPods Remain on Track for 2027 Despite Video Leak - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSVVraUU4YnVxbnhZVXBveHhSdVp5MHZJVXBub0NDN2dwUFg0eGs0eWR1Ri1wMHRaMzI3UTFiZFJWU3NHb3lOZVNrX2FVaURGTFBrUlA4TmozVlZKbEt5WXFQc19kN0NjZXFYWFdWT1VUQzE4cVluXzJhaGNmM05mUERIckFRc0RhbkxCd3o1dnd3WkItdHhUY3pVeWt2c0R0dE1OYWdCbzJaaU9kRWRrVXl6cDF3YmNTVy04WV9GTnR4NWdtTHozSQ?oc=5",
+          "description": "Apple’s Camera-Equipped AI AirPods Remain on Track for 2027 Despite Video Leak Bloomberg.com macOS Tahoe 26.7 is Full of References to Unreleased Apple Products MacRumors AirPods with cameras leak in new video Mashable Apple's macOS Tahoe Preview May Have Leaked A Ton Of Unreleased Products Engadget Upcoming Apple products revealed in the macOS 26.7 release candidate Macworld",
+          "pubDate": "Wed, 19 Aug 2026 23:05:35 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Apple's iPhone 18 Release Schedule: What's Coming and When - MacRumors",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QNHJKZGROMHAxaUhlRzh4em1CZkdjckpxYk1TcWFSSjZkX2RocXlOcTZWeGk4V2ltU2JoQU5JTmV5T3RWVU9oaDJqbl9NRGdJTVVwaktmOFNWazJuZGI1MG5scGlKcDlTZHJV?oc=5",
+          "description": "Apple's iPhone 18 Release Schedule: What's Coming and When MacRumors Apple to launch new iPhone 18 lineup in September: All the leaks including the rumored A20 Pro chip, price and everything else we know so far Yahoo Tech 7 features I'm most looking forward to with the iPhone 18 Pro and Pro Max PhoneArena iPhone 18 Pro: Three new design updates are coming 9to5Mac iPhone 18 Pro's A20 will be faster",
+          "pubDate": "Tue, 18 Aug 2026 22:58:41 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Best Buy kicks off massive 60th Anniversary Sale, and I found 20+ tech deals that no Android user should miss - Android Central",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbUdGUnZSemtkeTlfUy1qbGRTNmVkZXFYOEFCb2E4VEZ3YUQ1UXMzRTJrMDg5amgyWEctbmlnX28zMzZNYVQ4S2NBUFhZcU00NGN0c1pWLXFIdnRGbW12NDlUUC1fMjdDOFEwdjhMaklRQVlESVgzYjYzWDFRX2VTeEVtZEhSWkh1Q3Q3bm5JTEc?oc=5",
+          "description": "Best Buy kicks off massive 60th Anniversary Sale, and I found 20+ tech deals that no Android user should miss Android Central Best Buy turns 60, and we’re celebrating with savings corporate.bestbuy.com The Best Tech Deals From Best Buy's 60th Anniversary Sale lifehacker.com Best Buy's 60th Anniversary Sale is live: We found the best deals on TVs, laptops, and Apple Mashable Best Buy 60th Anniversa",
+          "pubDate": "Tue, 18 Aug 2026 16:29:55 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "annuncia",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump annuncia, 'da oggi guerra economica contro l'Iran' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORkJvMlMyaG1UZnNscGFaT1RHaDVheDUxeFVJbS1vMGJYRzRZOW85MVVTNzRJNGdMNzlnVV9hM3RaZWR4Ym9XQTNiOTJJVFprWnJLTFNXOG0yVm43WEVjd1c2TnVuTnJ1NFpqTUxET3ZaMmJxUjIwVkg4S1p6OGxhUXc1ZC0wYU8wV2JkbVFLR2EyeG1FcnVZY084QmF6VXJ5U1lNVE9Cbm4wODJ4UmJiMTBreTh3d1FIOC1IS0RFeEVmZXdDc19SUnBON0tHcGw3T3B4MExab2F3bjlQZ1Qw?oc=5",
+          "description": "Trump annuncia, 'da oggi guerra economica contro l'Iran' ANSA Guerra Usa-Iran, le notizie in diretta | Trump annuncia la guerra economica contro Teheran, «Operazione paragonabile al D-Day». Istituito un corridoio segreto Usa per il trasporto di petrolio attraverso Hormuz Corriere della Sera 1mattina News 2026 - Stati Uniti - Iran, Trump: \"Hormuz è territorio USA\" - 19/08/2026 - Video RaiPlay Hormu",
+          "pubDate": "Wed, 19 Aug 2026 23:14:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Usa-Iran, le notizie in diretta | Trump annuncia la guerra economica contro Teheran, «Operazione paragonabile al D-Day». Istituito un corridoio segreto Usa per il trasporto di petrolio attraverso Hormuz - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLUJqQ3lBZ01MWFQ0cjhQdGdKSHg5ZC1fZ1RFTVJyd0dlSEpuQjJLVGc3UDFwV1RyMjd4OG1UdmhHVTVRVWVFUEJNcnVVMUNzRjRWRmVUNlFFclN4a2dfbWJXeG1iZU0tYURJNk83aDlQNHBLaERwQjZHNFRLNjRQemo5T3F6N21FVVkzMVlIUdIBlAFBVV95cUxPbkJwMVRsbE9hTzZRLWJCVWs4Y0RaYTJackNGT3dvajlLSlpfR1ZsRUlDSHBRWS1tR01pUDZkLXhxWk9CSFdsaEd3UENacUJvTy0tZzM2MllsaEI0aUV3bkZ0RGFiYUZRSDh2cUZaU2lTQTBDeHVwX3RseS1WSzhtajIyU01ESG9rVmI4SXZEREJTazI4?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Trump annuncia la guerra economica contro Teheran, «Operazione paragonabile al D-Day». Istituito un corridoio segreto Usa per il trasporto di petrolio attraverso Hormuz Corriere della Sera 1mattina News 2026 - Stati Uniti - Iran, Trump: \"Hormuz è territorio USA\" - 19/08/2026 - Video RaiPlay Hormuz, rallenta il traffico navale tra i rischi persistenti Borsa ",
+          "pubDate": "Thu, 20 Aug 2026 00:49:18 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Hind Rajab, la bambina di Gaza che chiedeva aiuto al telefono: ora Israele indaga sulla sua morte - Avvenire",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPb1hSdXozUUFEWmVWZHFnZjZrVzRZN3B0Nk9Qa3ZWZ2NvOUc1ejRZWU9OQUQtWVRlOEY5aGxfbEdsYmlQdUxla1MxR25kV3hocVR5Q3AtSEt6OUFNOW1BWTE1b0wydHpHVEpLWkJIckJhaWVCamNnd29ZYzJnTS1BSXIzQ3RpSlM5bHhZck9kNUZ3dlVxR1hEbkt4bndEcTJTNFJjV2RhaVRqcmxHaWFGaHljczZHVzJXd2JWTVNWak96akJMVnBPeWNJRVc?oc=5",
+          "description": "Hind Rajab, la bambina di Gaza che chiedeva aiuto al telefono: ora Israele indaga sulla sua morte Avvenire L'Idf annuncia un'inchiesta sulla morte di Hind Rajab: la bimba crivellata di colpi in auto a Gaza Corriere della Sera L'esercito israeliano chiede un'inchiesta sull'uccisione della piccola Hind Rajab a Gaza nel 2024 RaiNews L'Idf ordina un'inchiesta penale sull'omicidio di Hind Rajab a Gaza ",
+          "pubDate": "Wed, 19 Aug 2026 17:02:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Trump annuncia, 'da oggi guerra economica contro l'Iran'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/trump-annuncia-da-oggi-guerra-economica-contro-liran_829f3bf0-c5dd-4309-9373-f1e75a70517f.html",
+          "description": "'Qualsiasi Paesi lo aiuti subirà conseguenze economiche tremende'",
+          "pubDate": "Thu, 20 Aug 2026 01:16:05 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Btp trentennale vicino al 5% sulle tensioni per il debito Usa",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/btp-trentennale-vicino-al-5-sulle-tensioni-per-il-debito-usa_f25878e2-113b-4b97-8ff2-a5b429e39b8c.html",
+          "description": "Il rendimento riscende dopo il buyback annunciato da Washington",
+          "pubDate": "Wed, 19 Aug 2026 17:11:57 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "rischio",
+      "n_items": 7,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 34,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ranucci querela la magistrata Forleo per il post su Facebook - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdENuU0NPOUEzMUVIN0FrRWVQRE9qMWgwZW4yTkRaM1AwUGVKdFBIa0tyM2oxNlNTNDh1Q2htaGpzRlNvVENRRGVidWI5XzAxeWxkZHdIaWdaOXlFNm80cjlMTXItZ09XeFN5U1NiOFdRSnB1TXhFeWNQQVF6VnhxelNzdUdFb1d4QzVnVEFrTnQyeFA5?oc=5",
+          "description": "Ranucci querela la magistrata Forleo per il post su Facebook Il Sole 24 ORE Ranucci sul palco: “Mi vietano di parlare, rischio il licenziamento” la Repubblica Dietrofront di Ranucci su querela Forleo, 'sposterò l'attenzione' ANSA Attentato Ranucci, il legale: \"Ogni decisione della Rai sarebbe inquinata da falsità\" RaiNews Il ritorno in pubblico di Sigfrido Ranucci: «La Rai può far di me ciò che vu",
+          "pubDate": "Wed, 19 Aug 2026 19:59:38 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Milano, allerta per temporali e raffiche di vento dall'alba di giovedì 20 agosto. Il Comune chiude i parchi, le piscine ferme dalle 14 - Corriere Milano",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOekFLUktxTHZKbjdCVFlPZFhVeFYxdUNOaVVOeVdFVFdSVGgzU2tMOVZXN2FXMjdiMjVBT0FuSUJ0aGlpZG93RzJ4UFl1VlpSQm91V19VSXBEM2NRV25JMnlwU1BTTFI4aXNxQS1tSU9hQktVNm81WW93SHR6ZzZpaHphRWpjNW9NRGdIRUZjcHFTbC00Sm4xVDJOeGZEb0lTbi1RbVJJM0ZVMjFPcUZxakJwR0FxZFVXeHJ1ZUJ5MmZBUDcyU1l6WFd0OV9EcjZVTGpVdXJGMlU1Znh1T1M0cGEtQzRfaHRqbXdvXzQ0UlVNc3ZtTWJQZnZVUlRzVktSSGpkLW1EUEN1RVRxNW91VnB4YXBYNWc1eFV2YVFEN3diYWZiSzVQSk1VMUZFSzVXWnRNYVRMZjVFMWFPTm8zUk53b1lWODDSAcwCQVVfeXFMTUZaQ3lZd2x2TS1BbmlmeVBNWG9USEhXWU9UOV93a3NvTS1mQmdiSjdEcm1ZRlA3VDB6alJQUzBFZWZoU09VTVhkdFgwLU9pMENIY21iYzZxZ2NOTExsQlBSODBzMmM1b3F2TFZHQUlTLUg5WnNLcXA2NXNjU25LWXJfcE40bFMyeWhndXNYdjRwaU5feFNmVU85aWpvU2FoWXNjX0g4X3c1YnA3MXZqR3E1VThlUEZlMVRxeGtQcWVKbWhyVFdBWmNwRUxKN0Z0S01KbVVVczRrQ1VxNUl4aHI2NXZ5bHFPSWZSSXBmc1lIc2tLamduWTZQbTFxbGpJeHFwb0lEdmh0b3UzV1d0V1JzY19DWnRRTnFkX3NqZDNkelY0UTAwOGtHOGhEZDc0NVRiV0tCMEJVekZyajgyOU9OZ0RWZVFlZmtsWWE?oc=5",
+          "description": "Milano, allerta per temporali e raffiche di vento dall'alba di giovedì 20 agosto. Il Comune chiude i parchi, le piscine ferme dalle 14 Corriere Milano Maltempo, allerta meteo arancione e gialla per temporali giovedì 20 agosto: la mappa delle regioni a rischio Adnkronos Meteo, scatta l’allerta arancione: temporali e forte vento. A Milano chiusi parchi e piscine la Repubblica Pioggia e grandine in E",
+          "pubDate": "Wed, 19 Aug 2026 18:14:41 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Per errore l'intelligenza artificiale lo associa a reati fiscali per milioni di euro, l'incubo di un imprenditore torinese: \"Anni di attività a rischio per un'allucinazione\" - TorinoToday",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeEFHQ3NVWk9GSk4wZlNOeUxKSlpoNHQ4cXBaN0szVzk2VHd2Z1E2YU84ZWp1YUdLZVlzTTdnekxZQ2Fqb0lXQlVybGVuakcxQnVlZ29ULVMtZzlkTnZ0TXZ5REtPeXktMENmV0Fabl9JQXQxQTJ6UHNYT3hya2l5RkhvMGEyTVlJdl9nVW5XcUF6WkJ1eHduUUVzTXlwdUp2Q3NLSzN5RmE2THhtVnRORWVuYWZJd1drQ1RCNXZyT0hoMVEtTjBZT3o2OA?oc=5",
+          "description": "Per errore l'intelligenza artificiale lo associa a reati fiscali per milioni di euro, l'incubo di un imprenditore torinese: \"Anni di attività a rischio per un'allucinazione\" TorinoToday",
+          "pubDate": "Thu, 20 Aug 2026 01:04:25 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'allarme dei big, 'rischio estinzione con l'IA, è come le pandemie'",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/lallarme-dei-big-rischio-estinzione-con-ia-e-come-pandemie_3afde5e5-7bcf-464e-b3aa-aee6577a9b23.html",
+          "description": "Nyt riporta lettera di 350 leader industria, anche ceo OpenAI",
+          "pubDate": "Tue, 30 May 2023 14:12:41 +0200"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Allerta gialla, il Comune chiude aree verdi e parchi - L'Arena",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTzlyM0xwTHlIWUFYS2F4WGlrQ0N0TG1vVzl3azVUWFdtRW1iTnlxT3FCajZRWTZ4VG5VS2dRNl9MRDd4eWRjOWZSUy1aU2N2b2YxMFFsaTUwbG1jNWNYOHoyU2U2NVNYdElMdWg2NUdNZDlkY0hjN0trRFZMbUFNbFBvdTFXV2RpVVJ1QkxMSjhXUGt30gGaAUFVX3lxTE9yWGwtMVdsVWNMYlgwNGUxYmthMmxMLWtyQ3Z4bzJ3bzVfQTlfM2U3TkRiXzJZbmNqa01UdmZvanNsQUlhV2RiNzctaUJRTFhLV0V1LXQ0STd4TEdkMTJJNW9jWHFxVUd2c3g0ZEo1ck42bW1md0Etdzh5WE5Oc1NTeHZlLXh0MUZuZTZoOTJtQVpJTUctdjNCZWc?oc=5",
+          "description": "Allerta gialla, il Comune chiude aree verdi e parchi L'Arena Previsti temporali intensi e calo delle temperature VeneziaToday Rovesci e temporali, giovedì torna l'allerta meteo su tutto il Veneto TrevisoToday Allerta gialla per maltempo il 20 agosto Comune di Venezia. Meteo Veneto: due perturbazioni tra giovedì e venerdì con piogge, temporali anche forti, grandine, rischio nubifragi e calo termico",
+          "pubDate": "Wed, 19 Aug 2026 14:59:38 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "droni",
+      "n_items": 5,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 31,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ucraina, massiccio attacco con missili balistici su Kiev - tg24.sky.it",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOXJ4VUF6RUVydEpwTHpoS1YtUC1XTi1ETHFma3g4UkJFNnZNVFU3V2hoTTAtb2Y0aFBrZVZvc2Z0UGk1amU0T2xyS2h5M2NveFN2R1RPWW5JQmdzRjNwV0dLbk5MWFUxUHhFYjFLOGNUay12WDBJb0NZNFVWOTdGcnJ3eU8zU0JR?oc=5",
+          "description": "Ucraina, massiccio attacco con missili balistici su Kiev tg24.sky.it Le notizie sulla guerra Ucraina-Russia di mercoledì 19 agosto Corriere della Sera Mosca, l’attacco più duro: oltre 800 droni ucraini si abbattono sulla Russia la Repubblica Un attacco missilistico russo ha ucciso 10 persone nella regione di Kharkiv, in Ucraina Il Post L’avvertimento di Mosca a Londra. “Pagherete per i droni a Zel",
+          "pubDate": "Wed, 19 Aug 2026 21:52:56 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Ucraina, droni russi su un minibus a Kherson: quattro morti. Abbattuti 25 velivoli diretti verso Mosca - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVndhdTRpT093UXNIb3JxWW9zSk4zd0JkU0RkcTA0M0RNb3hVVi05bFh2YTZLaTc3aWh1WW5yd016MFlqdzdreFh5bVZnU1BHTk1GNDlWMmV4SW03YzR3azNFTnBRVlZfTS1OSG05a0x6UG1SRTktdFhQWlRrZ2w5aEthb3d2SFExbjJ3dFlUWGZwTTA4QjRnWEM3bXc?oc=5",
+          "description": "Ucraina, droni russi su un minibus a Kherson: quattro morti. Abbattuti 25 velivoli diretti verso Mosca Il Fatto Quotidiano Kiev, 'droni russi colpiscono un bus a Kherson, almeno 4 civili uccisi' ANSA Ucraina, pesanti bombardamenti russi, colpito un autobus a Kherson, quattro passeggeri uccisi Radio RTL 102.5 Ucraina, strage sul bus a Kherson per un drone russo, maxi-blitz anticorruzione tra i fede",
+          "pubDate": "Wed, 19 Aug 2026 07:37:38 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Amazon potenzia le consegne con i droni e punta a un milione di ordini",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/amazon-potenzia-le-consegne-con-i-droni-e-punta-a-un-milione-di-ordini_6493efb6-02a2-4c08-921a-fe405b8b1e30.html",
+          "description": "Entro la fine dell'anno Prime Air raggiungerà quasi 500 località Usa",
+          "pubDate": "Wed, 19 Aug 2026 15:12:06 +0200"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Mosca, l’attacco più duro: oltre 800 droni ucraini si abbattono sulla Russia - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcEEtZjlsTHRSdHlZelp5cFhuNDZlNVFfZVd5QmdGRUhKek1HWjBnLU42akp6bjMxQ0d0UUFIc0lKM3ZSMmNKNjFSZW9SbXJPZmxDX2NCZ2dlLW5UWmpsZEx0SnRUR2FFTU1Qc0JjeHJtV2xRTWQ1VkhKSE1kRGZFdHgySjVRVElKSVB2YzlIdkowcWFWckZPY3F1UXFLYkt6Smo4RDlLNDR5ZktuMmQyUDBB0gG3AUFVX3lxTE95N1VVdFBVbU05SklTd0RHdVV5cGFVb255ZEJ4ZmxZb2Uzc0VfR182M2tPeFhIanBTbEJtSUd0R253SHJmWXJrUEJib29WZXY0dHp3b2p2NUFTa0lBNzhBdDRzdGM0WHRlUEduUm01VlVRcXJjV1p0VGFkYWxPMzhVUTRGaTh2Y1FfRWlTZDZLQ3Z1ZVlUUmNfT1Fvam5CQ1VmTTBOcmFoeWdRRm8yNGJqaVhvVno1NA?oc=5",
+          "description": "Mosca, l’attacco più duro: oltre 800 droni ucraini si abbattono sulla Russia la Repubblica",
+          "pubDate": "Tue, 18 Aug 2026 23:00:00 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "Droni e satelliti per la conservazione del Colosseo",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/29/droni-e-satelliti-per-la-conservazione-del-colosseo_52d9695f-a259-4189-9667-a1df7fc60a01.html",
+          "description": "Nuovo sistema di monitoraggio e manutenzione sviluppato con Asi",
+          "pubDate": "Mon, 29 May 2023 08:59:16 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "petrolio",
+      "n_items": 6,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump annuncia, 'da oggi guerra economica contro l'Iran' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORkJvMlMyaG1UZnNscGFaT1RHaDVheDUxeFVJbS1vMGJYRzRZOW85MVVTNzRJNGdMNzlnVV9hM3RaZWR4Ym9XQTNiOTJJVFprWnJLTFNXOG0yVm43WEVjd1c2TnVuTnJ1NFpqTUxET3ZaMmJxUjIwVkg4S1p6OGxhUXc1ZC0wYU8wV2JkbVFLR2EyeG1FcnVZY084QmF6VXJ5U1lNVE9Cbm4wODJ4UmJiMTBreTh3d1FIOC1IS0RFeEVmZXdDc19SUnBON0tHcGw3T3B4MExab2F3bjlQZ1Qw?oc=5",
+          "description": "Trump annuncia, 'da oggi guerra economica contro l'Iran' ANSA Guerra Usa-Iran, le notizie in diretta | Trump annuncia la guerra economica contro Teheran, «Operazione paragonabile al D-Day». Istituito un corridoio segreto Usa per il trasporto di petrolio attraverso Hormuz Corriere della Sera 1mattina News 2026 - Stati Uniti - Iran, Trump: \"Hormuz è territorio USA\" - 19/08/2026 - Video RaiPlay Hormu",
+          "pubDate": "Wed, 19 Aug 2026 23:14:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Usa-Iran, le notizie in diretta | Trump annuncia la guerra economica contro Teheran, «Operazione paragonabile al D-Day». Istituito un corridoio segreto Usa per il trasporto di petrolio attraverso Hormuz - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLUJqQ3lBZ01MWFQ0cjhQdGdKSHg5ZC1fZ1RFTVJyd0dlSEpuQjJLVGc3UDFwV1RyMjd4OG1UdmhHVTVRVWVFUEJNcnVVMUNzRjRWRmVUNlFFclN4a2dfbWJXeG1iZU0tYURJNk83aDlQNHBLaERwQjZHNFRLNjRQemo5T3F6N21FVVkzMVlIUdIBlAFBVV95cUxPbkJwMVRsbE9hTzZRLWJCVWs4Y0RaYTJackNGT3dvajlLSlpfR1ZsRUlDSHBRWS1tR01pUDZkLXhxWk9CSFdsaEd3UENacUJvTy0tZzM2MllsaEI0aUV3bkZ0RGFiYUZRSDh2cUZaU2lTQTBDeHVwX3RseS1WSzhtajIyU01ESG9rVmI4SXZEREJTazI4?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Trump annuncia la guerra economica contro Teheran, «Operazione paragonabile al D-Day». Istituito un corridoio segreto Usa per il trasporto di petrolio attraverso Hormuz Corriere della Sera 1mattina News 2026 - Stati Uniti - Iran, Trump: \"Hormuz è territorio USA\" - 19/08/2026 - Video RaiPlay Hormuz, rallenta il traffico navale tra i rischi persistenti Borsa ",
+          "pubDate": "Thu, 20 Aug 2026 00:49:18 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Attacchi alle raffinerie, la Russia corre ai ripari: “Stiamo importando petrolio” - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZE51NHE0LUNMWFJxbDJBYTZiU05HdWNDV2E1WHp4MjZrNE9zUk5xUlg1YUlzQndyWjc1RVE2X3JKM3BDTXJReThQOEZMUEU2WFotcFFQSmppVkdoc2dYWVRxNi1BM0lEYmFPa2tUOXRNaDNqQi0xVXpzTjlURTFXTERxSnZNMXZLUWx0MmlxaS05VzA4bWFjX3pfVnZIOU1tODZCUG5UOUF2VDFRa2ZHQmJkbG1jX2oxRWQ0MQ?oc=5",
+          "description": "Attacchi alle raffinerie, la Russia corre ai ripari: “Stiamo importando petrolio” la Repubblica Attacco russo su Kiev: colpiti un ospedale pediatrico e un edificio residenziale - IL PUNTO - Inchiesta \"Forrest Gump\" in Ucraina: travolta la presidenza Zelensky tra accuse di riciclaggio e tensioni politiche RaiNews La Russia costretta a importare petrolio dopo i raid ucraini sulle raffinerie Il Fatto",
+          "pubDate": "Wed, 19 Aug 2026 16:51:04 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Eurolistini perlopiù in territorio negativo - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMnBqNlAyTUJTUU41LUhYdzROS3JRaVpkTTJHc3dLVnlxZFJSUFpDcVVPS0Qtc2VhTnlEdmJyZERmMk5LM09Ud1hNQnRLR2hKcHU0aGlIZGF6QlNhU0NSa1JlblQ2X09Ga0l1MWpHRGN6M280QnVPb0h6dDU1UDRuU3ZKdFVXU1BPd1RfZW9zbjBYWkUwbWJvZXlTTXpQMXZiUUYyME1RZkduZXI5cWVfY3c0RXFQRWdVTFpzendtVEJISmlWRGxLVw?oc=5",
+          "description": "Eurolistini perlopiù in territorio negativo Borsa Italiana Borse europee sulla parità. In rosso Piazza Affari Borsa Italiana Piazza Affari giù con le banche, brilla Stellantis (+5,9%) SoldiOnline.it Borsa: Milano chiude in calo, Ftse Mib -0,75% ANSA Borse in diretta, prezzo del petrolio oggi 19 agosto | Listini poco mossi, crollano i titoli tech in Asia: il collo di bottiglia di Hormuz Corriere de",
+          "pubDate": "Tue, 18 Aug 2026 14:10:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Il petrolio chiude in rialzo a New York, a 86,16 dollari",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/19/il-petrolio-chiude-in-rialzo-a-new-york-a-8616-dollari_6dcfc93d-a1ed-4866-b6e7-72067befe03f.html",
+          "description": "Il Wti sale dell'1,44%, il Brent dello 0,90% a quota 91,84",
+          "pubDate": "Wed, 19 Aug 2026 20:39:21 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "gaza",
+      "n_items": 6,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra ultime notizie. Ft: Iran valuta di colpire obiettivi militari Usa anche in Europa - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbExXM2hfRDlxZVN3dW5wZWo4a0t5WmRJanplZWtJSGFDa0RWX0tvZ19HS3lMWDVROXdRcDBMcl9HQ3dIUDBlSTBYRkNnekZFZkItVGZibVBNbFUtUVZxVzZqSklyREpRNFM4WmJYZEx2VENTaHJ0WTJzNE82X2hldnk5Mm9ZZlVGLXc2OXFFNGFMMDdhZ29JQUtkZnVIaHV3dFVmWnVzMkRGSnNqNVdXZ0xISlFTcEZWNzU3NQ?oc=5",
+          "description": "Guerra ultime notizie. Ft: Iran valuta di colpire obiettivi militari Usa anche in Europa Il Sole 24 ORE Financial Times: \"Iran minaccia le basi americane in Europa\". La Nato pronta a qualsiasi situazione - Israele non crede al disarmo di Hamas: \"Raid a Gaza con il via libera degli USA\" RaiNews I piani di Teheran in caso di escalation: 'Pronti a colpire le basi militari Usa in Europa' ANSA Iran, le",
+          "pubDate": "Thu, 20 Aug 2026 00:04:06 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Hind Rajab, la bambina di Gaza che chiedeva aiuto al telefono: ora Israele indaga sulla sua morte - Avvenire",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPb1hSdXozUUFEWmVWZHFnZjZrVzRZN3B0Nk9Qa3ZWZ2NvOUc1ejRZWU9OQUQtWVRlOEY5aGxfbEdsYmlQdUxla1MxR25kV3hocVR5Q3AtSEt6OUFNOW1BWTE1b0wydHpHVEpLWkJIckJhaWVCamNnd29ZYzJnTS1BSXIzQ3RpSlM5bHhZck9kNUZ3dlVxR1hEbkt4bndEcTJTNFJjV2RhaVRqcmxHaWFGaHljczZHVzJXd2JWTVNWak96akJMVnBPeWNJRVc?oc=5",
+          "description": "Hind Rajab, la bambina di Gaza che chiedeva aiuto al telefono: ora Israele indaga sulla sua morte Avvenire L'Idf annuncia un'inchiesta sulla morte di Hind Rajab: la bimba crivellata di colpi in auto a Gaza Corriere della Sera L'esercito israeliano chiede un'inchiesta sull'uccisione della piccola Hind Rajab a Gaza nel 2024 RaiNews L'Idf ordina un'inchiesta penale sull'omicidio di Hind Rajab a Gaza ",
+          "pubDate": "Wed, 19 Aug 2026 17:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Attacchi di Israele contro Siria e Gaza, missili iraniani intercettati dagli Emirati - L’Iran: non abbiamo lanciato noi i missili contro gli Emirati - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNE5WZzJ1Mk5MY0hvTlBSV3F6SFkydTlTcFNmcUFiUk1VVDJaQWU2d211U2xUWG5hdlRUOXFtVTVrOWZNMkVDS2lwWFhXdEZqeHRGdExvTVBIWHRFQkswVjRYdVF0RkVQTUtPaFpKLWhIMTh0UUdwZVh1RUF5bmNmR1BCcEpBUEh4NjNRTDVydXViUkRwX3hUcEppY252UzhfQlZKekZDRmdSRlowMUxOMWxzVDJCaTd1b3VlNWZOcE9ZX0hwVDc3bmZ2MlppYmNGWU5kMzN2M0RhYjFXTkszU3BQM0hjSzVDdFhLc9IB8gFBVV95cUxOaHpKMHNiYi1BRFVUN3dIVF9RT1ZCSEtOcVR1RFhIaWI4MVpTUnpBMTZiOWZfbnhibnZhUE1ldWtaalNsRl9aWC05WERGLWUwUEtrNUNYLTZpZG1ENlV0OGFoSzlsYmcyb1UxVkZRTU1TaEZJUG0wOTNqbUhVZ3RJalRFSmJDclhDVmxLd2FuVDVGSl94VGlsZFFoOV9EZXVJZ055QzdjS2F1MmlnMHdUUUlsS3FxR1g0OHRReFl2VTdydnhhblg0MjBtR2RNb0FYbWxvaXZTaWZLdnYzZC0xWDJyT1g2ZGZKUXZkeDlWTjNQZw?oc=5",
+          "description": "Attacchi di Israele contro Siria e Gaza, missili iraniani intercettati dagli Emirati - L’Iran: non abbiamo lanciato noi i missili contro gli Emirati RaiNews Trump “nessun negoziato”, missili balistici di Teheran tornano a colpire il Golfo. Nbc: la Russia invia armi … la Repubblica Gli Emirati Arabi Uniti hanno interrotto i rapporti commerciali con l'Iran, accusandolo di aver attaccato il loro terr",
+          "pubDate": "Tue, 18 Aug 2026 21:09:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "\"Una forca per l'impiccagione e delle sale per assistere all'esecuzione\": il nuovo video shock di Ben-Gvir - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc29ISzBsN3Rtd2hodVdjRzBrVC1QdkZDR043dzJxOWdOQmtVNHBOZVBQV0RrQ0NZUGloa0UyaUJXTlNCN1JrQ1YzMFZLWHNjZDdwemdmQmR2LWp4TVpDcGtwYXZJMXAyQnZwMENXcWc5RDBpQnE2Q2piWkxBUlFrdjdSNFF1QjY4VDFZUDhkT3ZrQnN0MVZCRW01czJyZw?oc=5",
+          "description": "\"Una forca per l'impiccagione e delle sale per assistere all'esecuzione\": il nuovo video shock di Ben-Gvir Il Fatto Quotidiano Ben-Gvir invoca l’uccisione di 30-40 persone a Gaza ogni notte: \"Non sono persone\" Euronews.com L'effetto che fanno le parole di Ben Gvir Il Foglio Il destino di Gaza, proliferano i paradossi L'Eco di Bergamo Autocrati e liberali, il piano inclinato della guerra giusta il ",
+          "pubDate": "Wed, 19 Aug 2026 20:23:20 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Archiviazione per morte operatori umanitari a Gaza, Australia 'indignata'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/20/archiviazione-per-morte-operatori-umanitari-a-gaza-australia-indignata_1773a203-b115-4987-865d-2daebd9187ec.html",
+          "description": "Ministro Penny Wong: \"Convocherò l'ambasciatore israeliano\"",
+          "pubDate": "Thu, 20 Aug 2026 01:31:08 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "mondosanità",
+      "n_items": 12,
+      "n_sources": 2,
+      "category": "general",
+      "score": 24,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-science",
+          "title": "Demenza, fare un lavoro fisico protegge come fare sport? Le evidenze su 4 milioni di persone - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTFRoU0RWSFlRMXdma3B5ZVpEdUhMWDhiUWlTa3BxM3J2R1F1UllEcjUwd2ZRMl9zMEQ1dWVNOUh2S1l6RURRTkJLaHhqYlBaRHNGM0V4LTZjX2p3NUFkUXhBQ3hqSlVkQWluU3cyeGsyQmZVRkhSYllvbmNpV1VrdzZIQjN3UXZSMUs4Z0w4N3pJR1Z0dy02amRpZFJLRTBoTUt4OVZnV0ZTa2cxZWVLX1FuaTFEa0I5Q1ZydGk0elRvcnJHRS1DMmlTUGZFOXdFNE53bEk5VjVGakp6cENtc2FOMHE?oc=5",
+          "description": "Demenza, fare un lavoro fisico protegge come fare sport? Le evidenze su 4 milioni di persone Mondosanità",
+          "pubDate": "Wed, 19 Aug 2026 09:30:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Microbioma: il tumore del colon può conservare la memoria dei batteri incontrati anni prima - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaEJVb3JMT2doQnFKU0N3RzBsbWJSVEI4dW1GRjFWSFpodGVmd1cyVWVySjExU1M1cmM0cWhqcklTMjhyTEFJQzhWdnhNZ1E4NFVyUnZxal9EZUpjdC1kSjVRSWdrRm84eXlYRXlicjNQWGU1YWJ2V1F6RjFYcGxUNWd0SmdpN2lNdDdHcUZ4RkNqY2lTOWpSWm5rV2JYV1Q3dzVXa3JiVnAtWGRmRkFVZlNYR2NUb1l2aVdRZmFiRDhtRGkybmFXRXJtS1FpenRwSkViMDZJN1BwMjVyN3JrNGcxcmM?oc=5",
+          "description": "Microbioma: il tumore del colon può conservare la memoria dei batteri incontrati anni prima Mondosanità",
+          "pubDate": "Tue, 18 Aug 2026 19:30:00 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Dopo i 65 anni il BMI può ingannare? Il girovita racconta un’altra storia - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeUFGSEhCMldNVm1ydjFfRHJnai1sd3l1ZW9WWXl3TkoxSTZqeGctdm1URjlIbm80amV4Z3JFTzVtQVQtTEJoTTh6ZVFfT3R0SVJHVjV1cHhFakJtWnliWnZMWGM5QjN6V3FSdGlXRkJOeVhDQ19oRXRibVRIRDJpX29FaFp3b0R2YU5fMkZfUzlSUU1RM3J5QVVKQjNFNFN2U213b2d5ak5pWHNLODdvZHJxa0tDYTQ1NW5ZcjhRZUJEYUJ5S1plQzlnTQ?oc=5",
+          "description": "Dopo i 65 anni il BMI può ingannare? Il girovita racconta un’altra storia Mondosanità La longevità? Tutta questione di girovita la Repubblica",
+          "pubDate": "Wed, 19 Aug 2026 17:50:57 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Mal di schiena, torna la cintura lombare? Il nuovo trial trova meno dolore e meno farmaci - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeWtORWpQdHpGSXAxZmxhN0h6Ym1GUXdPNkFzeENyRGwxTXVtX28wNGtFNHJFcTB1ekI3eDd6eFBhV1FFZVVzWm1HSlh1VktWN0JuNTVkRHc1Zjg3dHQ3U0FqdGY0SzdjQVQ5eXp3UzZkZXIwdlhNVzcyejVMQ0pSSnFfbmpfbWtmZGhWRmNRZ2ZWTXZRQlpPVEVSS1NpMmtNYnUtd3hLMmdNMnJJQ0F0TE1sYXc3R1hpQlRVcnItbnhKT3dBZ3FXUUlrdDZOanprTWJSVzB6ek81cW1KMURIVg?oc=5",
+          "description": "Mal di schiena, torna la cintura lombare? Il nuovo trial trova meno dolore e meno farmaci Mondosanità",
+          "pubDate": "Wed, 19 Aug 2026 20:00:01 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Cistiti ricorrenti, quando possono nascondere qualcos’altro? Lo studio su 42mila pazienti - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS1BGR080NWFpaXhvNG13ZG9mUk5iTjZVRTk4YjZjM1d2R1o0YU5uMXRLX2k3anBVZjk4VmJOdWtaX1hHdEtPSmlESnNSYjI1bmxGZEtyem4tUms4NWVXa3RneFFfMmQwYzFwbFc3TmFNeXYtMDVSQ3lIVVI1bHlRZEtjWV9ReU5zTGJYaEY2U2NQR1dMdEI4SUJ4djdzRUYwZ3Q2RlIzZXBBVW5NZlhRazg1RGR5T213Q3J2NFRoYS0xd2tKOEduVm43czlEWWdaWkxXanp1ZlJHSVF5UE1B?oc=5",
+          "description": "Cistiti ricorrenti, quando possono nascondere qualcos’altro? Lo studio su 42mila pazienti Mondosanità",
+          "pubDate": "Wed, 19 Aug 2026 18:48:30 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    }
+  ]
+}

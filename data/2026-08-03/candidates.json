@@ -1,0 +1,911 @@
+{
+  "date": "2026-08-03",
+  "top_topics": [
+    {
+      "keyword": "italia",
+      "n_items": 24,
+      "n_sources": 12,
+      "category": "general",
+      "score": 288,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Modello Albania dopo Ceuta, spinta per hub in Uganda e Montenegro - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWHB0TUFNQUVmdmJ3QjR5N053M01VQzFjTFRaU20yZ3N3SFZQdDFqOVRfSWNvdmVNZS1xdXhOLTM5a1ppLTdkNUxLeWlCU0JSZzVzLU9TTkM4cHd6WTFWTDRFQmx1QVFLdnFXdG1XWXlCX0tueVpmbHJYOWI3ZjloR3dLWnBtV2lETWJtREZ0VGRkcTByaldOaEU4NGI2MU50OXFkS3NrMEJMTHZUMWdZLTVEc2pJV25FTUxKbVdFNzJkTE5fakxlUEFIaEFkbHpYVFVaOTM3NVVsdk1aTFBlRV91cDViZk1memRhTERBUVTSAfYBQVVfeXFMT2pzTnF6SWxXOFNGR2RFdGhCRGcxZ2l2OUhiSnZsRFZtZUlIUWs0Q0UzRHZFM213MFRtNXJWNXpDUVZqeUhQbkJVOFZ1bkNsMVo5d2VwLWdNNThCaUtLc3JFRFp4OTZ2aG0xejZsTldjRTBWX01QSUVTVjJNVVE4MkctaWY1Mm8yRTNWQkpnVTFTQms5UmpHYzZaTlpHQlIza19UdU45Y2VfVkRhem5QNlUtczU0WU5leVFMT0lGUVhZY0R5SWFfZEJZLWcwcHJaSkFoU2xJUTl3RU5ISks3bU5wcDlMYU1VYVBEUktGYklkUi10MXRn?oc=5",
+          "description": "Modello Albania dopo Ceuta, spinta per hub in Uganda e Montenegro ANSA Ceuta, martedì vertice Ue. Italia chiederà altri hub 'modello Albania' Sky TG24 La «strana coppia» tra Giorgia Meloni e Mette Frederiksen che vuole dettare la linea sugli hub per i rimpatri Corriere Roma La premier sfrutta la crisi: ora hub modello Albania a spese dell’Unione la Repubblica Roma chiede hub in Africa modello Alba",
+          "pubDate": "Sun, 02 Aug 2026 18:46:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Migranti a Ceuta, viaggio tra gli affamati rimasti nell'exclave: «Ci hanno usati come proiettili» - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONmY4bWFFNXJMcUtMNmpVY0tNVnRmQkhZNVdRamxmQk40OUFBTDdFd1JjYjh2d3dzNTc3ZXpHcWFjQWNDemZFOHJxcjhpVGFZSUpUTkhFaWc0bU1MNXBtblo2dFZxVnBDMVM3S0xnX0cwMlFoRFM2ckQ4TjRsUnNDYngySHdrYnhwNW1xc05DYlZkR3VKSUdNcHdIMklXVjg3OHRQaFZWd2tNQmxoZ2I4VlhsMU96aWFyREHSAb8BQVVfeXFMTU91dGR1M2tkZksxRXJxRjdfUElFQ29KRnF1N0MyQThuY29YRGxXQU1hTXgzZ1Q3Z1lvTjNPajhXMnNwSzhEci1QRmRVd0xydnJFWEJXSXVlc3M4LVRYalVLUU84Wk50X2ZLRXA4cEpVZzhhZ3NaNWxUUkFnSEY0cHQ5RHVReDNrZjBVZFA1Z29lazlMNFJWdzhvZWxoX0JGUExKUE9lSGlMNW5sY2tXckNKNWNzcVY1aEkyRTFXbWc?oc=5",
+          "description": "Migranti a Ceuta, viaggio tra gli affamati rimasti nell'exclave: «Ci hanno usati come proiettili» corriere.it Sospensione dell'area Schengen: cosa cambia per chi va in vacanza in Spagna Vanity Fair Italia Ceuta, il Marocco usa i migranti come leva politica: cosa vuole Rabat Il Fatto Quotidiano Ceuta, continua il rientro dei migranti e aumenta il bilancio dei morti Vatican News Come pecore tra i po",
+          "pubDate": "Sun, 02 Aug 2026 06:13:16 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Concluso lo sciame sismico, nei Campi Flegrei resta la paura - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdmVtMDluUFJ1Smg3dFhPSWRtbzNrd3dMR19ycGdLSWJIRTlxR1FneS1mbDJha3lZbkxnY1JOQTg1ZkJHMVNkTWR5c0F5Wk1ydmJBWmg5UEF3S2ttUmswbnBEMnUwZE9JU3p4enZBLXducE5xSGl0amxFNDFUcjh5NWVQNkMtTWhnTFp1NDRYSlJRVlY2TjRFcF9oNnN5Y0ZTRXd1Zm94eGxVZnVIaW8zcEhuT0VRYzlaNVVUNndMd3NZWjhBcGdFd0dtU2pfVDlhQVVQMzJ3N21KWGkyTVZSNzJUaU00RTBMN3dkcnU2NWQzT0lUMUFDUWYyXzhKTVBrTF83LTF3LXlsRWPSAZACQVVfeXFMTTJxX3diVm92RDF3V1dTeTUxYk9Nbk9yUURsTDBpU3M0RDBLdnJDWjBUcTdWcG9RTzc5RVcwTkhiajVPY21hN2poM1o1bTlaclkwMnhJV1pPMG9vcmZEYjNDSmRMSzhGaGx4SFBoVWNTRVlyeXl1MDQ5dFJrbVFEVEtPSVJMSm5VQlpPNXQyYzJ4LVpSUXVEaDhLNDBKUmt2Z043bGNFZy1RblRQR0Z4WEJpTnJDVTdXcnQxYkFMMnJ3am1iTnlZbEhVYWJ0LXRoaUVBZGp3VzNtTW9NYzJjU2VEYzByQnF5S0JyYzh5M2tWSEpIc3VoR3lncTVJSDVYb2o1d3FMajdNVTdPVW1tZWM?oc=5",
+          "description": "Concluso lo sciame sismico, nei Campi Flegrei resta la paura ANSA Il sismologo: «Pozzuoli, a rischio 700 case. Oltre magnitudo 5 i danni sarebbero notevoli» corriere.it Campi Flegrei, Enza Amato: “Mappatura del costruito e fondi per la sicurezza delle case” Comune di Napoli Terremoto a Pozzuoli. La famiglia Pollice: «Siamo senza casa e papà è su una sedia a rotelle. Aiutateci» Vanity Fair Italia T",
+          "pubDate": "Sun, 02 Aug 2026 17:38:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Le linee di Nazca in Perù: quattro incidenti mortali negli ultimi 18 anni - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNDd1MFlralJuVm9jQTd6RU5MSGJJZ2VFMnJjMGJ1aGZjRndlSzBzN0JEOVFnelNQOWJvQWtrd0tPWXBxTlJFY2k5Zndka2dWSDJZMHJ3dEt5ckFDWGpZb043ODNjSk5uY0k1OXpBZEk2aFl6UzNFOU1WYWR4VGRFcl9POXlxYlNUdzhOVmZ0eWI0di1MRXRJNUZLYVpCMi1TQWFkN2dR?oc=5",
+          "description": "Le linee di Nazca in Perù: quattro incidenti mortali negli ultimi 18 anni Il Sole 24 ORE Aereo si schianta in Perù, 'aveva problemi meccanici'. Distrutte due famiglie italiane ANSA Aereo caduto in Perù, dal cedimento strutturale all'errore umano: le 4 ipotesi sull'incidente corriere.it Paolo Gianturco morto nell'incidente aereo in Perù: \"Uno dei manager di punta di Deloitte Italia\" MilanoToday Dis",
+          "pubDate": "Sun, 02 Aug 2026 20:27:19 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Rapporti personali e affari comuni. Il principe saudita che sussurra a Trump per evitare l'escalation nel Golfo - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ2xkZ0NCMkNhSjVkcHlWZGFfRTdoalFLWTdTRG5WaTFDU09BV3dCUFZFSklQd0RtV3dleVZ6dDNBQjUxSWp6TFUyWV9WcFJIbURqWEl0N0VwY3ZFZUZIYWhkQ2JEMmppYWFPZW8wX0NkcHNEbWRGaWw5MkNoSlpUSWI0U2lRS2djY1lrQjllWnNMT0tfb0ZpWTRiTkhBcFhXSWE3eWRxRXdXVzA2a3J5elZJcGtIS0ViQkEwb1RWZ3JTNXk10gHKAUFVX3lxTFAxTFU4WDVrNG1XbmxtNnhsR2Q5SDZmcGlmOFVRdFFzWEZTRXlkZ1RxbjQ1bU5ETGxEV1RabDQ3QVd2SUtma1BUSzgzcWN2bFRZUm5tQkhFVUtUVUtMMWtjSlBvVF9oemZIejJyXzlwNUxxMG1WWDFXMkFPY3k5RThqbzJ6YXZhak5FUFdTQWE5VjdBRWpMbFM2WEJrQ00xQWJvMFlfMFJjNlJPdWwzYkctWk5QTXlXTDl1MGU0dWFUV2ZnQnhpZDlyNmc?oc=5",
+          "description": "Rapporti personali e affari comuni. Il principe saudita che sussurra a Trump per evitare l'escalation nel Golfo corriere.it Bin Salman convince Trump, annullato l'attacco all'Iran ANSA È stata la mano di bin Salman. La telefonata del principe per fermare Trump prima del disastro HuffPost Italia De-escalation: le pressioni di Bin Salman su Trump, che annulla l’attacco all’Iran Il Fatto Quotidiano B",
+          "pubDate": "Sun, 02 Aug 2026 20:21:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "trump",
+      "n_items": 19,
+      "n_sources": 8,
+      "category": "geopolitica",
+      "score": 158,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump annuncia 'la ripresa dei negoziati con l'Iran, anche sul nucleare' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTHRoYW01VE1SeTBPeWNIMkpLWjM0WldLWmNKbk8xcXdxZmpOZkpMY3duN1F6RmI4UU5sSHJLdmRmdDBmNmlEd0h0MlR5dmVpZS10RWhzWUF1dUw0V0RTQm5POTdRZVh0NmRtYTgwQ25mY1RJWV9NcHZMWElNd25ZQlRXN1FMSEU4RU5FNWZVQ3phTFlmRlhETEotLVRDWWVSQUYwVFdBU3poQ1JHcU1fVmtVODY1dXRMTVlHcUFldnFlYTQ4WEJNblVLUjVfUWhobVowYVVPdVoyWE01MTV4b1Y5OWZnNVFHVHFKaDV30gHzAUFVX3lxTFAtVzN0N0dEYm5rMGE5a2VLS2ExSkRnQzQ4dElXWi1jS1gwZURVVnAzZ2xKZG9pb09SZlJfdVhLTXBTVkZObEZzZ245RDNOR01UeV83UEh4RXpqMzA2NGhmRkhqSi1taHFDT2JieWJpYWZYVkdYV1NaN2xHRno2N0JxME95V1o0cTZRaGhpalVXUTdPYUJmbXlwNkdwUkNkUEt4SHZOQUZEckw5SlFuSGZYUXdWcVZVVU5RdF9NNGFENThEbl9vVEVVOE82aDQ4dnZtZGpldjM2Sm81QjBHelVjQi01UUlnQVhkeDhoS0JsS1VEbw?oc=5",
+          "description": "Trump annuncia 'la ripresa dei negoziati con l'Iran, anche sul nucleare' ANSA Guerra Usa-Iran, le notizie in diretta | corriere.it Iran, Trump dopo lo stop all’attacco: “C’è l’accordo su Hormuz e ce ne sarà uno sul nucleare” La Stampa Iran USA, Trump: \"C'è accordo con Iran su Hormuz, da domani inizio negoziati\" Sky TG24 Trump annulla l'attacco all'Iran, ma Teheran smentisce tutto Il Fatto Quotidia",
+          "pubDate": "Sun, 02 Aug 2026 23:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Striscia di Gaza, ecco i 15 punti dell'accordo di Trump. Cosa prevedono - Il Tempo",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOFhFQVlJNHVrWl9zdTNZMkd1am9IdC1fcDFpV2FGX2FaU2xFai1OLUtwd0lTaFVMdWV5bVRmdzlLcVpfSmczNFNIQnFwemVndEd3UUw5UkRXNTR1VzJDcGhyWE1PcHpFMEpySnhHSjdUclpxd0pVdXdqaU9iM2JERFQzaW1qb2o2WkN5THJjZEdYSFhQV0loWDZvdVBoaVFxVGZ4dFNwV3loTVNURXljODRhcw?oc=5",
+          "description": "Striscia di Gaza, ecco i 15 punti dell'accordo di Trump. Cosa prevedono Il Tempo Trump, il disarmo di Hamas e il metodo degli annunci a vuoto. «Un passo monumentale verso la pace»: ma l'80% degli americani non gli crede più corriere.it Media, 'la Jihad islamica palestinese accetta il piano di disarmo di Gaza' ANSA Dietro all’accordo con Hamas la tela di Dahlan, l’ex boss cacciato dagli islamisti l",
+          "pubDate": "Sat, 01 Aug 2026 16:01:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Rapporti personali e affari comuni. Il principe saudita che sussurra a Trump per evitare l'escalation nel Golfo - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ2xkZ0NCMkNhSjVkcHlWZGFfRTdoalFLWTdTRG5WaTFDU09BV3dCUFZFSklQd0RtV3dleVZ6dDNBQjUxSWp6TFUyWV9WcFJIbURqWEl0N0VwY3ZFZUZIYWhkQ2JEMmppYWFPZW8wX0NkcHNEbWRGaWw5MkNoSlpUSWI0U2lRS2djY1lrQjllWnNMT0tfb0ZpWTRiTkhBcFhXSWE3eWRxRXdXVzA2a3J5elZJcGtIS0ViQkEwb1RWZ3JTNXk10gHKAUFVX3lxTFAxTFU4WDVrNG1XbmxtNnhsR2Q5SDZmcGlmOFVRdFFzWEZTRXlkZ1RxbjQ1bU5ETGxEV1RabDQ3QVd2SUtma1BUSzgzcWN2bFRZUm5tQkhFVUtUVUtMMWtjSlBvVF9oemZIejJyXzlwNUxxMG1WWDFXMkFPY3k5RThqbzJ6YXZhak5FUFdTQWE5VjdBRWpMbFM2WEJrQ00xQWJvMFlfMFJjNlJPdWwzYkctWk5QTXlXTDl1MGU0dWFUV2ZnQnhpZDlyNmc?oc=5",
+          "description": "Rapporti personali e affari comuni. Il principe saudita che sussurra a Trump per evitare l'escalation nel Golfo corriere.it Bin Salman convince Trump, annullato l'attacco all'Iran ANSA È stata la mano di bin Salman. La telefonata del principe per fermare Trump prima del disastro HuffPost Italia De-escalation: le pressioni di Bin Salman su Trump, che annulla l’attacco all’Iran Il Fatto Quotidiano B",
+          "pubDate": "Sun, 02 Aug 2026 20:21:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra in Medio Oriente, ultime notizie. Araghchi: negoziati con Oman su Hormuz alle fasi finali - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR09yeWxPTkFnX0pvdVFNWDBXWUl4ZlZ5djkwcUxPdXZROHVvbGdmRkFwVFJlVkxzNHdPdU54SV9yUDZqRjZrMERnblBMZlpMZVB3eGh0MmZ1cHoyX0pQdmxzWnl6aHNwZ3ROY0NRRWRpWVlJNW9nYTFFTU5MN3l6MHVYWEQ5X3NpMEhWdGREdWtDd0I5Z2FpdzFWMk83anhTa0NTaWcwX2NuNXRKYks2UThVbU9xTmdyQmNpTDFBLTZlOG9F?oc=5",
+          "description": "Guerra in Medio Oriente, ultime notizie. Araghchi: negoziati con Oman su Hormuz alle fasi finali Il Sole 24 ORE Iran e Oman vicini ad un accordo su nuova rotta marittima nello Stretto di Hormuz - Telefonata fra il ministro degli Esteri iraniano e il suo omologo saudita RaiNews Hormuz, Trump ed Europa in stallo corriere.it Iran, 'nessun accordo su Hormuz, lo Stretto resta chiuso' ANSA L’Iran smenti",
+          "pubDate": "Mon, 03 Aug 2026 02:10:06 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Ucraina, i missili russi fanno stragi. Zelensky chiede i Patriot - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFhaOFB5Tk1UTVRJYms4TENiUkdKa1g5RFRBdEw4MEpWTDhUSlI2bjBmczRHNzZuQWdaQ2FRYzA0TXZGdC1uT0FxRzJYSWJtNkVuSXY3MnBtaXBGc2FBelRBbnJGWGI5OC1zNG9Hb1p5VlczTlVoa2tYUWxwc3F3Q2YweFFia2ZScmhVRHNCVnJxTV9oUHRyTEk3ejNNMUctLWhYMFZhMGdlX3FyNzRuVzlDaFNVNEpCMGZCQkJEUWZHZ0d3RXc?oc=5",
+          "description": "Ucraina, i missili russi fanno stragi. Zelensky chiede i Patriot Il Fatto Quotidiano Reportage da Kiev, tra i palazzi distrutti dai missili di Putin: «Sono settimane che non ci dà tregua» corriere.it Zelensky, 'colpite raffineria e base militare a Saratov in Russia' ANSA Pioggia di missili su Kiev, l’offensiva di Mosca dopo il dietrofront di Trump sui Patriot la Repubblica La furia di Putin. 1.900",
+          "pubDate": "Sat, 01 Aug 2026 22:01:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "iran",
+      "n_items": 14,
+      "n_sources": 9,
+      "category": "geopolitica",
+      "score": 132,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump annuncia 'la ripresa dei negoziati con l'Iran, anche sul nucleare' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTHRoYW01VE1SeTBPeWNIMkpLWjM0WldLWmNKbk8xcXdxZmpOZkpMY3duN1F6RmI4UU5sSHJLdmRmdDBmNmlEd0h0MlR5dmVpZS10RWhzWUF1dUw0V0RTQm5POTdRZVh0NmRtYTgwQ25mY1RJWV9NcHZMWElNd25ZQlRXN1FMSEU4RU5FNWZVQ3phTFlmRlhETEotLVRDWWVSQUYwVFdBU3poQ1JHcU1fVmtVODY1dXRMTVlHcUFldnFlYTQ4WEJNblVLUjVfUWhobVowYVVPdVoyWE01MTV4b1Y5OWZnNVFHVHFKaDV30gHzAUFVX3lxTFAtVzN0N0dEYm5rMGE5a2VLS2ExSkRnQzQ4dElXWi1jS1gwZURVVnAzZ2xKZG9pb09SZlJfdVhLTXBTVkZObEZzZ245RDNOR01UeV83UEh4RXpqMzA2NGhmRkhqSi1taHFDT2JieWJpYWZYVkdYV1NaN2xHRno2N0JxME95V1o0cTZRaGhpalVXUTdPYUJmbXlwNkdwUkNkUEt4SHZOQUZEckw5SlFuSGZYUXdWcVZVVU5RdF9NNGFENThEbl9vVEVVOE82aDQ4dnZtZGpldjM2Sm81QjBHelVjQi01UUlnQVhkeDhoS0JsS1VEbw?oc=5",
+          "description": "Trump annuncia 'la ripresa dei negoziati con l'Iran, anche sul nucleare' ANSA Guerra Usa-Iran, le notizie in diretta | corriere.it Iran, Trump dopo lo stop all’attacco: “C’è l’accordo su Hormuz e ce ne sarà uno sul nucleare” La Stampa Iran USA, Trump: \"C'è accordo con Iran su Hormuz, da domani inizio negoziati\" Sky TG24 Trump annulla l'attacco all'Iran, ma Teheran smentisce tutto Il Fatto Quotidia",
+          "pubDate": "Sun, 02 Aug 2026 23:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Rapporti personali e affari comuni. Il principe saudita che sussurra a Trump per evitare l'escalation nel Golfo - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ2xkZ0NCMkNhSjVkcHlWZGFfRTdoalFLWTdTRG5WaTFDU09BV3dCUFZFSklQd0RtV3dleVZ6dDNBQjUxSWp6TFUyWV9WcFJIbURqWEl0N0VwY3ZFZUZIYWhkQ2JEMmppYWFPZW8wX0NkcHNEbWRGaWw5MkNoSlpUSWI0U2lRS2djY1lrQjllWnNMT0tfb0ZpWTRiTkhBcFhXSWE3eWRxRXdXVzA2a3J5elZJcGtIS0ViQkEwb1RWZ3JTNXk10gHKAUFVX3lxTFAxTFU4WDVrNG1XbmxtNnhsR2Q5SDZmcGlmOFVRdFFzWEZTRXlkZ1RxbjQ1bU5ETGxEV1RabDQ3QVd2SUtma1BUSzgzcWN2bFRZUm5tQkhFVUtUVUtMMWtjSlBvVF9oemZIejJyXzlwNUxxMG1WWDFXMkFPY3k5RThqbzJ6YXZhak5FUFdTQWE5VjdBRWpMbFM2WEJrQ00xQWJvMFlfMFJjNlJPdWwzYkctWk5QTXlXTDl1MGU0dWFUV2ZnQnhpZDlyNmc?oc=5",
+          "description": "Rapporti personali e affari comuni. Il principe saudita che sussurra a Trump per evitare l'escalation nel Golfo corriere.it Bin Salman convince Trump, annullato l'attacco all'Iran ANSA È stata la mano di bin Salman. La telefonata del principe per fermare Trump prima del disastro HuffPost Italia De-escalation: le pressioni di Bin Salman su Trump, che annulla l’attacco all’Iran Il Fatto Quotidiano B",
+          "pubDate": "Sun, 02 Aug 2026 20:21:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra in Medio Oriente, ultime notizie. Araghchi: negoziati con Oman su Hormuz alle fasi finali - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR09yeWxPTkFnX0pvdVFNWDBXWUl4ZlZ5djkwcUxPdXZROHVvbGdmRkFwVFJlVkxzNHdPdU54SV9yUDZqRjZrMERnblBMZlpMZVB3eGh0MmZ1cHoyX0pQdmxzWnl6aHNwZ3ROY0NRRWRpWVlJNW9nYTFFTU5MN3l6MHVYWEQ5X3NpMEhWdGREdWtDd0I5Z2FpdzFWMk83anhTa0NTaWcwX2NuNXRKYks2UThVbU9xTmdyQmNpTDFBLTZlOG9F?oc=5",
+          "description": "Guerra in Medio Oriente, ultime notizie. Araghchi: negoziati con Oman su Hormuz alle fasi finali Il Sole 24 ORE Iran e Oman vicini ad un accordo su nuova rotta marittima nello Stretto di Hormuz - Telefonata fra il ministro degli Esteri iraniano e il suo omologo saudita RaiNews Hormuz, Trump ed Europa in stallo corriere.it Iran, 'nessun accordo su Hormuz, lo Stretto resta chiuso' ANSA L’Iran smenti",
+          "pubDate": "Mon, 03 Aug 2026 02:10:06 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Iran, Bbc: “Giovani sicari reclutati online da Foxtrot per uccidere in Europa” - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CeWJwSEFOaGs5TkJkc2pFZVkwd091RWZHODFPZVhNNWk2Qlk4X0R1bkRIYlBDWmdxSU1mM2hhNzJTMDBFaGJSWWxSRHk0QjhIaWJ4OXhOa2EyTlJsSkExcVhkUUNVZDJEQ1JoLTZiQQ?oc=5",
+          "description": "Iran, Bbc: “Giovani sicari reclutati online da Foxtrot per uccidere in Europa” Sky TG24 La Bbc: 'Giovani sicari reclutati dalla rete Foxtrot per uccidere in Europa' ANSA Sicario norvegese (di appena 18 anni) reclutato da terroristi iraniani: il blitz della polizia poche ore prima del colpo Il Messaggero Giovani sicari reclutati online: la rete Foxtrot colpisce in Europa Ticinonline “Sicari adolesc",
+          "pubDate": "Sun, 02 Aug 2026 12:39:28 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump says Iran talks to resume Monday after calling off planned strikes - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRWxEYTRnNXNCRW9jaVRmUGlwdUJveGpxOWdLdHlmNGZhXzNlMEFNb3M2TDE3N0lEcmJJZU43Z1Rsd2ttOFZPUnltSTdmazl2ZFBXaGdwNjRnTkh4ZEJDbHQ1TnNlNWxXcVdmdmZFbDUtMVBIUmNwRzc5UUh2NXJkOXlwa0NGUWvSAYwBQVVfeXFMTWdLWlJTVDBRNC10bFJySXBudkRIWWVON1JxaUdab2JRZkpQRkN1YlRhYXUtOGI5VTdyZHQ0d2lqalJIZ2lmTGlaYk9vekUzRnlkM0Fvb3pLVER4UEQ3SWNHYUt3VkZ4S2dMU3FHbFk4cGhuYUFlOE1YYi1nYkc2bUhpNXFXOFJLdTdaZnI?oc=5",
+          "description": "Trump says Iran talks to resume Monday after calling off planned strikes CNBC Live updates: US-Iran war; Trump says talks to resume Monday after he called off strikes CNN Opinion | Trump’s Latest Iran ‘DEAL’ WSJ Trump on making a deal with Iran: ‘I’m not looking to kill people’ The Hill Trump says Gulf leaders' input weighed heavily in decision to hold off on ordering new Iran strikes AP News",
+          "pubDate": "Mon, 03 Aug 2026 02:23:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "ceuta",
+      "n_items": 9,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 60,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Modello Albania dopo Ceuta, spinta per hub in Uganda e Montenegro - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWHB0TUFNQUVmdmJ3QjR5N053M01VQzFjTFRaU20yZ3N3SFZQdDFqOVRfSWNvdmVNZS1xdXhOLTM5a1ppLTdkNUxLeWlCU0JSZzVzLU9TTkM4cHd6WTFWTDRFQmx1QVFLdnFXdG1XWXlCX0tueVpmbHJYOWI3ZjloR3dLWnBtV2lETWJtREZ0VGRkcTByaldOaEU4NGI2MU50OXFkS3NrMEJMTHZUMWdZLTVEc2pJV25FTUxKbVdFNzJkTE5fakxlUEFIaEFkbHpYVFVaOTM3NVVsdk1aTFBlRV91cDViZk1memRhTERBUVTSAfYBQVVfeXFMT2pzTnF6SWxXOFNGR2RFdGhCRGcxZ2l2OUhiSnZsRFZtZUlIUWs0Q0UzRHZFM213MFRtNXJWNXpDUVZqeUhQbkJVOFZ1bkNsMVo5d2VwLWdNNThCaUtLc3JFRFp4OTZ2aG0xejZsTldjRTBWX01QSUVTVjJNVVE4MkctaWY1Mm8yRTNWQkpnVTFTQms5UmpHYzZaTlpHQlIza19UdU45Y2VfVkRhem5QNlUtczU0WU5leVFMT0lGUVhZY0R5SWFfZEJZLWcwcHJaSkFoU2xJUTl3RU5ISks3bU5wcDlMYU1VYVBEUktGYklkUi10MXRn?oc=5",
+          "description": "Modello Albania dopo Ceuta, spinta per hub in Uganda e Montenegro ANSA Ceuta, martedì vertice Ue. Italia chiederà altri hub 'modello Albania' Sky TG24 La «strana coppia» tra Giorgia Meloni e Mette Frederiksen che vuole dettare la linea sugli hub per i rimpatri Corriere Roma La premier sfrutta la crisi: ora hub modello Albania a spese dell’Unione la Repubblica Roma chiede hub in Africa modello Alba",
+          "pubDate": "Sun, 02 Aug 2026 18:46:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Migranti a Ceuta, viaggio tra gli affamati rimasti nell'exclave: «Ci hanno usati come proiettili» - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONmY4bWFFNXJMcUtMNmpVY0tNVnRmQkhZNVdRamxmQk40OUFBTDdFd1JjYjh2d3dzNTc3ZXpHcWFjQWNDemZFOHJxcjhpVGFZSUpUTkhFaWc0bU1MNXBtblo2dFZxVnBDMVM3S0xnX0cwMlFoRFM2ckQ4TjRsUnNDYngySHdrYnhwNW1xc05DYlZkR3VKSUdNcHdIMklXVjg3OHRQaFZWd2tNQmxoZ2I4VlhsMU96aWFyREHSAb8BQVVfeXFMTU91dGR1M2tkZksxRXJxRjdfUElFQ29KRnF1N0MyQThuY29YRGxXQU1hTXgzZ1Q3Z1lvTjNPajhXMnNwSzhEci1QRmRVd0xydnJFWEJXSXVlc3M4LVRYalVLUU84Wk50X2ZLRXA4cEpVZzhhZ3NaNWxUUkFnSEY0cHQ5RHVReDNrZjBVZFA1Z29lazlMNFJWdzhvZWxoX0JGUExKUE9lSGlMNW5sY2tXckNKNWNzcVY1aEkyRTFXbWc?oc=5",
+          "description": "Migranti a Ceuta, viaggio tra gli affamati rimasti nell'exclave: «Ci hanno usati come proiettili» corriere.it Sospensione dell'area Schengen: cosa cambia per chi va in vacanza in Spagna Vanity Fair Italia Ceuta, il Marocco usa i migranti come leva politica: cosa vuole Rabat Il Fatto Quotidiano Ceuta, continua il rientro dei migranti e aumenta il bilancio dei morti Vatican News Come pecore tra i po",
+          "pubDate": "Sun, 02 Aug 2026 06:13:16 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Papa Leone XIV all'Angelus: «A Ceuta si trovino soluzioni di pace, stabilità e giustizia. L'ingordigia fa dimenticare chi piange per la fame» - Corriere Roma",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNejQ3QXlzUTNwdmtJTjN4OUJsemhNVTBXNmdZelZqYzB4aUlyNmtZNHRkcXhyOFRYdHFWbkxhTkJhaHJvaURBMU5LM2huRjFMamhwTHU3c2gxYjNYa1VIYl9jUlJqbURJME1SaFNESW1sNkczOFoxb1FsRjAtM1VBRWoxUVZWUlgxdy1VNnA4ME1vME5jMFFtYW1LZjN0RXJTSzBnUUR0RDJkV1JkVy1rbk5iS3g1cmRY0gG-AUFVX3lxTE52Tm4ta0JHX3dKVWZnWTNhSHNBa0VoR0RRVHNXNDZZV2paY0tfeTBtNUVNZmdzemJFY3dqZFA1RGRxLXRfMTA5alNTS3RJVl9wazh0cGRzcExlMzA0ZV9UeG4wUUNINDRMVi1WMUVwSG5XZWtpS3c1U2lRbEJyQUNYSW5GOEZpUmdEamlVbVk5S3plcHRrV0dnbDVfWFVBNEFIZW5sQWZYQzlKVGJXTk5ta0hHbGxGRVdFaV9fV2c?oc=5",
+          "description": "Papa Leone XIV all'Angelus: «A Ceuta si trovino soluzioni di pace, stabilità e giustizia. L'ingordigia fa dimenticare chi piange per la fame» Corriere Roma Il Papa: Ceuta, si trovino soluzioni di pace, stabilità e giustizia per i migranti Vatican News Il Papa: 'Preoccupato per Ceuta, si trovino soluzioni di giustizia' ANSA Il Papa: «Si trovino soluzioni diplomatiche ai conflitti» Il Sole 24 ORE Ce",
+          "pubDate": "Sun, 02 Aug 2026 11:41:49 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Ceuta,anche agenti dei servizi segreti del Marocco tra i migranti - AGI",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM2FiTU0tNlMzZS1iYnBRZUh5NFlCUTNZN1JtVTA0R3JyTWpQT2NwVmlmSW00LXFBX3p4UzhyakxCNzctSm00aUFaNkI4NFVzcXlnZm1fcGhFUE8xZjRqQWhfNHpDN29nSEZQeHVFbmFiUDVvenM5RXpfeFZteWVTRTZReDVWdnE3eGhkUg?oc=5",
+          "description": "Ceuta,anche agenti dei servizi segreti del Marocco tra i migranti AGI «Colpire Madrid, il modus operandi di Mohammed» il manifesto L’esperto: “Rabat ha organizzato tutto è un avvertimento a Madrid” la Repubblica Ceuta e Melilla, antichi possedimenti spagnoli che Rabat contesta askanews.it Media spagnoli: identificati agenti dei servizi segreti marocchini tra i migranti di Ceuta TGLA7",
+          "pubDate": "Sun, 02 Aug 2026 18:27:37 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNV82Z0xEX2JldWNxWXNmMFQtakZrbndjeWNKaEgwRDQ2Z2pNRzJHQllnRkVVcjh4SzgtTmJPWTV4VEV0Z3YzdFctekpqck92RGpYLU1kMUtIN29IOEpwZVNBMTlFRDQtVktmWWYtbG9LZ0NwZER2QzJwYjByTWduVUtaR1lNVG5GVDVMRXd0dEJPdG9QYnk3VU5ORWtsYjRONkE?oc=5",
+          "description": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory AP News See more headlines & perspectives on Google News",
+          "pubDate": "Mon, 03 Aug 2026 02:07:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "after",
+      "n_items": 16,
+      "n_sources": 3,
+      "category": "tech-ai",
+      "score": 54,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Trump says Iran talks to resume Monday after calling off planned strikes - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRWxEYTRnNXNCRW9jaVRmUGlwdUJveGpxOWdLdHlmNGZhXzNlMEFNb3M2TDE3N0lEcmJJZU43Z1Rsd2ttOFZPUnltSTdmazl2ZFBXaGdwNjRnTkh4ZEJDbHQ1TnNlNWxXcVdmdmZFbDUtMVBIUmNwRzc5UUh2NXJkOXlwa0NGUWvSAYwBQVVfeXFMTWdLWlJTVDBRNC10bFJySXBudkRIWWVON1JxaUdab2JRZkpQRkN1YlRhYXUtOGI5VTdyZHQ0d2lqalJIZ2lmTGlaYk9vekUzRnlkM0Fvb3pLVER4UEQ3SWNHYUt3VkZ4S2dMU3FHbFk4cGhuYUFlOE1YYi1nYkc2bUhpNXFXOFJLdTdaZnI?oc=5",
+          "description": "Trump says Iran talks to resume Monday after calling off planned strikes CNBC Live updates: US-Iran war; Trump says talks to resume Monday after he called off strikes CNN Opinion | Trump’s Latest Iran ‘DEAL’ WSJ Trump on making a deal with Iran: ‘I’m not looking to kill people’ The Hill Trump says Gulf leaders' input weighed heavily in decision to hold off on ordering new Iran strikes AP News",
+          "pubDate": "Mon, 03 Aug 2026 02:23:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Rep. Max Miller not dropping out after domestic abuse allegations - Axios",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZX05Oejc3VkxMZENHSzVIN3Zwc2JaeWNXOXJKM2laeWRBd3hhOFBpZ1Q4RDVMa1Ita1pXTjBIaUdIZDAxTjlXeVRVcXRoR21RdnJTOHFkRUhQQk5PdVdiSzd5VnJrY3NYbEJCcXB4QjJBNEhHc3g0?oc=5",
+          "description": "Rep. Max Miller not dropping out after domestic abuse allegations Axios Ohio Senator Calls Former Son-in-Law Accused of Abuse Unfit for Office The New York Times Sen. Bernie Moreno says Rep. Max Miller is ‘a danger,’ shouldn’t be in Congress The Washington Post Family feud: House Republican denies abusing MAGA GOP senator’s daughter MS NOW Domestic Abuse Allegations Shake Ohio Congressman’s Re-Ele",
+          "pubDate": "Mon, 03 Aug 2026 00:41:43 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kUnFxTXdNTjQwQllpRElDT051a1VwckJtSS12NnBFeEJHVzBNdjdzd0xxQ3pwR1R1aWxQUzYtUzRvZGUycEVmM09FLVpKZEZYejNpVmNjM3N6Zw?oc=5",
+          "description": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece BBC Two firefighting helicopters collide west of Athens as Greece battles wildfires NBC News Choppers collide, killing 2, as fires and foreboding grip Greece politico.eu Two die as firefighting helicopters collide in Greece, French blaze changes course Reuters Helicopter Collision Shows Perils of Europe Wild",
+          "pubDate": "Mon, 03 Aug 2026 01:03:31 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Republican Sen. Kennedy says he ‘wouldn’t bet my house’ on Blanche being confirmed - The Hill",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWWNVVXRTS1ZSSG5meHdCVjMxc3RCLXdGdW85TDd0V3JULVFicXFMZkJjVEh5MDNVTkh4ZFVSeUxrYUxzcDRHb3pqYklBS2JXd3p6Ul9EMzVjR0hEVXctaGlhanUwMEpSTVc1R3VVYlQ3UVR2RWtZQ3FQdGFmR0RiY1FIZ1FQYzlhcTVqMzhaVzFOd9IBlwFBVV95cUxQZS0wWmx3UnM4Z1BnXy0wa2kweG9aT1ZSLTVLUHpjb2hadnhEcktHZ3ZsMkhFWEV6TEdCX1daMDctbjJSRmRHUmQ0d1JXUFR0VWJDTVRycGMyRzZXeFVPcFM3bUlLN3pmUW1zRWtTc1VpbEV1VFNaTzdnQVo2ZlEyQ2lka1pSWDdYVjdNbFphRWdGMDYyUWE0?oc=5",
+          "description": "Republican Sen. Kennedy says he ‘wouldn’t bet my house’ on Blanche being confirmed The Hill Blanche rescinds fund for Trump supporters after GOP senators threaten to block his AG bid AP News Acting AG Todd Blanche reaches deal with holdout senators to end $1.8B ‘anti-weaponization’ fund NBC News Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight The New York Times Todd Blanche o",
+          "pubDate": "Sun, 02 Aug 2026 16:59:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Ohio Rep. Marcy Kaptur hospitalized after hit-and-run accident - politico.com",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdUdMM2ZFQmp4Qm5pMUVMc25iOE9Qck4tRnQ5TkpaQ0V2b0FWR1pNNUZuM1BMTFFGbGVPWHlLTGt2bEoxS2V1SnZ4dnJfbHRyeWFsVmFZbFM0Vk9FRUMxc3h2OTRpOVJadENieTJ3SE1HSEJRRmN4MzdLS2d6YkhSNFZMdWdxVzg?oc=5",
+          "description": "Ohio Rep. Marcy Kaptur hospitalized after hit-and-run accident politico.com Congresswoman Kaptur and campaign manager recovering after \"hit-skip\" crash in Toledo Sunday morning WTOL Congresswoman Marcy Kaptur hospitalized after hit-skip crash on her way to church service WTVG Ohio Rep Marcy Kaptur hospitalized after car crash on way to church Fox News U.S. Rep. Marcy Kaptur ‘active, alert’ after c",
+          "pubDate": "Sun, 02 Aug 2026 22:44:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "says",
+      "n_items": 11,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 50,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Trump says Iran talks to resume Monday after calling off planned strikes - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRWxEYTRnNXNCRW9jaVRmUGlwdUJveGpxOWdLdHlmNGZhXzNlMEFNb3M2TDE3N0lEcmJJZU43Z1Rsd2ttOFZPUnltSTdmazl2ZFBXaGdwNjRnTkh4ZEJDbHQ1TnNlNWxXcVdmdmZFbDUtMVBIUmNwRzc5UUh2NXJkOXlwa0NGUWvSAYwBQVVfeXFMTWdLWlJTVDBRNC10bFJySXBudkRIWWVON1JxaUdab2JRZkpQRkN1YlRhYXUtOGI5VTdyZHQ0d2lqalJIZ2lmTGlaYk9vekUzRnlkM0Fvb3pLVER4UEQ3SWNHYUt3VkZ4S2dMU3FHbFk4cGhuYUFlOE1YYi1nYkc2bUhpNXFXOFJLdTdaZnI?oc=5",
+          "description": "Trump says Iran talks to resume Monday after calling off planned strikes CNBC Live updates: US-Iran war; Trump says talks to resume Monday after he called off strikes CNN Opinion | Trump’s Latest Iran ‘DEAL’ WSJ Trump on making a deal with Iran: ‘I’m not looking to kill people’ The Hill Trump says Gulf leaders' input weighed heavily in decision to hold off on ordering new Iran strikes AP News",
+          "pubDate": "Mon, 03 Aug 2026 02:23:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Suspect in shooting at Idaho fast-food restaurant died from self-inflicted gunshot wound, police say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbmxQdEZiSXlLeERWT1Mya3c4bm5OWWtvOGxyNjJ5LUFGYjBHeTZlVjA3SkdfNUNyQzhNTE5Rc0tDcXRLUW9Zdkd6aWFBcElaMEl1b3FIbkxpWkYyQTJZUzBlYXg3RDlOYWNUd1cwV0ROUGppZlkzcG5uY1RZWnBZX29SNlI0a1RwbzY0YzZSX0lJSHpONWpmZUJHLTMyVmRfZFhVMUpUNXJKZw?oc=5",
+          "description": "Suspect in shooting at Idaho fast-food restaurant died from self-inflicted gunshot wound, police say AP News Armed bystander distracted gunman in fatal In-N-Out shooting NBC News Who is Chad Williams? What we know about suspected shooter at Twin Falls In-N-Out KTVB In-N-Out Burger employee among 3 dead in shooting at Idaho fast-food restaurant, owner says Yahoo LATEST UPDATES: Police, bystanders p",
+          "pubDate": "Mon, 03 Aug 2026 00:09:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Rep. Max Miller not dropping out after domestic abuse allegations - Axios",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZX05Oejc3VkxMZENHSzVIN3Zwc2JaeWNXOXJKM2laeWRBd3hhOFBpZ1Q4RDVMa1Ita1pXTjBIaUdIZDAxTjlXeVRVcXRoR21RdnJTOHFkRUhQQk5PdVdiSzd5VnJrY3NYbEJCcXB4QjJBNEhHc3g0?oc=5",
+          "description": "Rep. Max Miller not dropping out after domestic abuse allegations Axios Ohio Senator Calls Former Son-in-Law Accused of Abuse Unfit for Office The New York Times Sen. Bernie Moreno says Rep. Max Miller is ‘a danger,’ shouldn’t be in Congress The Washington Post Family feud: House Republican denies abusing MAGA GOP senator’s daughter MS NOW Domestic Abuse Allegations Shake Ohio Congressman’s Re-Ele",
+          "pubDate": "Mon, 03 Aug 2026 00:41:43 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Republican Sen. Kennedy says he ‘wouldn’t bet my house’ on Blanche being confirmed - The Hill",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWWNVVXRTS1ZSSG5meHdCVjMxc3RCLXdGdW85TDd0V3JULVFicXFMZkJjVEh5MDNVTkh4ZFVSeUxrYUxzcDRHb3pqYklBS2JXd3p6Ul9EMzVjR0hEVXctaGlhanUwMEpSTVc1R3VVYlQ3UVR2RWtZQ3FQdGFmR0RiY1FIZ1FQYzlhcTVqMzhaVzFOd9IBlwFBVV95cUxQZS0wWmx3UnM4Z1BnXy0wa2kweG9aT1ZSLTVLUHpjb2hadnhEcktHZ3ZsMkhFWEV6TEdCX1daMDctbjJSRmRHUmQ0d1JXUFR0VWJDTVRycGMyRzZXeFVPcFM3bUlLN3pmUW1zRWtTc1VpbEV1VFNaTzdnQVo2ZlEyQ2lka1pSWDdYVjdNbFphRWdGMDYyUWE0?oc=5",
+          "description": "Republican Sen. Kennedy says he ‘wouldn’t bet my house’ on Blanche being confirmed The Hill Blanche rescinds fund for Trump supporters after GOP senators threaten to block his AG bid AP News Acting AG Todd Blanche reaches deal with holdout senators to end $1.8B ‘anti-weaponization’ fund NBC News Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight The New York Times Todd Blanche o",
+          "pubDate": "Sun, 02 Aug 2026 16:59:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Israel says it has serious concerns with Hamas disarmament deal - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUU5CY216dkdHTXZGZUZYUmt6WXRhZWlSMTVmc2xydFZwb3ZCQ2Vfbk0wRzI1aWxNRHpkUTgyUks3aHNGZ2dkS2RvSWhGbXFoNERoZGs0a1FOSVUwUi1YTVlLVXBTek5YRzcxb0FMQlIxdjRQeFIyNlA5Szh1MFhnVHhUZ1RFUk1Gdi1yUFRUcS1HSmhzLTFESGh3N1BRVG9EVTBqLWFJdUxwTXN0UUlpN2R0QQ?oc=5",
+          "description": "Israel says it has serious concerns with Hamas disarmament deal AP News Trump and Netanyahu May Be at Odds Again Over Gaza Plan The New York Times Why Trump’s new plan to disarm Hamas is unlikely to yield a quick win in Gaza NBC News Trump brokers Hamas disarmament deal as Saudi Arabia plans Houthi offensive Fox News In Trump Gaza deal, Hamas disarms, Israel withdraws. Neither wants to go first. T",
+          "pubDate": "Sun, 02 Aug 2026 20:15:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "hanno",
+      "n_items": 7,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 48,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Migranti a Ceuta, viaggio tra gli affamati rimasti nell'exclave: «Ci hanno usati come proiettili» - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONmY4bWFFNXJMcUtMNmpVY0tNVnRmQkhZNVdRamxmQk40OUFBTDdFd1JjYjh2d3dzNTc3ZXpHcWFjQWNDemZFOHJxcjhpVGFZSUpUTkhFaWc0bU1MNXBtblo2dFZxVnBDMVM3S0xnX0cwMlFoRFM2ckQ4TjRsUnNDYngySHdrYnhwNW1xc05DYlZkR3VKSUdNcHdIMklXVjg3OHRQaFZWd2tNQmxoZ2I4VlhsMU96aWFyREHSAb8BQVVfeXFMTU91dGR1M2tkZksxRXJxRjdfUElFQ29KRnF1N0MyQThuY29YRGxXQU1hTXgzZ1Q3Z1lvTjNPajhXMnNwSzhEci1QRmRVd0xydnJFWEJXSXVlc3M4LVRYalVLUU84Wk50X2ZLRXA4cEpVZzhhZ3NaNWxUUkFnSEY0cHQ5RHVReDNrZjBVZFA1Z29lazlMNFJWdzhvZWxoX0JGUExKUE9lSGlMNW5sY2tXckNKNWNzcVY1aEkyRTFXbWc?oc=5",
+          "description": "Migranti a Ceuta, viaggio tra gli affamati rimasti nell'exclave: «Ci hanno usati come proiettili» corriere.it Sospensione dell'area Schengen: cosa cambia per chi va in vacanza in Spagna Vanity Fair Italia Ceuta, il Marocco usa i migranti come leva politica: cosa vuole Rabat Il Fatto Quotidiano Ceuta, continua il rientro dei migranti e aumenta il bilancio dei morti Vatican News Come pecore tra i po",
+          "pubDate": "Sun, 02 Aug 2026 06:13:16 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "IA fuori controllo, anche i modelli Claude di Anthropic hanno violato sistemi esterni",
+          "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/07/31/ia-fuori-controllo-anche-i-modelli-claude-di-anthropic-hanno-violato-sistemi-esterni_80c316e1-b8da-420f-af7f-17cade551cb4.html",
+          "description": "Durante i test, alcune versioni delle IA hanno attaccato infrastrutture reali",
+          "pubDate": "Sat, 1 Aug 2026 19:16:47 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "I paesi dell’OPEC+ hanno annunciato un nuovo aumento della produzione di petrolio per farne scendere il prezzo - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQM0RvU05JSW9IQnFVZi1ZTGs1ZzA3eWJ3enM5T25WUHd6WHNicWVNNnM2VWw1ZW1YdEhrYW5HRkQzeTkyREZiSzNrX0h5ZG9yVGZPdzVLTEZmRXFYZWNCYzc2Qm1tOTgzN2ZtajQ3Ylp1U0NVdS1IdndoZm43QQ?oc=5",
+          "description": "I paesi dell’OPEC+ hanno annunciato un nuovo aumento della produzione di petrolio per farne scendere il prezzo Il Post L’Opec+ aumenta ancora la produzione. Ma il petrolio in più resta solo sulla carta la Repubblica Opec+ aumenta la produzione di petrolio RaiNews Opec+ aumenta produzione di 188.000 barili al giorno da settembre Il Sole 24 ORE I membri dell’OPEC+ concordano sull’aumento delle quote",
+          "pubDate": "Sun, 02 Aug 2026 14:40:53 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "L’IA si ribella (ancora) all’uomo. E adesso bisogna preoccuparsi - il Giornale",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb1RCeXdmbktuRnZaLWlkODRKOFEtU0d3b0Q0Rml6dXI3OXVDZVVIWEZubnN0SXlaWU14eEZWaVJ2cVBXb0ZIbkwtZGhacWhqbEZ0NEhILUx4T2lTM3F0OGc4dEFwZ0xPVm1TdG9jTV9aeWoyaUU0WnozZ2QzYVlXUnMzdHJPd0dnT2ZYUWt6VmtFZzBVS0U5bDdYem8xVFluaEE?oc=5",
+          "description": "L’IA si ribella (ancora) all’uomo. E adesso bisogna preoccuparsi il Giornale IA fuori controllo, anche i modelli Claude di Anthropic hanno violato sistemi esterni ANSA IA, Anthropic: \"Nostri sistemi hanno violato 3 sistemi nei test\" RaiNews Dopo OpenAI, anche Anthropic ha perso il controllo dei suoi modelli durante test offensivi DDay.it Anthropic scopre che Claude ha ottenuto accesso non autorizz",
+          "pubDate": "Sat, 01 Aug 2026 10:00:00 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "ChatGpt su iPhone, record di download negli Usa",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/29/chatgpt-su-iphone-record-di-download-negli-usa_7d3e2539-a340-4303-b03f-627225d66de7.html",
+          "description": "Dal lancio oltre 500 mila utenti hanno scaricato il chatbot",
+          "pubDate": "Mon, 29 May 2023 14:29:19 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "intesa",
+      "n_items": 6,
+      "n_sources": 6,
+      "category": "economia",
+      "score": 42,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Risiko, Intesa Sanpaolo più vicina a Mps. Messina: \"Noi un approdo sicuro\". Su Banco Bpm le mosse dell'Agricole - firstonline.info",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOG9Sc1NVNlh5MGpvUkxBT1VOR3o3cEJFTnluX256U2Z3ZWJjbmF0ZWhQbm4xam13Z0ljYWZTMkN4elhlbkdnQ2lEZG50cDEtenVGUGlDYVZSZERzeUNpempxRVhBTEdRc2tHOVBHZ0ttd3lzelFJQ0hZdzdzek5hWGRlcmpERjFLUTdyYndVUEEzbzVhVmtvaVgxMU94cmJfajU0SDg0amN2NTc4bTZjZm1DZHFvQkVMbGtyb2pjb1RhLWlmZXBPZUE4UmZhWEE?oc=5",
+          "description": "Risiko, Intesa Sanpaolo più vicina a Mps. Messina: \"Noi un approdo sicuro\". Su Banco Bpm le mosse dell'Agricole firstonline.info Intesa Sanpaolo, l’offerta su Mps al test dell’Antitrust la Repubblica Intesa Sanpaolo-Mps, ecco tutti i numeri della nuova superbanca: ricavi, utili, dividendi e azionisti Milano Finanza Intesa Sanpaolo: per Morningstar DBRS l’aumento delle guidance prova la forte reddi",
+          "pubDate": "Sun, 02 Aug 2026 04:43:25 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Trump annuncia 'la ripresa dei negoziati con l'Iran, anche sul nucleare'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/03/trump-con-liran-ce-laccordo-su-hormuz-ce-ne-sara-uno-sul-nucleare_9627b960-bbbb-43e9-891a-e77a10e8b09e.html",
+          "description": "'Intesa su Hormuz'. Stop ai raid 'dopo colloqui con Arabia, Emirati, Qatar e Teheran'",
+          "pubDate": "Mon, 3 Aug 2026 01:00:33 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Offerta Mps su Bpm, l’ultima idea di Lovaglio per sfuggire a Intesa - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdnp3Y282QW9WSl9RMmxNTmhseU9tVnphZlEyaHJmU0tJYnpNSDFJNzVNTnJhT2N2TWQ5S3dBODNlQmk3Y2w0ODRNZ05NVHBBdFdHZFllVnozY2YwNEE5aUg5bGh2YkNFX2I3R0p1Zzl6TFR6NFY0d2VibVdjQjh2bHRzc1JST3Rzc1hjNDZheTBwS1p4TVpB?oc=5",
+          "description": "Offerta Mps su Bpm, l’ultima idea di Lovaglio per sfuggire a Intesa la Repubblica C’è una nuova puntata del “risiko bancario” Il Post Mps, Lovaglio non cede: valuta di acquisire Bpm per difendersi da Intesa La Stampa Nozze saltate Banco Bpm-Mps, l’ora delle accuse. E Crédit Agricole va in pressing la Repubblica Lovaglio, 'eccessiva concentrazione può ostacolare la crescita delle Pmi' ANSA",
+          "pubDate": "Sun, 02 Aug 2026 20:42:21 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Jindal conferma alla Camera l’intesa per l’ex Ilva: «Pronti all’acquisto»",
+          "link": "https://www.ilsole24ore.com/art/jindal-conferma-camera-l-intesa-l-ex-ilva-pronti-all-acquisto-AJ9mDYc",
+          "description": "Piena disponibilità a procedere «al perfezionamento dell’acquisto di Ilva». Jindal Steel ha confermato con una lettera inviata alla Commissione Finanze della Camera l’impegno per l’ex Ilva. «Considerato che abbiamo sostanzialmente...",
+          "pubDate": "Sat, 1 Aug 2026 14:56:00 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "Apple risarcirà proprietari di MacBook per le tastiere difettose",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/apple-risarcira-proprietari-di-macbook-per-le-tastiere-difettose_ce9214c7-b68d-4d8e-ad5f-7bd5bd04ecbe.html",
+          "description": "Giudice Usa ha dato via libera all'intesa da 50 milioni di dollari",
+          "pubDate": "Tue, 30 May 2023 16:35:36 +0200"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "morti",
+      "n_items": 8,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 38,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Incidente sulla Terni-Rieti, sei morti e 27 feriti: coinvolti un autobus, tre auto e un camper - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdV80X3ZpNmtxUUZKUkR2bW9DM19YdzVERjYxOUNOcVlDMmF2Y3JIQ2ZUQ0RuR1hiclk4M2xuSlY5Z0U0Qnh6aUlXTGNDdUV4NlFsVjZYVjRQS2hEQWEwNWJjLVdhQXZhQlFLeFdNM1NmdFdhUlJESHo5RUdWR2VDcjF5VGxXb18zQW9fN2hEd2FMbUlEU19zbHd0NUpBdGQtUnFBTi1zbGZWQmZtblpjQVFvOXIxdTdyQ1Uzc0VkbHM1SjhkSDFRQ0dRYjYzTDRJUTQySUFhdG1nUGNNRXNZ0gHkAUFVX3lxTE1QWEVSb0tCbUhQLUhYeEo0bkY5SE16UnVRNF9HQl9kQWljazZ2NDk2RGlnaFZVUEdZU3BXS2NYZ0tVOFJUN19ReFdIV3Q3TWRfakdBb18tOGV2bjE0dktQMVJnSkF6MkZXSE9mOWItbmxfWUdQa1RlX1VBUnYwMXpiXzR1WlRqUDY0Tk1qVGpiSGlYU3h2S1l3Y003RFlpV2Q0WVVKMTVDVW9JNDQ2b20tbExrV2NoU1Z5elhlbGdYMGdUVkNaVjhtT1VqeHpMM2FxZi1CUXZkS184YVE2WnNyZjduMg?oc=5",
+          "description": "Incidente sulla Terni-Rieti, sei morti e 27 feriti: coinvolti un autobus, tre auto e un camper RaiNews Tragedia sulla Terni-Rieti, sei morti e 34 feriti in uno scontro ANSA Incidente sulla Terni-Rieti, scontro tra bus e camper: morti. FOTO Sky TG24 Sei persone sono morte in un incidente stradale all'altezza di Colli sul Velino, al confine tra Lazio e Umbria Il Post Incidente Rieti-Terni, le vittim",
+          "pubDate": "Sun, 02 Aug 2026 21:19:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Due elicotteri antincendio si sono scontrati in Grecia - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX1VMYlVJYWhSTnA1WE9sbnhpZ01ycXpQQk45TmhiLUw1aTBVSkp6cE5GOVc1S3FjbmdxUFUwSVFQUXE0RkRYckRyTnV3Z2VNYnNjc2pVOFhIZl91dmdYOVdFbWRaZ3dMd25sYlR1VVdPRnR4TnZ2ZHFKVUhoRkJhYWFmZXFyN0ZSTHNnYjhERDhkNHNkSjM0V2RMQ1Q4ckFSRXA1VW82LU9BRnBiUXJpUA?oc=5",
+          "description": "Due elicotteri antincendio si sono scontrati in Grecia Tgcom24 Grecia devastata dai roghi. Due elicotteri antincendio si scontrano vicino ad Atene RaiNews Il video dello scontro tra due elicotteri antincendio in Grecia, due morti nel devastante impatto Virgilio I gravi incendi in Grecia Il Post Fiamme in Francia e Spagna. In Grecia morti due piloti antincendio ANSA",
+          "pubDate": "Sun, 02 Aug 2026 17:11:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Migranti a Ceuta, viaggio tra gli affamati rimasti nell'exclave: «Ci hanno usati come proiettili» - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONmY4bWFFNXJMcUtMNmpVY0tNVnRmQkhZNVdRamxmQk40OUFBTDdFd1JjYjh2d3dzNTc3ZXpHcWFjQWNDemZFOHJxcjhpVGFZSUpUTkhFaWc0bU1MNXBtblo2dFZxVnBDMVM3S0xnX0cwMlFoRFM2ckQ4TjRsUnNDYngySHdrYnhwNW1xc05DYlZkR3VKSUdNcHdIMklXVjg3OHRQaFZWd2tNQmxoZ2I4VlhsMU96aWFyREHSAb8BQVVfeXFMTU91dGR1M2tkZksxRXJxRjdfUElFQ29KRnF1N0MyQThuY29YRGxXQU1hTXgzZ1Q3Z1lvTjNPajhXMnNwSzhEci1QRmRVd0xydnJFWEJXSXVlc3M4LVRYalVLUU84Wk50X2ZLRXA4cEpVZzhhZ3NaNWxUUkFnSEY0cHQ5RHVReDNrZjBVZFA1Z29lazlMNFJWdzhvZWxoX0JGUExKUE9lSGlMNW5sY2tXckNKNWNzcVY1aEkyRTFXbWc?oc=5",
+          "description": "Migranti a Ceuta, viaggio tra gli affamati rimasti nell'exclave: «Ci hanno usati come proiettili» corriere.it Sospensione dell'area Schengen: cosa cambia per chi va in vacanza in Spagna Vanity Fair Italia Ceuta, il Marocco usa i migranti come leva politica: cosa vuole Rabat Il Fatto Quotidiano Ceuta, continua il rientro dei migranti e aumenta il bilancio dei morti Vatican News Come pecore tra i po",
+          "pubDate": "Sun, 02 Aug 2026 06:13:16 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Aereo precipita in Perù, 7 turisti italiani morti: in totale 13 vittime. Il volo era diretto alle linee di Nazca - Il Mattino",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaWVURHNETmFlZk9MOVRXZkxDUzJBQXVHNm44c3VCMWRQV250TmdMeWdDRDB3SWZHWndqbU95WXdod2JGOVZZRnJkOWJGTjA0SVExNUJQTnhxYjNQZDRIbVFmbURPWU1nd29heFFtMVI2S1dRX3ZZSFhqOF9JYk5XMUJvdDFBdVFVZlljNmd1TjRmd2dwb0d3RGN6SXdQUjg2ZmFTME1laVp3ekIweFhsZTM3X3dabl90TU12NjFn?oc=5",
+          "description": "Aereo precipita in Perù, 7 turisti italiani morti: in totale 13 vittime. Il volo era diretto alle linee di Nazca Il Mattino Aereo si schianta in Perù, 'aveva problemi meccanici'. Distrutte due famiglie italiane ANSA Le linee di Nazca in Perù: quattro incidenti mortali negli ultimi 18 anni Il Sole 24 ORE Aereo caduto in Perù, dal cedimento strutturale all'errore umano: le 4 ipotesi sull'incidente c",
+          "pubDate": "Sat, 01 Aug 2026 21:00:39 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Due elicotteri antincendio si scontrano in Grecia: tutti salvi - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWWtzSnRwbmR3aTZOTEh6Z1ZWVTIxWXU3dHNsbDQ0WnljM1RPQlJBTkV5aGNjdUdIQlk1OC1jY3RiYjVMYkY3eVZEQnVUejNnVDZYNnloM21LTFVPX3ZvUC1Kanpha2FDd2x4YVBzeXY2X1BKc3NHTTVsWFVIR1RWN01mSWFQdmxlZVRRREU1OUlkaDFJWXNYSTg0dw?oc=5",
+          "description": "Due elicotteri antincendio si scontrano in Grecia: tutti salvi Il Fatto Quotidiano Grecia devastata dai roghi. Due elicotteri antincendio si scontrano vicino ad Atene RaiNews Il video dello scontro tra due elicotteri antincendio in Grecia, due morti nel devastante impatto Virgilio I gravi incendi in Grecia Il Post Fiamme in Francia e Spagna. In Grecia morti due piloti antincendio ANSA",
+          "pubDate": "Sun, 02 Aug 2026 15:57:59 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "apple",
+      "n_items": 8,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 38,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNV82Z0xEX2JldWNxWXNmMFQtakZrbndjeWNKaEgwRDQ2Z2pNRzJHQllnRkVVcjh4SzgtTmJPWTV4VEV0Z3YzdFctekpqck92RGpYLU1kMUtIN29IOEpwZVNBMTlFRDQtVktmWWYtbG9LZ0NwZER2QzJwYjByTWduVUtaR1lNVG5GVDVMRXd0dEJPdG9QYnk3VU5ORWtsYjRONkE?oc=5",
+          "description": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory AP News See more headlines & perspectives on Google News",
+          "pubDate": "Mon, 03 Aug 2026 02:07:00 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
+          "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
+          "description": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
+          "pubDate": "Fri, 31 Jul 2026 01:31:50 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "The global memory shortage hits the MacBook Air - TechCrunch",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaHBEZ25WVDFPWFJrRldlXzZGN1l4OUFmRG50LURVSWdwSGZESEtDUS0tSURCZTVqRVJ0X3huNjU2T1FOQXFFcnctYlVtRFVITnA4MmRZX3IyMmNyYW1RbnZ1X0c4SV80dE1RaXRRb3FHYnJRVXNIOUlTTGdaallLQldzcFBmT1BDTmc?oc=5",
+          "description": "The global memory shortage hits the MacBook Air TechCrunch Apple's best-selling laptop is in crisis, and its own promotions aren't hiding it phonearena.com Apple “Prioritizing Sales” Of Current 14-Inch MacBook Pro to Make Way For M6 Refresh Later This Year, MacBook Air Suffering From Severe Shortage Wccftech Memory shortage delays Apple's MacBook Air shipments chosun.com If You’re Struggling to Fi",
+          "pubDate": "Sun, 02 Aug 2026 21:33:59 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Apple iPhone 18 Pro Release Date September Signaled In Keynote Update - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVk11Q045ZmRfR1F4QjZPVHA3WGNfS3dXTDNsalh4UjdJOWdaZzJLSk5fSk1hbk5ETXpwTC14UzFlUXVDd3ZxdzRWNWluTHVVWjBiRnR0Q1BLV1V5c20xYjI4WW04Zzh6eW0wOUl4NDVCU29heGdNVEJrMjlURVVqTnd5M2Zobm5uMktaNTd5YlE5RGp2ZnUwS0VpRHlfNzNmQjBVUGNPYmhJWDlHOTRaTVA0LWR1QnpfU3V0ZW4xaw?oc=5",
+          "description": "Apple iPhone 18 Pro Release Date September Signaled In Keynote Update Forbes The latest iPhone 18 news, leaks, and rumors: Release date, price increases, and color options Mashable 2027 iPhone 18 rumors: Smaller Dynamic Island, 12GB or 9GB RAM, 2nm A20 chip appleinsider.com iPhone 18 Pro and iPhone Ultra: Pre-Orders and Release Date MacRumors No new affordable iPhone until 2027 tech-ish.com",
+          "pubDate": "Sun, 02 Aug 2026 16:30:00 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Foldables are sort of boring now — and that’s great news for Apple - The Verge",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVRmhtVVM3NmpvT0hub2MxRmNETWkyNkFIcno3Ukd2eENrZ3NvTlZZVVVOdU15bTZVMWhUdVQwT2swUU9GeHh1cktRcFhWbDNWbXYtc1dRQWhzLWVBanBwUG5Rd19TMmtoWHJmelNvMExGNzc3WGc?oc=5",
+          "description": "Foldables are sort of boring now — and that’s great news for Apple The Verge Galaxy Z Fold 8 Ultra: The Best Update Isn’t What I Expected CNET Samsung Galaxy Z Fold 8 Ultra vs. Google Pixel 10 Pro Fold: Built thin vs. built to last Android Central Engadget Review Recap: Samsung Galaxy Z Fold 8, Meta Glasses And More Engadget Preorder Samsung Galaxy Z Fold 8 And Flip 8 At Amazon, Get Gift Cards Hot",
+          "pubDate": "Sun, 02 Aug 2026 12:00:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "caldo",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "clima",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "Assoturismo, il caldo spinge le località montane (+2,3%), ma frena le città d'arte (+0,3%)",
+          "link": "https://www.ansa.it/canale_viaggi/notizie/news/2026/08/01/assoturismo-ad-agosto-presenze-in-crescita-con-967-milioni-di-pernottamenti_df8f308e-5868-4965-a837-2ee74fece01a.html",
+          "description": "Ad agosto presenze in crescita con 96,7 milioni di pernottamenti",
+          "pubDate": "Sat, 1 Aug 2026 19:13:09 +0200"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Il grande caldo non fa decollare le vendite di condizionatori: -150mila unità finora nel 2026",
+          "link": "https://www.ilsole24ore.com/art/il-grande-caldo-non-fa-decollare-vendite-condizionatori-150mila-unita-finora-2026-AJud2kZ",
+          "description": "Secondo i dati di Assoclima il primo semestre dell’anno fa segnare una contrazione della produzione",
+          "pubDate": "Fri, 31 Jul 2026 08:02:01 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Ungheria, il caldo \"spegne\" anche la centrale nucleare - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSnFkNXhzY1BqUXJxTkFCZHZLcmVabWpDVTN1TmVRdHJmdWJNQUI4M3kzaExjYWhiWWhTMVItSk43LXdsZGxhYm0zdkdiTUVEUWVMSnozbkdEX1loNjFaMUVJd2lkZ0V5cDRSS21tS3c5ZkwzVk4xcFVKaE11Zm5JdTlfNGdrczFoVHZxT3BQeVR3Tm0xYTBBVzdn0gFoQVVfeXFMTjQyLXVfNHdTQXBxMWUxOV9IYmE4ZFVINF9PaUFuSU53Z05mUVplOFZuRFQzSjhobGNuTVdfMWFvWWtVWFB4ZGdpWUdmTGc2NkJ5NFZPYkV5WmpxMW5BTUp6MGVicmh3RGw?oc=5",
+          "description": "Ungheria, il caldo \"spegne\" anche la centrale nucleare Tgcom24",
+          "pubDate": "Sun, 02 Aug 2026 15:02:35 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Mediterraneo sempre più caldo: cosa ci raccontano le mappe di Copernicus - 3bmeteo.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWDRBZVczUFBqdnZ6OWNYSFBpMTdUTGJKNVIzNEJmc1JjQ2NzU1hTQlo0LURqZ05UbVV0SHRTWGdjenNOTExpaGppMU4waDZPRGhGMlBJRWhISy0xVDFESTYwT0U3TXl5QVctaHBEUEdEeDV0VDdJVDVzLVZ4cEhNNkFQTkZHWGFvbGFYTnVnUXp3Mjkwa0VUa2JxMWN1WWY2MGRyZUlnNlZIWWcwQm9JR0J2aWw?oc=5",
+          "description": "Mediterraneo sempre più caldo: cosa ci raccontano le mappe di Copernicus 3bmeteo.com",
+          "pubDate": "Sat, 01 Aug 2026 10:16:44 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Il caldo fa sempre male? La scienza svela gli effetti (inaspettati) del caldo sul nostro organismo - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUng2enZzdE5QWFVqcXFWR1Jub01ZRmlpZTRrdHFJNFFUZXAybXJrWTdMYV9sYTB5SUY1NnFINFlZY0dhZEJKS0c5R2ZHclkyNS1SQ1lfZnh2dGZYMkJlWXhhQXZqbWQzZ0xEWkFBUWVUM2RJZElDbE9INzk1VUM5UXdwRm9PSk1NUkpXSXlfTEVDWkJwb3o4NkRQc2JGYXpqZjR1ZVpmZHNZcjd6Qy1oOFh1NmdSNlY3T3FsU1Zhc0lDbVJfMC12SmZJNjNxZm9YbnZIT1dfRFd2blg0T1Q0?oc=5",
+          "description": "Il caldo fa sempre male? La scienza svela gli effetti (inaspettati) del caldo sul nostro organismo Mondosanità",
+          "pubDate": "Sun, 02 Aug 2026 08:38:06 GMT"
+        }
+      ],
+      "macro_area": "clima-salute"
+    },
+    {
+      "keyword": "sempre",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "Show di Vox a Ceuta, 'militarizzare la frontiera e chiuderla per sempre'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/02/show-di-vox-a-ceuta-militarizzare-la-frontiera-e-chiuderla-per-sempre_d1104ddc-8a3d-4ad7-8767-7faf168ecaba.html",
+          "description": "Abascal nell'exclave: 'Ancora migliaia di invasori'. Madrid rafforza i respingimenti",
+          "pubDate": "Sun, 2 Aug 2026 20:48:20 +0200"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Italia secondo Paese al mondo per traffico crocieristico",
+          "link": "https://www.ilsole24ore.com/art/italia-secondo-paese-mondo-traffico-crocieristico-AJm5eda",
+          "description": "Nel 2025 l’Italia risulta il secondo Paese al mondo per movimentazione di traffico crocieristico. Sempre in quell’anno, ammontano, inoltre, a 100 milioni i movimenti di passeggeri nei porti italiani, contando...",
+          "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "Pagamenti sempre più digitali, spinta da Covid",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/pagamenti-sempre-piu-digitali-spinta-da-covid_730ee14b-27f0-49f4-b8a3-70d4ebf2476b.html",
+          "description": "Bankitalia, crescita per carte, bancomat e app fintech",
+          "pubDate": "Tue, 30 May 2023 10:41:09 +0200"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Mediterraneo sempre più caldo: cosa ci raccontano le mappe di Copernicus - 3bmeteo.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWDRBZVczUFBqdnZ6OWNYSFBpMTdUTGJKNVIzNEJmc1JjQ2NzU1hTQlo0LURqZ05UbVV0SHRTWGdjenNOTExpaGppMU4waDZPRGhGMlBJRWhISy0xVDFESTYwT0U3TXl5QVctaHBEUEdEeDV0VDdJVDVzLVZ4cEhNNkFQTkZHWGFvbGFYTnVnUXp3Mjkwa0VUa2JxMWN1WWY2MGRyZUlnNlZIWWcwQm9JR0J2aWw?oc=5",
+          "description": "Mediterraneo sempre più caldo: cosa ci raccontano le mappe di Copernicus 3bmeteo.com",
+          "pubDate": "Sat, 01 Aug 2026 10:16:44 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Il caldo fa sempre male? La scienza svela gli effetti (inaspettati) del caldo sul nostro organismo - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUng2enZzdE5QWFVqcXFWR1Jub01ZRmlpZTRrdHFJNFFUZXAybXJrWTdMYV9sYTB5SUY1NnFINFlZY0dhZEJKS0c5R2ZHclkyNS1SQ1lfZnh2dGZYMkJlWXhhQXZqbWQzZ0xEWkFBUWVUM2RJZElDbE9INzk1VUM5UXdwRm9PSk1NUkpXSXlfTEVDWkJwb3o4NkRQc2JGYXpqZjR1ZVpmZHNZcjd6Qy1oOFh1NmdSNlY3T3FsU1Zhc0lDbVJfMC12SmZJNjNxZm9YbnZIT1dfRFd2blg0T1Q0?oc=5",
+          "description": "Il caldo fa sempre male? La scienza svela gli effetti (inaspettati) del caldo sul nostro organismo Mondosanità",
+          "pubDate": "Sun, 02 Aug 2026 08:38:06 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "mondosanità",
+      "n_items": 17,
+      "n_sources": 2,
+      "category": "general",
+      "score": 34,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-science",
+          "title": "Il caldo fa sempre male? La scienza svela gli effetti (inaspettati) del caldo sul nostro organismo - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUng2enZzdE5QWFVqcXFWR1Jub01ZRmlpZTRrdHFJNFFUZXAybXJrWTdMYV9sYTB5SUY1NnFINFlZY0dhZEJKS0c5R2ZHclkyNS1SQ1lfZnh2dGZYMkJlWXhhQXZqbWQzZ0xEWkFBUWVUM2RJZElDbE9INzk1VUM5UXdwRm9PSk1NUkpXSXlfTEVDWkJwb3o4NkRQc2JGYXpqZjR1ZVpmZHNZcjd6Qy1oOFh1NmdSNlY3T3FsU1Zhc0lDbVJfMC12SmZJNjNxZm9YbnZIT1dfRFd2blg0T1Q0?oc=5",
+          "description": "Il caldo fa sempre male? La scienza svela gli effetti (inaspettati) del caldo sul nostro organismo Mondosanità",
+          "pubDate": "Sun, 02 Aug 2026 08:38:06 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "L'innamoramento. Il farmaco che il cervello produce da solo - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRnl3a1BZSHFtSHEtRnNCdDUtMGxyc2s1TTNGeGNOZlBNbEVLODhGY2NiQ0R3aGxUaXFmT25fSDAtRTRnSkw5NDRoVm5NR3BpdXVyX093M2xYcWhoV1dFd1Bld0ZhRlQtaFZRQkZFc3pKcTFDenRtM1RhR2xJdWYwNHBLZzFoOWl6RVdmSDJPblNzWWxJS1NaSS1IbXdFQ1RVczlrTVVRTjA3VUpvX1E?oc=5",
+          "description": "L'innamoramento. Il farmaco che il cervello produce da solo Mondosanità",
+          "pubDate": "Sat, 01 Aug 2026 14:35:38 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Guarire con l’acqua, quella ricca d’idrogeno meglio dell’alcalina: tutti i benefici secondo le ultime ricerche - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSTExcEUxT3dJcWpGVnh0SU1vcW53aTV5dmd6VjFNOGltMFBUcjZ3dzlIcFYyeC1GYzJ2MHhLWlhJTG94T0hQc1RIUFBxOUZNQ1RkbldzWDhoU0FyWmZuajA4UnQtR0FTblFwckRBSzd0Sy1YX3padGdDV3luS1R3MzBiSWplTXFvLThiU3VVV21YN1RadWV3UFlFRVl2ejlyUjhiMWdCY0oyTV9TWmg2WndyTXFTMm13SzNFSXR4Z1l4Yk1WeWMwTklwVkJmWXE3dEx2Y1JKR0Vtb2NvSVhvVzExZlZCVzF2Q1pfbw?oc=5",
+          "description": "Guarire con l’acqua, quella ricca d’idrogeno meglio dell’alcalina: tutti i benefici secondo le ultime ricerche Mondosanità",
+          "pubDate": "Sun, 02 Aug 2026 10:08:18 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Può bastare un solo boccone: l’emergenza che tutti dovrebbero imparare a riconoscere - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM1VqWXNtR1dvcTR5THZLTFNDemZYVTEwTEhidXZqanl3N0o0OUxUNE1NVm81NXRlQVFjYVh6NFJVa2p4Y3RPUkhiRnV2M21fQlRIX09Eem9lQkNlVmEyT0V0VWNRQ09WYklLczFwSXFSVElHYjA0akxGaWxFamp5aFcyNUxkNVZZOHZoUTBpVkE1T3VrWENnd3FQSllCdzdXaGVWandwQkFfWlg4LWVSR3RzdGVXVmFCUFVqdTdDOHJXTHZjczYxNGZvZGlfQQ?oc=5",
+          "description": "Può bastare un solo boccone: l’emergenza che tutti dovrebbero imparare a riconoscere Mondosanità",
+          "pubDate": "Sun, 02 Aug 2026 20:44:53 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Idratazione e calcoli renali: la guida pratica basata sulle evidenze - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb2lwUExPYndaNE1Nczd2UEZYa1lES0pvbHpPVlhFTWVOWjNhQ3hWNFM4YjNkM3hiSzhuTzlGeEZQUzh3cDJkOEljYTluRDNGOEw2V1VIdVY3MGJ4V0JVcFZwS3dmTjN1Z2NZZ05fS3JfS05RUE13Sk82b3kzZ3NoN1Q2OVp3SVZ1cU42dkp2SmxCMEZIRGhhbTlnSU5sWFhnSFhTelc3SUhDZFJRa0VVbm0wR0JFT25ZOHc?oc=5",
+          "description": "Idratazione e calcoli renali: la guida pratica basata sulle evidenze Mondosanità Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Sat, 01 Aug 2026 22:01:32 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "ripresa",
+      "n_items": 5,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 31,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump annuncia 'la ripresa dei negoziati con l'Iran, anche sul nucleare' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTHRoYW01VE1SeTBPeWNIMkpLWjM0WldLWmNKbk8xcXdxZmpOZkpMY3duN1F6RmI4UU5sSHJLdmRmdDBmNmlEd0h0MlR5dmVpZS10RWhzWUF1dUw0V0RTQm5POTdRZVh0NmRtYTgwQ25mY1RJWV9NcHZMWElNd25ZQlRXN1FMSEU4RU5FNWZVQ3phTFlmRlhETEotLVRDWWVSQUYwVFdBU3poQ1JHcU1fVmtVODY1dXRMTVlHcUFldnFlYTQ4WEJNblVLUjVfUWhobVowYVVPdVoyWE01MTV4b1Y5OWZnNVFHVHFKaDV30gHzAUFVX3lxTFAtVzN0N0dEYm5rMGE5a2VLS2ExSkRnQzQ4dElXWi1jS1gwZURVVnAzZ2xKZG9pb09SZlJfdVhLTXBTVkZObEZzZ245RDNOR01UeV83UEh4RXpqMzA2NGhmRkhqSi1taHFDT2JieWJpYWZYVkdYV1NaN2xHRno2N0JxME95V1o0cTZRaGhpalVXUTdPYUJmbXlwNkdwUkNkUEt4SHZOQUZEckw5SlFuSGZYUXdWcVZVVU5RdF9NNGFENThEbl9vVEVVOE82aDQ4dnZtZGpldjM2Sm81QjBHelVjQi01UUlnQVhkeDhoS0JsS1VEbw?oc=5",
+          "description": "Trump annuncia 'la ripresa dei negoziati con l'Iran, anche sul nucleare' ANSA Guerra Usa-Iran, le notizie in diretta | corriere.it Iran, Trump dopo lo stop all’attacco: “C’è l’accordo su Hormuz e ce ne sarà uno sul nucleare” La Stampa Iran USA, Trump: \"C'è accordo con Iran su Hormuz, da domani inizio negoziati\" Sky TG24 Trump annulla l'attacco all'Iran, ma Teheran smentisce tutto Il Fatto Quotidia",
+          "pubDate": "Sun, 02 Aug 2026 23:00:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Trump annuncia 'la ripresa dei negoziati con l'Iran, anche sul nucleare'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/03/trump-con-liran-ce-laccordo-su-hormuz-ce-ne-sara-uno-sul-nucleare_9627b960-bbbb-43e9-891a-e77a10e8b09e.html",
+          "description": "'Intesa su Hormuz'. Stop ai raid 'dopo colloqui con Arabia, Emirati, Qatar e Teheran'",
+          "pubDate": "Mon, 3 Aug 2026 01:00:33 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Ci siamo mezzi salvati dall’inflazione? - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbnZ6ZnMyb09DOGozdDNWM3V0VDRyV0k3VVlhUUNfWHJMTW9BLVZzQ2xNWXhoQ0d3MlhSRnRCRXFYbmt4d192QWVOYkY3Z0ZRUGJ1N1VNRFcxY2tsX1dKYmRvOEZPclMyc0ZNZVFyWS05S3ZTakFXSmh3c1FDMVNfQUE3dk04WEhwSDJTbk5vSldfazhZRlE?oc=5",
+          "description": "Ci siamo mezzi salvati dall’inflazione? Il Post Il petrolio cede il 4% con l'annuncio di Trump sulla ripresa dei negoziati con l'Iran ANSA Il petrolio crolla del 9% mentre Trump fissa colloqui per lunedì per riaprire Hormuz Yahoo Finanza US OPEN: Il Nasdaq ritraccia dai guadagni iniziali poco dopo l'apertura dei mercati 🚨 XTB.com Il petrolio scende ai minimi di 3 settimane: Trump annulla attacco a",
+          "pubDate": "Sun, 02 Aug 2026 12:12:26 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Il petrolio cede il 4% con l'annuncio di Trump sulla ripresa dei negoziati con l'Iran",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/03/il-petrolio-cede-il-4-con-lannuncio-di-trump-sulla-ripresa-dei-negoziati-con_d957d7ad-e72d-4bee-9ca0-8bd1b4d78f9e.html",
+          "description": "Sui mercati asiatici il Wti a 81,2 dollari al barile",
+          "pubDate": "Mon, 3 Aug 2026 01:14:23 +0200"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Stellantis, il mercato italiano guida la ripresa, corre il marchio Fiat",
+          "link": "https://www.ilsole24ore.com/art/stellantis-mercato-italiano-guida-ripresa-corre-marchio-fiat-AJ1T7DY",
+          "description": "Sul mercato domestico, un quarto delle immatricolazioni in più registrate in Europa nel primo semestre dell’anno - I nuovi modelli Fiat Grande Panda e Citroen C3 trainano i volumi",
+          "pubDate": "Sat, 1 Aug 2026 04:02:01 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "negoziati",
+      "n_items": 5,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 31,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump annuncia 'la ripresa dei negoziati con l'Iran, anche sul nucleare' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTHRoYW01VE1SeTBPeWNIMkpLWjM0WldLWmNKbk8xcXdxZmpOZkpMY3duN1F6RmI4UU5sSHJLdmRmdDBmNmlEd0h0MlR5dmVpZS10RWhzWUF1dUw0V0RTQm5POTdRZVh0NmRtYTgwQ25mY1RJWV9NcHZMWElNd25ZQlRXN1FMSEU4RU5FNWZVQ3phTFlmRlhETEotLVRDWWVSQUYwVFdBU3poQ1JHcU1fVmtVODY1dXRMTVlHcUFldnFlYTQ4WEJNblVLUjVfUWhobVowYVVPdVoyWE01MTV4b1Y5OWZnNVFHVHFKaDV30gHzAUFVX3lxTFAtVzN0N0dEYm5rMGE5a2VLS2ExSkRnQzQ4dElXWi1jS1gwZURVVnAzZ2xKZG9pb09SZlJfdVhLTXBTVkZObEZzZ245RDNOR01UeV83UEh4RXpqMzA2NGhmRkhqSi1taHFDT2JieWJpYWZYVkdYV1NaN2xHRno2N0JxME95V1o0cTZRaGhpalVXUTdPYUJmbXlwNkdwUkNkUEt4SHZOQUZEckw5SlFuSGZYUXdWcVZVVU5RdF9NNGFENThEbl9vVEVVOE82aDQ4dnZtZGpldjM2Sm81QjBHelVjQi01UUlnQVhkeDhoS0JsS1VEbw?oc=5",
+          "description": "Trump annuncia 'la ripresa dei negoziati con l'Iran, anche sul nucleare' ANSA Guerra Usa-Iran, le notizie in diretta | corriere.it Iran, Trump dopo lo stop all’attacco: “C’è l’accordo su Hormuz e ce ne sarà uno sul nucleare” La Stampa Iran USA, Trump: \"C'è accordo con Iran su Hormuz, da domani inizio negoziati\" Sky TG24 Trump annulla l'attacco all'Iran, ma Teheran smentisce tutto Il Fatto Quotidia",
+          "pubDate": "Sun, 02 Aug 2026 23:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra in Medio Oriente, ultime notizie. Araghchi: negoziati con Oman su Hormuz alle fasi finali - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR09yeWxPTkFnX0pvdVFNWDBXWUl4ZlZ5djkwcUxPdXZROHVvbGdmRkFwVFJlVkxzNHdPdU54SV9yUDZqRjZrMERnblBMZlpMZVB3eGh0MmZ1cHoyX0pQdmxzWnl6aHNwZ3ROY0NRRWRpWVlJNW9nYTFFTU5MN3l6MHVYWEQ5X3NpMEhWdGREdWtDd0I5Z2FpdzFWMk83anhTa0NTaWcwX2NuNXRKYks2UThVbU9xTmdyQmNpTDFBLTZlOG9F?oc=5",
+          "description": "Guerra in Medio Oriente, ultime notizie. Araghchi: negoziati con Oman su Hormuz alle fasi finali Il Sole 24 ORE Iran e Oman vicini ad un accordo su nuova rotta marittima nello Stretto di Hormuz - Telefonata fra il ministro degli Esteri iraniano e il suo omologo saudita RaiNews Hormuz, Trump ed Europa in stallo corriere.it Iran, 'nessun accordo su Hormuz, lo Stretto resta chiuso' ANSA L’Iran smenti",
+          "pubDate": "Mon, 03 Aug 2026 02:10:06 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Trump annuncia 'la ripresa dei negoziati con l'Iran, anche sul nucleare'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/03/trump-con-liran-ce-laccordo-su-hormuz-ce-ne-sara-uno-sul-nucleare_9627b960-bbbb-43e9-891a-e77a10e8b09e.html",
+          "description": "'Intesa su Hormuz'. Stop ai raid 'dopo colloqui con Arabia, Emirati, Qatar e Teheran'",
+          "pubDate": "Mon, 3 Aug 2026 01:00:33 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Ci siamo mezzi salvati dall’inflazione? - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbnZ6ZnMyb09DOGozdDNWM3V0VDRyV0k3VVlhUUNfWHJMTW9BLVZzQ2xNWXhoQ0d3MlhSRnRCRXFYbmt4d192QWVOYkY3Z0ZRUGJ1N1VNRFcxY2tsX1dKYmRvOEZPclMyc0ZNZVFyWS05S3ZTakFXSmh3c1FDMVNfQUE3dk04WEhwSDJTbk5vSldfazhZRlE?oc=5",
+          "description": "Ci siamo mezzi salvati dall’inflazione? Il Post Il petrolio cede il 4% con l'annuncio di Trump sulla ripresa dei negoziati con l'Iran ANSA Il petrolio crolla del 9% mentre Trump fissa colloqui per lunedì per riaprire Hormuz Yahoo Finanza US OPEN: Il Nasdaq ritraccia dai guadagni iniziali poco dopo l'apertura dei mercati 🚨 XTB.com Il petrolio scende ai minimi di 3 settimane: Trump annulla attacco a",
+          "pubDate": "Sun, 02 Aug 2026 12:12:26 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Il petrolio cede il 4% con l'annuncio di Trump sulla ripresa dei negoziati con l'Iran",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/03/il-petrolio-cede-il-4-con-lannuncio-di-trump-sulla-ripresa-dei-negoziati-con_d957d7ad-e72d-4bee-9ca0-8bd1b4d78f9e.html",
+          "description": "Sui mercati asiatici il Wti a 81,2 dollari al barile",
+          "pubDate": "Mon, 3 Aug 2026 01:14:23 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "aereo",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "general",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Le linee di Nazca in Perù: quattro incidenti mortali negli ultimi 18 anni - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNDd1MFlralJuVm9jQTd6RU5MSGJJZ2VFMnJjMGJ1aGZjRndlSzBzN0JEOVFnelNQOWJvQWtrd0tPWXBxTlJFY2k5Zndka2dWSDJZMHJ3dEt5ckFDWGpZb043ODNjSk5uY0k1OXpBZEk2aFl6UzNFOU1WYWR4VGRFcl9POXlxYlNUdzhOVmZ0eWI0di1MRXRJNUZLYVpCMi1TQWFkN2dR?oc=5",
+          "description": "Le linee di Nazca in Perù: quattro incidenti mortali negli ultimi 18 anni Il Sole 24 ORE Aereo si schianta in Perù, 'aveva problemi meccanici'. Distrutte due famiglie italiane ANSA Aereo caduto in Perù, dal cedimento strutturale all'errore umano: le 4 ipotesi sull'incidente corriere.it Paolo Gianturco morto nell'incidente aereo in Perù: \"Uno dei manager di punta di Deloitte Italia\" MilanoToday Dis",
+          "pubDate": "Sun, 02 Aug 2026 20:27:19 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Aereo precipita in Perù, 7 turisti italiani morti: in totale 13 vittime. Il volo era diretto alle linee di Nazca - Il Mattino",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaWVURHNETmFlZk9MOVRXZkxDUzJBQXVHNm44c3VCMWRQV250TmdMeWdDRDB3SWZHWndqbU95WXdod2JGOVZZRnJkOWJGTjA0SVExNUJQTnhxYjNQZDRIbVFmbURPWU1nd29heFFtMVI2S1dRX3ZZSFhqOF9JYk5XMUJvdDFBdVFVZlljNmd1TjRmd2dwb0d3RGN6SXdQUjg2ZmFTME1laVp3ekIweFhsZTM3X3dabl90TU12NjFn?oc=5",
+          "description": "Aereo precipita in Perù, 7 turisti italiani morti: in totale 13 vittime. Il volo era diretto alle linee di Nazca Il Mattino Aereo si schianta in Perù, 'aveva problemi meccanici'. Distrutte due famiglie italiane ANSA Le linee di Nazca in Perù: quattro incidenti mortali negli ultimi 18 anni Il Sole 24 ORE Aereo caduto in Perù, dal cedimento strutturale all'errore umano: le 4 ipotesi sull'incidente c",
+          "pubDate": "Sat, 01 Aug 2026 21:00:39 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Aereo si schianta in Perù, 'aveva problemi meccanici'. Distrutte due famiglie italiane",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/02/aereo-si-schianta-in-peru-aveva-problemi-meccanici.-distrutte-due-famiglie-italiane_c83b925c-2fc9-4b66-94bf-b0a73a568502.html",
+          "description": "Sette vittime, erano tutti brianzoli. Il cordoglio di Meloni e Attilio Fontana",
+          "pubDate": "Sun, 2 Aug 2026 21:20:38 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Perù, in un video l'aereo che precipita perdendo pezzi",
+          "link": "https://www.ansa.it/sito/videogallery/mondo/2026/08/02/peru-in-un-video-laereo-che-precipita-perdendo-pezzi_ebdf8346-8034-41a1-942f-c4a19985b8d6.html",
+          "description": "Le drammatiche fasi dell'incidente avvenuto sull'area archeologica di Nazca, a Pueblo Viejo",
+          "pubDate": "Sun, 2 Aug 2026 14:43:21 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Governo peruviano, 'aereo con problemi meccanici prima dello schianto'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/02/governo-peruviano-aereo-con-problemi-meccanici-prima-dello-schianto_8a385478-2e1a-4ef9-9f2d-5e9db763e6bb.html",
+          "description": "Il ministro del Turismo: 'Il pilota aveva avvisato la torre di controllo'",
+          "pubDate": "Sun, 2 Aug 2026 20:36:54 +0200"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "sarà",
+      "n_items": 5,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "score": 26,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump annuncia 'la ripresa dei negoziati con l'Iran, anche sul nucleare' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTHRoYW01VE1SeTBPeWNIMkpLWjM0WldLWmNKbk8xcXdxZmpOZkpMY3duN1F6RmI4UU5sSHJLdmRmdDBmNmlEd0h0MlR5dmVpZS10RWhzWUF1dUw0V0RTQm5POTdRZVh0NmRtYTgwQ25mY1RJWV9NcHZMWElNd25ZQlRXN1FMSEU4RU5FNWZVQ3phTFlmRlhETEotLVRDWWVSQUYwVFdBU3poQ1JHcU1fVmtVODY1dXRMTVlHcUFldnFlYTQ4WEJNblVLUjVfUWhobVowYVVPdVoyWE01MTV4b1Y5OWZnNVFHVHFKaDV30gHzAUFVX3lxTFAtVzN0N0dEYm5rMGE5a2VLS2ExSkRnQzQ4dElXWi1jS1gwZURVVnAzZ2xKZG9pb09SZlJfdVhLTXBTVkZObEZzZ245RDNOR01UeV83UEh4RXpqMzA2NGhmRkhqSi1taHFDT2JieWJpYWZYVkdYV1NaN2xHRno2N0JxME95V1o0cTZRaGhpalVXUTdPYUJmbXlwNkdwUkNkUEt4SHZOQUZEckw5SlFuSGZYUXdWcVZVVU5RdF9NNGFENThEbl9vVEVVOE82aDQ4dnZtZGpldjM2Sm81QjBHelVjQi01UUlnQVhkeDhoS0JsS1VEbw?oc=5",
+          "description": "Trump annuncia 'la ripresa dei negoziati con l'Iran, anche sul nucleare' ANSA Guerra Usa-Iran, le notizie in diretta | corriere.it Iran, Trump dopo lo stop all’attacco: “C’è l’accordo su Hormuz e ce ne sarà uno sul nucleare” La Stampa Iran USA, Trump: \"C'è accordo con Iran su Hormuz, da domani inizio negoziati\" Sky TG24 Trump annulla l'attacco all'Iran, ma Teheran smentisce tutto Il Fatto Quotidia",
+          "pubDate": "Sun, 02 Aug 2026 23:00:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Trump, 'con l'Iran c'è l'accordo su Hormuz, ce ne sarà uno sul nucleare'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/02/trump-con-liran-ce-laccordo-su-hormuz-ce-ne-sara-uno-sul-nucleare_5218a3d2-5dea-469a-90da-95448c09fb16.html",
+          "description": "'In corso discussioni' con Teheran e 'si comincia domani pomeriggio'",
+          "pubDate": "Sun, 2 Aug 2026 23:58:31 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Flavio Bolsonaro, 'se Lula sarà rieletto avvierà una dittatura in Brasile'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/02/flavio-bolsonaro-se-lula-sara-rieletto-avviera-una-dittatura-in-brasile_b5480cf5-e83c-4495-be17-432f449548be.html",
+          "description": "Il senatore di destra sfiderà l'attuale presidente alle elezioni di ottobre",
+          "pubDate": "Sun, 2 Aug 2026 16:52:36 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Caro carburanti, sui tax credit sarà corsa contro il tempo - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTEdrVXRTYWhsOEpBUDNOWnlqVHVQLUZHSFBwZVhRa1czWDRfbVUyYTN2cnFwYWVxa1c2S2hib1VGSTQwSjM2RzJHbWZNTF9FaW1vc1Y2YjItY044ejFmOWpqUHFtWWx2ZkxielF5SE03RzdsLWtyajN0NTBReW5lTlV0akp2dXY0Y3pDNUZiaExfS01i?oc=5",
+          "description": "Caro carburanti, sui tax credit sarà corsa contro il tempo Il Sole 24 ORE Cgia, padroncini, taxisti e Ncc in ginocchio per diesel alle stelle ANSA Gasolio, prezzi alle stelle e piccoli trasportatori in ginocchio: «I padroncini stanno sparendo» Il Gazzettino Il costo del diesel alle stelle. I rincari pesano su 1.792 professionisti della strada Il Resto del Carlino Crisi Medio Oriente: con l'aumento",
+          "pubDate": "Sun, 02 Aug 2026 06:47:56 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Meteo: Super El Nìno, quest'anno sarà il più potente della storia. Cosa rischia l'Italia, specie in Autunno - iLMeteo.it",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMDM4WC05b1hYXzRWcDhRTjlrbGpUbW5XU2RaVWo0eDFzMWUzQXpqcHVLV091aV92VkFzeGxxM2RESHllQzFPVFFTZ0pSd1B1am1yWG5rbklZVFkzN1d3U0IyWVNXdE1qTEI2dkZxRHR2ODVhS1hLQVNGcXdReVFQOTk3VUdseUJHNWlrTmdDSmxGT2tmSUY2VHdxOFdvZERVbk5JWGNRaDZWbkFuMVBsQ25Kc0tneEYtaHJJNjVyLVYxb3Q5RmVwSk5FTzRKbmNVV3c?oc=5",
+          "description": "Meteo: Super El Nìno, quest'anno sarà il più potente della storia. Cosa rischia l'Italia, specie in Autunno iLMeteo.it",
+          "pubDate": "Sun, 02 Aug 2026 10:50:01 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "ucraina",
+      "n_items": 6,
+      "n_sources": 3,
+      "category": "geopolitica",
+      "score": 24,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Ucraina, i missili russi fanno stragi. Zelensky chiede i Patriot - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFhaOFB5Tk1UTVRJYms4TENiUkdKa1g5RFRBdEw4MEpWTDhUSlI2bjBmczRHNzZuQWdaQ2FRYzA0TXZGdC1uT0FxRzJYSWJtNkVuSXY3MnBtaXBGc2FBelRBbnJGWGI5OC1zNG9Hb1p5VlczTlVoa2tYUWxwc3F3Q2YweFFia2ZScmhVRHNCVnJxTV9oUHRyTEk3ejNNMUctLWhYMFZhMGdlX3FyNzRuVzlDaFNVNEpCMGZCQkJEUWZHZ0d3RXc?oc=5",
+          "description": "Ucraina, i missili russi fanno stragi. Zelensky chiede i Patriot Il Fatto Quotidiano Reportage da Kiev, tra i palazzi distrutti dai missili di Putin: «Sono settimane che non ci dà tregua» corriere.it Zelensky, 'colpite raffineria e base militare a Saratov in Russia' ANSA Pioggia di missili su Kiev, l’offensiva di Mosca dopo il dietrofront di Trump sui Patriot la Repubblica La furia di Putin. 1.900",
+          "pubDate": "Sat, 01 Aug 2026 22:01:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Zelensky ora ha le carte. Il leader ucraino si rafforza, e anche i Maga si ricredono - Quotidiano Nazionale",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0Nk16dFNtdm9fenRDLVpVTkR0VWJiME9fdWt1dkZZclhNNEdFS3VnaVJERjBQMmxESi1lNE02NFdOSlJWR3ktbmswMmZ5anFlNFZ5NXRjaTNhTVBaOWhudmt3WExDa1FrOHEzYS1OMTFCcUk?oc=5",
+          "description": "Zelensky ora ha le carte. Il leader ucraino si rafforza, e anche i Maga si ricredono Quotidiano Nazionale Trump e il dietrofront sui Patriot, il deputato ucraino: «Scorretto con le vittime, così perde di credibilità» corriere.it Trump frena sulle licenze Patriot a Kiev: \"Bisogna fare attenzione\". Raid incrociati RaiNews Trump si è rimangiato la promessa di dare all’Ucraina la licenza per costruire",
+          "pubDate": "Sun, 02 Aug 2026 00:30:34 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Guerra Ucraina, Mosca: drone di Kiev cade vicino a reattore centrale di Zaporizhzhia - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ3M4bXRNeEhUWmZHYmwtSjBJVnBiYU1reVhWQ2hJOXlJMnVzNTliQVA3RVdKbGNJT09ab0IwRVFBQXFGeDZaaUhyUERUMzZYbTNRRFRNa21HVy1XVU5MWERLWVBiTndKREk5akdib1gwTFJfek1NNzE2SHVBZTBSWUVqR1hGTk43?oc=5",
+          "description": "Guerra Ucraina, Mosca: drone di Kiev cade vicino a reattore centrale di Zaporizhzhia Sky TG24",
+          "pubDate": "Sun, 02 Aug 2026 22:03:29 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "In Ucraina i droni rivoluzionano il fronte, ma si continua a morire come nella Prima guerra mondiale - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQV1NwS2VPdGlFSTd3MXVvVVEzdWhUWkc2REx6NGJoTi1VNGtMVUhHRU55d3ZSNF9HcHo4cGZBSkZBeDdOT2pndDJvM1FsWHpaRUxHSXg3ZUhoSzRac3dWcFhyYzFPZm5rNnVSU2ZIYWJHdG83bjd3cVl6bFhSaWNCLVRVM0ZfcXpDY250bWZXMUI5c0VOcTVJOW42Z2dwMG5Kdjlyb2F6d2NuUEhkWmpFekhfRm92SVh0eVN6dHQwU0g3WkF0SmkzTVh5djBsOXBCOWFSOXhWUjdyRDJhc2xRQzlMSzFHenRmTmpFQ3JDT3MxaDZwNGpnQU1fRE1kSVYwYVHSAYcCQVVfeXFMUEg3U05oTkZxMFprNlQxbnQ1UGFvQS1KMmJLWVVEUUpXRVB6TmZWUDdHVVBMb3E2ZkFTblkzR0JsQ2JlaUotZ3lBYVRzRnBNUFpPRUprcWEzM1prc1hqS0FpNXFRb2t3aVNBQklPa2ttTWJwQjhPZG5UeDFYRzRHQ2tkUzljcTdmVnZ1dDV1OFJSay1ITWE2Sk1lUjZxakhvbF9lY29FcVRwMHhZamJ0Q2RjeXRISG0zYkpweUc0dldibHV4N0o3SW9oTThEQTIyb1Z5ZEpNZ2szaWZUNHB6dFo1M0tGbFBQUmhsSHhRRU1GT2RNSEM0S09Cb0lIMkprNGJYblZKNkU?oc=5",
+          "description": "In Ucraina i droni rivoluzionano il fronte, ma si continua a morire come nella Prima guerra mondiale corriere.it",
+          "pubDate": "Sun, 02 Aug 2026 21:32:11 GMT"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Conte: “Niente armi a Kiev, la linea sull’Ucraina la decideranno le primarie” - La Stampa",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR0dhTXdGek90Qzh2T3RoM1c0SEVmaVRYVFFBN3dIWVpDTV9FTXpERmxWNzNwQUNHb1hSVzFaYmJBUDZmeXAyRkFmaTZJYnoxVXVSeWxjUGNrN3VRTUlCMzZpbTdLSEFISVZ2MWk5dXp1UEFrYkx2U09mN0RKZDc2U1FMTzRDNkVoMG9zTTJjdWZ3Q1hjSFFwNUVHWTNkR25xU3BkRTR2WmljQmNrd3BrZ0Z3SmwtQjNxMnJr0gHAAUFVX3lxTFB6STh4THRlVTJ2U21CdkQtVk5oUXRGM1o4eXJUTEVXYnBnQmoxd3hJclUyMXppd1JlODI0eHRlem5ZSUlWUE9ZUVFHSFRPS2ZubGMyczhsREw5cjVwWlNmN3pmQm9yaVkzNVNrSWZmbTdIOWlMRE90NFR5QTZrS0NQV19SN3ZHZzJuVVIzZ0RsNXFid21fZnB1NDUtb1QzSFlIaXVVbFVHdFUzTFBWUmRxeHJLUm1peWFTdzhXVG5FXw?oc=5",
+          "description": "Conte: “Niente armi a Kiev, la linea sull’Ucraina la decideranno le primarie” La Stampa Ucraina, Conte si smarca ancora: “No alle armi, decideremo la linea con le primarie” la Repubblica Conte sfida il Pd: \"Sulle armi all'Ucraina decideremo con le primarie\". Rabbia dei \"falchi\" dem: \"Così spacca la coalizione\" Il Fatto Quotidiano ++ Taruffi (Pd), prima un programma condiviso e poi le primarie ++ A",
+          "pubDate": "Sun, 02 Aug 2026 18:28:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "nucleare",
+      "n_items": 4,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "score": 22,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump annuncia 'la ripresa dei negoziati con l'Iran, anche sul nucleare' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTHRoYW01VE1SeTBPeWNIMkpLWjM0WldLWmNKbk8xcXdxZmpOZkpMY3duN1F6RmI4UU5sSHJLdmRmdDBmNmlEd0h0MlR5dmVpZS10RWhzWUF1dUw0V0RTQm5POTdRZVh0NmRtYTgwQ25mY1RJWV9NcHZMWElNd25ZQlRXN1FMSEU4RU5FNWZVQ3phTFlmRlhETEotLVRDWWVSQUYwVFdBU3poQ1JHcU1fVmtVODY1dXRMTVlHcUFldnFlYTQ4WEJNblVLUjVfUWhobVowYVVPdVoyWE01MTV4b1Y5OWZnNVFHVHFKaDV30gHzAUFVX3lxTFAtVzN0N0dEYm5rMGE5a2VLS2ExSkRnQzQ4dElXWi1jS1gwZURVVnAzZ2xKZG9pb09SZlJfdVhLTXBTVkZObEZzZ245RDNOR01UeV83UEh4RXpqMzA2NGhmRkhqSi1taHFDT2JieWJpYWZYVkdYV1NaN2xHRno2N0JxME95V1o0cTZRaGhpalVXUTdPYUJmbXlwNkdwUkNkUEt4SHZOQUZEckw5SlFuSGZYUXdWcVZVVU5RdF9NNGFENThEbl9vVEVVOE82aDQ4dnZtZGpldjM2Sm81QjBHelVjQi01UUlnQVhkeDhoS0JsS1VEbw?oc=5",
+          "description": "Trump annuncia 'la ripresa dei negoziati con l'Iran, anche sul nucleare' ANSA Guerra Usa-Iran, le notizie in diretta | corriere.it Iran, Trump dopo lo stop all’attacco: “C’è l’accordo su Hormuz e ce ne sarà uno sul nucleare” La Stampa Iran USA, Trump: \"C'è accordo con Iran su Hormuz, da domani inizio negoziati\" Sky TG24 Trump annulla l'attacco all'Iran, ma Teheran smentisce tutto Il Fatto Quotidia",
+          "pubDate": "Sun, 02 Aug 2026 23:00:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Trump annuncia 'la ripresa dei negoziati con l'Iran, anche sul nucleare'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/03/trump-con-liran-ce-laccordo-su-hormuz-ce-ne-sara-uno-sul-nucleare_9627b960-bbbb-43e9-891a-e77a10e8b09e.html",
+          "description": "'Intesa su Hormuz'. Stop ai raid 'dopo colloqui con Arabia, Emirati, Qatar e Teheran'",
+          "pubDate": "Mon, 3 Aug 2026 01:00:33 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Trump, 'con l'Iran c'è l'accordo su Hormuz, ce ne sarà uno sul nucleare'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/02/trump-con-liran-ce-laccordo-su-hormuz-ce-ne-sara-uno-sul-nucleare_5218a3d2-5dea-469a-90da-95448c09fb16.html",
+          "description": "'In corso discussioni' con Teheran e 'si comincia domani pomeriggio'",
+          "pubDate": "Sun, 2 Aug 2026 23:58:31 +0200"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Ungheria, il caldo \"spegne\" anche la centrale nucleare - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSnFkNXhzY1BqUXJxTkFCZHZLcmVabWpDVTN1TmVRdHJmdWJNQUI4M3kzaExjYWhiWWhTMVItSk43LXdsZGxhYm0zdkdiTUVEUWVMSnozbkdEX1loNjFaMUVJd2lkZ0V5cDRSS21tS3c5ZkwzVk4xcFVKaE11Zm5JdTlfNGdrczFoVHZxT3BQeVR3Tm0xYTBBVzdn0gFoQVVfeXFMTjQyLXVfNHdTQXBxMWUxOV9IYmE4ZFVINF9PaUFuSU53Z05mUVplOFZuRFQzSjhobGNuTVdfMWFvWWtVWFB4ZGdpWUdmTGc2NkJ5NFZPYkV5WmpxMW5BTUp6MGVicmh3RGw?oc=5",
+          "description": "Ungheria, il caldo \"spegne\" anche la centrale nucleare Tgcom24",
+          "pubDate": "Sun, 02 Aug 2026 15:02:35 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "killed",
+      "n_items": 4,
+      "n_sources": 2,
+      "category": "economia",
+      "score": 14,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kUnFxTXdNTjQwQllpRElDT051a1VwckJtSS12NnBFeEJHVzBNdjdzd0xxQ3pwR1R1aWxQUzYtUzRvZGUycEVmM09FLVpKZEZYejNpVmNjM3N6Zw?oc=5",
+          "description": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece BBC Two firefighting helicopters collide west of Athens as Greece battles wildfires NBC News Choppers collide, killing 2, as fires and foreboding grip Greece politico.eu Two die as firefighting helicopters collide in Greece, French blaze changes course Reuters Helicopter Collision Shows Perils of Europe Wild",
+          "pubDate": "Mon, 03 Aug 2026 01:03:31 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+          "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+          "description": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+          "pubDate": "Mon, 03 Aug 2026 01:03:31 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+          "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+          "description": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+          "pubDate": "Sun, 02 Aug 2026 15:50:59 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+          "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+          "description": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
+          "pubDate": "Sun, 02 Aug 2026 10:54:44 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    }
+  ]
+}

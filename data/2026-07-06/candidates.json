@@ -1,0 +1,925 @@
+{
+  "date": "2026-07-06",
+  "top_topics": [
+    {
+      "keyword": "trump",
+      "n_items": 17,
+      "n_sources": 7,
+      "category": "geopolitica",
+      "score": 125,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump oltre ogni limite contro Meloni: «Serve un ordine restrittivo» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcFQ0OUR5aWd4aGZCcjhjMjdCRUVCcjJrOHlSSTBHSHplQndZVXRya29ONGZvUE5CWXFpNFdETENKOE0zbWpGME9wMDJManAtQXduWG9CeE1aNm9kV2RXaTY1YmZOZzBZS3k3WC1BbHdkRjZHclVuRm1lUnppbm8zRmNLY3o0aTc3cDVCNktfRGxmMHlZdkJFTmVEOUNXTFZGeTZGT3ByQlpNR1dyOTk0NmtLdHNpUERuTTBRbWNtdGJzcHd1RkxjcC1mbDVjbU440gHWAUFVX3lxTFBhb1JFUTlVam4wcGZ6bHdWNmN6aHpPb0g3WThIaWVBN1hTVVZmYjc5OWhVV2FxRWgxYUhQd3FkejN2LXRxcmR5ZFJmd2s2aUY5REpWT0NZbXBFZGd3OTA5SkRiMkpMWjVLWDZ5UTdScG1Yc3VtNWNmYUhDWERLc0N5U3dvcW1oRmd4SmowX2pUNno2Skd3VGRYei0zVkVhUVZTbnp5d0R0ZUdmX2Y1ZlpkMW9WaWFKZmI2TzFvcjU0VzBfQkZRYlZtRDN3U3Z1Z1ZFbGNZNkE?oc=5",
+          "description": "Trump oltre ogni limite contro Meloni: «Serve un ordine restrittivo» Corriere della Sera Trump posta meme con Meloni, 'necessaria ordinanza restrittiva' ANSA L'ultimo schiaffo di Trump: \"Per Meloni serve un ordine restrittivo\" RaiNews Trump attacca Meloni con un meme social alla vigilia del vertice Nato Sky TG24 Trump, un altro attacco per offendere Meloni “Serve ordine restrittivo” la Repubblica",
+          "pubDate": "Mon, 06 Jul 2026 00:47:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Casa Bianca, il National Mall riapre a breve, il discorso di Trump alle 5 - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOOXF4WVp3bjBRRmNjQlRaOUNpamtYUkFiczhEYXlVZHJyd05vbEticHBKYmpnU3htYktjN2M1M1ZfMWJPb2lCVkdIM05ZMTlqTmU1VlQzdC1CSTNfdlJoWHo3MEpfQ01kNEdxSzBtVmpMcTVLR1pDcjM0UnVLNS11d05PdzF5Qm8xUE1OVFE2QVFPcnlVVGd1UWRjR2QtSFROU2hPQXotdGVJMm5XMFROamVQQU9Xd1pVUHB3SUhWY3pSNFlCV3R6aG9UVE5ZMTlhT0RhRklVd1ppMTAzUDY2a1EtMUV3NkxENmVpWXZaa0QzRzRVTHZNWQ?oc=5",
+          "description": "Casa Bianca, il National Mall riapre a breve, il discorso di Trump alle 5 ANSA La grande festa americana per l'Independence Day ANSA Stati Uniti, lo show pirotecnico da record: 850mila fuochi d’artificio in 40 minuti. Allarme per l’inquinamento dell’aria Il Fatto Quotidiano Walzer: “Trump rispolvera la retorica della Guerra Fredda perché non ha altri argomenti” la Repubblica Trump: “Siamo i più po",
+          "pubDate": "Sun, 05 Jul 2026 01:42:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Kiev stanotte sotto attacco russo, Mosca minaccia la Polonia: \"Produce droni per Kiev\" - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPWmNYVWJPS2tNZmdDYThoSWg4N2dySTB3TkRBaFhYSW1hcXUtYnNjLWMyRVQ3bXN6cWxobktnRjN5c094SUU5Vi1BdWxRMmJ4NEhyQXBoYm1wVXRidDdacm9oX2ZtRDZpdUN3ckg5UjR2M2ZfbjdjQzhqNVFlUWNpeThaT1dJR29wODBXVV9rMFJWUHI2el9LYlhwOFRCRUljYzFQWExNUUZEQnFCSmduRTllazh5VmRjY3NrOVhOZ0RqMUVTc2VuS0VuUGgtQ2JBUHY3cUllU2xBYmFGMk9GaXc3WlYxTWhsa3hpa1hNckNSQXR0TllxMGxFdFUxdktyR19LQ0dB?oc=5",
+          "description": "Kiev stanotte sotto attacco russo, Mosca minaccia la Polonia: \"Produce droni per Kiev\" RaiNews Guerra Ucraina-Russia, le notizie in diretta | Fonti Usa: Trump chiamerà Putin dopo l'incontro con Zelensky a Ankara. L'allerta: «Missili russi su Kiev, colpiti edifici residenziali» Corriere della Sera Esplosioni a Kiev, colpito un edificio 'persone intrappolate' ANSA Guerra Ucraina - Russia, le news di",
+          "pubDate": "Mon, 06 Jul 2026 01:23:18 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Vertice Nato, gli Stati e la rincorsa al 5% davanti all'alleato Usa. L'attenzione «speciale» sui progressi italiani - Corriere Roma",
+          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOZF80UUFwYmM5X2xnX2VzcWt3X3JmRUZ4Rno3a3JvYmtlVDlSaTlTbUJ4ZHIwcGM3U2prcURCSjNUVVVVYkJ2cmI3cXlqQ1JtTGZCNWZtZTk1d1pPV0FtMUZOSDlGSHVQSkp5alNjU0hHUnZ0aVlGeXEtdG02ZUhtMV9Eb3MzWlNBZ0Y4YThnTVktUFRqZVRZcThTQUItdGFpR0dZaExMSXF0Z0ZKcklyNEhDcFlTcUZpYlBMRlFzcTViYmpxcllZUVhCU1VqR3ZaaFRUS2FtVlVibE52SW9nanVIcGs4VXFZd194TV9RWnEwQllBeUl6ekhwVVR0T3N0Z3RtbGZDcFRpRVVBb2JnSFU1TlQ1SS1LTHBUMzJQUHlQbW1PWC1TaFNTYTJxTzNidXfSAbcCQVVfeXFMTjdiNjFQSGFyWlBIclZFVmx3ZjFaRzJqVnNfbXdsSVBHSi0zdkJ4c3VCNHJSWnM3WmVQRXlsWEF6OUFxdk5FUzVHMEc5TlVBT2ltdmZvM29HRW1OMlVFNUxiell6MWJKUlVNRmdDRk9ycW9QQjNPM3RuOFNZYVJKTHdKQkhiSU9xN1NQNTR5SjAyTW5SRTl0V2I5amtPWmVCYUJWb1RhMnRLSHdWY1o5SzhlZnFzNEpfbWRoSzhnNEVUOHVkZDhmYWlfdG9KbW9nQjJTdl92Mkh2VDdQWTVOdUJoS1E4aTJDeGVoLUVZNWx4cU1ULXBCdVREbGtsOTMyemlEMVZ4RnJPckRacTc5UjhlQ01KSkN6X0dxd01EU2FXM2Q3ZDBxeWl4TmMwcEZCcVBublBwQjg?oc=5",
+          "description": "Vertice Nato, gli Stati e la rincorsa al 5% davanti all'alleato Usa. L'attenzione «speciale» sui progressi italiani Corriere Roma Le incognite di Ankara Corriere della Sera Al vertice di Ankara nasce la Nato europea, incognita Trump ANSA “Ankara, summit delle contraddizioni La Ue spennata da States e Ucraina” Il Fatto Quotidiano La Turchia apre la sfida della Nato 3.0: Ankara come snodo dell’Allea",
+          "pubDate": "Sun, 05 Jul 2026 20:37:46 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "'Trump vuole contattare Putin dopo l'incontro di Ankara con Zelensky' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYno2R0VBd2dZbjNnLWJJYkxtRnhrSEhGS09IVnJuRTNXdlg5dWl0S1hoVDRfZWxuX3FqcnVKanlvQWZjRkhNRXJ6ckVJbkdsXzFSS19zNHJveWZ4Nzg4azRoUTBqRjZoamtuRFFRdzZGZzd6bHFxVW9mWWRScHNKTUJpOEE3ODRpa2E4M1A0QjktbTQ3RDBLOGVWMkN4Z2laZXVjaDgyWFFjeG1uMmQxMmRxZl9xbnV6N3FVc3N3d3B6cHhjRjdBWnhrRHI4UzNFSnhUN1dWdEdkVmN2cm5VUndFMHdXYm5qR1F3MEJtMW5mUQ?oc=5",
+          "description": "'Trump vuole contattare Putin dopo l'incontro di Ankara con Zelensky' ANSA Telefonata Trump-Putin di 90 minuti: focus su Ucraina e Iran AGI Guerra Russia Ucraina, Putin a Trump: \"Disponibili a soluzione diplomatica per il conflitto\" Tgcom24 Guerra Ucraina, telefonata Trump-Putin, Cremlino: molto costruttiva. Zelensky: chiede armi TGLA7 I 250 anni degli Usa, da Xi a Putin gli auguri tra telefonate ",
+          "pubDate": "Sun, 05 Jul 2026 21:08:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "luglio",
+      "n_items": 12,
+      "n_sources": 8,
+      "category": "general",
+      "score": 96,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Alta velocità, da stasera fino al 10 luglio l’Italia divisa in due per i lavori a Firenze - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUU5NVXMwMVhuWUM4ZHR1N2R2Z0Zsb2tzbGpXSk8xblZybTdwS0xMa0JZSjBQeGpWMkVVdjFpaHBjWVdEcW1NbEZHUkliS2pudzlaVGhENFFNTDNHNGo4U3NYQncxWktqZDh4YTRjZmg4eDlPY3Q5R2tBUEs5NTh1c3dCQzlxcWgwOEJxLThWN3pTd1pjX3BDdHZ5cVEyVkZtSU1OMA?oc=5",
+          "description": "Alta velocità, da stasera fino al 10 luglio l’Italia divisa in due per i lavori a Firenze la Repubblica Ponte al Pino, stop ai treni, appello ai toscani: “E’ un’emergenza nazionale, verificate gli orari” Toscana Notizie Firenze, i lavori su ponte al Pino e la guida anti disagi per lo stop ai treni. L'appello di Giani: «È emergenza nazionale» Corriere Fiorentino Tra cantieri e scioperi il luglio bo",
+          "pubDate": "Sun, 05 Jul 2026 03:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Ucraina, Mosca minaccia la Polonia. Zelensky avverte: \"Preparano attacco massiccio\". LIVE - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRUg1NmRuQnpqSHpXRzlMZDNsRThmWkRhcHJTMFVWTEllN1FEdHdPRzhyMWVORE8yalNnRE5yOGZaT3JNMXoyNHg2TTdqanJCbGVPNGpMbmVDeVl6WUg2OXd0ZVk5NjdhZWU2dUFPd3d3Y0w4bWFBUFhRaWhGaW9iN0k2Y0ZIWHBh?oc=5",
+          "description": "Ucraina, Mosca minaccia la Polonia. Zelensky avverte: \"Preparano attacco massiccio\". LIVE Sky TG24 Guerra Ucraina-Russia, le notizie di domenica 5 luglio Corriere della Sera Mosca minaccia la Polonia \"Rifletta sulla propria sicurezza se produce droni per Kiev\" - Mosca, colpite infrastrutture energia a Zhaporizhia RaiNews Ucraina, Putin: 'Pronti alla soluzione diplomatica'. Ma minaccia la Polonia A",
+          "pubDate": "Sun, 05 Jul 2026 21:59:58 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Usa-Iran, le notizie in diretta | Le notizie del 5 luglio - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSFhSTFkxWVZieEJJMFlTQzlGOHdvZ0ozdTlIQ3VKMEcyTXRfMGpEbldtcDdMRHprdzFVUXdzU2RnM0Y4VF9uOVJXOWV6M3VaU3FQWE1NemFWYmt0ZTVlSXNZeGwtRFVkQ3FNbjI2YVJsNDZ2eG96bjlBbVh3YXU2ZnBPMUlVQ0ljak41RlpNVQ?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Le notizie del 5 luglio Corriere della Sera Mariano Giustino, ospite di Radio inBlu2000 nella trasmissione Mattino inBlu per parlare dello stallo dei colloqui tra Usa e Iran. Il canto delle donne inquieta ayatollah Radio Radicale Colloqui Iran-Usa l'11/7 in Pakistan RaiNews Suez, Malacca, Bosforo. A quali Stretti guardano Iran e Oman per le tariffe a Hormuz",
+          "pubDate": "Sun, 05 Jul 2026 19:26:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Rita Pavone: 'Amo anticipare i tempi e lottare, tornerei anche a Sanremo'",
+          "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/07/04/rita-pavone-amo-anticipare-i-tempi-e-lottare-tornerei-anche-a-sanremo_f68b6f86-1901-47c5-989b-49c8bea57b50.html",
+          "description": "Premiata all'Italian Global Series. L'11 luglio il marito Teddy Reno compie 100 anni",
+          "pubDate": "Sun, 5 Jul 2026 09:41:36 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Colombia, Petro anticipa l'atto ufficiale di commiato al 20 luglio",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/06/colombia-petro-anticipa-latto-ufficiale-di-commiato-al-20-luglio_a5779eef-cb96-4f5c-a0d1-4af45e081bff.html",
+          "description": "Nessuna cerimonia il 7 agosto per il passaggio di consegne",
+          "pubDate": "Mon, 6 Jul 2026 05:43:08 +0200"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "record",
+      "n_items": 10,
+      "n_sources": 8,
+      "category": "general",
+      "score": 80,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Casa Bianca, il National Mall riapre a breve, il discorso di Trump alle 5 - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOOXF4WVp3bjBRRmNjQlRaOUNpamtYUkFiczhEYXlVZHJyd05vbEticHBKYmpnU3htYktjN2M1M1ZfMWJPb2lCVkdIM05ZMTlqTmU1VlQzdC1CSTNfdlJoWHo3MEpfQ01kNEdxSzBtVmpMcTVLR1pDcjM0UnVLNS11d05PdzF5Qm8xUE1OVFE2QVFPcnlVVGd1UWRjR2QtSFROU2hPQXotdGVJMm5XMFROamVQQU9Xd1pVUHB3SUhWY3pSNFlCV3R6aG9UVE5ZMTlhT0RhRklVd1ppMTAzUDY2a1EtMUV3NkxENmVpWXZaa0QzRzRVTHZNWQ?oc=5",
+          "description": "Casa Bianca, il National Mall riapre a breve, il discorso di Trump alle 5 ANSA La grande festa americana per l'Independence Day ANSA Stati Uniti, lo show pirotecnico da record: 850mila fuochi d’artificio in 40 minuti. Allarme per l’inquinamento dell’aria Il Fatto Quotidiano Walzer: “Trump rispolvera la retorica della Guerra Fredda perché non ha altri argomenti” la Repubblica Trump: “Siamo i più po",
+          "pubDate": "Sun, 05 Jul 2026 01:42:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Blackout record a Cuba, 71% dell'isola al buio - Corriere del Ticino",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON29WUTMyMXgwOVdIYTZkdTFBaUY2OWlidmt3N2g3WWo1RjdocjFzaWJ1aUNlcW9keTQ3bXdsZVR6VjVrRWhGY0V4bmVyc2Zkak85VWQ4UHkzcmd6X0RGR0FpbkZiX1gyOEdZaU1LRnpDcUN0RWI3bVhKRjZXQzFyZ2VtUmFFX0E?oc=5",
+          "description": "Blackout record a Cuba, 71% dell'isola al buio Corriere del Ticino Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Sat, 04 Jul 2026 10:30:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Pasini: “Gli anticicloni africani sono l’impronta delcambiamento climatico. La politica ascolti la scienza” - Bergamonews",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZHVMZ0szb25vTFJZV1NLSFNjUmpYakE1Qkw5MFdKTjJuR2gwbzdXa2s1S1V6aTFId0dSSDJxLWYzRmNJRVVYeEdqWmwzcUxlYV9SOU5vQkZEMXF0dmRGWk5RdUZRS1YzX2RxNVJpV0EwTW90R2E3T1JxRzhmdWVVM0MxcWV3VTF2T0RNblZ5MmRIdDJlMnMzY0VSREd1US1INjc2TDJxU0UteThaMDhMaGZzZU5WVDZjUEpnbEcta19kMVhfWGxiX21jWmZWWDZUSlRZZ0JhWVU2a0dKYWRnODJjdw?oc=5",
+          "description": "Pasini: “Gli anticicloni africani sono l’impronta delcambiamento climatico. La politica ascolti la scienza” Bergamonews Caldo. Kluge (Oms Europa): “Le attuali ondate di calore sono una prova generale. Le estati future saranno ancora più difficili” Quotidiano Sanità Fino a 44ºC in Spagna, attesa allerta rossa in più regioni Euronews.com Caldo record, raddoppiano le morti di animali durante il trasp",
+          "pubDate": "Sun, 05 Jul 2026 03:58:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "America Marks Its 250th Birthday With Storms, Sweat and Fire - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkQkd2T0VZVTFCeVFZQWxqYUFWRWpEaDNqcUpKUXUwdHVGLS1LOHNpc2s4Zk8ySG45SVBxU3BvQl9EeWVkNDdyMWppSjQySlZPQy1sZVlEbVNjLTFwZG1aQUVPYlVSdzBFLTVvRy1KR3kwSW9pQ2c?oc=5",
+          "description": "America Marks Its 250th Birthday With Storms, Sweat and Fire The New York Times America 250 celebrated in New York City and beyond ABC7 New York Record heat suspected in over 20 deaths as severe weather puts damper on Fourth of July festivities NBC News Despite stormy weather, America marks 250 years of independence, in photos AP News 4th of July events canceled in Philadelphia area: Full list FOX",
+          "pubDate": "Sun, 05 Jul 2026 17:16:32 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "25 dead in ongoing heat wave as storms bring flood, wind threats to East Coast - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNandDLXBCQUVJdHVQQ3QxUzB2MVF6R3pDWWkyMXBxd3d3VHNvaTZjTDg4RzdFTG1wYnRvc2ZNR3locS1ZMkVWTUJMY2djbGo1ZldIdUJTNFZhQmt3dDZDRkZOU3R1OXJpZEV2M0JsU3F5Rmd1a0RJcjNpYUJsTWFHVmE3RXVvZGVJaGlLZWxvdjJxVUR4RzA5SHhMaTdGMGF0M0E?oc=5",
+          "description": "25 dead in ongoing heat wave as storms bring flood, wind threats to East Coast NBC News 25 suspected heat deaths in New Jersey from record-breaking July 4 weekend temps Yahoo At least 25 people die in US as record heatwave scorches swaths of country The Guardian Heat wave's deadly impact grows Axios Unbearable heat suspected in 19 New Jersey deaths as high temperatures give way to thunderstorms AP",
+          "pubDate": "Sun, 05 Jul 2026 18:42:54 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "nuovo",
+      "n_items": 10,
+      "n_sources": 7,
+      "category": "tech-ai",
+      "score": 76,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "Trump posta meme con Meloni, 'necessaria ordinanza restrittiva'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/05/trump-posta-meme-con-la-meloni-necessaria-ordinanza-restrittiva_5c7d2e10-a87e-4318-a0cb-3fec90a74812.html",
+          "description": "Sul social Truth il nuovo attacco del presidente Usa alla premier italiana. Calenda: 'Bullo da quattro soldi'",
+          "pubDate": "Sun, 5 Jul 2026 23:57:54 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Al vertice di Ankara nasce la Nato europea, incognita Trump",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/05/al-vertice-di-ankara-nasce-la-nato-europea-incognita-trump_455e12e9-40e3-4177-82a6-44151f571580.html",
+          "description": "I big del Vecchio mondo pronti a difendersi da Mosca. Focus sui piani per il 5%. Nuovo attacco del presidente Usa alla Meloni",
+          "pubDate": "Sun, 5 Jul 2026 23:39:49 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Zelensky, 'Mosca prepara un nuovo massiccio attacco prima del vertice Nato'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/05/zelensky-mosca-prepara-un-nuovo-massiccio-attacco-prima-del-vertice-nato_efe9cd94-b324-4380-9845-3237eb5f01d7.html",
+          "description": "Poi lancia un appello ai partner a non ritardare la fornitura di missili per la difesa",
+          "pubDate": "Sun, 5 Jul 2026 19:52:24 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "La storia di Bending Spoons: Ferrari e i tre amici, dal fallimento al Nasdaq - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbjVTaERaSnlhZWVzSTJzNlZDX050U2ZYWGxQbWY0cHNueUJ4aFVSVHY0THlTRmFjTW9wTTdiOWVwYlh6cFRVbjVCU0QxZElSN043X21JUENlMmNnUHlxQ252b0FDS181NGwwd25XQ1JEdjQ1NjN6bG95TVpvaXNqdVR1MlpIMlJhZy04MGpTeWVDN1IzbFpHemdGdTJ2cTNTMW1lZnVR?oc=5",
+          "description": "La storia di Bending Spoons: Ferrari e i tre amici, dal fallimento al Nasdaq Il Sole 24 ORE Luca Ferrari (Bending Spoons): \"Assumeremo 2mila talenti a Milano e abbiamo appena firmato per un nuovo ufficio\" MilanoToday Cosa fa Bending Spoons, l’impero italiano nato da un fallimento, conquista New York famigliacristiana.it Dove arriverà Bending Spoons? Nuove acquisizioni, uffici più grandi a Milano e",
+          "pubDate": "Sat, 04 Jul 2026 16:44:57 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Ita Airways, l'accordo tra azienda e sindacati sul nuovo contratto: dagli aumenti alle diarie, cosa cambia - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOUDRCM3ZFbkV2ZmYtdndrV1NEY3k3dmlDazFPYWFERDVXQzdDU1lQd3QtczN0enBVVmljbDNmNjVmeGs2djhiWkdNS0o1WmpQYWJiMlh3bGZHczh1WGtuVGVLY2RaZDZLRGFLSy01RERjN3BMY0paUVh2cWxSUzBwZ0E1TVgzUU82Vkx0WkctMXktSWlGalVWdWpQUUltZHhKTmVlYlhNNWhrSVRJZk41X29TUmo3bVFwWmtLemljbUxlNXpmY0QyZzRsczNlLXZwTjJrS21yMFpOVWJlRXUxRDhZRWc3TjFhX09KLTh3Q0IzWGJBZno1R1NoUC1oNDQxZTBfX2Y1a2VQV3loZ1JjVHppTGZ3V2V4alpZM2k0bDJFQUZJcG9DblVFX0VrTUhGQ0hUMXN4cm9kb2xHNTVXaUxjQ2QtQdIBywJBVV95cUxOeTEwcm9GNFh0ZDBiX0drWHk1S0lZVmdXUFBleC1DZEQ0Y2lGUVhVc0dwTm9CVFl6d281ell0T1JtX0FMQU9zb0dtTGlBR243WXl6aGNxb292VGJjUFZwU1JHTXZXTmFOR01CRkhNTTNOMTBIbTlwcHZETEw5NFNucTJWS0Zla09xLXN1NXVWT2gxWTdqcjJjYWVfX0tzVW5odkdmR2d5OGhtWVlmbkhmOGptdHJyRm1vNTllYlliWTZZaTB1d1RCX2g5TVVUVm5zVHJPeUZKaVduc3BtUHh3dFNjcXFsWWtNT1B4b3RkTjZ5QVFLZFYtN1E0NlIyZVZnVG5EaURISU9UM3JTNW1aTHhQMEo2RWhsb0RoS2lqN0hHMjJxSHU1bzJvbDZKU29NWUNrZzZDYmtpcXA3VExRYmxjWFI0bTNDQTBv?oc=5",
+          "description": "Ita Airways, l'accordo tra azienda e sindacati sul nuovo contratto: dagli aumenti alle diarie, cosa cambia Corriere della Sera Sindacati, sottoscritta ipotesi rinnovo sezione vettori ccnl trasporto aereo uil trasporti Trasporti. Rinnovo contratti Vettori e ITA Airways, Mascia (Fit-Cisl): «Riconosciuto il valore delle persone» CISL - Confederazione Italiana Sindacati Lavoratori Accordo su contratto",
+          "pubDate": "Sat, 04 Jul 2026 13:38:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "iran",
+      "n_items": 10,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 66,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Funerale Khamenei, Ghalibaf: «Oggi gli invincibili iraniani gridano vendetta» - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYzhnOFdwUWE3LVl6d0p1SURBanZPanhIOUctQmxwUndXOGdFRjFkSWJTZXZKRGdHckp4X3VfbENFWmc2bEVRWVhiN0xEbkFET2MxaVU0bktLS2ZYMXRweE5famdjZ2FJYmdyWVcxcW5sa1RSY3kxdDFqb2lZY3ZMWXFMUlpndzRWc1lzbHYzZXJ2YWhVQzdtdllzS01iMW51eVJicHRQb3BTVUZx?oc=5",
+          "description": "Funerale Khamenei, Ghalibaf: «Oggi gli invincibili iraniani gridano vendetta» Il Sole 24 ORE «Il funerale del secolo» e il regime senza volto: l'Iran celebra Khamenei, ma Mojtaba ancora non c'è Corriere della Sera Terzo giorno di funerali per Ali Khamenei, il lutto e la rabbia - Pericolo di vita per il medico palestinese Abu Safiya, picchiato nelle carceri israeliane RaiNews Ghalibaf, 'oggi gli in",
+          "pubDate": "Sun, 05 Jul 2026 17:02:01 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Usa-Iran, le notizie in diretta | Le notizie del 5 luglio - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSFhSTFkxWVZieEJJMFlTQzlGOHdvZ0ozdTlIQ3VKMEcyTXRfMGpEbldtcDdMRHprdzFVUXdzU2RnM0Y4VF9uOVJXOWV6M3VaU3FQWE1NemFWYmt0ZTVlSXNZeGwtRFVkQ3FNbjI2YVJsNDZ2eG96bjlBbVh3YXU2ZnBPMUlVQ0ljak41RlpNVQ?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Le notizie del 5 luglio Corriere della Sera Mariano Giustino, ospite di Radio inBlu2000 nella trasmissione Mattino inBlu per parlare dello stallo dei colloqui tra Usa e Iran. Il canto delle donne inquieta ayatollah Radio Radicale Colloqui Iran-Usa l'11/7 in Pakistan RaiNews Suez, Malacca, Bosforo. A quali Stretti guardano Iran e Oman per le tariffe a Hormuz",
+          "pubDate": "Sun, 05 Jul 2026 19:26:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "'Trump vuole contattare Putin dopo l'incontro di Ankara con Zelensky' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYno2R0VBd2dZbjNnLWJJYkxtRnhrSEhGS09IVnJuRTNXdlg5dWl0S1hoVDRfZWxuX3FqcnVKanlvQWZjRkhNRXJ6ckVJbkdsXzFSS19zNHJveWZ4Nzg4azRoUTBqRjZoamtuRFFRdzZGZzd6bHFxVW9mWWRScHNKTUJpOEE3ODRpa2E4M1A0QjktbTQ3RDBLOGVWMkN4Z2laZXVjaDgyWFFjeG1uMmQxMmRxZl9xbnV6N3FVc3N3d3B6cHhjRjdBWnhrRHI4UzNFSnhUN1dWdEdkVmN2cm5VUndFMHdXYm5qR1F3MEJtMW5mUQ?oc=5",
+          "description": "'Trump vuole contattare Putin dopo l'incontro di Ankara con Zelensky' ANSA Telefonata Trump-Putin di 90 minuti: focus su Ucraina e Iran AGI Guerra Russia Ucraina, Putin a Trump: \"Disponibili a soluzione diplomatica per il conflitto\" Tgcom24 Guerra Ucraina, telefonata Trump-Putin, Cremlino: molto costruttiva. Zelensky: chiede armi TGLA7 I 250 anni degli Usa, da Xi a Putin gli auguri tra telefonate ",
+          "pubDate": "Sun, 05 Jul 2026 21:08:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Khamenei's other sons appear at his funeral in Iran as new supreme leader remains in hiding - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUE5NamRIbmZzSWZkQTVwWFNYMWpfaXZqOGFGazlaY1hiVTRFcG10allHSlUzSXZ5aEVzcVBmS0IzZFBrXy1lSTR6cGZYSnNhVFNkZEMxQ0NHbW5FZkdPR1UwcHNnNEVmQVlNM1haaDA1LXBiTlZKNWRxTHlMU294alVJNzhWTHVYams0RkpjUmJoLTJKVTZjWUpnQU9wRVpGRWJJa3gwUzdQd1VlY2hQeDZObUwtUQ?oc=5",
+          "description": "Khamenei's other sons appear at his funeral in Iran as new supreme leader remains in hiding AP News Exhausted by Iran War, Tehran Transforms for Khamenei’s Funeral The New York Times Iran begins a procession through Tehran for Supreme Leader Ayatollah Ali Khamenei's funeral AP News Three sons of Iran's slain leader Khamenei appear at funeral, not his successor CNBC Iran war live: Tehran prepares f",
+          "pubDate": "Sun, 05 Jul 2026 21:04:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Iran, il giorno del dolore dei figli di Khamenei, Mojtaba non c'è",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/05/teheran-al-via-il-secondo-giorno-della-cerimonia-di-commiato-per-ali-khamenei_c9ca7f30-64d9-49ce-8f60-4afb163349b9.html",
+          "description": "Ayatollah Shirazi, 'punire i responsabili'. Appelli all'uccisione di Trump tra la folla",
+          "pubDate": "Sun, 5 Jul 2026 19:52:31 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "more",
+      "n_items": 12,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 66,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Voters are Sounding More and More Like Trump on Birthright Citizenship - The Bulwark",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQkhPTFMtdWc0cmxSMEh6RENUMzYwRjdkXzZJNXJiMjRQMWd0NW5lNGgzQ0pGUnBMZmhCSmZ3RmdwSmtWSGdSbnBDM1VuRGNrRzhZUUlDVGM5Q2dUVFVETDM1SVZNQ3U4aHRobmZuLUR1RUFVem5xZERlYlVkb3JLVTFGNmR1UHRITVVURUY0alk?oc=5",
+          "description": "Voters are Sounding More and More Like Trump on Birthright Citizenship The Bulwark Congress should restrict birthright citizenship, House speaker says USA Today These Justices Are Not Impartial The Atlantic Opinion | Roberts Gets the 14th Amendment Wrong WSJ A Narrowing Vision of America Washington Monthly",
+          "pubDate": "Sun, 05 Jul 2026 23:00:43 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Tackle workplace sickness to unlock hidden growth, former John Lewis boss says",
+          "link": "https://www.bbc.co.uk/news/articles/cq61j11r577o?at_medium=RSS&at_campaign=rss",
+          "description": "More than 250 of the UK's biggest employers have signed up to his 'Get Britain Working' taskforce.",
+          "pubDate": "Fri, 03 Jul 2026 09:50:56 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "What could new rights for unmarried couples mean for your money?",
+          "link": "https://www.bbc.co.uk/news/articles/cx2vx4dvgzno?at_medium=RSS&at_campaign=rss",
+          "description": "Co-habiting couples in England and Wales could be given more protections if they break up under new government proposals.",
+          "pubDate": "Sat, 04 Jul 2026 01:10:13 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "AI Helped Port A Native Version Of Command & Conquer: Generals Zero Hour To iPhone & iPad, Complete With Touch Controls And More - Wccftech",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZVZsckVhc0x1Mm9yN0pkQnB6RkxYZ3YwRW8yZWsyU2xPWnIwc1U1ak1mbEpqT05WSGNnZnlJbElEaXhtcklfd0FhU2ZLVHp4aFlkZ1VFVjUteDI3aWRQMUx0NEM4UTBJWnBZUEVaVENVTTdGelp3eVlPeDY5TUVRcU41Q2ROWEFHVnlsVDY0Z2RyR1VHWjZQTzBTb3MyR3VUSDFHddIBqgFBVV95cUxOc2JUVE1oYlFHV1JwNXZhZTctT19JTG5Vd0VEMmhlUVNOaUhBOWJuaXpDVFV1NXoxeHJqV2FhRVRCeXVocUs3SlJOTnBhY09LcEh1NHZUUDFnRXpKaFpOS3JMdjdFRnlvQS1XRVRaZmN1MjhZc1RsdFN1VkN2TVNGcGs3Z285bk11clV2MGhEVmFudEFpcWZYN0N3ZEVhRmt5Z25leGNSM183dw?oc=5",
+          "description": "AI Helped Port A Native Version Of Command & Conquer: Generals Zero Hour To iPhone & iPad, Complete With Touch Controls And More Wccftech Command & Conquer Generals lands on iOS / macOS - Thanks, AI! Korben Claude Code and Fable 5 ported the 2003 PC game Command & Conquer to native iOS in \"a few hours\" the-decoder.com Claude Fable 5 AI Helps Port Command & Conquer: Generals Zero Hour to iPhone, iP",
+          "pubDate": "Sun, 05 Jul 2026 12:21:06 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "The best 4th of July sales worth shopping right now: Save up to 70% on Apple, Yeti and more - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZHNMOUVodFVBRU1oX3hXWGtqYU5rYVRyOWt5dkhpaWxDV0tQRURBb1BkWXNlNVZRZUlfVXZyVFpWRjhHeWhzS25FczdIbmEzX2hrdm1rX3p3WnNmRU1JRnYwRWlQQVZJdHl4RzVwRkJRLU9rcGRDRXRQS1hVQXFNeFFUNHNOeExlazZqag?oc=5",
+          "description": "The best 4th of July sales worth shopping right now: Save up to 70% on Apple, Yeti and more NBC News Deals on AirPods, iPads, MacBooks and More: All the Best Apple July 4th Sales PCMag The best 4th of July sales still available on tech we love: Shop deals from Apple, Bose, Nintendo and more. Yahoo Tech Best 4th of July Apple deals: $89 AirTags, iPads up to $400 off, Macs up to $650 off AppleInside",
+          "pubDate": "Sun, 05 Jul 2026 16:29:56 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "europa",
+      "n_items": 9,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 60,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Operazione Medusa, 57 arresti in Europa: stupri pianificati online - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd1ZUTExtYUNmdXpyemdCOWV6Ul91UlFscFpSczFNcVBIZXAtbnpZb3RpRzZ2OENYMW5qMFE2Z3p4Y2duUUxjWFUzT3FpT3VlY20tdTAzZ1UxbFEzQW4yWktDeGtZYnlQeFF5Q04zUVA4ck1lVW5XSjF4VVlrYUVmV0pGOFFjeHdrZkVn?oc=5",
+          "description": "Operazione Medusa, 57 arresti in Europa: stupri pianificati online Sky TG24 «Organizzavano gli stupri di mogli e compagne»: 57 arresti. La maxi inchiesta sulla rete europea misogina Corriere della Sera Drogate e violentate dai compagni, la rete online sgominata da Europol ANSA Scoperta una rete di stupratori internazionali, 150 le vittime AGI Drogate e violentate: scoperta rete europea di uomini c",
+          "pubDate": "Sun, 05 Jul 2026 17:15:34 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Turismo, l’Italia regina d’Europa anche d’estate: quali sono le località più visitate. Meloni: \"Premiata bellezza della nazione e qualità dell'offerta\" - il Giornale",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNHgtWU1UdVdUNVpZOW9tNi1ZMHg1T0JMTEs0Q3NGeE9XYm9mT0tKenVxMDdBZHZRRENtdXNNR2doZ2hmRHBweGx4ZzFGNnp3SXNkQU1ZRHFGREJJb2lzYy1PZnpKNzRTTm5mWjJzYjhlalIxWjJRbEdyT3NzQnByV1lyYWVxT09Ga3BoMjZKUTFwT0xwcWcwQVZxeGd2Y3F1cHhXTERKNXB0RTNmejlsTmR3?oc=5",
+          "description": "Turismo, l’Italia regina d’Europa anche d’estate: quali sono le località più visitate. Meloni: \"Premiata bellezza della nazione e qualità dell'offerta\" il Giornale L'Italia al top del turismo in Europa anche in estate ANSA Notizie dalla Giunta regione.fvg.it Turismo, Meloni: premiata bellezza Italia RaiNews Turismo, italiani in crescita (+1,5%) e più arrivi dall’Europa Il Sole 24 ORE",
+          "pubDate": "Sun, 05 Jul 2026 14:13:57 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Pianificavano online gli stupri alle mogli, 57 arresti di Europol in vari Paesi - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMUNhVW94TEFiOVM3Yy1hTWlEaFF3UXZDb3ljUVhJZ0pselUyMEdua0xMRUU5WlFnMHItS1QyZ0dFQ1YwSlRWWVFHMEQ4MDdoUFM1REhBUVI3Zzl6Qjg0RFQ0Um5FVHg0UXZzNGN3OXFVTldTTTNDYy1mdWoyUjlSWkZEVWhlX2hFX0tsc1FBcE1GZjl6akhkc0t2UmtaQThqR3U1N1NVeTN5eEV4cmZ5aDhob3RqTW5LWlZCc1pxcGdhdEZiTjJ2a2NvVGp1bVNyR0x4cWZsaXVtQnU0X2RjLVZtZzFNQXREZ2FydFNoWTlTT3lZX3VyYm5QNGttOHV1TlE?oc=5",
+          "description": "Pianificavano online gli stupri alle mogli, 57 arresti di Europol in vari Paesi ANSA «Organizzavano gli stupri di mogli e compagne»: 57 arresti. La maxi inchiesta sulla rete europea misogina Corriere della Sera Drogate e violentate dai compagni, la rete online sgominata da Europol ANSA Scoperta una rete di stupratori internazionali, 150 le vittime AGI Operazione Medusa, 57 arresti in Europa: stupr",
+          "pubDate": "Sun, 05 Jul 2026 17:50:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Pasini: “Gli anticicloni africani sono l’impronta delcambiamento climatico. La politica ascolti la scienza” - Bergamonews",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZHVMZ0szb25vTFJZV1NLSFNjUmpYakE1Qkw5MFdKTjJuR2gwbzdXa2s1S1V6aTFId0dSSDJxLWYzRmNJRVVYeEdqWmwzcUxlYV9SOU5vQkZEMXF0dmRGWk5RdUZRS1YzX2RxNVJpV0EwTW90R2E3T1JxRzhmdWVVM0MxcWV3VTF2T0RNblZ5MmRIdDJlMnMzY0VSREd1US1INjc2TDJxU0UteThaMDhMaGZzZU5WVDZjUEpnbEcta19kMVhfWGxiX21jWmZWWDZUSlRZZ0JhWVU2a0dKYWRnODJjdw?oc=5",
+          "description": "Pasini: “Gli anticicloni africani sono l’impronta delcambiamento climatico. La politica ascolti la scienza” Bergamonews Caldo. Kluge (Oms Europa): “Le attuali ondate di calore sono una prova generale. Le estati future saranno ancora più difficili” Quotidiano Sanità Fino a 44ºC in Spagna, attesa allerta rossa in più regioni Euronews.com Caldo record, raddoppiano le morti di animali durante il trasp",
+          "pubDate": "Sun, 05 Jul 2026 03:58:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Elettricità, Arera rilancia le tariffe zonali: cosa cambia - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX3RZbGVkeG5lTGpxdTlkY2dtTXJlOWxYNE9rSTJBU3BELVVGQTFvaFM4MmlQSnhJc2pQZExSZklHME1ieTRCVndqSzJQLUM5cFFzc2FuYmR2NzhsNmxUTGw0Tkdjdzk0Z3ZQbXdEekVUb3NTU1hXbDJxMTVjWVpGLW1BemFoZUkwdGdJTE83R2w1Y0JNeENOTDc0TQ?oc=5",
+          "description": "Elettricità, Arera rilancia le tariffe zonali: cosa cambia Sky TG24 Imprese, bollette su del 12,2%. «Emergenza competitività» L'Arena Veneto seconda regione più cara per l'energia ANSA Bollette, Arera: nel mercato libero prezzi più alti della maggior tutela Il Sole 24 ORE Perchè le bollette in Italia sono le più care in Europa? Tabarelli risponde al TgLa7 TGLA7",
+          "pubDate": "Sat, 04 Jul 2026 05:14:31 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "what",
+      "n_items": 9,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 51,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Trump says he overruled plan to cancel Mall celebration amid weather evacuations - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUWJGWWZhSnpGanNxWjVQTjVKNUdaYTd0WFNxbExYV0RsMnBleGlZZHJEUjVFclhaUV9jcjd2VllkQVlLTUgzMGViV2ZiN3NLRzhfYkVaMXo1UldmVi03MDlicF9WWUZ5SDhKaFROVWs0WnBuZG1lSzU5Y1MxVW1NY0t1dzM4STRzSk9yUkpWbkotSktRSnNNeEd3VUs3aHoyX3RKWWxSc0ljOEtDRTRnTmNHRHpMa05sWVJhVFZSUUZSLTV2TEhn?oc=5",
+          "description": "Trump says he overruled plan to cancel Mall celebration amid weather evacuations The Washington Post National Mall to reopen after weather evacuation at July 4 celebrations WUSA9 In Fourth of July Speech, Trump Celebrates America and Derides Foes The New York Times What Trump’s July 4 Speech Revealed The Atlantic WATCH: Trump delivers keynote address at 'Salute to America 250' event on the Nationa",
+          "pubDate": "Mon, 06 Jul 2026 03:55:03 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "How Iran's new regime is very different to what came before",
+          "link": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
+          "description": "Khamenei's funeral is another reminder of the change Iran has seen, but what does its new leadership want?",
+          "pubDate": "Sun, 05 Jul 2026 05:40:07 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Wegovy weight loss pill now available in UK - here's what you need to know",
+          "link": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo?at_medium=RSS&at_campaign=rss",
+          "description": "The once-a-day pill, from the makers of the Wegovy weight-loss jab, can now be bought privately in UK pharmacies.",
+          "pubDate": "Mon, 06 Jul 2026 00:06:42 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "What Sky buying ITV could mean for your favourite shows",
+          "link": "https://www.bbc.co.uk/news/articles/c04yx44xq19o?at_medium=RSS&at_campaign=rss",
+          "description": "An announcement is expected imminently on Sky buying ITV's TV and streaming channels.",
+          "pubDate": "Sat, 04 Jul 2026 23:23:51 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "What could new rights for unmarried couples mean for your money?",
+          "link": "https://www.bbc.co.uk/news/articles/cx2vx4dvgzno?at_medium=RSS&at_campaign=rss",
+          "description": "Co-habiting couples in England and Wales could be given more protections if they break up under new government proposals.",
+          "pubDate": "Sat, 04 Jul 2026 01:10:13 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "online",
+      "n_items": 7,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 48,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Operazione Medusa, 57 arresti in Europa: stupri pianificati online - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd1ZUTExtYUNmdXpyemdCOWV6Ul91UlFscFpSczFNcVBIZXAtbnpZb3RpRzZ2OENYMW5qMFE2Z3p4Y2duUUxjWFUzT3FpT3VlY20tdTAzZ1UxbFEzQW4yWktDeGtZYnlQeFF5Q04zUVA4ck1lVW5XSjF4VVlrYUVmV0pGOFFjeHdrZkVn?oc=5",
+          "description": "Operazione Medusa, 57 arresti in Europa: stupri pianificati online Sky TG24 «Organizzavano gli stupri di mogli e compagne»: 57 arresti. La maxi inchiesta sulla rete europea misogina Corriere della Sera Drogate e violentate dai compagni, la rete online sgominata da Europol ANSA Scoperta una rete di stupratori internazionali, 150 le vittime AGI Drogate e violentate: scoperta rete europea di uomini c",
+          "pubDate": "Sun, 05 Jul 2026 17:15:34 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Pianificavano online gli stupri alle mogli, 57 arresti di Europol in vari Paesi - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMUNhVW94TEFiOVM3Yy1hTWlEaFF3UXZDb3ljUVhJZ0pselUyMEdua0xMRUU5WlFnMHItS1QyZ0dFQ1YwSlRWWVFHMEQ4MDdoUFM1REhBUVI3Zzl6Qjg0RFQ0Um5FVHg0UXZzNGN3OXFVTldTTTNDYy1mdWoyUjlSWkZEVWhlX2hFX0tsc1FBcE1GZjl6akhkc0t2UmtaQThqR3U1N1NVeTN5eEV4cmZ5aDhob3RqTW5LWlZCc1pxcGdhdEZiTjJ2a2NvVGp1bVNyR0x4cWZsaXVtQnU0X2RjLVZtZzFNQXREZ2FydFNoWTlTT3lZX3VyYm5QNGttOHV1TlE?oc=5",
+          "description": "Pianificavano online gli stupri alle mogli, 57 arresti di Europol in vari Paesi ANSA «Organizzavano gli stupri di mogli e compagne»: 57 arresti. La maxi inchiesta sulla rete europea misogina Corriere della Sera Drogate e violentate dai compagni, la rete online sgominata da Europol ANSA Scoperta una rete di stupratori internazionali, 150 le vittime AGI Operazione Medusa, 57 arresti in Europa: stupr",
+          "pubDate": "Sun, 05 Jul 2026 17:50:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Drogate e violentate dai compagni, la rete online sgominata da Europol",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/05/pianificavano-online-gli-stupri-alle-mogli-57-arresti-in-vari-paesi-europei_261921a8-7b67-46f6-847b-ce2936457405.html",
+          "description": "Indagini in sette Paesi, 57 arresti: è il progetto 'Medusa'. 'Non sono casi isolati'",
+          "pubDate": "Sun, 5 Jul 2026 21:09:31 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Pianificavano online gli stupri alle mogli, 57 arresti di Europol in vari Paesi",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/05/pianificavano-online-gli-stupri-alle-mogli-57-arresti-di-europol-in-vari-paesi_f2c6721a-2e18-4d41-a85a-8abf677cce19.html",
+          "description": "Rete internazionale per drogare e violentare donne, indagine con nome Medusa",
+          "pubDate": "Sun, 5 Jul 2026 19:51:04 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "L’offerta di UniCredit per comprare Commerzbank entra nella fase decisiva - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY2hLTGlmZ211eEhvUzlYUHZwcVp1b3RrYUJxX0h5eWhyZHhUYUx0d0lNbzVxa2xWblp5SUxrRHlkZVhkQVVlUzdpczNfeVN1aWJaVU9rUWh2blNDWFI0b1ozQlpWOXJnZjRxX0F3X0UtcnpwRkl3WUZlSlV2SVh3MkRB?oc=5",
+          "description": "L’offerta di UniCredit per comprare Commerzbank entra nella fase decisiva Il Post L’Ops si è chiusa, Unicredit verso il controllo di Commerzbank per cambiare il vertice la Repubblica Unicredit verso il controllo di Commerzbank: si chiude l'offerta. Tra Giorgetti e Orcel è disgelo su Banco Bpm firstonline.info Commerz, offerta al traguardo. Unicredit a un passo dal controllo Quotidiano Nazionale Un",
+          "pubDate": "Sat, 04 Jul 2026 07:05:18 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "rischio",
+      "n_items": 9,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 42,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Lavoro, se l'intelligenza artificiale accorcia la settimana: fino a un giorno in meno in ufficio - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQaC1rd0x2dzJjeDBXelBPR0ZidXVMUHF5a1RpZ2phOVR3cE9DLWZ1VVJESmpUSDZRTXpuUGstMXpGV0o4Y3pYUXRKVWdtTkQwMk83U1p5bzlhTU9tYmFhS0lCLUJidVI4LV9EQUROUDB6b0NldWl4cUNPR2t2UjRuUG16Q2hOZF8zRF82X1ljWHVTVElfTWFPUnpZMER4NEFyeHpBcHJfSmlzSlNock5NLXBQakRGTXNyRjBVYXpRLVlHdnVuOVJBd2pqeTlXOWZnWUc5WW9HSFZ0OFV4bmNNeHUwLUROVFpZWXlvdzVYNzFGRHFpMmpzSTdZZzhvY0RhV1hrYXFVUHUtQUc2V2U3ZE9IaUFmSF9Bd0ZGNDI3d3HSAaYCQVVfeXFMTnlzWU5GV3JRaWZaRy1RWTlXSjFfTzd1ckdiNUpYY3prTkwzdm1IZ1VVOTVpRklpT2RKZjk5NzhlYnBOc1dIWFk1dmRLZXQ3cThxc0pHZ042YVNSMDFzTDMzX0hHVmJ6aFRwOEh5VVNKUndTaEtPNldiRzhVbFZ6bmNlWnctMERNQWVXWXUxZS1CYkMzU2staE9qdUNYVFo3eVJNSGZfV3VJRF9HUWY5QmNMb1p4N3RKTmdDUHpVQi1mbTVFUURGeWo5TDllVmY2LWFuVXZKa3JfZGIzTDZRRkdLaEMxdHNvMEVIUXg2SDRoLTlTQnZaOGxEcjhnN0dfWEQzakVnTTBKdVREZTNyYmRwclJRT1lxbDRiTlJRSVd4aEFLTXp3?oc=5",
+          "description": "Lavoro, se l'intelligenza artificiale accorcia la settimana: fino a un giorno in meno in ufficio Corriere della Sera Dopo la scuola: OpenAI ha svelato i lavori a rischio per l'IA Virgilio Sapere Lavoro, arriva l'era dell'IA: le professioni che possono sparire e quelle che nessun algoritmo batterà L'Arena Tecnologia e crescita, l’Italia non resti esclusa dalla sfida dell’Ia: ecco perché non si può ",
+          "pubDate": "Sun, 05 Jul 2026 12:04:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Rimborsi Irpef 730, primi accrediti a luglio: ecco per chi. Ma i pensionati dovranno attendere agosto - Il Messaggero",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcFJHTk1LY1drb2VtVU5BQy1sa05mSHpWRnU4LW9sQ0ZzenB5WDVhbVd3M2pmbDlTampBUzZqanVOVDhWdVRESTl1UW5WZkhtVm9OY1NIM181eGFJTGVWaXdpby1tY2h1Z2lxaWpmT2xhV0t6RndxSmFfWnBZY2dFYkotZTI3UURCOXRPWnhZeFBOVWxKYjZUOTBMbVBOOXRUOWlleGZ5OG03UFE1QUxnbHRMNllhZzYtQl93bFhVQllucnZ4amc?oc=5",
+          "description": "Rimborsi Irpef 730, primi accrediti a luglio: ecco per chi. Ma i pensionati dovranno attendere agosto Il Messaggero Pensioni, al via i conguagli fiscali Inps 2026: nuovi importi da agosto CreditNews Rimborsi 730/2026: Rischio slittamento al 2027 per controlli Agenzia Entrate MySolution 730/2026: quali contribuenti riceveranno il rimborso a luglio QuotidianoPiù Rimborsi Irpef 730, a luglio 2026 i p",
+          "pubDate": "Sun, 05 Jul 2026 23:26:39 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'allarme dei big, 'rischio estinzione con l'IA, è come le pandemie'",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/lallarme-dei-big-rischio-estinzione-con-ia-e-come-pandemie_3afde5e5-7bcf-464e-b3aa-aee6577a9b23.html",
+          "description": "Nyt riporta lettera di 350 leader industria, anche ceo OpenAI",
+          "pubDate": "Tue, 30 May 2023 14:12:41 +0200"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Zanzare e malattie: come difendersi e cosa fare a casa e prima di mettersi in viaggio - La Stampa",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSks4ZGdULWxlU1hyWmZ0TWpMOENPd1lmNDRGU2hDVUJ0UWlhSFNvZjNaZ1JFNVdabzVQd08zUmg4NlZ4NXhScm1xSEpQRXdDN2tQdDJmbHljS1RxY0F3dGZTcndob3BoSkppM3dGSFpHUW8wOF84anV0ejh3YUlTLXFkVEQyZl9YUWo1X19iVFU3RWtzbFFTeUlTN2RHaEdiU0dtaFNMN0M3MXlCZ25R0gG0AUFVX3lxTFBKZWZsamZabmdxekw2RzlKYlA1U2J5UHFQT2VuY05Jd3c4c3FhUlNrVTVrQW1HU3N4VGNYVmVhN2dwNFdQTFlWTk9iMEdRSDRlcGhHRkJXamdKSU91ZzBGMU1zNlZDQmI3X1VXQmk3MzhlM3YyWmFCRF9KQlA3LXNxdHYzQ3pjeTJLZ2p6c0lpX0JDQVN3eExUUFlpejFSYmFaN0thNGphVUQ2M196RXZXZTM2WQ?oc=5",
+          "description": "Zanzare e malattie: come difendersi e cosa fare a casa e prima di mettersi in viaggio La Stampa Anche se sembrano meno, non abbassate la guardia Ticinonline Trappole e larvici nei tombini e nelle pozze d'acqua: 2,5 milioni di euro per combattere le zanzare RaiNews Zanzare - ordinanza per prevenire la proliferazione e ridurre il rischio sanitario Comune di Cormano Punture di zanzara, micosi, cistit",
+          "pubDate": "Sat, 04 Jul 2026 11:28:00 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Oltre 100 casi e 49 ricoverati, è allarme salmonella: la causa potrebbero essere noodles al pollo - La Nuova Sardegna",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObFR4Z05CWXROaHVqTHh0RDd5bXNVZk5ZWHNoNkZrVjhuMkNuRGNvbjY2S0xOM1hESkt6VWpxa0hVM21Kcl9oSXZiZzhod21DYWRVSXZIdlkzN0dlX0FacEFuMGpHVDZhYVhwcmtwUHVGT1BpYThPSVhwbXZOcURHOF9ibHBzdzNBb3BKV25PTUVibWJfMktmN2dIOC12SDFxaEpMVE5IMElVZEloa21kNWQ2RTNXcVRPeldoR2hYSWJjeE9reEhGY2kwZGl0SVJOeUoxdklCbTE4R0twTU5zdkhnNTYzNmdLT3FkZHZpQ3FfS0E5?oc=5",
+          "description": "Oltre 100 casi e 49 ricoverati, è allarme salmonella: la causa potrebbero essere noodles al pollo La Nuova Sardegna Salmonella Stanley. Noodles aromatizzati probabile origine del focolaio europeo, segnalati 106 casi in 14 Paesi tra Ue e Regno Unito Quotidiano Sanità \"C'è il rischio di nuovi contagi, le confezioni sono ancora nelle case\". Allarme in Europa per un'epidemia di salmonella causata da n",
+          "pubDate": "Sat, 04 Jul 2026 17:44:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "primo",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Al via i saldi estivi: prevista una spesa media per le famiglie di 200 euro - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQ0x1WGw4TVlrQXFUY0oyeFpwVTJMUThGbkVIY2RjdXFRdWMtNUZsQlNvb3FXQW92dll0aHpfLVlUdzVaRG9Bb2duQ2RKV3V4dUV4dUVST25JTXJaaHlBV0hsc2h4d2hjcTBUNndNQnJHNXBCdm5qV0hQREhXblVVZDViSWxRaV9HUFh2WWxGT2NlVTFHRVdHMmRBUWkyU0dDWll0X3FvMlRVdXNtWjhMN2cwQmFQRUswcWNkd2RBa2FnYUZDSXI0N1hISzA2d3hIXzBNWTJ1UkVIQ3E1TlhNSWlUeGU2RE1kZ0UwZ1VZUGdjRFdGdWlWOXg4ejjSAYICQVVfeXFMUEZLMi0xWWJCcmgyM3BlQXNuRXJSZzJsbjhYbkU4VTVKd3VGaXFzeWJFQnBaNmJQdGxEX2VteVNRR24yLXpuX1dMazcxVVU4UlZTcm1FVmdEalQ1bUVKWmVCYUlNdW5adWZicTFMZFlHaXN0MUF4VFFBVmprREhsWE5ia0Rrcjd1dXR1QWhxNXFVRXBYa1NQeTJSNG5hWUtnM2o0LXowREVHLVZGNDlRclpBQlczQVdHSFlZZlpRdEhudi0ySlJtdDRJcUk0SUdVRnlCZ1N2Y3V1X2R4S2VXUm4zU0RabU9RbjdrZm1sWGxNd2dsZXFmOWQyalp5NTV2TlVR?oc=5",
+          "description": "Al via i saldi estivi: prevista una spesa media per le famiglie di 200 euro RaiNews Buona la partenza dei saldi, incremento del 3% nel primo giorno rispetto al 2025 ANSA Saldi: Federmoda, con +3% buona partenza, forte presenza di stranieri Il Sole 24 ORE Saldi, Stanga: «Bene la mattinata poi l’afa ha preso il sopravvento» La Provincia di Cremona L'influencer della moda: «I saldi vanno posticipati,",
+          "pubDate": "Sun, 05 Jul 2026 05:24:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Buona la partenza dei saldi, incremento del 3% nel primo giorno rispetto al 2025",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/05/federmoda-buona-la-partenza-dei-saldi-incremento-del-3_0df45ecf-a685-4e9d-b299-034ff44a1a7a.html",
+          "description": "Federmoda: 'Quadro incoraggiante per il commercio'",
+          "pubDate": "Sun, 5 Jul 2026 12:17:03 +0200"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Dengue, primo caso dell'estate a Selvazzano Dentro: l'uomo è in convalescenza - Il Gazzettino",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ0tmOXdzTHd2RGNLQWJYSzY2T0dmVEQ4VFl2NGFKYUREZ1Y3ODlhUFpxYXozbjBPVnlIem80OUdRM0d0RFhKQllfdkc5LXdOM2NTR1lHaHRGT2lDX0dtUXVYOHhmbUk4aGs4TUFBQTZIQXNsbFRZcVQ1YXh1UlVDU0JrMlBvMGlBQzF0WjFpR3hHdVk3N2c?oc=5",
+          "description": "Dengue, primo caso dell'estate a Selvazzano Dentro: l'uomo è in convalescenza Il Gazzettino Salute: primo caso di Dengue nel padovano ANSA SELVAZZANO | Segnalato un caso di dengue: scatta la disinfestazione straordinaria TgPadova Caso di Dengue a Selvazzano Dentro, scatta la disinfestazione nell'area RaiNews Primo caso di dengue nel Padovano, disinfestazione attivata dall’Ulss: paziente in quarant",
+          "pubDate": "Sat, 04 Jul 2026 09:52:24 GMT"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Messina, si è insediato il Consiglio comunale: Massimiliano Minutoli è il nuovo presidente. Bagarre in aula per l'elezione dei vicepresidenti FOTO | VIDEO - Gazzetta del Sud",
+          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNZm9kV0sxQ25SMVdoVXRyN3ZabU95aVdUTllmMUZrME0wNTF2OHpmVW95eEhvaVpubDdNbGUxWUV6Y0RjNUhiYV9ibTZaR3FOdGF0TTBtUE16NlczWDFMQWFWQ3luWHRNUjBpa1VaaFJrWHM5M18xeEowUFplQzY2RjJ2R2IxSmw2TUFNdXNWUlpwaEFYbkI4S2J4TXRyMGhFeEdtSU5ES3M5RUZNdU1aX1huUmpaa3FfNnlLX1k1TTI1d3lldVBGZGdXUWVrRnNEZ0RzWXBCNGlJUTJnQzg0bVhiMmZBUmtGcS1DVzlXNkpVY255VU9ZZUhKU2ctNWlPNUo0TGF4elZHUGtMbzJ0djVfX2tPWlZiSW5CZ1hDVk5pRzQ3eHBiQQ?oc=5",
+          "description": "Messina, si è insediato il Consiglio comunale: Massimiliano Minutoli è il nuovo presidente. Bagarre in aula per l'elezione dei vicepresidenti FOTO | VIDEO Gazzetta del Sud Lotta alla mafia, Libera chiede atti concreti a Consiglio e Giunta Tempostretto Messina, le prime parole di Massimiliano Minutoli: \"Sarò il presidente di tutti\" Gazzetta del Sud Primo Consiglio comunale, il 9 luglio l'insediamen",
+          "pubDate": "Sun, 05 Jul 2026 12:04:00 GMT"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Turismo, Calabria regina degli arrivi nel primo semestre del 2026 (+11%). Il ministro: «È boom» · ilvibonese.it - Il Vibonese",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWkxOZVNfZ18wLXAtWVBvN0RjMnZPV3c2ZWplQ2RIZWtIUXctNDIwdU5XQk5ZUldEWXV4enhmUnZ6OWxqUEFFX21JeWstTW55VFZCaVRoR3kyNi1NSlpybTVQLTgtajRtTDl6Q0Fra1hocjUweVJrSnRjMmdEZXRMSjQ5SWlYSHRaeDhTMWN1RGFQZzJDMGdpV1Z5cW9DcWh1UTNhdUotdmJGT2J4WXJRSVNiYU03SXlUbVpoaG5Cb3QzUm9femRNX2VSd1VOZnY5ZDRfeHJn0gHbAUFVX3lxTE5GUXltT1VrNzJmZHBUSk1SNnh0ZFNKUDFidnBYZUJkMkZIMnNXTm9aU1l5UFRiU3JjRlpUaDgySkU1RWFJNXRxUk0wNTlxc1Q0RExCc0ViNnlORXM1anU4RHg1anNaTWRJR2JSeWU0MEpZejIxVWhUd2ZWUDlkSHIxMTRGYmZJUlBMaDVHaXJXcGxYMGplWEM2M2NjQldpb0g4UVJXZ2J1MFFyUzByaHBMQ1RnZ3BPMEVnajVLejV6R0JQdFUwOWtadXozTHZoLVlhbk82UDA5S3Q1bw?oc=5",
+          "description": "Turismo, Calabria regina degli arrivi nel primo semestre del 2026 (+11%). Il ministro: «È boom» · ilvibonese.it Il Vibonese Simona Meloni, Umbria destinazione sempre più riconoscibile, attrattiva e iconica ANSA Turismo, è record in Piemonte. Cresce (+9%) più che in Puglia Corriere Torino Turismo in Italia in crescita nel primo semestre 2026 RaiNews Dati Viminale, Calabria prima in Italia per cresc",
+          "pubDate": "Sun, 05 Jul 2026 10:12:38 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "meloni",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump oltre ogni limite contro Meloni: «Serve un ordine restrittivo» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcFQ0OUR5aWd4aGZCcjhjMjdCRUVCcjJrOHlSSTBHSHplQndZVXRya29ONGZvUE5CWXFpNFdETENKOE0zbWpGME9wMDJManAtQXduWG9CeE1aNm9kV2RXaTY1YmZOZzBZS3k3WC1BbHdkRjZHclVuRm1lUnppbm8zRmNLY3o0aTc3cDVCNktfRGxmMHlZdkJFTmVEOUNXTFZGeTZGT3ByQlpNR1dyOTk0NmtLdHNpUERuTTBRbWNtdGJzcHd1RkxjcC1mbDVjbU440gHWAUFVX3lxTFBhb1JFUTlVam4wcGZ6bHdWNmN6aHpPb0g3WThIaWVBN1hTVVZmYjc5OWhVV2FxRWgxYUhQd3FkejN2LXRxcmR5ZFJmd2s2aUY5REpWT0NZbXBFZGd3OTA5SkRiMkpMWjVLWDZ5UTdScG1Yc3VtNWNmYUhDWERLc0N5U3dvcW1oRmd4SmowX2pUNno2Skd3VGRYei0zVkVhUVZTbnp5d0R0ZUdmX2Y1ZlpkMW9WaWFKZmI2TzFvcjU0VzBfQkZRYlZtRDN3U3Z1Z1ZFbGNZNkE?oc=5",
+          "description": "Trump oltre ogni limite contro Meloni: «Serve un ordine restrittivo» Corriere della Sera Trump posta meme con Meloni, 'necessaria ordinanza restrittiva' ANSA L'ultimo schiaffo di Trump: \"Per Meloni serve un ordine restrittivo\" RaiNews Trump attacca Meloni con un meme social alla vigilia del vertice Nato Sky TG24 Trump, un altro attacco per offendere Meloni “Serve ordine restrittivo” la Repubblica",
+          "pubDate": "Mon, 06 Jul 2026 00:47:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Turismo, l’Italia regina d’Europa anche d’estate: quali sono le località più visitate. Meloni: \"Premiata bellezza della nazione e qualità dell'offerta\" - il Giornale",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNHgtWU1UdVdUNVpZOW9tNi1ZMHg1T0JMTEs0Q3NGeE9XYm9mT0tKenVxMDdBZHZRRENtdXNNR2doZ2hmRHBweGx4ZzFGNnp3SXNkQU1ZRHFGREJJb2lzYy1PZnpKNzRTTm5mWjJzYjhlalIxWjJRbEdyT3NzQnByV1lyYWVxT09Ga3BoMjZKUTFwT0xwcWcwQVZxeGd2Y3F1cHhXTERKNXB0RTNmejlsTmR3?oc=5",
+          "description": "Turismo, l’Italia regina d’Europa anche d’estate: quali sono le località più visitate. Meloni: \"Premiata bellezza della nazione e qualità dell'offerta\" il Giornale L'Italia al top del turismo in Europa anche in estate ANSA Notizie dalla Giunta regione.fvg.it Turismo, Meloni: premiata bellezza Italia RaiNews Turismo, italiani in crescita (+1,5%) e più arrivi dall’Europa Il Sole 24 ORE",
+          "pubDate": "Sun, 05 Jul 2026 14:13:57 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Trump posta meme con Meloni, 'necessaria ordinanza restrittiva'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/05/trump-posta-meme-con-la-meloni-necessaria-ordinanza-restrittiva_5c7d2e10-a87e-4318-a0cb-3fec90a74812.html",
+          "description": "Sul social Truth il nuovo attacco del presidente Usa alla premier italiana. Calenda: 'Bullo da quattro soldi'",
+          "pubDate": "Sun, 5 Jul 2026 23:57:54 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Al vertice di Ankara nasce la Nato europea, incognita Trump",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/05/al-vertice-di-ankara-nasce-la-nato-europea-incognita-trump_455e12e9-40e3-4177-82a6-44151f571580.html",
+          "description": "I big del Vecchio mondo pronti a difendersi da Mosca. Focus sui piani per il 5%. Nuovo attacco del presidente Usa alla Meloni",
+          "pubDate": "Sun, 5 Jul 2026 23:39:49 +0200"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Rai, arrivano i canali Italiana e V/BE. L’ad Rossi: «Telemeloni? Solo marketing»",
+          "link": "https://www.ilsole24ore.com/art/rai-arrivano-canali-italiana-e-vbe-l-ad-rossi-telemeloni-solo-marketing-AIyc8J0D",
+          "description": "Due nuovi canali, una nuova strategia per intercettare il pubblico che si allontana dalla televisione tradizionale e una difesa senza arretramenti della gestione Rai. E tutto questo mentre infuria lo...",
+          "pubDate": "Fri, 3 Jul 2026 15:56:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "milano",
+      "n_items": 7,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 34,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "L'aggressore di Milano: 'Mi volevo divertire, appena esco lo rifaccio' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMGR3NUVPczVuaDRiRVlFZXBoNnVtZ09CMEdVRWh6T3FJQ3hPSG1yNUYzZGRsaDBhZmZqaWtnQVYwNDZOb25KMGdibG9RN1Q4c2ZFTXprelIza3RTQmFnN2hNVTdCSmlTYjZzaUcxbjl2SldlOC1EUVl0UHBsMlFvWnhYdFhONE5XSE1oZTFlU3BwQ3VHQVNfWHNuUTNyaGVZWXVpQmlqYkJoRHVVV2t3N1J6T1h1YTNIQ1g5clJYMHhMVEhGMFdvQ2QxTGNwUkN4Unc4ZGtIdFVKSC1WV1QwN1hiTTh0YkZOSmw4LXNWdmHSAfYBQVVfeXFMT192M3JUSXc3aDQzdWVMUk9oVm8zbEtSanB4N1RfWURjdHpSU1VuZURIWDBzaTdYT29XejF1VmV1azk1NEwwNUtkR2RCSlpSX2IwejlkbkVfYkRhaXE2Q3R1dnZLaEZNZm5FWnFCUTVnZU9rWDFsdkxFQ0hKaFozWmRISzBoRHR5bE9EZ0NScmplN1BaVUhUMkRrUWZpb0RadklUQnp4Zm92NDNrMm5tVGxNeWJCWW1YV3ZneXJncHFDTGVXUHVMUnM2RUJFaXpIOG96MHZQN1gtVVY3RXRhUTJZa0kyR2tULXlHZ0o3TnZRY1NnMFpB?oc=5",
+          "description": "L'aggressore di Milano: 'Mi volevo divertire, appena esco lo rifaccio' ANSA Accoltellato davanti al bar a San Siro, l'aggressore alla polizia: \"Mi sono divertito, appena esco lo rifaccio\" MilanoToday Aggressione a Milano, il pm contesta premeditazione e futili motivi per Lamin Saidilly Il Fatto Quotidiano Accoltellato a Milano, l’aggressore: «Mi sono divertito, appena esco lo rifaccio» Il Sole 24 ",
+          "pubDate": "Sun, 05 Jul 2026 18:40:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "L'aggressore di Milano: 'Mi volevo divertire, appena esco lo rifaccio'",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/05/laggressore-di-milano-mi-volevo-divertire-appena-esco-lo-rifaccio_d99b1e66-9f93-4348-9ccf-93108f9a780d.html",
+          "description": "Il pm: 'Ha programmato di uccidere'. La vittima migliora ed è fuori pericolo",
+          "pubDate": "Sun, 5 Jul 2026 20:40:57 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Sciopero aerei, domenica nera a Milano: cancellato l'80% dei voli a Malpensa e il 50% a Linate - MilanoToday",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRmIyX3lZSGxzc3ZRUmxoOUR5Wnp4ekQ5M2M0aU9zYjBqNzB3OV94MktLTFViV09nTzFuUzZCZk9zMGtLWE5tZ1VURXc5bG42Z1M0TGJydGRSWF8zZkpYX1VzNjZwQkZadnpzUlJWc0hMVU1HaEV5c29sNkNMd09ha0dR?oc=5",
+          "description": "Sciopero aerei, domenica nera a Milano: cancellato l'80% dei voli a Malpensa e il 50% a Linate MilanoToday Domenica ci sono stati voli cancellati, ritardi e disagi, per una serie di scioperi del settore aereo Il Post In tutto il mese di luglio previsti scioperi locali e nazionali Il Fatto Quotidiano Sciopero trasporto aereo 5 luglio, i diritti dei passeggeri e come chiedere il rimborso Sky TG24 Ui",
+          "pubDate": "Sun, 05 Jul 2026 14:56:24 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "JPMorgan riduce del 25% il suo target di prezzo per l’oro nel quarto trimestre - Yahoo Finanza",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU1l4cXVsejZmeDJ4ZXFNV21JOHhnbjJJVTFoSjZqWWFrR3JpWGhuSVdZMHZpSTJmUGZFS1JUYTJtNWwySF9qa1l2MlFfakMzb2dzWkhXbjdWbEJETkJ5aTlld1BXTnd0STdpeVZYcE1iUkJZaEhNLWpRdGhhN21sdnluWQ?oc=5",
+          "description": "JPMorgan riduce del 25% il suo target di prezzo per l’oro nel quarto trimestre Yahoo Finanza Oro, cosa fare dopo il peggior trimestre in 13 anni? L’opportunità dei dividendi con le azioni degli estrattori Milano Finanza I prezzi dell’oro salgono mentre le scommesse sui rialzi dei tassi si raffreddano Investing.com Prezzo dell'oro in rialzo a 4161 dollari l'oncia ANSA Previsioni Prezzo Oro e Argent",
+          "pubDate": "Sat, 04 Jul 2026 10:49:34 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "La storia di Bending Spoons: Ferrari e i tre amici, dal fallimento al Nasdaq - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbjVTaERaSnlhZWVzSTJzNlZDX050U2ZYWGxQbWY0cHNueUJ4aFVSVHY0THlTRmFjTW9wTTdiOWVwYlh6cFRVbjVCU0QxZElSN043X21JUENlMmNnUHlxQ252b0FDS181NGwwd25XQ1JEdjQ1NjN6bG95TVpvaXNqdVR1MlpIMlJhZy04MGpTeWVDN1IzbFpHemdGdTJ2cTNTMW1lZnVR?oc=5",
+          "description": "La storia di Bending Spoons: Ferrari e i tre amici, dal fallimento al Nasdaq Il Sole 24 ORE Luca Ferrari (Bending Spoons): \"Assumeremo 2mila talenti a Milano e abbiamo appena firmato per un nuovo ufficio\" MilanoToday Cosa fa Bending Spoons, l’impero italiano nato da un fallimento, conquista New York famigliacristiana.it Dove arriverà Bending Spoons? Nuove acquisizioni, uffici più grandi a Milano e",
+          "pubDate": "Sat, 04 Jul 2026 16:44:57 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "casa",
+      "n_items": 5,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 31,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Casa Bianca, il National Mall riapre a breve, il discorso di Trump alle 5 - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOOXF4WVp3bjBRRmNjQlRaOUNpamtYUkFiczhEYXlVZHJyd05vbEticHBKYmpnU3htYktjN2M1M1ZfMWJPb2lCVkdIM05ZMTlqTmU1VlQzdC1CSTNfdlJoWHo3MEpfQ01kNEdxSzBtVmpMcTVLR1pDcjM0UnVLNS11d05PdzF5Qm8xUE1OVFE2QVFPcnlVVGd1UWRjR2QtSFROU2hPQXotdGVJMm5XMFROamVQQU9Xd1pVUHB3SUhWY3pSNFlCV3R6aG9UVE5ZMTlhT0RhRklVd1ppMTAzUDY2a1EtMUV3NkxENmVpWXZaa0QzRzRVTHZNWQ?oc=5",
+          "description": "Casa Bianca, il National Mall riapre a breve, il discorso di Trump alle 5 ANSA La grande festa americana per l'Independence Day ANSA Stati Uniti, lo show pirotecnico da record: 850mila fuochi d’artificio in 40 minuti. Allarme per l’inquinamento dell’aria Il Fatto Quotidiano Walzer: “Trump rispolvera la retorica della Guerra Fredda perché non ha altri argomenti” la Repubblica Trump: “Siamo i più po",
+          "pubDate": "Sun, 05 Jul 2026 01:42:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Studio Bankitalia, se l'uomo aiuta in casa aumenta l'occupazione femminile",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/05/studio-bankitalia-se-luomo-aiuta-in-casa-aumenta-loccupazione-femminile_56a7b587-933d-44df-a015-7b29de2d2ba8.html",
+          "description": "Ma per far crescere anche il tasso di fertilità servono asili nido",
+          "pubDate": "Sun, 5 Jul 2026 14:23:00 +0200"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Zanzare e malattie: come difendersi e cosa fare a casa e prima di mettersi in viaggio - La Stampa",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSks4ZGdULWxlU1hyWmZ0TWpMOENPd1lmNDRGU2hDVUJ0UWlhSFNvZjNaZ1JFNVdabzVQd08zUmg4NlZ4NXhScm1xSEpQRXdDN2tQdDJmbHljS1RxY0F3dGZTcndob3BoSkppM3dGSFpHUW8wOF84anV0ejh3YUlTLXFkVEQyZl9YUWo1X19iVFU3RWtzbFFTeUlTN2RHaEdiU0dtaFNMN0M3MXlCZ25R0gG0AUFVX3lxTFBKZWZsamZabmdxekw2RzlKYlA1U2J5UHFQT2VuY05Jd3c4c3FhUlNrVTVrQW1HU3N4VGNYVmVhN2dwNFdQTFlWTk9iMEdRSDRlcGhHRkJXamdKSU91ZzBGMU1zNlZDQmI3X1VXQmk3MzhlM3YyWmFCRF9KQlA3LXNxdHYzQ3pjeTJLZ2p6c0lpX0JDQVN3eExUUFlpejFSYmFaN0thNGphVUQ2M196RXZXZTM2WQ?oc=5",
+          "description": "Zanzare e malattie: come difendersi e cosa fare a casa e prima di mettersi in viaggio La Stampa Anche se sembrano meno, non abbassate la guardia Ticinonline Trappole e larvici nei tombini e nelle pozze d'acqua: 2,5 milioni di euro per combattere le zanzare RaiNews Zanzare - ordinanza per prevenire la proliferazione e ridurre il rischio sanitario Comune di Cormano Punture di zanzara, micosi, cistit",
+          "pubDate": "Sat, 04 Jul 2026 11:28:00 GMT"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Uccide a coltellate il coinquilino a Palermo, si barrica in casa e apre il gas - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWEw3NmtpaVJNeU5kWlNYQWdhTjh1bzV3LTVhcU9ZQkxZcEVaVjRibjJtU2hGVzV2OW1JM3RZR1dIVVBiYmJGNWxmV3Zhb24tWVZkMUs4dmp6OEdDa3o4SDhRbHFGZzFzTDFnem01ZkdnSnh3Rm1Ba3g2SVNOWjhvaTlUc3ZyQ20wMi0ydnBJRFVOa0hWdjlPcDVZa0ttMEdTaW1kV2hBSG84ZDhpWFdCbW9ZeEVPNllOR1VhZGdJeWVyZ2kwMHFxdTFQR00waS1HX0xCcXBsYldBVkpPZkh4eHpFTEt3bUF6RWN3MzJzY0FHUXpheWs4Z3Zn0gH_AUFVX3lxTFBvWWRfOFIzZnlXMW5jZDBCelhNeDVNT0FxT01Bck1sZFhOcnRXWUw1Z0dnNERvc0xSZkQ3Y0JSTDhYZEdTYW9LbG9Lem1kU21MaVMyYUJOVHN1SzJYQ0F5MmpGNy1tM3FVNkFEUzZPMkxtb0VUVmVOS3ZTNnNHSHdlem44OW5pbUY3RTZpQ05JM21UeFFNMHJVWXFTYkp2Q010RmpDVGszTmRrdndtckNNVmNJQmFBN1NwS0FYQmwtRndqTnBBLW1ESC1WRi1wVzExTEwwMmdwY095d0FKQXI1dm9Ib2YyRi1MMkctZ2RaSFJ6aXpqVVBfTXU4M21WVQ?oc=5",
+          "description": "Uccide a coltellate il coinquilino a Palermo, si barrica in casa e apre il gas ANSA Omicidio in via Sampolo, uccide il coinquilino e si barrica in casa: arrestato dopo sei ore di trattative PalermoToday Uomo ucciso a Palermo: l’indiziato del delitto si barrica in casa poi si consegna ai carabinieri la Repubblica Omicidio a Palermo, la testimonianza di un residente \"Conosciamo un coinquilino\" Oglio",
+          "pubDate": "Sun, 05 Jul 2026 17:57:00 GMT"
+        },
+        {
+          "source": "ansa-cultura",
+          "title": "Ischia Global nel mito di Gino Paoli e Ornella Vanoni",
+          "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/07/05/ischia-global-nel-mito-di-gino-paoli-e-ornella-vanoni_61d44e60-d179-442c-b688-6a9ad942b19f.html",
+          "description": "Il 15 luglio a Casamicciola il tributo a due 'leggende' già nella storia dell'isola verde",
+          "pubDate": "Sun, 5 Jul 2026 15:50:15 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "mosca",
+      "n_items": 6,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Kiev stanotte sotto attacco russo, Mosca minaccia la Polonia: \"Produce droni per Kiev\" - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPWmNYVWJPS2tNZmdDYThoSWg4N2dySTB3TkRBaFhYSW1hcXUtYnNjLWMyRVQ3bXN6cWxobktnRjN5c094SUU5Vi1BdWxRMmJ4NEhyQXBoYm1wVXRidDdacm9oX2ZtRDZpdUN3ckg5UjR2M2ZfbjdjQzhqNVFlUWNpeThaT1dJR29wODBXVV9rMFJWUHI2el9LYlhwOFRCRUljYzFQWExNUUZEQnFCSmduRTllazh5VmRjY3NrOVhOZ0RqMUVTc2VuS0VuUGgtQ2JBUHY3cUllU2xBYmFGMk9GaXc3WlYxTWhsa3hpa1hNckNSQXR0TllxMGxFdFUxdktyR19LQ0dB?oc=5",
+          "description": "Kiev stanotte sotto attacco russo, Mosca minaccia la Polonia: \"Produce droni per Kiev\" RaiNews Guerra Ucraina-Russia, le notizie in diretta | Fonti Usa: Trump chiamerà Putin dopo l'incontro con Zelensky a Ankara. L'allerta: «Missili russi su Kiev, colpiti edifici residenziali» Corriere della Sera Esplosioni a Kiev, colpito un edificio 'persone intrappolate' ANSA Guerra Ucraina - Russia, le news di",
+          "pubDate": "Mon, 06 Jul 2026 01:23:18 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Ucraina, Mosca minaccia la Polonia. Zelensky avverte: \"Preparano attacco massiccio\". LIVE - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRUg1NmRuQnpqSHpXRzlMZDNsRThmWkRhcHJTMFVWTEllN1FEdHdPRzhyMWVORE8yalNnRE5yOGZaT3JNMXoyNHg2TTdqanJCbGVPNGpMbmVDeVl6WUg2OXd0ZVk5NjdhZWU2dUFPd3d3Y0w4bWFBUFhRaWhGaW9iN0k2Y0ZIWHBh?oc=5",
+          "description": "Ucraina, Mosca minaccia la Polonia. Zelensky avverte: \"Preparano attacco massiccio\". LIVE Sky TG24 Guerra Ucraina-Russia, le notizie di domenica 5 luglio Corriere della Sera Mosca minaccia la Polonia \"Rifletta sulla propria sicurezza se produce droni per Kiev\" - Mosca, colpite infrastrutture energia a Zhaporizhia RaiNews Ucraina, Putin: 'Pronti alla soluzione diplomatica'. Ma minaccia la Polonia A",
+          "pubDate": "Sun, 05 Jul 2026 21:59:58 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Mosca rivendica Kostiantynivka, Kiev nega e attacca San Pietroburgo - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTFNFMjd0ZkpHT0h1UEFObUkxMkJYYkZ6bXZXRzNsZzlKYUFKelZSQkxVdUc2V19MOWp3N0pqWFNwbHdzeWY3eUItOGItWU1ldGxOMWRsSkQ3RlFzT2ZVLTlxamlfNXpsRXJtRHpEeS1qN1RoeTlmT0hxeXFuY2xJNWxMei0ybTBlUWhPOG9nc0VvVWV0Q2xLS0U3MzdaRTBDX3dVbUt6UW42SlIyZWplb19BWk03a0lIVkticjJXTzQzeXgwSXlwbTcwdXJhdkRrR2dSTVdB?oc=5",
+          "description": "Mosca rivendica Kostiantynivka, Kiev nega e attacca San Pietroburgo Il Fatto Quotidiano Putin: conquistata Kostantinovka. Botta e risposta con Zelensky AGI Ucraina, la Russia conquista Kostyantynivka. A Kyiv 140 miliardi di aiuti dalla Nato Vatican News Ucraina: a Kiev si scava ancora dopo i raid. Mosca: 'Presa roccaforte nel Donetsk' ANSA Guerra Russia Ucraina: Putin conquista Kostantinovka. Zele",
+          "pubDate": "Sat, 04 Jul 2026 22:01:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Al vertice di Ankara nasce la Nato europea, incognita Trump",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/05/al-vertice-di-ankara-nasce-la-nato-europea-incognita-trump_455e12e9-40e3-4177-82a6-44151f571580.html",
+          "description": "I big del Vecchio mondo pronti a difendersi da Mosca. Focus sui piani per il 5%. Nuovo attacco del presidente Usa alla Meloni",
+          "pubDate": "Sun, 5 Jul 2026 23:39:49 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Zelensky, 'Mosca prepara un nuovo massiccio attacco prima del vertice Nato'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/05/zelensky-mosca-prepara-un-nuovo-massiccio-attacco-prima-del-vertice-nato_efe9cd94-b324-4380-9845-3237eb5f01d7.html",
+          "description": "Poi lancia un appello ai partner a non ritardare la fornitura di missili per la difesa",
+          "pubDate": "Sun, 5 Jul 2026 19:52:24 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "italia",
+      "n_items": 28,
+      "n_sources": 10,
+      "category": "tech-ai",
+      "score": 28.6,
+      "cooldown": true,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Turismo, l’Italia regina d’Europa anche d’estate: quali sono le località più visitate. Meloni: \"Premiata bellezza della nazione e qualità dell'offerta\" - il Giornale",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNHgtWU1UdVdUNVpZOW9tNi1ZMHg1T0JMTEs0Q3NGeE9XYm9mT0tKenVxMDdBZHZRRENtdXNNR2doZ2hmRHBweGx4ZzFGNnp3SXNkQU1ZRHFGREJJb2lzYy1PZnpKNzRTTm5mWjJzYjhlalIxWjJRbEdyT3NzQnByV1lyYWVxT09Ga3BoMjZKUTFwT0xwcWcwQVZxeGd2Y3F1cHhXTERKNXB0RTNmejlsTmR3?oc=5",
+          "description": "Turismo, l’Italia regina d’Europa anche d’estate: quali sono le località più visitate. Meloni: \"Premiata bellezza della nazione e qualità dell'offerta\" il Giornale L'Italia al top del turismo in Europa anche in estate ANSA Notizie dalla Giunta regione.fvg.it Turismo, Meloni: premiata bellezza Italia RaiNews Turismo, italiani in crescita (+1,5%) e più arrivi dall’Europa Il Sole 24 ORE",
+          "pubDate": "Sun, 05 Jul 2026 14:13:57 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Alta velocità, da stasera fino al 10 luglio l’Italia divisa in due per i lavori a Firenze - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUU5NVXMwMVhuWUM4ZHR1N2R2Z0Zsb2tzbGpXSk8xblZybTdwS0xMa0JZSjBQeGpWMkVVdjFpaHBjWVdEcW1NbEZHUkliS2pudzlaVGhENFFNTDNHNGo4U3NYQncxWktqZDh4YTRjZmg4eDlPY3Q5R2tBUEs5NTh1c3dCQzlxcWgwOEJxLThWN3pTd1pjX3BDdHZ5cVEyVkZtSU1OMA?oc=5",
+          "description": "Alta velocità, da stasera fino al 10 luglio l’Italia divisa in due per i lavori a Firenze la Repubblica Ponte al Pino, stop ai treni, appello ai toscani: “E’ un’emergenza nazionale, verificate gli orari” Toscana Notizie Firenze, i lavori su ponte al Pino e la guida anti disagi per lo stop ai treni. L'appello di Giani: «È emergenza nazionale» Corriere Fiorentino Tra cantieri e scioperi il luglio bo",
+          "pubDate": "Sun, 05 Jul 2026 03:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Strasburgo condanna l’Italia. Per la pm normale che l’uomo debba superare la resistenza della donna - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMDVvM1ppcEVlLVFSNUxXZGtNeV9LWE9qd1h1cWxJN3hMWHhzOXA0cjg5bThSSVp0ejYzNE9uWkVhbEhOMjBaa0NKUmVLSlVHWVFtbXVKTmdkdy15eEFfQnR4NnlqUGMxaDhUNUY2b3dWZE5yTlc3UVoyVlotTHlaX1d5OEZ6NXFheXFid29MdEo0N1JDZUVlbUgyVWJtNUR5OVAwSFVXVnhTZ3NvS3liQnJkUdIBuAFBVV95cUxPUktYeENmelQ3bUVxeFVVYlVMRUFfeExsOHZQcXBJRUQ4MG41TkV0RU1DS3oyRjg2c1lXWENYSnJ4Y2Y5d0xOVnV3SlFOdTNnbzJPam80THF1TG4xRHRRRGRGZEV0MDZpdzhHbWNoTkFyNDB0cmIzYmRvekpsTTc2cURoTFI4ZF9vVGQxV3hRX1dRbFlEZ001RlZLVWhVQWtEUGhBMlFYcF9lNGxXNmFBMXh5WGo4cWJR?oc=5",
+          "description": "Strasburgo condanna l’Italia. Per la pm normale che l’uomo debba superare la resistenza della donna la Repubblica 'Sessiste le parole della pm', Strasburgo condanna l'Italia ANSA Cedu condanna l'Italia per sentenza 'sessista'. La vittima: \"Battaglia vinta per tutte le donne\" RaiNews Una sentenza contro l’Italia, sulla violenza domestica Il Post 'Frasi sessiste da pm', Cedu condanna l'Italia su vio",
+          "pubDate": "Sun, 05 Jul 2026 09:29:22 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Vertice Nato, gli Stati e la rincorsa al 5% davanti all'alleato Usa. L'attenzione «speciale» sui progressi italiani - Corriere Roma",
+          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOZF80UUFwYmM5X2xnX2VzcWt3X3JmRUZ4Rno3a3JvYmtlVDlSaTlTbUJ4ZHIwcGM3U2prcURCSjNUVVVVYkJ2cmI3cXlqQ1JtTGZCNWZtZTk1d1pPV0FtMUZOSDlGSHVQSkp5alNjU0hHUnZ0aVlGeXEtdG02ZUhtMV9Eb3MzWlNBZ0Y4YThnTVktUFRqZVRZcThTQUItdGFpR0dZaExMSXF0Z0ZKcklyNEhDcFlTcUZpYlBMRlFzcTViYmpxcllZUVhCU1VqR3ZaaFRUS2FtVlVibE52SW9nanVIcGs4VXFZd194TV9RWnEwQllBeUl6ekhwVVR0T3N0Z3RtbGZDcFRpRVVBb2JnSFU1TlQ1SS1LTHBUMzJQUHlQbW1PWC1TaFNTYTJxTzNidXfSAbcCQVVfeXFMTjdiNjFQSGFyWlBIclZFVmx3ZjFaRzJqVnNfbXdsSVBHSi0zdkJ4c3VCNHJSWnM3WmVQRXlsWEF6OUFxdk5FUzVHMEc5TlVBT2ltdmZvM29HRW1OMlVFNUxiell6MWJKUlVNRmdDRk9ycW9QQjNPM3RuOFNZYVJKTHdKQkhiSU9xN1NQNTR5SjAyTW5SRTl0V2I5amtPWmVCYUJWb1RhMnRLSHdWY1o5SzhlZnFzNEpfbWRoSzhnNEVUOHVkZDhmYWlfdG9KbW9nQjJTdl92Mkh2VDdQWTVOdUJoS1E4aTJDeGVoLUVZNWx4cU1ULXBCdVREbGtsOTMyemlEMVZ4RnJPckRacTc5UjhlQ01KSkN6X0dxd01EU2FXM2Q3ZDBxeWl4TmMwcEZCcVBublBwQjg?oc=5",
+          "description": "Vertice Nato, gli Stati e la rincorsa al 5% davanti all'alleato Usa. L'attenzione «speciale» sui progressi italiani Corriere Roma Le incognite di Ankara Corriere della Sera Al vertice di Ankara nasce la Nato europea, incognita Trump ANSA “Ankara, summit delle contraddizioni La Ue spennata da States e Ucraina” Il Fatto Quotidiano La Turchia apre la sfida della Nato 3.0: Ankara come snodo dell’Allea",
+          "pubDate": "Sun, 05 Jul 2026 20:37:46 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "All'Italian Global Series lo sceneggiatore Ridley: \"La discriminazione riguarda tutti, non basta essere preoccupati\"",
+          "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/07/05/ridley-la-discriminazione-riguarda-tutti-non-basta-essere-preoccupati_6fc8fc2c-9576-44d5-8c9f-e3dbdfa09e19.html",
+          "description": "Ha vinto un Oscar con \"12 anni schiavo\"",
+          "pubDate": "Sun, 5 Jul 2026 15:53:48 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "says",
+      "n_items": 7,
+      "n_sources": 3,
+      "category": "tech-ai",
+      "score": 27,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Trump says he overruled plan to cancel Mall celebration amid weather evacuations - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUWJGWWZhSnpGanNxWjVQTjVKNUdaYTd0WFNxbExYV0RsMnBleGlZZHJEUjVFclhaUV9jcjd2VllkQVlLTUgzMGViV2ZiN3NLRzhfYkVaMXo1UldmVi03MDlicF9WWUZ5SDhKaFROVWs0WnBuZG1lSzU5Y1MxVW1NY0t1dzM4STRzSk9yUkpWbkotSktRSnNNeEd3VUs3aHoyX3RKWWxSc0ljOEtDRTRnTmNHRHpMa05sWVJhVFZSUUZSLTV2TEhn?oc=5",
+          "description": "Trump says he overruled plan to cancel Mall celebration amid weather evacuations The Washington Post National Mall to reopen after weather evacuation at July 4 celebrations WUSA9 In Fourth of July Speech, Trump Celebrates America and Derides Foes The New York Times What Trump’s July 4 Speech Revealed The Atlantic WATCH: Trump delivers keynote address at 'Salute to America 250' event on the Nationa",
+          "pubDate": "Mon, 06 Jul 2026 03:55:03 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Voters are Sounding More and More Like Trump on Birthright Citizenship - The Bulwark",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQkhPTFMtdWc0cmxSMEh6RENUMzYwRjdkXzZJNXJiMjRQMWd0NW5lNGgzQ0pGUnBMZmhCSmZ3RmdwSmtWSGdSbnBDM1VuRGNrRzhZUUlDVGM5Q2dUVFVETDM1SVZNQ3U4aHRobmZuLUR1RUFVem5xZERlYlVkb3JLVTFGNmR1UHRITVVURUY0alk?oc=5",
+          "description": "Voters are Sounding More and More Like Trump on Birthright Citizenship The Bulwark Congress should restrict birthright citizenship, House speaker says USA Today These Justices Are Not Impartial The Atlantic Opinion | Roberts Gets the 14th Amendment Wrong WSJ A Narrowing Vision of America Washington Monthly",
+          "pubDate": "Sun, 05 Jul 2026 23:00:43 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Waymo vehicle catches fire during chaotic San Francisco Fourth of July - San Francisco Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeGNDTHBGVjFjN1FjSHdTS0U1V01VbWdhZzBoT2I5ZFRmVlZaNVFSdGRidFpSZUJtMmZ3RGZnRmZRNnVJT3VNX1NmRFlWQy1vV010eEVCZmFNUkRyMTNVUDJtdFRKbms0WHpxRDFRWHVVZ2g4YVdHSnduSHc5TU42VG5nZVVaUU5IVWtjS1V3?oc=5",
+          "description": "Waymo vehicle catches fire during chaotic San Francisco Fourth of July San Francisco Chronicle VIDEO: Waymo seemingly drives through exploding fireworks, others spark delays KRON4 Waymo cars stranded on San Francisco streets as Fourth of July gridlock drains batteries NBC News Waymo vehicle catches fire in San Francisco NBC Bay Area Waymo says some of its robotaxis ran out of power during San Fran",
+          "pubDate": "Sun, 05 Jul 2026 21:13:13 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Australia space agency has found 'likely source' of mystery space balls",
+          "link": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
+          "description": "The agency says that they \"appear to be pressure vessels from a space launch vehicle\".",
+          "pubDate": "Mon, 06 Jul 2026 02:49:15 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
+          "link": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
+          "description": "Nigeria's government said one of its nationals was reportedly killed by police officers \"using gruesome interrogation techniques\".",
+          "pubDate": "Sun, 05 Jul 2026 17:30:45 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "july",
+      "n_items": 10,
+      "n_sources": 2,
+      "category": "tech-ai",
+      "score": 26,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Trump says he overruled plan to cancel Mall celebration amid weather evacuations - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUWJGWWZhSnpGanNxWjVQTjVKNUdaYTd0WFNxbExYV0RsMnBleGlZZHJEUjVFclhaUV9jcjd2VllkQVlLTUgzMGViV2ZiN3NLRzhfYkVaMXo1UldmVi03MDlicF9WWUZ5SDhKaFROVWs0WnBuZG1lSzU5Y1MxVW1NY0t1dzM4STRzSk9yUkpWbkotSktRSnNNeEd3VUs3aHoyX3RKWWxSc0ljOEtDRTRnTmNHRHpMa05sWVJhVFZSUUZSLTV2TEhn?oc=5",
+          "description": "Trump says he overruled plan to cancel Mall celebration amid weather evacuations The Washington Post National Mall to reopen after weather evacuation at July 4 celebrations WUSA9 In Fourth of July Speech, Trump Celebrates America and Derides Foes The New York Times What Trump’s July 4 Speech Revealed The Atlantic WATCH: Trump delivers keynote address at 'Salute to America 250' event on the Nationa",
+          "pubDate": "Mon, 06 Jul 2026 03:55:03 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "PHOTOS: Fourth of July fireworks from the Mall and around the DC region - WTOP",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeGVXZjdzOWJGLUt5aFRzWTRXWDU1NWdxYUdoSVRPRUJITW5JUWFuOHhUeWhWRVNseUR2YkVhdlkwOWd4ZU4tQWtGcWJjZ3k1N0hpY3VPREhHb3UyM2t1M3h1ZFNISThkaEZ5dXVFbDc1TThQZ0lKamgzTXFha1hIdnJaX2l5clF4WHhXWWFBSTBUalk2aTAtYU0wSllCUktG?oc=5",
+          "description": "PHOTOS: Fourth of July fireworks from the Mall and around the DC region WTOP On a chaotic July Fourth, they spent up to $30K to watch the fireworks in style The Washington Post Fireworks begin moments before midnight — 4th of July updates FOX 5 DC America 250 kicks off in nation's capital as Americans brave weather to celebrate Independence Day Fox News Salute to America Celebration & Fireworks fr",
+          "pubDate": "Sun, 05 Jul 2026 04:23:58 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Waymo vehicle catches fire during chaotic San Francisco Fourth of July - San Francisco Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeGNDTHBGVjFjN1FjSHdTS0U1V01VbWdhZzBoT2I5ZFRmVlZaNVFSdGRidFpSZUJtMmZ3RGZnRmZRNnVJT3VNX1NmRFlWQy1vV010eEVCZmFNUkRyMTNVUDJtdFRKbms0WHpxRDFRWHVVZ2g4YVdHSnduSHc5TU42VG5nZVVaUU5IVWtjS1V3?oc=5",
+          "description": "Waymo vehicle catches fire during chaotic San Francisco Fourth of July San Francisco Chronicle VIDEO: Waymo seemingly drives through exploding fireworks, others spark delays KRON4 Waymo cars stranded on San Francisco streets as Fourth of July gridlock drains batteries NBC News Waymo vehicle catches fire in San Francisco NBC Bay Area Waymo says some of its robotaxis ran out of power during San Fran",
+          "pubDate": "Sun, 05 Jul 2026 21:13:13 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "America Marks Its 250th Birthday With Storms, Sweat and Fire - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkQkd2T0VZVTFCeVFZQWxqYUFWRWpEaDNqcUpKUXUwdHVGLS1LOHNpc2s4Zk8ySG45SVBxU3BvQl9EeWVkNDdyMWppSjQySlZPQy1sZVlEbVNjLTFwZG1aQUVPYlVSdzBFLTVvRy1KR3kwSW9pQ2c?oc=5",
+          "description": "America Marks Its 250th Birthday With Storms, Sweat and Fire The New York Times America 250 celebrated in New York City and beyond ABC7 New York Record heat suspected in over 20 deaths as severe weather puts damper on Fourth of July festivities NBC News Despite stormy weather, America marks 250 years of independence, in photos AP News 4th of July events canceled in Philadelphia area: Full list FOX",
+          "pubDate": "Sun, 05 Jul 2026 17:16:32 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Shooting at July Fourth cookout near Coney Island beach leaves 8 wounded, including 4 kids - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlpxV2x3aEEtMFFIU3JKTmpvWm1pbXV3VFV3UGloQld5dU9LX1NVTnl5T2RZb3lyNlpkLWhLX2s2Q0RxZ2lRWVFOeV9MS2NvR0VJcGlxSk9taEFPRjJpa18zNmVRNVVwMnJvMmtVdWMwSXVIV05CX3RLWHpXVmZwRFlXMDNfcDZQ?oc=5",
+          "description": "Shooting at July Fourth cookout near Coney Island beach leaves 8 wounded, including 4 kids AP News Deadly Fourth of July: At least 6 killed in shootings, explosions that wound dozens across the country NBC News At least eight shot, including four children, in New York’s Coney Island The Guardian Coney Island shooting leaves 5 people injured, including 1 in critical condition ABC7 New York Coney Is",
+          "pubDate": "Sun, 05 Jul 2026 20:05:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "media",
+      "n_items": 6,
+      "n_sources": 4,
+      "category": "general",
+      "score": 24,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "bbc-world",
+          "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
+          "link": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
+          "description": "Some of the famous guests have been posting on social media about the big day in New York.",
+          "pubDate": "Mon, 06 Jul 2026 01:20:47 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Al via i saldi estivi: prevista una spesa media per le famiglie di 200 euro - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQ0x1WGw4TVlrQXFUY0oyeFpwVTJMUThGbkVIY2RjdXFRdWMtNUZsQlNvb3FXQW92dll0aHpfLVlUdzVaRG9Bb2duQ2RKV3V4dUV4dUVST25JTXJaaHlBV0hsc2h4d2hjcTBUNndNQnJHNXBCdm5qV0hQREhXblVVZDViSWxRaV9HUFh2WWxGT2NlVTFHRVdHMmRBUWkyU0dDWll0X3FvMlRVdXNtWjhMN2cwQmFQRUswcWNkd2RBa2FnYUZDSXI0N1hISzA2d3hIXzBNWTJ1UkVIQ3E1TlhNSWlUeGU2RE1kZ0UwZ1VZUGdjRFdGdWlWOXg4ejjSAYICQVVfeXFMUEZLMi0xWWJCcmgyM3BlQXNuRXJSZzJsbjhYbkU4VTVKd3VGaXFzeWJFQnBaNmJQdGxEX2VteVNRR24yLXpuX1dMazcxVVU4UlZTcm1FVmdEalQ1bUVKWmVCYUlNdW5adWZicTFMZFlHaXN0MUF4VFFBVmprREhsWE5ia0Rrcjd1dXR1QWhxNXFVRXBYa1NQeTJSNG5hWUtnM2o0LXowREVHLVZGNDlRclpBQlczQVdHSFlZZlpRdEhudi0ySlJtdDRJcUk0SUdVRnlCZ1N2Y3V1X2R4S2VXUm4zU0RabU9RbjdrZm1sWGxNd2dsZXFmOWQyalp5NTV2TlVR?oc=5",
+          "description": "Al via i saldi estivi: prevista una spesa media per le famiglie di 200 euro RaiNews Buona la partenza dei saldi, incremento del 3% nel primo giorno rispetto al 2025 ANSA Saldi: Federmoda, con +3% buona partenza, forte presenza di stranieri Il Sole 24 ORE Saldi, Stanga: «Bene la mattinata poi l’afa ha preso il sopravvento» La Provincia di Cremona L'influencer della moda: «I saldi vanno posticipati,",
+          "pubDate": "Sun, 05 Jul 2026 05:24:00 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Comunicazione interna, dipendenti protagonisti tra passioni e interessi",
+          "link": "https://www.ilsole24ore.com/art/comunicazione-interna-dipendenti-protagonisti-passioni-e-interessi-AIjUkaqD",
+          "description": "Secondo il Cerc Iulm in Italia otto aziende su dieci hanno strutture dedicate: cresce il tasso di attivazione volontaria dei collaboratori sui media",
+          "pubDate": "Fri, 3 Jul 2026 15:45:27 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Tredici minuti dopo il lampo gamma - Media INAF",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE42d3RLekFpYXJyOXc0T1BxbVFFOEhLTEpQQVl1NVliWnlLTWtOY3ZDSkdVRjBtby1IbHp2dnZGZDdlaFZfeE9TcVJwTUVGYlY0UHdQeFEtcVF5c2t4NG83UUt3dGZLNGd4aTZjeXZ6QjVxZw?oc=5",
+          "description": "Tredici minuti dopo il lampo gamma Media INAF",
+          "pubDate": "Fri, 03 Jul 2026 14:20:35 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Mi è sembrato di sentire un fireball - Media INAF",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJYUExRVFUeFdBSldoVVpNSWg2RExYLUVrLXNrQlBIYzg2ZkZYRFA1Tm4xREpiX3JBVWZLajVHeThrWWdEdUlicGxONFZEc0ozUWdoQ1FfX25HZ0RuQm5XSVg3QQ?oc=5",
+          "description": "Mi è sembrato di sentire un fireball Media INAF",
+          "pubDate": "Fri, 03 Jul 2026 10:23:53 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "caldo",
+      "n_items": 5,
+      "n_sources": 4,
+      "category": "clima",
+      "score": 2.6,
+      "cooldown": true,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Pasini: “Gli anticicloni africani sono l’impronta delcambiamento climatico. La politica ascolti la scienza” - Bergamonews",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZHVMZ0szb25vTFJZV1NLSFNjUmpYakE1Qkw5MFdKTjJuR2gwbzdXa2s1S1V6aTFId0dSSDJxLWYzRmNJRVVYeEdqWmwzcUxlYV9SOU5vQkZEMXF0dmRGWk5RdUZRS1YzX2RxNVJpV0EwTW90R2E3T1JxRzhmdWVVM0MxcWV3VTF2T0RNblZ5MmRIdDJlMnMzY0VSREd1US1INjc2TDJxU0UteThaMDhMaGZzZU5WVDZjUEpnbEcta19kMVhfWGxiX21jWmZWWDZUSlRZZ0JhWVU2a0dKYWRnODJjdw?oc=5",
+          "description": "Pasini: “Gli anticicloni africani sono l’impronta delcambiamento climatico. La politica ascolti la scienza” Bergamonews Caldo. Kluge (Oms Europa): “Le attuali ondate di calore sono una prova generale. Le estati future saranno ancora più difficili” Quotidiano Sanità Fino a 44ºC in Spagna, attesa allerta rossa in più regioni Euronews.com Caldo record, raddoppiano le morti di animali durante il trasp",
+          "pubDate": "Sun, 05 Jul 2026 03:58:00 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "I sindacati: «il Comune di Milano tuteli i lavoratori contro il caldo»",
+          "link": "https://www.ilsole24ore.com/art/i-sindacati-il-comune-milano-tuteli-lavoratori-contro-caldo-AIBHJL0D",
+          "description": "In attesa di un provvedimento che si è arenato a Palazzo Marino, Cgil Cisl e Uil chiedono di proteggere le categorie più esposte",
+          "pubDate": "Fri, 3 Jul 2026 15:51:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Caldo record, dagli otto bicchieri d'acqua al giorno alla congestione: i cinque \"falsi miti\" sull'idratazione - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNGxGOE96VDE0RmZPWWJHMzdGTXladVJLencwTmxoT092RUNJbTRhWmFZZTVoX1JwY0tyX0txYUE2RktnTU5acm5pN1d5elE3azFYWmF6THFac2NsaWZoUi1sUlVrelJzSEZjNEp1RUhmZnpvWEN6M3A1TjZfUExGYkFDSzdJMF9NV1hnWUlMYTBTYjhxV3BoNy12WG54LUhHZ3JQdkVpRFphNHFXUllnQ250Sm81Z9IBaEFVX3lxTFA3NTJaMXVqeXVLTjNEd19qU01CdTNkaVVzUmI2emdCdDFZZzdYSEVJQUpncGtwMWJjdFlyczU5TXhudzViTmVjd0tUTzNLc29sTFYxOXZUTVBENWJlaElxSkZ3REJnMkJD?oc=5",
+          "description": "Caldo record, dagli otto bicchieri d'acqua al giorno alla congestione: i cinque \"falsi miti\" sull'idratazione Tgcom24",
+          "pubDate": "Sun, 05 Jul 2026 04:35:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Disturbi psicologici, ansia, umore: il caldo peggiora tutto (molto più di quanto si pensi) - today.it",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54OFVTck1ZWVhUdUNMeXdZMExSUVkwRFRuOHBmQkI3clY2OVI0S0NWN2ltdUhVT29FMkNJQk9WOGRXckdiSkhuTVpzeEpjRXNNVWdTeHJnVHdHb3dHQnpCd0VFTjZHUi1lMjFRbER5akI4cW9D0gF0QVVfeXFMT0U5V2RMaTg2QjJLZFdNajlFbURYUUFnVnVlck9OMGZ3TFA5QncxTUdLajI0SzFYN1FPNENiZzJiSFlDN21SVnBxaXVmMHZaV04wcl9BU284TWRYQWRsVWxvQUpORzBBVzNjVHRVQlhQRmtWMXA?oc=5",
+          "description": "Disturbi psicologici, ansia, umore: il caldo peggiora tutto (molto più di quanto si pensi) today.it",
+          "pubDate": "Fri, 03 Jul 2026 11:11:10 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Durante le ondate di caldo c'è un errore nel bucato che molti sottovalutano - Grazia",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOR1NzeW9kUlJZOVhSTmtFWF9DUFJ5ZEZSUHB4U3FEUWltNkg4RkI2M2FVX0lPTGJWTWpUTWlYSmdNM2lITWkwZjhBY2dkZ1YxSUVLa19sQUdDT1NacEtrYjB4eTAtc1RpaXIzZzBrM0N1dS1SbWMwT0RUaUVyTFo2d0pPVGlBNzc3R0t3?oc=5",
+          "description": "Durante le ondate di caldo c'è un errore nel bucato che molti sottovalutano Grazia",
+          "pubDate": "Sat, 04 Jul 2026 15:00:00 GMT"
+        }
+      ],
+      "macro_area": "clima-salute"
+    }
+  ]
+}

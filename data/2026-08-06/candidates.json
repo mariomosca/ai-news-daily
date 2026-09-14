@@ -1,0 +1,925 @@
+{
+  "date": "2026-08-06",
+  "top_topics": [
+    {
+      "keyword": "italia",
+      "n_items": 34,
+      "n_sources": 13,
+      "category": "tech-ai",
+      "score": 448,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ex Ilva, ci sono condizioni per valutare cordata italiana - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcllraElrdEU4dUtOTlhCNWwzYlE2cnp3OGlnNjZ5eEsyY0QwZ3FBeUx3dkg1Z1QzS0MxNGJ5WlJaVllrT2lscUlZeGtDTGtyUGVwTlZpUndWODVNdlJWdGVDVWJXS1hiVEo5OVdzeVFUdHNlWHBNcmJmUExtY1dLdThib2IxRC1HVTlkU1RjeFlES21UZjlQZ0JFYVZMTkpk?oc=5",
+          "description": "Ex Ilva, ci sono condizioni per valutare cordata italiana Il Sole 24 ORE Ex Ilva, spunta il soccorso di Webuild: disposta a investire a Taranto per l'acciaio del Ponte sullo Stretto Corriere della Sera Ex Ilva: Jindal rilancia, Renexia propone investimento da 150 mln. Ora incontro con big dell'acciaio rainews.it Ilva, la bugia di Urso: “Non ero al tavolo con i sindacati come da programma”. Ma l’ap",
+          "pubDate": "Wed, 05 Aug 2026 13:21:04 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Migranti nascosti nei boschi e affamati. L'emergenza umanitaria a Ceuta - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSG1FSVF1WXY4cDBGNjQ1a2JGenQ0b002SFZ6cEpHRmo1ZWdwSFdMVk9NWWJheHV0ZWJveHJXakZPaE5IaFlaUUwyMWpTNm5la3U3MXhUZkU3enZsUERKTnZSaEZEQXhfUExScXM1bnFxc09Bc3QtNHVOemViZ3BLOWR3UU50aHZuQlc0Z0x0aU1YcGtHT3Z5ZHFfWkdTRVowZ3NXWmFTemplVTkxY2RuM2x3ajY3MFV3QjlMUExpMGdQbmxHR01TcmhwcWVyaWZlQUtDNkxxaEhlNEdRRzE1LWFFclBBdWhjNnVEc3Z30gHzAUFVX3lxTE9FUzNyWFhuTHg0aHhtUXBjVXhnOGE4cHRyMFJDbVh1RTg4NDllUzlDaGNxY0NhS1ZKUmFVcVFnYTdjc1pwV2tNY3dJdTBWSFFaMHQ5dTNna3l0THZwRWpqRGVZdlphanRVSENneHNMcDdOYWRjNHl3QWxMcUVDcWJvSEgtUFFQcGVOaE1pcWJrSko3cDJjaHlaaWNtN3B6VlI1ODc2eWxTMzJxU0pjc2dsYkxLUG41Z0t3N2pUYUhxMVdRVFFFNXNlRnQ3VGZiQzhYRXhndEo4WmZtendTRlJBN1ItR2lpU244YUZzMzhJMUxHTQ?oc=5",
+          "description": "Migranti nascosti nei boschi e affamati. L'emergenza umanitaria a Ceuta Corriere della Sera Governo Ceuta, 'in città circa mille minori non accompagnati' ANSA Mille minori rimasti in città. Le autorità: “Siamo al collasso” il Giornale A Ceuta ci sono 862 minori stranieri non accompagnati e 29 posti. E in Italia? Vita.it 25 milioni a Ceuta per l'accoglienza dei migranti minorenni Corriere del Ticin",
+          "pubDate": "Wed, 05 Aug 2026 21:14:24 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Gaza, quel funerale di popolo che ha dovuto aspettare 986 giorni - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONDVLZ3FYNmhRcjRILV9xXy1MVXk4Y3RxVzRHNUh0aDRWSzJTMEN0TDZOV0NDTF9pbXhZMWgwRHdvMmswTklaNTRJZzVacUxQQVRXWm5sczNzSHhqVXNCelBSTDBkX1ZlOGNhWW5vWmE2SEFDSjBWNDhPdkZQeGNGUlZ1WEZ2eEpMV19WTmlleGFQdDlyMTBMb2E1a2JnRXNE?oc=5",
+          "description": "Gaza, quel funerale di popolo che ha dovuto aspettare 986 giorni Il Fatto Quotidiano A Gaza migliaia di corpi sono ancora sotto le macerie Il Post Gaza: 40 minori tra le 112 vittime sepolte del funerale collettivo Save the Children Italia Una preghiera dopo 986 giorni, Gaza seppellisce un massacro il manifesto Il costo del recupero senza mezzi: migliaia di corpi tra le macerie il manifesto",
+          "pubDate": "Wed, 05 Aug 2026 17:39:10 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Gaza, quel funerale di popolo che ha dovuto aspettare 986 giorni - ilfattoquotidiano.it",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONDVLZ3FYNmhRcjRILV9xXy1MVXk4Y3RxVzRHNUh0aDRWSzJTMEN0TDZOV0NDTF9pbXhZMWgwRHdvMmswTklaNTRJZzVacUxQQVRXWm5sczNzSHhqVXNCelBSTDBkX1ZlOGNhWW5vWmE2SEFDSjBWNDhPdkZQeGNGUlZ1WEZ2eEpMV19WTmlleGFQdDlyMTBMb2E1a2JnRXNE?oc=5",
+          "description": "Gaza, quel funerale di popolo che ha dovuto aspettare 986 giorni ilfattoquotidiano.it A Gaza migliaia di corpi sono ancora sotto le macerie Il Post Gaza: 40 minori tra le 112 vittime sepolte del funerale collettivo Save the Children Italia Una preghiera dopo 986 giorni, Gaza seppellisce un massacro il manifesto Il costo del recupero senza mezzi: migliaia di corpi tra le macerie il manifesto",
+          "pubDate": "Wed, 05 Aug 2026 17:39:10 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Niente GPS, niente pilota: così i droni ucraini Shrike colpiscono i bersagli - Hardware Upgrade",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGdSZXJIbklzeFItckE3T3o0Wm1zd0Vwa1FsMGJnWkZUWmpMNncwTFVleXdyYXJYenl0UlpINThhY3FVNzV1RWNYdmd1bG9Zdkd6UUFlenlxbjBJZFJONGZDVFZoNDVhZnVwMExyMU5yUXFjYVQtNVBoTFU0dXZuU3djYVl4UHlFNGRYek85dllFZ2ZhWF85OGhyUmtYYThrYVZMNTZSTjVXZ19lOEI3SjE2eXlobmNoemtsdWFvZ3pEZkJYUWcw?oc=5",
+          "description": "Niente GPS, niente pilota: così i droni ucraini Shrike colpiscono i bersagli Hardware Upgrade UE riceve 1,4 miliardi di euro di proventi derivanti dagli attivi russi immobilizzati Borsa Italiana Von der Leyen: altri 1,4 mld all'Ucraina rainews.it Così Kyiv ha costruito la colonna vertebrale della sua Difesa Il Foglio Finora arrivati 8 miliardi dai proventi degli asset russi immobilizzati in Ue ANS",
+          "pubDate": "Wed, 05 Aug 2026 10:51:01 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "agosto",
+      "n_items": 16,
+      "n_sources": 8,
+      "category": "clima",
+      "score": 134,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Caldo intenso, nessuna tregua fino a Ferragosto. Qualche temporale in transito al Nord tra il 9 e 10 agosto - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMjlBenp3S1UtYkZ3V1dwNEVOSDlaRUEyWUxjdVhfdUp5UGROZjBjSjREY3VtaHVLX3N5QnBZSDFzMXQwMFZPREo1c21zMjc1S2VnZmU0N0djRElYQTdxVjBnclJYWGNlMzZOZGZBenRrcEpreXZwb0VIZkh6OFBVWmhES1g4WlotVW9fd0RSbURvd05GX2EyTWRldWIzVjlPUnhiTlJEb2hoVkJBdTJJdDFIdTQwSkZkY0RYV1hkc1N4d3RvSkxlY2Q0SjQ0Zw?oc=5",
+          "description": "Caldo intenso, nessuna tregua fino a Ferragosto. Qualche temporale in transito al Nord tra il 9 e 10 agosto Il Sole 24 ORE Caldo, record bollini rossi e allerta gialla maltempo in sette regioni Sky TG24 Caldo e afa non mollano, l'allerta fino a dopo ferragosto ANSA Previsioni meteo, breve pausa dall’afa al Nord, poi torna il caldo estremo fino a Ferragosto la Repubblica Per giovedì c'è l'allerta m",
+          "pubDate": "Wed, 05 Aug 2026 17:43:12 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Campi Flegrei, sale il bilancio del terremoto: 57 edifici inagibili e oltre 700 sfollati - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUEdSOXVrRjl2cWR1cjZiWG0wV0xid0M4dDltVkVXTmJ3TlpTOWtQOWNXc1gzUkFVVWU2aXhsbkk4WUh1SnJfUHRQQTVyZDh6TEo4RnhCMHplb0hPMmNvSFRpZnhMNlZtTkFfSmRtYmc4X3NTci1wVHhGNUpublN4aEh0ZTY2ZzJWRXR6eHNzbUdRNnR4UVhEZi1CX2Q5eUhBSGRN?oc=5",
+          "description": "Campi Flegrei, sale il bilancio del terremoto: 57 edifici inagibili e oltre 700 sfollati Il Fatto Quotidiano Sisma di magnitudo 4.7 ai Campi flegrei: 26 feriti, due in gravi condizioni. Circa 300 gli sfollati - Aggiornamento del 02 Agosto delle ore 11:50 rainews.it Area flegrea, Piantedosi in prefettura a Napoli: riunione del Centro coordinamento soccorsi, incontro con i sindaci e i cittadini Mini",
+          "pubDate": "Wed, 05 Aug 2026 10:43:48 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Meteo Giuliacci, tregua al caldo estremo. Temporali in arrivo: dove e quando - Il Tempo",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdHNFTHYtZVR4VjVEbngwbWFON1ZSY29Xd1E0cWNUd00zVlNiSTVrUl96TnIyazA4TURMUUtfblJ1OTF6TkVLQThEWnhGVjBtMFNra0xHLTNXdkt3amIwVmFQYS1OT1NnczE0aWRST0JVRE93WTVQaWdGcjJBYW13Zm5KRkhvYWs1ZGluYUYzYk9YdjVEWURSdkxPcWRxU0JMekhRNFgwTVpUcGdUWkdsdXFoM3RCYkNpMzZTeTU0c3ZYdWJBdmV1djN3NFc?oc=5",
+          "description": "Meteo Giuliacci, tregua al caldo estremo. Temporali in arrivo: dove e quando Il Tempo «Caldo africano, ecco quando arriverà la svolta», spunta la data: le previsioni di Giuliacci Il Mattino Caldo record, quando finisce? Tregua dopo Ferragosto (ma non ovunque): ecco dove e quando Il Messaggero “Avevamo previsto la fine del caldo al nord e un’attenuazione del caldo anche al centro-sud. Così non sarà",
+          "pubDate": "Wed, 05 Aug 2026 15:06:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Benzina e diesel, cosa cambia con il nuovo taglio delle accise: la guida per il pieno ad agosto - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOLWJQa3ZDclFIUTVzSUVMd3hBdlc1RUFPck5aTzRvbzFwSUM3RGJPQ2R4eWJQVDNvREV4YjlqVWVER1kzTGsxSGItU0hPeGktckxYSG16WE1DWS1abTdUTzFoUF9kSTdnX1pya2Yxa204akNwMExhbTZ1RE0xMDNEcGtQZXNjZW01a0RkV1ctbGZsMUhvNk1HRTB1bjhHRXkybkY5U1JGYnVzLW9MaGFtNGhGbVREUGRyMFdUazM4ZWRHVjBBOV8zbERxN01LMy1ON0dodk80ZlRYcmZFQlhia1JvcVVsbzh5RDN3dVdyc2NSNjJJcFBQWi1OWWI3YWJ4NHRZUVFfLUZQVkVhbXJoTXdJY2oyM3JwUGZCbm1heTEyRHBYYnF0OW9zM2E?oc=5",
+          "description": "Benzina e diesel, cosa cambia con il nuovo taglio delle accise: la guida per il pieno ad agosto Corriere della Sera Taglio delle accise sul gasolio: lo sconto prosegue fino al 25 agosto Segugio.it Caro carburanti: né Confindustria né consumatori sono soddisfatti dello sconto del governo Il Fatto Quotidiano Salasso di guerra: Meloni fa il pieno ai petrolieri il manifesto Mimit, prezzo medio self be",
+          "pubDate": "Wed, 05 Aug 2026 06:11:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Madonna e Kylie, il 7 agosto arriva il brano Love sensation (Afterhours mix)",
+          "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/08/05/madonna-e-kylie-il-7-agosto-arriva-il-brano-love-sensation-afterhours-mix_aaaf1b12-ec39-4dcb-9d8f-d953796ec747.html",
+          "description": "Con successi dance al primo posto in cinque decenni, Madonna continua a dominare",
+          "pubDate": "Wed, 5 Aug 2026 08:54:07 +0200"
+        }
+      ],
+      "macro_area": "clima-salute"
+    },
+    {
+      "keyword": "nuovo",
+      "n_items": 11,
+      "n_sources": 9,
+      "category": "tech-ai",
+      "score": 105,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Russia Ucraina, Kiev ordina l'evacuazione di Kramatorsk per i raid di Mosca - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ01qZ0JyNnFCOTJPQW8wOU1DYVNVa0FoV21vTDk2emQwdmc4NTNtV0JFczktZ0V2T0RmQldFbXU2TlVMemkzOXh4R1dLdlNxTkZKZ3VlYVlvM3pjVTlwMmFiU3lnUW5lWk9LeHBwYUtndjE2V0lhQ21GRi14a2gwWl9SQUpiQnRS?oc=5",
+          "description": "Guerra Russia Ucraina, Kiev ordina l'evacuazione di Kramatorsk per i raid di Mosca Sky TG24 Ucraina: raid russi su Kiev, almeno 17 morti. Zelensky: 'Con gli intercettori sarebbero vivi' ANSA La Russia ha attaccato di nuovo la regione di Kyiv con missili e droni Il Post Raid su Kramatorsk: evacuata Zelensky accusa gli alleati Nato Il Fatto Quotidiano Difesa groviera. La scarsità di missili preoccup",
+          "pubDate": "Wed, 05 Aug 2026 22:00:20 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Benzina e diesel, cosa cambia con il nuovo taglio delle accise: la guida per il pieno ad agosto - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOLWJQa3ZDclFIUTVzSUVMd3hBdlc1RUFPck5aTzRvbzFwSUM3RGJPQ2R4eWJQVDNvREV4YjlqVWVER1kzTGsxSGItU0hPeGktckxYSG16WE1DWS1abTdUTzFoUF9kSTdnX1pya2Yxa204akNwMExhbTZ1RE0xMDNEcGtQZXNjZW01a0RkV1ctbGZsMUhvNk1HRTB1bjhHRXkybkY5U1JGYnVzLW9MaGFtNGhGbVREUGRyMFdUazM4ZWRHVjBBOV8zbERxN01LMy1ON0dodk80ZlRYcmZFQlhia1JvcVVsbzh5RDN3dVdyc2NSNjJJcFBQWi1OWWI3YWJ4NHRZUVFfLUZQVkVhbXJoTXdJY2oyM3JwUGZCbm1heTEyRHBYYnF0OW9zM2E?oc=5",
+          "description": "Benzina e diesel, cosa cambia con il nuovo taglio delle accise: la guida per il pieno ad agosto Corriere della Sera Taglio delle accise sul gasolio: lo sconto prosegue fino al 25 agosto Segugio.it Caro carburanti: né Confindustria né consumatori sono soddisfatti dello sconto del governo Il Fatto Quotidiano Salasso di guerra: Meloni fa il pieno ai petrolieri il manifesto Mimit, prezzo medio self be",
+          "pubDate": "Wed, 05 Aug 2026 06:11:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Allarme allo scalo di Lipsia, un drone bomba trovato accanto ad aerei ucraini",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/05/allarme-allo-scalo-di-lipsia-un-drone-bomba-trovato-accanto-ad-aerei-ucraini_8c35f73b-791a-4b11-a07b-ea89c9827f1a.html",
+          "description": "Un altro urta un cargo Dhl in volo. Il ministro: 'Attacco ibrido, è un nuovo livello di pericolo'",
+          "pubDate": "Wed, 5 Aug 2026 22:49:55 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Il prezzo dell'elettricità ai massimi da tre anni: così ci troviamo a pagare il doppio del resto d'Europa - today.it",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVGV2aTItUFRSUlA0bGxYaTRtekFncHdQS3pJcEcyZk9KZ1pBZnZGT2stUHNJS3JINkJobnc3VE00eGdfNGZzd1FvaGpHX0pUejB5RUJjYU9yc1JkQnlxdDcxVzZiWVVHaEFBazkwQ2J3RFZaV3ZfMFp1dGRZN0tsdnRB?oc=5",
+          "description": "Il prezzo dell'elettricità ai massimi da tre anni: così ci troviamo a pagare il doppio del resto d'Europa today.it Aggiornamento PUN e PSV di oggi, 5 agosto: nuovo aumento Facile.it Elettricità, prezzo ai massimi: pesano gas e condizionatori Il Sole 24 ORE Energia, l’effetto boomerang del caldo. Impianti sotto stress e prezzi alle stelle La Stampa Il super caldo fa schizzare le bollette elettriche",
+          "pubDate": "Tue, 04 Aug 2026 16:39:00 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Seltin Group a Termini Imerese: nuovo laboratorio e Academy per tecnici 4.0",
+          "link": "https://www.ilsole24ore.com/art/seltin-group-termini-imerese-nuovo-laboratorio-e-academy-tecnici-40-AJDPeUf",
+          "description": "Seltin Group, azienda specializzata nei servizi tecnici e ingegneristici per i settori automotive, industriale e della difesa, investe in Sicilia e sceglie Termini Imerese come base per la propria espansione...",
+          "pubDate": "Wed, 5 Aug 2026 10:08:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "record",
+      "n_items": 11,
+      "n_sources": 8,
+      "category": "general",
+      "score": 88,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Caldo intenso, nessuna tregua fino a Ferragosto. Qualche temporale in transito al Nord tra il 9 e 10 agosto - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMjlBenp3S1UtYkZ3V1dwNEVOSDlaRUEyWUxjdVhfdUp5UGROZjBjSjREY3VtaHVLX3N5QnBZSDFzMXQwMFZPREo1c21zMjc1S2VnZmU0N0djRElYQTdxVjBnclJYWGNlMzZOZGZBenRrcEpreXZwb0VIZkh6OFBVWmhES1g4WlotVW9fd0RSbURvd05GX2EyTWRldWIzVjlPUnhiTlJEb2hoVkJBdTJJdDFIdTQwSkZkY0RYV1hkc1N4d3RvSkxlY2Q0SjQ0Zw?oc=5",
+          "description": "Caldo intenso, nessuna tregua fino a Ferragosto. Qualche temporale in transito al Nord tra il 9 e 10 agosto Il Sole 24 ORE Caldo, record bollini rossi e allerta gialla maltempo in sette regioni Sky TG24 Caldo e afa non mollano, l'allerta fino a dopo ferragosto ANSA Previsioni meteo, breve pausa dall’afa al Nord, poi torna il caldo estremo fino a Ferragosto la Repubblica Per giovedì c'è l'allerta m",
+          "pubDate": "Wed, 05 Aug 2026 17:43:12 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Meteo Giuliacci, tregua al caldo estremo. Temporali in arrivo: dove e quando - Il Tempo",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdHNFTHYtZVR4VjVEbngwbWFON1ZSY29Xd1E0cWNUd00zVlNiSTVrUl96TnIyazA4TURMUUtfblJ1OTF6TkVLQThEWnhGVjBtMFNra0xHLTNXdkt3amIwVmFQYS1OT1NnczE0aWRST0JVRE93WTVQaWdGcjJBYW13Zm5KRkhvYWs1ZGluYUYzYk9YdjVEWURSdkxPcWRxU0JMekhRNFgwTVpUcGdUWkdsdXFoM3RCYkNpMzZTeTU0c3ZYdWJBdmV1djN3NFc?oc=5",
+          "description": "Meteo Giuliacci, tregua al caldo estremo. Temporali in arrivo: dove e quando Il Tempo «Caldo africano, ecco quando arriverà la svolta», spunta la data: le previsioni di Giuliacci Il Mattino Caldo record, quando finisce? Tregua dopo Ferragosto (ma non ovunque): ecco dove e quando Il Messaggero “Avevamo previsto la fine del caldo al nord e un’attenuazione del caldo anche al centro-sud. Così non sarà",
+          "pubDate": "Wed, 05 Aug 2026 15:06:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borsa Italiana, il commento della seduta del 5 agosto 2026 - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS0dhTUw2aVRqQ2ZWOU93VFRGdHk0c3gzdTBrV3dEZ243MlJCVGFXX1hMNlVFUEJrQ3FZZFB4WmUxN2V6QjJ2TVR2YVYxUUp1RFFCaDlFY3ZYaTJ0eVB2QmFXd1ludVVFT2pmbWFoZDhZUW02NWcxSnlRYnpPdnVvc1k1OFlkRFpDaFUzYlh2NTFsYnNXNGwxeXN1VQ?oc=5",
+          "description": "Borsa Italiana, il commento della seduta del 5 agosto 2026 SoldiOnline.it Milano termina gli scambi poco mossa, in scia alle Borse europee Borsa Italiana Borse in diretta, petrolio oggi 5 agosto | L'Europa chiude piatta nonostante Wall Street positiva. Greggio a 80 dollari Corriere della Sera Borse, Europa flette dai massimi. Milano -0,2%, Ws aggiorna i record ma cade Space X Il Sole 24 ORE Borse ",
+          "pubDate": "Wed, 05 Aug 2026 15:50:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: Europa consolida i record, indici piatti in chiusura",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/05/borsa-europa-consolida-i-record-indici-piatti-in-chiusura_72df5078-e51b-4120-b145-432d248f34d7.html",
+          "description": "Francoforte -0,2%, Parigi -0,03%, Londra +0,08%",
+          "pubDate": "Wed, 5 Aug 2026 18:07:23 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Wall Street apre positiva su nuovi record, Dj a +0,79% e Nasdaq a +0,44%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/05/wall-street-apre-positiva-su-nuovi-record-dj-a-079-e-nasdaq-a-044_ced6bbde-1b0f-4b4f-b9c6-4aa76fd6c40d.html",
+          "description": "In rialzo anche l'S 500 a +0,71%",
+          "pubDate": "Wed, 5 Aug 2026 15:38:00 +0200"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "oman",
+      "n_items": 11,
+      "n_sources": 7,
+      "category": "geopolitica",
+      "score": 83,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa Iran, intesa di Teheran con l'Oman su corridoio di navigazione a Hormuz - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSTIyX3VqTm0xXzJrLUt3ODlqUTZNRGtTVjJkc0tobmprSkFiQXlPOVdaSFB2dmFOSkxWX2lLM3BRT2hCVGpUQ2NIOVVHazVWdFBoaXNHb2NCTkRPQ2dGSW1TVUNPNDMtWWVSSjhDdzc3bzBlMjZlYmJ1aWZaWVF1aHB1bHRrZw?oc=5",
+          "description": "Guerra Usa Iran, intesa di Teheran con l'Oman su corridoio di navigazione a Hormuz Sky TG24 Accordo tra Iran e Oman, la cronaca della giornata ANSA Stretto di Hormuz, dal transito allo sminamento: cosa prevede l’intesa Iran-Oman Sky TG24 Dopo telefonata con ministro Araghchi, Tajani sente i negoziatori Libano-Israele: focus sul negoziato Ministero degli Affari Esteri e della Cooperazione Internazi",
+          "pubDate": "Wed, 05 Aug 2026 21:59:35 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Bessent: 'Possibile accordo per riaprire Hormuz oggi o domani'. Rubio: 'Sono stati fatti progressi, ma non si è ancora giunti a una conclusione definitiva' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX2FFeWh1OUFCMmRWeHU4OWxqMVA5WmxIY29wWWc2aFJQWHkxVHozbmlOZGNLSVR5Z3hCblhXU1RuQi1LeVhoX1owb0FMTjlCM2VJcUFpb3RCNGFlRHJjM29MNkE0NmVYS2xGelZCR1Bla1JacW1OQ1puY1Q4dXVSZEVhQ0YxQWlSeHhvQWpUMVlKSGdnVVVwRi1FVk50YUtQeUlwUldRM1hsNDRvX1pFMEEySG5PcDhpdWItLU1hbEZMM3lqZmJkSmJJTkkwZVdQdGRN0gHYAUFVX3lxTE5uYnE4YWdONnFXTWZybDlwWHRyenpRa2Zodk5EdU9mRXNfdWFVWnd1dFl3WkJvNjZiM2JNVm5fNFBzcWJ0T1lYckticXJqakQ3N1oxeG9wZTNzZ1V2aU81UmJ2bS1TcENwLXgyMDhFWHdVaGdjLXBBREFVQVdGYTNQM0lVYnRXUTVIcG01dHVmazRkREg3LXRCa2ZBYkppMmRsS3VjUUc4YlVhTVVWaUxVZ3JSUnlJbnNOUTJUN3BKNE54RHZ5VVdtM2tCOEsyTVpBNkxVV1N3Wg?oc=5",
+          "description": "Bessent: 'Possibile accordo per riaprire Hormuz oggi o domani'. Rubio: 'Sono stati fatti progressi, ma non si è ancora giunti a una conclusione definitiva' ANSA Spiragli per Hormuz: 'Un accordo possibile in poche ore' ANSA Usa-Iran, progressi nei colloqui, ma non c'è ancora il via libera per riaprire Hormuz Sky TG24 Trump: «Subito i colloqui con Teheran», ma il regime iraniano lo smentisce Il Sole",
+          "pubDate": "Tue, 04 Aug 2026 14:58:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Imporre i dazi agli Usa sul lavoro forzato. Perché l’Europa deve avere più coraggio - Domani",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcGttZ0ktV25ic1FBWW9jNGE4Z3lXUWQ5andEdG1VVGtIRWNCTFN4MTNhYjFWem1ZajBGNkhMaHFFOHVMTjdWcmxvQTEySnFEa3VpOHhMdGxiSEZYeFZLcHFhTWxsak5QQ2ZPd002SG51Rzh6OF9xYzJFamlFR0s1SEV1SkF3TEt5dS1WTmFocUxwSkRSZnRGRGdxVjJNN05UbnJXRTdnZGM1NHBtbjVaS3h0QTVXSjBwUVh5UFlyV242S3RNS3AyS21fcWRBZlU?oc=5",
+          "description": "Imporre i dazi agli Usa sul lavoro forzato. Perché l’Europa deve avere più coraggio Domani Dazi Usa, l'amministrazione Trump ha pagato 100 miliardi di rimborsi per quelli bocciati dalla Corte Suprema (oltre la metà di quanto ottenuto) Corriere della Sera Dazi: gli Usa hanno già rimborsato 100 miliardi di dollari. Cina pronta a rispondere a Trump Il Sole 24 ORE Trump rimborsa 100 miliardi di dazi: ",
+          "pubDate": "Wed, 05 Aug 2026 05:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "La secca del Danubio ha fatto riemergere navi da guerra e resti di mammut - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbEdwMks2RWVZdmNCN2RoTzhlMjRfcnAzc2hiZklYRi1Lem5vSy1scXU2S0daTWJCSk9UYmM5TzZ1ZGhEWVlIU2UyQkRkbC1peG5UTDkxUVh3SlRiaVVyelFWcXNGSTdiaWpfLXEtQzNHNGdPckdYbVN5T1UwTnBULXhielBmUldRVllR?oc=5",
+          "description": "La secca del Danubio ha fatto riemergere navi da guerra e resti di mammut Il Post Senz’acqua né energia osservatoreromano.va Caldo estremo e siccità mettono a rischio le centrali nucleari di Ungheria e Romania sul Danubio Il Sole 24 ORE Se il Danubio torna indietro il manifesto Siccità e caldo estremo mettono a dura prova il nucleare QualEnergia.it",
+          "pubDate": "Wed, 05 Aug 2026 14:38:45 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Live Updates: Trump says Strait of Hormuz deal could happen soon amid Iran-Oman talks - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3luLUxvekFtWFdpQU9vSnJ2RzRwdndUZ205VmYwcEl2WDNPSmZ1YUNteThESjB4LW5SdHlXX3pyZkdqNGtQd0JDQU5oeER4U21BY1AtMUpiSEdDWHZacnV5SGdQOXpzdllRU1lTLUtFZlFlU25JWGgtMnRSaE9sdVNOWQ?oc=5",
+          "description": "Live Updates: Trump says Strait of Hormuz deal could happen soon amid Iran-Oman talks CBS News An agreement on the Strait of Hormuz is taking shape – but not one Trump wants CNN Watch Iran Says Agreement on Hormuz Shipping Reached With Oman Bloomberg.com Trump says Strait of Hormuz deal could come Wednesday as gas prices stay high Fox News Iran, Oman say Strait of Hormuz talks in final stages, as ",
+          "pubDate": "Thu, 06 Aug 2026 01:41:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "sarà",
+      "n_items": 9,
+      "n_sources": 8,
+      "category": "clima",
+      "score": 78,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Meteo Giuliacci, tregua al caldo estremo. Temporali in arrivo: dove e quando - Il Tempo",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdHNFTHYtZVR4VjVEbngwbWFON1ZSY29Xd1E0cWNUd00zVlNiSTVrUl96TnIyazA4TURMUUtfblJ1OTF6TkVLQThEWnhGVjBtMFNra0xHLTNXdkt3amIwVmFQYS1OT1NnczE0aWRST0JVRE93WTVQaWdGcjJBYW13Zm5KRkhvYWs1ZGluYUYzYk9YdjVEWURSdkxPcWRxU0JMekhRNFgwTVpUcGdUWkdsdXFoM3RCYkNpMzZTeTU0c3ZYdWJBdmV1djN3NFc?oc=5",
+          "description": "Meteo Giuliacci, tregua al caldo estremo. Temporali in arrivo: dove e quando Il Tempo «Caldo africano, ecco quando arriverà la svolta», spunta la data: le previsioni di Giuliacci Il Mattino Caldo record, quando finisce? Tregua dopo Ferragosto (ma non ovunque): ecco dove e quando Il Messaggero “Avevamo previsto la fine del caldo al nord e un’attenuazione del caldo anche al centro-sud. Così non sarà",
+          "pubDate": "Wed, 05 Aug 2026 15:06:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Papa Leone XIV in viaggio apostolico in Uruguay, Argentina e Perù dal 6 al 17 novembre - rainews.it",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRE1lSVpBdDhVRUViTGFCVTR0cktqYWxKcG8taS1SWUh6NUs5S3hrX1lTT0NtVDhKV08xcHA2NkFRVUF2aGZ4aGIwSFd3NDJTZ1hzQ2VPRFZnZXdyYjhVNEllNmdVNS16ek8xSnJ2VmY0WFRlTkJhODgyVVV1Zi1sZUlwRlVxb3daT3JaQzlwalE3NndCSmZFQXZJVkJJajh4YV9rZWp1LVowQWlyYi03Z29lLTRITThicGZReGdBSWc4cW50Ym1HanNoS3RWak82TXdoc0dMYm1fTEk2RnY3d1lYNVRnN3JrLTBuYTZXanVBR0FHX3MzZzltb9IBgAJBVV95cUxOdEFPbTh4Z0pfNUlDbnZTLVg2NF9ydzcxclgwRG56a3dCZUdhX3JjVE1Xei1Hb2dBbm1kTHFCSE9aNFMtNUZ1d3ptVmpEV2JmLWpFdjVYQ1M1Z05EUXRvc0pKWDU4dXhtbTJERTI3eUU4RFZJWTRzSkJmTGdZcTA3MjhNN01NdEQ1NFpBQl9DRG92YjZSWEs0b18xb3dzTVVwUFM0QnhBR2dCMnEzaHhkekYyMHQtM01LQ1lIX2k1X2hsZWgwU2JQckxIaWRVUExPRWFjR1g0LWRybm0tbGltLUY4M3pWV2Jwa3JrVGRzZ1FyQWxXRU5wMzNRQk5VM0Vp?oc=5",
+          "description": "Papa Leone XIV in viaggio apostolico in Uruguay, Argentina e Perù dal 6 al 17 novembre rainews.it Leone \"pellegrino\" in America Latina: dal 6 al 17 novembre in Uruguay, Argentina e Perù Vatican News Prevost torna in Perù: a novembre viaggio anche in Uruguay e nell’Argentina di Francesco la Repubblica Leone XIV torna \"missionario\" in Sud America. A novembre sarà in Uruguay, Argentina e Perù Avvenir",
+          "pubDate": "Wed, 05 Aug 2026 10:22:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Da Paolo VI a Francesco, i viaggi dei Papi in America Latina",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/05/da-paolo-vi-a-francesco-i-viaggi-dei-papi-in-america-latina_0660b982-ff1d-43ad-818d-45a95d7cd7d5.html",
+          "description": "Cinque pontificati tra fede e crisi sociali, Leone XIV sarà il quinto nella regione",
+          "pubDate": "Wed, 5 Aug 2026 22:40:15 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Moda, al via la nuova vita degli invenduti: «L’economia circolare entri nelle aziende» - L'Eco di Bergamo",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZE9kNHcweC1BWFpzX2xvVWpzWEFtaXBxTmNlOVh1cVNnVk9IanRpQmxqTmJiUFgzV2ZoRXpaQmhHdjR2SzVmQWRMZW9OVk9vTlMySDFCTnJoc19KcWk5MmE3N1V6SU9Yd01KUUllWHd4a1NldDF4UjI0WlY0cXlqcUw5RE1xQjZtXzh6NURIV3h1eUFIYjJEWlVnSV8wcGF0OVp4d1NteUxURlhtMWxYU1ZkNEVPRmh0NG1lT1otR1A2SFZ3Uk1FQUJvUWhiMmlDM1FITzJ3djZ6dw?oc=5",
+          "description": "Moda, al via la nuova vita degli invenduti: «L’economia circolare entri nelle aziende» L'Eco di Bergamo Tessuti, chi inquina dovrebbe pagare - L'Unione Sarda.it L'Unione Sarda.it Rifiuti: Feltrin (FederlegnoArredo), 'bene consultazione pubblica, passaggio fondamentale per Epr' La Gazzetta del Mezzogiorno Il mobiliere sarà corresponsabile anche del ciclo di vita dei prodotti ItaliaOggi EPR mobili e",
+          "pubDate": "Wed, 05 Aug 2026 12:00:00 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Meliá sbarca a Lerici con un hotel a cinque stelle",
+          "link": "https://www.ilsole24ore.com/art/melia-sbarca-lerici-un-hotel-cinque-stelle-AJfIllf",
+          "description": "Sarà realizzato a Lerici, in località Venere, un grande albergo cinque stelle con il marchio Meliá collection. L’operazione si concentra su un’area area abbandonata da riqualificare, dove, anni fa, avevano...",
+          "pubDate": "Thu, 6 Aug 2026 04:00:00 GMT"
+        }
+      ],
+      "macro_area": "clima-salute"
+    },
+    {
+      "keyword": "after",
+      "n_items": 14,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 76,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Bunny Dolls and Disturbing Allegations: Max Miller’s Strange CNN Interview - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ2x4cnBVZ3pFMEZXX1NwQUIzRVZDWnA0MjIteW1rM0xRWG5MTmotTDhqQmM2U1g5WHZnVnJ0bUZRN1kxTFoybFNoUlpSc2NKUzBlZHgwbm1wRFZvMU1kdmpjZldfUGt4aTdhdHAyTEJBT2JaODJEaTE3VmZXR3NmUDRFN2NoU0ZO?oc=5",
+          "description": "Bunny Dolls and Disturbing Allegations: Max Miller’s Strange CNN Interview The New York Times Mike Johnson Would Prefer Not To The Atlantic House GOP anxiety spikes as scandals pile up in critical battleground seats CNN Lawyer says he's at fault after sensitive photo of lawmaker's daughter shared online USA Today GOP voters reluctant to abandon Rep. Max Miller over abuse allegations The Washington",
+          "pubDate": "Wed, 05 Aug 2026 21:51:24 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "In Nevada speech, Trump chases after toddler on stage before joking he doesn't want him to 'be Biden and fall' - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVTFpUjdwcW5xSUs0M3NhQjJXdWlMbWhORl9yZ3RHQUZYWW9fRmE3bzBoSkFFZVc3MUx3NXowcUhRS3p3U0pLWi1PdkxXN3VZOHBfNndKVUZfYlNiZ3BRUW5VN3FlcHZ5MmtIaDRPWjNDYmpEZEZxdFM5UDNaV1dfaEh5SzBLOUZJR0pkX0lOT3NwQW9LMzR4UlFsdTdVa1V6WnI1VjE1eVBld0lPR2pGZjZhNNIBuAFBVV95cUxPQVBiRkRGM0xxVG91TzRnTE52X2ljck1yZ0NFaXB2VVh0R1RDN0ZkQW1MMWp1RVZpT19MYlQteVplUWRibExnaU5zTGNJQlVjNXNNRTM0ZEVWaFFnS3JXZ2FmWG9tUHVkZ2hkNmlLZU01X3hWTG9BVG94WEpBSndpWDkxc2NfWjhyTXhEMTlRQ1VKQy1RaHpGcjVZREZfSXFTNnJqTDNveXNDQlVrTjlGZXBDN0JXT3Zw?oc=5",
+          "description": "In Nevada speech, Trump chases after toddler on stage before joking he doesn't want him to 'be Biden and fall' Fox News Trump corrals toddler wandering near edge of stage during Nevada speech: ‘Don’t want him to be Biden and fall’ New York Post Trump scare: President in jet ‘incident’ News.com.au Trump runs after escaped toddler, says he doesn't want him to be 'Biden and fall off the stage' Yahoo ",
+          "pubDate": "Wed, 05 Aug 2026 23:30:41 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump, Hegseth clashed at Camp David over Iran missile depletion concerns - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUliZlNTQUp4dGdITlFNX19DTENuNkh5TkJaMlJvMXhKRDlOWFhmVXNTT2RMSnQyLVlOWExDNWlJN0Q3QUY0bDBJWVBHMnFOSjZEUEdidkhFaEI3YVVlM0Jxa0taV2RVcEFwWFNNb180YmZqU3VDY3VzdU9zQ183VXBYWk9tVFFyeVQ5WDFpWWxfaDNQVFJ3LWM0Q2oyTWdtdFVXNmZtb01Nd1I5OWFoZy0taTJ0VWVXMHVJRjNGd3pCY0JpcWZLQjdB?oc=5",
+          "description": "Trump, Hegseth clashed at Camp David over Iran missile depletion concerns The Washington Post Pentagon holds crisis meeting on weapons shortfall after angry Trump call, sources say NBC News EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say Reuters Nearly 80% of interceptors for a key missile defense system depleted, sources say CNN US official",
+          "pubDate": "Thu, 06 Aug 2026 02:45:02 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Chuck Edwards' abrupt exit leaves Republicans scrambling - Axios",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV0Qtb1ltaE92cjZoTW55MUdwemRoZzVwS25QWGMycHJ1UU43Nk1nZkNUSlFmWVltYS1naUhOdWtFMVdPeFlIZTR3NnRCai1rTENieEY3OUZGcktBWFVVbG1CeW5NWGZ3UDRILUlTOXdpaHZ5NVc4LTBlYmVlRWVpNURXZEtHeHUza0k0MlpOMFNvQTMyQVpkOWI3TmxEM3VDU3Nj?oc=5",
+          "description": "Chuck Edwards' abrupt exit leaves Republicans scrambling Axios Scandal Leaves North Carolina G.O.P. With No Candidate and Little Time The New York Times Rep. Edwards drops competitive reelection bid after House censure recommendation The Washington Post How creepy poems and strip club plans became a Republican congressman's downfall USA Today GOP lawmaker gave female staffers lavish gifts of jewel",
+          "pubDate": "Wed, 05 Aug 2026 23:38:30 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Spain's Ceuta seeks transfer of unaccompanied migrant minors to mainland Spain after border rush - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNamh6Wi15cnNtQ2dJZ3BZV1A1YTRsaG5MbHNWcW9nZi1qVm5lVGpYdlVqTE1JLWZ3VGZtNzBSTTJERXh3a0QzSmFHdnVua3htUDNhbF9WdVVwMUgwRUhxWUFvZUVDbHktb0lnaTBVeTIyVVhiZ21zREtaZkQ3eFFMUTdxSzJsQ05GRkhrMzNLMUlWNzJQdlJLeGJVcVI3MFNjWS1MMk9tYTlIbEpQOUMtYkg0N3NoT051cldQcHh4cmlMRUtN?oc=5",
+          "description": "Spain's Ceuta seeks transfer of unaccompanied migrant minors to mainland Spain after border rush Reuters Ceuta border rush: Loved ones in limbo over missing family members CNN Europe encourages its neighbours to practise migration blackmail The Economist Migrant Crisis Reveals Vast Differences Between Ceuta and Its Moroccan Neighbor The New York Times After Ceuta, Europe is once again mired in mig",
+          "pubDate": "Wed, 05 Aug 2026 22:41:31 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "italiana",
+      "n_items": 11,
+      "n_sources": 6,
+      "category": "economia",
+      "score": 72,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ex Ilva, ci sono condizioni per valutare cordata italiana - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcllraElrdEU4dUtOTlhCNWwzYlE2cnp3OGlnNjZ5eEsyY0QwZ3FBeUx3dkg1Z1QzS0MxNGJ5WlJaVllrT2lscUlZeGtDTGtyUGVwTlZpUndWODVNdlJWdGVDVWJXS1hiVEo5OVdzeVFUdHNlWHBNcmJmUExtY1dLdThib2IxRC1HVTlkU1RjeFlES21UZjlQZ0JFYVZMTkpk?oc=5",
+          "description": "Ex Ilva, ci sono condizioni per valutare cordata italiana Il Sole 24 ORE Ex Ilva, spunta il soccorso di Webuild: disposta a investire a Taranto per l'acciaio del Ponte sullo Stretto Corriere della Sera Ex Ilva: Jindal rilancia, Renexia propone investimento da 150 mln. Ora incontro con big dell'acciaio rainews.it Ilva, la bugia di Urso: “Non ero al tavolo con i sindacati come da programma”. Ma l’ap",
+          "pubDate": "Wed, 05 Aug 2026 13:21:04 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Niente GPS, niente pilota: così i droni ucraini Shrike colpiscono i bersagli - Hardware Upgrade",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGdSZXJIbklzeFItckE3T3o0Wm1zd0Vwa1FsMGJnWkZUWmpMNncwTFVleXdyYXJYenl0UlpINThhY3FVNzV1RWNYdmd1bG9Zdkd6UUFlenlxbjBJZFJONGZDVFZoNDVhZnVwMExyMU5yUXFjYVQtNVBoTFU0dXZuU3djYVl4UHlFNGRYek85dllFZ2ZhWF85OGhyUmtYYThrYVZMNTZSTjVXZ19lOEI3SjE2eXlobmNoemtsdWFvZ3pEZkJYUWcw?oc=5",
+          "description": "Niente GPS, niente pilota: così i droni ucraini Shrike colpiscono i bersagli Hardware Upgrade UE riceve 1,4 miliardi di euro di proventi derivanti dagli attivi russi immobilizzati Borsa Italiana Von der Leyen: altri 1,4 mld all'Ucraina rainews.it Così Kyiv ha costruito la colonna vertebrale della sua Difesa Il Foglio Finora arrivati 8 miliardi dai proventi degli asset russi immobilizzati in Ue ANS",
+          "pubDate": "Wed, 05 Aug 2026 10:51:01 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Timido aumento in Piazza Affari - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR3BpMG52bThPZm1kVGNHSmdZVlBpempfeS1lUFdLMzlLZ2R6WldpV1MyMVZTdGcwcGNIcVVwclNxTXJ4UVU3aWhXY3piYk1vaUF1Qm1hQnMyUVhGVzNtUUl4OHpQSThiZi1VRWFxclk1WXBCZWlYSFNkMERSb2ZVYTd2czNBS0Qyaml4ejhyd0puWkxRYy1SbDNGeEthV2UwaFdXazBmaEF2aXNOMURHLVJXX0tOZy1ZZGFEcU9rYjU3TnRH?oc=5",
+          "description": "Timido aumento in Piazza Affari Borsa Italiana Apertura positiva per la Borsa di Milano e le altre Borse europee Borsa Italiana Borsa: Milano apre in rialzo, Ftse Mib +0,52% ANSA Perché Piazza Affari è ai massimi storici nonostante la crisi in Medio Oriente Quotidiano Nazionale Piazza Affari chiude in rialzo (+1,28%) trainata da difesa e tech rainews.it",
+          "pubDate": "Wed, 05 Aug 2026 11:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borsa Italiana, il commento della seduta del 5 agosto 2026 - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS0dhTUw2aVRqQ2ZWOU93VFRGdHk0c3gzdTBrV3dEZ243MlJCVGFXX1hMNlVFUEJrQ3FZZFB4WmUxN2V6QjJ2TVR2YVYxUUp1RFFCaDlFY3ZYaTJ0eVB2QmFXd1ludVVFT2pmbWFoZDhZUW02NWcxSnlRYnpPdnVvc1k1OFlkRFpDaFUzYlh2NTFsYnNXNGwxeXN1VQ?oc=5",
+          "description": "Borsa Italiana, il commento della seduta del 5 agosto 2026 SoldiOnline.it Milano termina gli scambi poco mossa, in scia alle Borse europee Borsa Italiana Borse in diretta, petrolio oggi 5 agosto | L'Europa chiude piatta nonostante Wall Street positiva. Greggio a 80 dollari Corriere della Sera Borse, Europa flette dai massimi. Milano -0,2%, Ws aggiorna i record ma cade Space X Il Sole 24 ORE Borse ",
+          "pubDate": "Wed, 05 Aug 2026 15:50:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "BFF Bank, i risultati finanziari del 1° semestre 2026 - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeUxXallCeVlybzJBWmc0Z2xSbmdFNzl4QnFjTlpXMDVxWGdmRW9MLXF1WE1VeDE1b2ZzaE5yV0t1MEQ3cVB0eHpuNkpWS1Rvbkpzb3hxSEZTOGxYaExzZjFHRTlTLUdXUVdDM09JelpCMElCXzZibE5aMXlndVBYUXZJd2tTTmp1Qks3cks5X0NQcERiTWlIMTdmQ0Vqa2c?oc=5",
+          "description": "BFF Bank, i risultati finanziari del 1° semestre 2026 SoldiOnline.it BFF valuta diverse opzioni strategiche per assicurare rispetto dei coefficienti patrimoniali Borsa Italiana Bff Bank regge nel semestre: crescono giro d’affari e utili dell’istituto finito sotto il faro di Bankitalia Milano Finanza BFF, utile semestrale scende a 51,4 milioni di euro con impatto del rapporto Bankitalia la Repubbli",
+          "pubDate": "Wed, 05 Aug 2026 16:46:00 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "iran",
+      "n_items": 10,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 66,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa Iran, intesa di Teheran con l'Oman su corridoio di navigazione a Hormuz - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSTIyX3VqTm0xXzJrLUt3ODlqUTZNRGtTVjJkc0tobmprSkFiQXlPOVdaSFB2dmFOSkxWX2lLM3BRT2hCVGpUQ2NIOVVHazVWdFBoaXNHb2NCTkRPQ2dGSW1TVUNPNDMtWWVSSjhDdzc3bzBlMjZlYmJ1aWZaWVF1aHB1bHRrZw?oc=5",
+          "description": "Guerra Usa Iran, intesa di Teheran con l'Oman su corridoio di navigazione a Hormuz Sky TG24 Accordo tra Iran e Oman, la cronaca della giornata ANSA Stretto di Hormuz, dal transito allo sminamento: cosa prevede l’intesa Iran-Oman Sky TG24 Dopo telefonata con ministro Araghchi, Tajani sente i negoziatori Libano-Israele: focus sul negoziato Ministero degli Affari Esteri e della Cooperazione Internazi",
+          "pubDate": "Wed, 05 Aug 2026 21:59:35 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Bessent: 'Possibile accordo per riaprire Hormuz oggi o domani'. Rubio: 'Sono stati fatti progressi, ma non si è ancora giunti a una conclusione definitiva' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX2FFeWh1OUFCMmRWeHU4OWxqMVA5WmxIY29wWWc2aFJQWHkxVHozbmlOZGNLSVR5Z3hCblhXU1RuQi1LeVhoX1owb0FMTjlCM2VJcUFpb3RCNGFlRHJjM29MNkE0NmVYS2xGelZCR1Bla1JacW1OQ1puY1Q4dXVSZEVhQ0YxQWlSeHhvQWpUMVlKSGdnVVVwRi1FVk50YUtQeUlwUldRM1hsNDRvX1pFMEEySG5PcDhpdWItLU1hbEZMM3lqZmJkSmJJTkkwZVdQdGRN0gHYAUFVX3lxTE5uYnE4YWdONnFXTWZybDlwWHRyenpRa2Zodk5EdU9mRXNfdWFVWnd1dFl3WkJvNjZiM2JNVm5fNFBzcWJ0T1lYckticXJqakQ3N1oxeG9wZTNzZ1V2aU81UmJ2bS1TcENwLXgyMDhFWHdVaGdjLXBBREFVQVdGYTNQM0lVYnRXUTVIcG01dHVmazRkREg3LXRCa2ZBYkppMmRsS3VjUUc4YlVhTVVWaUxVZ3JSUnlJbnNOUTJUN3BKNE54RHZ5VVdtM2tCOEsyTVpBNkxVV1N3Wg?oc=5",
+          "description": "Bessent: 'Possibile accordo per riaprire Hormuz oggi o domani'. Rubio: 'Sono stati fatti progressi, ma non si è ancora giunti a una conclusione definitiva' ANSA Spiragli per Hormuz: 'Un accordo possibile in poche ore' ANSA Usa-Iran, progressi nei colloqui, ma non c'è ancora il via libera per riaprire Hormuz Sky TG24 Trump: «Subito i colloqui con Teheran», ma il regime iraniano lo smentisce Il Sole",
+          "pubDate": "Tue, 04 Aug 2026 14:58:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Live Updates: Trump says Strait of Hormuz deal could happen soon amid Iran-Oman talks - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3luLUxvekFtWFdpQU9vSnJ2RzRwdndUZ205VmYwcEl2WDNPSmZ1YUNteThESjB4LW5SdHlXX3pyZkdqNGtQd0JDQU5oeER4U21BY1AtMUpiSEdDWHZacnV5SGdQOXpzdllRU1lTLUtFZlFlU25JWGgtMnRSaE9sdVNOWQ?oc=5",
+          "description": "Live Updates: Trump says Strait of Hormuz deal could happen soon amid Iran-Oman talks CBS News An agreement on the Strait of Hormuz is taking shape – but not one Trump wants CNN Watch Iran Says Agreement on Hormuz Shipping Reached With Oman Bloomberg.com Trump says Strait of Hormuz deal could come Wednesday as gas prices stay high Fox News Iran, Oman say Strait of Hormuz talks in final stages, as ",
+          "pubDate": "Thu, 06 Aug 2026 01:41:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump, Hegseth clashed at Camp David over Iran missile depletion concerns - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUliZlNTQUp4dGdITlFNX19DTENuNkh5TkJaMlJvMXhKRDlOWFhmVXNTT2RMSnQyLVlOWExDNWlJN0Q3QUY0bDBJWVBHMnFOSjZEUEdidkhFaEI3YVVlM0Jxa0taV2RVcEFwWFNNb180YmZqU3VDY3VzdU9zQ183VXBYWk9tVFFyeVQ5WDFpWWxfaDNQVFJ3LWM0Q2oyTWdtdFVXNmZtb01Nd1I5OWFoZy0taTJ0VWVXMHVJRjNGd3pCY0JpcWZLQjdB?oc=5",
+          "description": "Trump, Hegseth clashed at Camp David over Iran missile depletion concerns The Washington Post Pentagon holds crisis meeting on weapons shortfall after angry Trump call, sources say NBC News EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say Reuters Nearly 80% of interceptors for a key missile defense system depleted, sources say CNN US official",
+          "pubDate": "Thu, 06 Aug 2026 02:45:02 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "At least 12 states report cyberattacks on water systems possibly linked to Iran-backed hackers, sources say - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQem5KNFMwWjJpTmtVOWxLQ3F3R20zZVdyeWRQYTJXR3kxNVM2dUFTSnZmN2RxaTlLOTNENmFPbmVnMUZaT1gxNVMxUW1oSXpnMVhvcGF1QnI0aUdOTFBCWmF2aGxLWV9YZXFhejM3eGNaNjZjc0RoaVIwc1lLZnAtN3ZPT2Z0aVpFQ0xlSEZvX2xSQQ?oc=5",
+          "description": "At least 12 states report cyberattacks on water systems possibly linked to Iran-backed hackers, sources say CBS News Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect The New York Times New Jersey water systems targeted in cyberattack affecting 7 states NBC10 Philadelphia Attacks on water supply: Cybercriminals target at least 2 Georgia systems WSB-TV Cyberattac",
+          "pubDate": "Wed, 05 Aug 2026 22:27:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "rischio",
+      "n_items": 9,
+      "n_sources": 7,
+      "category": "general",
+      "score": 63,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "La secca del Danubio ha fatto riemergere navi da guerra e resti di mammut - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbEdwMks2RWVZdmNCN2RoTzhlMjRfcnAzc2hiZklYRi1Lem5vSy1scXU2S0daTWJCSk9UYmM5TzZ1ZGhEWVlIU2UyQkRkbC1peG5UTDkxUVh3SlRiaVVyelFWcXNGSTdiaWpfLXEtQzNHNGdPckdYbVN5T1UwTnBULXhielBmUldRVllR?oc=5",
+          "description": "La secca del Danubio ha fatto riemergere navi da guerra e resti di mammut Il Post Senz’acqua né energia osservatoreromano.va Caldo estremo e siccità mettono a rischio le centrali nucleari di Ungheria e Romania sul Danubio Il Sole 24 ORE Se il Danubio torna indietro il manifesto Siccità e caldo estremo mettono a dura prova il nucleare QualEnergia.it",
+          "pubDate": "Wed, 05 Aug 2026 14:38:45 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Parkinson, vivere vicino a una lavanderia a secco può aumentare il rischio? - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONEFyTDBwN0VzOHdaNVlNVV8xRU5kQmtOOG5rZzVmS0NiZUc2bHBSdXRLeXc4RGI3cnNoME9OaFV6YlhEdURnaGJ0T3YyZ3RRb0d6LTd1NUxrS2dKQXNiMmw5WXVMWE9WdEYwUnlia3BLOHBPTnFYZE1HRUxQcV9Mem5sT3VRT1FjYVQtYzJuTWRETlZDQVJNMlJWX01qcGR3bDVzQUl2U0dMRlZzaVpwaERMeWpncTUyNGNkM0hETVlzUURpak5mYmFjYXlhQQ?oc=5",
+          "description": "Parkinson, vivere vicino a una lavanderia a secco può aumentare il rischio? Mondosanità",
+          "pubDate": "Wed, 05 Aug 2026 21:15:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Leonardo DiCaprio e Jeff Bezos lanciano progetto per salvare 100 specie a rischio",
+          "link": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/08/04/leonardo-dicaprio-e-jeff-bezos-lanciano-progetto-per-salvare-100-specie_12bcb1b2-2e8c-4e73-a7b9-32e11531cff2.html",
+          "description": "Il fondo filantropico Phoenix Species Project è un'iniziativa da 200 milioni di dollari",
+          "pubDate": "Tue, 4 Aug 2026 21:50:22 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Ortaggi, frutta e olio d’oliva: caldo e siccità mettono in ginocchio l’agricoltura. Latte -10% - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWTlBMlBiVEtkZFZIenJxR3NCRTg2cXF5S3JxRzZDRkg5X1drYkNzWkF5RXNMYTJfbk9DOHRMVjhUWXhCTUdZandrRmNQZE43LWJRMkhYOFdwRjRZeHFOZ3hjR0FsNFFZSElkUmJHOXZfUlBneVNCSkxiY2JIV3JBcmtJVlQxM2Etd0F4ZGlHTGJ1dEJpWXl5aDFWWnRWQTN3SWY5YU9JcDYwc0I2Z09wanU0VkNKajVT?oc=5",
+          "description": "Ortaggi, frutta e olio d’oliva: caldo e siccità mettono in ginocchio l’agricoltura. Latte -10% Il Sole 24 ORE Coldiretti, clima taglia ortofrutta ma giù prezzi pagati a produttori, -20% in un anno ANSA Dall’olio all’insalata, tutti gli alimenti a rischio aumenti prezzi per il caldo. La lista Sky TG24 Frutta e verdura ’scottate’: \"La produzione al tappeto sotto i colpi del caldo\" Il Resto del Carli",
+          "pubDate": "Tue, 04 Aug 2026 09:14:15 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Revolut, con l’addio a Perplexity rischio addebiti indesiderati: cosa fare - HDblog.it",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONW9qUVR3UmxXZHpQNWpxN2JZTXExNE5ub3hHU1RKVGVLNENxV1ZVZG4yaEUyVkp6MWtiRXhNSk9wcmpjcnV3OGswQXBzSV9tRjU0bkx1X25hbGpDT1RBbVRfMmhFTXMzai1rV1dVSFBXbDV3VmduV0lYY0Y0MUJKSmNnY3NQZWtnTGJBMmQtLWh3V2d6M181UUZR?oc=5",
+          "description": "Revolut, con l’addio a Perplexity rischio addebiti indesiderati: cosa fare HDblog.it",
+          "pubDate": "Wed, 05 Aug 2026 09:40:51 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "accordo",
+      "n_items": 8,
+      "n_sources": 7,
+      "category": "geopolitica",
+      "score": 62,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa Iran, intesa di Teheran con l'Oman su corridoio di navigazione a Hormuz - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSTIyX3VqTm0xXzJrLUt3ODlqUTZNRGtTVjJkc0tobmprSkFiQXlPOVdaSFB2dmFOSkxWX2lLM3BRT2hCVGpUQ2NIOVVHazVWdFBoaXNHb2NCTkRPQ2dGSW1TVUNPNDMtWWVSSjhDdzc3bzBlMjZlYmJ1aWZaWVF1aHB1bHRrZw?oc=5",
+          "description": "Guerra Usa Iran, intesa di Teheran con l'Oman su corridoio di navigazione a Hormuz Sky TG24 Accordo tra Iran e Oman, la cronaca della giornata ANSA Stretto di Hormuz, dal transito allo sminamento: cosa prevede l’intesa Iran-Oman Sky TG24 Dopo telefonata con ministro Araghchi, Tajani sente i negoziatori Libano-Israele: focus sul negoziato Ministero degli Affari Esteri e della Cooperazione Internazi",
+          "pubDate": "Wed, 05 Aug 2026 21:59:35 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Bessent: 'Possibile accordo per riaprire Hormuz oggi o domani'. Rubio: 'Sono stati fatti progressi, ma non si è ancora giunti a una conclusione definitiva' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX2FFeWh1OUFCMmRWeHU4OWxqMVA5WmxIY29wWWc2aFJQWHkxVHozbmlOZGNLSVR5Z3hCblhXU1RuQi1LeVhoX1owb0FMTjlCM2VJcUFpb3RCNGFlRHJjM29MNkE0NmVYS2xGelZCR1Bla1JacW1OQ1puY1Q4dXVSZEVhQ0YxQWlSeHhvQWpUMVlKSGdnVVVwRi1FVk50YUtQeUlwUldRM1hsNDRvX1pFMEEySG5PcDhpdWItLU1hbEZMM3lqZmJkSmJJTkkwZVdQdGRN0gHYAUFVX3lxTE5uYnE4YWdONnFXTWZybDlwWHRyenpRa2Zodk5EdU9mRXNfdWFVWnd1dFl3WkJvNjZiM2JNVm5fNFBzcWJ0T1lYckticXJqakQ3N1oxeG9wZTNzZ1V2aU81UmJ2bS1TcENwLXgyMDhFWHdVaGdjLXBBREFVQVdGYTNQM0lVYnRXUTVIcG01dHVmazRkREg3LXRCa2ZBYkppMmRsS3VjUUc4YlVhTVVWaUxVZ3JSUnlJbnNOUTJUN3BKNE54RHZ5VVdtM2tCOEsyTVpBNkxVV1N3Wg?oc=5",
+          "description": "Bessent: 'Possibile accordo per riaprire Hormuz oggi o domani'. Rubio: 'Sono stati fatti progressi, ma non si è ancora giunti a una conclusione definitiva' ANSA Spiragli per Hormuz: 'Un accordo possibile in poche ore' ANSA Usa-Iran, progressi nei colloqui, ma non c'è ancora il via libera per riaprire Hormuz Sky TG24 Trump: «Subito i colloqui con Teheran», ma il regime iraniano lo smentisce Il Sole",
+          "pubDate": "Tue, 04 Aug 2026 14:58:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Accordo tra Iran e Oman sulle nuove rotte di Hormuz, l'ipotesi di una tregua",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/05/accordo-tra-iran-e-oman-sulle-nuove-rotte-di-hormuz-lipotesi-di-una_594e2920-4cc5-42ab-bff8-24241c6b3b0d.html",
+          "description": "Teheran: 'Gli Usa non ostacolino il processo'. Trump: 'Riaprite o reazione durissima'",
+          "pubDate": "Wed, 5 Aug 2026 21:15:29 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "La morte di Domenico, c'è l'intesa per il risarcimento",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/la-morte-di-domenico-ce-lintesa-per-il-risarcimento_6a515a2b-97d7-4784-ada2-a300fa902bc3.html",
+          "description": "Accordo riservatezza sulla cifra, circa 1,5 milioni. La mamma: 'Ora attendiamo il processo'",
+          "pubDate": "Wed, 5 Aug 2026 19:42:42 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Le Borse oggi, 5 agosto. Troppa incertezza su Hormuz, il petrolio torna a salire e i mercati frenano - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTFBZNGg0MjlSamYwNWlINXY4Y2ZURTN0YUtsdmJtUzByVFM1elY3NThUZk16SlJKNFpobVVTR1U4TkhQRVY1OEpmbE9vcklkMHoxb1dQeUdzWmxUdG10M19vNkhzVDJzZWtoakhZOG9vMHo5MktIYzlyNV9Lc2t4TFE1VVlGM2VJVmhZOV9Za0FjZERF?oc=5",
+          "description": "Le Borse oggi, 5 agosto. Troppa incertezza su Hormuz, il petrolio torna a salire e i mercati frenano la Repubblica La diretta da Wall Street | Borse Usa incerte: non è ancora chiaro l’accordo su Hormuz, Nasdaq -0,8%. Vola Bending Spoons: +20% (+16,8%) Milano Finanza Wall Street chiude ai massimi storici mentre lo stretto di Hormuz detiene la chiave: cosa succede ora? Yahoo Finanza Milano cauta con",
+          "pubDate": "Wed, 05 Aug 2026 07:01:55 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "trump",
+      "n_items": 11,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 61,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Usa, El-Sayed vince le primarie democratiche in Michigan - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd1JUY3NrbDJwT280V0ZKV1Y2amZyM3d4elE5VXFVR2lNcVlveXVkZ2VGb0JBU1lWMTNETjNJMkdDbDZYMWFLaGhPZW9uMUt4c3cxRmNHWFJ1Rkc4SFp3T1dpQnNVZGphbUZfN28xTkllTW8wdkQ1MkVtUkxMd1ZpbzA1V1p0cjhfRzVnMHhITXBWVWdCS05vV2swWGhSV0EyaGcw?oc=5",
+          "description": "Usa, El-Sayed vince le primarie democratiche in Michigan Il Sole 24 ORE Stati Uniti, Abdul El-Sayed vince in Michigan. L'ira di Trump: 'Voto truccato' ANSA La nuova sinistra americana cambia il Partito Democratico rainews.it La riscossa dei socialisti che sognano l’America riformata all’europea la Repubblica Abdul El-Sayed, gli Stati Uniti nella morsa degli opposti populismi La Stampa",
+          "pubDate": "Wed, 05 Aug 2026 18:53:37 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Bessent: 'Possibile accordo per riaprire Hormuz oggi o domani'. Rubio: 'Sono stati fatti progressi, ma non si è ancora giunti a una conclusione definitiva' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX2FFeWh1OUFCMmRWeHU4OWxqMVA5WmxIY29wWWc2aFJQWHkxVHozbmlOZGNLSVR5Z3hCblhXU1RuQi1LeVhoX1owb0FMTjlCM2VJcUFpb3RCNGFlRHJjM29MNkE0NmVYS2xGelZCR1Bla1JacW1OQ1puY1Q4dXVSZEVhQ0YxQWlSeHhvQWpUMVlKSGdnVVVwRi1FVk50YUtQeUlwUldRM1hsNDRvX1pFMEEySG5PcDhpdWItLU1hbEZMM3lqZmJkSmJJTkkwZVdQdGRN0gHYAUFVX3lxTE5uYnE4YWdONnFXTWZybDlwWHRyenpRa2Zodk5EdU9mRXNfdWFVWnd1dFl3WkJvNjZiM2JNVm5fNFBzcWJ0T1lYckticXJqakQ3N1oxeG9wZTNzZ1V2aU81UmJ2bS1TcENwLXgyMDhFWHdVaGdjLXBBREFVQVdGYTNQM0lVYnRXUTVIcG01dHVmazRkREg3LXRCa2ZBYkppMmRsS3VjUUc4YlVhTVVWaUxVZ3JSUnlJbnNOUTJUN3BKNE54RHZ5VVdtM2tCOEsyTVpBNkxVV1N3Wg?oc=5",
+          "description": "Bessent: 'Possibile accordo per riaprire Hormuz oggi o domani'. Rubio: 'Sono stati fatti progressi, ma non si è ancora giunti a una conclusione definitiva' ANSA Spiragli per Hormuz: 'Un accordo possibile in poche ore' ANSA Usa-Iran, progressi nei colloqui, ma non c'è ancora il via libera per riaprire Hormuz Sky TG24 Trump: «Subito i colloqui con Teheran», ma il regime iraniano lo smentisce Il Sole",
+          "pubDate": "Tue, 04 Aug 2026 14:58:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Imporre i dazi agli Usa sul lavoro forzato. Perché l’Europa deve avere più coraggio - Domani",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcGttZ0ktV25ic1FBWW9jNGE4Z3lXUWQ5andEdG1VVGtIRWNCTFN4MTNhYjFWem1ZajBGNkhMaHFFOHVMTjdWcmxvQTEySnFEa3VpOHhMdGxiSEZYeFZLcHFhTWxsak5QQ2ZPd002SG51Rzh6OF9xYzJFamlFR0s1SEV1SkF3TEt5dS1WTmFocUxwSkRSZnRGRGdxVjJNN05UbnJXRTdnZGM1NHBtbjVaS3h0QTVXSjBwUVh5UFlyV242S3RNS3AyS21fcWRBZlU?oc=5",
+          "description": "Imporre i dazi agli Usa sul lavoro forzato. Perché l’Europa deve avere più coraggio Domani Dazi Usa, l'amministrazione Trump ha pagato 100 miliardi di rimborsi per quelli bocciati dalla Corte Suprema (oltre la metà di quanto ottenuto) Corriere della Sera Dazi: gli Usa hanno già rimborsato 100 miliardi di dollari. Cina pronta a rispondere a Trump Il Sole 24 ORE Trump rimborsa 100 miliardi di dazi: ",
+          "pubDate": "Wed, 05 Aug 2026 05:00:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Live Updates: Trump says Strait of Hormuz deal could happen soon amid Iran-Oman talks - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3luLUxvekFtWFdpQU9vSnJ2RzRwdndUZ205VmYwcEl2WDNPSmZ1YUNteThESjB4LW5SdHlXX3pyZkdqNGtQd0JDQU5oeER4U21BY1AtMUpiSEdDWHZacnV5SGdQOXpzdllRU1lTLUtFZlFlU25JWGgtMnRSaE9sdVNOWQ?oc=5",
+          "description": "Live Updates: Trump says Strait of Hormuz deal could happen soon amid Iran-Oman talks CBS News An agreement on the Strait of Hormuz is taking shape – but not one Trump wants CNN Watch Iran Says Agreement on Hormuz Shipping Reached With Oman Bloomberg.com Trump says Strait of Hormuz deal could come Wednesday as gas prices stay high Fox News Iran, Oman say Strait of Hormuz talks in final stages, as ",
+          "pubDate": "Thu, 06 Aug 2026 01:41:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "In Nevada speech, Trump chases after toddler on stage before joking he doesn't want him to 'be Biden and fall' - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVTFpUjdwcW5xSUs0M3NhQjJXdWlMbWhORl9yZ3RHQUZYWW9fRmE3bzBoSkFFZVc3MUx3NXowcUhRS3p3U0pLWi1PdkxXN3VZOHBfNndKVUZfYlNiZ3BRUW5VN3FlcHZ5MmtIaDRPWjNDYmpEZEZxdFM5UDNaV1dfaEh5SzBLOUZJR0pkX0lOT3NwQW9LMzR4UlFsdTdVa1V6WnI1VjE1eVBld0lPR2pGZjZhNNIBuAFBVV95cUxPQVBiRkRGM0xxVG91TzRnTE52X2ljck1yZ0NFaXB2VVh0R1RDN0ZkQW1MMWp1RVZpT19MYlQteVplUWRibExnaU5zTGNJQlVjNXNNRTM0ZEVWaFFnS3JXZ2FmWG9tUHVkZ2hkNmlLZU01X3hWTG9BVG94WEpBSndpWDkxc2NfWjhyTXhEMTlRQ1VKQy1RaHpGcjVZREZfSXFTNnJqTDNveXNDQlVrTjlGZXBDN0JXT3Zw?oc=5",
+          "description": "In Nevada speech, Trump chases after toddler on stage before joking he doesn't want him to 'be Biden and fall' Fox News Trump corrals toddler wandering near edge of stage during Nevada speech: ‘Don’t want him to be Biden and fall’ New York Post Trump scare: President in jet ‘incident’ News.com.au Trump runs after escaped toddler, says he doesn't want him to be 'Biden and fall off the stage' Yahoo ",
+          "pubDate": "Wed, 05 Aug 2026 23:30:41 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "guerra",
+      "n_items": 9,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 60,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa Iran, intesa di Teheran con l'Oman su corridoio di navigazione a Hormuz - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSTIyX3VqTm0xXzJrLUt3ODlqUTZNRGtTVjJkc0tobmprSkFiQXlPOVdaSFB2dmFOSkxWX2lLM3BRT2hCVGpUQ2NIOVVHazVWdFBoaXNHb2NCTkRPQ2dGSW1TVUNPNDMtWWVSSjhDdzc3bzBlMjZlYmJ1aWZaWVF1aHB1bHRrZw?oc=5",
+          "description": "Guerra Usa Iran, intesa di Teheran con l'Oman su corridoio di navigazione a Hormuz Sky TG24 Accordo tra Iran e Oman, la cronaca della giornata ANSA Stretto di Hormuz, dal transito allo sminamento: cosa prevede l’intesa Iran-Oman Sky TG24 Dopo telefonata con ministro Araghchi, Tajani sente i negoziatori Libano-Israele: focus sul negoziato Ministero degli Affari Esteri e della Cooperazione Internazi",
+          "pubDate": "Wed, 05 Aug 2026 21:59:35 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Russia Ucraina, Kiev ordina l'evacuazione di Kramatorsk per i raid di Mosca - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ01qZ0JyNnFCOTJPQW8wOU1DYVNVa0FoV21vTDk2emQwdmc4NTNtV0JFczktZ0V2T0RmQldFbXU2TlVMemkzOXh4R1dLdlNxTkZKZ3VlYVlvM3pjVTlwMmFiU3lnUW5lWk9LeHBwYUtndjE2V0lhQ21GRi14a2gwWl9SQUpiQnRS?oc=5",
+          "description": "Guerra Russia Ucraina, Kiev ordina l'evacuazione di Kramatorsk per i raid di Mosca Sky TG24 Ucraina: raid russi su Kiev, almeno 17 morti. Zelensky: 'Con gli intercettori sarebbero vivi' ANSA La Russia ha attaccato di nuovo la regione di Kyiv con missili e droni Il Post Raid su Kramatorsk: evacuata Zelensky accusa gli alleati Nato Il Fatto Quotidiano Difesa groviera. La scarsità di missili preoccup",
+          "pubDate": "Wed, 05 Aug 2026 22:00:20 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Benzina e diesel, cosa cambia con il nuovo taglio delle accise: la guida per il pieno ad agosto - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOLWJQa3ZDclFIUTVzSUVMd3hBdlc1RUFPck5aTzRvbzFwSUM3RGJPQ2R4eWJQVDNvREV4YjlqVWVER1kzTGsxSGItU0hPeGktckxYSG16WE1DWS1abTdUTzFoUF9kSTdnX1pya2Yxa204akNwMExhbTZ1RE0xMDNEcGtQZXNjZW01a0RkV1ctbGZsMUhvNk1HRTB1bjhHRXkybkY5U1JGYnVzLW9MaGFtNGhGbVREUGRyMFdUazM4ZWRHVjBBOV8zbERxN01LMy1ON0dodk80ZlRYcmZFQlhia1JvcVVsbzh5RDN3dVdyc2NSNjJJcFBQWi1OWWI3YWJ4NHRZUVFfLUZQVkVhbXJoTXdJY2oyM3JwUGZCbm1heTEyRHBYYnF0OW9zM2E?oc=5",
+          "description": "Benzina e diesel, cosa cambia con il nuovo taglio delle accise: la guida per il pieno ad agosto Corriere della Sera Taglio delle accise sul gasolio: lo sconto prosegue fino al 25 agosto Segugio.it Caro carburanti: né Confindustria né consumatori sono soddisfatti dello sconto del governo Il Fatto Quotidiano Salasso di guerra: Meloni fa il pieno ai petrolieri il manifesto Mimit, prezzo medio self be",
+          "pubDate": "Wed, 05 Aug 2026 06:11:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "La secca del Danubio ha fatto riemergere navi da guerra e resti di mammut - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbEdwMks2RWVZdmNCN2RoTzhlMjRfcnAzc2hiZklYRi1Lem5vSy1scXU2S0daTWJCSk9UYmM5TzZ1ZGhEWVlIU2UyQkRkbC1peG5UTDkxUVh3SlRiaVVyelFWcXNGSTdiaWpfLXEtQzNHNGdPckdYbVN5T1UwTnBULXhielBmUldRVllR?oc=5",
+          "description": "La secca del Danubio ha fatto riemergere navi da guerra e resti di mammut Il Post Senz’acqua né energia osservatoreromano.va Caldo estremo e siccità mettono a rischio le centrali nucleari di Ungheria e Romania sul Danubio Il Sole 24 ORE Se il Danubio torna indietro il manifesto Siccità e caldo estremo mettono a dura prova il nucleare QualEnergia.it",
+          "pubDate": "Wed, 05 Aug 2026 14:38:45 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Ucraina, il nunzio: preoccupa sentire chi benedice la guerra. Il Papa unica voce di pace - Vatican News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONmdzaE5jakdHWGJFdVVCNGk3R2hLaFlDSWlzc2JaQUZBbXZCZ0VpdTdpTFd3a1pWYk9LMkhiR1o1c0ppajR4S3NSV3MyeGppQ1BrRnMtT0VJWHg1WFpocVlzV2pjRGd5S0FCYXc1RWFjSmdhdjNiN1diNWQtQXlWRWxPdGJDbHhyYkhDS3RrSF92S3A4dENNZThVZ2F4U3RLUnlXTDlKTm5zQWRmbXc?oc=5",
+          "description": "Ucraina, il nunzio: preoccupa sentire chi benedice la guerra. Il Papa unica voce di pace Vatican News L’Arcivescovo di Kiev, “perdono e riconciliazione per sanare la memoria dei popoli europei” La Voce e il Tempo",
+          "pubDate": "Wed, 05 Aug 2026 12:54:35 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "hormuz",
+      "n_items": 7,
+      "n_sources": 7,
+      "category": "geopolitica",
+      "score": 55,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa Iran, intesa di Teheran con l'Oman su corridoio di navigazione a Hormuz - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSTIyX3VqTm0xXzJrLUt3ODlqUTZNRGtTVjJkc0tobmprSkFiQXlPOVdaSFB2dmFOSkxWX2lLM3BRT2hCVGpUQ2NIOVVHazVWdFBoaXNHb2NCTkRPQ2dGSW1TVUNPNDMtWWVSSjhDdzc3bzBlMjZlYmJ1aWZaWVF1aHB1bHRrZw?oc=5",
+          "description": "Guerra Usa Iran, intesa di Teheran con l'Oman su corridoio di navigazione a Hormuz Sky TG24 Accordo tra Iran e Oman, la cronaca della giornata ANSA Stretto di Hormuz, dal transito allo sminamento: cosa prevede l’intesa Iran-Oman Sky TG24 Dopo telefonata con ministro Araghchi, Tajani sente i negoziatori Libano-Israele: focus sul negoziato Ministero degli Affari Esteri e della Cooperazione Internazi",
+          "pubDate": "Wed, 05 Aug 2026 21:59:35 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Bessent: 'Possibile accordo per riaprire Hormuz oggi o domani'. Rubio: 'Sono stati fatti progressi, ma non si è ancora giunti a una conclusione definitiva' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX2FFeWh1OUFCMmRWeHU4OWxqMVA5WmxIY29wWWc2aFJQWHkxVHozbmlOZGNLSVR5Z3hCblhXU1RuQi1LeVhoX1owb0FMTjlCM2VJcUFpb3RCNGFlRHJjM29MNkE0NmVYS2xGelZCR1Bla1JacW1OQ1puY1Q4dXVSZEVhQ0YxQWlSeHhvQWpUMVlKSGdnVVVwRi1FVk50YUtQeUlwUldRM1hsNDRvX1pFMEEySG5PcDhpdWItLU1hbEZMM3lqZmJkSmJJTkkwZVdQdGRN0gHYAUFVX3lxTE5uYnE4YWdONnFXTWZybDlwWHRyenpRa2Zodk5EdU9mRXNfdWFVWnd1dFl3WkJvNjZiM2JNVm5fNFBzcWJ0T1lYckticXJqakQ3N1oxeG9wZTNzZ1V2aU81UmJ2bS1TcENwLXgyMDhFWHdVaGdjLXBBREFVQVdGYTNQM0lVYnRXUTVIcG01dHVmazRkREg3LXRCa2ZBYkppMmRsS3VjUUc4YlVhTVVWaUxVZ3JSUnlJbnNOUTJUN3BKNE54RHZ5VVdtM2tCOEsyTVpBNkxVV1N3Wg?oc=5",
+          "description": "Bessent: 'Possibile accordo per riaprire Hormuz oggi o domani'. Rubio: 'Sono stati fatti progressi, ma non si è ancora giunti a una conclusione definitiva' ANSA Spiragli per Hormuz: 'Un accordo possibile in poche ore' ANSA Usa-Iran, progressi nei colloqui, ma non c'è ancora il via libera per riaprire Hormuz Sky TG24 Trump: «Subito i colloqui con Teheran», ma il regime iraniano lo smentisce Il Sole",
+          "pubDate": "Tue, 04 Aug 2026 14:58:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Live Updates: Trump says Strait of Hormuz deal could happen soon amid Iran-Oman talks - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3luLUxvekFtWFdpQU9vSnJ2RzRwdndUZ205VmYwcEl2WDNPSmZ1YUNteThESjB4LW5SdHlXX3pyZkdqNGtQd0JDQU5oeER4U21BY1AtMUpiSEdDWHZacnV5SGdQOXpzdllRU1lTLUtFZlFlU25JWGgtMnRSaE9sdVNOWQ?oc=5",
+          "description": "Live Updates: Trump says Strait of Hormuz deal could happen soon amid Iran-Oman talks CBS News An agreement on the Strait of Hormuz is taking shape – but not one Trump wants CNN Watch Iran Says Agreement on Hormuz Shipping Reached With Oman Bloomberg.com Trump says Strait of Hormuz deal could come Wednesday as gas prices stay high Fox News Iran, Oman say Strait of Hormuz talks in final stages, as ",
+          "pubDate": "Thu, 06 Aug 2026 01:41:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Accordo tra Iran e Oman sulle nuove rotte di Hormuz, l'ipotesi di una tregua",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/05/accordo-tra-iran-e-oman-sulle-nuove-rotte-di-hormuz-lipotesi-di-una_594e2920-4cc5-42ab-bff8-24241c6b3b0d.html",
+          "description": "Teheran: 'Gli Usa non ostacolino il processo'. Trump: 'Riaprite o reazione durissima'",
+          "pubDate": "Wed, 5 Aug 2026 21:15:29 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+          "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+          "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+          "pubDate": "Thu, 06 Aug 2026 01:19:59 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "borsa",
+      "n_items": 11,
+      "n_sources": 4,
+      "category": "economia",
+      "score": 50,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Imporre i dazi agli Usa sul lavoro forzato. Perché l’Europa deve avere più coraggio - Domani",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcGttZ0ktV25ic1FBWW9jNGE4Z3lXUWQ5andEdG1VVGtIRWNCTFN4MTNhYjFWem1ZajBGNkhMaHFFOHVMTjdWcmxvQTEySnFEa3VpOHhMdGxiSEZYeFZLcHFhTWxsak5QQ2ZPd002SG51Rzh6OF9xYzJFamlFR0s1SEV1SkF3TEt5dS1WTmFocUxwSkRSZnRGRGdxVjJNN05UbnJXRTdnZGM1NHBtbjVaS3h0QTVXSjBwUVh5UFlyV242S3RNS3AyS21fcWRBZlU?oc=5",
+          "description": "Imporre i dazi agli Usa sul lavoro forzato. Perché l’Europa deve avere più coraggio Domani Dazi Usa, l'amministrazione Trump ha pagato 100 miliardi di rimborsi per quelli bocciati dalla Corte Suprema (oltre la metà di quanto ottenuto) Corriere della Sera Dazi: gli Usa hanno già rimborsato 100 miliardi di dollari. Cina pronta a rispondere a Trump Il Sole 24 ORE Trump rimborsa 100 miliardi di dazi: ",
+          "pubDate": "Wed, 05 Aug 2026 05:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Niente GPS, niente pilota: così i droni ucraini Shrike colpiscono i bersagli - Hardware Upgrade",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGdSZXJIbklzeFItckE3T3o0Wm1zd0Vwa1FsMGJnWkZUWmpMNncwTFVleXdyYXJYenl0UlpINThhY3FVNzV1RWNYdmd1bG9Zdkd6UUFlenlxbjBJZFJONGZDVFZoNDVhZnVwMExyMU5yUXFjYVQtNVBoTFU0dXZuU3djYVl4UHlFNGRYek85dllFZ2ZhWF85OGhyUmtYYThrYVZMNTZSTjVXZ19lOEI3SjE2eXlobmNoemtsdWFvZ3pEZkJYUWcw?oc=5",
+          "description": "Niente GPS, niente pilota: così i droni ucraini Shrike colpiscono i bersagli Hardware Upgrade UE riceve 1,4 miliardi di euro di proventi derivanti dagli attivi russi immobilizzati Borsa Italiana Von der Leyen: altri 1,4 mld all'Ucraina rainews.it Così Kyiv ha costruito la colonna vertebrale della sua Difesa Il Foglio Finora arrivati 8 miliardi dai proventi degli asset russi immobilizzati in Ue ANS",
+          "pubDate": "Wed, 05 Aug 2026 10:51:01 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Timido aumento in Piazza Affari - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR3BpMG52bThPZm1kVGNHSmdZVlBpempfeS1lUFdLMzlLZ2R6WldpV1MyMVZTdGcwcGNIcVVwclNxTXJ4UVU3aWhXY3piYk1vaUF1Qm1hQnMyUVhGVzNtUUl4OHpQSThiZi1VRWFxclk1WXBCZWlYSFNkMERSb2ZVYTd2czNBS0Qyaml4ejhyd0puWkxRYy1SbDNGeEthV2UwaFdXazBmaEF2aXNOMURHLVJXX0tOZy1ZZGFEcU9rYjU3TnRH?oc=5",
+          "description": "Timido aumento in Piazza Affari Borsa Italiana Apertura positiva per la Borsa di Milano e le altre Borse europee Borsa Italiana Borsa: Milano apre in rialzo, Ftse Mib +0,52% ANSA Perché Piazza Affari è ai massimi storici nonostante la crisi in Medio Oriente Quotidiano Nazionale Piazza Affari chiude in rialzo (+1,28%) trainata da difesa e tech rainews.it",
+          "pubDate": "Wed, 05 Aug 2026 11:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borsa Italiana, il commento della seduta del 5 agosto 2026 - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS0dhTUw2aVRqQ2ZWOU93VFRGdHk0c3gzdTBrV3dEZ243MlJCVGFXX1hMNlVFUEJrQ3FZZFB4WmUxN2V6QjJ2TVR2YVYxUUp1RFFCaDlFY3ZYaTJ0eVB2QmFXd1ludVVFT2pmbWFoZDhZUW02NWcxSnlRYnpPdnVvc1k1OFlkRFpDaFUzYlh2NTFsYnNXNGwxeXN1VQ?oc=5",
+          "description": "Borsa Italiana, il commento della seduta del 5 agosto 2026 SoldiOnline.it Milano termina gli scambi poco mossa, in scia alle Borse europee Borsa Italiana Borse in diretta, petrolio oggi 5 agosto | L'Europa chiude piatta nonostante Wall Street positiva. Greggio a 80 dollari Corriere della Sera Borse, Europa flette dai massimi. Milano -0,2%, Ws aggiorna i record ma cade Space X Il Sole 24 ORE Borse ",
+          "pubDate": "Wed, 05 Aug 2026 15:50:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "BFF Bank, i risultati finanziari del 1° semestre 2026 - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeUxXallCeVlybzJBWmc0Z2xSbmdFNzl4QnFjTlpXMDVxWGdmRW9MLXF1WE1VeDE1b2ZzaE5yV0t1MEQ3cVB0eHpuNkpWS1Rvbkpzb3hxSEZTOGxYaExzZjFHRTlTLUdXUVdDM09JelpCMElCXzZibE5aMXlndVBYUXZJd2tTTmp1Qks3cks5X0NQcERiTWlIMTdmQ0Vqa2c?oc=5",
+          "description": "BFF Bank, i risultati finanziari del 1° semestre 2026 SoldiOnline.it BFF valuta diverse opzioni strategiche per assicurare rispetto dei coefficienti patrimoniali Borsa Italiana Bff Bank regge nel semestre: crescono giro d’affari e utili dell’istituto finito sotto il faro di Bankitalia Milano Finanza BFF, utile semestrale scende a 51,4 milioni di euro con impatto del rapporto Bankitalia la Repubbli",
+          "pubDate": "Wed, 05 Aug 2026 16:46:00 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "così",
+      "n_items": 6,
+      "n_sources": 6,
+      "category": "economia",
+      "score": 42,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Meteo Giuliacci, tregua al caldo estremo. Temporali in arrivo: dove e quando - Il Tempo",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdHNFTHYtZVR4VjVEbngwbWFON1ZSY29Xd1E0cWNUd00zVlNiSTVrUl96TnIyazA4TURMUUtfblJ1OTF6TkVLQThEWnhGVjBtMFNra0xHLTNXdkt3amIwVmFQYS1OT1NnczE0aWRST0JVRE93WTVQaWdGcjJBYW13Zm5KRkhvYWs1ZGluYUYzYk9YdjVEWURSdkxPcWRxU0JMekhRNFgwTVpUcGdUWkdsdXFoM3RCYkNpMzZTeTU0c3ZYdWJBdmV1djN3NFc?oc=5",
+          "description": "Meteo Giuliacci, tregua al caldo estremo. Temporali in arrivo: dove e quando Il Tempo «Caldo africano, ecco quando arriverà la svolta», spunta la data: le previsioni di Giuliacci Il Mattino Caldo record, quando finisce? Tregua dopo Ferragosto (ma non ovunque): ecco dove e quando Il Messaggero “Avevamo previsto la fine del caldo al nord e un’attenuazione del caldo anche al centro-sud. Così non sarà",
+          "pubDate": "Wed, 05 Aug 2026 15:06:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Niente GPS, niente pilota: così i droni ucraini Shrike colpiscono i bersagli - Hardware Upgrade",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGdSZXJIbklzeFItckE3T3o0Wm1zd0Vwa1FsMGJnWkZUWmpMNncwTFVleXdyYXJYenl0UlpINThhY3FVNzV1RWNYdmd1bG9Zdkd6UUFlenlxbjBJZFJONGZDVFZoNDVhZnVwMExyMU5yUXFjYVQtNVBoTFU0dXZuU3djYVl4UHlFNGRYek85dllFZ2ZhWF85OGhyUmtYYThrYVZMNTZSTjVXZ19lOEI3SjE2eXlobmNoemtsdWFvZ3pEZkJYUWcw?oc=5",
+          "description": "Niente GPS, niente pilota: così i droni ucraini Shrike colpiscono i bersagli Hardware Upgrade UE riceve 1,4 miliardi di euro di proventi derivanti dagli attivi russi immobilizzati Borsa Italiana Von der Leyen: altri 1,4 mld all'Ucraina rainews.it Così Kyiv ha costruito la colonna vertebrale della sua Difesa Il Foglio Finora arrivati 8 miliardi dai proventi degli asset russi immobilizzati in Ue ANS",
+          "pubDate": "Wed, 05 Aug 2026 10:51:01 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Premier Canada, non credo Infantino possa guidare la Fifa",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/05/premier-canada-non-credo-infantino-possa-guidare-la-fifa_6eb986cb-eea0-4b5a-8ed6-94fc716d0b15.html",
+          "description": "'Non è così che si gestisce un'azienda, nemmeno una piccola'",
+          "pubDate": "Wed, 5 Aug 2026 22:28:38 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Il prezzo dell'elettricità ai massimi da tre anni: così ci troviamo a pagare il doppio del resto d'Europa - today.it",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVGV2aTItUFRSUlA0bGxYaTRtekFncHdQS3pJcEcyZk9KZ1pBZnZGT2stUHNJS3JINkJobnc3VE00eGdfNGZzd1FvaGpHX0pUejB5RUJjYU9yc1JkQnlxdDcxVzZiWVVHaEFBazkwQ2J3RFZaV3ZfMFp1dGRZN0tsdnRB?oc=5",
+          "description": "Il prezzo dell'elettricità ai massimi da tre anni: così ci troviamo a pagare il doppio del resto d'Europa today.it Aggiornamento PUN e PSV di oggi, 5 agosto: nuovo aumento Facile.it Elettricità, prezzo ai massimi: pesano gas e condizionatori Il Sole 24 ORE Energia, l’effetto boomerang del caldo. Impianti sotto stress e prezzi alle stelle La Stampa Il super caldo fa schizzare le bollette elettriche",
+          "pubDate": "Tue, 04 Aug 2026 16:39:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Il segreto dei centenari di Okinawa non è poi così segreto - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSmZzUGZYYnpoUkVldThSSWJaUTNCdTZKOTB2VUlydzh3aEluZ0JqdHFMMDY2cmY5YklDNFRDLURZc1VoOUFPcWNFR1ljSmptd2dady1sSG1HVXc1dVlsdm5vYXBMeU43TlZQUFVGWFAxUzg3UEhMNDNjVkF5VGFIQXktSmtjMDV0dTZXQVRuTkNLb3drenBVb1hKMVZtNUkwdk1tVE93NDVVMG9EOWc?oc=5",
+          "description": "Il segreto dei centenari di Okinawa non è poi così segreto Mondosanità",
+          "pubDate": "Wed, 05 Aug 2026 10:15:00 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "mondosanità",
+      "n_items": 14,
+      "n_sources": 3,
+      "category": "general",
+      "score": 42,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Parkinson, vivere vicino a una lavanderia a secco può aumentare il rischio? - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONEFyTDBwN0VzOHdaNVlNVV8xRU5kQmtOOG5rZzVmS0NiZUc2bHBSdXRLeXc4RGI3cnNoME9OaFV6YlhEdURnaGJ0T3YyZ3RRb0d6LTd1NUxrS2dKQXNiMmw5WXVMWE9WdEYwUnlia3BLOHBPTnFYZE1HRUxQcV9Mem5sT3VRT1FjYVQtYzJuTWRETlZDQVJNMlJWX01qcGR3bDVzQUl2U0dMRlZzaVpwaERMeWpncTUyNGNkM0hETVlzUURpak5mYmFjYXlhQQ?oc=5",
+          "description": "Parkinson, vivere vicino a una lavanderia a secco può aumentare il rischio? Mondosanità",
+          "pubDate": "Wed, 05 Aug 2026 21:15:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Dalla cura della tosse al cervello: il ruolo dei mucolitici contro Alzheimer, parkinson, demenze e sclerosi multipla - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNR0FUdVMyQkFjbGREeDF0bmNfcnFqVGlpWEVVWG9QdlVUT2hZOWgyN3p4eUF5ZnppZDBUTlR4QzVPUXR0LXY0ei1kNFdtSnR1UG1NUlFSaERDV3FNbzZzcXhoVXRtZ1RCMW9XdGZROEdqY3pYRDFqNTF2anBHaWVYUGNVUnZHVDRuQUotOF9qQUpRV3RHWWRGVUJnYm9xNlpnVEdVM1FjZEg5NmNOcTNiVXJiVjI5dktYbnJkaTdpVlhYY0djODB6ZnFmcl8xcmNZaEE1Y0FFdGM3RzRvZWhrNWM2VzZaTVhFLWt4a3VhY1RQaUVBN2YzaE5NUHp5dnl3QlBjS2tn?oc=5",
+          "description": "Dalla cura della tosse al cervello: il ruolo dei mucolitici contro Alzheimer, parkinson, demenze e sclerosi multipla Mondosanità",
+          "pubDate": "Tue, 04 Aug 2026 05:39:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Il segreto dei centenari di Okinawa non è poi così segreto - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSmZzUGZYYnpoUkVldThSSWJaUTNCdTZKOTB2VUlydzh3aEluZ0JqdHFMMDY2cmY5YklDNFRDLURZc1VoOUFPcWNFR1ljSmptd2dady1sSG1HVXc1dVlsdm5vYXBMeU43TlZQUFVGWFAxUzg3UEhMNDNjVkF5VGFIQXktSmtjMDV0dTZXQVRuTkNLb3drenBVb1hKMVZtNUkwdk1tVE93NDVVMG9EOWc?oc=5",
+          "description": "Il segreto dei centenari di Okinawa non è poi così segreto Mondosanità",
+          "pubDate": "Wed, 05 Aug 2026 10:15:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Una caduta non arriva all’improvviso: i segnali possono iniziare cinque anni prima - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUWlhUE5aSXFHX3NzZnNMU1ItQlM5cDRtOEo1OXhfdXFQRGhBaTZYZTlha3JreHBDZ01SRS14YTVIVDE4ZHRqaUpLX0I1MjhLeV96YU9EQ05mRjNSb25hc0Q1V1lVOElDam1iZkZNVnJRLUV5Q2djUTR4M2FoNUhuZE1WdFJpaTFFRUdVTlR0djZFdkR1SG1zUXBvaFlad2JRXzJmWHVuYTJmLVFubnNqRnN4TWJyQ25SdDZ1WWpaTTNQaGxpMmVBNHJMNGJjZWo1cTNnc0kzMA?oc=5",
+          "description": "Una caduta non arriva all’improvviso: i segnali possono iniziare cinque anni prima Mondosanità",
+          "pubDate": "Wed, 05 Aug 2026 13:45:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Dalle larve di un insetto un peptide che spinge le cellule tumorali al suicidio - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWG51bWdiTFU5RzQ3VlhwNWFRcTlIYkw1cHBlWktBaDdyb3JqODlWSXFma2xYQnp4MVpxY3pCazVKdXNENjhpc2V2Rk5UMEpaeEJYSm5pTC1TWGFONlJIbk1CbTNxMmwzTFh1cmdqeVNBTWZuQm9tSGt5ZTY0cmJsZjNibW5XTFIwN1Ewd19WMWYteXJJUll5TjlEUjlZSE9WX1Z6elFRLWd0NEk2RTVfaEZFOGFYNmJDN1J3eU1ERW55ZGs2YVdIZHlNN0pOZjdHdjlrR2Vn?oc=5",
+          "description": "Dalle larve di un insetto un peptide che spinge le cellule tumorali al suicidio Mondosanità",
+          "pubDate": "Wed, 05 Aug 2026 15:15:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "says",
+      "n_items": 11,
+      "n_sources": 3,
+      "category": "tech-ai",
+      "score": 39,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Live Updates: Trump says Strait of Hormuz deal could happen soon amid Iran-Oman talks - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3luLUxvekFtWFdpQU9vSnJ2RzRwdndUZ205VmYwcEl2WDNPSmZ1YUNteThESjB4LW5SdHlXX3pyZkdqNGtQd0JDQU5oeER4U21BY1AtMUpiSEdDWHZacnV5SGdQOXpzdllRU1lTLUtFZlFlU25JWGgtMnRSaE9sdVNOWQ?oc=5",
+          "description": "Live Updates: Trump says Strait of Hormuz deal could happen soon amid Iran-Oman talks CBS News An agreement on the Strait of Hormuz is taking shape – but not one Trump wants CNN Watch Iran Says Agreement on Hormuz Shipping Reached With Oman Bloomberg.com Trump says Strait of Hormuz deal could come Wednesday as gas prices stay high Fox News Iran, Oman say Strait of Hormuz talks in final stages, as ",
+          "pubDate": "Thu, 06 Aug 2026 01:41:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Bunny Dolls and Disturbing Allegations: Max Miller’s Strange CNN Interview - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ2x4cnBVZ3pFMEZXX1NwQUIzRVZDWnA0MjIteW1rM0xRWG5MTmotTDhqQmM2U1g5WHZnVnJ0bUZRN1kxTFoybFNoUlpSc2NKUzBlZHgwbm1wRFZvMU1kdmpjZldfUGt4aTdhdHAyTEJBT2JaODJEaTE3VmZXR3NmUDRFN2NoU0ZO?oc=5",
+          "description": "Bunny Dolls and Disturbing Allegations: Max Miller’s Strange CNN Interview The New York Times Mike Johnson Would Prefer Not To The Atlantic House GOP anxiety spikes as scandals pile up in critical battleground seats CNN Lawyer says he's at fault after sensitive photo of lawmaker's daughter shared online USA Today GOP voters reluctant to abandon Rep. Max Miller over abuse allegations The Washington",
+          "pubDate": "Wed, 05 Aug 2026 21:51:24 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "In Nevada speech, Trump chases after toddler on stage before joking he doesn't want him to 'be Biden and fall' - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVTFpUjdwcW5xSUs0M3NhQjJXdWlMbWhORl9yZ3RHQUZYWW9fRmE3bzBoSkFFZVc3MUx3NXowcUhRS3p3U0pLWi1PdkxXN3VZOHBfNndKVUZfYlNiZ3BRUW5VN3FlcHZ5MmtIaDRPWjNDYmpEZEZxdFM5UDNaV1dfaEh5SzBLOUZJR0pkX0lOT3NwQW9LMzR4UlFsdTdVa1V6WnI1VjE1eVBld0lPR2pGZjZhNNIBuAFBVV95cUxPQVBiRkRGM0xxVG91TzRnTE52X2ljck1yZ0NFaXB2VVh0R1RDN0ZkQW1MMWp1RVZpT19MYlQteVplUWRibExnaU5zTGNJQlVjNXNNRTM0ZEVWaFFnS3JXZ2FmWG9tUHVkZ2hkNmlLZU01X3hWTG9BVG94WEpBSndpWDkxc2NfWjhyTXhEMTlRQ1VKQy1RaHpGcjVZREZfSXFTNnJqTDNveXNDQlVrTjlGZXBDN0JXT3Zw?oc=5",
+          "description": "In Nevada speech, Trump chases after toddler on stage before joking he doesn't want him to 'be Biden and fall' Fox News Trump corrals toddler wandering near edge of stage during Nevada speech: ‘Don’t want him to be Biden and fall’ New York Post Trump scare: President in jet ‘incident’ News.com.au Trump runs after escaped toddler, says he doesn't want him to be 'Biden and fall off the stage' Yahoo ",
+          "pubDate": "Wed, 05 Aug 2026 23:30:41 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Senate’s summer pileup is threatening a quick recess escape - Politico",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYzRNaGNNd3RLTl8tNUJlZThtUDBUSnpkd1BQUm5IWFFFem43T2YwZl9zdnlvR3ZLcDZDVUJOQ2NpRkFVaTJaMzlhMEFOYXBuWFY5UU9fVHVwM25UR0tFY3NNN1FweTZCbFplNS01bmpDMkoxbVhZTVFpT1FEQzJrZ2lvVQ?oc=5",
+          "description": "Senate’s summer pileup is threatening a quick recess escape Politico Senate GOP scrambles for August exit strategy that doesn’t anger Trump The Hill Lankford says Senate GOP ‘will keep going’ if it can’t pass 3 legislative priorities before recess Yahoo Senate faces long to-do list and little time before recess PBS The Senate GOP’s pre-recess rush Punchbowl News",
+          "pubDate": "Thu, 06 Aug 2026 00:39:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Ousted Bangladeshi leader vows to return from exile despite facing a death sentence - NPR",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTWlvRTJobV9RdU1tZ1ZoMXNvTElqVUozZXpwV2dlSE9rMzkxcGJnZlQwOWxnMW92UlRIV0NyLWd4S1FzY0ZBWDlrMVk3N19UMmFSSWpGQmdJYjlmdnNIMFJJYVpidGVBOFFQQWNCQkx6cWZISGZIWXdiUEVpLWliaVF5TzlxRmQ5LXhxLW1KZjN2bXNDck1LLXZSU0Y0MzZ0ZWFyUDZYMzdVWTVFRklyZnFGbVBGTjJ0RmIxWG15dW5val94?oc=5",
+          "description": "Ousted Bangladeshi leader vows to return from exile despite facing a death sentence NPR This exiled leader faces execution threat if she returns home. She wants to go anyway CNN Ousted Bangladeshi leader Sheikh Hasina says she will return from exile in December NBC News India says it is not involved with Bangladesh ex-PM Hasina's virtual address Reuters Ex-leader Hasina gambles on return to Bangla",
+          "pubDate": "Wed, 05 Aug 2026 20:43:29 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "allarme",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Milano, allarme bomba: sei centri commerciali evacuati. «Salterete in aria», ma non ci sono riscontri - Corriere Milano",
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQUzEwQi1ZcWtMMXZSVEJEZEx6OXk5ZU90V1I1MTN2VEYwYkVadjdHVXQweHhVdHJ6ZkF4dno2VGtJd2RQQVZ5LWtmVXdwSHdJSm1ZaEZkcTJicV9TeE9YbmNwczhCei1mbzhZdnBQbV9iNzk0bG1jbmVHdFhzYWFFUlVzLUJCVC0zdHlmeWVEYnNnU0tfMC1jdDZVZW9Bc1lob1hLdFQ1cUtmVE1XUEdxR0xjcGtNNlNiTmNzUVFHdjhLZnJNNnY4WGdjNGd0T3dkNld4MVpLRVN3ZzJnZUNxMmt2b0JEZVdfbThzZG1ibG9paGozb21PMHhIVk5nTmNOQnFYR25RQ0k1d21rUG45UVhDV3FramR1X0JDZHFIOEVWSnh20gGqAkFVX3lxTFBQQTI1a0EtQjhzZGZ0RFR4UUkzMm9WQ2dxTHlVV0xIX05yMXFUMFdRZm1nUVY3S0Y4THVQc0loQWNfNFFXbFhaV1d1MDhhYzJFLXRIN2w1dGdlMzZ2WHBDR3h4VHh5Z19XbkhPNVdGSmVzVFZiSzZYbzNwRUFxcGFIN0VwbjE4eDNPRWF6c2p2SWhYMWY0b0Ftbzk2eWFpeVh2VEgxMVQtTzRvbDk0Rjhra1dvNmp2anRxdmFuT0VLLUpTMGtZXzlFUEtqNDc5RkFxRnMwVXJkTDNHR0RpUEpIQ0pSV1QxaVRRVkhCWTVGeERFV01LTzhkTjdQXy1fRjNhV28xaWpCa3g5WGtVY2RsSHI2bUpsM2NJY01GQmtsVGlwVllmcnlFd3c?oc=5",
+          "description": "Milano, allarme bomba: sei centri commerciali evacuati. «Salterete in aria», ma non ci sono riscontri Corriere Milano Quattro centri commerciali milanesi evacuati per allarme bomba MilanoToday Le mail ai centri commerciali: “Ci sono ordigni esplosivi”. Evacuate sei strutture nel Milanese la Repubblica Allarme bomba, dalla minaccia all’evacuazione di clienti e personale sino alla bonifica: come fun",
+          "pubDate": "Wed, 05 Aug 2026 18:26:03 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Allarme allo scalo di Lipsia, un drone bomba trovato accanto ad aerei ucraini",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/05/allarme-allo-scalo-di-lipsia-un-drone-bomba-trovato-accanto-ad-aerei-ucraini_8c35f73b-791a-4b11-a07b-ea89c9827f1a.html",
+          "description": "Un altro urta un cargo Dhl in volo. Il ministro: 'Attacco ibrido, è un nuovo livello di pericolo'",
+          "pubDate": "Wed, 5 Aug 2026 22:49:55 +0200"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Allarme allo scalo di Lipsia, un drone bomba trovato accanto ad aerei ucraini - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQjZUVzJqbWllQWZfdVZhbHRMcExBV0VvXzI5ejJicWctMUEzbEs2eXZnbDcyRDF2UGxnT0g0ZS0ySHdIdWpYa2dqdmJLRnotWGxhNkJkWTJGSXJvaFM2WFltVnM1TElvUXNaODdpMUlFcFNZcGRxRGNGcVc2dDdNazJlRUVmemZ5ekJubnZxMTJkbEVmekFjV0JEY0VzbG43SHdtM1VmY0s3Ymt2RWhTTzhIdm1NVnlNQ00tV2ZRMjltamplb2o2cUxsSEotODRlX3RhSEpRdVFia1BDUnpYbEdRMUh1bldaWmJ3VGFkNWJKS19USWx2STdoUHXSAYICQVVfeXFMTVBoblBzRGo0NFVpQnZ4WEVSSU1mZHJxX2dLRkNpYzQ1aVBwUTduRjJicDJBOGlxc0xrUzVYMklRRGNnOFp0SndZelpEclk3YmNwVFFRTVdKUkEwQ1F3MWZwdExpdV84TmEtSnZFbGIzbVlOMmRHVV9IMV9MLTNxU2pSWThfZ0NUMG5FUGZtVnZfYmd5Zk1JUXBTVk9HQksySklJMXluamJ0aERPSFk0Q3JGNWhKalJKbFd6c090bWVlSzViTldUZU1weDV0MjBTZGZPOVp4UE9XN2JNd19tWTJ3bG90WWphNW5tSUZPMFcxOHZMX2RNNElPN2YtaWxMMGdR?oc=5",
+          "description": "Allarme allo scalo di Lipsia, un drone bomba trovato accanto ad aerei ucraini ANSA",
+          "pubDate": "Wed, 05 Aug 2026 20:49:00 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'allarme dei big, 'rischio estinzione con l'IA, è come le pandemie'",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/lallarme-dei-big-rischio-estinzione-con-ia-e-come-pandemie_3afde5e5-7bcf-464e-b3aa-aee6577a9b23.html",
+          "description": "Nyt riporta lettera di 350 leader industria, anche ceo OpenAI",
+          "pubDate": "Tue, 30 May 2023 14:12:41 +0200"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Ma i giornali si sono accorti che a Palermo sta scoppiando un’epidemia di Fentanyl? - Mowmag.com",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTGwwejJZQ2VXRlZ1eERxUTJkX1NPSERENDNVQnNzT2VZeHctYlZLSnViUm1BdEdjcDNiQzlzR2NQN1lGNldXREhEa09Wd3FhZ0dJS0pSWkltcVhQRVkxWHRveUNBRXExOHlxRkFiMG95aHNTMzNYMTdVNTd4MjFBdF9vWXJNNGxpYWtneUMzU2lROFBVZ3p4RnI1dnExZGhRRjdpR0tjUXRmTjJ2TzJ3?oc=5",
+          "description": "Ma i giornali si sono accorti che a Palermo sta scoppiando un’epidemia di Fentanyl? Mowmag.com Il Fentanyl sbarca a Palermo, allarme del servizio dell’Asp: “Usato per tagliare le droghe” la Repubblica Fentanyl, rafforzata la sicurezza Polesine24",
+          "pubDate": "Wed, 05 Aug 2026 09:50:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "meteo",
+      "n_items": 6,
+      "n_sources": 3,
+      "category": "clima",
+      "score": 24,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Caldo intenso, nessuna tregua fino a Ferragosto. Qualche temporale in transito al Nord tra il 9 e 10 agosto - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMjlBenp3S1UtYkZ3V1dwNEVOSDlaRUEyWUxjdVhfdUp5UGROZjBjSjREY3VtaHVLX3N5QnBZSDFzMXQwMFZPREo1c21zMjc1S2VnZmU0N0djRElYQTdxVjBnclJYWGNlMzZOZGZBenRrcEpreXZwb0VIZkh6OFBVWmhES1g4WlotVW9fd0RSbURvd05GX2EyTWRldWIzVjlPUnhiTlJEb2hoVkJBdTJJdDFIdTQwSkZkY0RYV1hkc1N4d3RvSkxlY2Q0SjQ0Zw?oc=5",
+          "description": "Caldo intenso, nessuna tregua fino a Ferragosto. Qualche temporale in transito al Nord tra il 9 e 10 agosto Il Sole 24 ORE Caldo, record bollini rossi e allerta gialla maltempo in sette regioni Sky TG24 Caldo e afa non mollano, l'allerta fino a dopo ferragosto ANSA Previsioni meteo, breve pausa dall’afa al Nord, poi torna il caldo estremo fino a Ferragosto la Repubblica Per giovedì c'è l'allerta m",
+          "pubDate": "Wed, 05 Aug 2026 17:43:12 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Meteo Giuliacci, tregua al caldo estremo. Temporali in arrivo: dove e quando - Il Tempo",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdHNFTHYtZVR4VjVEbngwbWFON1ZSY29Xd1E0cWNUd00zVlNiSTVrUl96TnIyazA4TURMUUtfblJ1OTF6TkVLQThEWnhGVjBtMFNra0xHLTNXdkt3amIwVmFQYS1OT1NnczE0aWRST0JVRE93WTVQaWdGcjJBYW13Zm5KRkhvYWs1ZGluYUYzYk9YdjVEWURSdkxPcWRxU0JMekhRNFgwTVpUcGdUWkdsdXFoM3RCYkNpMzZTeTU0c3ZYdWJBdmV1djN3NFc?oc=5",
+          "description": "Meteo Giuliacci, tregua al caldo estremo. Temporali in arrivo: dove e quando Il Tempo «Caldo africano, ecco quando arriverà la svolta», spunta la data: le previsioni di Giuliacci Il Mattino Caldo record, quando finisce? Tregua dopo Ferragosto (ma non ovunque): ecco dove e quando Il Messaggero “Avevamo previsto la fine del caldo al nord e un’attenuazione del caldo anche al centro-sud. Così non sarà",
+          "pubDate": "Wed, 05 Aug 2026 15:06:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Meteo: El Nino, sarà molto intenso. Vediamo gli effetti sull'Italia, specie dall'autunno - iLMeteo.it",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeUJFTU9pTGtEb3FLaTFzcWM0Y2ZrWVRtbzFuYTA4VXJJeDZybnczSktOemZpNUNmWXZMY1NhTEtBSWhQQnZlTXlDWjRTS21KNFJMT0I5MnQ1Wl8tU0VzdHNNdTlSOV9zdGlnOE5Lc2dRS080aE81SmktdFNHaDZieS1IZUh4SDJ2UExMVTlpVG1iOG95YWpqcXNKSEVFTUp5V0hzOUU1MGtoYlF4TEZZNHU1TVRBRGlHSEVud3BnbC1ZcVRYUTUw?oc=5",
+          "description": "Meteo: El Nino, sarà molto intenso. Vediamo gli effetti sull'Italia, specie dall'autunno iLMeteo.it",
+          "pubDate": "Thu, 06 Aug 2026 01:27:56 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Previsioni meteo di Giuliacci: «La fine del caldo è rimandata. Ecco le date per l'arrivo delle perturbazioni atlantiche e dei temporali» - Il Messaggero",
+          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQSUhmT01CaFNfYmE4WVFqanhaekNTY0JvMjRUcW04ZUNHY1dia1NDUV9RRGZpQlppNXZmSVo5RmxIWXRGLUFxMm9FNW15Ujd1bzlzMXlSVUxoaWJZVjFjSlgwY3g0bUg3SzdDazdsVU00cm5VZk1WWGpBRlI3NVFkZWxqLUhKeXlLNURqYlJTRVhKZFpYZXp4T3E4d1pONWZQLUhsRjNOYkxoQ1RMcG9qV2gxcFlMcW9qNXpuMFl2VEYzOFJwOHNramVrZWVxNU9RSFpsa0c2eEYxSURrVVFnRmF1bmpIWVVqMkVkSllEYzYtclEzQzhiMTk4T1NRUzE2VV9BbDMtSlcyVnQ0YlItQ1ExQXdIY25oenpWSjVkNNIBpAJBVV95cUxNTklyOTkzM1VKZ2ZCM0x5MmJuQXFTaGpKVEdMa1JhRGplS1J3UDNuVjkyR1Z5X2tZcU1EemEza3BEeGZLdXZtUU5ubXRLNDRMbjVTUDNkRjRjMXgxX2hMOVlteTl0WTRFVEZOX2NIWmZ0eXktQUdpOUdkV2FVQ3RwRG5kWnRmMDZrejBiZy11YVhkQkdXVlpTQTBBT05YTEFPblAtZHZHWlNkaDRtTElsUGpGazlSZ3pnaXA2ckJ0Mk5NbEgzVXJZd0ZJZWowRkJ3WW45V3o4YlIyb3hza2t3Z1ZiZTd2RnRtcWZySjFySlduQ25PTDBiT21MTEFHN2NZYVUtc2VOVy0welR1MDRvOVdaLXlRZXg5VnBUbXJrcVFQNkwx?oc=5",
+          "description": "Previsioni meteo di Giuliacci: «La fine del caldo è rimandata. Ecco le date per l'arrivo delle perturbazioni atlantiche e dei temporali» Il Messaggero",
+          "pubDate": "Wed, 05 Aug 2026 07:26:48 GMT"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Ecco quando finirà davvero questa infinita ondata di caldo: le previsioni meteo di Mario Giuliacci e Lorenzo Tedici - leggo.it",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOU1Q4dWRETHdkTU9UQUhzR3MwYktkU254aHphQ3g4aHZHSGxYaFVIX01pVHh4SGRQRm1iWm9XM24xejRiOFN6VUNtZDNVT19Kb3JJanp0dWg1eHV5UWF6OUpVWEpINlB5a0JKVUwzaWREZXdXVjRnMFptdzNsRmdrVWcwV3laaENxemxSYTk5MTliYTE4eXZVMEJxTHBoR2h2c2haUVJtVzBVRUxiS0tkNk1oRFJULXhrZ3plYnNteVpKMnd0TktBa2tmNUE3LWdjQlo1MF8tRjdQTFE0aURaczhNcjRoYjjSAdgBQVVfeXFMTURsMG5YRGVyOXVxY2lSMTd0SzVELXdfd3B1SEFfanBHM2NxcEN1YXNPcUdxc0s2Sm9rc201VkozZjlaX2FyTzg1SjJ2V3d6cTFRRlNGNDJjQTZjRUxQYkU1eFgyWnRkVXFXU3Y1emtvT0F0enJ4bEdvN0g1SWgzS2oyNTl5RC1zcDZIalBrYmhJVkdVaTVwcVdJcEdjdlJHNTlhUWlSc01fSDFieUJqdkszbFlKLXRYOFdJWXlGd2dCc0VNNkJQTkxMbzk2MmlRMVEwajZWbkEx?oc=5",
+          "description": "Ecco quando finirà davvero questa infinita ondata di caldo: le previsioni meteo di Mario Giuliacci e Lorenzo Tedici leggo.it Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Wed, 05 Aug 2026 15:47:06 GMT"
+        }
+      ],
+      "macro_area": "clima-salute"
+    }
+  ]
+}

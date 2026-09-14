@@ -1,0 +1,925 @@
+{
+  "date": "2026-07-02",
+  "top_topics": [
+    {
+      "keyword": "trump",
+      "n_items": 13,
+      "n_sources": 8,
+      "category": "geopolitica",
+      "score": 110,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump: \"Sto portando avanti una guerra con l'Iran e la sto vincendo facilmente\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KTWVfUkR6TUFtZlByS0toenFKdTFLNHF4SVFMQVFmZHdULXF2QWJJVU4xemlVZEk5SE02cU9YTHF2b0tDMGQ1UktMY0FZcmNkM1JsRGJiVkpJV1huZ1JiU0RNc3pGYmxGOF9oc3RFTDY2bnpNQkFuRFVpWHo?oc=5",
+          "description": "Trump: \"Sto portando avanti una guerra con l'Iran e la sto vincendo facilmente\" Sky TG24 USA-Iran, \"progressi\" nei colloqui indiretti a Doha. A Gaza è emergenza epidemie - Il \"Board of Peace\": \"Fuori l'UNRWA da Gaza\" RaiNews A Hormuz ci attende uno scenario da zona grigia Il Sole 24 ORE A Doha si tratta a distanza. L'Iran: 'Prima sbloccateci gli asset' ANSA Guerra Usa-Iran, le notizie in diretta |",
+          "pubDate": "Wed, 01 Jul 2026 22:00:31 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Ucraina, l’UE eroga 3,9 miliardi per l’acquisto di droni anti-Russia - Eunews",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQWFWSXhEMDY5Q2ZDZktlWXZ1TVQxcXRDWVk2S0dMYzlZUVo1a1VaUjdSYlpyM3RkOHV2U1JkeUtYNW5zNThmR3hrcmc0b2tobHNJZF9GeHFzaHFIYW8tTktkdGpXSGlrbVpOaXFUb3B1S1JVMUJUVV9kMHRvSnhnLS1NR0ZxM2E2RUIxNVBpWlBvUm9JMldKcHk1YU54aHM?oc=5",
+          "description": "Ucraina, l’UE eroga 3,9 miliardi per l’acquisto di droni anti-Russia Eunews Kiev chiede altri 20 mld in difesa. E Merz promette il 3,5% a Trump Il Fatto Quotidiano Butkevych: «Per respingere i russi, non bastano armi e cemento, dobbiamo recuperare veterani e sfollati» Corriere della Sera Commissione UE eroga 3,9 miliardi di euro all'Ucraina per acquisto di droni Borsa Italiana L’asse Merz-Rutte pe",
+          "pubDate": "Tue, 30 Jun 2026 10:36:43 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Corte Suprema Usa: ius soli salvo ma Trump esce rafforzato - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZlAzX1ZGZ2cyeWloeTBOalUwazNTMUpxRHMxNWRqRUVjNlJocnRtc1loelk1VEwzOGVDY1FoY0ZxQVFQMkpfMzBZbXoyWjBfN19wLUQ4ZXp4a2IxU09rT2JaMk5NUXV6VkRmWmZPdDFDTzZwZHoxMmRXQWtTMFJFeUZjMWRNdUN0ZlVZUlFPTElKVmU5Njl5UA?oc=5",
+          "description": "Corte Suprema Usa: ius soli salvo ma Trump esce rafforzato Il Fatto Quotidiano Mounk: «La politica sull'immigrazione di Trump resta impopolare, questa decisione potrebbe aiutarlo» Corriere della Sera Usa, il sollievo dell'arcivescovo Coakley per la sentenza sullo ius soli Vatican News La cittadinanza come diritto e terreno di lotta il manifesto Il presidente dei vescovi Usa: «La Corte suprema? Ha ",
+          "pubDate": "Wed, 01 Jul 2026 07:12:07 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump’s wealth grew on a scale without modern presidential precedent - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRC12YW9TcmsyeFRpaDFMXy1PZXJKbEVqY0lVbmIzRllLblBjWENPb1RBMWJUZHQ2bHU5eHNNeEx5bE9WeDZNZlRoREI5RWwwemlsbHlwMVJYcmI1eWNHS0ZDRzQzSHI0YU52RDAzM0U0SFNUcFBBeXlFdmZTU1lqUm1OVXNPSzRTYWxZVi1nTzlxRFZiZlBVVHVNVXp0dWstbElrVEF2TlBOUTlSVXhhMzNyYkQ?oc=5",
+          "description": "Trump’s wealth grew on a scale without modern presidential precedent The Washington Post Crypto Brought Trump a Huge Windfall, Even as Many Investors Lost Big The New York Times The key ways Trump’s financial interests intersect with government policy The Seattle Times What to know about Trump’s financial disclosure The Hill The president’s getting richer — but many midterm voters aren’t CNN",
+          "pubDate": "Thu, 02 Jul 2026 01:31:17 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "US declines to extend North American trade deal, starting clock to end it while seeking changes - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORWxhSVNvODM1MVFkUkxYbEZKQ0FTbUhoOWpsdUdCTkRDYzlLTDZaTjlKOGQ5ZDQyd3MxOUUxblp4eUxtZGZIeEpKVGtkMXJMNFpkUVpNNnNHTzlSOU5rc21LU1dnNnBld0dmdzItZ2dpS05aOC1BRm8xdmt5WUduWDJjUUc0Nmd3OFdBX3JsbnhOY2RPdm50a2Vyek5IMGhWa1lPSHRWanNWMno1RkJOQkM3NFdOV3pSZVgzX053WnBOWGRGM3VF?oc=5",
+          "description": "US declines to extend North American trade deal, starting clock to end it while seeking changes Reuters Trump wants to ditch his signature trade deal. It’s not that easy CNN Trump Throws The Economy Into Even More Uncertainty Forbes The US, Canada and Mexico begin bumpy negotiations to renew North American trade pact AP News Trump refuses to renew USMCA trade pact, toppling one of the last pillars",
+          "pubDate": "Wed, 01 Jul 2026 22:13:34 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "russi",
+      "n_items": 9,
+      "n_sources": 7,
+      "category": "geopolitica",
+      "score": 69,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Zelensky pensa al voto in autunno, Zaluzhny pronto a sfidarlo - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTXlKVXA2S1hMT09HU1g4MUdfWmwtUng4b3FLWUNiVHdwRlBmYVplOGZYbldEdGhUZi1JVUJnNVJiQV90RlNWOU5rUW5HbFM4NGYyOGRLeXdsRUpVQm4zc2JOOWZ3cGl0dWZiOWl5V2E5NUs5LUc3RzBBbldseFcwdy1Jdk0ybnRpZkdTMVdkWF9Vb1pFa245WU5QZ2tWRVAwTVp4alMyOUtoVWUwSDBJRUtKdnp5QkpZSW1jeG5RRGJKMnlyUnc5b1o4X3Eyc1ZpcGZFcjFDYW5rVkRaUEVRVlI3SkQ3M1hFVkE?oc=5",
+          "description": "Zelensky pensa al voto in autunno, Zaluzhny pronto a sfidarlo ANSA Ucraina, Zelensky pensa al voto in autunno: Zaluzhny pronto a sfidarlo Sky TG24 Notte di raid russi su Kiev, almeno 8 i morti ANSA La “house of cards” di Kiev: Zaluzhny annuncia la candidatura alle presidenziali la Repubblica Il generale Zaluzhnyi annuncia la candidatura alle presidenziali in Ucraina Adnkronos",
+          "pubDate": "Wed, 01 Jul 2026 18:26:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Ucraina-Russia, le notizie in diretta | Zelensky a Dublino: «Speriamo in progressi tangibili per l'adesione all'Ue». Attacchi con droni a Kiev. Lo studio: «Dall'inizio della guerra due milioni tra morti e feriti» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQkRkZEVhTEFvaWMzSXZWaHh0clE5SFpaV1hvVkJLQzBPZVBuWG9pbl9WdXZKdEtjS1NaNkZUaGhRR085U3VxSFgzWUFEdVJyV3Y4Ym1sZEJWQUdkaktfNXZCbkFOYjh2OGptX0E0QlZ4MkxsTEFRNGtjWWMwOWpJYWE2aDJ3QU4tYy1icktFc3M4d05BcThXZGF5NXVHM0c4akphRm9BREJwcmPSAbABQVVfeXFMT2RtRW9NNG9PNlBySDgyTWRMOFVpa0NEMWV5SXZCNHlmMXloRWIzeFFrTDRjamh0bGlnTTQ3cHE3RG9vVktaZGxpOTVDXzc3TzdtMGY2TXpxS0tfR3UzZnlGaEpHLUp3OUprbEtHWkREeVkyQWkzbElVYUJWQWtfSHkwNW85d1lwa1FGOTlRbFdQTENwWWIzVnZTNG9HSk1PLTJ6bUJINUlNOG5oOGhXRGk?oc=5",
+          "description": "Guerra Ucraina-Russia, le notizie in diretta | Zelensky a Dublino: «Speriamo in progressi tangibili per l'adesione all'Ue». Attacchi con droni a Kiev. Lo studio: «Dall'inizio della guerra due milioni tra morti e feriti» Corriere della Sera Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Wed, 01 Jul 2026 17:21:13 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Ucraina, l’UE eroga 3,9 miliardi per l’acquisto di droni anti-Russia - Eunews",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQWFWSXhEMDY5Q2ZDZktlWXZ1TVQxcXRDWVk2S0dMYzlZUVo1a1VaUjdSYlpyM3RkOHV2U1JkeUtYNW5zNThmR3hrcmc0b2tobHNJZF9GeHFzaHFIYW8tTktkdGpXSGlrbVpOaXFUb3B1S1JVMUJUVV9kMHRvSnhnLS1NR0ZxM2E2RUIxNVBpWlBvUm9JMldKcHk1YU54aHM?oc=5",
+          "description": "Ucraina, l’UE eroga 3,9 miliardi per l’acquisto di droni anti-Russia Eunews Kiev chiede altri 20 mld in difesa. E Merz promette il 3,5% a Trump Il Fatto Quotidiano Butkevych: «Per respingere i russi, non bastano armi e cemento, dobbiamo recuperare veterani e sfollati» Corriere della Sera Commissione UE eroga 3,9 miliardi di euro all'Ucraina per acquisto di droni Borsa Italiana L’asse Merz-Rutte pe",
+          "pubDate": "Tue, 30 Jun 2026 10:36:43 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Strong explosions rock Kyiv hours after Zelensky warned of ‘massive’ Russian attack - CNN",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa3hhcXRKYUVMTF9iaHdKYTBuQ3dmc05WWmdqZEljWUlGelphU0M4b2hrV1gxaUVyQ19wZVhYekE0RHhFS0tsOE05QUZxUWxQYk5IZEFPaXR6TXNHd2d1c1NvcWlQQ0ZxVWZwX0Y2TU05LUZSc2toOUZYRFBmOFItVQ?oc=5",
+          "description": "Strong explosions rock Kyiv hours after Zelensky warned of ‘massive’ Russian attack CNN Russia Strikes Ukraine as Explosions Rock Capital of Kyiv The New York Times Russia launches major drone and missile attack on Kyiv DW.com Kyiv attacked after Ukraine’s Zelenskyy warns of ‘massive Russian strike’ Al Jazeera Ukraine-Russia war latest: Putin launches major aerial attack on Kyiv as Poland scramble",
+          "pubDate": "Thu, 02 Jul 2026 01:04:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Notte di raid russi su Kiev, almeno 8 i morti",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/02/notte-di-raid-russi-su-kiev-almeno-8-i-morti_4619cad3-36b7-4911-8f90-e65990dfa7b0.html",
+          "description": "Zelensky pensa al voto in autunno, Zaluzhny pronto a sfidarlo",
+          "pubDate": "Thu, 2 Jul 2026 05:31:33 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "italiana",
+      "n_items": 10,
+      "n_sources": 6,
+      "category": "economia",
+      "score": 66,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Ucraina, l’UE eroga 3,9 miliardi per l’acquisto di droni anti-Russia - Eunews",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQWFWSXhEMDY5Q2ZDZktlWXZ1TVQxcXRDWVk2S0dMYzlZUVo1a1VaUjdSYlpyM3RkOHV2U1JkeUtYNW5zNThmR3hrcmc0b2tobHNJZF9GeHFzaHFIYW8tTktkdGpXSGlrbVpOaXFUb3B1S1JVMUJUVV9kMHRvSnhnLS1NR0ZxM2E2RUIxNVBpWlBvUm9JMldKcHk1YU54aHM?oc=5",
+          "description": "Ucraina, l’UE eroga 3,9 miliardi per l’acquisto di droni anti-Russia Eunews Kiev chiede altri 20 mld in difesa. E Merz promette il 3,5% a Trump Il Fatto Quotidiano Butkevych: «Per respingere i russi, non bastano armi e cemento, dobbiamo recuperare veterani e sfollati» Corriere della Sera Commissione UE eroga 3,9 miliardi di euro all'Ucraina per acquisto di droni Borsa Italiana L’asse Merz-Rutte pe",
+          "pubDate": "Tue, 30 Jun 2026 10:36:43 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Nessy Guerra in caserma poi rilasciata, Roma chiede la grazia a Sisi",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/01/nessy-guerra-rilasciata-in-egitto-fonti-e-rientrata-a-casa-con-la-figlia_fcf887e1-a8e6-4e4e-87aa-f1de9ed0ef4a.html",
+          "description": "Ore di tensione per l'italiana e la figlia. Tajani: 'L'Egitto ci ha assicurato soluzione'",
+          "pubDate": "Wed, 1 Jul 2026 19:36:58 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Rodriguez insignisce la missione italiana della medaglia di 'eroe del Venezuela'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/02/rodriguez-insignisce-la-missione-italiana-della-medaglia-di-eroe-del-venezuela_0e02db47-3fd0-4b7c-a1f7-8f6f165779cf.html",
+          "description": "La cerimonia in aeroporto prima della partenza del contingente",
+          "pubDate": "Thu, 2 Jul 2026 03:53:53 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Male Piazza Affari in sintonia con la debolezza degli altri Listini europei - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOdzZqXzZaVWw0TEFmRVA0WFV5N0dMMWhBT2xaZjlGcUhXMWlRcmlXRVdCYmNYdVNETXRUZU5DSFZmMjNxNVI4Z3NMRl9RdzZGV0lFRGc3RlRtYUVTM3laS2NObDhwU19QRUdTaGVsdEpYVTU0TU1aaUlYQ09WVHJwdjhCc0VJV21PajI2Z1FBMlBKamp1WV9wX3BqNUFnbVBFSHVOMkQ2VGtVTjhlemJ0cUVjM2ZSdWFxdElQVGdxR2dfNHR6TzhsMlJxWjE5aTVfak5WQkRocHdscWs4eW9ycmxlOEU5aE04Ym1XUEgya0NJazdSNENjekE3azZLRmM?oc=5",
+          "description": "Male Piazza Affari in sintonia con la debolezza degli altri Listini europei Borsa Italiana Borse in diretta, petrolio oggi 1° luglio | Europa contrastata, incertezza sui colloqui tra Usa e Iran: Milano debole con le banche Corriere della Sera Mercati deboli. Milano schiva le vendite Borsa Italiana Piazza Affari chiude in lieve calo RaiNews Piazza Affari apre in calo tra prese di profitto, banche d",
+          "pubDate": "Wed, 01 Jul 2026 14:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Titoli sotto la lente a Piazza Affari - Saipem e Rai Way - Websim",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeUFwWGtzdm95cFNOYXJ6OTRVZVQxQWJxNWx5QksyUEkxZmNoanB3TGV3aUUyRmgxcUU1NGJ6RnlKc1NyWHp5Sk5feThETXZCX29YdmZMaWhFXzY5UHlBOW1nRGY4XzFMeFF5REp4Y1VlcXhodWZYR1dSNE43Q3JOWndWZUtpZUoweElhYl9qcw?oc=5",
+          "description": "Titoli sotto la lente a Piazza Affari - Saipem e Rai Way Websim Rai, scaduti i termini per l'aggregazione tra Rai Way e EI Towers ANSA RaiWay-Ei Towers, salta ancora il matrimonio delle torri tv Il Sole 24 ORE Rai Way, forti vendite dopo il nulla di fatto per l'accordo con EI Towers Borsa Italiana Niente accordo Rai Way-Ei Towers: fallisce la trattativa per il polo da 4.700 torri La Stampa",
+          "pubDate": "Wed, 01 Jul 2026 06:34:00 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "after",
+      "n_items": 15,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 66,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Daredevil climbers apparently get engaged after scaling needle of Empire State Building - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYTHRTS19OM0pqcDBHNFRCZWRVVU1jU204d1Y3cGJWUDZBQ0o5aXgyYzZtbjVIeXoxcXJqa3dXZG81N2dpY1hMSm96YUxjVGpMRHhEN2RudUVMUQ?oc=5",
+          "description": "Daredevil climbers apparently get engaged after scaling needle of Empire State Building BBC Daredevil couple Angela Nikolau and Ivan Beerkus climb to top of Empire State Building in NYC, gets engaged, taken into custody ABC7 New York Empire State Building daredevil couple are New Jersey residents Bergen Record Who climbed the Empire State Building? Here's what we know. CBS News Couple climbs Empir",
+          "pubDate": "Wed, 01 Jul 2026 23:29:06 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Strong explosions rock Kyiv hours after Zelensky warned of ‘massive’ Russian attack - CNN",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa3hhcXRKYUVMTF9iaHdKYTBuQ3dmc05WWmdqZEljWUlGelphU0M4b2hrV1gxaUVyQ19wZVhYekE0RHhFS0tsOE05QUZxUWxQYk5IZEFPaXR6TXNHd2d1c1NvcWlQQ0ZxVWZwX0Y2TU05LUZSc2toOUZYRFBmOFItVQ?oc=5",
+          "description": "Strong explosions rock Kyiv hours after Zelensky warned of ‘massive’ Russian attack CNN Russia Strikes Ukraine as Explosions Rock Capital of Kyiv The New York Times Russia launches major drone and missile attack on Kyiv DW.com Kyiv attacked after Ukraine’s Zelenskyy warns of ‘massive Russian strike’ Al Jazeera Ukraine-Russia war latest: Putin launches major aerial attack on Kyiv as Poland scramble",
+          "pubDate": "Thu, 02 Jul 2026 01:04:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "As Venezuela responds to earthquake devastation, volunteers take charge - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYlpTMkQ0RlRSbXJFaU5xTW8ydk5wdWdGY0djTUhNVzU2dUgyVDZIUEJ6eHZqUFRPZkZKMGtxQS1RWllaaEpxcjN5RFhHNTR5T3RYVGh3bTJiWGF1aUNLd2lWSzUzU2ZRbmROQlI2WUpwMXI1N01OdkpncGlnRmpZZTlMdWd1UXRXR3hxRGpmcmNmbHQxTUpQQUwzRUF1UjVmUFYwZGRtd1R6T2xTSkNFX1FDUjdBbzZIZzM1QU43RGzSAcYBQVVfeXFMT3BYeW12dnoxYTdMWU9DVFFBSkdJVkNVVV9hdEppTXphWnpSY2F2UnNyTHVNY2NxcktHMmRrNUNhOFVPRm5xR3FqX2lZcHhWVGZvNUFjN3Bld1VDOWlBdjViOTYyaVpZaGU1VEdqUHdjSDdidGxBV1NfU2RpLUlUWjhiWUxua2Q5cEhVY3FkSVcxTnE2UjhHYnhJdGROOXNQRVFGYjhMV19iRmt3dWR4U21vVXFJMEhrYml2YVpfbDZMazdQdUdB?oc=5",
+          "description": "As Venezuela responds to earthquake devastation, volunteers take charge Al Jazeera ‘Tears won’t move a single stone’: Anger grows as Venezuelans rescue their own and fear true death toll is much higher CNN ‘A war zone’: Venezuela aid workers fear health crisis after earthquakes Al Jazeera Untold casualties and humanitarian needs: What to know a week from Venezuela's quakes NPR EXCLUSIVE: US milita",
+          "pubDate": "Wed, 01 Jul 2026 18:59:59 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "What the SCOTUS Title IX ruling could mean for lawsuits seeking damages for women impacted by trans athletes - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOFdfb0dMQ1hnc3I3cUNtR0F3TlpxLVBuQnlVYm4wYWRvQ0xYSFE0a3FWSmcxOEVoQmZXNkhkTlBnbW5nWmtFMllYLTQxLVFaRTcxcTdtWXJFODc4MGZEM3RsYVRSSG9ZWWc3MUVDXzFwM3pXMHBxbTFHazdtX1dGRHZYbXB1UktISXNtekVnXzloSjg1YnBaSE02ejExX3V1RmNocnBtNG5COTFm?oc=5",
+          "description": "What the SCOTUS Title IX ruling could mean for lawsuits seeking damages for women impacted by trans athletes Fox News Ruling on Trans Athletes Gave the G.O.P. a Win. Most Democrats Looked the Other Way. The New York Times Rulings on women’s sports cap a year of setbacks for transgender advocates The Washington Post NCAA leader says no plan to change rules on transgender athletes after Supreme Cour",
+          "pubDate": "Thu, 02 Jul 2026 00:07:32 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "US-Iran talks gain momentum in Doha as Hormuz tensions ease ahead of Khamenei funeral - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wODg2ZnNaNGZZOTAyQzE5d3hkai1MSHpMc0E4ZzhfVXdBdWMyQ3VueHBlMU9VTHRVeW5ITC10SXVrNW9kQjFHcmlwNGE5Yk5hamNDS05WVEJBVmJMUTMwX1NxVzBGOERpNjNoN0s1NA?oc=5",
+          "description": "US-Iran talks gain momentum in Doha as Hormuz tensions ease ahead of Khamenei funeral Fox News US, Iran talks conclude in Doha, focused on Strait of Hormuz Reuters Iran war live: ‘Positive progress’ as US, Tehran wrap up indirect talks Al Jazeera Live updates: Qatar says indirect US-Iran talks have made ‘positive progress’ CNN U.S. and Iran Set to Hold Indirect Talks After Trading Attacks: What to",
+          "pubDate": "Thu, 02 Jul 2026 01:38:03 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "kiev",
+      "n_items": 10,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 56,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Zelensky pensa al voto in autunno, Zaluzhny pronto a sfidarlo - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTXlKVXA2S1hMT09HU1g4MUdfWmwtUng4b3FLWUNiVHdwRlBmYVplOGZYbldEdGhUZi1JVUJnNVJiQV90RlNWOU5rUW5HbFM4NGYyOGRLeXdsRUpVQm4zc2JOOWZ3cGl0dWZiOWl5V2E5NUs5LUc3RzBBbldseFcwdy1Jdk0ybnRpZkdTMVdkWF9Vb1pFa245WU5QZ2tWRVAwTVp4alMyOUtoVWUwSDBJRUtKdnp5QkpZSW1jeG5RRGJKMnlyUnc5b1o4X3Eyc1ZpcGZFcjFDYW5rVkRaUEVRVlI3SkQ3M1hFVkE?oc=5",
+          "description": "Zelensky pensa al voto in autunno, Zaluzhny pronto a sfidarlo ANSA Ucraina, Zelensky pensa al voto in autunno: Zaluzhny pronto a sfidarlo Sky TG24 Notte di raid russi su Kiev, almeno 8 i morti ANSA La “house of cards” di Kiev: Zaluzhny annuncia la candidatura alle presidenziali la Repubblica Il generale Zaluzhnyi annuncia la candidatura alle presidenziali in Ucraina Adnkronos",
+          "pubDate": "Wed, 01 Jul 2026 18:26:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Attentato a Monaco, due le piste: la truffa dei call center e i servizi dell'Ucraina - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcHUweTNTdXc2VnpkT1E0dnp0MEtRNVI3YTQtYTJlNUVZZGlIYmR4S05sSEpoMTd0eGItb0Rrcm1RelhUeUFUZjlFaHlCS2tqOWxwc0FfT0RFVXNLdDdsSjdObFF4Z3BJazNUXzlvd2M1LXBBYjIzR0Jocm9KdUZ4Nk5ITktlN2RZaFFjY0ctanhxNE91MjNCaXdwWlBLZ1lqNDlVVVNtOHpYZUpPcFHSAbMBQVVfeXFMTTk2N2dYWTM2R01TUlZueXdONVlSM0pwTG9Rem9URll1RGFkVGYtWVhsMXFHeEg4NW14YmhOcS0taE96cDRyaXhya0JtS1ZPVFN3RUVjRGdLSTZDSUg4YzA0WVZlTGU5cUFpNk5mYkxpdFFoSVEtQUJRR3ljM2NoNkVCMmtwbkdRdmJIVERsbHdKU3E5Z2VxOG1veXo0LXNBeERCWkNBTFFkTTJJWU00RlQySmM?oc=5",
+          "description": "Attentato a Monaco, due le piste: la truffa dei call center e i servizi dell'Ucraina Corriere della Sera Gli oligarchi ucraini nel Principato di Monaco sono tantissimi Il Post Caccia al killer del Principato, voleva uccidere il magnate di Kiev ANSA La prima bomba a Montecarlo. Colpito un oligarca ucraino il manifesto Il “Battaglione Monaco”, la dolce vita spericolata dei super ricchi di Kiev la Re",
+          "pubDate": "Wed, 01 Jul 2026 22:18:58 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Ucraina-Russia, le notizie in diretta | Zelensky a Dublino: «Speriamo in progressi tangibili per l'adesione all'Ue». Attacchi con droni a Kiev. Lo studio: «Dall'inizio della guerra due milioni tra morti e feriti» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQkRkZEVhTEFvaWMzSXZWaHh0clE5SFpaV1hvVkJLQzBPZVBuWG9pbl9WdXZKdEtjS1NaNkZUaGhRR085U3VxSFgzWUFEdVJyV3Y4Ym1sZEJWQUdkaktfNXZCbkFOYjh2OGptX0E0QlZ4MkxsTEFRNGtjWWMwOWpJYWE2aDJ3QU4tYy1icktFc3M4d05BcThXZGF5NXVHM0c4akphRm9BREJwcmPSAbABQVVfeXFMT2RtRW9NNG9PNlBySDgyTWRMOFVpa0NEMWV5SXZCNHlmMXloRWIzeFFrTDRjamh0bGlnTTQ3cHE3RG9vVktaZGxpOTVDXzc3TzdtMGY2TXpxS0tfR3UzZnlGaEpHLUp3OUprbEtHWkREeVkyQWkzbElVYUJWQWtfSHkwNW85d1lwa1FGOTlRbFdQTENwWWIzVnZTNG9HSk1PLTJ6bUJINUlNOG5oOGhXRGk?oc=5",
+          "description": "Guerra Ucraina-Russia, le notizie in diretta | Zelensky a Dublino: «Speriamo in progressi tangibili per l'adesione all'Ue». Attacchi con droni a Kiev. Lo studio: «Dall'inizio della guerra due milioni tra morti e feriti» Corriere della Sera Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Wed, 01 Jul 2026 17:21:13 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Ucraina, l’UE eroga 3,9 miliardi per l’acquisto di droni anti-Russia - Eunews",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQWFWSXhEMDY5Q2ZDZktlWXZ1TVQxcXRDWVk2S0dMYzlZUVo1a1VaUjdSYlpyM3RkOHV2U1JkeUtYNW5zNThmR3hrcmc0b2tobHNJZF9GeHFzaHFIYW8tTktkdGpXSGlrbVpOaXFUb3B1S1JVMUJUVV9kMHRvSnhnLS1NR0ZxM2E2RUIxNVBpWlBvUm9JMldKcHk1YU54aHM?oc=5",
+          "description": "Ucraina, l’UE eroga 3,9 miliardi per l’acquisto di droni anti-Russia Eunews Kiev chiede altri 20 mld in difesa. E Merz promette il 3,5% a Trump Il Fatto Quotidiano Butkevych: «Per respingere i russi, non bastano armi e cemento, dobbiamo recuperare veterani e sfollati» Corriere della Sera Commissione UE eroga 3,9 miliardi di euro all'Ucraina per acquisto di droni Borsa Italiana L’asse Merz-Rutte pe",
+          "pubDate": "Tue, 30 Jun 2026 10:36:43 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Notte di raid russi su Kiev, almeno 8 i morti",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/02/notte-di-raid-russi-su-kiev-almeno-8-i-morti_4619cad3-36b7-4911-8f90-e65990dfa7b0.html",
+          "description": "Zelensky pensa al voto in autunno, Zaluzhny pronto a sfidarlo",
+          "pubDate": "Thu, 2 Jul 2026 05:31:33 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "casa",
+      "n_items": 8,
+      "n_sources": 7,
+      "category": "general",
+      "score": 56,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Uccide il compagno in casa a coltellate: choc a Civitanova - Il Resto del Carlino",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZVlaSExRUEZqdGpKVlNzTnlOVkY3NU9fSWEyX3BUYmFsalZsRTVpZDB3MFNnZlQyV1F3Y3M2Z2ozZkgxU0Nzc242VjRMdGNzTzNlaGE4bl9iYUljWG5PRmNXU3BYTGNZdThOZHFYTkF3dmdZaEREMXBabWlHRW5mRGhwQ2RsV3lJdkxpWGE1bUJ0dkZyMGlGeVpzeHY4elk?oc=5",
+          "description": "Uccide il compagno in casa a coltellate: choc a Civitanova Il Resto del Carlino Ucciso con una coltellata in casa nelle Marche, sospetti sulla compagna ANSA Civitanova Marche, 62enne ucciso a coltellate in casa. Indagini in corso, sospetti sulla compagna Corriere della Sera Civitanova Marche, uomo di 62 anni ucciso in casa a coltellate Sky TG24 Trovato morto in casa, choc a Civitanova: si trattere",
+          "pubDate": "Wed, 01 Jul 2026 22:28:11 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Ucciso con una coltellata in casa nelle Marche, sospetti sulla compagna",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/02/un-uomo-ucciso-con-una-coltellata-in-casa-nelle-marche-indaga-la-polizia_e5d81c3d-21b5-4af8-b451-6a5cc172291e.html",
+          "description": "Vittima un 62enne, a terra con una ferita ad un braccio. Indaga la Polizia",
+          "pubDate": "Thu, 2 Jul 2026 02:18:37 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Casa Abruzzo traccia bilancio e rilancia il patto di comunità a Madrid",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/01/casa-abruzzo-traccia-bilancio-e-rilancia-il-patto-di-comunita-a-madrid_6769eaea-7114-4bce-911a-62315f9f6653.html",
+          "description": "L'associazione degli abruzzesi in Spagna ha approvato il programma attività per 2026-27",
+          "pubDate": "Wed, 1 Jul 2026 20:10:39 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Ok definitivo del Senato al Piano casa",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/01/ok-definitivo-del-senato-al-piano-casa_91f80c98-cfb2-42c7-af91-796eed027af7.html",
+          "description": "Orsini, Confindustria darà il suo contributo. Salvini, orgoglioso",
+          "pubDate": "Wed, 1 Jul 2026 18:05:29 +0200"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Trump ha guadagnato oltre 2 miliardi di dollari da quando è tornato alla Casa Bianca - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ1N5dzhoMVNwakFBa1RjVDBHMndBMG5oMzdZeWZacldfbTNrQnlpSWRvLTZSTTVVaElCLTFmZUZ0cFI2S3piM2RkbG1fMjd5RzRnaWQwSlBkREVoTEh1VnB3SlZwcG9NeEZUcUV3Yk0tdEdRV3lhU2U2QWJjTmFiS3R1N3VxV0NwUTlxUERZOHVlMG9ZU2hudDBDMVk2TVl0SUhZZENsX09GLTBUbWRQUE8xeDjSAboBQVVfeXFMTjB3dWs3cE96Ml9lTVN5Vm5ZYTlOYld2a01xSDYzMk44dWRCSWZ1eFVidDU2SUpfQ09ham1mZ0lNYVpta2c2TDBKY0V6cjJHV3ZCWXJreE5jVDA1YTdnV3lsNVJuc2JVOEhNY05iLUpWUmtqSU94a19PQ1BkWDJNbWNBZDZxLWZrUmtZT0NuNnVSRm95b0prZFFsR0M0X2EyV1prTmpPUkZvVjZyODZRVFNjZHNPeWt3a0pR?oc=5",
+          "description": "Trump ha guadagnato oltre 2 miliardi di dollari da quando è tornato alla Casa Bianca Corriere della Sera",
+          "pubDate": "Wed, 01 Jul 2026 09:26:51 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "zelensky",
+      "n_items": 7,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 48,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Zelensky pensa al voto in autunno, Zaluzhny pronto a sfidarlo - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTXlKVXA2S1hMT09HU1g4MUdfWmwtUng4b3FLWUNiVHdwRlBmYVplOGZYbldEdGhUZi1JVUJnNVJiQV90RlNWOU5rUW5HbFM4NGYyOGRLeXdsRUpVQm4zc2JOOWZ3cGl0dWZiOWl5V2E5NUs5LUc3RzBBbldseFcwdy1Jdk0ybnRpZkdTMVdkWF9Vb1pFa245WU5QZ2tWRVAwTVp4alMyOUtoVWUwSDBJRUtKdnp5QkpZSW1jeG5RRGJKMnlyUnc5b1o4X3Eyc1ZpcGZFcjFDYW5rVkRaUEVRVlI3SkQ3M1hFVkE?oc=5",
+          "description": "Zelensky pensa al voto in autunno, Zaluzhny pronto a sfidarlo ANSA Ucraina, Zelensky pensa al voto in autunno: Zaluzhny pronto a sfidarlo Sky TG24 Notte di raid russi su Kiev, almeno 8 i morti ANSA La “house of cards” di Kiev: Zaluzhny annuncia la candidatura alle presidenziali la Repubblica Il generale Zaluzhnyi annuncia la candidatura alle presidenziali in Ucraina Adnkronos",
+          "pubDate": "Wed, 01 Jul 2026 18:26:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Ucraina-Russia, le notizie in diretta | Zelensky a Dublino: «Speriamo in progressi tangibili per l'adesione all'Ue». Attacchi con droni a Kiev. Lo studio: «Dall'inizio della guerra due milioni tra morti e feriti» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQkRkZEVhTEFvaWMzSXZWaHh0clE5SFpaV1hvVkJLQzBPZVBuWG9pbl9WdXZKdEtjS1NaNkZUaGhRR085U3VxSFgzWUFEdVJyV3Y4Ym1sZEJWQUdkaktfNXZCbkFOYjh2OGptX0E0QlZ4MkxsTEFRNGtjWWMwOWpJYWE2aDJ3QU4tYy1icktFc3M4d05BcThXZGF5NXVHM0c4akphRm9BREJwcmPSAbABQVVfeXFMT2RtRW9NNG9PNlBySDgyTWRMOFVpa0NEMWV5SXZCNHlmMXloRWIzeFFrTDRjamh0bGlnTTQ3cHE3RG9vVktaZGxpOTVDXzc3TzdtMGY2TXpxS0tfR3UzZnlGaEpHLUp3OUprbEtHWkREeVkyQWkzbElVYUJWQWtfSHkwNW85d1lwa1FGOTlRbFdQTENwWWIzVnZTNG9HSk1PLTJ6bUJINUlNOG5oOGhXRGk?oc=5",
+          "description": "Guerra Ucraina-Russia, le notizie in diretta | Zelensky a Dublino: «Speriamo in progressi tangibili per l'adesione all'Ue». Attacchi con droni a Kiev. Lo studio: «Dall'inizio della guerra due milioni tra morti e feriti» Corriere della Sera Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Wed, 01 Jul 2026 17:21:13 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Dall’ultima presidenza europea per l’Irlanda è cambiato tutto - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcDdSRzF5UHM5QUNCTHNXM2lDcVV3QWkxSDlnX3pVdHdQUmVqaTROeTFfbFVaUlBka1ZxelpZaG1JZUwySHJLR0psQkcxeE9HTGZUX1F2eUZ0STRNS1g2cjNtbmo5UE9GbkJjMGgyMkJQanVYeVF5SGJJM1BxZ1Y3QXNNSG14VkU?oc=5",
+          "description": "Dall’ultima presidenza europea per l’Irlanda è cambiato tutto Il Post Zelensky a Dublino per la presidenza irlandese Ue, vedrà anche Costa ANSA C’era una volta l’eldorado dell’Irlanda Il paradiso d’Europa in balia di Big Tech La Stampa Quali sono le 5 priorità dell'Irlanda alla presidenza del Consiglio Ue Euronews L'Irlanda inaugura il suo semestre di presidenza del Consiglio Ue: collegamento di D",
+          "pubDate": "Wed, 01 Jul 2026 07:23:12 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Strong explosions rock Kyiv hours after Zelensky warned of ‘massive’ Russian attack - CNN",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa3hhcXRKYUVMTF9iaHdKYTBuQ3dmc05WWmdqZEljWUlGelphU0M4b2hrV1gxaUVyQ19wZVhYekE0RHhFS0tsOE05QUZxUWxQYk5IZEFPaXR6TXNHd2d1c1NvcWlQQ0ZxVWZwX0Y2TU05LUZSc2toOUZYRFBmOFItVQ?oc=5",
+          "description": "Strong explosions rock Kyiv hours after Zelensky warned of ‘massive’ Russian attack CNN Russia Strikes Ukraine as Explosions Rock Capital of Kyiv The New York Times Russia launches major drone and missile attack on Kyiv DW.com Kyiv attacked after Ukraine’s Zelenskyy warns of ‘massive Russian strike’ Al Jazeera Ukraine-Russia war latest: Putin launches major aerial attack on Kyiv as Poland scramble",
+          "pubDate": "Thu, 02 Jul 2026 01:04:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Notte di raid russi su Kiev, almeno 8 i morti",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/02/notte-di-raid-russi-su-kiev-almeno-8-i-morti_4619cad3-36b7-4911-8f90-e65990dfa7b0.html",
+          "description": "Zelensky pensa al voto in autunno, Zaluzhny pronto a sfidarlo",
+          "pubDate": "Thu, 2 Jul 2026 05:31:33 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "luglio",
+      "n_items": 8,
+      "n_sources": 5,
+      "category": "economia",
+      "score": 46,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Dazi Ue, da oggi stretta su acciaio e acquisti online: scatta la tassa anti-Temu, ecco cosa cambia per il marketplace globale - Il Messaggero",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPamZESjN2S2VLSlFtNjVzeXdpVDRQcVpQZmRtM3QtbnFXTWVHRUU4WUJ4bDNGNmtkcGVNMWtwRzdpcEo1Q3ZWQnhlMzZtMHV0a011dWhjRlBqZ0xyNUo0Vm1xX0JhZkVDdnNHOE9XZG9NOTZrd2tyV1pMUGlaR3NWMWhZcw?oc=5",
+          "description": "Dazi Ue, da oggi stretta su acciaio e acquisti online: scatta la tassa anti-Temu, ecco cosa cambia per il marketplace globale Il Messaggero Acciaio, dal 1° luglio scatta lo scudo Ue: meno import e dazi al 50% per proteggere l'industria europea Corriere della Sera Meno import, quote ridotte, più dazi: scattano le nuove norme UE per l’acciaio Eunews L'Ue limita l'import di acciaio, il Brasile chiede",
+          "pubDate": "Tue, 30 Jun 2026 22:00:10 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Messico, 'il vertice del 20 luglio ridurrà le incertezze sull'Usmca'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/02/messico-il-vertice-del-20-luglio-ridurra-le-incertezze-sullusmca_6cfd54c4-11f8-43f2-821b-1da2661b80c6.html",
+          "description": "Il ministro Ebrard: 'Nessuna divergenza irrisolvibile con gli Usa'",
+          "pubDate": "Thu, 2 Jul 2026 03:25:54 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Male Piazza Affari in sintonia con la debolezza degli altri Listini europei - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOdzZqXzZaVWw0TEFmRVA0WFV5N0dMMWhBT2xaZjlGcUhXMWlRcmlXRVdCYmNYdVNETXRUZU5DSFZmMjNxNVI4Z3NMRl9RdzZGV0lFRGc3RlRtYUVTM3laS2NObDhwU19QRUdTaGVsdEpYVTU0TU1aaUlYQ09WVHJwdjhCc0VJV21PajI2Z1FBMlBKamp1WV9wX3BqNUFnbVBFSHVOMkQ2VGtVTjhlemJ0cUVjM2ZSdWFxdElQVGdxR2dfNHR6TzhsMlJxWjE5aTVfak5WQkRocHdscWs4eW9ycmxlOEU5aE04Ym1XUEgya0NJazdSNENjekE3azZLRmM?oc=5",
+          "description": "Male Piazza Affari in sintonia con la debolezza degli altri Listini europei Borsa Italiana Borse in diretta, petrolio oggi 1° luglio | Europa contrastata, incertezza sui colloqui tra Usa e Iran: Milano debole con le banche Corriere della Sera Mercati deboli. Milano schiva le vendite Borsa Italiana Piazza Affari chiude in lieve calo RaiNews Piazza Affari apre in calo tra prese di profitto, banche d",
+          "pubDate": "Wed, 01 Jul 2026 14:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Saldi al via, che cosa comprare con i ribassi: dall'abito in lino alla borsa in rafia. I consigli per l'acquisto giusto - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQZC1VeHdNM0M5cHJReTdjZ18zTjNRbHBYZWgwQmhrTWJfS2plcnRSUmVhdGMtVVRka1cwUDloNXpFR2w5aTZ0Qm1NdG1TOWtHRVBTSVpDR3U1bWp2Y1dJMW16RHZrQzVpcFlxWFdrUVpjaE1YdE54bkhJdlltTEEzcGtvZ3ZtOGR1MFNERDBBZVRTcUNOYklWM0NwTHQ2Zzdsd2dMQmJDcjZlVFpzTjRUQVQ0WFBleGg5Yl9nUzk0SUdfUkpWTGptb3Y0TkcteEJTTTg3N0ZzV25jUlVsVEJUbVd4X2lLdHA5dW54TGFyNTh3ZU9rX2VSXzVvOTRQS29XSXV4bkd4bmo0SkplcmtyNUhuRjhFQzludTgzUE13eGhHMW5vNGF3ctIBrgJBVV95cUxOSnA4UG91ZjZrS19HbGUweUxDWkVLb3FUN21jZXZBS3lGSTdYMmJTTk0tZGdzNU94WjdlZ3poMDZPZWY2UzZrMnJvdEU4TDMyUTkwZmNsYnAwYWdpUkY5ZjJ5RXNTaUJSWndwX3NSU0ZZcG40ZFIzdm1MVnZKT1Jkbk5ycHdJVERZdS1QdnBkeGJJMWJkZmt0Z2J4TzlfRTd4SlV2VjllTHRHR1c1bTZxcXgxSmcxRl8xcFp0VVpFMHgtOTlJLXc1MkhOcWFiUC1IU3BNb3RDdDNuc1QxcWdrTGxrSzVuZDRmSEZ2WmI3VlRLWFBmUk12RGdLNEZBNE5lWTZvSTdLeGJnT1lHX0NXQXJ3ZU1iWFluVWIzeEEwQTA4b1J0eFFPa1VWWDM4dw?oc=5",
+          "description": "Saldi al via, che cosa comprare con i ribassi: dall'abito in lino alla borsa in rafia. I consigli per l'acquisto giusto Corriere della Sera Saldi estivi, al via gli sconti di luglio: il calendario con le date regione per regione la Repubblica Fismo Confesercenti-ipsos, saldi da sabato ma ribassi già partiti ANSA Saldi estivi, diritti consumatori: cosa si può cambiare e quando chiedere un rimborso ",
+          "pubDate": "Wed, 01 Jul 2026 11:47:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Le scadenze fiscali di luglio 2026: proroga ISA, rottamazione-quinquies e principali adempimenti - Commercialista Telematico",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd3ZoYmpiYUQyd1ZQb29QYnB4WmJOWHc1WkNxck9DVGJRNi0tcXIzNVFOR1Y1VXo2cVlEMDdhWDRVUmVRX2k5QVhaQ0lRV3hEUTg5cV9LNmpLSnBGMUV6aEJPYWl4bnd4UkpHbnlPNVRuTnNMWDJuUUlsaEd5SF9LYW9FTWtQSC1DSk1QdzRrOVU5UHF3YVkzelU3dl9JZWNNVFRDcXVtV3B2ZkdaampGNG04NWU?oc=5",
+          "description": "Le scadenze fiscali di luglio 2026: proroga ISA, rottamazione-quinquies e principali adempimenti Commercialista Telematico Fisco, le scadenze di luglio 2026: il calendario completo Sky TG24 La guida alle scadenze fiscali di luglio 2026, il calendario degli appuntamenti Idealista Luglio: le principali scadenze per gli enti non profit Cantiere Terzo Settore Irpef, oggi scatta la scadenza per il vers",
+          "pubDate": "Wed, 01 Jul 2026 04:02:13 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "iran",
+      "n_items": 6,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 42,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump: \"Sto portando avanti una guerra con l'Iran e la sto vincendo facilmente\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KTWVfUkR6TUFtZlByS0toenFKdTFLNHF4SVFMQVFmZHdULXF2QWJJVU4xemlVZEk5SE02cU9YTHF2b0tDMGQ1UktMY0FZcmNkM1JsRGJiVkpJV1huZ1JiU0RNc3pGYmxGOF9oc3RFTDY2bnpNQkFuRFVpWHo?oc=5",
+          "description": "Trump: \"Sto portando avanti una guerra con l'Iran e la sto vincendo facilmente\" Sky TG24 USA-Iran, \"progressi\" nei colloqui indiretti a Doha. A Gaza è emergenza epidemie - Il \"Board of Peace\": \"Fuori l'UNRWA da Gaza\" RaiNews A Hormuz ci attende uno scenario da zona grigia Il Sole 24 ORE A Doha si tratta a distanza. L'Iran: 'Prima sbloccateci gli asset' ANSA Guerra Usa-Iran, le notizie in diretta |",
+          "pubDate": "Wed, 01 Jul 2026 22:00:31 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Due pasdaran uccisi in Iran, raid nel sud del Libano: ultime notizie - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXZlLWxqemM4RVVxZlZEOXZIRVRIeUVWU2VQaU1JVGdKTWg1UFk5d2lCbFNHVE5TUDVtd3FuYmxEbkc5Zi0tTl9vSGs5S0lUa3JwcHJ6aU1IN3dQa0N1VWtUUGs5WVotSjNBQXJyR2lfTC1JaElxUFUtMk5IajJzWElDMmRWY2NwWjQ0SHRiMkNLbUNFM2JnSFc2c25CMEZybTd6VXhSQzJrZFg4aWZZ?oc=5",
+          "description": "Due pasdaran uccisi in Iran, raid nel sud del Libano: ultime notizie Tgcom24 Pizzaballa: \"Gaza è un disastro. Non lasciamo sola la Terra Santa\" Vatican News Pizzaballa: \"Gaza è un disastro, topi mordono i bambini\" Il Fatto Quotidiano Pizzaballa su Gaza, Gerusalemme e Cisgiordania SettimanaNews Gaza, è emergenza sanitaria. La denuncia del card. Pizzaballa Tv2000",
+          "pubDate": "Tue, 30 Jun 2026 20:18:23 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "US-Iran talks gain momentum in Doha as Hormuz tensions ease ahead of Khamenei funeral - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wODg2ZnNaNGZZOTAyQzE5d3hkai1MSHpMc0E4ZzhfVXdBdWMyQ3VueHBlMU9VTHRVeW5ITC10SXVrNW9kQjFHcmlwNGE5Yk5hamNDS05WVEJBVmJMUTMwX1NxVzBGOERpNjNoN0s1NA?oc=5",
+          "description": "US-Iran talks gain momentum in Doha as Hormuz tensions ease ahead of Khamenei funeral Fox News US, Iran talks conclude in Doha, focused on Strait of Hormuz Reuters Iran war live: ‘Positive progress’ as US, Tehran wrap up indirect talks Al Jazeera Live updates: Qatar says indirect US-Iran talks have made ‘positive progress’ CNN U.S. and Iran Set to Hold Indirect Talks After Trading Attacks: What to",
+          "pubDate": "Thu, 02 Jul 2026 01:38:03 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "A Doha si tratta a distanza. L'Iran: 'Prima sbloccateci gli asset'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/01/a-doha-si-tratta-a-distanza.-liran-prima-sbloccateci-gli-asset_7e70ec55-5df7-4b84-b929-e77bf07a6bd5.html",
+          "description": "'Trump vuole la diplomazia, potrebbe prorogare i 60 giorni per avere l'accordo nucleare'",
+          "pubDate": "Wed, 1 Jul 2026 20:22:32 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Male Piazza Affari in sintonia con la debolezza degli altri Listini europei - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOdzZqXzZaVWw0TEFmRVA0WFV5N0dMMWhBT2xaZjlGcUhXMWlRcmlXRVdCYmNYdVNETXRUZU5DSFZmMjNxNVI4Z3NMRl9RdzZGV0lFRGc3RlRtYUVTM3laS2NObDhwU19QRUdTaGVsdEpYVTU0TU1aaUlYQ09WVHJwdjhCc0VJV21PajI2Z1FBMlBKamp1WV9wX3BqNUFnbVBFSHVOMkQ2VGtVTjhlemJ0cUVjM2ZSdWFxdElQVGdxR2dfNHR6TzhsMlJxWjE5aTVfak5WQkRocHdscWs4eW9ycmxlOEU5aE04Ym1XUEgya0NJazdSNENjekE3azZLRmM?oc=5",
+          "description": "Male Piazza Affari in sintonia con la debolezza degli altri Listini europei Borsa Italiana Borse in diretta, petrolio oggi 1° luglio | Europa contrastata, incertezza sui colloqui tra Usa e Iran: Milano debole con le banche Corriere della Sera Mercati deboli. Milano schiva le vendite Borsa Italiana Piazza Affari chiude in lieve calo RaiNews Piazza Affari apre in calo tra prese di profitto, banche d",
+          "pubDate": "Wed, 01 Jul 2026 14:00:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "borsa",
+      "n_items": 11,
+      "n_sources": 3,
+      "category": "economia",
+      "score": 39,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Ucraina, l’UE eroga 3,9 miliardi per l’acquisto di droni anti-Russia - Eunews",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQWFWSXhEMDY5Q2ZDZktlWXZ1TVQxcXRDWVk2S0dMYzlZUVo1a1VaUjdSYlpyM3RkOHV2U1JkeUtYNW5zNThmR3hrcmc0b2tobHNJZF9GeHFzaHFIYW8tTktkdGpXSGlrbVpOaXFUb3B1S1JVMUJUVV9kMHRvSnhnLS1NR0ZxM2E2RUIxNVBpWlBvUm9JMldKcHk1YU54aHM?oc=5",
+          "description": "Ucraina, l’UE eroga 3,9 miliardi per l’acquisto di droni anti-Russia Eunews Kiev chiede altri 20 mld in difesa. E Merz promette il 3,5% a Trump Il Fatto Quotidiano Butkevych: «Per respingere i russi, non bastano armi e cemento, dobbiamo recuperare veterani e sfollati» Corriere della Sera Commissione UE eroga 3,9 miliardi di euro all'Ucraina per acquisto di droni Borsa Italiana L’asse Merz-Rutte pe",
+          "pubDate": "Tue, 30 Jun 2026 10:36:43 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Bending Spoons debutta in Nasdaq con Ipo da 18 miliardi di dollari - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LQk93SC1Hdm1ZRDZmdWRPbHQteldEWURkOWZSMEJIM3VfcWlQeV8yemJFMXpUdUtEdnpiZjhlYkVmVkoyaE9jN1pyWmhIVUlfSXhvVjF3QzRlcjZOc3ZwSkR2WW1YRHJ4NkhYUG1uZ1hraHM?oc=5",
+          "description": "Bending Spoons debutta in Nasdaq con Ipo da 18 miliardi di dollari Sky TG24 Bending Spoons si è quotata in borsa a New York Il Post Bending Spoons, l'unicorno italiano sbarca sul Nasdaq (e vale 18,4 miliardi di dollari): l'Ipo chiude a 29 dollari per azione Corriere della Sera Bending Spoons corre al Nasdaq (+12%) nel primo giorno di quotazione ANSA Bending Spoons, Tamburi terrà circa il 2,5% dell",
+          "pubDate": "Wed, 01 Jul 2026 13:30:08 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Male Piazza Affari in sintonia con la debolezza degli altri Listini europei - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOdzZqXzZaVWw0TEFmRVA0WFV5N0dMMWhBT2xaZjlGcUhXMWlRcmlXRVdCYmNYdVNETXRUZU5DSFZmMjNxNVI4Z3NMRl9RdzZGV0lFRGc3RlRtYUVTM3laS2NObDhwU19QRUdTaGVsdEpYVTU0TU1aaUlYQ09WVHJwdjhCc0VJV21PajI2Z1FBMlBKamp1WV9wX3BqNUFnbVBFSHVOMkQ2VGtVTjhlemJ0cUVjM2ZSdWFxdElQVGdxR2dfNHR6TzhsMlJxWjE5aTVfak5WQkRocHdscWs4eW9ycmxlOEU5aE04Ym1XUEgya0NJazdSNENjekE3azZLRmM?oc=5",
+          "description": "Male Piazza Affari in sintonia con la debolezza degli altri Listini europei Borsa Italiana Borse in diretta, petrolio oggi 1° luglio | Europa contrastata, incertezza sui colloqui tra Usa e Iran: Milano debole con le banche Corriere della Sera Mercati deboli. Milano schiva le vendite Borsa Italiana Piazza Affari chiude in lieve calo RaiNews Piazza Affari apre in calo tra prese di profitto, banche d",
+          "pubDate": "Wed, 01 Jul 2026 14:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Titoli sotto la lente a Piazza Affari - Saipem e Rai Way - Websim",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeUFwWGtzdm95cFNOYXJ6OTRVZVQxQWJxNWx5QksyUEkxZmNoanB3TGV3aUUyRmgxcUU1NGJ6RnlKc1NyWHp5Sk5feThETXZCX29YdmZMaWhFXzY5UHlBOW1nRGY4XzFMeFF5REp4Y1VlcXhodWZYR1dSNE43Q3JOWndWZUtpZUoweElhYl9qcw?oc=5",
+          "description": "Titoli sotto la lente a Piazza Affari - Saipem e Rai Way Websim Rai, scaduti i termini per l'aggregazione tra Rai Way e EI Towers ANSA RaiWay-Ei Towers, salta ancora il matrimonio delle torri tv Il Sole 24 ORE Rai Way, forti vendite dopo il nulla di fatto per l'accordo con EI Towers Borsa Italiana Niente accordo Rai Way-Ei Towers: fallisce la trattativa per il polo da 4.700 torri La Stampa",
+          "pubDate": "Wed, 01 Jul 2026 06:34:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Saldi al via, che cosa comprare con i ribassi: dall'abito in lino alla borsa in rafia. I consigli per l'acquisto giusto - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQZC1VeHdNM0M5cHJReTdjZ18zTjNRbHBYZWgwQmhrTWJfS2plcnRSUmVhdGMtVVRka1cwUDloNXpFR2w5aTZ0Qm1NdG1TOWtHRVBTSVpDR3U1bWp2Y1dJMW16RHZrQzVpcFlxWFdrUVpjaE1YdE54bkhJdlltTEEzcGtvZ3ZtOGR1MFNERDBBZVRTcUNOYklWM0NwTHQ2Zzdsd2dMQmJDcjZlVFpzTjRUQVQ0WFBleGg5Yl9nUzk0SUdfUkpWTGptb3Y0TkcteEJTTTg3N0ZzV25jUlVsVEJUbVd4X2lLdHA5dW54TGFyNTh3ZU9rX2VSXzVvOTRQS29XSXV4bkd4bmo0SkplcmtyNUhuRjhFQzludTgzUE13eGhHMW5vNGF3ctIBrgJBVV95cUxOSnA4UG91ZjZrS19HbGUweUxDWkVLb3FUN21jZXZBS3lGSTdYMmJTTk0tZGdzNU94WjdlZ3poMDZPZWY2UzZrMnJvdEU4TDMyUTkwZmNsYnAwYWdpUkY5ZjJ5RXNTaUJSWndwX3NSU0ZZcG40ZFIzdm1MVnZKT1Jkbk5ycHdJVERZdS1QdnBkeGJJMWJkZmt0Z2J4TzlfRTd4SlV2VjllTHRHR1c1bTZxcXgxSmcxRl8xcFp0VVpFMHgtOTlJLXc1MkhOcWFiUC1IU3BNb3RDdDNuc1QxcWdrTGxrSzVuZDRmSEZ2WmI3VlRLWFBmUk12RGdLNEZBNE5lWTZvSTdLeGJnT1lHX0NXQXJ3ZU1iWFluVWIzeEEwQTA4b1J0eFFPa1VWWDM4dw?oc=5",
+          "description": "Saldi al via, che cosa comprare con i ribassi: dall'abito in lino alla borsa in rafia. I consigli per l'acquisto giusto Corriere della Sera Saldi estivi, al via gli sconti di luglio: il calendario con le date regione per regione la Repubblica Fismo Confesercenti-ipsos, saldi da sabato ma ribassi già partiti ANSA Saldi estivi, diritti consumatori: cosa si può cambiare e quando chiedere un rimborso ",
+          "pubDate": "Wed, 01 Jul 2026 11:47:00 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "perché",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Perché il Pnrr alla fine è stata un'occasione sprecata - Avvenire",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa0pvejhwS2o5a0xoVFBvbFhFNXRhM3F5VmRJVjd1MmNObW5taThQa08wbElWRGkzLXFCMUdvVnVRTmRGbkJvV0pzbWVYdWF2aWR4WDBHTktlZjVSSGFVZnBVRGdUTnN0eHNUa3JkY1h6UWZoOG1yZU9pWnpZWFV1dUFVTnF6LTBWa1V4ajR5ank3SjBH?oc=5",
+          "description": "Perché il Pnrr alla fine è stata un'occasione sprecata Avvenire Il Pnrr ha scosso (un po') l'Italia Corriere della Sera «Piacenza supera la sfida: 47 progetti per oltre 74 milioni di euro trasformati in opere e servizi» IlPiacenza Pnrr: Manfredi 'più del 90% opere dei Comuni completate, sud in media nazionale' ANSA Sito Istituzionale | PNRR Caput Mundi, conclusi e certificati quasi 300 interventi ",
+          "pubDate": "Wed, 01 Jul 2026 07:18:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Nel Sudafrica di Mandela la remigrazione degli zulu - il Giornale",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR19iVFVpTjZnSklNMkQtRkF0UWo2NlFFS05QSlVUd25QaV9kM2FYazh2WllneThnYzNoMG54QUdLUmYtaXBlcmV4X09FTEEzdmpOb3VnbllqdG5qOEROUktvaW8weTE4VHNZVXVsVmpzVW5acTIwYloyS3Z1b3JXT2hmZGRsckQwZUdNNkIzTEljSzhjMmtLZ1k5aWpsMW8?oc=5",
+          "description": "Nel Sudafrica di Mandela la remigrazione degli zulu il Giornale Le proteste anti migranti in Sudafrica: perché è caccia allo straniero Sky TG24 Sudafrica, xenofobia in piazza: 25mila migranti in fuga dal Paese Il Fatto Quotidiano Migliaia di immigrati se ne stanno andando dal Sudafrica Il Post Sudafrica, proteste contro immigrazione. Giornata alto rischio Tv2000",
+          "pubDate": "Wed, 01 Jul 2026 10:03:41 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Tassa sui pacchi sotto i 150 euro: perché Liegi è un indicatore dell’impatto sugli operatori dell’e-commerce - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZW43YjZpS1dBeGg0VmxmdmxFY0RzNzlhcmJod1pRRzBkaGV2Rnc5TGpsMk5BMERmRlZ3S1gwRENPQnhjNER1MGRrOW5fNmNjaWtxT2FoaFFodkdSdFJPbVU0RXJtOWpiMm81LU5uWGg3aXZzQzVxV1pibHF5M0hEa0FZMC1IZmZjRDRuWmQtYjF1eHJMX3lGQjBoNUk1UEI5Y2FSZHRzdUt0VmJUYzJqMVQycV9WZk1FVHF2cHpZWXd6RFN0?oc=5",
+          "description": "Tassa sui pacchi sotto i 150 euro: perché Liegi è un indicatore dell’impatto sugli operatori dell’e-commerce Il Sole 24 ORE Nuovo dazio sui pacchi da Temu e Shein: quanto costerà davvero Il Fatto Quotidiano Entra in vigore la tassa europea sui piccoli pacchi Il Post UE, la sfida all’e-commerce cinese ISPI Dazio sull'eCommerce, Bruxelles: \"Garanzia di equità per imprese e tutela per consumatori\" Bo",
+          "pubDate": "Wed, 01 Jul 2026 10:40:07 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Intelligenza artificiale: la bolla è reale, ecco perché - Morningstar",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMmVKRERsQXlhSkhZdGVtaFhoYUQ2MlkwaFowYU5BUmN1cnZHOEtaLWZuQzJ3M0kyVElRWkNpWnR5RU9BOWpNSmlXeXBvdmRScVBjODlSczJDM1FUNGppaHRQZ1RYR3JuS1NKSm5SaWROVGktQmNfaDdnMUgybS1mbFd5a3NremczOVgtVmpoQkhBU1AzZXZB?oc=5",
+          "description": "Intelligenza artificiale: la bolla è reale, ecco perché Morningstar",
+          "pubDate": "Tue, 30 Jun 2026 09:54:52 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "HPV, il virus che provoca il cancro: 2400 tumori all’anno. L’Ulss 2: “Vaccinatevi, ma lo screening va sempre fatto” - Qdpnews",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMXFMMUg3UGdRdXpSZUgwaXRCVVplT1haM1JqVWdXT01INERwNzJWNGNHcXZxcExrSTlzTzM3cEpXN01iNGRFNmdFTExPbDNMLTRXY1FTSUhxR0w1SFdWTVNVLUZldU5ESEgxUl92VDc1MFhHUGhKRnpwMEZtZXI1QURvNzdsd2VNdkhtZ3RGMS15NUxlbVN2a0JzRTNLQ2FaZDlLOEtkaVd4c3pTbVc5dTlnUjVZRllyY1VtbDN6WldpYnRMcGlZcnNLNG1RcHRLSXl5N3IwTTdwejdiSlkyWEhVT3Y?oc=5",
+          "description": "HPV, il virus che provoca il cancro: 2400 tumori all’anno. L’Ulss 2: “Vaccinatevi, ma lo screening va sempre fatto” Qdpnews Il vaccino contro l'HPV ha pressoché azzerato i decessi causati dal tumore al collo dell’utero National Geographic Vaccino HPV, zero decessi per tumore tra le donne vaccinate socialfarma Papilloma Virus, perché è fondamentale fare il vaccino. L'oncologa Rossana Berardi: «Se t",
+          "pubDate": "Wed, 01 Jul 2026 09:30:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "guerra",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump: \"Sto portando avanti una guerra con l'Iran e la sto vincendo facilmente\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KTWVfUkR6TUFtZlByS0toenFKdTFLNHF4SVFMQVFmZHdULXF2QWJJVU4xemlVZEk5SE02cU9YTHF2b0tDMGQ1UktMY0FZcmNkM1JsRGJiVkpJV1huZ1JiU0RNc3pGYmxGOF9oc3RFTDY2bnpNQkFuRFVpWHo?oc=5",
+          "description": "Trump: \"Sto portando avanti una guerra con l'Iran e la sto vincendo facilmente\" Sky TG24 USA-Iran, \"progressi\" nei colloqui indiretti a Doha. A Gaza è emergenza epidemie - Il \"Board of Peace\": \"Fuori l'UNRWA da Gaza\" RaiNews A Hormuz ci attende uno scenario da zona grigia Il Sole 24 ORE A Doha si tratta a distanza. L'Iran: 'Prima sbloccateci gli asset' ANSA Guerra Usa-Iran, le notizie in diretta |",
+          "pubDate": "Wed, 01 Jul 2026 22:00:31 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra, cala il gelo tra Usa e Arabia Saudita: la gestione di Hormuz scatena la crisi - Il Tempo",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNblg0SFNwUWc1VFI0TldXMnJqTV9CNGNtWGhDR0hBOVR2TUtCazZoWW1VSjlqbFRvbVRSSnBGSFlJU19XRTRGU1dkdUhWTV9HdG54V3hqcjA5YnNEMFlydGpwSnZyODJmcVdhM3ZCckFjTC11eGtCT0xqaWI1UVRSb01uTWxVYUhRSzZpRzd4TzVQbVNvTDJDdnpPY3Nzd2ZNVHUyODVuZDZ3R3BVcl9xcFZVdUZodWdIc1RqSkFNVjlweWFmbENHV0xObw?oc=5",
+          "description": "Guerra, cala il gelo tra Usa e Arabia Saudita: la gestione di Hormuz scatena la crisi Il Tempo Hormuz, le incertezze e difficoltà di transito impattano sull’80% delle imprese Il Sole 24 ORE Hormuz minaccia il Vision 2030 di Riad, il Golfo si spacca ANSA Hormuz, l’Italia prepara la missione. Il capo del Covi: «Due mesi per sminarlo» Il Messaggero Tra Hormuz e Mar Rosso la logistica rimane fragile C",
+          "pubDate": "Wed, 01 Jul 2026 16:21:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Ucraina-Russia, le notizie in diretta | Zelensky a Dublino: «Speriamo in progressi tangibili per l'adesione all'Ue». Attacchi con droni a Kiev. Lo studio: «Dall'inizio della guerra due milioni tra morti e feriti» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQkRkZEVhTEFvaWMzSXZWaHh0clE5SFpaV1hvVkJLQzBPZVBuWG9pbl9WdXZKdEtjS1NaNkZUaGhRR085U3VxSFgzWUFEdVJyV3Y4Ym1sZEJWQUdkaktfNXZCbkFOYjh2OGptX0E0QlZ4MkxsTEFRNGtjWWMwOWpJYWE2aDJ3QU4tYy1icktFc3M4d05BcThXZGF5NXVHM0c4akphRm9BREJwcmPSAbABQVVfeXFMT2RtRW9NNG9PNlBySDgyTWRMOFVpa0NEMWV5SXZCNHlmMXloRWIzeFFrTDRjamh0bGlnTTQ3cHE3RG9vVktaZGxpOTVDXzc3TzdtMGY2TXpxS0tfR3UzZnlGaEpHLUp3OUprbEtHWkREeVkyQWkzbElVYUJWQWtfSHkwNW85d1lwa1FGOTlRbFdQTENwWWIzVnZTNG9HSk1PLTJ6bUJINUlNOG5oOGhXRGk?oc=5",
+          "description": "Guerra Ucraina-Russia, le notizie in diretta | Zelensky a Dublino: «Speriamo in progressi tangibili per l'adesione all'Ue». Attacchi con droni a Kiev. Lo studio: «Dall'inizio della guerra due milioni tra morti e feriti» Corriere della Sera Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Wed, 01 Jul 2026 17:21:13 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Nessy Guerra in caserma poi rilasciata, Roma chiede la grazia a Sisi",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/01/nessy-guerra-rilasciata-in-egitto-fonti-e-rientrata-a-casa-con-la-figlia_fcf887e1-a8e6-4e4e-87aa-f1de9ed0ef4a.html",
+          "description": "Ore di tensione per l'italiana e la figlia. Tajani: 'L'Egitto ci ha assicurato soluzione'",
+          "pubDate": "Wed, 1 Jul 2026 19:36:58 +0200"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Industria: aspettative di produzione stabili, ma la guerra spinge i costi di energia e trasporti",
+          "link": "https://www.ilsole24ore.com/art/industria-pesano-costi-ma-produzione-resta-stabile-AImWtYxD",
+          "description": "Indagine Centro Studi sulle grandi imprese: a giugno aspettative di stabilità, preoccupazioni per l’impatto della Guerra in Medio Oriente sui costi produttivi",
+          "pubDate": "Wed, 1 Jul 2026 08:12:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "mercato",
+      "n_items": 7,
+      "n_sources": 5,
+      "category": "general",
+      "score": 35,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Le auto più vendute d'Italia nei primi 6 mesi del 2026 - Motor1.com Italia",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS2pkNVNlbkM0X3JfdGotT0xpd3ZzZ2d3N0dSU1pnR1pTckMxa3RPYV8xSklGaEFEZ21BUFhkZi1fTzNJWm9wVnUxbTJTQ0x0b21WSkctNTRwa2JsX0ZnWHl3ejFHTkRjSWZsWDdZT25uR0h6SVBEdkJLclhPNkd2eEFnUUg?oc=5",
+          "description": "Le auto più vendute d'Italia nei primi 6 mesi del 2026 Motor1.com Italia Immatricolazioni, il mercato dell'auto cresce del 10%: la spinta dell'elettrico, Stellantis sale del 23% Corriere della Sera Stellantis cresce in Italia. Corrono i modelli cinesi Leapmotor Il Sole 24 ORE Immatricolazioni mercato auto Italia: a giugno le elettriche arrivano al +10,1%, le plug-in al 10,6% Quattroruote Giugno so",
+          "pubDate": "Wed, 01 Jul 2026 18:12:44 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Prezzi Carburanti: diesel al doppio della benzina. Scende anche il Gpl - auto.it",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPR2g3ODdSUmV3TTN2VGpWRUhzU1NnLVVuSDh5SUdKLWZFblBZTjFfcjI3cmJlaDd1elVKbnBaUjNqaUx3anBwNUh6NFM4MURjWEdsbHRMQ1lYZ1d5eGdNSEt5a19aeU50N29aMjRhVjg4Uy04cS1CVGhXSFhfN3VybUlZX2g0RElDV1kxeG8xTzJScTNmMVE1c3Q3T1JabnJfNS1aRWdTTm5BRzdZUlZObXBneXRIb2dlNkhrd1VzZXhpbHZ1UFItMGNHRmhtMHR1dmFaVnRDQm5KTjdPZUZBUU4tYWJOS3hsbGZ3SzJjWdIB9AFBVV95cUxPb1cyMkFiUnFZTDFkWUVNNnF6dUVTSmNOdGl6cUs3eUtBMHYtOVRUMkZKZ1VTRWlydUw0Z0huTV9DT3VWTS1oZlpXVGROeHBJVDhCYU9yWEFucC1RMGNPcmZhT0ZtN0dUeGxhZmU4MFZLZTZVb05tVjdqUFRPZTExQW5CVm1NMDZXN0VJRmNvcjlPTk5pejdhWGlaYkZfQWdZT1ptOTZqamVNcDJ5Q1ZiWWIyX1MzTVFPdDA1a2tkRXJ6cjN1NnJiNUU0ZXl2NU91T0lpOVozQjRxV0dsTllVVXpBZjNURERYQTJoUlRQNkhvUDFG?oc=5",
+          "description": "Prezzi Carburanti: diesel al doppio della benzina. Scende anche il Gpl auto.it Prezzo benzina e diesel, Urso convoca compagnie petrolifere al Mimit Sky TG24 Carburanti, prezzo self cala a 1,806 euro/l per benzina e 1,884 euro/l per gasolio Borsa Italiana Accise, verso la fine degli sconti. Urso convoca le compagnie: «Adeguate i prezzi al mercato» Il Sole 24 ORE Urso, 'compagnie accelerino riduzion",
+          "pubDate": "Tue, 30 Jun 2026 10:10:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: Tokyo, apertura in ribasso (-0,62%)",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/02/borsa-tokyo-apertura-in-ribasso-062_48466e9f-be96-45c8-ad97-3c1bee704393.html",
+          "description": "Attesa per i dati del mercato del lavoro Usa, frena la tecnologia",
+          "pubDate": "Thu, 2 Jul 2026 02:09:31 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Stellantis, crescita superiore al mercato anche senza Leapmotor",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/01/stellantis-crescita-superiore-al-mercato-anche-senza-leapmotor_299ef482-8190-46f6-860f-61ae2c1d3175.html",
+          "description": "Il gruppo conferma la solidità delle vendite dei brand tradizionali",
+          "pubDate": "Wed, 1 Jul 2026 18:03:41 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Cresce del 10,6% il mercato dell'auto a giugno, per Stellantis balzo del 23%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/01/cresce-del-106-il-mercato-dellauto-a-giugno-per-stellantis-balzo-del_f7a03754-1d90-4520-a8ba-eca89716f9b0.html",
+          "description": "Per le immatricolazioni è il settimo segno positivo consecutivo",
+          "pubDate": "Wed, 1 Jul 2026 18:06:06 +0200"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "italia",
+      "n_items": 31,
+      "n_sources": 11,
+      "category": "general",
+      "score": 34.1,
+      "cooldown": true,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Perché il Pnrr alla fine è stata un'occasione sprecata - Avvenire",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa0pvejhwS2o5a0xoVFBvbFhFNXRhM3F5VmRJVjd1MmNObW5taThQa08wbElWRGkzLXFCMUdvVnVRTmRGbkJvV0pzbWVYdWF2aWR4WDBHTktlZjVSSGFVZnBVRGdUTnN0eHNUa3JkY1h6UWZoOG1yZU9pWnpZWFV1dUFVTnF6LTBWa1V4ajR5ank3SjBH?oc=5",
+          "description": "Perché il Pnrr alla fine è stata un'occasione sprecata Avvenire Il Pnrr ha scosso (un po') l'Italia Corriere della Sera «Piacenza supera la sfida: 47 progetti per oltre 74 milioni di euro trasformati in opere e servizi» IlPiacenza Pnrr: Manfredi 'più del 90% opere dei Comuni completate, sud in media nazionale' ANSA Sito Istituzionale | PNRR Caput Mundi, conclusi e certificati quasi 300 interventi ",
+          "pubDate": "Wed, 01 Jul 2026 07:18:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra, cala il gelo tra Usa e Arabia Saudita: la gestione di Hormuz scatena la crisi - Il Tempo",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNblg0SFNwUWc1VFI0TldXMnJqTV9CNGNtWGhDR0hBOVR2TUtCazZoWW1VSjlqbFRvbVRSSnBGSFlJU19XRTRGU1dkdUhWTV9HdG54V3hqcjA5YnNEMFlydGpwSnZyODJmcVdhM3ZCckFjTC11eGtCT0xqaWI1UVRSb01uTWxVYUhRSzZpRzd4TzVQbVNvTDJDdnpPY3Nzd2ZNVHUyODVuZDZ3R3BVcl9xcFZVdUZodWdIc1RqSkFNVjlweWFmbENHV0xObw?oc=5",
+          "description": "Guerra, cala il gelo tra Usa e Arabia Saudita: la gestione di Hormuz scatena la crisi Il Tempo Hormuz, le incertezze e difficoltà di transito impattano sull’80% delle imprese Il Sole 24 ORE Hormuz minaccia il Vision 2030 di Riad, il Golfo si spacca ANSA Hormuz, l’Italia prepara la missione. Il capo del Covi: «Due mesi per sminarlo» Il Messaggero Tra Hormuz e Mar Rosso la logistica rimane fragile C",
+          "pubDate": "Wed, 01 Jul 2026 16:21:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Le auto più vendute d'Italia nei primi 6 mesi del 2026 - Motor1.com Italia",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS2pkNVNlbkM0X3JfdGotT0xpd3ZzZ2d3N0dSU1pnR1pTckMxa3RPYV8xSklGaEFEZ21BUFhkZi1fTzNJWm9wVnUxbTJTQ0x0b21WSkctNTRwa2JsX0ZnWHl3ejFHTkRjSWZsWDdZT25uR0h6SVBEdkJLclhPNkd2eEFnUUg?oc=5",
+          "description": "Le auto più vendute d'Italia nei primi 6 mesi del 2026 Motor1.com Italia Immatricolazioni, il mercato dell'auto cresce del 10%: la spinta dell'elettrico, Stellantis sale del 23% Corriere della Sera Stellantis cresce in Italia. Corrono i modelli cinesi Leapmotor Il Sole 24 ORE Immatricolazioni mercato auto Italia: a giugno le elettriche arrivano al +10,1%, le plug-in al 10,6% Quattroruote Giugno so",
+          "pubDate": "Wed, 01 Jul 2026 18:12:44 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Ucraina, l’UE eroga 3,9 miliardi per l’acquisto di droni anti-Russia - Eunews",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQWFWSXhEMDY5Q2ZDZktlWXZ1TVQxcXRDWVk2S0dMYzlZUVo1a1VaUjdSYlpyM3RkOHV2U1JkeUtYNW5zNThmR3hrcmc0b2tobHNJZF9GeHFzaHFIYW8tTktkdGpXSGlrbVpOaXFUb3B1S1JVMUJUVV9kMHRvSnhnLS1NR0ZxM2E2RUIxNVBpWlBvUm9JMldKcHk1YU54aHM?oc=5",
+          "description": "Ucraina, l’UE eroga 3,9 miliardi per l’acquisto di droni anti-Russia Eunews Kiev chiede altri 20 mld in difesa. E Merz promette il 3,5% a Trump Il Fatto Quotidiano Butkevych: «Per respingere i russi, non bastano armi e cemento, dobbiamo recuperare veterani e sfollati» Corriere della Sera Commissione UE eroga 3,9 miliardi di euro all'Ucraina per acquisto di droni Borsa Italiana L’asse Merz-Rutte pe",
+          "pubDate": "Tue, 30 Jun 2026 10:36:43 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Ministero Salute, 'non ci risultano i 5 decessi per caldo rilevati da Oms' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQUJUdnFmZXhUcExTMW1DTzRNb3Q0Z01iNE4xc0pPXzdlWnk4X0s0V0JRcGhZVUZ5Tm1kaHAxdzVNc1dvLWZBMWdzaUZ5R3dSbEJNM0FTMkJFQWhrVmhURDNGTlhSOHZ4MTdGTFFhM2M0Y0p3RmZ6M3dNcDNJZU5EaUhGalZyaHktS1BhLWhFalZJTWlhb0RZYUtpOUdpbk9yMG02VUxRZ2FjR2lQYndqOS1Za0s2Y2g0TWplaDQ5czZDY29ITVhVYnVrV181RXNkUVAxX0ZoRE1wUkdtX2VPVjNDOWxvWUJHT0loTURJeVJSNkdQN1BxUA?oc=5",
+          "description": "Ministero Salute, 'non ci risultano i 5 decessi per caldo rilevati da Oms' ANSA La canicola presenta il conto: oltre 600 miliardi di possibili costi per le maggiori economie Ue La Stampa Caldo, arriva la prima tregua. Sul conteggio delle vittime Oms smentita dal ministero la Repubblica L'Oms: in Italia 5 morti in 24 ore per il caldo. Il ministero della Salute: 'Non ci risultano' ANSA Il meteo a sc",
+          "pubDate": "Tue, 30 Jun 2026 17:56:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "sempre",
+      "n_items": 6,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "sole24-economia",
+          "title": "Gelati sempre più cari: prezzi su del 40% in cinque anni",
+          "link": "https://www.ilsole24ore.com/art/gelati-sempre-piu-cari-prezzi-del-40percento-cinque-anni-AIRfYbxD",
+          "description": "I gelati confezionati costano sempre di più. In cinque anni i prezzi medi di biscotti, cornetti e stecchi hanno subito un’impennata del 40%, con picchi del 75% al chilo per...",
+          "pubDate": "Wed, 1 Jul 2026 09:46:39 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Il 4 luglio scattano i saldi estivi, le regole da sapere per fare acquisti sicuri",
+          "link": "https://www.ilsole24ore.com/art/il-4-luglio-scattano-saldi-estivi-regole-sapere-fare-acquisti-sicuri-AIvZfiwD",
+          "description": "Sabato quattro luglio. Quest’anno coincide con l’Indipendence day, l’avvio in tutta Italia dei saldi estivi che termineranno quasi sempre dopo 60 giorni ma in alcuni casi si arriverà a settembre....",
+          "pubDate": "Wed, 1 Jul 2026 06:32:00 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "I dazi Usa pesano sul made in Italy, in calo i container nei porti italiani",
+          "link": "https://www.ilsole24ore.com/art/i-dazi-usa-pesano-made-italy-calo-container-porti-italiani-AISbbawD",
+          "description": "Si stanno manifestando in modo, ormai, sempre più tangibile sulle rotte e sui costi della logistica, gli effetti dei conflitti internazionali e delle politiche tariffarie Usa, fenomeni che stanno ridisegnando...",
+          "pubDate": "Tue, 30 Jun 2026 11:53:07 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Robot umanoidi con AI contro la solitudine: \"Vi ameranno per sempre\" - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT21SSzBTRUJJZTMybTFRaGZCTi0zZlVBX0VZNmc1S09WSHI3bjlDT1NNcGNCbmNJZFZLZjJ3Q1duRWZKQ19oaXhuTThvdmw2TE5ISEw2LXFYSzQyLWRGUWJ3cnp5WnhGV3h4aTZBbzNvaXpnTzZFVXpxMDhCRzVyeng3RTJGLVhUSjRUT0hBUG1ad3BHQzVCdk9obHh1M2pnSTh3dURQUQ?oc=5",
+          "description": "Robot umanoidi con AI contro la solitudine: \"Vi ameranno per sempre\" Il Fatto Quotidiano",
+          "pubDate": "Wed, 01 Jul 2026 08:44:24 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "Pagamenti sempre più digitali, spinta da Covid",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/pagamenti-sempre-piu-digitali-spinta-da-covid_730ee14b-27f0-49f4-b8a3-70d4ebf2476b.html",
+          "description": "Bankitalia, crescita per carte, bancomat e app fintech",
+          "pubDate": "Tue, 30 May 2023 10:41:09 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "droni",
+      "n_items": 6,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Ucraina-Russia, le notizie in diretta | Zelensky a Dublino: «Speriamo in progressi tangibili per l'adesione all'Ue». Attacchi con droni a Kiev. Lo studio: «Dall'inizio della guerra due milioni tra morti e feriti» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQkRkZEVhTEFvaWMzSXZWaHh0clE5SFpaV1hvVkJLQzBPZVBuWG9pbl9WdXZKdEtjS1NaNkZUaGhRR085U3VxSFgzWUFEdVJyV3Y4Ym1sZEJWQUdkaktfNXZCbkFOYjh2OGptX0E0QlZ4MkxsTEFRNGtjWWMwOWpJYWE2aDJ3QU4tYy1icktFc3M4d05BcThXZGF5NXVHM0c4akphRm9BREJwcmPSAbABQVVfeXFMT2RtRW9NNG9PNlBySDgyTWRMOFVpa0NEMWV5SXZCNHlmMXloRWIzeFFrTDRjamh0bGlnTTQ3cHE3RG9vVktaZGxpOTVDXzc3TzdtMGY2TXpxS0tfR3UzZnlGaEpHLUp3OUprbEtHWkREeVkyQWkzbElVYUJWQWtfSHkwNW85d1lwa1FGOTlRbFdQTENwWWIzVnZTNG9HSk1PLTJ6bUJINUlNOG5oOGhXRGk?oc=5",
+          "description": "Guerra Ucraina-Russia, le notizie in diretta | Zelensky a Dublino: «Speriamo in progressi tangibili per l'adesione all'Ue». Attacchi con droni a Kiev. Lo studio: «Dall'inizio della guerra due milioni tra morti e feriti» Corriere della Sera Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Wed, 01 Jul 2026 17:21:13 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Ucraina, l’UE eroga 3,9 miliardi per l’acquisto di droni anti-Russia - Eunews",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQWFWSXhEMDY5Q2ZDZktlWXZ1TVQxcXRDWVk2S0dMYzlZUVo1a1VaUjdSYlpyM3RkOHV2U1JkeUtYNW5zNThmR3hrcmc0b2tobHNJZF9GeHFzaHFIYW8tTktkdGpXSGlrbVpOaXFUb3B1S1JVMUJUVV9kMHRvSnhnLS1NR0ZxM2E2RUIxNVBpWlBvUm9JMldKcHk1YU54aHM?oc=5",
+          "description": "Ucraina, l’UE eroga 3,9 miliardi per l’acquisto di droni anti-Russia Eunews Kiev chiede altri 20 mld in difesa. E Merz promette il 3,5% a Trump Il Fatto Quotidiano Butkevych: «Per respingere i russi, non bastano armi e cemento, dobbiamo recuperare veterani e sfollati» Corriere della Sera Commissione UE eroga 3,9 miliardi di euro all'Ucraina per acquisto di droni Borsa Italiana L’asse Merz-Rutte pe",
+          "pubDate": "Tue, 30 Jun 2026 10:36:43 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Ucraina, due morti nei raid russi di stanotte su Kiev",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/02/ucraina-due-morti-nei-raid-russi-di-stanotte-su-kiev_548aa7fc-4f55-4c8d-8d4d-16169ec370f7.html",
+          "description": "Droni e missili sulla capita",
+          "pubDate": "Thu, 2 Jul 2026 05:09:19 +0200"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Attacco di droni in corso su Kiev . Rutte: Mosca resterà minaccia anche dopo guerra - Attacco droni russi su Kiev, sindaco Klitschko: \"Due droni stanno sorvolando la città\" - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSjdGTWR3WDhxdC1uTkp4ZGJTYXg4Q0tvNUp4dlBQVjBrLWpQTDNoUXlaNW5wb3UtbW1kcko3akd3M2U0MkJaZzBTbnY4ODBPMHFGVzQ2Y05iYXlkMF81anVsTXdVaE9BYXFOazBWeW9iVHpOaVViZnJKNGtBODZyclZKTVFQLVBpRTNzWlFUaVdpOElxeXpKR2ljLU5jSU9ZQ0NaM3FxZWNweWZLLVhoM3U3NTk0TFd5dmdlR09rbE9CNHV3UGZjdzZ5TUhZMFhKa3dnS0ttT2FHYW9NcjdqdVgwbXFFZnlES0VGeHIzUEFpTC14TzBz0gH8AUFVX3lxTFBrZW5JZE1WSVhVZFBqeTFodnBXODd2eWdDV3o1Z3ZVNEFrdEtWVnlITlNqWWVlZ1lUSVloYy1XOXFwWmRKRGFfSWgtQjFHQ2RXWTRaRW5ISE9jR2laNFJzRG9MQkw3VHNHWFV3cXNMVmpYSUlwcnlhMEJBTTdhUklRbS02bERrQ0JZdmVPa2hfanh4WHdmeloxU2NUMGo2eU0yWGR4cnBTT3oyeHlHNlZNeXktX1ZybVV4M2RRQ1pNam5yUTc4WDhfWFpIeURhNVNkN0wxVnlhUWlXS0wzaXpmZl8wN2oycTFmT3hJbGlEOGJkOS1HSHcxN1A4VQ?oc=5",
+          "description": "Attacco di droni in corso su Kiev . Rutte: Mosca resterà minaccia anche dopo guerra - Attacco droni russi su Kiev, sindaco Klitschko: \"Due droni stanno sorvolando la città\" RaiNews",
+          "pubDate": "Wed, 01 Jul 2026 21:17:59 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Razionamenti, targhe alterne e benzina scadente: così i droni di Kiev svuotano i distributori russi - il Giornale",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFZxajZhQU1NeVk2Z0MyMnBSTE1tbzhQT2hBQ0tWTXZRcXhvTDVDU0tmRXc4N3FLdWhMMlMyTXYxTHY3SzVmdEh4eG1FRWh6d0Rzdi01OGNDNVdyT2QzcmZ0UzNhLVhDT0x4TWVXbTZ4bWdkSEZoZm9mSFBEekktOUYtVlZPam4xYThNS245b0lMQ19TQ0syNzNrdzdaUFNDeW5FQWhUWE5FaHJ3eW1jQk5aLWZxTzgweVE?oc=5",
+          "description": "Razionamenti, targhe alterne e benzina scadente: così i droni di Kiev svuotano i distributori russi il Giornale",
+          "pubDate": "Wed, 01 Jul 2026 15:15:52 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "uomo",
+      "n_items": 7,
+      "n_sources": 4,
+      "category": "general",
+      "score": 28,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Scooter non si ferma all'alt, uomo muore dopo inseguimento: nel 2012 uccise tifoso del Pescara - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVkxORWJnYlo1M1ZjalFjMzBCVTh6VFozWUNoYmd0MTZFdDFJVGtDNERxcnF4cEhlRHlvWE5xX1RQaVBkVTkxUEZlT2RGUWFpSG4tMnM2ZVV3V2FmWjBqOE5MRHh6WEZRdElWYTNxVlFoWGxjZnFwSFp1SDdpTUdmT21iY1QwSDIzX25LMWU5ZnllTnFJZGVPVEEyMDVpejRpUElGNmln0gGrAUFVX3lxTE5aNWpnMndZS2JuazBqeFRVdnlhYzJ1SXJITXM1R3pnaHVjYlE1SVBHMVRhbjdFTVQ2RGs0MFFaZ0pERVhwOXlrT3ZSeUpGWDVfakFXejE5OUFYWk9LSS1VVlZkbHM4TkFjQlppb1Fxc0VTQmpIaDh5Q1hyT200MGhJRUlOclM3cTZfOThSV2tVbFBQd196d2VCVVIyaDl2Ujdqb1dzS2luSWZ5aw?oc=5",
+          "description": "Scooter non si ferma all'alt, uomo muore dopo inseguimento: nel 2012 uccise tifoso del Pescara la Repubblica Pescara, scooter non si ferma all'alt dei carabinieri ed esce di strada: morto Massimo Ciarelli. Era stato condannato per l'omicidio di un ultrà Corriere della Sera Abruzzo, alt carabinieri, moto non si ferma: un morto in inseguimento Sky TG24 Massimo Ciarelli morto dopo l'inseguimento dei ",
+          "pubDate": "Wed, 01 Jul 2026 20:47:32 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Uccide il compagno in casa a coltellate: choc a Civitanova - Il Resto del Carlino",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZVlaSExRUEZqdGpKVlNzTnlOVkY3NU9fSWEyX3BUYmFsalZsRTVpZDB3MFNnZlQyV1F3Y3M2Z2ozZkgxU0Nzc242VjRMdGNzTzNlaGE4bl9iYUljWG5PRmNXU3BYTGNZdThOZHFYTkF3dmdZaEREMXBabWlHRW5mRGhwQ2RsV3lJdkxpWGE1bUJ0dkZyMGlGeVpzeHY4elk?oc=5",
+          "description": "Uccide il compagno in casa a coltellate: choc a Civitanova Il Resto del Carlino Ucciso con una coltellata in casa nelle Marche, sospetti sulla compagna ANSA Civitanova Marche, 62enne ucciso a coltellate in casa. Indagini in corso, sospetti sulla compagna Corriere della Sera Civitanova Marche, uomo di 62 anni ucciso in casa a coltellate Sky TG24 Trovato morto in casa, choc a Civitanova: si trattere",
+          "pubDate": "Wed, 01 Jul 2026 22:28:11 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "È morto Victor Willis, frontman dei Village People. Il suo Ymca inno dei comizi di Trump",
+          "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/07/01/e-morto-victor-willis-frontman-dei-village-people_a4f92f10-4796-4aa3-8b2d-a023fff3fdc9.html",
+          "description": "Suo anche Macho Man, il tycoon lo elogia: 'Un uomo fantastico'",
+          "pubDate": "Wed, 1 Jul 2026 19:35:46 +0200"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Finisce in coma un uomo morso da una zecca: è allarme nel Bellunese. Ecco come proteggersi - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUS01bDIyOTZ4Q2l3MmRXYmQzWmt0Qnlad0hmSDhJZDIyUXl5ajJvYVpsOVl1NEg5VFV1aWZJQmd1QnloVEZoUWR4RUVENDZGTEFocmZqOXdaTEdwcDBFMWhWSjJMVWVCelZkMl9PdWJmR1QwU0x0eF9xQWt3Z0kybnJLRVZRODBENFhUdU5VaDkwSXNvZUtEUS01SXRCbV9pemfSAacBQVVfeXFMT3lBZUMzQkxza3hjdnJEdUM3dWdXSThKSW9Pa1FYQm5SVkpxZDBKY2NHX3BpYktnZVVkdGoxT19FQ0NVbUR1TER2cGxPeDMyRi1VOTZXZ0k1X05EZUtCdkoxVjA5bnVhVjFkbEpEc21UclVIRGZGQ0JoZlQ2ZzB4d1RQMFV4b0I0UU5SekxuRlpVbUxlajRYYllzZ0tvYlNQTld6T09aVWc?oc=5",
+          "description": "Finisce in coma un uomo morso da una zecca: è allarme nel Bellunese. Ecco come proteggersi la Repubblica Zecche, finisce in coma per un morso dopo una camminata in montagna Corriere del Veneto Belluno, allenatore di basket in coma dopo il morso di una zecca Sky TG24 Settantenne in coma dopo il morso di una zecca: trovato agonizzante Il Giornale di Vicenza In coma a Belluno per il virus della Tbe c",
+          "pubDate": "Wed, 01 Jul 2026 16:00:48 GMT"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Ucciso con una coltellata in casa nelle Marche, sospetti sulla compagna - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOLURBRkdZZGxZN2VHNUVWSU5TbGkzQTB4d3lueDBSY0lmLWlnMmloejMtekctTXdhZ3o2dDJnN3NuTG05T1d0OTVEYWhnX2x4Q2pQUzgzdXdGWHQ2SlRORW11WHhIMHN3VE1nYzV6Z1k4R1JrbjdOVzVHbmdOc2ZJeVNJUGJoNExhUDZSSnNoNnM3NmoxdWJPV0I1cXBBRGhnbFZ0bDV4Yl8tS1RjbmtQanF4MmV1MjhjZWstendZZ1Q0dTFlUmNrUXQtd0JmWU5MNEFvM2phYmpxRjVyV2JsNEE2Mk9vbF8xT0V0Y0tWWlB6alRDT09zaVRn0gH_AUFVX3lxTFBnZERqNHZBY0VpSDlBcTJiQkJvbzh0SUVfYUdsbENOSTNDYml5dkxxN2hXbEZjMEEyakNuUzJ6UlBBVllUZnRVRVNxbnhZVFZ2VFN1WncxNFY0TWx3Z0hmTzJhNnY1a2lvdDVSR2E2M3dNZlh2UmF6Q2xZd3R2RlZ4aUVLYjNYRjFSYlhyUkNtWWtyNE5vRmtkeEhoTFBMV215ekJXUWtjZnNKMXdlVmhIcHNRREFCcEl4S283eXRhU05VZVEzMzZsaHFwWUdsSDVjYzRySGRNSU4wRm9xenZ3VzBNNGU2Znl2M1BpT0ZpZkx1UFQxQWV6SS1MbTF0VQ?oc=5",
+          "description": "Ucciso con una coltellata in casa nelle Marche, sospetti sulla compagna ANSA Uccide il compagno in casa a coltellate: choc a Civitanova Il Resto del Carlino Civitanova Marche, 62enne ucciso a coltellate in casa. Indagini in corso, sospetti sulla compagna Corriere della Sera Civitanova Marche, uomo di 62 anni ucciso in casa a coltellate Sky TG24 Trovato morto in casa, choc a Civitanova: si trattere",
+          "pubDate": "Wed, 01 Jul 2026 22:01:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "auto",
+      "n_items": 5,
+      "n_sources": 5,
+      "category": "general",
+      "score": 25,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Le auto più vendute d'Italia nei primi 6 mesi del 2026 - Motor1.com Italia",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS2pkNVNlbkM0X3JfdGotT0xpd3ZzZ2d3N0dSU1pnR1pTckMxa3RPYV8xSklGaEFEZ21BUFhkZi1fTzNJWm9wVnUxbTJTQ0x0b21WSkctNTRwa2JsX0ZnWHl3ejFHTkRjSWZsWDdZT25uR0h6SVBEdkJLclhPNkd2eEFnUUg?oc=5",
+          "description": "Le auto più vendute d'Italia nei primi 6 mesi del 2026 Motor1.com Italia Immatricolazioni, il mercato dell'auto cresce del 10%: la spinta dell'elettrico, Stellantis sale del 23% Corriere della Sera Stellantis cresce in Italia. Corrono i modelli cinesi Leapmotor Il Sole 24 ORE Immatricolazioni mercato auto Italia: a giugno le elettriche arrivano al +10,1%, le plug-in al 10,6% Quattroruote Giugno so",
+          "pubDate": "Wed, 01 Jul 2026 18:12:44 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Prezzi Carburanti: diesel al doppio della benzina. Scende anche il Gpl - auto.it",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPR2g3ODdSUmV3TTN2VGpWRUhzU1NnLVVuSDh5SUdKLWZFblBZTjFfcjI3cmJlaDd1elVKbnBaUjNqaUx3anBwNUh6NFM4MURjWEdsbHRMQ1lYZ1d5eGdNSEt5a19aeU50N29aMjRhVjg4Uy04cS1CVGhXSFhfN3VybUlZX2g0RElDV1kxeG8xTzJScTNmMVE1c3Q3T1JabnJfNS1aRWdTTm5BRzdZUlZObXBneXRIb2dlNkhrd1VzZXhpbHZ1UFItMGNHRmhtMHR1dmFaVnRDQm5KTjdPZUZBUU4tYWJOS3hsbGZ3SzJjWdIB9AFBVV95cUxPb1cyMkFiUnFZTDFkWUVNNnF6dUVTSmNOdGl6cUs3eUtBMHYtOVRUMkZKZ1VTRWlydUw0Z0huTV9DT3VWTS1oZlpXVGROeHBJVDhCYU9yWEFucC1RMGNPcmZhT0ZtN0dUeGxhZmU4MFZLZTZVb05tVjdqUFRPZTExQW5CVm1NMDZXN0VJRmNvcjlPTk5pejdhWGlaYkZfQWdZT1ptOTZqamVNcDJ5Q1ZiWWIyX1MzTVFPdDA1a2tkRXJ6cjN1NnJiNUU0ZXl2NU91T0lpOVozQjRxV0dsTllVVXpBZjNURERYQTJoUlRQNkhvUDFG?oc=5",
+          "description": "Prezzi Carburanti: diesel al doppio della benzina. Scende anche il Gpl auto.it Prezzo benzina e diesel, Urso convoca compagnie petrolifere al Mimit Sky TG24 Carburanti, prezzo self cala a 1,806 euro/l per benzina e 1,884 euro/l per gasolio Borsa Italiana Accise, verso la fine degli sconti. Urso convoca le compagnie: «Adeguate i prezzi al mercato» Il Sole 24 ORE Urso, 'compagnie accelerino riduzion",
+          "pubDate": "Tue, 30 Jun 2026 10:10:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Cresce del 10,6% il mercato dell'auto a giugno, per Stellantis balzo del 23%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/01/cresce-del-106-il-mercato-dellauto-a-giugno-per-stellantis-balzo-del_f7a03754-1d90-4520-a8ba-eca89716f9b0.html",
+          "description": "Per le immatricolazioni è il settimo segno positivo consecutivo",
+          "pubDate": "Wed, 1 Jul 2026 18:06:06 +0200"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Estate e pressione: perché diuretici e antipertensivi vanno rivisti - Primocanale",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU2U1emt3Tk1hNnc4V1k0R0pkakJwV0JpakZ6Z01GWXhweGpuaTl4TGo1Ukc1aEI5ZEtqSGwyOF9rd2d6Z0VaZVRQbkFtUnZEYnFZZjh2NWVYb0J4LWR2SUZxUjVjYWxmc01MTFZ4S1B2SjhpRmRvQ2M0bTUwRUFrOHplQ3F5OUZsTkdtTFBaWk5LS2FPcklkbTFUZEpOYjlpeDVGTmxUcFdBdUdfX2lOejZ4SmVoU3l5ZjBaOE10VQ?oc=5",
+          "description": "Estate e pressione: perché diuretici e antipertensivi vanno rivisti Primocanale Farmaci. Con il caldo possono diventare inefficaci o dannosi. I consigli di Fedefarma Verona Quotidiano Sanità Grande caldo, il farmacista: “Gli integratori possono aiutare ma non sostituiscono i nutrienti” Bergamonews “Mai in auto, no in bagno, occhio al frigo”: le regole d’oro per conservare i farmaci col gran caldo ",
+          "pubDate": "Wed, 01 Jul 2026 04:30:00 GMT"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "In Friuli Venezia Giulia tornano le Province, via libera del Consiglio regionale - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMTJ4ZTdOWXZwdlpZWDNBUHA3SHlvam1BOHVNd295YzNBUmZaSnl6aldSYkdzSXBObUN5d2czWEtYR2RRbW1TcTR3RFNyd0o0bk1KZXF1RkVkMWZUdHN4MVZ2REtDa3h6Zk80T2hlSkFTaVk3cThiakR2RUZRQk0zYkxNcFVOUmY0RWhKV3FwUy1aZTgxc2FxSURDUjF1dk0wMEpyeDFhQWstbm9IWUFrMkk1WVBwVzYtcWFsemdiZjhjRGNVcXFIRkpqNGQ4Z3JvQzdpdmowX0NXbjR1VnVPdXpkUGZGYVdCTzhPal9PcG9VbWPSAfgBQVVfeXFMTV9Vbl9KY205cjcteFp6ZzA3M3VNUVBLVi1IUUZDcWZhM0hlY1lwZGxhN29YRXFqcGpCWmRQbWJYVlNuZWc1V1NyRlZrbnVObl9rSmNoemZsMEx1N2RWT3A4bnplemlXeUpRNmRObUVwY0FWZlp5NUZzenhMX2g5X29qVUp2bVV4MF8zRTZFdjFDZDVBSWJ5RlloV2dQaXFNTGZQUko0UmNaei00QXdXYWNESDZWTXRtN2kyMnVOQlJRLUJGcjMwMXVzODVlcTdkMlBhYWppSnJjZzlRbndSM2lDZVJvV3IxWkdSMTB1eUJXYVpYSEd1VTY?oc=5",
+          "description": "In Friuli Venezia Giulia tornano le Province, via libera del Consiglio regionale RaiNews Via libera del Consiglio regionale al ritorno delle Province in Fvg ANSA La destra resuscita le province in Friuli Venezia Giulia: dal 2027 tornano Gorizia, Pordenone, Trieste e Udine Il Fatto Quotidiano Autonomia: Calderoli, bene voto consiglio regionale Fvg per reintrodurre Province Il Sole 24 ORE La Giunta ",
+          "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "prezzi",
+      "n_items": 6,
+      "n_sources": 3,
+      "category": "tech-ai",
+      "score": 24,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Arera, prezzo elettricità in Italia più alto in Europa a causa del gas - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZzFqekpuTW5SRkRPMUlPMHlCU3BLTWN0dkdiWDB3R3FIeWJFOUdLdFdENTlOdWY2ZlcyNVRaMmQ0QWZIVndoZ1VaQm93QWVfTE5pTHBZSE5NZ2diVU9DQVU3VzlkLTNLNXhMR1VXYzI3N3lVSWhTaWZkTDlhbEtSRzc3SUlfYTM4clVCdVVtRDkwekhkeER2ajZXUHl0VmlLc0E2eW9TVWp3ekVPM0xodEpWUzFtTVJvemFqc3Byd1B5azdUU0Y1c3NGVjdFQTZtRURxbW1kcGVjOFVEb1cxZ1FYWTBQazFOSnVaOUNJeVROVFJhLXc?oc=5",
+          "description": "Arera, prezzo elettricità in Italia più alto in Europa a causa del gas ANSA “In Italia prezzi dell’elettricità più cari d’Europa”: l’allarme dell’Arera la Repubblica Elettricità, l’Italia paga quasi il doppio di Francia e Spagna: pesa la dipendenza dal gas Il Sole 24 ORE Arera, nel 2025 in Italia rinnovabili in calo, aumenta termoelettrico ANSA Arera, prezzi luce e gas italiani tra i più alti in E",
+          "pubDate": "Wed, 01 Jul 2026 15:09:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Warsh: 'Garantiremo la stabilità dei prezzi, la Fed resterà indipendente' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUFVWbGctLWxDX1VpYmMzcllrYTNIUFV4R3QyOGJZMUVDY1pCV1FsZU80VmJoVmZ4bG9RRmZkN1BuOUc2T2VzZk9HM2hOY0ZIRnNydS0xckFfTk9CYU9uTzh1enlxZ0hHdlZYZkg1QklEUWZ3WnBra1BRMzU5NDBoVXEyOThKb0NYYk1VZzhGNERpMVV2bnF3Ym51WDB0NGpzSDNNQU9UWl9JWjlyRVVTTWEyMkRhVTdEV0ZKZjZCYzhDamJsOEdldVB4dlZKRVVjZEJJZUhLONIB3AFBVV95cUxOT2Q3QnBGck51akpWcERyZ2llWUpQcHhUa3Rld3hKek5IenA2VnlYeXBBNlIwRlJEN3JSZlVsTEhILWZrSDA4Ym1hQVpTd2RqLUpYbjg3dGpJbGN0b3g1M2lnZWRDWWxHN2FzZldDa0JsZWdfbGF5dUNEUGJJekVtQUptV3htR2ZsanhYZENDSU1UX3JNLUY0MGQ1X1hBQmZnaDFQNFZXSmNHRC13WUVIcHlLZDVGamFiSWdabnRqOENuaGdCd3lFNXFxand1TjJxbzhJd2ZCVE94U0Rv?oc=5",
+          "description": "Warsh: 'Garantiremo la stabilità dei prezzi, la Fed resterà indipendente' ANSA La “Disciplina Greenspan” si riprende la Fed: come cambia la politica monetaria americana Corriere della Sera Warsh, la Federal Reserve resterà indipendente Il Sole 24 ORE Da Sintra arriva l’allarme delle banche centrali sull’AI. E Warsh difende l’indipendenza della Fed La Stampa Fed USA deciderà su aumento dei tassi tr",
+          "pubDate": "Wed, 01 Jul 2026 14:10:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Prezzi Carburanti: diesel al doppio della benzina. Scende anche il Gpl - auto.it",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPR2g3ODdSUmV3TTN2VGpWRUhzU1NnLVVuSDh5SUdKLWZFblBZTjFfcjI3cmJlaDd1elVKbnBaUjNqaUx3anBwNUh6NFM4MURjWEdsbHRMQ1lYZ1d5eGdNSEt5a19aeU50N29aMjRhVjg4Uy04cS1CVGhXSFhfN3VybUlZX2g0RElDV1kxeG8xTzJScTNmMVE1c3Q3T1JabnJfNS1aRWdTTm5BRzdZUlZObXBneXRIb2dlNkhrd1VzZXhpbHZ1UFItMGNHRmhtMHR1dmFaVnRDQm5KTjdPZUZBUU4tYWJOS3hsbGZ3SzJjWdIB9AFBVV95cUxPb1cyMkFiUnFZTDFkWUVNNnF6dUVTSmNOdGl6cUs3eUtBMHYtOVRUMkZKZ1VTRWlydUw0Z0huTV9DT3VWTS1oZlpXVGROeHBJVDhCYU9yWEFucC1RMGNPcmZhT0ZtN0dUeGxhZmU4MFZLZTZVb05tVjdqUFRPZTExQW5CVm1NMDZXN0VJRmNvcjlPTk5pejdhWGlaYkZfQWdZT1ptOTZqamVNcDJ5Q1ZiWWIyX1MzTVFPdDA1a2tkRXJ6cjN1NnJiNUU0ZXl2NU91T0lpOVozQjRxV0dsTllVVXpBZjNURERYQTJoUlRQNkhvUDFG?oc=5",
+          "description": "Prezzi Carburanti: diesel al doppio della benzina. Scende anche il Gpl auto.it Prezzo benzina e diesel, Urso convoca compagnie petrolifere al Mimit Sky TG24 Carburanti, prezzo self cala a 1,806 euro/l per benzina e 1,884 euro/l per gasolio Borsa Italiana Accise, verso la fine degli sconti. Urso convoca le compagnie: «Adeguate i prezzi al mercato» Il Sole 24 ORE Urso, 'compagnie accelerino riduzion",
+          "pubDate": "Tue, 30 Jun 2026 10:10:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "A giugno in Italia i prezzi sono cresciuti del 3 per cento rispetto a un anno fa - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DVG9yTmxYQkVRU0pxdEYwZHV0cl8tbDg1T3hsYXBWVHR1NEtEZU9RLVIyUkJtM1VoYlJGbEdhekZJSlR2WnYtb2d6cW56YWlYVGR5ekJBT3JKM1hUekg0VVZNbTk5Qk01TDI1cw?oc=5",
+          "description": "A giugno in Italia i prezzi sono cresciuti del 3 per cento rispetto a un anno fa Il Post Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Tue, 30 Jun 2026 14:02:14 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Gelati sempre più cari: prezzi su del 40% in cinque anni",
+          "link": "https://www.ilsole24ore.com/art/gelati-sempre-piu-cari-prezzi-del-40percento-cinque-anni-AIRfYbxD",
+          "description": "I gelati confezionati costano sempre di più. In cinque anni i prezzi medi di biscotti, cornetti e stecchi hanno subito un’impennata del 40%, con picchi del 75% al chilo per...",
+          "pubDate": "Wed, 1 Jul 2026 09:46:39 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "ucraina",
+      "n_items": 6,
+      "n_sources": 3,
+      "category": "geopolitica",
+      "score": 24,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Zelensky pensa al voto in autunno, Zaluzhny pronto a sfidarlo - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTXlKVXA2S1hMT09HU1g4MUdfWmwtUng4b3FLWUNiVHdwRlBmYVplOGZYbldEdGhUZi1JVUJnNVJiQV90RlNWOU5rUW5HbFM4NGYyOGRLeXdsRUpVQm4zc2JOOWZ3cGl0dWZiOWl5V2E5NUs5LUc3RzBBbldseFcwdy1Jdk0ybnRpZkdTMVdkWF9Vb1pFa245WU5QZ2tWRVAwTVp4alMyOUtoVWUwSDBJRUtKdnp5QkpZSW1jeG5RRGJKMnlyUnc5b1o4X3Eyc1ZpcGZFcjFDYW5rVkRaUEVRVlI3SkQ3M1hFVkE?oc=5",
+          "description": "Zelensky pensa al voto in autunno, Zaluzhny pronto a sfidarlo ANSA Ucraina, Zelensky pensa al voto in autunno: Zaluzhny pronto a sfidarlo Sky TG24 Notte di raid russi su Kiev, almeno 8 i morti ANSA La “house of cards” di Kiev: Zaluzhny annuncia la candidatura alle presidenziali la Repubblica Il generale Zaluzhnyi annuncia la candidatura alle presidenziali in Ucraina Adnkronos",
+          "pubDate": "Wed, 01 Jul 2026 18:26:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Vertice di Meloni con Tajani, Crosetto e Giorgetti in vista del summit Nato. Gli Usa: “Alcuni in ritardo sul 5% per la difesa” - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLUdtdDJ3S2ZqUU05NlEwaXJTZnozLVQ5dDVickl0YzRUZkJYVS10MzVtX2xjMlNvTF9HUmZLQVR6aU01Wm5sMVBLTEhNY2RISmpJWkFaamVfd0Ztb3NWLW96Rko2ZnBSNjdUbTFCS09kbl8zUk4yeUR5UDJwdzU4TVFmc2FWMHlfTFZxMG5jTVpqTmotdkIzV2prbXBJbEV0MExQVmphLVZxQTBvdlJQYmx0NVo5Z1dLS19JR0p3ZkhXQXh2LWVEWVJreVQ3TFhZbUV1NGh3RF93cDFzRFJrZFZsNGs2dWc?oc=5",
+          "description": "Vertice di Meloni con Tajani, Crosetto e Giorgetti in vista del summit Nato. Gli Usa: “Alcuni in ritardo sul 5% per la difesa” Il Fatto Quotidiano Nato, Meloni riunisce i ministri. Vertice sulle spese per l'Ucraina Corriere della Sera Riunione con Meloni, Tajani, Crosetto e Giorgetti in vista del vertice Nato ad Ankara la Repubblica Alla Camera il question time con Tajani, Crosetto Zangrillo e Ber",
+          "pubDate": "Wed, 01 Jul 2026 18:13:40 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Attentato a Monaco, due le piste: la truffa dei call center e i servizi dell'Ucraina - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcHUweTNTdXc2VnpkT1E0dnp0MEtRNVI3YTQtYTJlNUVZZGlIYmR4S05sSEpoMTd0eGItb0Rrcm1RelhUeUFUZjlFaHlCS2tqOWxwc0FfT0RFVXNLdDdsSjdObFF4Z3BJazNUXzlvd2M1LXBBYjIzR0Jocm9KdUZ4Nk5ITktlN2RZaFFjY0ctanhxNE91MjNCaXdwWlBLZ1lqNDlVVVNtOHpYZUpPcFHSAbMBQVVfeXFMTTk2N2dYWTM2R01TUlZueXdONVlSM0pwTG9Rem9URll1RGFkVGYtWVhsMXFHeEg4NW14YmhOcS0taE96cDRyaXhya0JtS1ZPVFN3RUVjRGdLSTZDSUg4YzA0WVZlTGU5cUFpNk5mYkxpdFFoSVEtQUJRR3ljM2NoNkVCMmtwbkdRdmJIVERsbHdKU3E5Z2VxOG1veXo0LXNBeERCWkNBTFFkTTJJWU00RlQySmM?oc=5",
+          "description": "Attentato a Monaco, due le piste: la truffa dei call center e i servizi dell'Ucraina Corriere della Sera Gli oligarchi ucraini nel Principato di Monaco sono tantissimi Il Post Caccia al killer del Principato, voleva uccidere il magnate di Kiev ANSA La prima bomba a Montecarlo. Colpito un oligarca ucraino il manifesto Il “Battaglione Monaco”, la dolce vita spericolata dei super ricchi di Kiev la Re",
+          "pubDate": "Wed, 01 Jul 2026 22:18:58 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Ucraina-Russia, le notizie in diretta | Zelensky a Dublino: «Speriamo in progressi tangibili per l'adesione all'Ue». Attacchi con droni a Kiev. Lo studio: «Dall'inizio della guerra due milioni tra morti e feriti» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQkRkZEVhTEFvaWMzSXZWaHh0clE5SFpaV1hvVkJLQzBPZVBuWG9pbl9WdXZKdEtjS1NaNkZUaGhRR085U3VxSFgzWUFEdVJyV3Y4Ym1sZEJWQUdkaktfNXZCbkFOYjh2OGptX0E0QlZ4MkxsTEFRNGtjWWMwOWpJYWE2aDJ3QU4tYy1icktFc3M4d05BcThXZGF5NXVHM0c4akphRm9BREJwcmPSAbABQVVfeXFMT2RtRW9NNG9PNlBySDgyTWRMOFVpa0NEMWV5SXZCNHlmMXloRWIzeFFrTDRjamh0bGlnTTQ3cHE3RG9vVktaZGxpOTVDXzc3TzdtMGY2TXpxS0tfR3UzZnlGaEpHLUp3OUprbEtHWkREeVkyQWkzbElVYUJWQWtfSHkwNW85d1lwa1FGOTlRbFdQTENwWWIzVnZTNG9HSk1PLTJ6bUJINUlNOG5oOGhXRGk?oc=5",
+          "description": "Guerra Ucraina-Russia, le notizie in diretta | Zelensky a Dublino: «Speriamo in progressi tangibili per l'adesione all'Ue». Attacchi con droni a Kiev. Lo studio: «Dall'inizio della guerra due milioni tra morti e feriti» Corriere della Sera Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Wed, 01 Jul 2026 17:21:13 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Ucraina, l’UE eroga 3,9 miliardi per l’acquisto di droni anti-Russia - Eunews",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQWFWSXhEMDY5Q2ZDZktlWXZ1TVQxcXRDWVk2S0dMYzlZUVo1a1VaUjdSYlpyM3RkOHV2U1JkeUtYNW5zNThmR3hrcmc0b2tobHNJZF9GeHFzaHFIYW8tTktkdGpXSGlrbVpOaXFUb3B1S1JVMUJUVV9kMHRvSnhnLS1NR0ZxM2E2RUIxNVBpWlBvUm9JMldKcHk1YU54aHM?oc=5",
+          "description": "Ucraina, l’UE eroga 3,9 miliardi per l’acquisto di droni anti-Russia Eunews Kiev chiede altri 20 mld in difesa. E Merz promette il 3,5% a Trump Il Fatto Quotidiano Butkevych: «Per respingere i russi, non bastano armi e cemento, dobbiamo recuperare veterani e sfollati» Corriere della Sera Commissione UE eroga 3,9 miliardi di euro all'Ucraina per acquisto di droni Borsa Italiana L’asse Merz-Rutte pe",
+          "pubDate": "Tue, 30 Jun 2026 10:36:43 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    }
+  ]
+}

@@ -1,0 +1,925 @@
+{
+  "date": "2026-07-14",
+  "top_topics": [
+    {
+      "keyword": "nuovo",
+      "n_items": 13,
+      "n_sources": 9,
+      "category": "geopolitica",
+      "score": 123,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Italia e altri 8 Paesi (più Ucraina) formano lo scudo anti-missili europeo: le società che lo costruiranno - Europa Today",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeUg1MTQ4Y2xlT1NNLU01bXZpbkhYaUdkaEhiSEtLa3V2ZnhxaFh1NHMtTWcweFR1TWJNd29BWlpCdU1yeVVJTTV0N2xNblhVMERWcHhsMmw1SzFXM1VwaVl6UHoyVkZvc0Jrb01zclpvQXNIT08zUEVvTEdzSHVtdnIzOUctNkI4UE5XOHljSlB2Umc?oc=5",
+          "description": "Italia e altri 8 Paesi (più Ucraina) formano lo scudo anti-missili europeo: le società che lo costruiranno Europa Today Attacco russo su Kiev. A Parigi nasce la coalizione antibalistica europea e l'Italia c'è - In corso attacco su Kiev \"con missili balistici\" RaiNews Nasce lo scudo antibalistico Freyja: Italia tra i 10 Paesi fondatori Il Fatto Quotidiano Zelensky ribalta di nuovo l'Ucraina. Nove a",
+          "pubDate": "Mon, 13 Jul 2026 17:27:34 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Luxor sorprende ancora, un nuovo capitolo della storia riaffiora dalla sabbia dopo 3.000 anni - SiViaggia",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpNG4wc2NRVnBoeGQ0SVB1dWZick9NbGR3RFF2czgwRXdmX1pqQ2Jha3FZSDFrWnk1ZGNhSG9EbGJ6UG9lSHhjZmlzU1YzY2pKeFVSLTNfeFdOYXhOOUZYQzZSalphVFJ1Yzk4UEpfc1E4Sy1oa2g1X2dn0gF_QVVfeXFMT3Z1NHNHNWhGZGZCWDI2VDZUazMyVmpONFI4OF9EVjlXN3lRc2ZBQWNYNmJWMmhSUF9mNlBLTkxabVYwakNrVVhLRVBiQ2UzNHV6NkRDTXBOeTZHN3ZGb0ZLWUF6SnFlSzhNQkdpSHhtckhnQk9Ua0V1ei1lYWkwbw?oc=5",
+          "description": "Luxor sorprende ancora, un nuovo capitolo della storia riaffiora dalla sabbia dopo 3.000 anni SiViaggia Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Mon, 13 Jul 2026 05:30:55 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Trump, 'attaccheremo tutte le capacità dell'Iran nello stretto di Hormuz'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/14/trump-attaccheremo-tutte-le-capacita-delliran-nello-stretto-di-hormuz_a88d97dc-3cb1-48fd-ac23-95cf2d2c3e95.html",
+          "description": "'Il nuovo conflitto sarà molto veloce e finirà presto'",
+          "pubDate": "Tue, 14 Jul 2026 00:16:15 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Venezuela, Delcy Rodríguez fonde Esteri e Commercio estero in un solo ministero",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/13/venezuela-delcy-rodriguez-fonde-esteri-e-commercio-estero-in-un-solo-ministero_44419be8-3573-4cbd-a676-177cfddb8e64.html",
+          "description": "Félix Plasencia nominato alla guida del nuovo dicastero per la politica internazionale",
+          "pubDate": "Mon, 13 Jul 2026 23:44:38 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse in diretta, petrolio oggi 13 luglio | Europa incerta (e Seul crolla) dopo il nuovo colpo al tech, su greggio e gas con la nuova chiusura dello Stretto di Hormuz - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNU0Joc21rZU02dU5aTmplLWNqd1lRMUZDMVZFNXM3bl9xQnhGWFlhOVc0bEpjai1EZG9mWU83Rkg1b01DWUZXYmZzdWJoV1FGT0hPRWQxcnY3RFByREMxdU1vNk1xcTd4VDNDQUMwaWs0V19pTGMzdzJ2M3FKZ2F4WUlfM3c2Zm9UY19RTTk4eWd4ZkRjMlY4SHhFSkZ3aG1GUkFLZ1lhemFnVVpxVktvZWJUWEN5R3NuUnRRSzNwMXladFphZk4wRDU0dUZFUDd1dkZfQm96d1FVNERoVl9uMUJoZVg5UGh0bzhlWlFrWFMzYnlvclpSWW40QU1hTm5LdVhHUUx5NGpoNkHSAZACQVVfeXFMT0RsNS1wN1ctR0FqbWhFaTVoMWxxaFBlUnBucWlhZ0E4RjRMc2F2R1dPOHRtUEdmazVVX0NuOEhfZl9oVTFjNGxJczZPS3p1by1VT2d3NXFGbFVrcWhjWW03QV9HaDVDR2ZmUjdiNUZqcnBHeFhsWU1LOUJQZlJkaE9IbTJUX0s1RmFNRlZSTW5iMTBEcEl0NnU0Q1lCcFA1aFk4bEZtVGtlNWt0LUs3dXRmc0g0VFl6N0JwMnNYSDZ5T3BBclNrVWwxWG53Z2RGdDhRdE1YcWEydG1fNUd6ZXVvUE5mOU10RmZ4dXlXQ19abVJkX1hHbGlHZGEyU180ZGJPNTFhR29CNFhYenp0VUg?oc=5",
+          "description": "Borse in diretta, petrolio oggi 13 luglio | Europa incerta (e Seul crolla) dopo il nuovo colpo al tech, su greggio e gas con la nuova chiusura dello Stretto di Hormuz Corriere della Sera Piazza Affari tonica in un'Europa cauta Borsa Italiana Borse, da Seul nuovo colpo al tech ma Milano resiste (+0,4%). Wall Street chiude negativa, petrolio +9% Il Sole 24 ORE Borsa: Milano chiude in rialzo, Ftse Mi",
+          "pubDate": "Mon, 13 Jul 2026 17:37:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "iran",
+      "n_items": 15,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 96,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra, ultime notizie. Trump ha comunicato al Congresso la ripresa della guerra contro l’Iran. Teheran attacca navi e Bahrein - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORG94TWIxZm5TNU1pQmdzTEZ5VDc5Q3VtM1pGNUtGLU5HTDdTN2xsREZ2VnB6dUpaQ0lHcV8yTzJYMDExQlVqMmhnTTUxTlJJUEx6Mm9wVXBrZUlfRnJuSTdQMmlxM19VMVFpNGd2WWc2VUdWN2hyWVY0N2hzNG45WGhmdjVVQm1iNUN2M2hBTV9aRUY4ZDRaUElsdThKbzFfZGF1VjZEbGlUcWdNa3FYYVFjd0F2N1JlV2Z6VV8zU3Rpa0pOcXk1OEd3ZE5OSVkwRmRSLWxCdFJQUQ?oc=5",
+          "description": "Guerra, ultime notizie. Trump ha comunicato al Congresso la ripresa della guerra contro l’Iran. Teheran attacca navi e Bahrein Il Sole 24 ORE LA GIORNATA - liveblog ANSA Terza ondata di attacchi Usa contro l'Iran. Trump blocca Hormuz: \"Chi passa dovrà pagare il 20%\" - Nyt: pedaggi su Hormuz? Per Rubio e Vance è impossibile RaiNews Mercati deboli, Milano schiva le vendite Borsa Italiana Miller: “Il",
+          "pubDate": "Tue, 14 Jul 2026 03:30:48 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Operazione Mossad in Iran. Tradimenti e regime change - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU1ZLWDF4c3FNZWZsWVRnTG1uNWtpVFRwcE9RcjNmN29EeGRYYXc4VjFHd2w3SjIzUDBycVg2WkVJYmFZdWVUT2dvM0V3M3FTM2NlM05DbG1Ta3l5LThNQU9FcTZCdG1MUGd1MGpvQmQ1V2tXdnpDNTE2ZS1NWkNza05tNG5odGlNNjUxQjVuREZkWEQ5ZkJLcDkzUDEtMFd4ZWtQYWVwRmZVdlBIeUJEUU5NYmxJVU00bmxiQVB0X0JQZUcyWl8xVFlsdUJmcWvSAdQBQVVfeXFMTmFDUmw2S3hLQTY0Vk5lSkVoZnBrU000WTBBX3dUWFhoR1gwd0diT1pFNy1ENFdBdVZoNk1xUHdsVFJNQ3RPcDRhYk1zV2RRWXQ3aF9Ld1VGbVc0Nmw5aFU3aGM3VUZvclBQVUphOFB0c2lqdnc3LUs1bEl4c0ZCalpHWXdSWFJUTDJBU1Q3Y3BXZ0w3Z1lyVWhYejQ2MlJLN1pLZTdBS3h5Q2FuM25ucm02ODdZZzVFZXFIVENBOGFjbTZNM2NaaWVoWUJ4czd3aEF4TGM?oc=5",
+          "description": "Operazione Mossad in Iran. Tradimenti e regime change RaiNews «Usa e Israele volevano Ahmadinejad alla guida dell'Iran»: il clamoroso piano svelato da New York Times e Haaretz Corriere della Sera L’operazione segreta con cui Israele ha cercato di trasformare Ahmadinejad nel suo uomo a Teheran la Repubblica “Il Mossad reclutò Ahmadinejad e andò male” Il Fatto Quotidiano \"Incontri segreti del Mossad",
+          "pubDate": "Mon, 13 Jul 2026 19:55:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Italia e altri 8 Paesi (più Ucraina) formano lo scudo anti-missili europeo: le società che lo costruiranno - Europa Today",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeUg1MTQ4Y2xlT1NNLU01bXZpbkhYaUdkaEhiSEtLa3V2ZnhxaFh1NHMtTWcweFR1TWJNd29BWlpCdU1yeVVJTTV0N2xNblhVMERWcHhsMmw1SzFXM1VwaVl6UHoyVkZvc0Jrb01zclpvQXNIT08zUEVvTEdzSHVtdnIzOUctNkI4UE5XOHljSlB2Umc?oc=5",
+          "description": "Italia e altri 8 Paesi (più Ucraina) formano lo scudo anti-missili europeo: le società che lo costruiranno Europa Today Attacco russo su Kiev. A Parigi nasce la coalizione antibalistica europea e l'Italia c'è - In corso attacco su Kiev \"con missili balistici\" RaiNews Nasce lo scudo antibalistico Freyja: Italia tra i 10 Paesi fondatori Il Fatto Quotidiano Zelensky ribalta di nuovo l'Ucraina. Nove a",
+          "pubDate": "Mon, 13 Jul 2026 17:27:34 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Yemen, media: \"Raid saudita sull'aeroporto internazionale di Sana'a\" | Gli Houthi sequestrano aereo della Croce Rossa - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOGtxQllFSHY1UDRxUHl0LWowSGpNUUhkQ0R0SHlKT19fYUpRZkp5WHp3bWhxSGg0WDExTDZqWERpMWt3X253X1NRMTFSclVPOE5QTXk2UmY5d09oVXNBV2FudlE3enNnTmJtUjBNUUI3TC1wWC1yQTdRUzhUQ21TMENGSzVDSFhQVlJpcFFvN3E4Z01KS0Jn?oc=5",
+          "description": "Yemen, media: \"Raid saudita sull'aeroporto internazionale di Sana'a\" | Gli Houthi sequestrano aereo della Croce Rossa Tgcom24 Yemen, raid sull'aeroporto di Sana'a, gli Houthi sequestrano un aereo della Croce Rossa Vatican News Media, Houthi lanciano sei missili su aeroporto in Arabia Saudita ANSA La guerra in Iran fa saltare la tregua fra Riyadh e Houthi il manifesto Yemen, il governo attacca l'ae",
+          "pubDate": "Mon, 13 Jul 2026 12:40:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "U.S.-Iran Latest: U.S. wraps up 3rd straight night of Iran strikes as Trump vows to \"keep\" Strait of Hormuz - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMVVHeHVNWkg5bTZGeW83dlJ0LVdxTW4wMGZVWktZTkpscWZYOWVmRVpFb3RGb2hsd2l3MV9aN244X3BfTGdtMnMzQXhnUHVNRHNDZU1HcldZVFpkWHgtMWh0a2lMRk9kVEVld3k3a0pyM3RhUzVHckdmWlFaQkpfQ29LWlZzRkxiaEQ5dWMyZzFTNklk?oc=5",
+          "description": "U.S.-Iran Latest: U.S. wraps up 3rd straight night of Iran strikes as Trump vows to \"keep\" Strait of Hormuz CBS News Trump Says Fighting With Iran Has Resumed as He Orders Blockade and Tolls The New York Times Trump wants Gulf countries on the hook for Strait of Hormuz ‘protection’ The Hill Trump's Hormuz toll plans bring oil supply risks back in spotlight CNBC So who actually controls the Strait ",
+          "pubDate": "Tue, 14 Jul 2026 02:51:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "trump",
+      "n_items": 13,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 84,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra, ultime notizie. Trump ha comunicato al Congresso la ripresa della guerra contro l’Iran. Teheran attacca navi e Bahrein - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORG94TWIxZm5TNU1pQmdzTEZ5VDc5Q3VtM1pGNUtGLU5HTDdTN2xsREZ2VnB6dUpaQ0lHcV8yTzJYMDExQlVqMmhnTTUxTlJJUEx6Mm9wVXBrZUlfRnJuSTdQMmlxM19VMVFpNGd2WWc2VUdWN2hyWVY0N2hzNG45WGhmdjVVQm1iNUN2M2hBTV9aRUY4ZDRaUElsdThKbzFfZGF1VjZEbGlUcWdNa3FYYVFjd0F2N1JlV2Z6VV8zU3Rpa0pOcXk1OEd3ZE5OSVkwRmRSLWxCdFJQUQ?oc=5",
+          "description": "Guerra, ultime notizie. Trump ha comunicato al Congresso la ripresa della guerra contro l’Iran. Teheran attacca navi e Bahrein Il Sole 24 ORE LA GIORNATA - liveblog ANSA Terza ondata di attacchi Usa contro l'Iran. Trump blocca Hormuz: \"Chi passa dovrà pagare il 20%\" - Nyt: pedaggi su Hormuz? Per Rubio e Vance è impossibile RaiNews Mercati deboli, Milano schiva le vendite Borsa Italiana Miller: “Il",
+          "pubDate": "Tue, 14 Jul 2026 03:30:48 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "U.S.-Iran Latest: U.S. wraps up 3rd straight night of Iran strikes as Trump vows to \"keep\" Strait of Hormuz - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMVVHeHVNWkg5bTZGeW83dlJ0LVdxTW4wMGZVWktZTkpscWZYOWVmRVpFb3RGb2hsd2l3MV9aN244X3BfTGdtMnMzQXhnUHVNRHNDZU1HcldZVFpkWHgtMWh0a2lMRk9kVEVld3k3a0pyM3RhUzVHckdmWlFaQkpfQ29LWlZzRkxiaEQ5dWMyZzFTNklk?oc=5",
+          "description": "U.S.-Iran Latest: U.S. wraps up 3rd straight night of Iran strikes as Trump vows to \"keep\" Strait of Hormuz CBS News Trump Says Fighting With Iran Has Resumed as He Orders Blockade and Tolls The New York Times Trump wants Gulf countries on the hook for Strait of Hormuz ‘protection’ The Hill Trump's Hormuz toll plans bring oil supply risks back in spotlight CNBC So who actually controls the Strait ",
+          "pubDate": "Tue, 14 Jul 2026 02:51:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "US strikes Iran again after Trump orders a new blockade in Strait of Hormuz on Iran - AP News",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JelFRVVpxaXc5WlYxeWxmVzZFRTRxNWM5Z3huMzlBT2M4Z0NYM183NHRsVTFFazdIcWdCb1d2VzNqLXlxMF9sNFUyMm1aN1I4Q0p5ZU1UZTB0bG1LbTh1RUdxRUkyUVBtTC1hR3pReFF0d2wtM0Jv?oc=5",
+          "description": "US strikes Iran again after Trump orders a new blockade in Strait of Hormuz on Iran AP News America’s Latest Weapon Against Iran: Sea Drones WSJ Middle East crisis live: US strikes Iran for third consecutive night; UAE says Tehran has hit tankers in strait of Hormuz The Guardian Iran War Live Updates: U.S. Begins New Strikes on Iran as Trump Orders Resumption of Shipping Blockade The New York Time",
+          "pubDate": "Mon, 13 Jul 2026 22:25:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Judge Denounces Trump’s I.R.S. Suit as Improper Exercise in Self-Dealing - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xRG9mcmR0WWJlSVlRUENXX0RpTDJneGYwWWw4Qm8xZWdtRG1vWUMwaXVJNkhLNTJaLV80cFZZWDJTNVpnLUpnRmxEM3FvSS13akZVT2lMcVo4U0ZRT2lvREtybFo0OE5LLTJtUEp3VTMycER4?oc=5",
+          "description": "Judge Denounces Trump’s I.R.S. Suit as Improper Exercise in Self-Dealing The New York Times US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits BBC Judge rebukes Trump and DOJ over IRS lawsuit, refers lawyer for disciplinary proceedings CBS News Trump’s attorneys, Justice Dept. leaders misused courts in IRS case, judge says The Washington Post Trump admi",
+          "pubDate": "Mon, 13 Jul 2026 23:09:57 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "The rare and dangerous heart condition tied to Lindsey Graham's death - Axios",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVm10LXhVcE1iYlBwbE1MMzRBVmdCMmd4Yi1Wb1FZaUIxczBGaG9ZM2FGTmotc0l1cER3c2d6U3BXVm42bEJ5TnYzbjNvdzd3X183Y0FGSEhUaUNHT1VRN2hPRkdMcWs0aUJjZ2syNERxUk1OTHBfWW1rYkFqa3V4WnRjOUZ2eFlCTFR4RHdmc18?oc=5",
+          "description": "The rare and dangerous heart condition tied to Lindsey Graham's death Axios Graham asked a staffer to call 911 after reporting chest pains, GOP senator says CNN Lindsey Graham’s Death Transforms the Race for His Democratic Challenger The New York Times ‘A key link’: Trump’s Senate whisperer is gone Politico What you should know about aortic dissections The Washington Post",
+          "pubDate": "Tue, 14 Jul 2026 02:09:25 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "europa",
+      "n_items": 11,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 72,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Parigi denuncia attacco ibrido russo contro l’Europa. Francia e Germania convocano gli ambasciatori - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT2FHSVpVcHc4MkVvcDBxalNYUjZyZk1keUlnem5kNTdGa1dmaFlVeG9Edk10aW1OcVBUTURfUGt3cnJVNElYQWNSdm9LYWRoMFVSMWVadUI0dWxYaXphLV9SZVlnQW83c3ZNNnYtYi1UM2w1QkxfaC1mZDFTX0FCSE9vOHg1YjU1ZjBtcFpqSDZwVGtGUGVTVk1HRnJoYzdtZGlDcHVGVG9HdTBqUXliaWwtd0hqOHRZSE5fZFdxMUI3YmpKUW5tSdIBzgFBVV95cUxQd0FsdHF0dUJCcS1hekZOMkw2bDBkUjlmdE53VmZsMkcxd2JyOVBIMUpFdk1uV0ZYd2ZwcTNHRHBNTE9KamlkRXo0RUdhckdNNW9uVEhXMW9YQkZYMnlRanNLUTBWZ0d6VVNfVnFpek16Nzh4d2tvcDFDNTQ4MVFfaUVMeUdUQ01WVHFGelY0MEhaOWNCTHI0dndwSHFmTXIzamRPYWQ0bkN2MjhUUGFqcmFjT2VNODRNXzg5MURCcjJONFQ4QXM2anFXaW9vdw?oc=5",
+          "description": "Parigi denuncia attacco ibrido russo contro l’Europa. Francia e Germania convocano gli ambasciatori la Repubblica “Mosca spia e sabota l’Europa”: Parigi e Berlino convocano gli ambasciatori russi. Sanzioni da Bruxelles e Londra Il Fatto Quotidiano Ue vara nuove sanzioni contro lo spionaggio informatico russo Il Sole 24 ORE Parigi accusa Mosca di cyberspionaggio RaiNews L’Unità 71330, da Turla al G",
+          "pubDate": "Mon, 13 Jul 2026 10:45:26 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Italia e altri 8 Paesi (più Ucraina) formano lo scudo anti-missili europeo: le società che lo costruiranno - Europa Today",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeUg1MTQ4Y2xlT1NNLU01bXZpbkhYaUdkaEhiSEtLa3V2ZnhxaFh1NHMtTWcweFR1TWJNd29BWlpCdU1yeVVJTTV0N2xNblhVMERWcHhsMmw1SzFXM1VwaVl6UHoyVkZvc0Jrb01zclpvQXNIT08zUEVvTEdzSHVtdnIzOUctNkI4UE5XOHljSlB2Umc?oc=5",
+          "description": "Italia e altri 8 Paesi (più Ucraina) formano lo scudo anti-missili europeo: le società che lo costruiranno Europa Today Attacco russo su Kiev. A Parigi nasce la coalizione antibalistica europea e l'Italia c'è - In corso attacco su Kiev \"con missili balistici\" RaiNews Nasce lo scudo antibalistico Freyja: Italia tra i 10 Paesi fondatori Il Fatto Quotidiano Zelensky ribalta di nuovo l'Ucraina. Nove a",
+          "pubDate": "Mon, 13 Jul 2026 17:27:34 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "La parata del 14 luglio a Parigi all'insegna del 'risveglio europeo' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObWlWaEZ6ZndPN2l5QlhPczNlSzlCNy0zY1QwODVZd2hwU3dJdWFZbk9OTllLZWZTVFYzRmJrNXgwd2dvcWFJMlJMdGNFSTNvQlFrSDU2ai1Hd0UzbUNnYmY5SWh3NUhfTHpJSTBJR0pBdHBBZEJBVS1ubFhwZXR1N3drbUptUngyVDU0QjNJVENpcGl0dG5WSTNEbGg3al9DOXVjc3pnU2d2S3RzTDBGMTVqTWZpOHFjVTdNMUVfLWFfbXpTcWZXWEZFVURxMlpMZ0dENXMtbU1TSXdOR1FGRXhraHktRkx2bVpxcFZB0gHzAUFVX3lxTFBRZGw1Y0dYcS1WTHFJTXkwSDJEdUZ6b2NDMVRpSHF2bUE0WC1zNVNGa2NnaHRMTi1RSUtfQkRPR2JZd1dsTkpkZlc4elpVcDVJN3hpQ3VUOG5Na2F2aWZrUkt4eGRkZUFNTXRsSFpUSVh2TEd5OGVfQlhjdDg1SVVNLXBpM21RTkprN1lnS2hrblZWZDJhSHRVMUctTVJvYlpzWmljMFlIWDJoTGxyWDdlWHNjYTBzZ181WGpINFBrSDJKVG1sc2FhM0JtX3VWTWpnX19jem80YkdsQUtreF9mT29JZ00yRU1Sc2NYQ3M3NTFHbw?oc=5",
+          "description": "La parata del 14 luglio a Parigi all'insegna del 'risveglio europeo' ANSA Difesa: Macron, proseguire i progetti europei nonostante fallimento Scaf Il Sole 24 ORE Macron prevede nuove guerre: \"Pronti a difendere la libertà anche col sangue, se necessario\" HuffPost Italia Macron scuote l’Europa: «Pronti a difenderci a costo del sangue». Il riarmo francese parte da 36 miliardi Milano Finanza Macron: ",
+          "pubDate": "Mon, 13 Jul 2026 16:04:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse in diretta, petrolio oggi 13 luglio | Europa incerta (e Seul crolla) dopo il nuovo colpo al tech, su greggio e gas con la nuova chiusura dello Stretto di Hormuz - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNU0Joc21rZU02dU5aTmplLWNqd1lRMUZDMVZFNXM3bl9xQnhGWFlhOVc0bEpjai1EZG9mWU83Rkg1b01DWUZXYmZzdWJoV1FGT0hPRWQxcnY3RFByREMxdU1vNk1xcTd4VDNDQUMwaWs0V19pTGMzdzJ2M3FKZ2F4WUlfM3c2Zm9UY19RTTk4eWd4ZkRjMlY4SHhFSkZ3aG1GUkFLZ1lhemFnVVpxVktvZWJUWEN5R3NuUnRRSzNwMXladFphZk4wRDU0dUZFUDd1dkZfQm96d1FVNERoVl9uMUJoZVg5UGh0bzhlWlFrWFMzYnlvclpSWW40QU1hTm5LdVhHUUx5NGpoNkHSAZACQVVfeXFMT0RsNS1wN1ctR0FqbWhFaTVoMWxxaFBlUnBucWlhZ0E4RjRMc2F2R1dPOHRtUEdmazVVX0NuOEhfZl9oVTFjNGxJczZPS3p1by1VT2d3NXFGbFVrcWhjWW03QV9HaDVDR2ZmUjdiNUZqcnBHeFhsWU1LOUJQZlJkaE9IbTJUX0s1RmFNRlZSTW5iMTBEcEl0NnU0Q1lCcFA1aFk4bEZtVGtlNWt0LUs3dXRmc0g0VFl6N0JwMnNYSDZ5T3BBclNrVWwxWG53Z2RGdDhRdE1YcWEydG1fNUd6ZXVvUE5mOU10RmZ4dXlXQ19abVJkX1hHbGlHZGEyU180ZGJPNTFhR29CNFhYenp0VUg?oc=5",
+          "description": "Borse in diretta, petrolio oggi 13 luglio | Europa incerta (e Seul crolla) dopo il nuovo colpo al tech, su greggio e gas con la nuova chiusura dello Stretto di Hormuz Corriere della Sera Piazza Affari tonica in un'Europa cauta Borsa Italiana Borse, da Seul nuovo colpo al tech ma Milano resiste (+0,4%). Wall Street chiude negativa, petrolio +9% Il Sole 24 ORE Borsa: Milano chiude in rialzo, Ftse Mi",
+          "pubDate": "Mon, 13 Jul 2026 17:37:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Il gas conclude in forte rialzo (+5%) a 51 euro al Megawattora",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/13/il-gas-conclude-in-forte-rialzo-5-a-51-euro-al-megawattora_ece5a1be-b5dc-484b-8f44-33a5355f01ad.html",
+          "description": "Sul mercato di Amsterdam di riferimento per l'Europa",
+          "pubDate": "Mon, 13 Jul 2026 18:14:14 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "milano",
+      "n_items": 10,
+      "n_sources": 6,
+      "category": "economia",
+      "score": 66,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra, ultime notizie. Trump ha comunicato al Congresso la ripresa della guerra contro l’Iran. Teheran attacca navi e Bahrein - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORG94TWIxZm5TNU1pQmdzTEZ5VDc5Q3VtM1pGNUtGLU5HTDdTN2xsREZ2VnB6dUpaQ0lHcV8yTzJYMDExQlVqMmhnTTUxTlJJUEx6Mm9wVXBrZUlfRnJuSTdQMmlxM19VMVFpNGd2WWc2VUdWN2hyWVY0N2hzNG45WGhmdjVVQm1iNUN2M2hBTV9aRUY4ZDRaUElsdThKbzFfZGF1VjZEbGlUcWdNa3FYYVFjd0F2N1JlV2Z6VV8zU3Rpa0pOcXk1OEd3ZE5OSVkwRmRSLWxCdFJQUQ?oc=5",
+          "description": "Guerra, ultime notizie. Trump ha comunicato al Congresso la ripresa della guerra contro l’Iran. Teheran attacca navi e Bahrein Il Sole 24 ORE LA GIORNATA - liveblog ANSA Terza ondata di attacchi Usa contro l'Iran. Trump blocca Hormuz: \"Chi passa dovrà pagare il 20%\" - Nyt: pedaggi su Hormuz? Per Rubio e Vance è impossibile RaiNews Mercati deboli, Milano schiva le vendite Borsa Italiana Miller: “Il",
+          "pubDate": "Tue, 14 Jul 2026 03:30:48 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "La parata del 14 luglio a Parigi all'insegna del 'risveglio europeo' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObWlWaEZ6ZndPN2l5QlhPczNlSzlCNy0zY1QwODVZd2hwU3dJdWFZbk9OTllLZWZTVFYzRmJrNXgwd2dvcWFJMlJMdGNFSTNvQlFrSDU2ai1Hd0UzbUNnYmY5SWh3NUhfTHpJSTBJR0pBdHBBZEJBVS1ubFhwZXR1N3drbUptUngyVDU0QjNJVENpcGl0dG5WSTNEbGg3al9DOXVjc3pnU2d2S3RzTDBGMTVqTWZpOHFjVTdNMUVfLWFfbXpTcWZXWEZFVURxMlpMZ0dENXMtbU1TSXdOR1FGRXhraHktRkx2bVpxcFZB0gHzAUFVX3lxTFBRZGw1Y0dYcS1WTHFJTXkwSDJEdUZ6b2NDMVRpSHF2bUE0WC1zNVNGa2NnaHRMTi1RSUtfQkRPR2JZd1dsTkpkZlc4elpVcDVJN3hpQ3VUOG5Na2F2aWZrUkt4eGRkZUFNTXRsSFpUSVh2TEd5OGVfQlhjdDg1SVVNLXBpM21RTkprN1lnS2hrblZWZDJhSHRVMUctTVJvYlpzWmljMFlIWDJoTGxyWDdlWHNjYTBzZ181WGpINFBrSDJKVG1sc2FhM0JtX3VWTWpnX19jem80YkdsQUtreF9mT29JZ00yRU1Sc2NYQ3M3NTFHbw?oc=5",
+          "description": "La parata del 14 luglio a Parigi all'insegna del 'risveglio europeo' ANSA Difesa: Macron, proseguire i progetti europei nonostante fallimento Scaf Il Sole 24 ORE Macron prevede nuove guerre: \"Pronti a difendere la libertà anche col sangue, se necessario\" HuffPost Italia Macron scuote l’Europa: «Pronti a difenderci a costo del sangue». Il riarmo francese parte da 36 miliardi Milano Finanza Macron: ",
+          "pubDate": "Mon, 13 Jul 2026 16:04:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse in diretta, petrolio oggi 13 luglio | Europa incerta (e Seul crolla) dopo il nuovo colpo al tech, su greggio e gas con la nuova chiusura dello Stretto di Hormuz - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNU0Joc21rZU02dU5aTmplLWNqd1lRMUZDMVZFNXM3bl9xQnhGWFlhOVc0bEpjai1EZG9mWU83Rkg1b01DWUZXYmZzdWJoV1FGT0hPRWQxcnY3RFByREMxdU1vNk1xcTd4VDNDQUMwaWs0V19pTGMzdzJ2M3FKZ2F4WUlfM3c2Zm9UY19RTTk4eWd4ZkRjMlY4SHhFSkZ3aG1GUkFLZ1lhemFnVVpxVktvZWJUWEN5R3NuUnRRSzNwMXladFphZk4wRDU0dUZFUDd1dkZfQm96d1FVNERoVl9uMUJoZVg5UGh0bzhlWlFrWFMzYnlvclpSWW40QU1hTm5LdVhHUUx5NGpoNkHSAZACQVVfeXFMT0RsNS1wN1ctR0FqbWhFaTVoMWxxaFBlUnBucWlhZ0E4RjRMc2F2R1dPOHRtUEdmazVVX0NuOEhfZl9oVTFjNGxJczZPS3p1by1VT2d3NXFGbFVrcWhjWW03QV9HaDVDR2ZmUjdiNUZqcnBHeFhsWU1LOUJQZlJkaE9IbTJUX0s1RmFNRlZSTW5iMTBEcEl0NnU0Q1lCcFA1aFk4bEZtVGtlNWt0LUs3dXRmc0g0VFl6N0JwMnNYSDZ5T3BBclNrVWwxWG53Z2RGdDhRdE1YcWEydG1fNUd6ZXVvUE5mOU10RmZ4dXlXQ19abVJkX1hHbGlHZGEyU180ZGJPNTFhR29CNFhYenp0VUg?oc=5",
+          "description": "Borse in diretta, petrolio oggi 13 luglio | Europa incerta (e Seul crolla) dopo il nuovo colpo al tech, su greggio e gas con la nuova chiusura dello Stretto di Hormuz Corriere della Sera Piazza Affari tonica in un'Europa cauta Borsa Italiana Borse, da Seul nuovo colpo al tech ma Milano resiste (+0,4%). Wall Street chiude negativa, petrolio +9% Il Sole 24 ORE Borsa: Milano chiude in rialzo, Ftse Mi",
+          "pubDate": "Mon, 13 Jul 2026 17:37:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Trimestrali: banche USA, ASML, TSMC, Netflix. Cosa guarderà il mercato - www.altroconsumo.it",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNmZycXVQWHljSEN1SE5HQVFSN2p3cXFQZ2dQSG1FUnBCVDItdGpoYXhWSUY4LVlNNG9ndGtBak9TVGxrUHVuemMtWXV6Wm1ZeUVYM1RDUHdMSzRwZUI3Y3Aya2tUdFRNV0wxLUFqRloxcVFISGVBN1RlcHNLdjhYTXY0enZOOU5QRUZxMndtaDM4Zw?oc=5",
+          "description": "Trimestrali: banche USA, ASML, TSMC, Netflix. Cosa guarderà il mercato www.altroconsumo.it Mercati: i dati macro italiani ed esteri di domani (Isp) Milano Finanza Gli economisti vedono un rischio di recessione più basso, la Fed alzerà comunque i tassi di interesse? Yahoo Finanza Market mover dal 13 al 17 luglio 2026: inflazione protagonista. Al via la stagione delle trimestrali USA Borse.it Calend",
+          "pubDate": "Mon, 13 Jul 2026 06:04:28 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Consob, così si è ristretta la Borsa di Milano: 30 addii e 2,5 miliardi di capitalizzazione in meno nel 2025 - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOUUVYNDRzUHJFZHQ2SXZKbnBPNldlb2Ryc0FQaUJIek96Ml8zd3BMRGJsQWJ2TkhaV1FXUjFtVnpVdEZZNW8wQ19XRjZxaEY0X1U5NERXZ1NBTWZoNjdyWWJSV0gxcjVaSnUzSDFIR1JVcUdyNklhNUpEUGR5NTdReUp3Mmt3S3U2VWh2NkZ2aG52cGdPWGRNZGhjOTZHemZKNVNvVnRka25WTEFTWjV4RFBrS0xXZXd6aGxoMVNuMnlxRHNQYzNUMVFjMlBBSmozLXpRcVIzSmZlVDJubm1VbUhtRWhMZkxVTDIzajRERTdobmNaanduU3E2c1BvZTl5MllZOHJoU0w3cTh3eWhEWjE1cXg5T0p6Ung3RWVlWm9rNjU2UUVNVklxQdIBsAJBVV95cUxNV1ZDT3dkN1JwY0ZZWEdEWUZ4ZnhnbUx4RDNraUZXeTJ5WVZZQXpmbnhLUGdRcVJRQkZzTDJhWHJ3Z0ltcF9iZmtqZ1R2RXpGQzRaNHJ6UkE0NHpvQXhLQkFoZVBjUVhIajVmbUFKVThIZVRNcUZkcmI1ZVpJbkFDc1VjWFVRbUtGU05qZHRtRzR4Q1dGaXc2bjNId0pUZ2h4eV9XNVliaElPaWQwd3g3TXk1UlBBUVZTWmtNUUxhLVRWQW8ycXdyYzN5V0htcm9YNVY3Qy1EY1hpSlN2M2lteHJIRERaVERWY3FmeURwY19LOFc3VjNDc3R3OGNCQ0tldGNEbmh2U19oNDgyM1dwWFlzek1sWHZ3NUJVdlBLRHhhZzBia0JRX01jRVRLdTNF?oc=5",
+          "description": "Consob, così si è ristretta la Borsa di Milano: 30 addii e 2,5 miliardi di capitalizzazione in meno nel 2025 Corriere della Sera Consob: Borsa ai massimi, ma perse 100 società sul mercato principale. Nessuna Ipo in 18 mesi la Repubblica Consob, Mosca: Borsa con \"traiettorie opposte\" per aumento capitalizzazione ed eccedenza delisting Borsa Italiana Consob, Piazza Affari vale 1.200 miliardi, ma ha ",
+          "pubDate": "Mon, 13 Jul 2026 10:37:33 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "hormuz",
+      "n_items": 10,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 66,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra, ultime notizie. Trump ha comunicato al Congresso la ripresa della guerra contro l’Iran. Teheran attacca navi e Bahrein - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORG94TWIxZm5TNU1pQmdzTEZ5VDc5Q3VtM1pGNUtGLU5HTDdTN2xsREZ2VnB6dUpaQ0lHcV8yTzJYMDExQlVqMmhnTTUxTlJJUEx6Mm9wVXBrZUlfRnJuSTdQMmlxM19VMVFpNGd2WWc2VUdWN2hyWVY0N2hzNG45WGhmdjVVQm1iNUN2M2hBTV9aRUY4ZDRaUElsdThKbzFfZGF1VjZEbGlUcWdNa3FYYVFjd0F2N1JlV2Z6VV8zU3Rpa0pOcXk1OEd3ZE5OSVkwRmRSLWxCdFJQUQ?oc=5",
+          "description": "Guerra, ultime notizie. Trump ha comunicato al Congresso la ripresa della guerra contro l’Iran. Teheran attacca navi e Bahrein Il Sole 24 ORE LA GIORNATA - liveblog ANSA Terza ondata di attacchi Usa contro l'Iran. Trump blocca Hormuz: \"Chi passa dovrà pagare il 20%\" - Nyt: pedaggi su Hormuz? Per Rubio e Vance è impossibile RaiNews Mercati deboli, Milano schiva le vendite Borsa Italiana Miller: “Il",
+          "pubDate": "Tue, 14 Jul 2026 03:30:48 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "U.S.-Iran Latest: U.S. wraps up 3rd straight night of Iran strikes as Trump vows to \"keep\" Strait of Hormuz - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMVVHeHVNWkg5bTZGeW83dlJ0LVdxTW4wMGZVWktZTkpscWZYOWVmRVpFb3RGb2hsd2l3MV9aN244X3BfTGdtMnMzQXhnUHVNRHNDZU1HcldZVFpkWHgtMWh0a2lMRk9kVEVld3k3a0pyM3RhUzVHckdmWlFaQkpfQ29LWlZzRkxiaEQ5dWMyZzFTNklk?oc=5",
+          "description": "U.S.-Iran Latest: U.S. wraps up 3rd straight night of Iran strikes as Trump vows to \"keep\" Strait of Hormuz CBS News Trump Says Fighting With Iran Has Resumed as He Orders Blockade and Tolls The New York Times Trump wants Gulf countries on the hook for Strait of Hormuz ‘protection’ The Hill Trump's Hormuz toll plans bring oil supply risks back in spotlight CNBC So who actually controls the Strait ",
+          "pubDate": "Tue, 14 Jul 2026 02:51:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "US strikes Iran again after Trump orders a new blockade in Strait of Hormuz on Iran - AP News",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JelFRVVpxaXc5WlYxeWxmVzZFRTRxNWM5Z3huMzlBT2M4Z0NYM183NHRsVTFFazdIcWdCb1d2VzNqLXlxMF9sNFUyMm1aN1I4Q0p5ZU1UZTB0bG1LbTh1RUdxRUkyUVBtTC1hR3pReFF0d2wtM0Jv?oc=5",
+          "description": "US strikes Iran again after Trump orders a new blockade in Strait of Hormuz on Iran AP News America’s Latest Weapon Against Iran: Sea Drones WSJ Middle East crisis live: US strikes Iran for third consecutive night; UAE says Tehran has hit tankers in strait of Hormuz The Guardian Iran War Live Updates: U.S. Begins New Strikes on Iran as Trump Orders Resumption of Shipping Blockade The New York Time",
+          "pubDate": "Mon, 13 Jul 2026 22:25:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Trump: 'Presto bombarderemo l'impianto nucleare di Pickaxe Mountain in Iran'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/13/trump-presto-bombarderemo-limpianto-nucleare-di-pickaxe-mountain-in-iran_5e142f2c-d7bf-4d96-a2e4-7c2cee85ecf3.html",
+          "description": "Il presidente Usa comunica al Congresso Usa la ripresa della guerra. Emirati: Teheran ha colpito due nostre petroliere nello Stretto di Hormuz, ci sono un morto e 8 feriti",
+          "pubDate": "Tue, 14 Jul 2026 01:59:09 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Emirati: missili iraniani contro due nostre petroliere a Hormuz, un morto e 8 feriti",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/14/emirati-missili-iraniani-contro-due-nostre-petroliere-a-hormuz-un-morto-e-8-feriti_84e67e97-c8c5-437c-8d81-b4e3d2c1bc2d.html",
+          "description": "Incendi a bordo della Mombasa e dell'Al-Bahiyah",
+          "pubDate": "Tue, 14 Jul 2026 01:57:48 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "roma",
+      "n_items": 11,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 61,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Meloni a Palermo: \"Pronti a mandare l'esercito\" - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONDNRRU9SUG8zV1JORkZkVFRlekhQVldXanF6bFlWTUZhRkx1bEVSN1MwZnhDdmVrVGZ0QUFqZWNqQjE4aE1ZemNJemtYNWFmeGZNV25tUUV1RGhlbW5iQzZ0RUJ1YUJYM1BDVmN6UlVWdTdSbkdFZlVUTF8yMFZ2algzTFA4NElHcWlyd3VQM1FKY05pNjJ0NzVB?oc=5",
+          "description": "Meloni a Palermo: \"Pronti a mandare l'esercito\" Il Fatto Quotidiano Gli eroi siciliani come simbolo: il segnale della premier per fare pace con i magistrati La Stampa La Fiat Croma di Falcone torna a Palermo, la premier Meloni: \"Un'emozione tagliente, la strage di Capaci ha cambiato tutto\" PalermoToday Commercialisti, 'Falcone e la scorta esempio vivo di coraggio civile' ANSA",
+          "pubDate": "Mon, 13 Jul 2026 17:43:09 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "L'Italia dei “like” a Giuseppe Barboni, il manager giustiziere che ha pestato un migrante in strada - Avvenire",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdUZlRVFvM0diNWNIV2tPbWpyN0I1WWFldjBMNUxlOTQ2Z1QyZVU4TmJfUFVtREVNX3RyUFFQUnpRWDZjTm42M2YyTnVPRDIzUTV3V3BQSE9pejdFYVBtWXJoNlZleUpLV3diRWJETWtqcy1CZVVGOE9KMTJJemVrYjhlcjQ4dnNpbUlXcGk2akZrVF91NWpfNTJaU0JNZHR5RnVqeXFPWXVVb0VFMllRNEJzU3JFZw?oc=5",
+          "description": "L'Italia dei “like” a Giuseppe Barboni, il manager giustiziere che ha pestato un migrante in strada Avvenire Chi è Giuseppe Barboni, il vannacciano manager del lusso e campione di lotta greco-romana che ha picchiato un migrante per strada Corriere della Sera Infastidisce i passanti, preso a pugni: è un caso il video di Barboni, indaga la polizia RaiNews Blocca il traffico a San Benedetto del Tront",
+          "pubDate": "Mon, 13 Jul 2026 17:58:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Caso Ranucci, si scava tra i contatti dell’uomo di Lavitola. Il giornalista querela per diffamazione - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdzJaT19RMUVRSHBUbGZXYW0wR2xTWEp2SmFJTWFhVXVBR3VpQ2VLbV9LTGp4c2R3cUFMNV9wajhRWE1JT3RRbWpxU2phUXlNZ1ZNUGM3WUR2RTFGellWWDVGSk5yNEREblU1WHNGZkRyc3VIcm15OHNPVzhWV1JLOVRTWURCMldXMlIyZGlraVB1TFlxWHJJb1VkUTV6bTA0NjE0SkhfY9IBrAFBVV95cUxNRDBmcERZSEtMNVRxMUkwbDMtWnZNak5US0dPa0dXVk5rUXdDcWllNHlqQmVicEViaXdUa2lQeVhwRk51Z2JOb3lkekMxaTRfdFdmU3dicVh3Y0ZmaWNhUzdwTmh2cmZOWXNBeU1fSHBSUWNFbk1kMl84eUlFUnFIeEJiZG1vaW84YnRnazY3cnVDakdfLU9xRWxvSVdUN0hqc0lvN0VGTnpvSWFN?oc=5",
+          "description": "Caso Ranucci, si scava tra i contatti dell’uomo di Lavitola. Il giornalista querela per diffamazione la Repubblica Ranucci-Lavitola, si indaga sulla frequenza delle visite del faccendiere nella redazione di Report Corriere Roma I dubbi e le ipotesi sull’attentato a Sigfrido Ranucci Il Post L’affaire Ranucci: alla cena con i potenziali investitori sul carbon credit africano Lavitola portò pure l’am",
+          "pubDate": "Mon, 13 Jul 2026 11:40:33 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "Ricerca Futur#Lab, 'limiti elettromagnetici non spaventano'",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/tlc/2023/05/30/ricerca-futurlab-limiti-elettromagnetici-non-spaventano_0871873b-268f-4401-b709-49eb63bfb759.html",
+          "description": "Studio Asstel Polimi, 5G frenato da 4 miliardi di extracosti",
+          "pubDate": "Tue, 30 May 2023 15:41:12 +0200"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Riecco la West Nile, primo caso in provincia e in Regione - ModenaToday",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeERNM2FuRExnS25oMHlScWcwc2QxOGpKU0t0QmdoZFlob2JLWE9HYWhNelFodmxjWnNSTk9MMEp5ZmlmVTBId19RVERXanViLUY5MEFWb1dMdGxtRkx3amptcVlTeEwxa2FNcmNEWVdFaGlMb2pDOWdoQ2s5ZzdiQXFfTldVU05tbFhYRg?oc=5",
+          "description": "Riecco la West Nile, primo caso in provincia e in Regione ModenaToday West Nile: contagi in sei regioni, ecco come proteggersi Il Fatto Quotidiano West Nile virus: è modenese il primo caso dell’estate 2026 in Emilia Romagna Il Resto del Carlino West Nile, campioni di zanzare positivi in 6 province su 9 dell’Emilia-Romagna IlPiacenza West Nile virus: un terzo caso di positività nel Novarese La Stam",
+          "pubDate": "Mon, 13 Jul 2026 13:16:50 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "borsa",
+      "n_items": 11,
+      "n_sources": 4,
+      "category": "economia",
+      "score": 50,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra, ultime notizie. Trump ha comunicato al Congresso la ripresa della guerra contro l’Iran. Teheran attacca navi e Bahrein - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORG94TWIxZm5TNU1pQmdzTEZ5VDc5Q3VtM1pGNUtGLU5HTDdTN2xsREZ2VnB6dUpaQ0lHcV8yTzJYMDExQlVqMmhnTTUxTlJJUEx6Mm9wVXBrZUlfRnJuSTdQMmlxM19VMVFpNGd2WWc2VUdWN2hyWVY0N2hzNG45WGhmdjVVQm1iNUN2M2hBTV9aRUY4ZDRaUElsdThKbzFfZGF1VjZEbGlUcWdNa3FYYVFjd0F2N1JlV2Z6VV8zU3Rpa0pOcXk1OEd3ZE5OSVkwRmRSLWxCdFJQUQ?oc=5",
+          "description": "Guerra, ultime notizie. Trump ha comunicato al Congresso la ripresa della guerra contro l’Iran. Teheran attacca navi e Bahrein Il Sole 24 ORE LA GIORNATA - liveblog ANSA Terza ondata di attacchi Usa contro l'Iran. Trump blocca Hormuz: \"Chi passa dovrà pagare il 20%\" - Nyt: pedaggi su Hormuz? Per Rubio e Vance è impossibile RaiNews Mercati deboli, Milano schiva le vendite Borsa Italiana Miller: “Il",
+          "pubDate": "Tue, 14 Jul 2026 03:30:48 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Il governo accelera sulla Consob, possibile martedì in cdm - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMG5pOXFnd0w2Y1k0MEo1MlUwQ244Q2trVUVDbjMwcmR6d1NSdWFHOXVpWDFTa3NnaDVob0hUaEdhdzBXRUVDanRPTHR4WTMzdHdVNXhzb0hKVzc0Uk5WNzJOMFFpVFE0RGFKOEl5dVoxRFYtUi1wc2VDWkZBeFdjUUVKaFpNSFBuQUhRY2hzZGhLNUZBMEJwaTZ0enRBZXNUdGpyY0U2RERsN0IwM1hTcVZZMV9nVUppazRfb0JBR2dWY2NBVjFjV2d1d1dSczRrX1NNQ00yNExBYmY1STE5Zm1vU05uN2_SAewBQVVfeXFMTnBPRmcxNUFzb0VILWE4NERKSkFsbFpaTWFXOVhBY2dqRlgwZi1jZnFfT3pEUjVaaG0wVUpEbml6RlRWM29FYTFUSHRUSXhqSEtCbDJZOTBwQ0FpenRnTzBfdjRnU0pqcWZpVkZpS2d5Z2EtVFdnYzNWR3A1WFhnQkV4MXNPQS1YN3JXYWI2WDl6ZWhfWWJnT1BJcUdEX01NVVAtRXUtVWItRFRkVnVuTG0yaWhUejNzdzl5RUVxVUh3Yzc4TGFwWFU3ck9HZkFqbG1CWDRnUk9oZVRaa1BNNV9IZmJjY252eVlFa1I?oc=5",
+          "description": "Il governo accelera sulla Consob, possibile martedì in cdm ANSA Consob, accordo sul presidente: Forza Italia ha scelto Guido Stazi la Repubblica Consob, Guido Stazi verso la presidenza. Il colloquio Giorgetti-Tajani per sbloccare l'impasse Corriere della Sera Consob: la sfida è integrare i mercati europei RaiNews La Consob non si ferma, la Borsa sì: è fuga dai listini nonostante i record Borsa Ita",
+          "pubDate": "Mon, 13 Jul 2026 19:58:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Trump, 'vogliamo essere rimborsati per lo stretto di Hormuz'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/14/trump-vogliamo-essere-rimborsati-per-lo-stretto-di-hormuz_fbc2be91-2d44-448b-9058-5ecc6e07c757.html",
+          "description": "'Stiamo proteggendo un'area molto ricca'",
+          "pubDate": "Tue, 14 Jul 2026 00:19:44 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse in diretta, petrolio oggi 13 luglio | Europa incerta (e Seul crolla) dopo il nuovo colpo al tech, su greggio e gas con la nuova chiusura dello Stretto di Hormuz - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNU0Joc21rZU02dU5aTmplLWNqd1lRMUZDMVZFNXM3bl9xQnhGWFlhOVc0bEpjai1EZG9mWU83Rkg1b01DWUZXYmZzdWJoV1FGT0hPRWQxcnY3RFByREMxdU1vNk1xcTd4VDNDQUMwaWs0V19pTGMzdzJ2M3FKZ2F4WUlfM3c2Zm9UY19RTTk4eWd4ZkRjMlY4SHhFSkZ3aG1GUkFLZ1lhemFnVVpxVktvZWJUWEN5R3NuUnRRSzNwMXladFphZk4wRDU0dUZFUDd1dkZfQm96d1FVNERoVl9uMUJoZVg5UGh0bzhlWlFrWFMzYnlvclpSWW40QU1hTm5LdVhHUUx5NGpoNkHSAZACQVVfeXFMT0RsNS1wN1ctR0FqbWhFaTVoMWxxaFBlUnBucWlhZ0E4RjRMc2F2R1dPOHRtUEdmazVVX0NuOEhfZl9oVTFjNGxJczZPS3p1by1VT2d3NXFGbFVrcWhjWW03QV9HaDVDR2ZmUjdiNUZqcnBHeFhsWU1LOUJQZlJkaE9IbTJUX0s1RmFNRlZSTW5iMTBEcEl0NnU0Q1lCcFA1aFk4bEZtVGtlNWt0LUs3dXRmc0g0VFl6N0JwMnNYSDZ5T3BBclNrVWwxWG53Z2RGdDhRdE1YcWEydG1fNUd6ZXVvUE5mOU10RmZ4dXlXQ19abVJkX1hHbGlHZGEyU180ZGJPNTFhR29CNFhYenp0VUg?oc=5",
+          "description": "Borse in diretta, petrolio oggi 13 luglio | Europa incerta (e Seul crolla) dopo il nuovo colpo al tech, su greggio e gas con la nuova chiusura dello Stretto di Hormuz Corriere della Sera Piazza Affari tonica in un'Europa cauta Borsa Italiana Borse, da Seul nuovo colpo al tech ma Milano resiste (+0,4%). Wall Street chiude negativa, petrolio +9% Il Sole 24 ORE Borsa: Milano chiude in rialzo, Ftse Mi",
+          "pubDate": "Mon, 13 Jul 2026 17:37:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Le Borse di oggi, 13 luglio. Wall Street estende perdite e viaggia negativa - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbi1OaFNjMndKVHRFSlpDMUZsc3NnTVRSM1RKT0xpc0JmOWx3a3RfcHVKN0owVzFOakVtOVQtQjNtNTBndU14Mk8tREJLOGFzU0JReU4xbG1rb0hvVW5ZZEw5aFNfcG1qVWQ4eEU1bHVyMXhyZ2cwX2NNMERTbi1JZC1sa0l2QXlkbHVrYlNEOG83RnE5c2hURWxTYVNwbWlvZlE?oc=5",
+          "description": "Le Borse di oggi, 13 luglio. Wall Street estende perdite e viaggia negativa la Repubblica Borsa: Seduta negativa per il Nasdaq-100, in discesa dell'1,19% Borsa Italiana I mercati affrontano una settimana decisiva tra petrolio in rialzo, chip in calo e stagione delle trimestrali: Dow Jones, S&P, Nasdaq, Wall Street, Futures Yahoo Finanza La diretta da Wall Street | Borse Usa chiudono in rosso: S&P ",
+          "pubDate": "Mon, 13 Jul 2026 06:39:11 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "after",
+      "n_items": 12,
+      "n_sources": 3,
+      "category": "tech-ai",
+      "score": 42,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "US strikes Iran again after Trump orders a new blockade in Strait of Hormuz on Iran - AP News",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JelFRVVpxaXc5WlYxeWxmVzZFRTRxNWM5Z3huMzlBT2M4Z0NYM183NHRsVTFFazdIcWdCb1d2VzNqLXlxMF9sNFUyMm1aN1I4Q0p5ZU1UZTB0bG1LbTh1RUdxRUkyUVBtTC1hR3pReFF0d2wtM0Jv?oc=5",
+          "description": "US strikes Iran again after Trump orders a new blockade in Strait of Hormuz on Iran AP News America’s Latest Weapon Against Iran: Sea Drones WSJ Middle East crisis live: US strikes Iran for third consecutive night; UAE says Tehran has hit tankers in strait of Hormuz The Guardian Iran War Live Updates: U.S. Begins New Strikes on Iran as Trump Orders Resumption of Shipping Blockade The New York Time",
+          "pubDate": "Mon, 13 Jul 2026 22:25:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Family friend identifies man killed by ICE officers in Biddeford - WMTW",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcTdqc2NZNVNmUS1iQ3R5c0xtcVZjMlRtcWNQWHNrQVFDangzZnRqNzd6X3ljNjVPbnV2MmMyUEp6Njc2UjEyNnNya1pWck9hTlk5VmRDTFBNeGxuVkZNMWhkUnZUWk82Njl1WDBkWnV0LVBPZlBDdmUxbk9OU1NxWlBneXVGb2IzY2p1SWdlTnhhTHpDUlZxVg?oc=5",
+          "description": "Family friend identifies man killed by ICE officers in Biddeford WMTW Residents recount what they saw in aftermath of ICE agent fatally shooting man in Biddeford, Maine The Boston Globe What We Know About the ICE Shooting in Maine The New York Times Opinion | The Maine ICE shooting The Washington Post Biddeford witness saw gunshot victim bleeding from head The Portland Press Herald",
+          "pubDate": "Tue, 14 Jul 2026 01:35:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "The rare and dangerous heart condition tied to Lindsey Graham's death - Axios",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVm10LXhVcE1iYlBwbE1MMzRBVmdCMmd4Yi1Wb1FZaUIxczBGaG9ZM2FGTmotc0l1cER3c2d6U3BXVm42bEJ5TnYzbjNvdzd3X183Y0FGSEhUaUNHT1VRN2hPRkdMcWs0aUJjZ2syNERxUk1OTHBfWW1rYkFqa3V4WnRjOUZ2eFlCTFR4RHdmc18?oc=5",
+          "description": "The rare and dangerous heart condition tied to Lindsey Graham's death Axios Graham asked a staffer to call 911 after reporting chest pains, GOP senator says CNN Lindsey Graham’s Death Transforms the Race for His Democratic Challenger The New York Times ‘A key link’: Trump’s Senate whisperer is gone Politico What you should know about aortic dissections The Washington Post",
+          "pubDate": "Tue, 14 Jul 2026 02:09:25 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM2dtVDZlM0NYRGFkOVhSS2ctYWtnQWM3aFdsSTBLYVBUN3NEcmNsbFJYRS15Vi12M3YxOEpsNGRqbVNrTXRCRjJwTnk0bm1BMjVTLW5tZ1dhZXg3NkpOdjQtWHlsUkJrRk9WVjJ1U3hfZmtFVWRGQW9KLXNTR2c2eFZJZVIxZTR4V29hQ2tGR3kxNVRveVVpRVB0OXlzZlZub2NSVDhVM2dJYTcyY2NGSHRKQXFYZFE3THdQZ3FxM0M?oc=5",
+          "description": "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo NBC News Mitch McConnell Breaks Silence With Statement and Photo Amid Questions About Health Status Time Magazine GOP Sen. Ron Johnson says he’s not sure McConnell photo with Chao is new The Hill Mitch McConnell assures Kentuckians of ongoing Senate work during recovery from fall, pneumonia WHAS11 McConn",
+          "pubDate": "Tue, 14 Jul 2026 01:34:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Musicians, DJ among 10 dead after plane crashes in the Bahamas - USA Today",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUTV5Z1Z5c3RmcEJTamhYc29hQkQyMkRudDR4c25yOWFLU0FjblFHTVdnS3FNZkNMWEVjSzlja2lINENNcGk2RXVQR1M3QlR2WUl1UDUyekhGTGM3TEV0SVE5Zk82WXpQNmxXOGdYY0Rfa0cyZ0ZYUC1rYlBXUE1kSHVDNENxZFUzLTFmdUtlLTYzOFU0d2t6aQ?oc=5",
+          "description": "Musicians, DJ among 10 dead after plane crashes in the Bahamas USA Today Bahamian music group \"still shocked\" after bandmates killed in small plane crash CBS News Multiple Members of Beloved Band Among 10 Victims Killed in Bahamas Plane Crash Yahoo Popular band, DJ among 10 killed in fiery plane crash: ‘This is a painful moment’ AL.com Ten Killed in Plane Crash on the Bahamas’ Largest Island The N",
+          "pubDate": "Tue, 14 Jul 2026 01:23:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "york",
+      "n_items": 12,
+      "n_sources": 3,
+      "category": "geopolitica",
+      "score": 42,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Operazione Mossad in Iran. Tradimenti e regime change - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU1ZLWDF4c3FNZWZsWVRnTG1uNWtpVFRwcE9RcjNmN29EeGRYYXc4VjFHd2w3SjIzUDBycVg2WkVJYmFZdWVUT2dvM0V3M3FTM2NlM05DbG1Ta3l5LThNQU9FcTZCdG1MUGd1MGpvQmQ1V2tXdnpDNTE2ZS1NWkNza05tNG5odGlNNjUxQjVuREZkWEQ5ZkJLcDkzUDEtMFd4ZWtQYWVwRmZVdlBIeUJEUU5NYmxJVU00bmxiQVB0X0JQZUcyWl8xVFlsdUJmcWvSAdQBQVVfeXFMTmFDUmw2S3hLQTY0Vk5lSkVoZnBrU000WTBBX3dUWFhoR1gwd0diT1pFNy1ENFdBdVZoNk1xUHdsVFJNQ3RPcDRhYk1zV2RRWXQ3aF9Ld1VGbVc0Nmw5aFU3aGM3VUZvclBQVUphOFB0c2lqdnc3LUs1bEl4c0ZCalpHWXdSWFJUTDJBU1Q3Y3BXZ0w3Z1lyVWhYejQ2MlJLN1pLZTdBS3h5Q2FuM25ucm02ODdZZzVFZXFIVENBOGFjbTZNM2NaaWVoWUJ4czd3aEF4TGM?oc=5",
+          "description": "Operazione Mossad in Iran. Tradimenti e regime change RaiNews «Usa e Israele volevano Ahmadinejad alla guida dell'Iran»: il clamoroso piano svelato da New York Times e Haaretz Corriere della Sera L’operazione segreta con cui Israele ha cercato di trasformare Ahmadinejad nel suo uomo a Teheran la Repubblica “Il Mossad reclutò Ahmadinejad e andò male” Il Fatto Quotidiano \"Incontri segreti del Mossad",
+          "pubDate": "Mon, 13 Jul 2026 19:55:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "U.S.-Iran Latest: U.S. wraps up 3rd straight night of Iran strikes as Trump vows to \"keep\" Strait of Hormuz - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMVVHeHVNWkg5bTZGeW83dlJ0LVdxTW4wMGZVWktZTkpscWZYOWVmRVpFb3RGb2hsd2l3MV9aN244X3BfTGdtMnMzQXhnUHVNRHNDZU1HcldZVFpkWHgtMWh0a2lMRk9kVEVld3k3a0pyM3RhUzVHckdmWlFaQkpfQ29LWlZzRkxiaEQ5dWMyZzFTNklk?oc=5",
+          "description": "U.S.-Iran Latest: U.S. wraps up 3rd straight night of Iran strikes as Trump vows to \"keep\" Strait of Hormuz CBS News Trump Says Fighting With Iran Has Resumed as He Orders Blockade and Tolls The New York Times Trump wants Gulf countries on the hook for Strait of Hormuz ‘protection’ The Hill Trump's Hormuz toll plans bring oil supply risks back in spotlight CNBC So who actually controls the Strait ",
+          "pubDate": "Tue, 14 Jul 2026 02:51:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "US strikes Iran again after Trump orders a new blockade in Strait of Hormuz on Iran - AP News",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JelFRVVpxaXc5WlYxeWxmVzZFRTRxNWM5Z3huMzlBT2M4Z0NYM183NHRsVTFFazdIcWdCb1d2VzNqLXlxMF9sNFUyMm1aN1I4Q0p5ZU1UZTB0bG1LbTh1RUdxRUkyUVBtTC1hR3pReFF0d2wtM0Jv?oc=5",
+          "description": "US strikes Iran again after Trump orders a new blockade in Strait of Hormuz on Iran AP News America’s Latest Weapon Against Iran: Sea Drones WSJ Middle East crisis live: US strikes Iran for third consecutive night; UAE says Tehran has hit tankers in strait of Hormuz The Guardian Iran War Live Updates: U.S. Begins New Strikes on Iran as Trump Orders Resumption of Shipping Blockade The New York Time",
+          "pubDate": "Mon, 13 Jul 2026 22:25:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Judge Denounces Trump’s I.R.S. Suit as Improper Exercise in Self-Dealing - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xRG9mcmR0WWJlSVlRUENXX0RpTDJneGYwWWw4Qm8xZWdtRG1vWUMwaXVJNkhLNTJaLV80cFZZWDJTNVpnLUpnRmxEM3FvSS13akZVT2lMcVo4U0ZRT2lvREtybFo0OE5LLTJtUEp3VTMycER4?oc=5",
+          "description": "Judge Denounces Trump’s I.R.S. Suit as Improper Exercise in Self-Dealing The New York Times US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits BBC Judge rebukes Trump and DOJ over IRS lawsuit, refers lawyer for disciplinary proceedings CBS News Trump’s attorneys, Justice Dept. leaders misused courts in IRS case, judge says The Washington Post Trump admi",
+          "pubDate": "Mon, 13 Jul 2026 23:09:57 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Family friend identifies man killed by ICE officers in Biddeford - WMTW",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcTdqc2NZNVNmUS1iQ3R5c0xtcVZjMlRtcWNQWHNrQVFDangzZnRqNzd6X3ljNjVPbnV2MmMyUEp6Njc2UjEyNnNya1pWck9hTlk5VmRDTFBNeGxuVkZNMWhkUnZUWk82Njl1WDBkWnV0LVBPZlBDdmUxbk9OU1NxWlBneXVGb2IzY2p1SWdlTnhhTHpDUlZxVg?oc=5",
+          "description": "Family friend identifies man killed by ICE officers in Biddeford WMTW Residents recount what they saw in aftermath of ICE agent fatally shooting man in Biddeford, Maine The Boston Globe What We Know About the ICE Shooting in Maine The New York Times Opinion | The Maine ICE shooting The Washington Post Biddeford witness saw gunshot victim bleeding from head The Portland Press Herald",
+          "pubDate": "Tue, 14 Jul 2026 01:35:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "caldo",
+      "n_items": 7,
+      "n_sources": 5,
+      "category": "clima",
+      "score": 41,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "'Paghe basse e troppo caldo', i rider in sciopero a Firenze - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNEJCc1ZMNzVYYWZ4aVozODBIb003M25LNTBxbUVrLU5iN1dPbEk5TW1ERjRRamJBN1hscGRiQ25MUVdIcVZaM0F1emN4T1JzRTJsZnhmdmxreUM4UU4xcFo5MzgwY2ZSZU5YQnpDRHhsS0NpTFdXVEhoTHJUaEJkczBEaFNXbEswV3NWNW1Ha1o4SkxMeGlmaDJ4NFBrbklxdHpqem5hM3NTLXVpbktmSXUwQlNmNDF5NHZja3NmRy1DUHhzV2sxaFJLNkdTOHVPVWxNeFFEMjJ6NGtOcXJjZ2VtQno?oc=5",
+          "description": "'Paghe basse e troppo caldo', i rider in sciopero a Firenze ANSA 'Paghe basse e caldo', i rider di Firenze in sciopero. Calderone: 'A breve una direttiva' ANSA Caldo e lavoro, protesta dei lavoratori dei musei. Rider in sciopero Tv2000 Glovo e Deliveroo, rider in sciopero a Firenze: «Paghe sempre più basse» Il Sole 24 ORE «Per non farci morire di caldo, ci faranno morire di fame»: la protesta dei ",
+          "pubDate": "Sun, 12 Jul 2026 18:24:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Caldo, la terza ondata è sull'Italia: le temperature massime in arrivo e le città da bollino rosso. Quali sono le cause, come dormire meglio (e come regolarsi con i farmaci) - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU2Y5c1pDRjZqOUlhMGlQZjBKR1J1QkU0N25VN2x6VXBzRmQ2WW5EWXNiMDczNmZvOG8tQTM4azUtNVYwNF9LWVFVd3lDV0psQ3VmbWVPT1V6YTlETFFYRGN3VkhUdW13M2luLTdLekFWZ0daaDJTSGs1Tmx6NHFGREplQkljTFQzTzZScm9OVlNZSHd1aFVqY3pwZ29TN2w4WFJPQnloVkxHZXQ1WU41bHRMTDFQdVhmWUQ3dFhyM0xkSWPSAcgBQVVfeXFMUEFJdTJCcVZwSUVwN293MFhZdTdLNHNnbWpacFctTlZybDRsenBuNXNEZ1pid1ZQN1YwT1dVLVZCZHZCa2wzbm1EUjBZRm55SFJZdThmMGJQSWt6bXZUelVxaFcydmFidngwUDczaWI5S2JxTFNSZzk1ei01cVlMRGRJZ2w3WnQtNmtSYzU1Sjd2WXpyU0xYZmhrdHBqMHlHdWw3T3RRMXM5bTkyZm4yRHZpeG9VOGN0TTV0WGE5dktWTm9zM0JEaEc?oc=5",
+          "description": "Caldo, la terza ondata è sull'Italia: le temperature massime in arrivo e le città da bollino rosso. Quali sono le cause, come dormire meglio (e come regolarsi con i farmaci) Corriere della Sera La traiettoria a \"C\" dell'anticiclone Africano e il movimento in senso orario da Sud: ecco perché l'Italia è tagliata in due Corriere della Sera Caldo record, arriva il picco. Quando ci sarà una tregua e pe",
+          "pubDate": "Mon, 13 Jul 2026 10:37:03 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Caldo, Piemonte senza acqua: chiede aiuto a Valle d'Aosta e Canton Ticino - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5Q3FHWFpIUXZFdVp0WXZLSG1WR0VsZzgyNmVybWJJSU1SWmY2Ti0xcU9CaUVwNkp1MlhiUW8zQnhjRWg3bHVXVkJzVXlOejRoYTBuYmdEem85RWRINlVOeXdBMzR4WjVBMEVfQ01ydExMcmZLeU1FSENB?oc=5",
+          "description": "Caldo, Piemonte senza acqua: chiede aiuto a Valle d'Aosta e Canton Ticino Sky TG24 Il Paese capovolto per la siccità: l’acqua manca al Nord la Repubblica Siccità in Piemonte, la Regione corre ai ripari e chiede di tagliare l'uso privato dell'acqua RaiNews Il caldo mette a rischio il Parmigiano Reggiano: più costi per la gestione delle mucche e meno latte La Stampa Caldo record: uva, frutta e latte",
+          "pubDate": "Mon, 13 Jul 2026 22:00:15 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "L'Italia dei bollini rossi, attesi 45 gradi in Sardegna",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/13/litalia-dei-bollini-rossi-attesi-45-gradi-in-sardegna_e078ff86-fdb2-467d-8f4b-30acb3fd0f4a.html",
+          "description": "Il picco del caldo giovedì, sos acqua in Piemonte. Brucia la foresta Fontainebleau",
+          "pubDate": "Mon, 13 Jul 2026 20:44:28 +0200"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "La città che ha abbassato il caldo di due gradi con appena 6 euro per abitante - today.it",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMkpnWWY5MEh0cVk1X2J4bDZ3TXhpMEZVejQ1NElBNXhfaXBnN2Q4T0pYekVJRG50bUhRT2tZeUtmZmEycjM5LUdKekVhYTZtWGFUYWQxczZ4eEVpOXBVOERCRXpqU0pLbGJwUjNIOWVHZ3VIOHJ3dGw4bEFWbDdUeWExTWszMzcyQUFrM21PQmtQRXVDSG94bVUzR1ZQZ9IBngFBVV95cUxOdHRqSzFsOE9KN0dKUlJhSmRuWDM3b3piMUlnOHBjd0JOM0JKVHNpc3A4WTBTTTEyMHl6TWN0UWl0ak5DRnFBd0c3eEJfMV9qZE5OWm9jZ3pvQVQtb01naHRlNmZibjJUMWN1MUJOWG1tVmx6Sm9Sa1Q2bURUZUE0bGF3d1BLY3FyTk1TNzM5RUJwbDZEc3Z5VDFSUTdQdw?oc=5",
+          "description": "La città che ha abbassato il caldo di due gradi con appena 6 euro per abitante today.it",
+          "pubDate": "Mon, 13 Jul 2026 15:54:00 GMT"
+        }
+      ],
+      "macro_area": "clima-salute"
+    },
+    {
+      "keyword": "nuova",
+      "n_items": 7,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 41,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ddl sicurezza, il governo studia un'ulteriore stretta anti-maranza - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPejhod2ltZzN0V1ozUnM0cVlfUnNKZDJmaEVicXRIVlUxaGk0eHc3UlZwSW8wcjBWSzZGNDhVcWhFdnBrNk1rY2RWUVlRMkdyUWFtRkl2YkFLTFk5TXdBSThHclVkUU9NZGd6bUh5WjRSUl9HcDBzSXJLeEtFN0I1WnYtZ1cxcGhTVHJINFl4ekFTblNaX3FRTEdBMHBqaTJMZDA2S9IBaEFVX3lxTE1WZUJBbUo5elJxWlBlLXo4MGI1NU5vWDA0UnlLSV9ya0tkSjdicTZWcGFOOHdJQThTWFNPTGRJYU96eEozMDRWdWRsZFAyWkgycHR4SzJXdkV5NnJVOHAxbFdfemxCN2tF?oc=5",
+          "description": "Ddl sicurezza, il governo studia un'ulteriore stretta anti-maranza Tgcom24 Sicurezza: nuova stretta anti-maranza. Ipotesi fermo preventivo anche alla polizia locale La Stampa Sicurezza, nuova stretta in arrivo:fermo preventivo esteso ai vigili la Repubblica Il ddl sicurezza in Cdm, verso una nuova stretta ANSA Maranza, fermo preventivo dei vigili: arriva la norma. La risposta a Vannacci Il Messagg",
+          "pubDate": "Mon, 13 Jul 2026 20:14:56 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse in diretta, petrolio oggi 13 luglio | Europa incerta (e Seul crolla) dopo il nuovo colpo al tech, su greggio e gas con la nuova chiusura dello Stretto di Hormuz - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNU0Joc21rZU02dU5aTmplLWNqd1lRMUZDMVZFNXM3bl9xQnhGWFlhOVc0bEpjai1EZG9mWU83Rkg1b01DWUZXYmZzdWJoV1FGT0hPRWQxcnY3RFByREMxdU1vNk1xcTd4VDNDQUMwaWs0V19pTGMzdzJ2M3FKZ2F4WUlfM3c2Zm9UY19RTTk4eWd4ZkRjMlY4SHhFSkZ3aG1GUkFLZ1lhemFnVVpxVktvZWJUWEN5R3NuUnRRSzNwMXladFphZk4wRDU0dUZFUDd1dkZfQm96d1FVNERoVl9uMUJoZVg5UGh0bzhlWlFrWFMzYnlvclpSWW40QU1hTm5LdVhHUUx5NGpoNkHSAZACQVVfeXFMT0RsNS1wN1ctR0FqbWhFaTVoMWxxaFBlUnBucWlhZ0E4RjRMc2F2R1dPOHRtUEdmazVVX0NuOEhfZl9oVTFjNGxJczZPS3p1by1VT2d3NXFGbFVrcWhjWW03QV9HaDVDR2ZmUjdiNUZqcnBHeFhsWU1LOUJQZlJkaE9IbTJUX0s1RmFNRlZSTW5iMTBEcEl0NnU0Q1lCcFA1aFk4bEZtVGtlNWt0LUs3dXRmc0g0VFl6N0JwMnNYSDZ5T3BBclNrVWwxWG53Z2RGdDhRdE1YcWEydG1fNUd6ZXVvUE5mOU10RmZ4dXlXQ19abVJkX1hHbGlHZGEyU180ZGJPNTFhR29CNFhYenp0VUg?oc=5",
+          "description": "Borse in diretta, petrolio oggi 13 luglio | Europa incerta (e Seul crolla) dopo il nuovo colpo al tech, su greggio e gas con la nuova chiusura dello Stretto di Hormuz Corriere della Sera Piazza Affari tonica in un'Europa cauta Borsa Italiana Borse, da Seul nuovo colpo al tech ma Milano resiste (+0,4%). Wall Street chiude negativa, petrolio +9% Il Sole 24 ORE Borsa: Milano chiude in rialzo, Ftse Mi",
+          "pubDate": "Mon, 13 Jul 2026 17:37:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "INPS, Nuove Regole per Chi Ha un Prestito sulla Pensione: Cosa Cambia - TuttoLavoro24",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUXN0aU1QemdnQnZCc3pZOXBrRmQwaFpJbWIzOVE3aXVWeEdRaFFGSllkRThYZmZFZXBvZUtVbU1relE0djN0NEVILUJqSkxZVmFTZkJlNk15VnFTbHROVkc5SmxTcGF1cmdtUGlXdXh2dEJDWmdFSUwzcFdDdGlBYTEwN0ExNjZJajFUTWRPRGF6Tms0Z3k1SW9scWYzY3pIdWZXR01zTQ?oc=5",
+          "description": "INPS, Nuove Regole per Chi Ha un Prestito sulla Pensione: Cosa Cambia TuttoLavoro24 Inps, più semplici prestiti con trattenuta fino a un quinto pensione ANSA Cessione del quinto della pensione, cambiano le regole: più digitale e controlli Quotidiano Nazionale Nuova Convenzione INPS 2026 su Finanziamenti Pensionati MySolution Cessione quinto pensione: convenzione con banche e intermediari fino al 2",
+          "pubDate": "Mon, 13 Jul 2026 01:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Perché la Luna nuova del 14 luglio è l'occasione migliore per guardare il cielo? - Libero",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQVlVdVhQUnJlNmRabldjYU9oZktSR2JBSjk0bk9Qd1ZOR1hUM0ZOc2FWWGtKMDNXMzUzcWhWU2hIV3IydXY5TnUyZUhDSmpyYzZkMWJ0d2plWndiOV93VjczaVVOdWo0dnZRNDI1LUFDOGRtdzExTUtKb2hfc3lvSE1IWFd3X2FW0gGOAUFVX3lxTE4zQ2JKeHg0ZXdaM1d3ZGFxR3hDZDFUajlseUttTVZWbFhqcWducHdWZkxiajA3MnBleTFlOW5Ib3dSWEVFVkhnekpRQ3RaQ0tvSnliQWNiazByOUtXcVBEN3kwQk9OT0UwanlTZW8xRzhQNlpvT09OVlY3MEJQR05sUUVTckJ2Ni0ybklvYVE?oc=5",
+          "description": "Perché la Luna nuova del 14 luglio è l'occasione migliore per guardare il cielo? Libero",
+          "pubDate": "Tue, 14 Jul 2026 01:05:54 GMT"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Nuova legge elettorale, presentati poco più di 200 emendamenti, le notizie in diretta| Emendamento FdI-Nm-Udc: capilista bloccati e fino 3 preferenze. Forza Italia e Lega non firmano, Donzelli: «Auspicio è che sia unitario» - Corriere Roma",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOYlVpT0VXM0N6ajJpVzdwQWpBOTBkX1c3Nm9VX0oyN1ZrQTJfcWRCcWNTb1lRcV9ySjBNRjcxUF9xczN1WmRJN1BhN2ZQNFBzcE1CZEtBcEItX1Fza1cyYVdWNXdsa2Iyc1A3dkhLekluc0NQZmk4Y0RJUGduYVdmaUVrVTA0UFRUdG5RMDZSS3Jfb0xDSGZsQ0paU2FUelVYNEJFQkpVNnVwV1J1YldCSDg1N24yWENfN25lcVRvY19kUTUyM0kwXzdNWUtsWjF1LThGaU81ekVaYWdhZ2Q5TUVDYndoSEpGZm95TzlYVEFkbFl2RndLeV91b2hRZ2FaSW42bFZ3QXpGeWNtUGFlRXNjVlVfQlEz0gGeAkFVX3lxTE1sMVhsNGlfV1FtZnJxb1dSVDNSNDI1Z0g0TnlHbC1xR190UkowU0ZGVEdWU2hJRXMyZUtyeEVMVUlKemJCR3VzdVdTaUN4V2FDRnVpUGxiUlZWNXlENURfQkxqbTVMWWxDRGdwejNVdF9tNW5hU3ZxU3JOSVNvQ01VVE00TlZIa2RIaUxNa0RwTWNZUW1KVVh2VlVfazlqNnpuc2ZLcUMxSFZka3RfRHBobjRrdjRPVklBWWtVbnZYSkZmZ2hFclc4anZ5anZFdXhud1p4c3BPczgxdlBEV3RQTzBPSUFPU25UZVIyNnlrTmRLaHk2bEtpTDZfQUYyUG10Wk5IbGpIX25Rdkp2bzBOaTUyZ1pLZ3dXc3RLSHc?oc=5",
+          "description": "Nuova legge elettorale, presentati poco più di 200 emendamenti, le notizie in diretta| Emendamento FdI-Nm-Udc: capilista bloccati e fino 3 preferenze. Forza Italia e Lega non firmano, Donzelli: «Auspicio è che sia unitario» Corriere Roma Inizia la settimana decisiva per la legge elettorale Il Post Legge elettorale, depositati oltre 200 emendamenti. Anche M5S ne presenta uno sulle preferenze la Rep",
+          "pubDate": "Mon, 13 Jul 2026 19:17:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "caso",
+      "n_items": 7,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 41,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "L'Italia dei “like” a Giuseppe Barboni, il manager giustiziere che ha pestato un migrante in strada - Avvenire",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdUZlRVFvM0diNWNIV2tPbWpyN0I1WWFldjBMNUxlOTQ2Z1QyZVU4TmJfUFVtREVNX3RyUFFQUnpRWDZjTm42M2YyTnVPRDIzUTV3V3BQSE9pejdFYVBtWXJoNlZleUpLV3diRWJETWtqcy1CZVVGOE9KMTJJemVrYjhlcjQ4dnNpbUlXcGk2akZrVF91NWpfNTJaU0JNZHR5RnVqeXFPWXVVb0VFMllRNEJzU3JFZw?oc=5",
+          "description": "L'Italia dei “like” a Giuseppe Barboni, il manager giustiziere che ha pestato un migrante in strada Avvenire Chi è Giuseppe Barboni, il vannacciano manager del lusso e campione di lotta greco-romana che ha picchiato un migrante per strada Corriere della Sera Infastidisce i passanti, preso a pugni: è un caso il video di Barboni, indaga la polizia RaiNews Blocca il traffico a San Benedetto del Tront",
+          "pubDate": "Mon, 13 Jul 2026 17:58:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Caso Ranucci, si scava tra i contatti dell’uomo di Lavitola. Il giornalista querela per diffamazione - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdzJaT19RMUVRSHBUbGZXYW0wR2xTWEp2SmFJTWFhVXVBR3VpQ2VLbV9LTGp4c2R3cUFMNV9wajhRWE1JT3RRbWpxU2phUXlNZ1ZNUGM3WUR2RTFGellWWDVGSk5yNEREblU1WHNGZkRyc3VIcm15OHNPVzhWV1JLOVRTWURCMldXMlIyZGlraVB1TFlxWHJJb1VkUTV6bTA0NjE0SkhfY9IBrAFBVV95cUxNRDBmcERZSEtMNVRxMUkwbDMtWnZNak5US0dPa0dXVk5rUXdDcWllNHlqQmVicEViaXdUa2lQeVhwRk51Z2JOb3lkekMxaTRfdFdmU3dicVh3Y0ZmaWNhUzdwTmh2cmZOWXNBeU1fSHBSUWNFbk1kMl84eUlFUnFIeEJiZG1vaW84YnRnazY3cnVDakdfLU9xRWxvSVdUN0hqc0lvN0VGTnpvSWFN?oc=5",
+          "description": "Caso Ranucci, si scava tra i contatti dell’uomo di Lavitola. Il giornalista querela per diffamazione la Repubblica Ranucci-Lavitola, si indaga sulla frequenza delle visite del faccendiere nella redazione di Report Corriere Roma I dubbi e le ipotesi sull’attentato a Sigfrido Ranucci Il Post L’affaire Ranucci: alla cena con i potenziali investitori sul carbon credit africano Lavitola portò pure l’am",
+          "pubDate": "Mon, 13 Jul 2026 11:40:33 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Ice ancora nella bufera, un'altra persona uccisa dai suoi agenti",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/13/ice-ancora-nella-bufera-unaltra-persona-uccisa-dai-suoi-agenti_4ad1ad44-0e30-4626-b108-9adb4e37186c.html",
+          "description": "Un colombiano con permesso di lavoro, nel Maine. Pochi giorni fa un altro caso in Texas",
+          "pubDate": "Mon, 13 Jul 2026 19:56:54 +0200"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Torino, «strage» di studenti nella prova di matematica: il caso del Convitto Umberto I. L'alunno: «Mai insufficienze in 5 anni» - torino.corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPZkJkdmpEMDZSdjBUMW9CWGt3VEVKMGZwbmNfTmd2TmJZeW9WT3JwczIwOEtLaU1vai1aRDdBVmo4aDBNenNYQVVkWnozU3FYNTJOTWE0UmxvZ2JmMXNIazV6Ny0wZ2NxRUVTZkROOHB5REVSUFVROGo0NEV6RXhfUjBIZUxrTUNTcU1veGNicFluLU1fQU1mQTFEQ1E2bzBCREZFVmVmbHhVX3J2QWFnazdUV0sxTXJGU0Q5T2pJaXFnSXRZZ3RKbk12eG9yQ3FZX0xhWUt1U1RvQ1p1OEVXMnBZTXI5ckVTMmNpeUdsLW5vdW1KTmJLT3ZMNmVGRDZSRHhTR0x1UnBFejMwbXRQcWFWREcyR0liVTJWdmVsbFhNdDdnbDg0aW1lQjkyZkJXSkJLM0ZvYkFJN2RfOXfSAcMCQVVfeXFMT3ZHRXpiZHBvenRjNHA2OVFSbl9fRG9tOGp2aUJyakU2bVZBVnhyVmlMcFFWaDR6aFJwZkJDdTJjcjlkTmUwYnA2aWxfeksxM2wtNGs1RjdENndhd0x1ZFhsV1BuTWZJMzlta21oV3VyM2tiTXIwRTZVVU15dXVyUG1OVjR6N0t0S1pDOEZxMGIydFVXdU1zVEVkTkpkWGE5ZG1hdTVTZGM5WkdXajdqZ0JKVGEtZmkzNmhlODRMQTF1c1kyVTk1SHlkQUZkN3BSSWR1SVpDc1BBWlVxblluSmxHckE0eU1SLWpkRE1nUUVBUU5fOXAtWUJ1VnBTR0xGT3BpdU54OUFUZU1sZ1ZNdTdpYkMwcGJVQzhEVnU0NDVuc0U3SFhGcU5Pb2VuWUZ0aElyandVM0dBWHRBVm9OektfT2s?oc=5",
+          "description": "Torino, «strage» di studenti nella prova di matematica: il caso del Convitto Umberto I. L'alunno: «Mai insufficienze in 5 anni» torino.corriere.it",
+          "pubDate": "Mon, 13 Jul 2026 16:29:39 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Riecco la West Nile, primo caso in provincia e in Regione - ModenaToday",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeERNM2FuRExnS25oMHlScWcwc2QxOGpKU0t0QmdoZFlob2JLWE9HYWhNelFodmxjWnNSTk9MMEp5ZmlmVTBId19RVERXanViLUY5MEFWb1dMdGxtRkx3amptcVlTeEwxa2FNcmNEWVdFaGlMb2pDOWdoQ2s5ZzdiQXFfTldVU05tbFhYRg?oc=5",
+          "description": "Riecco la West Nile, primo caso in provincia e in Regione ModenaToday West Nile: contagi in sei regioni, ecco come proteggersi Il Fatto Quotidiano West Nile virus: è modenese il primo caso dell’estate 2026 in Emilia Romagna Il Resto del Carlino West Nile, campioni di zanzare positivi in 6 province su 9 dell’Emilia-Romagna IlPiacenza West Nile virus: un terzo caso di positività nel Novarese La Stam",
+          "pubDate": "Mon, 13 Jul 2026 13:16:50 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "italia",
+      "n_items": 33,
+      "n_sources": 12,
+      "category": "tech-ai",
+      "score": 40.2,
+      "cooldown": true,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra, ultime notizie. Trump ha comunicato al Congresso la ripresa della guerra contro l’Iran. Teheran attacca navi e Bahrein - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORG94TWIxZm5TNU1pQmdzTEZ5VDc5Q3VtM1pGNUtGLU5HTDdTN2xsREZ2VnB6dUpaQ0lHcV8yTzJYMDExQlVqMmhnTTUxTlJJUEx6Mm9wVXBrZUlfRnJuSTdQMmlxM19VMVFpNGd2WWc2VUdWN2hyWVY0N2hzNG45WGhmdjVVQm1iNUN2M2hBTV9aRUY4ZDRaUElsdThKbzFfZGF1VjZEbGlUcWdNa3FYYVFjd0F2N1JlV2Z6VV8zU3Rpa0pOcXk1OEd3ZE5OSVkwRmRSLWxCdFJQUQ?oc=5",
+          "description": "Guerra, ultime notizie. Trump ha comunicato al Congresso la ripresa della guerra contro l’Iran. Teheran attacca navi e Bahrein Il Sole 24 ORE LA GIORNATA - liveblog ANSA Terza ondata di attacchi Usa contro l'Iran. Trump blocca Hormuz: \"Chi passa dovrà pagare il 20%\" - Nyt: pedaggi su Hormuz? Per Rubio e Vance è impossibile RaiNews Mercati deboli, Milano schiva le vendite Borsa Italiana Miller: “Il",
+          "pubDate": "Tue, 14 Jul 2026 03:30:48 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "A Parigi il vertice dei volenterosi, nasce la coalizione antibalistica europea e l'Italia c'è - In corso attacco su Kiev \"con missili balistici\" - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOaEYtYUlyMW1yU2loRjM4cHB0Vl9wczhndUlPMXZTVEZWc0JDbUc0X1F5SG1fcGpTNFZ2X1VqU21YR1dZTDNFYjhnWjQ3QUdGN2hZT3RfUDVrR0prbTBPaFZ0ZXFETlFvUUNXc1FoVXN6Q0hrQkxreTVJUWFUQTdKZDloQURBUUxfYlZ0VXZQWi1kOTZPNVRiY2NqNERYaUpCdFJsdjBNX1gtdUJ6ZWNtWEJJTTNNdjRVakVtdFg1LXdrakpMck05VjhpeXNzRF9RLURBME56QWppZTlVdWw1NTNFYTRRTjNoY2VyLTRaZ25SejU5SXpEUVNXWU1pUHdGUkVtYnZtM3Q4QVpvRk9ySm5sOGtTLUhvTW90WEln0gGjAkFVX3lxTE5IMF82ZjFxUDRJV2d5RmhwVFpjdHQ0V2xkUXMxaFhJNURJMjBIM2VxZXRZTElxV3VOWmV3LU1iTXpITi1aRGVaQWNYUE1UVTlzMHRQeXBaT1FnRW51LXRRajYxM0g3UHowWURTZnhERzJMQmFneUpoQi1HVVNMeEhwLUlrTzZYUWl2R2xpT2hiR0laUzMzNGJNYjVKa3JJTjBsWmxIUmZaMkpEeTNsTWFaUkh3ZEM5T05xTFczc3FGajNtN2kzclVKd2NqWDJWR3kyUjl0Q1k4UUkzc2gwRkZJbm03VEdmZFhwRXB5YTJJYWhYMTJKeGpjTHVrd0tTeU16MXdLUGRoVmFYZlRnU0RuOHJzRlEyRFg1a3lDXy1YcEVkZw?oc=5",
+          "description": "A Parigi il vertice dei volenterosi, nasce la coalizione antibalistica europea e l'Italia c'è - In corso attacco su Kiev \"con missili balistici\" RaiNews Attacco russo su Kiev. A Parigi nasce la coalizione antibalistica europea e l'Italia c'è - In corso attacco su Kiev \"con missili balistici\" RaiNews Nasce lo scudo antibalistico Freyja: Italia tra i 10 Paesi fondatori Il Fatto Quotidiano Zelensky r",
+          "pubDate": "Mon, 13 Jul 2026 21:41:08 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Caldo, la terza ondata è sull'Italia: le temperature massime in arrivo e le città da bollino rosso. Quali sono le cause, come dormire meglio (e come regolarsi con i farmaci) - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU2Y5c1pDRjZqOUlhMGlQZjBKR1J1QkU0N25VN2x6VXBzRmQ2WW5EWXNiMDczNmZvOG8tQTM4azUtNVYwNF9LWVFVd3lDV0psQ3VmbWVPT1V6YTlETFFYRGN3VkhUdW13M2luLTdLekFWZ0daaDJTSGs1Tmx6NHFGREplQkljTFQzTzZScm9OVlNZSHd1aFVqY3pwZ29TN2w4WFJPQnloVkxHZXQ1WU41bHRMTDFQdVhmWUQ3dFhyM0xkSWPSAcgBQVVfeXFMUEFJdTJCcVZwSUVwN293MFhZdTdLNHNnbWpacFctTlZybDRsenBuNXNEZ1pid1ZQN1YwT1dVLVZCZHZCa2wzbm1EUjBZRm55SFJZdThmMGJQSWt6bXZUelVxaFcydmFidngwUDczaWI5S2JxTFNSZzk1ei01cVlMRGRJZ2w3WnQtNmtSYzU1Sjd2WXpyU0xYZmhrdHBqMHlHdWw3T3RRMXM5bTkyZm4yRHZpeG9VOGN0TTV0WGE5dktWTm9zM0JEaEc?oc=5",
+          "description": "Caldo, la terza ondata è sull'Italia: le temperature massime in arrivo e le città da bollino rosso. Quali sono le cause, come dormire meglio (e come regolarsi con i farmaci) Corriere della Sera La traiettoria a \"C\" dell'anticiclone Africano e il movimento in senso orario da Sud: ecco perché l'Italia è tagliata in due Corriere della Sera Caldo record, arriva il picco. Quando ci sarà una tregua e pe",
+          "pubDate": "Mon, 13 Jul 2026 10:37:03 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "L'Italia dei “like” a Giuseppe Barboni, il manager giustiziere che ha pestato un migrante in strada - Avvenire",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdUZlRVFvM0diNWNIV2tPbWpyN0I1WWFldjBMNUxlOTQ2Z1QyZVU4TmJfUFVtREVNX3RyUFFQUnpRWDZjTm42M2YyTnVPRDIzUTV3V3BQSE9pejdFYVBtWXJoNlZleUpLV3diRWJETWtqcy1CZVVGOE9KMTJJemVrYjhlcjQ4dnNpbUlXcGk2akZrVF91NWpfNTJaU0JNZHR5RnVqeXFPWXVVb0VFMllRNEJzU3JFZw?oc=5",
+          "description": "L'Italia dei “like” a Giuseppe Barboni, il manager giustiziere che ha pestato un migrante in strada Avvenire Chi è Giuseppe Barboni, il vannacciano manager del lusso e campione di lotta greco-romana che ha picchiato un migrante per strada Corriere della Sera Infastidisce i passanti, preso a pugni: è un caso il video di Barboni, indaga la polizia RaiNews Blocca il traffico a San Benedetto del Tront",
+          "pubDate": "Mon, 13 Jul 2026 17:58:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "L'Ue lancia l'iniziativa Team Gaza, Italia tra i Paesi aderenti - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWjU5Wm1jZHN4YTFLV3p5b0Q4M1pOQldWT0pOd2JVZHV3d0Ric1U1NVM1ZmdIMlYzYXY0cUtqSTM3bGd1eXlreElfUzhPWUs3c2lVeFVIaFRHejF2NHFnM3Q4RGl1b3JkSVhJRGJGY0R4em1VWmZZb0hFYmoyaDM4b0ZjM0dvci1NOFBhUFBaR0dhUmpTOVIwQnpsX081akZPMVVSbzBxaVRtVUs2YjlTcEowTUo1MVpjVXd4Z1RyNF9fSWc1eEU4bnNYQjRpYTMweXA0M2sydWEySXotVUFlcjVXZDVkNmfSAewBQVVfeXFMTkUwQWdOdlcyR05jdHhweEFvaUFHS1hjNWtsY3IyU0VnbHVHSXY0c09WYkdRV3dXYnpTTWdTTXpCV3p3Q0NoNW9uRXRDZWJQVTJ5aERjUjlReDR3OHo3Rjl0UVZJNC1wTURYVjY5SmNRTWFvUG51aVpscHlCWlcxVndwQUN5VUg1dXNtM01pa3Z6MGpmVVNwRDdTdzNua3lfZ0kxa2ZmenlRb1FIZHZpUE5JRm93OUp3d0JNNk12RV93TmQ5TjRMbFFiS1hxQ1NKMnk5NEtCUjNnc255VTlJS3FkczhPMmdBVEltUnE?oc=5",
+          "description": "L'Ue lancia l'iniziativa Team Gaza, Italia tra i Paesi aderenti ANSA La Commissione europea ha annunciato un piano per finanziare l'inizio della ricostruzione della Striscia di Gaza Il Post Il Sottosegretario Tripodi alla seconda riunione del Palestine Donor Group e al Forum di alto livello UE-Consiglio di Cooperazione del Golfo su sicurezza e difesa Ministero degli Affari Esteri e della Cooperazi",
+          "pubDate": "Mon, 13 Jul 2026 14:30:55 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "luglio",
+      "n_items": 8,
+      "n_sources": 5,
+      "category": "general",
+      "score": 40,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "La parata del 14 luglio a Parigi all'insegna del 'risveglio europeo' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObWlWaEZ6ZndPN2l5QlhPczNlSzlCNy0zY1QwODVZd2hwU3dJdWFZbk9OTllLZWZTVFYzRmJrNXgwd2dvcWFJMlJMdGNFSTNvQlFrSDU2ai1Hd0UzbUNnYmY5SWh3NUhfTHpJSTBJR0pBdHBBZEJBVS1ubFhwZXR1N3drbUptUngyVDU0QjNJVENpcGl0dG5WSTNEbGg3al9DOXVjc3pnU2d2S3RzTDBGMTVqTWZpOHFjVTdNMUVfLWFfbXpTcWZXWEZFVURxMlpMZ0dENXMtbU1TSXdOR1FGRXhraHktRkx2bVpxcFZB0gHzAUFVX3lxTFBRZGw1Y0dYcS1WTHFJTXkwSDJEdUZ6b2NDMVRpSHF2bUE0WC1zNVNGa2NnaHRMTi1RSUtfQkRPR2JZd1dsTkpkZlc4elpVcDVJN3hpQ3VUOG5Na2F2aWZrUkt4eGRkZUFNTXRsSFpUSVh2TEd5OGVfQlhjdDg1SVVNLXBpM21RTkprN1lnS2hrblZWZDJhSHRVMUctTVJvYlpzWmljMFlIWDJoTGxyWDdlWHNjYTBzZ181WGpINFBrSDJKVG1sc2FhM0JtX3VWTWpnX19jem80YkdsQUtreF9mT29JZ00yRU1Sc2NYQ3M3NTFHbw?oc=5",
+          "description": "La parata del 14 luglio a Parigi all'insegna del 'risveglio europeo' ANSA Difesa: Macron, proseguire i progetti europei nonostante fallimento Scaf Il Sole 24 ORE Macron prevede nuove guerre: \"Pronti a difendere la libertà anche col sangue, se necessario\" HuffPost Italia Macron scuote l’Europa: «Pronti a difenderci a costo del sangue». Il riarmo francese parte da 36 miliardi Milano Finanza Macron: ",
+          "pubDate": "Mon, 13 Jul 2026 16:04:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse in diretta, petrolio oggi 13 luglio | Europa incerta (e Seul crolla) dopo il nuovo colpo al tech, su greggio e gas con la nuova chiusura dello Stretto di Hormuz - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNU0Joc21rZU02dU5aTmplLWNqd1lRMUZDMVZFNXM3bl9xQnhGWFlhOVc0bEpjai1EZG9mWU83Rkg1b01DWUZXYmZzdWJoV1FGT0hPRWQxcnY3RFByREMxdU1vNk1xcTd4VDNDQUMwaWs0V19pTGMzdzJ2M3FKZ2F4WUlfM3c2Zm9UY19RTTk4eWd4ZkRjMlY4SHhFSkZ3aG1GUkFLZ1lhemFnVVpxVktvZWJUWEN5R3NuUnRRSzNwMXladFphZk4wRDU0dUZFUDd1dkZfQm96d1FVNERoVl9uMUJoZVg5UGh0bzhlWlFrWFMzYnlvclpSWW40QU1hTm5LdVhHUUx5NGpoNkHSAZACQVVfeXFMT0RsNS1wN1ctR0FqbWhFaTVoMWxxaFBlUnBucWlhZ0E4RjRMc2F2R1dPOHRtUEdmazVVX0NuOEhfZl9oVTFjNGxJczZPS3p1by1VT2d3NXFGbFVrcWhjWW03QV9HaDVDR2ZmUjdiNUZqcnBHeFhsWU1LOUJQZlJkaE9IbTJUX0s1RmFNRlZSTW5iMTBEcEl0NnU0Q1lCcFA1aFk4bEZtVGtlNWt0LUs3dXRmc0g0VFl6N0JwMnNYSDZ5T3BBclNrVWwxWG53Z2RGdDhRdE1YcWEydG1fNUd6ZXVvUE5mOU10RmZ4dXlXQ19abVJkX1hHbGlHZGEyU180ZGJPNTFhR29CNFhYenp0VUg?oc=5",
+          "description": "Borse in diretta, petrolio oggi 13 luglio | Europa incerta (e Seul crolla) dopo il nuovo colpo al tech, su greggio e gas con la nuova chiusura dello Stretto di Hormuz Corriere della Sera Piazza Affari tonica in un'Europa cauta Borsa Italiana Borse, da Seul nuovo colpo al tech ma Milano resiste (+0,4%). Wall Street chiude negativa, petrolio +9% Il Sole 24 ORE Borsa: Milano chiude in rialzo, Ftse Mi",
+          "pubDate": "Mon, 13 Jul 2026 17:37:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Le Borse di oggi, 13 luglio. Wall Street estende perdite e viaggia negativa - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbi1OaFNjMndKVHRFSlpDMUZsc3NnTVRSM1RKT0xpc0JmOWx3a3RfcHVKN0owVzFOakVtOVQtQjNtNTBndU14Mk8tREJLOGFzU0JReU4xbG1rb0hvVW5ZZEw5aFNfcG1qVWQ4eEU1bHVyMXhyZ2cwX2NNMERTbi1JZC1sa0l2QXlkbHVrYlNEOG83RnE5c2hURWxTYVNwbWlvZlE?oc=5",
+          "description": "Le Borse di oggi, 13 luglio. Wall Street estende perdite e viaggia negativa la Repubblica Borsa: Seduta negativa per il Nasdaq-100, in discesa dell'1,19% Borsa Italiana I mercati affrontano una settimana decisiva tra petrolio in rialzo, chip in calo e stagione delle trimestrali: Dow Jones, S&P, Nasdaq, Wall Street, Futures Yahoo Finanza La diretta da Wall Street | Borse Usa chiudono in rosso: S&P ",
+          "pubDate": "Mon, 13 Jul 2026 06:39:11 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Trimestrali: banche USA, ASML, TSMC, Netflix. Cosa guarderà il mercato - www.altroconsumo.it",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNmZycXVQWHljSEN1SE5HQVFSN2p3cXFQZ2dQSG1FUnBCVDItdGpoYXhWSUY4LVlNNG9ndGtBak9TVGxrUHVuemMtWXV6Wm1ZeUVYM1RDUHdMSzRwZUI3Y3Aya2tUdFRNV0wxLUFqRloxcVFISGVBN1RlcHNLdjhYTXY0enZOOU5QRUZxMndtaDM4Zw?oc=5",
+          "description": "Trimestrali: banche USA, ASML, TSMC, Netflix. Cosa guarderà il mercato www.altroconsumo.it Mercati: i dati macro italiani ed esteri di domani (Isp) Milano Finanza Gli economisti vedono un rischio di recessione più basso, la Fed alzerà comunque i tassi di interesse? Yahoo Finanza Market mover dal 13 al 17 luglio 2026: inflazione protagonista. Al via la stagione delle trimestrali USA Borse.it Calend",
+          "pubDate": "Mon, 13 Jul 2026 06:04:28 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Rottamazione quinquies, scadenza 31 luglio: rischio decadenza e come evitarlo. E ad agosto scattano gli interessi - Il Messaggero",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdTZzZGhMb3VJWmdYWE9yUGpVRzFydzd3WlJsM2NUMUdiRWZuekc5S2E1V1BBTzR3OE03c2RmakZYOGx2ZUFma0J4NGtPT05YNTg0WDhaT0piNHJRSTBKa2tJOXV1QVF5QmRiOGZubWlwT3NmVk1MUE5YcHlheTZBaF9aU0VlUTBsXzVBeFpJLWZENVM0RHcyRV9YdEJIaWZSM1gxN1pZYU1yYTV4WC1rbDB1ZFVJNGR0MVNqN0tQb2LSAcYBQVVfeXFMTkUwOGN4QmUwd3dTbE41QVVRaVkwVmN2aFRPeFZGLTdlR2tweE5kRkY1RUo5VG93cm1wSGpETzZRbGxYcDdJTlZWYWJ2ak55LVFPT0NWOWRaRlFNSlNSUzRuOWZ3RlRLcTI4ZGZvdWxRUE1fXzBuRkcza01Kc0xMWUNpNlVXakgxYjEwNk1rRjZjWlhuMXhCMmZ4MmdWZkNUWWhPY3BJdktMaW1Wd3A2RndFZHU0RTlFclplanBKQUxwUkxNdkN3?oc=5",
+          "description": "Rottamazione quinquies, scadenza 31 luglio: rischio decadenza e come evitarlo. E ad agosto scattano gli interessi Il Messaggero",
+          "pubDate": "Mon, 13 Jul 2026 16:46:49 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "lancia",
+      "n_items": 6,
+      "n_sources": 6,
+      "category": "general",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "L'Ue lancia l'iniziativa Team Gaza, Italia tra i Paesi aderenti - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWjU5Wm1jZHN4YTFLV3p5b0Q4M1pOQldWT0pOd2JVZHV3d0Ric1U1NVM1ZmdIMlYzYXY0cUtqSTM3bGd1eXlreElfUzhPWUs3c2lVeFVIaFRHejF2NHFnM3Q4RGl1b3JkSVhJRGJGY0R4em1VWmZZb0hFYmoyaDM4b0ZjM0dvci1NOFBhUFBaR0dhUmpTOVIwQnpsX081akZPMVVSbzBxaVRtVUs2YjlTcEowTUo1MVpjVXd4Z1RyNF9fSWc1eEU4bnNYQjRpYTMweXA0M2sydWEySXotVUFlcjVXZDVkNmfSAewBQVVfeXFMTkUwQWdOdlcyR05jdHhweEFvaUFHS1hjNWtsY3IyU0VnbHVHSXY0c09WYkdRV3dXYnpTTWdTTXpCV3p3Q0NoNW9uRXRDZWJQVTJ5aERjUjlReDR3OHo3Rjl0UVZJNC1wTURYVjY5SmNRTWFvUG51aVpscHlCWlcxVndwQUN5VUg1dXNtM01pa3Z6MGpmVVNwRDdTdzNua3lfZ0kxa2ZmenlRb1FIZHZpUE5JRm93OUp3d0JNNk12RV93TmQ5TjRMbFFiS1hxQ1NKMnk5NEtCUjNnc255VTlJS3FkczhPMmdBVEltUnE?oc=5",
+          "description": "L'Ue lancia l'iniziativa Team Gaza, Italia tra i Paesi aderenti ANSA La Commissione europea ha annunciato un piano per finanziare l'inizio della ricostruzione della Striscia di Gaza Il Post Il Sottosegretario Tripodi alla seconda riunione del Palestine Donor Group e al Forum di alto livello UE-Consiglio di Cooperazione del Golfo su sicurezza e difesa Ministero degli Affari Esteri e della Cooperazi",
+          "pubDate": "Mon, 13 Jul 2026 14:30:55 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Yemen, media: \"Raid saudita sull'aeroporto internazionale di Sana'a\" | Gli Houthi sequestrano aereo della Croce Rossa - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOGtxQllFSHY1UDRxUHl0LWowSGpNUUhkQ0R0SHlKT19fYUpRZkp5WHp3bWhxSGg0WDExTDZqWERpMWt3X253X1NRMTFSclVPOE5QTXk2UmY5d09oVXNBV2FudlE3enNnTmJtUjBNUUI3TC1wWC1yQTdRUzhUQ21TMENGSzVDSFhQVlJpcFFvN3E4Z01KS0Jn?oc=5",
+          "description": "Yemen, media: \"Raid saudita sull'aeroporto internazionale di Sana'a\" | Gli Houthi sequestrano aereo della Croce Rossa Tgcom24 Yemen, raid sull'aeroporto di Sana'a, gli Houthi sequestrano un aereo della Croce Rossa Vatican News Media, Houthi lanciano sei missili su aeroporto in Arabia Saudita ANSA La guerra in Iran fa saltare la tregua fra Riyadh e Houthi il manifesto Yemen, il governo attacca l'ae",
+          "pubDate": "Mon, 13 Jul 2026 12:40:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Google lancia le 'Fonti Preferite': scegli ANSA.it",
+          "link": "https://www.ansa.it/sito/notizie/magazine/2026/07/03/google-lancia-le-fonti-preferite-scegli-ansa.it_f12f4406-1ce0-42f2-b837-c8c89e5793a9.html",
+          "description": "",
+          "pubDate": "Wed, 8 Jul 2026 15:58:51 +0200"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Musica, bollino per distinguere i brani generati dall’intelligenza artificiale",
+          "link": "https://www.ilsole24ore.com/art/musica-bollino-distinguere-brani-generati-dall-intelligenza-artificiale-AJtx7jF",
+          "description": "La filiera discografica mondiale lancia due etichette: “Generato dall’IA” e “Assistito dall’IA”",
+          "pubDate": "Sat, 11 Jul 2026 07:39:01 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "Nvidia lancia il supercomputer per spingere l'IA e vola a Wall Street",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/nvidia-lancia-il-supercomputer-per-spingere-lia_58f95335-19b6-4a7c-b79c-fedf35c66878.html",
+          "description": "Colosso del chip vale 1000 miliardi",
+          "pubDate": "Tue, 30 May 2023 16:30:47 +0200"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "missili",
+      "n_items": 7,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "score": 34,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "A Parigi il vertice dei volenterosi, nasce la coalizione antibalistica europea e l'Italia c'è - In corso attacco su Kiev \"con missili balistici\" - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOaEYtYUlyMW1yU2loRjM4cHB0Vl9wczhndUlPMXZTVEZWc0JDbUc0X1F5SG1fcGpTNFZ2X1VqU21YR1dZTDNFYjhnWjQ3QUdGN2hZT3RfUDVrR0prbTBPaFZ0ZXFETlFvUUNXc1FoVXN6Q0hrQkxreTVJUWFUQTdKZDloQURBUUxfYlZ0VXZQWi1kOTZPNVRiY2NqNERYaUpCdFJsdjBNX1gtdUJ6ZWNtWEJJTTNNdjRVakVtdFg1LXdrakpMck05VjhpeXNzRF9RLURBME56QWppZTlVdWw1NTNFYTRRTjNoY2VyLTRaZ25SejU5SXpEUVNXWU1pUHdGUkVtYnZtM3Q4QVpvRk9ySm5sOGtTLUhvTW90WEln0gGjAkFVX3lxTE5IMF82ZjFxUDRJV2d5RmhwVFpjdHQ0V2xkUXMxaFhJNURJMjBIM2VxZXRZTElxV3VOWmV3LU1iTXpITi1aRGVaQWNYUE1UVTlzMHRQeXBaT1FnRW51LXRRajYxM0g3UHowWURTZnhERzJMQmFneUpoQi1HVVNMeEhwLUlrTzZYUWl2R2xpT2hiR0laUzMzNGJNYjVKa3JJTjBsWmxIUmZaMkpEeTNsTWFaUkh3ZEM5T05xTFczc3FGajNtN2kzclVKd2NqWDJWR3kyUjl0Q1k4UUkzc2gwRkZJbm03VEdmZFhwRXB5YTJJYWhYMTJKeGpjTHVrd0tTeU16MXdLUGRoVmFYZlRnU0RuOHJzRlEyRFg1a3lDXy1YcEVkZw?oc=5",
+          "description": "A Parigi il vertice dei volenterosi, nasce la coalizione antibalistica europea e l'Italia c'è - In corso attacco su Kiev \"con missili balistici\" RaiNews Attacco russo su Kiev. A Parigi nasce la coalizione antibalistica europea e l'Italia c'è - In corso attacco su Kiev \"con missili balistici\" RaiNews Nasce lo scudo antibalistico Freyja: Italia tra i 10 Paesi fondatori Il Fatto Quotidiano Zelensky r",
+          "pubDate": "Mon, 13 Jul 2026 21:41:08 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Italia e altri 8 Paesi (più Ucraina) formano lo scudo anti-missili europeo: le società che lo costruiranno - Europa Today",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeUg1MTQ4Y2xlT1NNLU01bXZpbkhYaUdkaEhiSEtLa3V2ZnhxaFh1NHMtTWcweFR1TWJNd29BWlpCdU1yeVVJTTV0N2xNblhVMERWcHhsMmw1SzFXM1VwaVl6UHoyVkZvc0Jrb01zclpvQXNIT08zUEVvTEdzSHVtdnIzOUctNkI4UE5XOHljSlB2Umc?oc=5",
+          "description": "Italia e altri 8 Paesi (più Ucraina) formano lo scudo anti-missili europeo: le società che lo costruiranno Europa Today Attacco russo su Kiev. A Parigi nasce la coalizione antibalistica europea e l'Italia c'è - In corso attacco su Kiev \"con missili balistici\" RaiNews Nasce lo scudo antibalistico Freyja: Italia tra i 10 Paesi fondatori Il Fatto Quotidiano Zelensky ribalta di nuovo l'Ucraina. Nove a",
+          "pubDate": "Mon, 13 Jul 2026 17:27:34 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Ucraina, raid missilistici di Mosca su Kiev: udite esplosioni - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTWJSQnVEb2dMQkxhTXczdHpmcnVhRklQYVBsVERTdVhKZElMLVdlNVV3MFNiMllzQVpzb3ZyR0lqZDVKTmtIODBuNDNxUTU3Qmt3LWhnSzhoU21aZ2hKRnRvbmp5TFU2S3pUaHNwOGE5YUZoaXY4UC1Ld2FOLXRFTWZtYkJhUjZu?oc=5",
+          "description": "Guerra Ucraina, raid missilistici di Mosca su Kiev: udite esplosioni Sky TG24 Scudo anti-missili, nasce coalizione di 9 Paesi europei. Macron: «Kiev intende acquisire 16 caccia Rafale e batterie di difesa Samp/T Il Sole 24 ORE Guerra Ucraina-Russia, le notizie in diretta | In corso raid russi su Kiev. Alleanza tra Ucraina e 9 Paesi Ue (c'è anche l'Italia) per la difesa contro i missili balistici. ",
+          "pubDate": "Mon, 13 Jul 2026 21:43:02 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Yemen, media: \"Raid saudita sull'aeroporto internazionale di Sana'a\" | Gli Houthi sequestrano aereo della Croce Rossa - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOGtxQllFSHY1UDRxUHl0LWowSGpNUUhkQ0R0SHlKT19fYUpRZkp5WHp3bWhxSGg0WDExTDZqWERpMWt3X253X1NRMTFSclVPOE5QTXk2UmY5d09oVXNBV2FudlE3enNnTmJtUjBNUUI3TC1wWC1yQTdRUzhUQ21TMENGSzVDSFhQVlJpcFFvN3E4Z01KS0Jn?oc=5",
+          "description": "Yemen, media: \"Raid saudita sull'aeroporto internazionale di Sana'a\" | Gli Houthi sequestrano aereo della Croce Rossa Tgcom24 Yemen, raid sull'aeroporto di Sana'a, gli Houthi sequestrano un aereo della Croce Rossa Vatican News Media, Houthi lanciano sei missili su aeroporto in Arabia Saudita ANSA La guerra in Iran fa saltare la tregua fra Riyadh e Houthi il manifesto Yemen, il governo attacca l'ae",
+          "pubDate": "Mon, 13 Jul 2026 12:40:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "A Parigi nasce una coalizione di nove Stati per lo scudo anti-missili",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/13/cremlino-i-volenterosi-sono-istigatori-della-guerra_b1dc532d-1203-471e-b699-66414436d946.html",
+          "description": "Tajani: 'Passo verso la difesa comune'. Macron: 'Esercitazioni dei Volenterosi vicino all'Ucraina'",
+          "pubDate": "Mon, 13 Jul 2026 21:48:25 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "focus",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "general",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Chipotle is opening its first restaurant in Mexico - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1Y5dF92RVZhMHRzNk5peFZfd2ZqcTB0T3FJOHBVcFBsa1BVMllqRVFwdmxnZDFHclBZYllQbjFodjJreHBjdmdmZUNWT3F5Yl9idmE3Z2dSWEZkQlZ2aHF1VzB0dUJCQU5LVk1wSERna3hmclhvbkpMeGhrNnBDSUk2MUc0SlHSAYwBQVVfeXFMTXpiV2xCMjRmRHhMVVhoMkZsQmNLd2w4Q0lINGdtQWNqRDJsa1p1Ym03RnBhUUFZaVBuZlhISGNPU1JObGp1VVpIczRlSlJRaWs0REF2U0lkMGswbjdBWllpMDVpdHF2dTdOazNFdWc4b2FGckEtMWRTd1BhMC1WUnY2TG5JQktmOWtOcTM?oc=5",
+          "description": "Chipotle is opening its first restaurant in Mexico CNBC Chipotle Tests Appeal of Its Bowls, Burritos in Mexico Bloomberg.com CMG Stock Ends At Four-Month Highs — Chipotle Mexican Grill Opens First Outlet In Mexico Yahoo Finance Chipotle (CMG) to Open First Restaurant in Mexico on July 16 GuruFocus Chipotle Enters Mexico With First Nuevo León Restaurant Food & Beverage Magazine",
+          "pubDate": "Mon, 13 Jul 2026 20:10:01 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Controlli formali delle dichiarazioni, più tempo per inviare i documenti al Fisco - fiscal-focus.it",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNTFEYVhsTnMyMGNvOE5PMk1kRlBSSHN6eXdnYVlyUmNNb1FPcHJjNXdrdlVzcDdKNDNkMmJWdFFoSi1qYTJvaERFVE5ldnV1U0NBVnVHWnBkOEJCWENNanNYcUxwNGJZSEFvQU41NHppNVJUWG1Ed3lMNGVtU0d1TUJncDJRbHRQVzQxTXV0cGdFVkc0YjhqOXdORlNQbnJ2VVI1NTduMlB6ZzNkaFdZWWxDSkZfeFFVTDdySGgxc3RZaGM3d3U4bjV3NTRGSU1SR1Q2OHJENmIzdTJLTWdTWVY5V3RBNHNiSzZ3S2FKejJHQQ?oc=5",
+          "description": "Controlli formali delle dichiarazioni, più tempo per inviare i documenti al Fisco fiscal-focus.it Controlli formali 2023: più tempo per documenti Agenzia Entrate MySolution Risposte alle comunicazioni dell’Agenzia entro metà settembre Eutekne.info Anc (commercialisti), 'sul fisco serve una programmazione strutturale' ANSA Controlli 36-ter, più tempo per rispondere edotto.com",
+          "pubDate": "Sun, 12 Jul 2026 22:33:02 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "ISA e CPB precari sotto la minaccia dell’infedeltà dichiarativa - fiscal-focus.it",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeUh0Y2NQWWJ4aVR0cEFiRklOVk1WdU04WXZoTUZNQkhxaUJkMm9xb2VTQ3VJbjBoTWFOSmdQQ21QVXozMGlSR2wwa29CeVZCS29seWo1R2xHTUR5MGVqNkU0WmRQck1adE80MnNNS3g5UFdMNkZfd3RGUjBMVDJTUlNzbXc5OTF2U2pWNi1ZcXZVSmFRbExKRS1uRGVSYUQyaXN4bTV4dUFjSGhjOFNUeWdYOEJrcnlsVlpqdXA1NWVjc3RTOWNFNzkycU85VlFCWU9RXzBRSQ?oc=5",
+          "description": "ISA e CPB precari sotto la minaccia dell’infedeltà dichiarativa fiscal-focus.it Modello ISA 2025: errori da evitare per non compromettere il Concordato Preventivo Biennale Commercialista Telematico Circolare n. 4/E/2026 dell’Agenzia Entrate: le novità sugli ISA e i riflessi sul rinnovo del CPB AteneoWeb Acconti nel Concordato Preventivo Biennale: al termine del biennio non è necessario il ricalcol",
+          "pubDate": "Sun, 12 Jul 2026 22:33:02 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Cuoa, soci e ricavi in aumento. Ora focus su estero e governance",
+          "link": "https://www.ilsole24ore.com/art/cuoa-soci-e-ricavi-aumento-ora-focus-estero-e-governance-AJcNT8E",
+          "description": "Nel 2025 i soci sono aumentati da 184 a 207. Nasce il Corporate Governance Centre, per accompagnare la crescita delle pmi",
+          "pubDate": "Sat, 11 Jul 2026 06:02:00 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "The SpaceX IPO made history. One month on has it lost momentum?",
+          "link": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
+          "description": "A month on from the firm's stock market debut, the reality of how SpaceX currently makes money has seemed to come into clearer focus.",
+          "pubDate": "Mon, 13 Jul 2026 11:45:25 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "parigi",
+      "n_items": 6,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "A Parigi il vertice dei volenterosi, nasce la coalizione antibalistica europea e l'Italia c'è - In corso attacco su Kiev \"con missili balistici\" - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOaEYtYUlyMW1yU2loRjM4cHB0Vl9wczhndUlPMXZTVEZWc0JDbUc0X1F5SG1fcGpTNFZ2X1VqU21YR1dZTDNFYjhnWjQ3QUdGN2hZT3RfUDVrR0prbTBPaFZ0ZXFETlFvUUNXc1FoVXN6Q0hrQkxreTVJUWFUQTdKZDloQURBUUxfYlZ0VXZQWi1kOTZPNVRiY2NqNERYaUpCdFJsdjBNX1gtdUJ6ZWNtWEJJTTNNdjRVakVtdFg1LXdrakpMck05VjhpeXNzRF9RLURBME56QWppZTlVdWw1NTNFYTRRTjNoY2VyLTRaZ25SejU5SXpEUVNXWU1pUHdGUkVtYnZtM3Q4QVpvRk9ySm5sOGtTLUhvTW90WEln0gGjAkFVX3lxTE5IMF82ZjFxUDRJV2d5RmhwVFpjdHQ0V2xkUXMxaFhJNURJMjBIM2VxZXRZTElxV3VOWmV3LU1iTXpITi1aRGVaQWNYUE1UVTlzMHRQeXBaT1FnRW51LXRRajYxM0g3UHowWURTZnhERzJMQmFneUpoQi1HVVNMeEhwLUlrTzZYUWl2R2xpT2hiR0laUzMzNGJNYjVKa3JJTjBsWmxIUmZaMkpEeTNsTWFaUkh3ZEM5T05xTFczc3FGajNtN2kzclVKd2NqWDJWR3kyUjl0Q1k4UUkzc2gwRkZJbm03VEdmZFhwRXB5YTJJYWhYMTJKeGpjTHVrd0tTeU16MXdLUGRoVmFYZlRnU0RuOHJzRlEyRFg1a3lDXy1YcEVkZw?oc=5",
+          "description": "A Parigi il vertice dei volenterosi, nasce la coalizione antibalistica europea e l'Italia c'è - In corso attacco su Kiev \"con missili balistici\" RaiNews Attacco russo su Kiev. A Parigi nasce la coalizione antibalistica europea e l'Italia c'è - In corso attacco su Kiev \"con missili balistici\" RaiNews Nasce lo scudo antibalistico Freyja: Italia tra i 10 Paesi fondatori Il Fatto Quotidiano Zelensky r",
+          "pubDate": "Mon, 13 Jul 2026 21:41:08 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Parigi denuncia attacco ibrido russo contro l’Europa. Francia e Germania convocano gli ambasciatori - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT2FHSVpVcHc4MkVvcDBxalNYUjZyZk1keUlnem5kNTdGa1dmaFlVeG9Edk10aW1OcVBUTURfUGt3cnJVNElYQWNSdm9LYWRoMFVSMWVadUI0dWxYaXphLV9SZVlnQW83c3ZNNnYtYi1UM2w1QkxfaC1mZDFTX0FCSE9vOHg1YjU1ZjBtcFpqSDZwVGtGUGVTVk1HRnJoYzdtZGlDcHVGVG9HdTBqUXliaWwtd0hqOHRZSE5fZFdxMUI3YmpKUW5tSdIBzgFBVV95cUxQd0FsdHF0dUJCcS1hekZOMkw2bDBkUjlmdE53VmZsMkcxd2JyOVBIMUpFdk1uV0ZYd2ZwcTNHRHBNTE9KamlkRXo0RUdhckdNNW9uVEhXMW9YQkZYMnlRanNLUTBWZ0d6VVNfVnFpek16Nzh4d2tvcDFDNTQ4MVFfaUVMeUdUQ01WVHFGelY0MEhaOWNCTHI0dndwSHFmTXIzamRPYWQ0bkN2MjhUUGFqcmFjT2VNODRNXzg5MURCcjJONFQ4QXM2anFXaW9vdw?oc=5",
+          "description": "Parigi denuncia attacco ibrido russo contro l’Europa. Francia e Germania convocano gli ambasciatori la Repubblica “Mosca spia e sabota l’Europa”: Parigi e Berlino convocano gli ambasciatori russi. Sanzioni da Bruxelles e Londra Il Fatto Quotidiano Ue vara nuove sanzioni contro lo spionaggio informatico russo Il Sole 24 ORE Parigi accusa Mosca di cyberspionaggio RaiNews L’Unità 71330, da Turla al G",
+          "pubDate": "Mon, 13 Jul 2026 10:45:26 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Italia e altri 8 Paesi (più Ucraina) formano lo scudo anti-missili europeo: le società che lo costruiranno - Europa Today",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeUg1MTQ4Y2xlT1NNLU01bXZpbkhYaUdkaEhiSEtLa3V2ZnhxaFh1NHMtTWcweFR1TWJNd29BWlpCdU1yeVVJTTV0N2xNblhVMERWcHhsMmw1SzFXM1VwaVl6UHoyVkZvc0Jrb01zclpvQXNIT08zUEVvTEdzSHVtdnIzOUctNkI4UE5XOHljSlB2Umc?oc=5",
+          "description": "Italia e altri 8 Paesi (più Ucraina) formano lo scudo anti-missili europeo: le società che lo costruiranno Europa Today Attacco russo su Kiev. A Parigi nasce la coalizione antibalistica europea e l'Italia c'è - In corso attacco su Kiev \"con missili balistici\" RaiNews Nasce lo scudo antibalistico Freyja: Italia tra i 10 Paesi fondatori Il Fatto Quotidiano Zelensky ribalta di nuovo l'Ucraina. Nove a",
+          "pubDate": "Mon, 13 Jul 2026 17:27:34 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "La parata del 14 luglio a Parigi all'insegna del 'risveglio europeo' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObWlWaEZ6ZndPN2l5QlhPczNlSzlCNy0zY1QwODVZd2hwU3dJdWFZbk9OTllLZWZTVFYzRmJrNXgwd2dvcWFJMlJMdGNFSTNvQlFrSDU2ai1Hd0UzbUNnYmY5SWh3NUhfTHpJSTBJR0pBdHBBZEJBVS1ubFhwZXR1N3drbUptUngyVDU0QjNJVENpcGl0dG5WSTNEbGg3al9DOXVjc3pnU2d2S3RzTDBGMTVqTWZpOHFjVTdNMUVfLWFfbXpTcWZXWEZFVURxMlpMZ0dENXMtbU1TSXdOR1FGRXhraHktRkx2bVpxcFZB0gHzAUFVX3lxTFBRZGw1Y0dYcS1WTHFJTXkwSDJEdUZ6b2NDMVRpSHF2bUE0WC1zNVNGa2NnaHRMTi1RSUtfQkRPR2JZd1dsTkpkZlc4elpVcDVJN3hpQ3VUOG5Na2F2aWZrUkt4eGRkZUFNTXRsSFpUSVh2TEd5OGVfQlhjdDg1SVVNLXBpM21RTkprN1lnS2hrblZWZDJhSHRVMUctTVJvYlpzWmljMFlIWDJoTGxyWDdlWHNjYTBzZ181WGpINFBrSDJKVG1sc2FhM0JtX3VWTWpnX19jem80YkdsQUtreF9mT29JZ00yRU1Sc2NYQ3M3NTFHbw?oc=5",
+          "description": "La parata del 14 luglio a Parigi all'insegna del 'risveglio europeo' ANSA Difesa: Macron, proseguire i progetti europei nonostante fallimento Scaf Il Sole 24 ORE Macron prevede nuove guerre: \"Pronti a difendere la libertà anche col sangue, se necessario\" HuffPost Italia Macron scuote l’Europa: «Pronti a difenderci a costo del sangue». Il riarmo francese parte da 36 miliardi Milano Finanza Macron: ",
+          "pubDate": "Mon, 13 Jul 2026 16:04:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "A Parigi nasce una coalizione di nove Stati per lo scudo anti-missili",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/13/cremlino-i-volenterosi-sono-istigatori-della-guerra_b1dc532d-1203-471e-b699-66414436d946.html",
+          "description": "Tajani: 'Passo verso la difesa comune'. Macron: 'Esercitazioni dei Volenterosi vicino all'Ucraina'",
+          "pubDate": "Mon, 13 Jul 2026 21:48:25 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "wall",
+      "n_items": 6,
+      "n_sources": 3,
+      "category": "energia",
+      "score": 24,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Borse in diretta, petrolio oggi 13 luglio | Europa incerta (e Seul crolla) dopo il nuovo colpo al tech, su greggio e gas con la nuova chiusura dello Stretto di Hormuz - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNU0Joc21rZU02dU5aTmplLWNqd1lRMUZDMVZFNXM3bl9xQnhGWFlhOVc0bEpjai1EZG9mWU83Rkg1b01DWUZXYmZzdWJoV1FGT0hPRWQxcnY3RFByREMxdU1vNk1xcTd4VDNDQUMwaWs0V19pTGMzdzJ2M3FKZ2F4WUlfM3c2Zm9UY19RTTk4eWd4ZkRjMlY4SHhFSkZ3aG1GUkFLZ1lhemFnVVpxVktvZWJUWEN5R3NuUnRRSzNwMXladFphZk4wRDU0dUZFUDd1dkZfQm96d1FVNERoVl9uMUJoZVg5UGh0bzhlWlFrWFMzYnlvclpSWW40QU1hTm5LdVhHUUx5NGpoNkHSAZACQVVfeXFMT0RsNS1wN1ctR0FqbWhFaTVoMWxxaFBlUnBucWlhZ0E4RjRMc2F2R1dPOHRtUEdmazVVX0NuOEhfZl9oVTFjNGxJczZPS3p1by1VT2d3NXFGbFVrcWhjWW03QV9HaDVDR2ZmUjdiNUZqcnBHeFhsWU1LOUJQZlJkaE9IbTJUX0s1RmFNRlZSTW5iMTBEcEl0NnU0Q1lCcFA1aFk4bEZtVGtlNWt0LUs3dXRmc0g0VFl6N0JwMnNYSDZ5T3BBclNrVWwxWG53Z2RGdDhRdE1YcWEydG1fNUd6ZXVvUE5mOU10RmZ4dXlXQ19abVJkX1hHbGlHZGEyU180ZGJPNTFhR29CNFhYenp0VUg?oc=5",
+          "description": "Borse in diretta, petrolio oggi 13 luglio | Europa incerta (e Seul crolla) dopo il nuovo colpo al tech, su greggio e gas con la nuova chiusura dello Stretto di Hormuz Corriere della Sera Piazza Affari tonica in un'Europa cauta Borsa Italiana Borse, da Seul nuovo colpo al tech ma Milano resiste (+0,4%). Wall Street chiude negativa, petrolio +9% Il Sole 24 ORE Borsa: Milano chiude in rialzo, Ftse Mi",
+          "pubDate": "Mon, 13 Jul 2026 17:37:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Le Borse di oggi, 13 luglio. Wall Street estende perdite e viaggia negativa - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbi1OaFNjMndKVHRFSlpDMUZsc3NnTVRSM1RKT0xpc0JmOWx3a3RfcHVKN0owVzFOakVtOVQtQjNtNTBndU14Mk8tREJLOGFzU0JReU4xbG1rb0hvVW5ZZEw5aFNfcG1qVWQ4eEU1bHVyMXhyZ2cwX2NNMERTbi1JZC1sa0l2QXlkbHVrYlNEOG83RnE5c2hURWxTYVNwbWlvZlE?oc=5",
+          "description": "Le Borse di oggi, 13 luglio. Wall Street estende perdite e viaggia negativa la Repubblica Borsa: Seduta negativa per il Nasdaq-100, in discesa dell'1,19% Borsa Italiana I mercati affrontano una settimana decisiva tra petrolio in rialzo, chip in calo e stagione delle trimestrali: Dow Jones, S&P, Nasdaq, Wall Street, Futures Yahoo Finanza La diretta da Wall Street | Borse Usa chiudono in rosso: S&P ",
+          "pubDate": "Mon, 13 Jul 2026 06:39:11 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "SpaceX in calo a Wall Street, titolo scende vicino al prezzo dell'ipo",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/13/spacex-in-calo-a-wall-street-titolo-scende-vicino-al-prezzo-dellipo_8c4269fe-0989-42cf-a234-dadcbcf2878e.html",
+          "description": "Persi 800 miliardi di valore dal picco di giugno",
+          "pubDate": "Mon, 13 Jul 2026 20:12:09 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Il petrolio sale a New York del 7,79%, Wall Street cala",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/13/il-petrolio-sale-a-new-york-del-779-wall-street-cala_881791a4-d581-457a-8e00-3757be96e887.html",
+          "description": "S 500 perde lo 0,70%, Nasdaq -1,73%, Dj -0,25%",
+          "pubDate": "Mon, 13 Jul 2026 20:09:29 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: Europa piatta dopo l'avvio di Wall Street, Milano +0,3%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/13/borsa-europa-piatta-dopo-lavvio-di-wall-street-milano-03_8717191f-2a6f-46cb-86a2-8ff3b8b20ed5.html",
+          "description": "Restano in chiaro aumento gas (+4%) e petrolio (+3%) sulle tensioni nel Golfo persico",
+          "pubDate": "Mon, 13 Jul 2026 16:01:11 +0200"
+        }
+      ],
+      "macro_area": "economia"
+    }
+  ]
+}

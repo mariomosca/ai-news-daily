@@ -1,0 +1,918 @@
+{
+  "date": "2026-07-22",
+  "top_topics": [
+    {
+      "keyword": "iran",
+      "n_items": 16,
+      "n_sources": 8,
+      "category": "geopolitica",
+      "score": 134,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Iran-Usa, spiragli di tregua. Verso (breve) riapertura di Hormuz. Intanto crollano gli utili di Ryanair - Quotidiano Nazionale",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQm52cTBMMHRMa3F3U20zSXNCNW12R0Y5WjRFYVRzRjVzLW9IV3o3RndZVEw1X0NhOWI1YVI1VHMxZE9JVUdwTmp6dVlYd3FMWVNPSVpXVG9RdGpRZWVaM0FIUHJ1Z0JpelVOV01vVTNnRDNqUU50WXphUmVWRnRFUA?oc=5",
+          "description": "Iran-Usa, spiragli di tregua. Verso (breve) riapertura di Hormuz. Intanto crollano gli utili di Ryanair Quotidiano Nazionale Iran, chi sono i due soldati Usa uccisi in Giordania: Trump promette vendetta Sky TG24 Rubio, controllo iraniano su Hormuz sarebbe precedente pericoloso ANSA Il cantiere sul mare: la Terrazza di Lignano Il Sole 24 ORE Trump rischia un conflitto permanente con l’Iran - Steven",
+          "pubDate": "Mon, 20 Jul 2026 19:58:22 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Iran, colpiti obiettivi in Bahrein e Kuwait, anche un data center di Amazon. Trump: \"Guerra totale\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQemZpbFEtYnpIRWhYS0lOd0x6bXdXcWp2NXZobUJweG51cHZNR3NmUm1BOU1uUWZNU1RXNEwweXFtdUJicVAzdml2clpwNF9oTjVxZldsa3llY2dTc3oxVHA3LXh1bndCMTdhMV9Fc29fOTRkSm9UdzBSZmFKd2lKME5qdVhJMUt6N3h4clZVaENKZXk0MTdaOTQtMkh1RE12a3ZBZ1UwSzRGM3ZQZHJF?oc=5",
+          "description": "Iran, colpiti obiettivi in Bahrein e Kuwait, anche un data center di Amazon. Trump: \"Guerra totale\" Tgcom24 Iran, la strategia della sete: attacchi ai dissalatori del Golfo la Repubblica Pasdaran, 'abbiamo distrutto un data center di Amazon in Bahrein' ANSA Teheran: colpiti target militari americani in Bahrein e Kuwait, distrutti data center Amazon La Stampa Kuwait e Bahrein sotto attacco di droni",
+          "pubDate": "Tue, 21 Jul 2026 22:10:55 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa-Iran, le notizie in diretta |Esplosioni nella notte. «Partita l'undicesima notte di raid». Hegseth chiede «con urgenza» 67 miliardi al Congresso - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZTdjNkhXWVhrT3B5R01NRVp4Uk9ZTnhmVUFXWkJfSDlzanNYQ2p3eVZVNW5LUUhaQ0tQZl9TNDB2aFEzRVp0RWItekJ1bVpiMVpyVDFEaFJldnBYMVBya09lb1FaT2l3UHk0WEQyejB0M003bERpajRwUzBwXzdScEZORVl0ZzgxdUhiQ0JXRdIBlAFBVV95cUxPLWNiSXdCblpvdkRjMEs0WFh2dXdjTWNUWDdHVHdwSnduMncwWVRDWVo2WmhfY0JpMk9TYjJGblRTSzZTYTJWN2FsWVZ3eUJranlTQkJzaTFPTnQ2R0J2RXowd3NSSnhLcmNkLXVTNm1VTlVtLWVsRFo3alJJVnJZaVU4bWNZaF9QTVZNdEZtSGh6RGFY?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta |Esplosioni nella notte. «Partita l'undicesima notte di raid». Hegseth chiede «con urgenza» 67 miliardi al Congresso Corriere della Sera 15 milioni di residenti sentono esplosioni mentre il conflitto entra in una nuova fase pericolosa upday News",
+          "pubDate": "Wed, 22 Jul 2026 03:28:02 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Usa-Iran, le notizie in diretta |Esplosioni anche a Teheran. «Partita l'undicesima notte di raid». Mamdani: «Non posso arrestare Netanyahu» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZTdjNkhXWVhrT3B5R01NRVp4Uk9ZTnhmVUFXWkJfSDlzanNYQ2p3eVZVNW5LUUhaQ0tQZl9TNDB2aFEzRVp0RWItekJ1bVpiMVpyVDFEaFJldnBYMVBya09lb1FaT2l3UHk0WEQyejB0M003bERpajRwUzBwXzdScEZORVl0ZzgxdUhiQ0JXRdIBlAFBVV95cUxPLWNiSXdCblpvdkRjMEs0WFh2dXdjTWNUWDdHVHdwSnduMncwWVRDWVo2WmhfY0JpMk9TYjJGblRTSzZTYTJWN2FsWVZ3eUJranlTQkJzaTFPTnQ2R0J2RXowd3NSSnhLcmNkLXVTNm1VTlVtLWVsRFo3alJJVnJZaVU4bWNZaF9QTVZNdEZtSGh6RGFY?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta |Esplosioni anche a Teheran. «Partita l'undicesima notte di raid». Mamdani: «Non posso arrestare Netanyahu» Corriere della Sera 15 milioni di residenti sentono esplosioni mentre il conflitto entra in una nuova fase pericolosa upday News",
+          "pubDate": "Wed, 22 Jul 2026 03:28:02 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Iran-Usa, conflitto esteso. E gli Houthi chiudono lo stretto di Bab el-Mandeb - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZVBaUElHOGhvVk5MbkQ2ejd2cmdfalVsYi1TM0QwMXp4VEoxYmM4cVo5QVVBeEswS0o4akRadlV4WG02c08zWF8yMDZVRVY2UWh5aEN6MDVISXFyRTNzRVdCWUVqbG9PQmEwdUJaamRkdmFkdkpzVVJrTmU3QTBVV2Flc2FnXy1DeVpuLURWNXNrRnJBeVo3UmR3SlNXQVN4Y0JSTHgtVlREOHNZY2ZENkNXaWdBaWRoSVowOWRJOENjWVRkMThRaTB1VjFmajR6ZlpobUtnb1BkaWpjNTFuM1Vn?oc=5",
+          "description": "Iran-Usa, conflitto esteso. E gli Houthi chiudono lo stretto di Bab el-Mandeb Il Fatto Quotidiano Si rischia il blocco di un altro stretto: quello di Bab el Mandeb Il Post L’esperto di sicurezza marittima: “Gli Houthi possono bloccare Suez e far male all’Europa” la Repubblica Bab el-Mandeb, la seconda trappola ISPI Gli huthi dello Yemen impongono un blocco navale all'Arabia Saudita e altre notizie",
+          "pubDate": "Mon, 20 Jul 2026 22:01:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "trump",
+      "n_items": 15,
+      "n_sources": 7,
+      "category": "geopolitica",
+      "score": 111,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Iran-Usa, spiragli di tregua. Verso (breve) riapertura di Hormuz. Intanto crollano gli utili di Ryanair - Quotidiano Nazionale",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQm52cTBMMHRMa3F3U20zSXNCNW12R0Y5WjRFYVRzRjVzLW9IV3o3RndZVEw1X0NhOWI1YVI1VHMxZE9JVUdwTmp6dVlYd3FMWVNPSVpXVG9RdGpRZWVaM0FIUHJ1Z0JpelVOV01vVTNnRDNqUU50WXphUmVWRnRFUA?oc=5",
+          "description": "Iran-Usa, spiragli di tregua. Verso (breve) riapertura di Hormuz. Intanto crollano gli utili di Ryanair Quotidiano Nazionale Iran, chi sono i due soldati Usa uccisi in Giordania: Trump promette vendetta Sky TG24 Rubio, controllo iraniano su Hormuz sarebbe precedente pericoloso ANSA Il cantiere sul mare: la Terrazza di Lignano Il Sole 24 ORE Trump rischia un conflitto permanente con l’Iran - Steven",
+          "pubDate": "Mon, 20 Jul 2026 19:58:22 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Iran, colpiti obiettivi in Bahrein e Kuwait, anche un data center di Amazon. Trump: \"Guerra totale\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQemZpbFEtYnpIRWhYS0lOd0x6bXdXcWp2NXZobUJweG51cHZNR3NmUm1BOU1uUWZNU1RXNEwweXFtdUJicVAzdml2clpwNF9oTjVxZldsa3llY2dTc3oxVHA3LXh1bndCMTdhMV9Fc29fOTRkSm9UdzBSZmFKd2lKME5qdVhJMUt6N3h4clZVaENKZXk0MTdaOTQtMkh1RE12a3ZBZ1UwSzRGM3ZQZHJF?oc=5",
+          "description": "Iran, colpiti obiettivi in Bahrein e Kuwait, anche un data center di Amazon. Trump: \"Guerra totale\" Tgcom24 Iran, la strategia della sete: attacchi ai dissalatori del Golfo la Repubblica Pasdaran, 'abbiamo distrutto un data center di Amazon in Bahrein' ANSA Teheran: colpiti target militari americani in Bahrein e Kuwait, distrutti data center Amazon La Stampa Kuwait e Bahrein sotto attacco di droni",
+          "pubDate": "Tue, 21 Jul 2026 22:10:55 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Andrew Burnham e lo sguardo al passato della Gran Bretagna: se la nostalgia diventa il motore della politica - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWFNIQzJVLWo1cW9lQ2JjWkgwaU9tOUxlQnUyNU00MFo3eHdWN1pwNGwtMjVjQUpwSFhjNjlzMnhDc054OVRKZ2JVaXVEWDZkcnU0aXBVYUY0VU1jczFxTng2d0tYNlRoRzlKWHRFd3FJVzE2N0lqb01SM1hVZEhvRF9ZQmZtWW51cDdPSW1ybVlEWmxkMUdob2ZPWDZIUW9paUpVWExRNk1jMmlMU2QteElJRzJuclZKZk56NVMwdlJJTm5Tb1dOYVYyalV1clVOczJpR1pSMjNNQ25hMVpFUGhrb9IB6AFBVV95cUxOejZRRVBfalcxUmd4LVM1QUlqQTloVUdNcGJlZ3lMMFlCVWJfRlZodDJpNTlDTUd0SGNCUzVqeUN3NVo3clVfRzQ3WmNFVDlCb0ZBdkFLME50b1FGcnRfS3ktSy1Jc0pfd2lIcVhVa01kRmMzZWg0U1I4TlNyMnBIdnZtdWJoWlZRTGR5Sm84djRoNHp4Ty11OW1MZkhRZ2dpU0tPZmVLZHpsXzFoR08wa1FST25hNDFUQWExUGQ1aWZQa0dMN1dONnlPcXZ0cjViWWJ4VkFHLVZhWWdiQlE5SUJnNVAyRk9a?oc=5",
+          "description": "Andrew Burnham e lo sguardo al passato della Gran Bretagna: se la nostalgia diventa il motore della politica Corriere della Sera Regno Unito, Burnham apre il nuovo governo con un piano contro il caro vita RaiNews Anche Larry The Cat è perplesso: il nuovo Primo Ministro del Regno Unito è il settimo «padrone» della sua vita Vanity Fair Italia Burnham telefona a Trump e Zelensky, fa sobbalzare i merc",
+          "pubDate": "Tue, 21 Jul 2026 08:48:04 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Gli Usa vogliono dazi del 10% su decine di Paesi, con un aumento del 50% sulle merci canadesi - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ0hBRWdHT1ltWmlVOWhTUllabExqQ1o5R2pJb3pSTVFLQ1VBWDA5YTAzV1lhSjBTeVhfdU94b2YtU05EbHNBS0NqYTF5eGhWd21DeGp2LU56RFd1X0djSjZ2Y3o4a2pnekZQQlZQRlhtV3pzQ1hPNmlnMEFuakVYZktoTUk1Z3BvMDl0c0Z6dlotUngzLWNOZl9QaXBZUVdoOXRVaU4ydGNkRnZkcXlza0hB?oc=5",
+          "description": "Gli Usa vogliono dazi del 10% su decine di Paesi, con un aumento del 50% sulle merci canadesi Il Sole 24 ORE Trump di nuovo alla guerra commerciale, in vista nuovi dazi per 60 Paesi RaiNews Messico-Usa, continua la revisione dell'accordo commerciale nordamericano ANSA Gli Usa rilanciano l’offensiva dazi. La Ue spera di essere risparmiata la Repubblica USA, dopo i dazi al 50% sul Canada in arrivo n",
+          "pubDate": "Tue, 21 Jul 2026 19:57:31 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Iran threatens retaliation as Trump issues stark warning: 'We'll hit nuclear site' - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYUQ0YUE0RkJQa1lJYzk3WG4yLVM1TlNFZ2VUNEhGLU1TUUJvMDFiTWpYSFZNek5BNW9CWHJqcVJDS0owdHVtVDdiVTBMelhIdTBEYnlXUV9yNXd0VDhSUTB4N1hkOFVSbWVlZkZSLUhVWDhsQkhPOUtTNmFQLW0yTS1ROFQ2UQ?oc=5",
+          "description": "Iran threatens retaliation as Trump issues stark warning: 'We'll hit nuclear site' Fox News With His Latest Threats, Trump Signals to Iran That He Is Willing to Escalate The New York Times Exclusive | Israel Believes Iran Moved Nuclear Centrifuges Into Pickaxe Mountain WSJ Iran war updates: Trump threatens ‘heavy attacks’ on Pickaxe Mountain Al Jazeera Trump vows U.S. will soon bomb Iran's Pickaxe",
+          "pubDate": "Tue, 21 Jul 2026 22:16:49 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "nuova",
+      "n_items": 11,
+      "n_sources": 7,
+      "category": "tech-ai",
+      "score": 83,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Maxi-grandine, paura sull'A13 con auto distrutte e feriti: «Sembrava un bombardamento» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPN3Q4WERpOGtfWjJhampRT3ctY1otMXNXT3hrY2VNYnhpeFRaWUtrQTM2aWllaGV5ZEM1NTFmNTFfOG9zeFJvVFZRWWhFTXVTdDNKRWpwTkU2UFR6UkJERW5HNlpoVHhVV2VwMXUxVkR0MnhFcllmRThHMFZHSDJRTEhRbjIwd3NHWWhZX05wU2x5NTRIa0c5NHRYbzdvNVNzSVJqMURNc0FtbmtKOHJrcEJmOEtHQmN0cUliekxMaXRfc1ZHS0hsQ2FmXzVSeE5EeDE1S1dqSnRFTW40dmU1VTJHWlktaXBIejc3ZHBEQjlqdjhxNGfSAfsBQVVfeXFMTWx6aEcwdm5UQjdUYWZKazZ5dTZJeFdUZDRFS0RjSGNfRHE5b2pCMTc0LUpFTDlRd3BTaVlEM3ZVTTFiSjc0N0dMZFI0THFXOHB1M21jbGVfLXVKc0dpbENCVkFoSEdHdGZscjI2SHlZYTNLZ2NIcV9RUFF5ajJOcEhfbkJmSkNJY1FHYV80Qk5nVFBua1U1LVdITWlTWFVSVEZwM3d1Y1pBTWoyTkRmejR5SWhFZG01SnpXTGlEVTROTUpLczd1ekc3NnMxRXZGQ1gwd24wQjJTZHhfQ0hnZzhRNDlVNUcxY1ZSMUVJSC1WU2F0Mmk5aTZXVms?oc=5",
+          "description": "Maxi-grandine, paura sull'A13 con auto distrutte e feriti: «Sembrava un bombardamento» Corriere della Sera Maltempo senza tregua. Tetti scoperchiati. Perforati i lucernari Il Resto del Carlino MALTEMPO, NUOVA ONDATA SU FERRARA: LA GRANDINE COLPISCE LE FRAZIONI E L'AREA SUD DELLA CITTÀ. SINDACO FABBRI IN SOPRALLUOGO NELLE ZONE PIÙ COLPITE. DANNI INGENTI ANCHE AL MONDO AGRICOLO (foto) Cronaca Comune",
+          "pubDate": "Tue, 21 Jul 2026 20:30:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa-Iran, le notizie in diretta |Esplosioni nella notte. «Partita l'undicesima notte di raid». Hegseth chiede «con urgenza» 67 miliardi al Congresso - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZTdjNkhXWVhrT3B5R01NRVp4Uk9ZTnhmVUFXWkJfSDlzanNYQ2p3eVZVNW5LUUhaQ0tQZl9TNDB2aFEzRVp0RWItekJ1bVpiMVpyVDFEaFJldnBYMVBya09lb1FaT2l3UHk0WEQyejB0M003bERpajRwUzBwXzdScEZORVl0ZzgxdUhiQ0JXRdIBlAFBVV95cUxPLWNiSXdCblpvdkRjMEs0WFh2dXdjTWNUWDdHVHdwSnduMncwWVRDWVo2WmhfY0JpMk9TYjJGblRTSzZTYTJWN2FsWVZ3eUJranlTQkJzaTFPTnQ2R0J2RXowd3NSSnhLcmNkLXVTNm1VTlVtLWVsRFo3alJJVnJZaVU4bWNZaF9QTVZNdEZtSGh6RGFY?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta |Esplosioni nella notte. «Partita l'undicesima notte di raid». Hegseth chiede «con urgenza» 67 miliardi al Congresso Corriere della Sera 15 milioni di residenti sentono esplosioni mentre il conflitto entra in una nuova fase pericolosa upday News",
+          "pubDate": "Wed, 22 Jul 2026 03:28:02 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Usa-Iran, le notizie in diretta |Esplosioni anche a Teheran. «Partita l'undicesima notte di raid». Mamdani: «Non posso arrestare Netanyahu» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZTdjNkhXWVhrT3B5R01NRVp4Uk9ZTnhmVUFXWkJfSDlzanNYQ2p3eVZVNW5LUUhaQ0tQZl9TNDB2aFEzRVp0RWItekJ1bVpiMVpyVDFEaFJldnBYMVBya09lb1FaT2l3UHk0WEQyejB0M003bERpajRwUzBwXzdScEZORVl0ZzgxdUhiQ0JXRdIBlAFBVV95cUxPLWNiSXdCblpvdkRjMEs0WFh2dXdjTWNUWDdHVHdwSnduMncwWVRDWVo2WmhfY0JpMk9TYjJGblRTSzZTYTJWN2FsWVZ3eUJranlTQkJzaTFPTnQ2R0J2RXowd3NSSnhLcmNkLXVTNm1VTlVtLWVsRFo3alJJVnJZaVU4bWNZaF9QTVZNdEZtSGh6RGFY?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta |Esplosioni anche a Teheran. «Partita l'undicesima notte di raid». Mamdani: «Non posso arrestare Netanyahu» Corriere della Sera 15 milioni di residenti sentono esplosioni mentre il conflitto entra in una nuova fase pericolosa upday News",
+          "pubDate": "Wed, 22 Jul 2026 03:28:02 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Gli \"Scarafaggi\" travolgono Nuova Delhi, la Generazione Z sfida il governo Modi - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWnVvOUk5Y05qNFZqUVVnREZiU0RSdTFMcDR4c1pKX1Nwak5PT0U0anhFdUJVMTJkQXlTQ2JVWVZpWmU1RVVHOHhId01RNnRSNmktMnRoM0pKbkpOOUVUckhwWjlpelJ6VkIzQzRRQS1mZGxOZGlsUWtpeEpXSU8zMl9sSzNock81UG1RX2syeElMX3Y0WExjc09aYzFWUzE5ZUNXcUNBMVhBVVdJQU9MVmR4NVhEdU9WVGh1eHBmRUhOM0Zkc0Y0aEFyTy1oV3h0X3ZiNUF0LUFTbWZyOFFEWW1IOF8wbngyZkRsX0FmczFvTktiTEY00gH8AUFVX3lxTE1BRXJkNnBHMFlKREFxN1ZIQ3hoWUttVkMteTNWUGxudGlNYVBEX1NDbGJuVlRMVXR6UkcwWHRMaUx1R2Fqc3ZJQUw0TzloeWpzTGUyOHFJcHFvRXZCRmtFUDBKXzZZSFVnUTJIeW5hMEo5clpGSnQtMGRXSXJ4WV9yUEZlNWZ5QW9BOXFtSExvMjB0ZVNITWRDakV6WlYwb245RHUybEoxc1I4VmNLeHF3NW45elByTTVqUzBjMUNZTmpuR0NuVUkwTVEzRUsyU2xDVVRwRlpYTVUzRFdRbDZpS2tlVnFHUFlSU0VjNlBKTXFoVGdwNHhVVWM2Zw?oc=5",
+          "description": "Gli \"Scarafaggi\" travolgono Nuova Delhi, la Generazione Z sfida il governo Modi RaiNews La grande protesta a New Delhi organizzata dal Partito popolare degli scarafaggi Il Post Media, Rahul Gandhi fermato dalla polizia dopo le proteste ANSA \"Radio3 mondo\" Rai.it Gli “scarafaggi” della Gen Z all’assalto dell’India di Modi: “Non ci inginocchiamo più” la Repubblica",
+          "pubDate": "Tue, 21 Jul 2026 00:46:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "La moglie di Roggero riapre la gioielleria, 'siamo a rischio'",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/la-difesa-di-roggero-reitera-listanza-di-differimento-della-pena-al-tribunale-di-sorveglianza-di-milano_b8c78b1b-c0be-45a4-bcdf-3090f3bd6d18.html",
+          "description": "Nuova richiesta di differimento della pena. Salvini insiste: 'Fuori dal carcere'",
+          "pubDate": "Tue, 21 Jul 2026 20:41:10 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "after",
+      "n_items": 15,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 81,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Zelenskyy fires Ukraine’s army chief and offers Fedorov ‘prominent position’ - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMzhOY2FHNFU5M2daTVBxNXJBWU9nR2NpcjlMekpFYWJfdTVNV3NybEJDMFA5c0tudVhzMkdaTXRzY2hPQmx0UzdBa1BRQVNaWDNuemNsSFJrSG41eVZQYWNlOG5Qc0M0S0lvQUc4S2RNODBySW5NeXg5M2Z6WEw5alFzSDFvS3FoQl9HNDFUQXRBcnI2U2gwS0xwYVlWRUs0NnhsTzZWTzJUS0dHTG5yMGNMV3g3VzUyODJLTlUxVnY?oc=5",
+          "description": "Zelenskyy fires Ukraine’s army chief and offers Fedorov ‘prominent position’ The Guardian Zelensky sacks Ukraine’s military chief following widespread protests CNN Mykhailo Drapatyi: What to Know About Ukraine’s New Top General The New York Times Ukraine’s Zelenskyy fires his commander in chief after protests and major rift NBC News The Ukrainian General at the Root of the Latest Protests Against ",
+          "pubDate": "Wed, 22 Jul 2026 01:31:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "House votes to extend government funding, aiming to avoid an election year shutdown - NPR",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWnl1XzltcUNETUg3SEVUUVBnVno4OUxWVFJvYzFVcmVfblBydFdFTUdMY3VVbDNpTEZWcU95OTJlRTZCV1owTG1EdTE1ZG9GSFBnYTdzV21WYWItcnp1bFM5SkhueF9Rb1lvazFaQmYxcGtySG1WNEdENG00NFN1MzNOWmNBb0NBeGs4SkVVZ0ZUTzV0U1FqT1pkY2s?oc=5",
+          "description": "House votes to extend government funding, aiming to avoid an election year shutdown NPR House passes bill to fund the government until after midterm elections The Washington Post House Narrowly Passes Stopgap Spending Bill, but Shutdown Fight Looms The New York Times Thune to put stopgap funding bill on Senate floor before August break Politico House passes spending bill to head off government shu",
+          "pubDate": "Wed, 22 Jul 2026 02:20:15 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Carney says he and Trump will intensify trade negotiations after US imposes 50% tariffs - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPamlLODdLbWZCMXo4WjYxRXg0b0pQdlV2Q1ZLOHM2MFVPanRjb1BvSTdMVHpDVHZRYVJyX1FaeWRZVXNDMkRySUw5MzducnE3R3NHQ1lpRzFFd2p5OVRiT2h0Y0w5bENaMHBtY0xmTlJTWHRQaEV6UnFwcVRXOWdzeTZVRUhNVTVzQkNvVmtZajBIMTQwaWt1bWwtZVc?oc=5",
+          "description": "Carney says he and Trump will intensify trade negotiations after US imposes 50% tariffs AP News Trump’s Canada tariff leaves Maine Republicans scrambling for distance Politico Trump imposes 50% tariffs on Canadian goods NPR Trump Escalates Canada Tariffs as Mark Carney Holds Firm The New York Times Carney says he will intensify trade talks with Trump; most premiers pledge to keep US alcohol bans R",
+          "pubDate": "Wed, 22 Jul 2026 00:23:00 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+          "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+          "description": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
+          "pubDate": "Tue, 21 Jul 2026 23:59:34 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+          "link": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+          "description": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
+          "pubDate": "Tue, 21 Jul 2026 18:07:34 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "media",
+      "n_items": 9,
+      "n_sources": 8,
+      "category": "tech-ai",
+      "score": 78,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Gli \"Scarafaggi\" travolgono Nuova Delhi, la Generazione Z sfida il governo Modi - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWnVvOUk5Y05qNFZqUVVnREZiU0RSdTFMcDR4c1pKX1Nwak5PT0U0anhFdUJVMTJkQXlTQ2JVWVZpWmU1RVVHOHhId01RNnRSNmktMnRoM0pKbkpOOUVUckhwWjlpelJ6VkIzQzRRQS1mZGxOZGlsUWtpeEpXSU8zMl9sSzNock81UG1RX2syeElMX3Y0WExjc09aYzFWUzE5ZUNXcUNBMVhBVVdJQU9MVmR4NVhEdU9WVGh1eHBmRUhOM0Zkc0Y0aEFyTy1oV3h0X3ZiNUF0LUFTbWZyOFFEWW1IOF8wbngyZkRsX0FmczFvTktiTEY00gH8AUFVX3lxTE1BRXJkNnBHMFlKREFxN1ZIQ3hoWUttVkMteTNWUGxudGlNYVBEX1NDbGJuVlRMVXR6UkcwWHRMaUx1R2Fqc3ZJQUw0TzloeWpzTGUyOHFJcHFvRXZCRmtFUDBKXzZZSFVnUTJIeW5hMEo5clpGSnQtMGRXSXJ4WV9yUEZlNWZ5QW9BOXFtSExvMjB0ZVNITWRDakV6WlYwb245RHUybEoxc1I4VmNLeHF3NW45elByTTVqUzBjMUNZTmpuR0NuVUkwTVEzRUsyU2xDVVRwRlpYTVUzRFdRbDZpS2tlVnFHUFlSU0VjNlBKTXFoVGdwNHhVVWM2Zw?oc=5",
+          "description": "Gli \"Scarafaggi\" travolgono Nuova Delhi, la Generazione Z sfida il governo Modi RaiNews La grande protesta a New Delhi organizzata dal Partito popolare degli scarafaggi Il Post Media, Rahul Gandhi fermato dalla polizia dopo le proteste ANSA \"Radio3 mondo\" Rai.it Gli “scarafaggi” della Gen Z all’assalto dell’India di Modi: “Non ci inginocchiamo più” la Repubblica",
+          "pubDate": "Tue, 21 Jul 2026 00:46:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "US attacks Iran for 11th consecutive night - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVG9iYmRIcFFxcEZhd1dOd1VXdFlmRFozbWFuMWR1YVptOG03UUk2VkdhcEdLN29PUENuSUZMeDNNNVdHb1FEcGF6RVFPU1NabWx2QWRWcEFqQm5FQ2t4YUhlODAtOFo4dVhUUGZnZW1RNWRtUGVTNE5PTkZjTGNlbWJqejJCajV6VWl3NXV2SdIBlAFBVV95cUxOX1J5QUlCV1Y1aXAycjhJT3gtMFVQZDAtdE1JT0FpSlEtNlJzN2JfaTFCMDR6UGZMcEk0bVdFZ2VsejlhRlhiWnpsdVQ3WTVmOHZOSllmY192Z1VvSzgwWUlDOWY2MGhZbkF6Q2lhemFnRXU4dUNBdUFfdWNVc2dPVmhmckJDM1BIbVR2eVFrejQ2NWZF?oc=5",
+          "description": "US attacks Iran for 11th consecutive night Al Jazeera US military completes 11th night of strikes on Iran as attacks overshadow diplomacy AP News U.S. strikes Iran and Houthis threaten Saudi Arabia shipping as mediators push 10-day ceasefire CNBC Iranians struggle to get by amid US war and domestic woes Al Jazeera Trump weighs Iran war expansion as fresh US strikes target Hormuz shipping threats F",
+          "pubDate": "Wed, 22 Jul 2026 02:56:53 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Media, 'Trump vuole Infantino come segretario generale dell'Onu'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/22/media-trump-vuole-infantino-come-segretario-generale-dellonu_883b8ff2-3ecd-4983-abbd-6931037b375b.html",
+          "description": "Nyp, convinto che sia rispettato da tutti",
+          "pubDate": "Wed, 22 Jul 2026 02:32:21 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+          "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
+          "description": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
+          "pubDate": "Mon, 20 Jul 2026 21:30:19 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "France passes law banning under-15s from social media",
+          "link": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
+          "description": "The law will require social media platforms in France to verify all users age from January.",
+          "pubDate": "Wed, 22 Jul 2026 03:50:55 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "luglio",
+      "n_items": 13,
+      "n_sources": 5,
+      "category": "economia",
+      "score": 71,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Maltempo, vento e grandine sul Vicentino. In Altopiano strade imbiancate / VIDEO - Il Giornale di Vicenza",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUGc1T3B6angxTmtrS1AxbEdham8wWDk5eXpFUm5FZTlVZFlEeHY3cUo3Y3IzLXVpOG9jaVNEVDRXYXU5N1d2Uk1FTFQtelNHSEF2cVpiTllpTTVlaVlFbGZwUUJ2UEFiRm1sXzBsZjVDM3IxNTZTMjVVTUluZHMxcTdwcERsQ3R1UVJveUF4cDlXMFNfdFoxbWotTkN0QmNRazEzMUxiNTBBOWRNcUhUeXJLSkNfOEJ2MENOZmZRR2JKaWNDT2hfNDJqcXVVdVROdVpXMdIB2gFBVV95cUxPQlJYUFNnZWVrLS04R1RUMVNaY0ZCZDJPWVRSMEVpM3hDM3lJSUpoZGg3YmdybjNJQ1F3WGxBdmlSLS1uYm50RkZJMFhyU1BKU1VIeENCR09ob0F1YjZRUGlNTkotZ3FiUE9OU21Xd09XVkpjalNzUkxFbXl6Smd4ZG1VUXppWU42N3lZWkMyOXI2Rk1qRlhMcXd3MFJaRWI2Y0ZsYzJTV1FkZ21uYUE0YUx5ZUJZMlFBM0ZOYWdna3VIWHkzanBpbWlzQ1pPdVdzbF9xazBlRUlSdw?oc=5",
+          "description": "Maltempo, vento e grandine sul Vicentino. In Altopiano strade imbiancate / VIDEO Il Giornale di Vicenza Domani allerta gialla in Veneto per temporali ANSA Maltempo, per martedì previsti temporali e grandinate VeneziaToday Maltempo, allerta gialla anche a Vicenza: attesi temporali intensi e possibili grandinate VicenzaToday Meteo Veneto per martedì 21 luglio: temporali (con allerta gialla) e schiar",
+          "pubDate": "Tue, 21 Jul 2026 18:31:25 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Meteo, dopo il caldo si attendono forti temporali e rischio frane: diramata una allerta 'arancione' - CesenaToday",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTGRQaHZsQ1k3TmZKZHlRTGZMUV84b1lhT2c2T1ByTmt4S0M3YUhQUWFzY09tVDF1QklKZUtTY29GSmNXSThrd0FGN2FJVkEwbUxoTjUxVjZqeGI3akRURHIwNjQ2RHZCdXJyd0NBSWI2ZnU0VzltSmQwTTBLVjVCbjktc093SXUxUHNzaERrTVZtZUFVbC0wUmQzV2g4X3NXUXFENE9jaVVLbVdobWJybXVvTkQ0TVZuTGVZTkdhTTFESjVpSWN5aVFfcmxDdw?oc=5",
+          "description": "Meteo, dopo il caldo si attendono forti temporali e rischio frane: diramata una allerta 'arancione' CesenaToday Temporali e rischio idrogeologico, codice giallo nella Toscana centro nord martedì 21 luglio Toscana Notizie Forti temporali attesi in Emilia-Romagna, allerta arancione ed eventi annullati ANSA Maltempo, temporali e grandine in Emilia-Romagna: parchi chiusi a Bologna – la diretta la Repu",
+          "pubDate": "Tue, 21 Jul 2026 10:36:26 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Le Borse di oggi, 21 luglio. Wall Street: +6% Spacex dopo 7 cali di fila - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNGV0a1FHN0p0bzFBS0xnOGxHM2xrVjFpTnd5LW9FaWU2cWh4RzlRS0M1ZWVmQ1lDdEkxdFFER0YxMU9YblZwa1h2RENzbjJyZHRrbjVuS0N2MklCYW85d05Cb18xRmhCZXV2ZzVjSmFLOXA3RkkwcGwwbFJwSEg0aGVhQnAwbWc4Mm9ITzQ1N0FDdkVPUnF2cW1idG9XUV9JS2FTZU82aw?oc=5",
+          "description": "Le Borse di oggi, 21 luglio. Wall Street: +6% Spacex dopo 7 cali di fila la Repubblica Limita le perdite Wall Street in attesa delle trimestrali tech Borsa Italiana Si intensificano gli acquisti al giro di boa di Wall Street ANSA Wall Street: apre in rialzo (S&P +0,6%) con buona stagione trimestrali (RCO) Il Sole 24 ORE La diretta da Wall Street | Borse Usa chiudono positive: Dow Jones +0,74%, Nas",
+          "pubDate": "Tue, 21 Jul 2026 07:22:39 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "OPAS Poste-TIM, l’andamento delle adesioni al 21 luglio 2026 - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcjFvVUVKQ2pvMVg1UFhEbjRoMThWOTNDWGZCdTZ6RTFaSnB6VW5Kakg4bUJpMHpCRVl5NzJsR3pZSnFEbEwyYmJxN20xTGpRbVlUTkpjczM2SEE4TnZIVUk2bTRyOFIybEZaSlRRT3VrWlNIUWZMUF9WUFdyU0xGNGM2dG5FMWIyNWZhMzZWWHpNT2NwMzc4WFd6aWJlOXJzbmdXOWZaVTd1UQ?oc=5",
+          "description": "OPAS Poste-TIM, l’andamento delle adesioni al 21 luglio 2026 SoldiOnline.it Poste, parte l’offerta su Telecom. Del Fante assicura: “Il marchio Tim non sparirà” la Repubblica Borse invariate, giù Poste e Tim con l'Opas al via RaiNews Tutte le incognite sulla promessa di nozze tra Poste e Tim Domani Ecco perché Poste Italiane vuole prendere tutta Tim e ritirarla da Piazza Affari Milano Finanza",
+          "pubDate": "Tue, 21 Jul 2026 17:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Transizione 5.0: firmato il decreto direttoriale, al via le comunicazioni di conferma degli investimenti - mimit.gov.it",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdTJUZXlveUE4em51V2toSEFoNWEyQkRMc1dnVzRyeGN6cFZIZkRHU1BrWmE1ejBtbGh0SlJaMEt3bTlpUUdCV0hHcXNlSkhaVlptN2ZGSTFNUnlzZk1zSDhXYnlaaUg1RDd3dDVuMEZ6NFFYOTJwWllmMTdLTTFIdGZGNGY5bXJ5ZlZmSU91UW50MWJjaHAwY1l6V1I1U0VpakFhWkY2VlYxUWQzTlE1dVpCRVVaVnJpQmNJT1dwY1d2aGxKcUFDWnRvRmlubEVOTnpPUW1ucUQzdlc0aEE?oc=5",
+          "description": "Transizione 5.0: firmato il decreto direttoriale, al via le comunicazioni di conferma degli investimenti mimit.gov.it Da oggi le comunicazioni di conferma per l’iper-ammortamento Eutekne.info Iperammortamento: invio comunicazioni conferma investimenti dal 21 luglio MySolution Transizione 5.0: Mimit, firmato decreto, al via comunicazioni conferma investimenti Il Sole 24 ORE Transizione 5.0: via all",
+          "pubDate": "Mon, 20 Jul 2026 16:55:17 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "milano",
+      "n_items": 9,
+      "n_sources": 5,
+      "category": "economia",
+      "score": 51,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Caso Roggero, istanza di rinvio pena anche a Milano. Anm: \"Insulti contro toghe\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdElfa1MzUjVPSzNsVVRhbkZ4bVptamdVVXVwVWxGOGljNXNYS3BodEp5aEFrYlFLY3pmYkh3RTRMdElHZHRfdjVXdTJoM1ZVSkdSOEhEQTJNSHBSYUNkTjk5YWJBMEFuRGZZYjRQZ00yN1lOWUd4TXJEWFo4dHhsYVlHbw?oc=5",
+          "description": "Caso Roggero, istanza di rinvio pena anche a Milano. Anm: \"Insulti contro toghe\" Sky TG24 Caso Roggero, allarme dell’Anm: “Toghe minacciate”. La difesa insiste sul rinvio della pena la Repubblica La moglie di Roggero riapre la gioielleria, 'siamo a rischio' ANSA “Grazia per Roggero”: ma la Lega si “dimentica” di raccogliere le firme dei propri parlamentari Il Fatto Quotidiano L'Anm sul caso Rogger",
+          "pubDate": "Tue, 21 Jul 2026 21:40:52 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Rivista Italiana Difesa - shownews - Leonardo, firmato il contratto per la fornitura di 12 M-346F all’Indonesia - Stift Melk",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYzlvSU9RV0Y0dXdBWWpnczFBcmx3TzdGWWN0YUlncUo2N2U1ZWNmdlJSSFYtUFlRUjcyQ0tTUlNOMWNNWHdoY0dUVEozcjBvQS1SakUzajNsdkR1U2Vqam1keHhWWUt1bzl2MFhlb0xjekp5V1JUM1VzNG5wcU9peGVQQzA3b3JsMzRPMzNabk9ITHpRYlNab01VdVF4UDBYNGstZGg3bkZsVzlJT3FuQjlR?oc=5",
+          "description": "Rivista Italiana Difesa - shownews - Leonardo, firmato il contratto per la fornitura di 12 M-346F all’Indonesia Stift Melk Mariani, per Leonardo 'basi solide, ora la priorità è accelerare' ANSA Leonardo vuole accelerare: “Lavorare con Kiev sui droni. Avanti il Michelangelo Dome” La Stampa Aerospazio, decolla l’export della Lombardia (+47%) e punta sulla mobilità del futuro Milano Finanza Farnborou",
+          "pubDate": "Tue, 21 Jul 2026 18:58:18 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "'Milano, Roma e Torino tra le migliori città al mondo per gli studenti universitari'",
+          "link": "https://www.ansa.it/canale_legalita_scuola/notizie/mur/2026/07/21/milano-roma-e-torino-tra-migliori-citta-al-mondo-per-studenti-universitari_2edc3798-0e1e-4b13-b4e4-9a170b00bf7c.html",
+          "description": "Il ranking Qs, il capoluogo lombardo al primo posto tra le italiane",
+          "pubDate": "Tue, 21 Jul 2026 17:20:30 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "OPAS Poste-TIM, l’andamento delle adesioni al 21 luglio 2026 - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcjFvVUVKQ2pvMVg1UFhEbjRoMThWOTNDWGZCdTZ6RTFaSnB6VW5Kakg4bUJpMHpCRVl5NzJsR3pZSnFEbEwyYmJxN20xTGpRbVlUTkpjczM2SEE4TnZIVUk2bTRyOFIybEZaSlRRT3VrWlNIUWZMUF9WUFdyU0xGNGM2dG5FMWIyNWZhMzZWWHpNT2NwMzc4WFd6aWJlOXJzbmdXOWZaVTd1UQ?oc=5",
+          "description": "OPAS Poste-TIM, l’andamento delle adesioni al 21 luglio 2026 SoldiOnline.it Poste, parte l’offerta su Telecom. Del Fante assicura: “Il marchio Tim non sparirà” la Repubblica Borse invariate, giù Poste e Tim con l'Opas al via RaiNews Tutte le incognite sulla promessa di nozze tra Poste e Tim Domani Ecco perché Poste Italiane vuole prendere tutta Tim e ritirarla da Piazza Affari Milano Finanza",
+          "pubDate": "Tue, 21 Jul 2026 17:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse, riparte il tech. A Milano (+0,8%) balzo di Prysmian. Wall Street chiude positiva - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbUJVaUN2X3ItMkdZZnl1cnhHVEhDbUpqcFNQR0RtOUVYRHBpWk9wYlNZMXY2a2hXakJTTFV2SGQ3eXJzay1CVklvejFsemVaZVdjZVo5MjlBWnFSVHlERHdUTEtLN2QxRmNvOWh2MllkZFN5cU94UmtxVHRncmstaA?oc=5",
+          "description": "Borse, riparte il tech. A Milano (+0,8%) balzo di Prysmian. Wall Street chiude positiva Il Sole 24 ORE Prudenti i Mercati del Vecchio Continente Borsa Italiana Borse positive, il greggio risale RaiNews Borsa: l'Europa chiude in rialzo con il rally dei produttori di chip ANSA Borse oggi in diretta | Ftse Mib chiude a +0,8% a 52.285 punti trainato da StM e Prysmian. Btp decennale oltre il 4% Milano ",
+          "pubDate": "Tue, 21 Jul 2026 20:43:42 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "guerra",
+      "n_items": 11,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "score": 50,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Le proteste in Ucraina ora sono contro il generale Oleksandr Syrsky - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85bHR1dl90amdMTmpyamdXWkxnZnFraU1IZjM2aUN2NnVpMEhTeHZMSGJqbWdiVGVIMXhHeERPQ0MzUVljb0RGYmZqUFhhMUNMaTlrZTk4QXBjYW5DWEZPQy1TQ0txUQ?oc=5",
+          "description": "Le proteste in Ucraina ora sono contro il generale Oleksandr Syrsky Il Post Zelensky cambia i vertici militari, silurato anche il capo delle forze armate Oleksandr Syrsky - Terremoto ai vertici militari di Kiev, il punto RaiNews Guerra Ucraina-Russia, le notizie in diretta. Zelensky rimuove il comandante delle forze armate Syrskyi, l'esercito a Drapaty Corriere della Sera Zelensky ci ripensa e ced",
+          "pubDate": "Mon, 20 Jul 2026 15:39:48 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Iran, colpiti obiettivi in Bahrein e Kuwait, anche un data center di Amazon. Trump: \"Guerra totale\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQemZpbFEtYnpIRWhYS0lOd0x6bXdXcWp2NXZobUJweG51cHZNR3NmUm1BOU1uUWZNU1RXNEwweXFtdUJicVAzdml2clpwNF9oTjVxZldsa3llY2dTc3oxVHA3LXh1bndCMTdhMV9Fc29fOTRkSm9UdzBSZmFKd2lKME5qdVhJMUt6N3h4clZVaENKZXk0MTdaOTQtMkh1RE12a3ZBZ1UwSzRGM3ZQZHJF?oc=5",
+          "description": "Iran, colpiti obiettivi in Bahrein e Kuwait, anche un data center di Amazon. Trump: \"Guerra totale\" Tgcom24 Iran, la strategia della sete: attacchi ai dissalatori del Golfo la Repubblica Pasdaran, 'abbiamo distrutto un data center di Amazon in Bahrein' ANSA Teheran: colpiti target militari americani in Bahrein e Kuwait, distrutti data center Amazon La Stampa Kuwait e Bahrein sotto attacco di droni",
+          "pubDate": "Tue, 21 Jul 2026 22:10:55 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa-Iran, le notizie in diretta |Esplosioni nella notte. «Partita l'undicesima notte di raid». Hegseth chiede «con urgenza» 67 miliardi al Congresso - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZTdjNkhXWVhrT3B5R01NRVp4Uk9ZTnhmVUFXWkJfSDlzanNYQ2p3eVZVNW5LUUhaQ0tQZl9TNDB2aFEzRVp0RWItekJ1bVpiMVpyVDFEaFJldnBYMVBya09lb1FaT2l3UHk0WEQyejB0M003bERpajRwUzBwXzdScEZORVl0ZzgxdUhiQ0JXRdIBlAFBVV95cUxPLWNiSXdCblpvdkRjMEs0WFh2dXdjTWNUWDdHVHdwSnduMncwWVRDWVo2WmhfY0JpMk9TYjJGblRTSzZTYTJWN2FsWVZ3eUJranlTQkJzaTFPTnQ2R0J2RXowd3NSSnhLcmNkLXVTNm1VTlVtLWVsRFo3alJJVnJZaVU4bWNZaF9QTVZNdEZtSGh6RGFY?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta |Esplosioni nella notte. «Partita l'undicesima notte di raid». Hegseth chiede «con urgenza» 67 miliardi al Congresso Corriere della Sera 15 milioni di residenti sentono esplosioni mentre il conflitto entra in una nuova fase pericolosa upday News",
+          "pubDate": "Wed, 22 Jul 2026 03:28:02 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Ucraina Russia, Zelensky rimuove Syrsky da capo delle forze armate - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMHlxWGFESFJqNFA3Vkg1VWpZbTg4UURmME5DRzg0Q05fR0lvS21uSjZLVG9BU2tFbHdHTmt5WGRmVFN6bWcweHR3RmRfMy16cFhhUXN5U21RRWJ4WHZGMFZOXzJ3YU4tMnFHVGVma3R6b0lKZ0JuWW5lUDJXQlNzS3pLWHQ1Umoy?oc=5",
+          "description": "Guerra Ucraina Russia, Zelensky rimuove Syrsky da capo delle forze armate Sky TG24 Zelensky cambia i vertici militari, silurato anche il capo delle forze armate Oleksandr Syrsky - Terremoto ai vertici militari di Kiev, il punto RaiNews Guerra Ucraina-Russia, le notizie in diretta. Zelensky rimuove il comandante delle forze armate Syrskyi, l'esercito a Drapaty Corriere della Sera Le proteste in Ucr",
+          "pubDate": "Tue, 21 Jul 2026 22:02:31 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Usa-Iran, le notizie in diretta |Esplosioni anche a Teheran. «Partita l'undicesima notte di raid». Mamdani: «Non posso arrestare Netanyahu» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZTdjNkhXWVhrT3B5R01NRVp4Uk9ZTnhmVUFXWkJfSDlzanNYQ2p3eVZVNW5LUUhaQ0tQZl9TNDB2aFEzRVp0RWItekJ1bVpiMVpyVDFEaFJldnBYMVBya09lb1FaT2l3UHk0WEQyejB0M003bERpajRwUzBwXzdScEZORVl0ZzgxdUhiQ0JXRdIBlAFBVV95cUxPLWNiSXdCblpvdkRjMEs0WFh2dXdjTWNUWDdHVHdwSnduMncwWVRDWVo2WmhfY0JpMk9TYjJGblRTSzZTYTJWN2FsWVZ3eUJranlTQkJzaTFPTnQ2R0J2RXowd3NSSnhLcmNkLXVTNm1VTlVtLWVsRFo3alJJVnJZaVU4bWNZaF9QTVZNdEZtSGh6RGFY?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta |Esplosioni anche a Teheran. «Partita l'undicesima notte di raid». Mamdani: «Non posso arrestare Netanyahu» Corriere della Sera 15 milioni di residenti sentono esplosioni mentre il conflitto entra in una nuova fase pericolosa upday News",
+          "pubDate": "Wed, 22 Jul 2026 03:28:02 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "zelensky",
+      "n_items": 7,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 48,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Le proteste in Ucraina ora sono contro il generale Oleksandr Syrsky - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85bHR1dl90amdMTmpyamdXWkxnZnFraU1IZjM2aUN2NnVpMEhTeHZMSGJqbWdiVGVIMXhHeERPQ0MzUVljb0RGYmZqUFhhMUNMaTlrZTk4QXBjYW5DWEZPQy1TQ0txUQ?oc=5",
+          "description": "Le proteste in Ucraina ora sono contro il generale Oleksandr Syrsky Il Post Zelensky cambia i vertici militari, silurato anche il capo delle forze armate Oleksandr Syrsky - Terremoto ai vertici militari di Kiev, il punto RaiNews Guerra Ucraina-Russia, le notizie in diretta. Zelensky rimuove il comandante delle forze armate Syrskyi, l'esercito a Drapaty Corriere della Sera Zelensky ci ripensa e ced",
+          "pubDate": "Mon, 20 Jul 2026 15:39:48 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Andrew Burnham e lo sguardo al passato della Gran Bretagna: se la nostalgia diventa il motore della politica - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWFNIQzJVLWo1cW9lQ2JjWkgwaU9tOUxlQnUyNU00MFo3eHdWN1pwNGwtMjVjQUpwSFhjNjlzMnhDc054OVRKZ2JVaXVEWDZkcnU0aXBVYUY0VU1jczFxTng2d0tYNlRoRzlKWHRFd3FJVzE2N0lqb01SM1hVZEhvRF9ZQmZtWW51cDdPSW1ybVlEWmxkMUdob2ZPWDZIUW9paUpVWExRNk1jMmlMU2QteElJRzJuclZKZk56NVMwdlJJTm5Tb1dOYVYyalV1clVOczJpR1pSMjNNQ25hMVpFUGhrb9IB6AFBVV95cUxOejZRRVBfalcxUmd4LVM1QUlqQTloVUdNcGJlZ3lMMFlCVWJfRlZodDJpNTlDTUd0SGNCUzVqeUN3NVo3clVfRzQ3WmNFVDlCb0ZBdkFLME50b1FGcnRfS3ktSy1Jc0pfd2lIcVhVa01kRmMzZWg0U1I4TlNyMnBIdnZtdWJoWlZRTGR5Sm84djRoNHp4Ty11OW1MZkhRZ2dpU0tPZmVLZHpsXzFoR08wa1FST25hNDFUQWExUGQ1aWZQa0dMN1dONnlPcXZ0cjViWWJ4VkFHLVZhWWdiQlE5SUJnNVAyRk9a?oc=5",
+          "description": "Andrew Burnham e lo sguardo al passato della Gran Bretagna: se la nostalgia diventa il motore della politica Corriere della Sera Regno Unito, Burnham apre il nuovo governo con un piano contro il caro vita RaiNews Anche Larry The Cat è perplesso: il nuovo Primo Ministro del Regno Unito è il settimo «padrone» della sua vita Vanity Fair Italia Burnham telefona a Trump e Zelensky, fa sobbalzare i merc",
+          "pubDate": "Tue, 21 Jul 2026 08:48:04 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Ucraina Russia, Zelensky rimuove Syrsky da capo delle forze armate - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMHlxWGFESFJqNFA3Vkg1VWpZbTg4UURmME5DRzg0Q05fR0lvS21uSjZLVG9BU2tFbHdHTmt5WGRmVFN6bWcweHR3RmRfMy16cFhhUXN5U21RRWJ4WHZGMFZOXzJ3YU4tMnFHVGVma3R6b0lKZ0JuWW5lUDJXQlNzS3pLWHQ1Umoy?oc=5",
+          "description": "Guerra Ucraina Russia, Zelensky rimuove Syrsky da capo delle forze armate Sky TG24 Zelensky cambia i vertici militari, silurato anche il capo delle forze armate Oleksandr Syrsky - Terremoto ai vertici militari di Kiev, il punto RaiNews Guerra Ucraina-Russia, le notizie in diretta. Zelensky rimuove il comandante delle forze armate Syrskyi, l'esercito a Drapaty Corriere della Sera Le proteste in Ucr",
+          "pubDate": "Tue, 21 Jul 2026 22:02:31 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Zelenskyy fires Ukraine’s army chief and offers Fedorov ‘prominent position’ - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMzhOY2FHNFU5M2daTVBxNXJBWU9nR2NpcjlMekpFYWJfdTVNV3NybEJDMFA5c0tudVhzMkdaTXRzY2hPQmx0UzdBa1BRQVNaWDNuemNsSFJrSG41eVZQYWNlOG5Qc0M0S0lvQUc4S2RNODBySW5NeXg5M2Z6WEw5alFzSDFvS3FoQl9HNDFUQXRBcnI2U2gwS0xwYVlWRUs0NnhsTzZWTzJUS0dHTG5yMGNMV3g3VzUyODJLTlUxVnY?oc=5",
+          "description": "Zelenskyy fires Ukraine’s army chief and offers Fedorov ‘prominent position’ The Guardian Zelensky sacks Ukraine’s military chief following widespread protests CNN Mykhailo Drapatyi: What to Know About Ukraine’s New Top General The New York Times Ukraine’s Zelenskyy fires his commander in chief after protests and major rift NBC News The Ukrainian General at the Root of the Latest Protests Against ",
+          "pubDate": "Wed, 22 Jul 2026 01:31:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Zelensky silura anche Syrsky, lo sostituisce con Drapatyi",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/21/zelensky-rimuove-syrsky-da-capo-delle-forze-armate-al-suo-posto-drapatyi_0cd2a931-8658-4d5e-96f8-544c31609a42.html",
+          "description": "Il presidente tenta di ricucire la crisi e di rispondere alle piazze mobilitate a sostegno di Fedorov",
+          "pubDate": "Tue, 21 Jul 2026 22:45:20 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "forze",
+      "n_items": 7,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 48,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Morto ammanettato dalla polizia a Bologna, i precedenti penali di Fakir: «Le condanne per droga e l'evasione dai domiciliari, poi dal 2006 l'indulto» - Corriere di Bologna",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOMmxRTUo4QjdndlJ4M0ZSdXFLZUZiN1BnWE9wZkJyVThvMk9oY05OLTRPeGZLQzFMcnFtdHkwcWVGT2RyX2NtemppcEdrUUhlNGtsc3dkblRQUnFkY2s3WWFQcmRBcERhQ3ZyZExiVE1zVVRhS0s2b3FybWdYZzlsOW9CNjRwQ1I3aFFseXBlMTZSNmhCc3V0SVJGTkJNU0c3cDJrVU1fc0M5NVhmM2dVa0tLbHAtMnVjcWNxV3NuZGhFS18wSnhoQ3NhYlBQZ2pSaTlxeUNmbnRpUWpSTWVwaDZ6MWN3Z0JtMk1Fc21QUmhhSElnMGVuaElpQjRtSG5saDNDVFREY3cyaGN3ekRSSDkwcUxDN2FkQXA0bXZWU3IwSUV6S1FFS3dIdUZ0NmlZZ2E5djFobko2eUNWSXBzYVpsR1JIaTV1MV9QSG1CeXJfY3JGa3fSAdsCQVVfeXFMTWhyUUpKeDQ5cWR2ei1seXYzd3psM0k2ZGk1NnNtcWh5NmtDUlJTdW80ZnRLdVQyMDV2UUdYOVplaDBPNXBucU1Hb0g4VEV3cHZTb3dBUklRcGxJTTNsdVNpaHZhNDJ0TzZBMDdtTnJtR3REWXNTSFEzRU5iVW45TF9nRld5WHJYSzBkN2pXUmtKbll4VG96azMycDN2Q01lU1hiTVNwMkE5UUIyUHlBZEhLQmFXT2V2Y1pyZ2xIaDFhRXR0V0NtNUlKQ2M1eVFzeVBjaUNvRHZKcmNicFhtMlB5Tk1YWkRWNWV0VzRnQ216bDJUU3FhRmFtNVlxb1d0em52dTE0eWhfQmtYTnBvVmlpaGhQcFRDalVnbmE3d2J0cE5tYjNHVVEyaDZrQWdGeUgya1JaWlF6Y2g0R2Jsb1Nwa1lhVkJPTWtXbmoycXNDeUZjbkhyOWZRSHM?oc=5",
+          "description": "Morto ammanettato dalla polizia a Bologna, i precedenti penali di Fakir: «Le condanne per droga e l'evasione dai domiciliari, poi dal 2006 l'indulto» Corriere di Bologna Meloni: 'A Bologna violenza inaccettabile contro le forze dell'ordine' ANSA Morte Fakir, indagini su agenti e operatori sanitari. Anselmo: “Perché nessuno lo ha soccorso?” la Repubblica Caso Fakir, il presidente del 118: \"Un medic",
+          "pubDate": "Tue, 21 Jul 2026 18:03:43 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Le proteste in Ucraina ora sono contro il generale Oleksandr Syrsky - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85bHR1dl90amdMTmpyamdXWkxnZnFraU1IZjM2aUN2NnVpMEhTeHZMSGJqbWdiVGVIMXhHeERPQ0MzUVljb0RGYmZqUFhhMUNMaTlrZTk4QXBjYW5DWEZPQy1TQ0txUQ?oc=5",
+          "description": "Le proteste in Ucraina ora sono contro il generale Oleksandr Syrsky Il Post Zelensky cambia i vertici militari, silurato anche il capo delle forze armate Oleksandr Syrsky - Terremoto ai vertici militari di Kiev, il punto RaiNews Guerra Ucraina-Russia, le notizie in diretta. Zelensky rimuove il comandante delle forze armate Syrskyi, l'esercito a Drapaty Corriere della Sera Zelensky ci ripensa e ced",
+          "pubDate": "Mon, 20 Jul 2026 15:39:48 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Ucraina Russia, Zelensky rimuove Syrsky da capo delle forze armate - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMHlxWGFESFJqNFA3Vkg1VWpZbTg4UURmME5DRzg0Q05fR0lvS21uSjZLVG9BU2tFbHdHTmt5WGRmVFN6bWcweHR3RmRfMy16cFhhUXN5U21RRWJ4WHZGMFZOXzJ3YU4tMnFHVGVma3R6b0lKZ0JuWW5lUDJXQlNzS3pLWHQ1Umoy?oc=5",
+          "description": "Guerra Ucraina Russia, Zelensky rimuove Syrsky da capo delle forze armate Sky TG24 Zelensky cambia i vertici militari, silurato anche il capo delle forze armate Oleksandr Syrsky - Terremoto ai vertici militari di Kiev, il punto RaiNews Guerra Ucraina-Russia, le notizie in diretta. Zelensky rimuove il comandante delle forze armate Syrskyi, l'esercito a Drapaty Corriere della Sera Le proteste in Ucr",
+          "pubDate": "Tue, 21 Jul 2026 22:02:31 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Meloni: 'A Bologna violenza inaccettabile contro le forze dell'ordine'",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/meloni-a-bologna-fatto-inaccettabile.-lepore-chiedere-la-verita-non-delegittima-le-divise_5e512a40-7ef6-47a1-8d8c-b364832957c4.html",
+          "description": "La presidente del Consiglio: 'Verità sulla morte di Fakir'. Schlein: 'Lo Stato ha fallito e proprio lo Stato deve fare piena luce'. Bufera sugli scontri. Lepore: 'Solo una piazza ci rappresenta'.",
+          "pubDate": "Tue, 21 Jul 2026 22:18:06 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Zelensky rimuove Syrsky da capo delle forze armate, al suo posto Drapatyi",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/21/zelensky-rimuove-syrsky-da-capo-delle-forze-armate-al-suo-posto-drapatyi_747a6c5c-d705-45dc-b7bf-79490b44dd8d.html",
+          "description": "Lo comunica in un messaggio su Telegram",
+          "pubDate": "Tue, 21 Jul 2026 21:58:05 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "europa",
+      "n_items": 7,
+      "n_sources": 4,
+      "category": "economia",
+      "score": 34,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Iran-Usa, conflitto esteso. E gli Houthi chiudono lo stretto di Bab el-Mandeb - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZVBaUElHOGhvVk5MbkQ2ejd2cmdfalVsYi1TM0QwMXp4VEoxYmM4cVo5QVVBeEswS0o4akRadlV4WG02c08zWF8yMDZVRVY2UWh5aEN6MDVISXFyRTNzRVdCWUVqbG9PQmEwdUJaamRkdmFkdkpzVVJrTmU3QTBVV2Flc2FnXy1DeVpuLURWNXNrRnJBeVo3UmR3SlNXQVN4Y0JSTHgtVlREOHNZY2ZENkNXaWdBaWRoSVowOWRJOENjWVRkMThRaTB1VjFmajR6ZlpobUtnb1BkaWpjNTFuM1Vn?oc=5",
+          "description": "Iran-Usa, conflitto esteso. E gli Houthi chiudono lo stretto di Bab el-Mandeb Il Fatto Quotidiano Si rischia il blocco di un altro stretto: quello di Bab el Mandeb Il Post L’esperto di sicurezza marittima: “Gli Houthi possono bloccare Suez e far male all’Europa” la Repubblica Bab el-Mandeb, la seconda trappola ISPI Gli huthi dello Yemen impongono un blocco navale all'Arabia Saudita e altre notizie",
+          "pubDate": "Mon, 20 Jul 2026 22:01:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse, riparte il tech. A Milano (+0,8%) balzo di Prysmian. Wall Street chiude positiva - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbUJVaUN2X3ItMkdZZnl1cnhHVEhDbUpqcFNQR0RtOUVYRHBpWk9wYlNZMXY2a2hXakJTTFV2SGQ3eXJzay1CVklvejFsemVaZVdjZVo5MjlBWnFSVHlERHdUTEtLN2QxRmNvOWh2MllkZFN5cU94UmtxVHRncmstaA?oc=5",
+          "description": "Borse, riparte il tech. A Milano (+0,8%) balzo di Prysmian. Wall Street chiude positiva Il Sole 24 ORE Prudenti i Mercati del Vecchio Continente Borsa Italiana Borse positive, il greggio risale RaiNews Borsa: l'Europa chiude in rialzo con il rally dei produttori di chip ANSA Borse oggi in diretta | Ftse Mib chiude a +0,8% a 52.285 punti trainato da StM e Prysmian. Btp decennale oltre il 4% Milano ",
+          "pubDate": "Tue, 21 Jul 2026 20:43:42 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Europa positiva guidata da Piazza Affari - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbjUxSjM5QldtTHpVcDFKUFAwVjFTdjZmRVp0RVl3SnJGVUZxR2dQdlVRd1FETjBkc0xZNGd2QndXRXhLNXpfX1lXNUVkN3JkLVJ1dm85WjJJMWZhaWZDa3ktWE02V3V3clUxM3cwRGZZeDRvcThTZ1dsc00yTjZIaVlMdW9GNDQ4TEs3RnNxWElOLXhXYUotYjNRZTdzbEFNUXB4OFFtQWV3cVJEQnAxcG5hTHlwMmVlN2FnQW9lTE02bVNPNkE?oc=5",
+          "description": "Europa positiva guidata da Piazza Affari Borsa Italiana Borse e petrolio in diretta oggi 21 luglio | Europa debole con le tensione Usa-Iran, corrono i listini asiatici. Greggio ancora in ribasso a 88 dollari Corriere della Sera Borsa: Milano chiude a +0,81%% con Stm e Prysmian in testa ANSA Le borse europee restano caute mentre gli investitori seguono la diplomazia in Medio Oriente e gli utili del",
+          "pubDate": "Tue, 21 Jul 2026 07:30:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: l'Europa chiude in rialzo con il rally dei produttori di chip",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/borsa-leuropa-chiude-in-rialzo-con-il-rally-dei-produttori-di-chip_a8d5f770-e5ee-473f-993e-e47f187284e3.html",
+          "description": "Francoforte +0,66%, Parigi +0,28%, Londra +0,58%",
+          "pubDate": "Tue, 21 Jul 2026 17:49:00 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: l'Europa avanti in cauto rialzo con lente su Ia e Medioriente",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/21/borsa-leuropa-avanti-in-cauto-rialzo-con-lente-su-ia-e-medioriente_b27a47ba-4add-41f8-863d-54520ae8f635.html",
+          "description": "Ancora in rialzo petrolio e gas. Il rendimento del decennale italiano sfiora il 4%",
+          "pubDate": "Tue, 21 Jul 2026 17:20:26 +0200"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "italia",
+      "n_items": 31,
+      "n_sources": 10,
+      "category": "tech-ai",
+      "score": 31.6,
+      "cooldown": true,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Allerta meteo, ondata di caldo: oggi 6 bollini rossi, arriva la tregua - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xTXdjUjhrMEpTU192X2ppcjQ2bUNudFlBek5OQVRqR29CSGYwRTNjLWx3Q1hjT21RVEQ0SXE2ZEpndDVJMzQyd0F1YVRzQVJWLVJJbC1OckZwVVc0VzZNOEpYUjMzTWNmVFdIekoxMk1BR211eF9tYkFrcw?oc=5",
+          "description": "Allerta meteo, ondata di caldo: oggi 6 bollini rossi, arriva la tregua Sky TG24 Fine della terza ondata di caldo in Italia: aria fresca norvegese e temporali in arrivo Il Sole 24 ORE Caldo, arriva la tregua ovunque ma non a Palermo: giovedì sarà l'unica città con la massima allerta meteo PalermoToday Arriva il fresco, ma gli sbalzi di temperatura mettono davvero sotto stress l'organismo? iO Donna ",
+          "pubDate": "Tue, 21 Jul 2026 21:49:06 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Sanità, liste d'attesa per visite ed esami: ecco le Regioni migliori e peggiori. Tutti i dati - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdUFVa2R5WjBsVnY2dnJGdFdCcE9SdkJvcmN4MEVvTTE1Z2ZjTVFiWVdpMnFuSUdPNDVJTUR2QTNrci1Ybm1zTjFEOVRmMWhiNVNHOFh0dUpDSi1GMVdab0h5UkhBQjVpcVhjcWRPYzJyUDhRU1QxWVhEX2o5VlNSQXBtUjVMSFZkTHJTbWhEc3BmaGMzc0VycURNeEdUM2tVRkhqWnIyUjU3NTRtcl9oVGxFOGJkN0t2bjRMeV9zUl9DcWt4cExHZU5JQTRpRjItOWZXRWpKajBrenlPRnJsVURtb2pQRDVMRDJ1UU1IWEY?oc=5",
+          "description": "Sanità, liste d'attesa per visite ed esami: ecco le Regioni migliori e peggiori. Tutti i dati Corriere della Sera Liste d'attesa, Meloni: \"Sulla strada giusta\". Oltre 1,6 milioni di prestazioni in più nei tempi RaiNews Liste d’attesa, Agenas promuove il Piemonte. Ma la regione resta al 16° posto in Italia La Stampa Liste d'attesa, le regioni migliori e peggiori per visite ed esami. I dati Agenas S",
+          "pubDate": "Tue, 21 Jul 2026 12:50:56 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Andrew Burnham e lo sguardo al passato della Gran Bretagna: se la nostalgia diventa il motore della politica - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWFNIQzJVLWo1cW9lQ2JjWkgwaU9tOUxlQnUyNU00MFo3eHdWN1pwNGwtMjVjQUpwSFhjNjlzMnhDc054OVRKZ2JVaXVEWDZkcnU0aXBVYUY0VU1jczFxTng2d0tYNlRoRzlKWHRFd3FJVzE2N0lqb01SM1hVZEhvRF9ZQmZtWW51cDdPSW1ybVlEWmxkMUdob2ZPWDZIUW9paUpVWExRNk1jMmlMU2QteElJRzJuclZKZk56NVMwdlJJTm5Tb1dOYVYyalV1clVOczJpR1pSMjNNQ25hMVpFUGhrb9IB6AFBVV95cUxOejZRRVBfalcxUmd4LVM1QUlqQTloVUdNcGJlZ3lMMFlCVWJfRlZodDJpNTlDTUd0SGNCUzVqeUN3NVo3clVfRzQ3WmNFVDlCb0ZBdkFLME50b1FGcnRfS3ktSy1Jc0pfd2lIcVhVa01kRmMzZWg0U1I4TlNyMnBIdnZtdWJoWlZRTGR5Sm84djRoNHp4Ty11OW1MZkhRZ2dpU0tPZmVLZHpsXzFoR08wa1FST25hNDFUQWExUGQ1aWZQa0dMN1dONnlPcXZ0cjViWWJ4VkFHLVZhWWdiQlE5SUJnNVAyRk9a?oc=5",
+          "description": "Andrew Burnham e lo sguardo al passato della Gran Bretagna: se la nostalgia diventa il motore della politica Corriere della Sera Regno Unito, Burnham apre il nuovo governo con un piano contro il caro vita RaiNews Anche Larry The Cat è perplesso: il nuovo Primo Ministro del Regno Unito è il settimo «padrone» della sua vita Vanity Fair Italia Burnham telefona a Trump e Zelensky, fa sobbalzare i merc",
+          "pubDate": "Tue, 21 Jul 2026 08:48:04 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Rivista Italiana Difesa - shownews - Leonardo, firmato il contratto per la fornitura di 12 M-346F all’Indonesia - Stift Melk",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYzlvSU9RV0Y0dXdBWWpnczFBcmx3TzdGWWN0YUlncUo2N2U1ZWNmdlJSSFYtUFlRUjcyQ0tTUlNOMWNNWHdoY0dUVEozcjBvQS1SakUzajNsdkR1U2Vqam1keHhWWUt1bzl2MFhlb0xjekp5V1JUM1VzNG5wcU9peGVQQzA3b3JsMzRPMzNabk9ITHpRYlNab01VdVF4UDBYNGstZGg3bkZsVzlJT3FuQjlR?oc=5",
+          "description": "Rivista Italiana Difesa - shownews - Leonardo, firmato il contratto per la fornitura di 12 M-346F all’Indonesia Stift Melk Mariani, per Leonardo 'basi solide, ora la priorità è accelerare' ANSA Leonardo vuole accelerare: “Lavorare con Kiev sui droni. Avanti il Michelangelo Dome” La Stampa Aerospazio, decolla l’export della Lombardia (+47%) e punta sulla mobilità del futuro Milano Finanza Farnborou",
+          "pubDate": "Tue, 21 Jul 2026 18:58:18 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "'Milano, Roma e Torino tra le migliori città al mondo per gli studenti universitari'",
+          "link": "https://www.ansa.it/canale_legalita_scuola/notizie/mur/2026/07/21/milano-roma-e-torino-tra-migliori-citta-al-mondo-per-studenti-universitari_2edc3798-0e1e-4b13-b4e4-9a170b00bf7c.html",
+          "description": "Il ranking Qs, il capoluogo lombardo al primo posto tra le italiane",
+          "pubDate": "Tue, 21 Jul 2026 17:20:30 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "syrsky",
+      "n_items": 5,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 31,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Le proteste in Ucraina ora sono contro il generale Oleksandr Syrsky - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85bHR1dl90amdMTmpyamdXWkxnZnFraU1IZjM2aUN2NnVpMEhTeHZMSGJqbWdiVGVIMXhHeERPQ0MzUVljb0RGYmZqUFhhMUNMaTlrZTk4QXBjYW5DWEZPQy1TQ0txUQ?oc=5",
+          "description": "Le proteste in Ucraina ora sono contro il generale Oleksandr Syrsky Il Post Zelensky cambia i vertici militari, silurato anche il capo delle forze armate Oleksandr Syrsky - Terremoto ai vertici militari di Kiev, il punto RaiNews Guerra Ucraina-Russia, le notizie in diretta. Zelensky rimuove il comandante delle forze armate Syrskyi, l'esercito a Drapaty Corriere della Sera Zelensky ci ripensa e ced",
+          "pubDate": "Mon, 20 Jul 2026 15:39:48 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Ucraina Russia, Zelensky rimuove Syrsky da capo delle forze armate - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMHlxWGFESFJqNFA3Vkg1VWpZbTg4UURmME5DRzg0Q05fR0lvS21uSjZLVG9BU2tFbHdHTmt5WGRmVFN6bWcweHR3RmRfMy16cFhhUXN5U21RRWJ4WHZGMFZOXzJ3YU4tMnFHVGVma3R6b0lKZ0JuWW5lUDJXQlNzS3pLWHQ1Umoy?oc=5",
+          "description": "Guerra Ucraina Russia, Zelensky rimuove Syrsky da capo delle forze armate Sky TG24 Zelensky cambia i vertici militari, silurato anche il capo delle forze armate Oleksandr Syrsky - Terremoto ai vertici militari di Kiev, il punto RaiNews Guerra Ucraina-Russia, le notizie in diretta. Zelensky rimuove il comandante delle forze armate Syrskyi, l'esercito a Drapaty Corriere della Sera Le proteste in Ucr",
+          "pubDate": "Tue, 21 Jul 2026 22:02:31 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Zelensky silura anche Syrsky, lo sostituisce con Drapatyi",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/21/zelensky-rimuove-syrsky-da-capo-delle-forze-armate-al-suo-posto-drapatyi_0cd2a931-8658-4d5e-96f8-544c31609a42.html",
+          "description": "Il presidente tenta di ricucire la crisi e di rispondere alle piazze mobilitate a sostegno di Fedorov",
+          "pubDate": "Tue, 21 Jul 2026 22:45:20 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Zelensky rimuove Syrsky da capo delle forze armate, al suo posto Drapatyi",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/21/zelensky-rimuove-syrsky-da-capo-delle-forze-armate-al-suo-posto-drapatyi_747a6c5c-d705-45dc-b7bf-79490b44dd8d.html",
+          "description": "Lo comunica in un messaggio su Telegram",
+          "pubDate": "Tue, 21 Jul 2026 21:58:05 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+          "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+          "description": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
+          "pubDate": "Tue, 21 Jul 2026 23:59:34 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "meloni",
+      "n_items": 8,
+      "n_sources": 3,
+      "category": "tech-ai",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Morto ammanettato dalla polizia a Bologna, i precedenti penali di Fakir: «Le condanne per droga e l'evasione dai domiciliari, poi dal 2006 l'indulto» - Corriere di Bologna",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOMmxRTUo4QjdndlJ4M0ZSdXFLZUZiN1BnWE9wZkJyVThvMk9oY05OLTRPeGZLQzFMcnFtdHkwcWVGT2RyX2NtemppcEdrUUhlNGtsc3dkblRQUnFkY2s3WWFQcmRBcERhQ3ZyZExiVE1zVVRhS0s2b3FybWdYZzlsOW9CNjRwQ1I3aFFseXBlMTZSNmhCc3V0SVJGTkJNU0c3cDJrVU1fc0M5NVhmM2dVa0tLbHAtMnVjcWNxV3NuZGhFS18wSnhoQ3NhYlBQZ2pSaTlxeUNmbnRpUWpSTWVwaDZ6MWN3Z0JtMk1Fc21QUmhhSElnMGVuaElpQjRtSG5saDNDVFREY3cyaGN3ekRSSDkwcUxDN2FkQXA0bXZWU3IwSUV6S1FFS3dIdUZ0NmlZZ2E5djFobko2eUNWSXBzYVpsR1JIaTV1MV9QSG1CeXJfY3JGa3fSAdsCQVVfeXFMTWhyUUpKeDQ5cWR2ei1seXYzd3psM0k2ZGk1NnNtcWh5NmtDUlJTdW80ZnRLdVQyMDV2UUdYOVplaDBPNXBucU1Hb0g4VEV3cHZTb3dBUklRcGxJTTNsdVNpaHZhNDJ0TzZBMDdtTnJtR3REWXNTSFEzRU5iVW45TF9nRld5WHJYSzBkN2pXUmtKbll4VG96azMycDN2Q01lU1hiTVNwMkE5UUIyUHlBZEhLQmFXT2V2Y1pyZ2xIaDFhRXR0V0NtNUlKQ2M1eVFzeVBjaUNvRHZKcmNicFhtMlB5Tk1YWkRWNWV0VzRnQ216bDJUU3FhRmFtNVlxb1d0em52dTE0eWhfQmtYTnBvVmlpaGhQcFRDalVnbmE3d2J0cE5tYjNHVVEyaDZrQWdGeUgya1JaWlF6Y2g0R2Jsb1Nwa1lhVkJPTWtXbmoycXNDeUZjbkhyOWZRSHM?oc=5",
+          "description": "Morto ammanettato dalla polizia a Bologna, i precedenti penali di Fakir: «Le condanne per droga e l'evasione dai domiciliari, poi dal 2006 l'indulto» Corriere di Bologna Meloni: 'A Bologna violenza inaccettabile contro le forze dell'ordine' ANSA Morte Fakir, indagini su agenti e operatori sanitari. Anselmo: “Perché nessuno lo ha soccorso?” la Repubblica Caso Fakir, il presidente del 118: \"Un medic",
+          "pubDate": "Tue, 21 Jul 2026 18:03:43 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Sanità, liste d'attesa per visite ed esami: ecco le Regioni migliori e peggiori. Tutti i dati - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdUFVa2R5WjBsVnY2dnJGdFdCcE9SdkJvcmN4MEVvTTE1Z2ZjTVFiWVdpMnFuSUdPNDVJTUR2QTNrci1Ybm1zTjFEOVRmMWhiNVNHOFh0dUpDSi1GMVdab0h5UkhBQjVpcVhjcWRPYzJyUDhRU1QxWVhEX2o5VlNSQXBtUjVMSFZkTHJTbWhEc3BmaGMzc0VycURNeEdUM2tVRkhqWnIyUjU3NTRtcl9oVGxFOGJkN0t2bjRMeV9zUl9DcWt4cExHZU5JQTRpRjItOWZXRWpKajBrenlPRnJsVURtb2pQRDVMRDJ1UU1IWEY?oc=5",
+          "description": "Sanità, liste d'attesa per visite ed esami: ecco le Regioni migliori e peggiori. Tutti i dati Corriere della Sera Liste d'attesa, Meloni: \"Sulla strada giusta\". Oltre 1,6 milioni di prestazioni in più nei tempi RaiNews Liste d’attesa, Agenas promuove il Piemonte. Ma la regione resta al 16° posto in Italia La Stampa Liste d'attesa, le regioni migliori e peggiori per visite ed esami. I dati Agenas S",
+          "pubDate": "Tue, 21 Jul 2026 12:50:56 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Meloni: 'A Bologna violenza inaccettabile contro le forze dell'ordine'",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/meloni-a-bologna-fatto-inaccettabile.-lepore-chiedere-la-verita-non-delegittima-le-divise_5e512a40-7ef6-47a1-8d8c-b364832957c4.html",
+          "description": "La presidente del Consiglio: 'Verità sulla morte di Fakir'. Schlein: 'Lo Stato ha fallito e proprio lo Stato deve fare piena luce'. Bufera sugli scontri. Lepore: 'Solo una piazza ci rappresenta'.",
+          "pubDate": "Tue, 21 Jul 2026 22:18:06 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Meloni si dissocia dal video di Vannacci, 'ma lo sinistra lo faccia da chi alimenta l'odio'",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/07/21/meloni-si-dissocia-dal-video-di-vannacci-ma-lo-sinistra-lo-faccia-da-chi-alimenta-lodio_ba6400df-3573-44bb-9d12-22eb4dde1e45.html",
+          "description": "'Prendano le distanze dall'assessore del Pd che evoca i fucili contro gli avversari'",
+          "pubDate": "Tue, 21 Jul 2026 17:10:43 +0200"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Meloni: 'A Bologna violenza inaccettabile contro le forze dell'ordine' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNUThMTkNUek5oWV96TVZwSWlxLTE5cXpaMkU1eXhGdUNIWEVORkU4ckp1cjY5eVpwODNSbHRfd0g4c3pSM01xczdyVHRqeFczYzkwVXVoemh3OUpLbkF6Zy12Qk40dU80OU1abjVoTTRLMkJha01wdUNld24zVURwM0hpRERIcTRLUXVvb3BZVnhqQU9qaFdmVnFWRVdqZ2pvMU8tZzNnNU5kVlQzeS0xZjJkQWRBVldhekhkdHpOaGh0OGJVNXlNd2F3cGZ0dUJMWXpweEtjTThXaVFoeWdJajdiMTBuVFpILU9rX19tT0NMVkdqc0RoWE9FQXJFZXNrZUtfZTJneE1yYU5kSzdWNNIBlgJBVV95cUxOczhGZnUzaFBpa3IxWlR6VDVWU3N4WmIwR21wUlZ6VzIyQWpxUUJjTFRUa3pKeng1c0MxUXdBVjAxaTJxTndtMlgxRThreTVCU2pWUzVBU2Y4aW92ZjJsUFgwbU9iR2F4Unl2X2J0U0tHNkhZd0IyUDNJUTlqSEMxOGZQM28tRTd3dk00ZVdrb1hHaGl6M3ZGdHNycnhFS2JXM2VsQW10RkxPSDdJMVc3eUl1Q1I0UVZacjZHaU1kNVpubS1TNG9SaDU0c09pU19NYlFwUlFJYlNjd1J4cXhrbk9oRmgzQjNZclhURG03NVg3Ml9OMWpvblphMVdDSFhKWmhFTlZHVGxJWTRTOEo3MWRmSkZFZw?oc=5",
+          "description": "Meloni: 'A Bologna violenza inaccettabile contro le forze dell'ordine' ANSA Morto ammanettato dalla polizia a Bologna, i precedenti penali di Fakir: «Le condanne per droga e l'evasione dai domiciliari, poi dal 2006 l'indulto» Corriere di Bologna Morte Fakir, indagini su agenti e operatori sanitari. Anselmo: “Perché nessuno lo ha soccorso?” la Repubblica Caso Fakir, il presidente del 118: \"Un medic",
+          "pubDate": "Tue, 21 Jul 2026 20:18:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "mondosanità",
+      "n_items": 11,
+      "n_sources": 2,
+      "category": "salute",
+      "score": 28,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-science",
+          "title": "Semaglutide, non solo peso: nei topi “ricuce” la barriera del cervello - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOVpySWhwdUVlN1NZel9QODU2TzVRQXhTaE1INHFuTzU4NHFySEYzNkVFcDN6ZEhzN2M3VlltOEVsd24yNEVpUS1PdEJWNUdiQ0dNVF9jWGdsclJZM2s1czJ5eFFScTEtakljRzZZeW5ERnI3SzJ3ZVFTUGxneDZRRGUzSUpoZlBtWjdDaUdGaVNqODlxX0xoa1liallKWEoxUy0zN1FGWGhDdTU2SGVFMGdMa2xUTkMtNGJjSWFqUGgydldx?oc=5",
+          "description": "Semaglutide, non solo peso: nei topi “ricuce” la barriera del cervello Mondosanità",
+          "pubDate": "Tue, 21 Jul 2026 12:08:09 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Ictus, sclerosi multipla, parkinson, demenze, cefalee: la salute del cervello tra prevenzione, innovazione e cura - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSXNxRWJQRi16djdlNXdEa2hRR1NDZmZhV3B4VFBEd1NHdTFZVnlpRzRDaXhMZDFYazBtWkZDMXQ3OEVwYUlRQU8tdndzQTR3N2g3d0Y5QmM5MTI3S2tmMnZkeFFtZ0RHdWlXMkpheWRJVjZRN2ZBYmJ1Rl93Tkx6QnZKUUlMeFVVcmhpVmFYc3pMMnZxWmtXU0dIWEFINDdwSFJLcXAwdnpvYzVZempRdnBLYVBCRkRoaFFQR3BXbHJOR2JGZ3VsUFpVb2JKVVhIdlFnM3pIbFpmZWpNdGNmTExIcjNBdzh6NURmbVc2OA?oc=5",
+          "description": "Ictus, sclerosi multipla, parkinson, demenze, cefalee: la salute del cervello tra prevenzione, innovazione e cura Mondosanità",
+          "pubDate": "Mon, 20 Jul 2026 15:24:37 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Giornata neurologia, Sin: \"Benessere del cervello una sfida che riguarda tutti\" - Il Tirreno",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdUxYMWJyN0tXSW1JYUl5dnl0eEFLeUVJUmhfdGx2cTZ4NmpyU1B0NFJodWxPY1pxeVVwT1RMTDdUeEJ1cktZajQwbTV0RzRmYkhUcnYxRklfR1djU1MzX09uYmtuY04wTzdNS0lBTFYxbnpOOThxX2hBb3FrRDhodzdzaGIxcGlwRU1Ddk9ZRDA0VFZ2QmZsWkQwMnB1bFFWQjdha084M3hMSW9HbGVnb3VISFJmc3J6QllWVXVSQ1gtb2Y3YmlTclVNV2RNY2NHUzZYZEVjWTd4TjI3VVRZVQ?oc=5",
+          "description": "Giornata neurologia, Sin: \"Benessere del cervello una sfida che riguarda tutti\" Il Tirreno Ictus, sclerosi multipla, parkinson, demenze, cefalee: la salute del cervello tra prevenzione, innovazione e cura Mondosanità Sdoganiamo la neurologia dai luoghi comuni Quotidiano Sanità I disturbi neurologici interessano 3,4 miliardi di persone nel mondo ANSA Sanita': Sin, impatto crescente delle patologie ",
+          "pubDate": "Mon, 20 Jul 2026 10:47:00 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Quanti caffè al giorno fanno bene al cuore? La nuova risposta dei cardiologi - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTZpcHhieF9vWjdPeTRBald2Tmg2RXB2c3ptYTlwUGhpTUNqWkFfVWhhdTlQQ3dQYkt0dWFPUktOY08zbE9kQ3FWOWdpSmF1SUxMNUlHLW9jTXoxLWV6M1l3OGpaLVZXUjUxOFRaVmFwNDh3Z2FVeDJMcDEyWUNCSUExUndaOUJ0YjZESDBEdVRzZk54S3dGWGRmTmpfSWFNVnlTS1VrZG9xVTRYWjRZaERUSEZ6aTdIZTVVamd4eUlYYTBhcXVFWjZYdkxOV1Rs?oc=5",
+          "description": "Quanti caffè al giorno fanno bene al cuore? La nuova risposta dei cardiologi Mondosanità Matteo Bassetti e le 5 tazze di caffè al giorno, \"riducono rischio di ictus, diabete e insufficienza cardiaca\" Virgilio Salute: sorpresa, 3-5 tazze di caffè nero non fanno male al cuore AGI Dall’America uno studio sulla “tazzulella ‘e cafè”: una risorsa contro i problemi cardiaci Il Mattino Il caffè protegge i",
+          "pubDate": "Tue, 21 Jul 2026 07:22:12 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "La rivoluzione della chirurgia ORL: record di pazienti da fuori regione, robotica e formazione fanno del Monaldi un polo nazionale - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdmJ5enk3RjdjOWwyem5ucGZLZm1Nb0xvUGNORnVrY29UWFZnU2VmSkFkbzIteGN6SzFVQXJXSTBweEV2bFEwTENDNkNaN3kwSU9MQ293YTg3RDBIUlB2VGNDQV9jQ01CTmt6SXo2amVGMGtIR3drOWVFNTkwT2RBY1VNRXdVS2QzcjFGX1RLSXFNbExfOGVlcDJaVGstczRVMG95OHBtbjF4N3JxSUZKUG9Hc1JsWjRNWVFEbUNOMld6Z1RUUXVRMTlISjRUWk5IRXJwX3I4N0MyZzNRUkthYXFoZXNhVXFFR0xJaUJFMHJlUGk3QzUyanI0dExZZmltcnlIZjFZbnpVNTA?oc=5",
+          "description": "La rivoluzione della chirurgia ORL: record di pazienti da fuori regione, robotica e formazione fanno del Monaldi un polo nazionale Mondosanità",
+          "pubDate": "Tue, 21 Jul 2026 21:35:07 GMT"
+        }
+      ],
+      "macro_area": "clima-salute"
+    },
+    {
+      "keyword": "bologna",
+      "n_items": 5,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 26,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Morto ammanettato dalla polizia a Bologna, i precedenti penali di Fakir: «Le condanne per droga e l'evasione dai domiciliari, poi dal 2006 l'indulto» - Corriere di Bologna",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOMmxRTUo4QjdndlJ4M0ZSdXFLZUZiN1BnWE9wZkJyVThvMk9oY05OLTRPeGZLQzFMcnFtdHkwcWVGT2RyX2NtemppcEdrUUhlNGtsc3dkblRQUnFkY2s3WWFQcmRBcERhQ3ZyZExiVE1zVVRhS0s2b3FybWdYZzlsOW9CNjRwQ1I3aFFseXBlMTZSNmhCc3V0SVJGTkJNU0c3cDJrVU1fc0M5NVhmM2dVa0tLbHAtMnVjcWNxV3NuZGhFS18wSnhoQ3NhYlBQZ2pSaTlxeUNmbnRpUWpSTWVwaDZ6MWN3Z0JtMk1Fc21QUmhhSElnMGVuaElpQjRtSG5saDNDVFREY3cyaGN3ekRSSDkwcUxDN2FkQXA0bXZWU3IwSUV6S1FFS3dIdUZ0NmlZZ2E5djFobko2eUNWSXBzYVpsR1JIaTV1MV9QSG1CeXJfY3JGa3fSAdsCQVVfeXFMTWhyUUpKeDQ5cWR2ei1seXYzd3psM0k2ZGk1NnNtcWh5NmtDUlJTdW80ZnRLdVQyMDV2UUdYOVplaDBPNXBucU1Hb0g4VEV3cHZTb3dBUklRcGxJTTNsdVNpaHZhNDJ0TzZBMDdtTnJtR3REWXNTSFEzRU5iVW45TF9nRld5WHJYSzBkN2pXUmtKbll4VG96azMycDN2Q01lU1hiTVNwMkE5UUIyUHlBZEhLQmFXT2V2Y1pyZ2xIaDFhRXR0V0NtNUlKQ2M1eVFzeVBjaUNvRHZKcmNicFhtMlB5Tk1YWkRWNWV0VzRnQ216bDJUU3FhRmFtNVlxb1d0em52dTE0eWhfQmtYTnBvVmlpaGhQcFRDalVnbmE3d2J0cE5tYjNHVVEyaDZrQWdGeUgya1JaWlF6Y2g0R2Jsb1Nwa1lhVkJPTWtXbmoycXNDeUZjbkhyOWZRSHM?oc=5",
+          "description": "Morto ammanettato dalla polizia a Bologna, i precedenti penali di Fakir: «Le condanne per droga e l'evasione dai domiciliari, poi dal 2006 l'indulto» Corriere di Bologna Meloni: 'A Bologna violenza inaccettabile contro le forze dell'ordine' ANSA Morte Fakir, indagini su agenti e operatori sanitari. Anselmo: “Perché nessuno lo ha soccorso?” la Repubblica Caso Fakir, il presidente del 118: \"Un medic",
+          "pubDate": "Tue, 21 Jul 2026 18:03:43 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Meteo, dopo il caldo si attendono forti temporali e rischio frane: diramata una allerta 'arancione' - CesenaToday",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTGRQaHZsQ1k3TmZKZHlRTGZMUV84b1lhT2c2T1ByTmt4S0M3YUhQUWFzY09tVDF1QklKZUtTY29GSmNXSThrd0FGN2FJVkEwbUxoTjUxVjZqeGI3akRURHIwNjQ2RHZCdXJyd0NBSWI2ZnU0VzltSmQwTTBLVjVCbjktc093SXUxUHNzaERrTVZtZUFVbC0wUmQzV2g4X3NXUXFENE9jaVVLbVdobWJybXVvTkQ0TVZuTGVZTkdhTTFESjVpSWN5aVFfcmxDdw?oc=5",
+          "description": "Meteo, dopo il caldo si attendono forti temporali e rischio frane: diramata una allerta 'arancione' CesenaToday Temporali e rischio idrogeologico, codice giallo nella Toscana centro nord martedì 21 luglio Toscana Notizie Forti temporali attesi in Emilia-Romagna, allerta arancione ed eventi annullati ANSA Maltempo, temporali e grandine in Emilia-Romagna: parchi chiusi a Bologna – la diretta la Repu",
+          "pubDate": "Tue, 21 Jul 2026 10:36:26 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Meloni: 'A Bologna violenza inaccettabile contro le forze dell'ordine'",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/meloni-a-bologna-fatto-inaccettabile.-lepore-chiedere-la-verita-non-delegittima-le-divise_5e512a40-7ef6-47a1-8d8c-b364832957c4.html",
+          "description": "La presidente del Consiglio: 'Verità sulla morte di Fakir'. Schlein: 'Lo Stato ha fallito e proprio lo Stato deve fare piena luce'. Bufera sugli scontri. Lepore: 'Solo una piazza ci rappresenta'.",
+          "pubDate": "Tue, 21 Jul 2026 22:18:06 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
+          "link": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
+          "description": "Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday.",
+          "pubDate": "Tue, 21 Jul 2026 12:48:37 GMT"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Meloni: 'A Bologna violenza inaccettabile contro le forze dell'ordine' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNUThMTkNUek5oWV96TVZwSWlxLTE5cXpaMkU1eXhGdUNIWEVORkU4ckp1cjY5eVpwODNSbHRfd0g4c3pSM01xczdyVHRqeFczYzkwVXVoemh3OUpLbkF6Zy12Qk40dU80OU1abjVoTTRLMkJha01wdUNld24zVURwM0hpRERIcTRLUXVvb3BZVnhqQU9qaFdmVnFWRVdqZ2pvMU8tZzNnNU5kVlQzeS0xZjJkQWRBVldhekhkdHpOaGh0OGJVNXlNd2F3cGZ0dUJMWXpweEtjTThXaVFoeWdJajdiMTBuVFpILU9rX19tT0NMVkdqc0RoWE9FQXJFZXNrZUtfZTJneE1yYU5kSzdWNNIBlgJBVV95cUxOczhGZnUzaFBpa3IxWlR6VDVWU3N4WmIwR21wUlZ6VzIyQWpxUUJjTFRUa3pKeng1c0MxUXdBVjAxaTJxTndtMlgxRThreTVCU2pWUzVBU2Y4aW92ZjJsUFgwbU9iR2F4Unl2X2J0U0tHNkhZd0IyUDNJUTlqSEMxOGZQM28tRTd3dk00ZVdrb1hHaGl6M3ZGdHNycnhFS2JXM2VsQW10RkxPSDdJMVc3eUl1Q1I0UVZacjZHaU1kNVpubS1TNG9SaDU0c09pU19NYlFwUlFJYlNjd1J4cXhrbk9oRmgzQjNZclhURG03NVg3Ml9OMWpvblphMVdDSFhKWmhFTlZHVGxJWTRTOEo3MWRmSkZFZw?oc=5",
+          "description": "Meloni: 'A Bologna violenza inaccettabile contro le forze dell'ordine' ANSA Morto ammanettato dalla polizia a Bologna, i precedenti penali di Fakir: «Le condanne per droga e l'evasione dai domiciliari, poi dal 2006 l'indulto» Corriere di Bologna Morte Fakir, indagini su agenti e operatori sanitari. Anselmo: “Perché nessuno lo ha soccorso?” la Repubblica Caso Fakir, il presidente del 118: \"Un medic",
+          "pubDate": "Tue, 21 Jul 2026 20:18:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "cervello",
+      "n_items": 5,
+      "n_sources": 2,
+      "category": "general",
+      "score": 10,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-science",
+          "title": "Semaglutide, non solo peso: nei topi “ricuce” la barriera del cervello - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOVpySWhwdUVlN1NZel9QODU2TzVRQXhTaE1INHFuTzU4NHFySEYzNkVFcDN6ZEhzN2M3VlltOEVsd24yNEVpUS1PdEJWNUdiQ0dNVF9jWGdsclJZM2s1czJ5eFFScTEtakljRzZZeW5ERnI3SzJ3ZVFTUGxneDZRRGUzSUpoZlBtWjdDaUdGaVNqODlxX0xoa1liallKWEoxUy0zN1FGWGhDdTU2SGVFMGdMa2xUTkMtNGJjSWFqUGgydldx?oc=5",
+          "description": "Semaglutide, non solo peso: nei topi “ricuce” la barriera del cervello Mondosanità",
+          "pubDate": "Tue, 21 Jul 2026 12:08:09 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Le cellule materne restano nel cervello dei figli, anche a 90 anni - Futuro Prossimo",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYVpWUUdZS05kRGgxNnlnaHlua2NBZ19VWlBHVFJwMjRqQWNDU1pKZUs1bEppOGthSlFQZ296YjFsRlFsd2ppa2EtY0hva2tUdTdKWWRyM1ZuS3BURTJ1alJoS2N3LTVUVmE1SHN0TDdnWkRzeGdxTU1vTzZNTmc1cEp2RjFLeWpyQjItR2paYk5FbmhTUVhodUpFbHVWVTNvUGJrMHBPWQ?oc=5",
+          "description": "Le cellule materne restano nel cervello dei figli, anche a 90 anni Futuro Prossimo",
+          "pubDate": "Sun, 19 Jul 2026 18:07:23 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Ictus, sclerosi multipla, parkinson, demenze, cefalee: la salute del cervello tra prevenzione, innovazione e cura - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSXNxRWJQRi16djdlNXdEa2hRR1NDZmZhV3B4VFBEd1NHdTFZVnlpRzRDaXhMZDFYazBtWkZDMXQ3OEVwYUlRQU8tdndzQTR3N2g3d0Y5QmM5MTI3S2tmMnZkeFFtZ0RHdWlXMkpheWRJVjZRN2ZBYmJ1Rl93Tkx6QnZKUUlMeFVVcmhpVmFYc3pMMnZxWmtXU0dIWEFINDdwSFJLcXAwdnpvYzVZempRdnBLYVBCRkRoaFFQR3BXbHJOR2JGZ3VsUFpVb2JKVVhIdlFnM3pIbFpmZWpNdGNmTExIcjNBdzh6NURmbVc2OA?oc=5",
+          "description": "Ictus, sclerosi multipla, parkinson, demenze, cefalee: la salute del cervello tra prevenzione, innovazione e cura Mondosanità",
+          "pubDate": "Mon, 20 Jul 2026 15:24:37 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Giornata neurologia, Sin: \"Benessere del cervello una sfida che riguarda tutti\" - Il Tirreno",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdUxYMWJyN0tXSW1JYUl5dnl0eEFLeUVJUmhfdGx2cTZ4NmpyU1B0NFJodWxPY1pxeVVwT1RMTDdUeEJ1cktZajQwbTV0RzRmYkhUcnYxRklfR1djU1MzX09uYmtuY04wTzdNS0lBTFYxbnpOOThxX2hBb3FrRDhodzdzaGIxcGlwRU1Ddk9ZRDA0VFZ2QmZsWkQwMnB1bFFWQjdha084M3hMSW9HbGVnb3VISFJmc3J6QllWVXVSQ1gtb2Y3YmlTclVNV2RNY2NHUzZYZEVjWTd4TjI3VVRZVQ?oc=5",
+          "description": "Giornata neurologia, Sin: \"Benessere del cervello una sfida che riguarda tutti\" Il Tirreno Ictus, sclerosi multipla, parkinson, demenze, cefalee: la salute del cervello tra prevenzione, innovazione e cura Mondosanità Sdoganiamo la neurologia dai luoghi comuni Quotidiano Sanità I disturbi neurologici interessano 3,4 miliardi di persone nel mondo ANSA Sanita': Sin, impatto crescente delle patologie ",
+          "pubDate": "Mon, 20 Jul 2026 10:47:00 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Depressione, un reset del cervello e torna il sereno - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWnE3QVpOYzN1YzFnUVdteXhrSmRjRXExZFV6eGJDd1doRjdiWm0yNjVNUVg4S1Q5NGowQ2FkdnhqMmlYanhpWnBiZzFIVHNUTDFGVFBWMnpDNG40dGt4T1RyaDFoWUNzRlV4UGdnaXE1RERfNlQzSXNHRnUxV3lBSUNOc3RheGZub0ZpWnQ0QTdxdEtFWWFkUmlNQU9sUEhWQUpIdU1rdUNlRWU4SE9F?oc=5",
+          "description": "Depressione, un reset del cervello e torna il sereno Mondosanità Depressione, il sorriso cambia: il cervello perde la capacità di rispondere alla gioia sanitainformazione.it Stimolazione del cervello riduce la depressione in 5 sedute ma effetti non sono definitivi ANSA",
+          "pubDate": "Mon, 20 Jul 2026 22:20:27 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "rischio",
+      "n_items": 8,
+      "n_sources": 6,
+      "category": "general",
+      "score": 4.8,
+      "cooldown": true,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Caso Roggero, istanza di rinvio pena anche a Milano. Anm: \"Insulti contro toghe\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdElfa1MzUjVPSzNsVVRhbkZ4bVptamdVVXVwVWxGOGljNXNYS3BodEp5aEFrYlFLY3pmYkh3RTRMdElHZHRfdjVXdTJoM1ZVSkdSOEhEQTJNSHBSYUNkTjk5YWJBMEFuRGZZYjRQZ00yN1lOWUd4TXJEWFo4dHhsYVlHbw?oc=5",
+          "description": "Caso Roggero, istanza di rinvio pena anche a Milano. Anm: \"Insulti contro toghe\" Sky TG24 Caso Roggero, allarme dell’Anm: “Toghe minacciate”. La difesa insiste sul rinvio della pena la Repubblica La moglie di Roggero riapre la gioielleria, 'siamo a rischio' ANSA “Grazia per Roggero”: ma la Lega si “dimentica” di raccogliere le firme dei propri parlamentari Il Fatto Quotidiano L'Anm sul caso Rogger",
+          "pubDate": "Tue, 21 Jul 2026 21:40:52 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Meteo, dopo il caldo si attendono forti temporali e rischio frane: diramata una allerta 'arancione' - CesenaToday",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTGRQaHZsQ1k3TmZKZHlRTGZMUV84b1lhT2c2T1ByTmt4S0M3YUhQUWFzY09tVDF1QklKZUtTY29GSmNXSThrd0FGN2FJVkEwbUxoTjUxVjZqeGI3akRURHIwNjQ2RHZCdXJyd0NBSWI2ZnU0VzltSmQwTTBLVjVCbjktc093SXUxUHNzaERrTVZtZUFVbC0wUmQzV2g4X3NXUXFENE9jaVVLbVdobWJybXVvTkQ0TVZuTGVZTkdhTTFESjVpSWN5aVFfcmxDdw?oc=5",
+          "description": "Meteo, dopo il caldo si attendono forti temporali e rischio frane: diramata una allerta 'arancione' CesenaToday Temporali e rischio idrogeologico, codice giallo nella Toscana centro nord martedì 21 luglio Toscana Notizie Forti temporali attesi in Emilia-Romagna, allerta arancione ed eventi annullati ANSA Maltempo, temporali e grandine in Emilia-Romagna: parchi chiusi a Bologna – la diretta la Repu",
+          "pubDate": "Tue, 21 Jul 2026 10:36:26 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "La moglie di Roggero riapre la gioielleria, 'siamo a rischio'",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/la-difesa-di-roggero-reitera-listanza-di-differimento-della-pena-al-tribunale-di-sorveglianza-di-milano_b8c78b1b-c0be-45a4-bcdf-3090f3bd6d18.html",
+          "description": "Nuova richiesta di differimento della pena. Salvini insiste: 'Fuori dal carcere'",
+          "pubDate": "Tue, 21 Jul 2026 20:41:10 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Caldo torrido, consumi di energia da record: il dato choc di giugno 2026 - La Nuova Sardegna",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMTN1d0hUeHZYWnlqUHdmU2R5cVBUSmxlb2s5MzF1MjJ3RnVnR016MHRFeTdRdTNDbFJNVC1oWDdkaTk0N0l5TExGNzFIS21GR2pyZ2Z2amUycVltbTRUcXpiR0pjdGF0N2V4Y0xkOGRFLUhyQy1Uc28xZXBHVXBpSUFmdko3N2E2S2lHUnJ3UUcwVG5vREhMQ056QzNrdGpPQURCSjVRU0pNVjJvQTJabVVyWUtXVEVjV2pwSlNKX3RsVEY3SFpqSms0RHM?oc=5",
+          "description": "Caldo torrido, consumi di energia da record: il dato choc di giugno 2026 La Nuova Sardegna Il riscaldamento globale presenta il conto all'Italia: entro il 2050 fino a sei punti di Pil a rischio e crescita più lenta del 15 per cento Corriere della Sera Terna, domanda elettricità giugno al top da 10 anni, pesa il caldo ANSA Consumi elettrici: Terna, domanda +1,8% a giugno, primo semestre +2,5% Il So",
+          "pubDate": "Tue, 21 Jul 2026 19:45:00 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'allarme dei big, 'rischio estinzione con l'IA, è come le pandemie'",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/lallarme-dei-big-rischio-estinzione-con-ia-e-come-pandemie_3afde5e5-7bcf-464e-b3aa-aee6577a9b23.html",
+          "description": "Nyt riporta lettera di 350 leader industria, anche ceo OpenAI",
+          "pubDate": "Tue, 30 May 2023 14:12:41 +0200"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "allerta",
+      "n_items": 5,
+      "n_sources": 3,
+      "category": "clima",
+      "score": 2.1,
+      "cooldown": true,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Maltempo, vento e grandine sul Vicentino. In Altopiano strade imbiancate / VIDEO - Il Giornale di Vicenza",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUGc1T3B6angxTmtrS1AxbEdham8wWDk5eXpFUm5FZTlVZFlEeHY3cUo3Y3IzLXVpOG9jaVNEVDRXYXU5N1d2Uk1FTFQtelNHSEF2cVpiTllpTTVlaVlFbGZwUUJ2UEFiRm1sXzBsZjVDM3IxNTZTMjVVTUluZHMxcTdwcERsQ3R1UVJveUF4cDlXMFNfdFoxbWotTkN0QmNRazEzMUxiNTBBOWRNcUhUeXJLSkNfOEJ2MENOZmZRR2JKaWNDT2hfNDJqcXVVdVROdVpXMdIB2gFBVV95cUxPQlJYUFNnZWVrLS04R1RUMVNaY0ZCZDJPWVRSMEVpM3hDM3lJSUpoZGg3YmdybjNJQ1F3WGxBdmlSLS1uYm50RkZJMFhyU1BKU1VIeENCR09ob0F1YjZRUGlNTkotZ3FiUE9OU21Xd09XVkpjalNzUkxFbXl6Smd4ZG1VUXppWU42N3lZWkMyOXI2Rk1qRlhMcXd3MFJaRWI2Y0ZsYzJTV1FkZ21uYUE0YUx5ZUJZMlFBM0ZOYWdna3VIWHkzanBpbWlzQ1pPdVdzbF9xazBlRUlSdw?oc=5",
+          "description": "Maltempo, vento e grandine sul Vicentino. In Altopiano strade imbiancate / VIDEO Il Giornale di Vicenza Domani allerta gialla in Veneto per temporali ANSA Maltempo, per martedì previsti temporali e grandinate VeneziaToday Maltempo, allerta gialla anche a Vicenza: attesi temporali intensi e possibili grandinate VicenzaToday Meteo Veneto per martedì 21 luglio: temporali (con allerta gialla) e schiar",
+          "pubDate": "Tue, 21 Jul 2026 18:31:25 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Meteo, dopo il caldo si attendono forti temporali e rischio frane: diramata una allerta 'arancione' - CesenaToday",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTGRQaHZsQ1k3TmZKZHlRTGZMUV84b1lhT2c2T1ByTmt4S0M3YUhQUWFzY09tVDF1QklKZUtTY29GSmNXSThrd0FGN2FJVkEwbUxoTjUxVjZqeGI3akRURHIwNjQ2RHZCdXJyd0NBSWI2ZnU0VzltSmQwTTBLVjVCbjktc093SXUxUHNzaERrTVZtZUFVbC0wUmQzV2g4X3NXUXFENE9jaVVLbVdobWJybXVvTkQ0TVZuTGVZTkdhTTFESjVpSWN5aVFfcmxDdw?oc=5",
+          "description": "Meteo, dopo il caldo si attendono forti temporali e rischio frane: diramata una allerta 'arancione' CesenaToday Temporali e rischio idrogeologico, codice giallo nella Toscana centro nord martedì 21 luglio Toscana Notizie Forti temporali attesi in Emilia-Romagna, allerta arancione ed eventi annullati ANSA Maltempo, temporali e grandine in Emilia-Romagna: parchi chiusi a Bologna – la diretta la Repu",
+          "pubDate": "Tue, 21 Jul 2026 10:36:26 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Allerta meteo, ondata di caldo: oggi 6 bollini rossi, arriva la tregua - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xTXdjUjhrMEpTU192X2ppcjQ2bUNudFlBek5OQVRqR29CSGYwRTNjLWx3Q1hjT21RVEQ0SXE2ZEpndDVJMzQyd0F1YVRzQVJWLVJJbC1OckZwVVc0VzZNOEpYUjMzTWNmVFdIekoxMk1BR211eF9tYkFrcw?oc=5",
+          "description": "Allerta meteo, ondata di caldo: oggi 6 bollini rossi, arriva la tregua Sky TG24 Fine della terza ondata di caldo in Italia: aria fresca norvegese e temporali in arrivo Il Sole 24 ORE Caldo, arriva la tregua ovunque ma non a Palermo: giovedì sarà l'unica città con la massima allerta meteo PalermoToday Arriva il fresco, ma gli sbalzi di temperatura mettono davvero sotto stress l'organismo? iO Donna ",
+          "pubDate": "Tue, 21 Jul 2026 21:49:06 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'IA può portare all'estinzione, l'allerta di decine di ricercatori",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/-lia-puo-portare-allestinzione-lallerta-di-decine-di-ricercatori-_f2907c59-c053-4af7-b511-410cbb0bc59b.html",
+          "description": "Tra i firmatari gli ad di OpenAI e Google Deepmind, ci sono anche italiani tra cui l'esperto di tecnologie dell'informazione Luca Simoncini",
+          "pubDate": "Tue, 30 May 2023 17:55:51 +0200"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Allerta alimentare: uova \"Ovo Mio\" richiamate dal ministero per rischio Salmonella. Stop anche ad alcuni lotti di integratori non autorizzati - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNb2dldlA3NTZGOC1hSGtTUmhuMThJME1qd19rMzFLMjRWYS0zV0JDWjNrN0NPWUdCUGZoRlFQb1hJcFIzNmlqeGRJV1E4dWFqWldhR1Z2eU8tZGNPUVFUbE9IVWVHRTVFMHN1UDl5d2s1N2tiZUdxSHBkTTRTQXZyMUJudS1GZ0lwdFV6bGxENTk1cUV0RlQwaHRVb04zaHQyck1tU2YyX1NfWng2cnczMElpYUdxVzIwNktfbjhROGpFdy1IeVRISDZlODB6U3Vuckl3OGJOZHh1RUtMQ0JmZGNfWUlBNWM0NVBfcko1cF9jOHl3TGM0Sk9POUc4MVVFbnA5TERKTlBYVW5GMzZZRHFiTk13VlJPTjRlbHpyN3doUQ?oc=5",
+          "description": "Allerta alimentare: uova \"Ovo Mio\" richiamate dal ministero per rischio Salmonella. Stop anche ad alcuni lotti di integratori non autorizzati Mondosanità Tramezzini con kebab e uova richiamate per rischio microbiologico Il Fatto Alimentare Richiamo di uova Ovo Mio per possibile presenza di salmonella in un lotto, quali sono i rischi se consumate Virgilio Salmonella nelle uova fresche del supermerc",
+          "pubDate": "Mon, 20 Jul 2026 17:09:31 GMT"
+        }
+      ],
+      "macro_area": "clima-salute"
+    },
+    {
+      "keyword": "caldo",
+      "n_items": 4,
+      "n_sources": 3,
+      "category": "clima",
+      "score": 1.8,
+      "cooldown": true,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Meteo, dopo il caldo si attendono forti temporali e rischio frane: diramata una allerta 'arancione' - CesenaToday",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTGRQaHZsQ1k3TmZKZHlRTGZMUV84b1lhT2c2T1ByTmt4S0M3YUhQUWFzY09tVDF1QklKZUtTY29GSmNXSThrd0FGN2FJVkEwbUxoTjUxVjZqeGI3akRURHIwNjQ2RHZCdXJyd0NBSWI2ZnU0VzltSmQwTTBLVjVCbjktc093SXUxUHNzaERrTVZtZUFVbC0wUmQzV2g4X3NXUXFENE9jaVVLbVdobWJybXVvTkQ0TVZuTGVZTkdhTTFESjVpSWN5aVFfcmxDdw?oc=5",
+          "description": "Meteo, dopo il caldo si attendono forti temporali e rischio frane: diramata una allerta 'arancione' CesenaToday Temporali e rischio idrogeologico, codice giallo nella Toscana centro nord martedì 21 luglio Toscana Notizie Forti temporali attesi in Emilia-Romagna, allerta arancione ed eventi annullati ANSA Maltempo, temporali e grandine in Emilia-Romagna: parchi chiusi a Bologna – la diretta la Repu",
+          "pubDate": "Tue, 21 Jul 2026 10:36:26 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Allerta meteo, ondata di caldo: oggi 6 bollini rossi, arriva la tregua - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xTXdjUjhrMEpTU192X2ppcjQ2bUNudFlBek5OQVRqR29CSGYwRTNjLWx3Q1hjT21RVEQ0SXE2ZEpndDVJMzQyd0F1YVRzQVJWLVJJbC1OckZwVVc0VzZNOEpYUjMzTWNmVFdIekoxMk1BR211eF9tYkFrcw?oc=5",
+          "description": "Allerta meteo, ondata di caldo: oggi 6 bollini rossi, arriva la tregua Sky TG24 Fine della terza ondata di caldo in Italia: aria fresca norvegese e temporali in arrivo Il Sole 24 ORE Caldo, arriva la tregua ovunque ma non a Palermo: giovedì sarà l'unica città con la massima allerta meteo PalermoToday Arriva il fresco, ma gli sbalzi di temperatura mettono davvero sotto stress l'organismo? iO Donna ",
+          "pubDate": "Tue, 21 Jul 2026 21:49:06 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Caldo torrido, consumi di energia da record: il dato choc di giugno 2026 - La Nuova Sardegna",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMTN1d0hUeHZYWnlqUHdmU2R5cVBUSmxlb2s5MzF1MjJ3RnVnR016MHRFeTdRdTNDbFJNVC1oWDdkaTk0N0l5TExGNzFIS21GR2pyZ2Z2amUycVltbTRUcXpiR0pjdGF0N2V4Y0xkOGRFLUhyQy1Uc28xZXBHVXBpSUFmdko3N2E2S2lHUnJ3UUcwVG5vREhMQ056QzNrdGpPQURCSjVRU0pNVjJvQTJabVVyWUtXVEVjV2pwSlNKX3RsVEY3SFpqSms0RHM?oc=5",
+          "description": "Caldo torrido, consumi di energia da record: il dato choc di giugno 2026 La Nuova Sardegna Il riscaldamento globale presenta il conto all'Italia: entro il 2050 fino a sei punti di Pil a rischio e crescita più lenta del 15 per cento Corriere della Sera Terna, domanda elettricità giugno al top da 10 anni, pesa il caldo ANSA Consumi elettrici: Terna, domanda +1,8% a giugno, primo semestre +2,5% Il So",
+          "pubDate": "Tue, 21 Jul 2026 19:45:00 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Blackout a Roma, il caldo manda in tilt la rete: \"Spesa da buttare e quartieri al buio\" - RomaToday",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qSXZZTzA5X3NfWmt6ckpJTnZNTHU5SkFwR0lUeC10MkNfdVZQbzhYMk5RQ0N3dlNrWmV0RGRVMHhFT0JvRHMtcmpoNzRUVFZhY2owRDU3Wi1sYV84eGViNS1BMWRYdWpYaVpWMG81TXQ4T2tTV25xVC1Lcw?oc=5",
+          "description": "Blackout a Roma, il caldo manda in tilt la rete: \"Spesa da buttare e quartieri al buio\" RomaToday",
+          "pubDate": "Tue, 21 Jul 2026 11:27:00 GMT"
+        }
+      ],
+      "macro_area": "clima-salute"
+    }
+  ]
+}

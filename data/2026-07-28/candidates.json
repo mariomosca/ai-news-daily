@@ -1,0 +1,925 @@
+{
+  "date": "2026-07-28",
+  "top_topics": [
+    {
+      "keyword": "italia",
+      "n_items": 29,
+      "n_sources": 11,
+      "category": "tech-ai",
+      "score": 325,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Zelensky oggi da Trump: \"La guerra finirà con una pace dignitosa\" - Droni ucraini colpiscono vicino Mosca e in Crimea - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORFJMbUFKc2E3bEZkUTc4MHBKT2tkNHlpUzgybFFuM2R1cU9MbkppcjFVRFFJSndpMENwOVAxRTJpc1U3VGp0MmVoQlkxR1RFUjl3dTRzaHpEWjlpdEVucjVnQlZqNTZOdUFmOVlpVXp3bzRsMGl2WXVtSTdQVmhlVG9ZOTZ3di1RV1pENW4zcF9MaDFBQV9KLVVyeS1peTViRm1wdWRXU1VaTWRuYnNqRGt5VnVLSHB2Z1pJdjhoMlAxYTlmVENwaE5PZElxMi1OT000dmdhdzVLM1FOamR6VTBSVmtYLW1VNlBRQjdnME1rRFhUUEhFdmZn0gH_AUFVX3lxTE00azZCbEJ2TGk0a05aVmpQNGRTVFFXUmNreDVieTZaYjk0alhTYm9HaXFINlNpUThRTzM1NFQwZWRjTTNodzFtSnBCMnFucmNfRG0tQ3QtajA3amxmQXJUSkpOUy1zcnpBWU1MUDN5TUFPUnhJLU1lRkJvMGZ5V3hEcVVHbk44MjBDN2lELS1BYTB1WnMtNV9xczRpRFcwcFhJYjR4YXpueVNsVVZDQVVHbGpVNVhzUnJzdk9xbGFmQ3BaemhaUEJMSThwa1dJMGN2M1RGZlQ0RzgxY0tLRWJCRDY3SWlIcmQ5RkZNeGlZTmQxTzA3ajRIVjJqOV9aaw?oc=5",
+          "description": "Zelensky oggi da Trump: \"La guerra finirà con una pace dignitosa\" - Droni ucraini colpiscono vicino Mosca e in Crimea RaiNews Guerra Ucraina - Russia, le news di oggi. Zelensky incontra Trump alla Casa Bianca la Repubblica Alla Casa Bianca tornano Netanyahu e Zelensky. Il punto sulle guerre, Trump arranca su armi e negoziati HuffPost Italia Guerra in Ucraina: incontro tra Trump e Zelensky a Washin",
+          "pubDate": "Tue, 28 Jul 2026 03:03:42 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Incendi in Francia e Spagna: la situazione non è sotto controllo. A rischio il sud Italia - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUVFRXRRTDhYdG5DTkRMU3RlbXdwZDg4MWE3UF91MWF6RDBYbU8xeWFQTzBJMWlabVNxV2FVWEFvSzVHNHFGWUFhdmhCTnVlUU5PSjdnS3lhWURENndVa2NVaHA2MzdybDItTnBJUGpCVXhNanVlVmFWak9XWHI3T1ZVc0p3T2dxVE1jSEMyX3NuODBndGZQSm1MTlR4U2lUNF8xX05vSmJPQXdIN3RhUThiZjI?oc=5",
+          "description": "Incendi in Francia e Spagna: la situazione non è sotto controllo. A rischio il sud Italia Il Sole 24 ORE I disastrosi incendi in Francia e in Spagna Il Post In Provenza l’incendio ha risparmiato il santuario di Cotignac: «Un miracolo della Madonna delle Grazie» Avvenire Incendi in Francia, fiamme a 15 chilometri da Bordeaux: 42 mila ettari bruciati. Macron: «Ce la faremo» Corriere della Sera Macro",
+          "pubDate": "Mon, 27 Jul 2026 20:25:53 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "L'estate 2026 già sopra la media per numero e durata delle ondate di calore",
+          "link": "https://www.ansa.it/canale_scienza/notizie/terra_poli/2026/07/27/lestate-2026-gia-sopra-la-media-per-numero-e-durata-delle-ondate_a8ad5b50-897e-451c-bbab-6e90878e6ba1.html",
+          "description": "Esperto: 'La quarta ondata investirà in pieno l'Italia, colpito soprattutto il Centro-Nord'",
+          "pubDate": "Mon, 27 Jul 2026 13:25:53 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "L'Odissea al cinema nell'Olimpo degli incassi in Italia",
+          "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/07/27/odissea-nellolimpo-degli-incassi-secondo-weekend-con-un-totale-per-di-267_51d26d1a-ee72-4814-a5cb-97629d1ca992.html",
+          "description": "Un totale di oltre 26,7 milioni, +6% rispetto allo scorso fine settimana di esordio",
+          "pubDate": "Mon, 27 Jul 2026 12:14:40 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Autoimpiego, aiuto ai giovani nei territori: la strategia di Sviluppo Lavoro Italia",
+          "link": "https://www.ansa.it/native/ansacom/2026/07/27/autoimpiego-aiuto-ai-giovani-nei-territori-la-strategia-di-sviluppo-lavoro-italia_4360ffa0-4d43-406f-be9f-5195eb6bb77c.html",
+          "description": "",
+          "pubDate": "Mon, 27 Jul 2026 12:07:50 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "azione",
+      "n_items": 24,
+      "n_sources": 11,
+      "category": "general",
+      "score": 264,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa-Iran, Trump: \"Sospesi raid per dare chance, ma pronto a una forte azione\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95OXM3XzhHVjlxQU45aTBWRkdSX3V3SHB5TFQ3dFNSOHdPSHFSWGY4YVdONlg0VHBHUW5ldzkzd2oxWWY0VmNQeU9MMGRWZkRMM25jSGhYVTJZUGZKU3NHSDhtb25qaWdtVDF5OEpXLXNiQ3M0TjhNbXZuRQ?oc=5",
+          "description": "Guerra Usa-Iran, Trump: \"Sospesi raid per dare chance, ma pronto a una forte azione\" Sky TG24 Iran, 60 morti in 12 giorni. Trump: \"Colloqui in corso, ma pronti a un'azione forte\" RaiNews Guerra Usa-Iran, le notizie in diretta | Trump: «Con l'Iran colloqui approfonditi, ma se falliscono pronti a forte azione militare». Nuovi attacchi Houthi contro infrastrutture saudite Corriere della Sera Corse in",
+          "pubDate": "Mon, 27 Jul 2026 21:21:15 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Ex alti funzionari Israele a Trump: «Il presidente Usa esprima preoccupazione escalation in Cisgiordania». Netanyahu in volo per Washington - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc0M4Vklfd00zdnQxbFhrU0s3b3lzMGg4SlBCM2FWTlM4SDV2MGxSQUFaM1IwTEdwRVh2NVBQVTAwLUQ0X3JDdHlzWDhsZW5jeVRxWUlBNlBzbkJWYWFiZUp4UjY1anZzcjdMWkNleDYxZVZWVFdOdGxMcDFEM0VMVkhZMGx3SE90SHl6TGg3SVRVS0tfc3NvZUh1NmtGMlBO?oc=5",
+          "description": "Ex alti funzionari Israele a Trump: «Il presidente Usa esprima preoccupazione escalation in Cisgiordania». Netanyahu in volo per Washington Il Sole 24 ORE Netanyahu apre un nuovo fronte contro i villaggi palestinesi della Cisgiordania. Ma i generali avvertono: c'è il rischio di un'intifada Corriere della Sera Gli audio articoli del 28 luglio 2026 la Repubblica 550 generali israeliani scrivono a Tr",
+          "pubDate": "Mon, 27 Jul 2026 23:13:07 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "\"Leonardo Maria Del Vecchio restituisca la figlia\": l'ordine del Tribunale di Milano dopo la denuncia dell'ex compagna - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMURoXzNjXzFHb3ZhSUhnNkRhRW5BQmtPNjdocG9BRkhCNGd6OFluSzZseWU3R0RaTHNLZ3k2OENieEdvUzBqTldIY2FETktlRlZxWHdjTW1nVHVnWFlGWGtHZG5LbXBsMG9ZcjNmd2lxZnEzbGE3V3lsMExQODlTYXhLYVA5elBuOGpnN3FPc21kSnBSQk5KV29CMDNvVUlkYTl6bw?oc=5",
+          "description": "\"Leonardo Maria Del Vecchio restituisca la figlia\": l'ordine del Tribunale di Milano dopo la denuncia dell'ex compagna Il Fatto Quotidiano Figlia contesa, il tribunale a Leonardo Maria Del Vecchio: “Riporti la bambina alla madre” la Repubblica Leonardo Maria Del Vecchio indagato: la denuncia della ex Sara Soldati per sottrazione di minore La Stampa Leonardo Maria Del Vecchio è indagato per sottraz",
+          "pubDate": "Mon, 27 Jul 2026 20:00:16 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Usa-Iran, le notizie in diretta | Trump: «Con l'Iran colloqui approfonditi, ma se falliscono pronti a forte azione militare». Nuovi attacchi Houthi contro infrastrutture saudite - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWJyQzNFN1BCY2pOZmY0dEo2TF81Y1RXUDRHb1h3bG1pMjdEVC0tTnJxVkhBSTdVd3BQNHR1OERhNDV6QmlqaVlrdEU5X3RvZHpfZ2NQYTZMTVhnN0VDOTFQZGpwMkZjd0VNU3ZWbUVMZ2lmNFVubXE3N2h2TmtqOHNpd0NENTlNTnBxatIBkgFBVV95cUxONlpoY3JfV1gxWWlRcnRKaEZLOGU2RGZEd3NjdlhQbXBHQjB4QlF2ZXZsckJUQXdWV0g3LTYzWDM4RjB4SzA4WFRPZWFxQnFPdGtUeHdLcjIzaTNWNzBERGc0S3ZSaHhIREN4enh6LXdvOFBJUmJQdnVVVHdYdmVkajU1VFhfN0JxZ0dScEZ1eFJSQQ?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Trump: «Con l'Iran colloqui approfonditi, ma se falliscono pronti a forte azione militare». Nuovi attacchi Houthi contro infrastrutture saudite Corriere della Sera Iran, 60 morti in 12 giorni. Trump: \"Colloqui in corso, ma pronti a un'azione forte\" RaiNews Corse in auto di James Dean e gli arsenali missilistici La Stampa Guerra a vuoto | I bombardamenti di ",
+          "pubDate": "Tue, 28 Jul 2026 00:55:52 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Incendi in Francia e Spagna: la situazione non è sotto controllo. A rischio il sud Italia - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUVFRXRRTDhYdG5DTkRMU3RlbXdwZDg4MWE3UF91MWF6RDBYbU8xeWFQTzBJMWlabVNxV2FVWEFvSzVHNHFGWUFhdmhCTnVlUU5PSjdnS3lhWURENndVa2NVaHA2MzdybDItTnBJUGpCVXhNanVlVmFWak9XWHI3T1ZVc0p3T2dxVE1jSEMyX3NuODBndGZQSm1MTlR4U2lUNF8xX05vSmJPQXdIN3RhUThiZjI?oc=5",
+          "description": "Incendi in Francia e Spagna: la situazione non è sotto controllo. A rischio il sud Italia Il Sole 24 ORE I disastrosi incendi in Francia e in Spagna Il Post In Provenza l’incendio ha risparmiato il santuario di Cotignac: «Un miracolo della Madonna delle Grazie» Avvenire Incendi in Francia, fiamme a 15 chilometri da Bordeaux: 42 mila ettari bruciati. Macron: «Ce la faremo» Corriere della Sera Macro",
+          "pubDate": "Mon, 27 Jul 2026 20:25:53 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "iran",
+      "n_items": 14,
+      "n_sources": 8,
+      "category": "geopolitica",
+      "score": 118,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa-Iran, Trump: \"Sospesi raid per dare chance, ma pronto a una forte azione\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95OXM3XzhHVjlxQU45aTBWRkdSX3V3SHB5TFQ3dFNSOHdPSHFSWGY4YVdONlg0VHBHUW5ldzkzd2oxWWY0VmNQeU9MMGRWZkRMM25jSGhYVTJZUGZKU3NHSDhtb25qaWdtVDF5OEpXLXNiQ3M0TjhNbXZuRQ?oc=5",
+          "description": "Guerra Usa-Iran, Trump: \"Sospesi raid per dare chance, ma pronto a una forte azione\" Sky TG24 Iran, 60 morti in 12 giorni. Trump: \"Colloqui in corso, ma pronti a un'azione forte\" RaiNews Guerra Usa-Iran, le notizie in diretta | Trump: «Con l'Iran colloqui approfonditi, ma se falliscono pronti a forte azione militare». Nuovi attacchi Houthi contro infrastrutture saudite Corriere della Sera Corse in",
+          "pubDate": "Mon, 27 Jul 2026 21:21:15 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Usa-Iran, le notizie in diretta | Trump: «Con l'Iran colloqui approfonditi, ma se falliscono pronti a forte azione militare». Nuovi attacchi Houthi contro infrastrutture saudite - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWJyQzNFN1BCY2pOZmY0dEo2TF81Y1RXUDRHb1h3bG1pMjdEVC0tTnJxVkhBSTdVd3BQNHR1OERhNDV6QmlqaVlrdEU5X3RvZHpfZ2NQYTZMTVhnN0VDOTFQZGpwMkZjd0VNU3ZWbUVMZ2lmNFVubXE3N2h2TmtqOHNpd0NENTlNTnBxatIBkgFBVV95cUxONlpoY3JfV1gxWWlRcnRKaEZLOGU2RGZEd3NjdlhQbXBHQjB4QlF2ZXZsckJUQXdWV0g3LTYzWDM4RjB4SzA4WFRPZWFxQnFPdGtUeHdLcjIzaTNWNzBERGc0S3ZSaHhIREN4enh6LXdvOFBJUmJQdnVVVHdYdmVkajU1VFhfN0JxZ0dScEZ1eFJSQQ?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Trump: «Con l'Iran colloqui approfonditi, ma se falliscono pronti a forte azione militare». Nuovi attacchi Houthi contro infrastrutture saudite Corriere della Sera Iran, 60 morti in 12 giorni. Trump: \"Colloqui in corso, ma pronti a un'azione forte\" RaiNews Corse in auto di James Dean e gli arsenali missilistici La Stampa Guerra a vuoto | I bombardamenti di ",
+          "pubDate": "Tue, 28 Jul 2026 00:55:52 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump says US and Tehran having 'good talks' as drones hit Iran's neighbours - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYTcyMDhXSXVNVFp4QlpqSGdQc3ZqaFN0c1hYSml1ZWhZS1FXbVN1Ql8zYUllVkpETjdMbXNRWUV3eHVqZWFnYnlBY1pvTzQ0WGNESmRyOGhCaFU4dEZwQXptVEV6Q19xb2FBVGxuLWFmUUZ0c0hjRFAzZXJMN2RYd0diYnJQM1M0Ylp6NWp1M0NBMFlFWi1scUNFRGtJblVFUEJzWF9iRTY3QXY4OFZuWmM4Rk01NFF6REllM0NpSEVXVmd3OFc5bnc0ZFM?oc=5",
+          "description": "Trump says US and Tehran having 'good talks' as drones hit Iran's neighbours Reuters Trump Backs New Talks but It’s Unclear What He Hopes to Achieve This Time The New York Times Iran war live: Trump says ‘friendly’ talks ongoing; Netanyahu arrives in US Al Jazeera Trump to Axios: I'm ready for \"strong military action\" if Iran talks fail Axios Iran War Live Updates: Trump says U.S. will \"go back to",
+          "pubDate": "Mon, 27 Jul 2026 21:32:50 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Pentagon relabels U.S. casualties caused by Iran amid scrutiny of wartime transparency - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLW96eHBiZ0pvd19qVkZPaENNaFlmZ1BaLVhZQmQ5VGcteE1ZY2hEd2ZqSFdNWmo3UE8xaVBiS2VYTUxSQlBGZmdIcHBMeTVDcUdWN2JhcV9HcXJURHlZR01WQkhRYXI1X1BvRjNWV1BxcW00ZmtBdF9DeVlyc3JDdG0zdHhPcHd1dl9jU2IyQkY2MGlja3Z0czZzUmllOEdhSmJxc00tOTVZeF9OSGxzSFZsT0xYU0xJM1BWOGlnSkZ6TGpqbTFwZFZaMldHN0c5Rkw0ajZMQUo0QQ?oc=5",
+          "description": "Pentagon relabels U.S. casualties caused by Iran amid scrutiny of wartime transparency The Washington Post Trump administration’s revision of Iran war casualties ‘huge disrespect’, say veterans The Guardian Pentagon lists 4 killed in Iran war under \"Overseas Operations Casualties\" on website CBS News Pentagon removes 4 troops killed in renewed Iran fighting from official war death toll The Times o",
+          "pubDate": "Mon, 27 Jul 2026 23:54:44 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Two Wars Converge in the Caspian Sea as Ukraine Hits Iranian Supply Line to Russia - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRkJvOUh4MV9TdUdldGtDelUxckgyaHh0blo4R21EQUVqaFhGWkhONnNXZ2laZjRFcWdMb1lQMkZISW1Xa0kxbHNaVlYwUlRjZDFFNkVfa0lGRkNVUld6bDEtS0g2S0drYkpGQTQ4RjhsVVZGQTZsTWxWZl9JSDA2RWZHTmhHVFE2ZzdOWEw3dE9HYnF4akJTV01YRE9oek1HcEVYZnVDcDhBNl9BUkZkbTdIREFIUzda?oc=5",
+          "description": "Two Wars Converge in the Caspian Sea as Ukraine Hits Iranian Supply Line to Russia WSJ The Iran and Ukraine wars are colliding on the world’s biggest lake. Here’s what to know CNN Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars BBC Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act' CNBC Iran warns Ukraine of retaliation aft",
+          "pubDate": "Mon, 27 Jul 2026 17:45:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "trump",
+      "n_items": 14,
+      "n_sources": 7,
+      "category": "geopolitica",
+      "score": 104,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa-Iran, Trump: \"Sospesi raid per dare chance, ma pronto a una forte azione\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95OXM3XzhHVjlxQU45aTBWRkdSX3V3SHB5TFQ3dFNSOHdPSHFSWGY4YVdONlg0VHBHUW5ldzkzd2oxWWY0VmNQeU9MMGRWZkRMM25jSGhYVTJZUGZKU3NHSDhtb25qaWdtVDF5OEpXLXNiQ3M0TjhNbXZuRQ?oc=5",
+          "description": "Guerra Usa-Iran, Trump: \"Sospesi raid per dare chance, ma pronto a una forte azione\" Sky TG24 Iran, 60 morti in 12 giorni. Trump: \"Colloqui in corso, ma pronti a un'azione forte\" RaiNews Guerra Usa-Iran, le notizie in diretta | Trump: «Con l'Iran colloqui approfonditi, ma se falliscono pronti a forte azione militare». Nuovi attacchi Houthi contro infrastrutture saudite Corriere della Sera Corse in",
+          "pubDate": "Mon, 27 Jul 2026 21:21:15 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Ex alti funzionari Israele a Trump: «Il presidente Usa esprima preoccupazione escalation in Cisgiordania». Netanyahu in volo per Washington - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc0M4Vklfd00zdnQxbFhrU0s3b3lzMGg4SlBCM2FWTlM4SDV2MGxSQUFaM1IwTEdwRVh2NVBQVTAwLUQ0X3JDdHlzWDhsZW5jeVRxWUlBNlBzbkJWYWFiZUp4UjY1anZzcjdMWkNleDYxZVZWVFdOdGxMcDFEM0VMVkhZMGx3SE90SHl6TGg3SVRVS0tfc3NvZUh1NmtGMlBO?oc=5",
+          "description": "Ex alti funzionari Israele a Trump: «Il presidente Usa esprima preoccupazione escalation in Cisgiordania». Netanyahu in volo per Washington Il Sole 24 ORE Netanyahu apre un nuovo fronte contro i villaggi palestinesi della Cisgiordania. Ma i generali avvertono: c'è il rischio di un'intifada Corriere della Sera Gli audio articoli del 28 luglio 2026 la Repubblica 550 generali israeliani scrivono a Tr",
+          "pubDate": "Mon, 27 Jul 2026 23:13:07 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Zelensky oggi da Trump: \"La guerra finirà con una pace dignitosa\" - Droni ucraini colpiscono vicino Mosca e in Crimea - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORFJMbUFKc2E3bEZkUTc4MHBKT2tkNHlpUzgybFFuM2R1cU9MbkppcjFVRFFJSndpMENwOVAxRTJpc1U3VGp0MmVoQlkxR1RFUjl3dTRzaHpEWjlpdEVucjVnQlZqNTZOdUFmOVlpVXp3bzRsMGl2WXVtSTdQVmhlVG9ZOTZ3di1RV1pENW4zcF9MaDFBQV9KLVVyeS1peTViRm1wdWRXU1VaTWRuYnNqRGt5VnVLSHB2Z1pJdjhoMlAxYTlmVENwaE5PZElxMi1OT000dmdhdzVLM1FOamR6VTBSVmtYLW1VNlBRQjdnME1rRFhUUEhFdmZn0gH_AUFVX3lxTE00azZCbEJ2TGk0a05aVmpQNGRTVFFXUmNreDVieTZaYjk0alhTYm9HaXFINlNpUThRTzM1NFQwZWRjTTNodzFtSnBCMnFucmNfRG0tQ3QtajA3amxmQXJUSkpOUy1zcnpBWU1MUDN5TUFPUnhJLU1lRkJvMGZ5V3hEcVVHbk44MjBDN2lELS1BYTB1WnMtNV9xczRpRFcwcFhJYjR4YXpueVNsVVZDQVVHbGpVNVhzUnJzdk9xbGFmQ3BaemhaUEJMSThwa1dJMGN2M1RGZlQ0RzgxY0tLRWJCRDY3SWlIcmQ5RkZNeGlZTmQxTzA3ajRIVjJqOV9aaw?oc=5",
+          "description": "Zelensky oggi da Trump: \"La guerra finirà con una pace dignitosa\" - Droni ucraini colpiscono vicino Mosca e in Crimea RaiNews Guerra Ucraina - Russia, le news di oggi. Zelensky incontra Trump alla Casa Bianca la Repubblica Alla Casa Bianca tornano Netanyahu e Zelensky. Il punto sulle guerre, Trump arranca su armi e negoziati HuffPost Italia Guerra in Ucraina: incontro tra Trump e Zelensky a Washin",
+          "pubDate": "Tue, 28 Jul 2026 03:03:42 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Usa-Iran, le notizie in diretta | Trump: «Con l'Iran colloqui approfonditi, ma se falliscono pronti a forte azione militare». Nuovi attacchi Houthi contro infrastrutture saudite - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWJyQzNFN1BCY2pOZmY0dEo2TF81Y1RXUDRHb1h3bG1pMjdEVC0tTnJxVkhBSTdVd3BQNHR1OERhNDV6QmlqaVlrdEU5X3RvZHpfZ2NQYTZMTVhnN0VDOTFQZGpwMkZjd0VNU3ZWbUVMZ2lmNFVubXE3N2h2TmtqOHNpd0NENTlNTnBxatIBkgFBVV95cUxONlpoY3JfV1gxWWlRcnRKaEZLOGU2RGZEd3NjdlhQbXBHQjB4QlF2ZXZsckJUQXdWV0g3LTYzWDM4RjB4SzA4WFRPZWFxQnFPdGtUeHdLcjIzaTNWNzBERGc0S3ZSaHhIREN4enh6LXdvOFBJUmJQdnVVVHdYdmVkajU1VFhfN0JxZ0dScEZ1eFJSQQ?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Trump: «Con l'Iran colloqui approfonditi, ma se falliscono pronti a forte azione militare». Nuovi attacchi Houthi contro infrastrutture saudite Corriere della Sera Iran, 60 morti in 12 giorni. Trump: \"Colloqui in corso, ma pronti a un'azione forte\" RaiNews Corse in auto di James Dean e gli arsenali missilistici La Stampa Guerra a vuoto | I bombardamenti di ",
+          "pubDate": "Tue, 28 Jul 2026 00:55:52 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Le sette vite di Larry, il gatto di Downing Street - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CMS1jNkQxSmRja1BicmRNYlpDX1cyenhOTjN1RlBKMGtMdWtDZkw4Zl9pSE1EV1ZrbmZlUkJobHlRWm04NHVFTWozV3ZDWmRCZFJmd3ViaG1EYUtqMWljaTVtMktRdlprNGUza3dVOVdoRWExRFE?oc=5",
+          "description": "Le sette vite di Larry, il gatto di Downing Street Il Post Il ritorno di un leader cattolico alla guida del Regno Unito RSI Effetto Burnham: dopo 15 mesi il Labour è primo e supera Farage la Repubblica Il Bandolo - Speciale - Politica ed economia in UK. Quali sfide per il nuovo Premier Andy Burnham, il Re del nord Radio Radicale Burnham a Bbc, 'pronto a criticare Trump per difendere interesse nazi",
+          "pubDate": "Mon, 27 Jul 2026 11:28:35 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "rischio",
+      "n_items": 10,
+      "n_sources": 9,
+      "category": "general",
+      "score": 90,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ex alti funzionari Israele a Trump: «Il presidente Usa esprima preoccupazione escalation in Cisgiordania». Netanyahu in volo per Washington - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc0M4Vklfd00zdnQxbFhrU0s3b3lzMGg4SlBCM2FWTlM4SDV2MGxSQUFaM1IwTEdwRVh2NVBQVTAwLUQ0X3JDdHlzWDhsZW5jeVRxWUlBNlBzbkJWYWFiZUp4UjY1anZzcjdMWkNleDYxZVZWVFdOdGxMcDFEM0VMVkhZMGx3SE90SHl6TGg3SVRVS0tfc3NvZUh1NmtGMlBO?oc=5",
+          "description": "Ex alti funzionari Israele a Trump: «Il presidente Usa esprima preoccupazione escalation in Cisgiordania». Netanyahu in volo per Washington Il Sole 24 ORE Netanyahu apre un nuovo fronte contro i villaggi palestinesi della Cisgiordania. Ma i generali avvertono: c'è il rischio di un'intifada Corriere della Sera Gli audio articoli del 28 luglio 2026 la Repubblica 550 generali israeliani scrivono a Tr",
+          "pubDate": "Mon, 27 Jul 2026 23:13:07 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Incendi in Francia e Spagna: la situazione non è sotto controllo. A rischio il sud Italia - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUVFRXRRTDhYdG5DTkRMU3RlbXdwZDg4MWE3UF91MWF6RDBYbU8xeWFQTzBJMWlabVNxV2FVWEFvSzVHNHFGWUFhdmhCTnVlUU5PSjdnS3lhWURENndVa2NVaHA2MzdybDItTnBJUGpCVXhNanVlVmFWak9XWHI3T1ZVc0p3T2dxVE1jSEMyX3NuODBndGZQSm1MTlR4U2lUNF8xX05vSmJPQXdIN3RhUThiZjI?oc=5",
+          "description": "Incendi in Francia e Spagna: la situazione non è sotto controllo. A rischio il sud Italia Il Sole 24 ORE I disastrosi incendi in Francia e in Spagna Il Post In Provenza l’incendio ha risparmiato il santuario di Cotignac: «Un miracolo della Madonna delle Grazie» Avvenire Incendi in Francia, fiamme a 15 chilometri da Bordeaux: 42 mila ettari bruciati. Macron: «Ce la faremo» Corriere della Sera Macro",
+          "pubDate": "Mon, 27 Jul 2026 20:25:53 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Chi è il giovane ricercato per l'attentato al Pride di Berlino - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNc2NnQ1JQdnRMOElQamlpWnc5a09lOTQzZWlzNHpJbFgwX05QbU1lSVhLaGluOC01dm5HLTRrWFE0ZG5ReFV5NlhMNVRCU3lUTW5ieGUwaDB3aU9VYVhYYzBVQ19lN1hhcnFaWFZfZE1ZSENrZzhrdjZPUmtBN05qUkpJYmR5NTV1MVl4YTdCNjUzWEs5N1lNdzhnT3dMV1piV3lZa0VDdmxkS3RKczJzcm02TWlIdVFYQkp0VHg4ZXM3Tmh1elBsbmtEdGEta3d5NlhFdFRwTnM2YTNUblRsTUJ0NGI3dXVTekgweThlaS1vZU45MjhzaWM1WjBHc3c20gGGAkFVX3lxTE44TDBIQW0zeW56b1IxekJfdXlaSzc2cjBnemhEdUFjd3Q4U1doTUNBSmJKdi0tR1BBM1YwTjNRQTJGb1ZDTU1zaFJDTDVuSjVQVHd0N1JCWjFvTlJXVkVORnMwSTRLcG85SmVHZU5YZGVJVmRONWFhYnlialIyUjJBOHc0emJOd21LdUtOdno4SWJreVFHSVhzMzNWWUVJVlJSZUJlaEtwdU1sZmlTcG1UeFRFSFUyMllpZmhlNExacEpmNlJRay1VUVd6ZzhwaHYtbEY5ME1PYXRQX1BnVmF0ejRfLTY0cko3OGFCQUk5Z254WVNIR1I5ZTlsLWRMYlFHV2F6dUE?oc=5",
+          "description": "Chi è il giovane ricercato per l'attentato al Pride di Berlino ANSA Attentato a Berlino, Brussig “Bene la comunità lgbtq+, ha risposto senza alimentare odio” la Repubblica Il terrorista dilettante e il rischio della radicalizzazione invisibile Corriere della Sera I giudici, la deradicalizzazione fallita: di cosa discute la Germania dopo l'attentato a Berlino Avvenire Polemica sul killer di Berlino",
+          "pubDate": "Sun, 26 Jul 2026 10:15:53 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Troppe confidenze ai chatbot, a rischio le relazioni umane",
+          "link": "https://www.ansa.it/canale_tecnologia/notizie/cybersecurity/2026/07/27/troppe-confidenze-ai-chatbot-a-rischio-le-relazioni-umane-_2e61018b-eed0-418e-bec8-055826a18a8e.html",
+          "description": "La ricerca Stanford: \"L'accondiscendenza dei software annulla empatia e responsabilità\"",
+          "pubDate": "Mon, 27 Jul 2026 11:47:13 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Uruguay schiera blindati contro la criminalità nelle aree più a rischio di Montevideo",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/27/uruguay-schiera-blindati-contro-la-criminalita-nelle-aree-piu-a-rischio-di-montevideo_0fe0a365-d99e-4dd1-8a16-9cdb9cb8e1f6.html",
+          "description": "Primo mezzo operativo nel quartiere Marconi, altri tre entreranno in servizio ad agosto",
+          "pubDate": "Mon, 27 Jul 2026 22:56:22 +0200"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "luglio",
+      "n_items": 12,
+      "n_sources": 6,
+      "category": "economia",
+      "score": 78,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ex alti funzionari Israele a Trump: «Il presidente Usa esprima preoccupazione escalation in Cisgiordania». Netanyahu in volo per Washington - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc0M4Vklfd00zdnQxbFhrU0s3b3lzMGg4SlBCM2FWTlM4SDV2MGxSQUFaM1IwTEdwRVh2NVBQVTAwLUQ0X3JDdHlzWDhsZW5jeVRxWUlBNlBzbkJWYWFiZUp4UjY1anZzcjdMWkNleDYxZVZWVFdOdGxMcDFEM0VMVkhZMGx3SE90SHl6TGg3SVRVS0tfc3NvZUh1NmtGMlBO?oc=5",
+          "description": "Ex alti funzionari Israele a Trump: «Il presidente Usa esprima preoccupazione escalation in Cisgiordania». Netanyahu in volo per Washington Il Sole 24 ORE Netanyahu apre un nuovo fronte contro i villaggi palestinesi della Cisgiordania. Ma i generali avvertono: c'è il rischio di un'intifada Corriere della Sera Gli audio articoli del 28 luglio 2026 la Repubblica 550 generali israeliani scrivono a Tr",
+          "pubDate": "Mon, 27 Jul 2026 23:13:07 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Dopo il maltempo torna l’allerta caldo nel Vicentino. «Attesi 40 gradi, peggio del 2003» - Il Giornale di Vicenza",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaVBKS2FLYU13QU5EY0FpSV9iUXcyLU9iMy02cXNuandFX3BHVVFiUkpSMEs2TThCdUhNWjE4cUlOdEJwXzA2bk1vczJkaGtfV2JTbjNlaHk3dWczRmpXME4tclZHQnR3WVB2di1qZUdCaG5sRnVHT3BhMGVpMU80V1dneWhSRXJYQkVTbnNxdFlwRzZ3am85NUtDNUNjcXJTbmNvc0gzbnVSTEE0MlZwb3JueWRxdkd3VUpzLWRsaVNLX3BXRkdUZXhGbnpVNlhsS2taQ1JuYjQ1VWxIR3BMVS1VTGFMaTBqeDR6ZlNTRTjSAfYBQVVfeXFMTmZyTmFFNU81Z3VJcEN0YW9IeHJqRWR1UzU3U1VmOHY2NGdoQzhfUzVFOVFuZHR4WHFRbGRSRFBkR1NueUZFMjVialJpcm9fZEtOVXpXQTExV3hmTkFURmw3Qi03LUdJbGhyQ1U0M253dEFxUTg3emdVcG9pa3Z0Y0FDSUZKOUtEQlAzNHczMDdFdmNGQjFVLUFzenM5cm1hYjhVX3dGNU42QlVmeFdWWVVYRkxOMWloek5yMHFDQXlFeUtudVRPUFZwcElHTmlEM0JOaklQb1JIc1M1UTRReDBBQ3pEQ3JaNDFLVENwbHJsTzFCS0VB?oc=5",
+          "description": "Dopo il maltempo torna l’allerta caldo nel Vicentino. «Attesi 40 gradi, peggio del 2003» Il Giornale di Vicenza Torna il caldo africano, ecco dove e quando colpirà la quarta ondata Sky TG24 Quarta ondata di caldo in arrivo e sarà la peggiore dell’estate: picchi di oltre 40 gradi al Nord Ovest La Stampa Avviso ondate di calore – Bollettino dal 27 al 29 luglio 2026 Comune di Napoli Previsioni meteo:",
+          "pubDate": "Mon, 27 Jul 2026 03:09:01 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Ucraina Russia, attacco russo in Donetsk: quattro morti e 18 feriti - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZjRFc3JCT09ObTh2Z05BS3RqeDAzeTlMZVBmS25vTloxUmVuTGFEX0dvYXZPZmM4b3BIVUc4dmVKY2pqc1JBbm5IbkJub2FXV0JyOEI0b2ZZT1pRbmZDWGFlYmVsV3FJbkt2WThSbzZ4bnJWTVplX1YtMG54ZHZ2cHh2WDBmLTlI?oc=5",
+          "description": "Guerra Ucraina Russia, attacco russo in Donetsk: quattro morti e 18 feriti Sky TG24 Le notizie di lunedì 27 luglio sulla guerra Ucraina-Russia Corriere della Sera Russia, attacco aereo a Rostov uccide due persone e ne ferisce 5 ANSA Ucraina: attacchi incrociati, vittime e distruzione Tv2000 Attacco aereo a Rostov, due morti. La Russia risponde con raid su Zaporizhzhia La Stampa",
+          "pubDate": "Mon, 27 Jul 2026 21:59:58 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borsa Italiana, il commento della seduta del 27 luglio 2026 - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWW51REs2RHh0QW5OLXVSR3ZTRDVMS1kxcnlqSWN6b0NzNUJ3RF9tdkdNVjAtX3pJRjAyT0RLWU5oU1hvckwyTld6NDB4cDdfS1hJS21EeHhQWFZQa0RRMFZNLWxTSEtBSTJTSHNXU1R0TW5LZUg2aWxTYkRBS0I3MEdXSFM4MzRDT1lydERrb2dfbWVqZ0U5Q24yU0I?oc=5",
+          "description": "Borsa Italiana, il commento della seduta del 27 luglio 2026 SoldiOnline.it Borse e petrolio 27 luglio | Europa in rialzo con la speranza di un accordo tra Usa e Iran, Milano chiude a +0,49% Corriere della Sera Greggio in picchiata, mercati ottimisti RaiNews Mercati europei positivi Borsa Italiana Borse Ue tra schiarita Usa-Iran e nuovo calo chip: Milano +0,5%, Wall Street chiude debole. Greggio sc",
+          "pubDate": "Mon, 27 Jul 2026 15:51:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Cosa aspettarsi dalla riunione della Fed di luglio - Morningstar",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcHM2dEZ1WjFwYjBCd05wdUdPRE9uRGxJVWdqbTF5Qi1SUU1HX016WHZuUTJ3QnhuVzlyVUdKVkVleDlqODZ3REFHSW80SU9IOU5tbU5RMG9EcWhVMngyR0xRNTRXV0ZCcWY4UUtMYlJGYmhGNi1ZNEs3bFlaRW9KUktSdElxZmNtTk14OVlHWGljeldvY1VxTA?oc=5",
+          "description": "Cosa aspettarsi dalla riunione della Fed di luglio Morningstar Preview Fed luglio 2026: tassi fermi, ma possibili nuovi rialzi ig.com MARKET DRIVER: Pictet WM vede Fed ferma in 2026 ma resta rischio rialzo tassi Milano Finanza Usa: la Fed con Warsh cambia passo, più attenzione all’inflazione FondiOnline Bond, i timori sui tassi sono eccessivi? Startmag",
+          "pubDate": "Mon, 27 Jul 2026 16:12:18 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "milano",
+      "n_items": 11,
+      "n_sources": 6,
+      "category": "economia",
+      "score": 72,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "\"Leonardo Maria Del Vecchio restituisca la figlia\": l'ordine del Tribunale di Milano dopo la denuncia dell'ex compagna - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMURoXzNjXzFHb3ZhSUhnNkRhRW5BQmtPNjdocG9BRkhCNGd6OFluSzZseWU3R0RaTHNLZ3k2OENieEdvUzBqTldIY2FETktlRlZxWHdjTW1nVHVnWFlGWGtHZG5LbXBsMG9ZcjNmd2lxZnEzbGE3V3lsMExQODlTYXhLYVA5elBuOGpnN3FPc21kSnBSQk5KV29CMDNvVUlkYTl6bw?oc=5",
+          "description": "\"Leonardo Maria Del Vecchio restituisca la figlia\": l'ordine del Tribunale di Milano dopo la denuncia dell'ex compagna Il Fatto Quotidiano Figlia contesa, il tribunale a Leonardo Maria Del Vecchio: “Riporti la bambina alla madre” la Repubblica Leonardo Maria Del Vecchio indagato: la denuncia della ex Sara Soldati per sottrazione di minore La Stampa Leonardo Maria Del Vecchio è indagato per sottraz",
+          "pubDate": "Mon, 27 Jul 2026 20:00:16 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Lo scambio: così Mps e Banco Bpm vogliono bloccare l'offerta di Intesa, il progetto di fusione svelato - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQZnJ2UUVuMDBrbW0wZWZmS0lnbDJZdzh2YUVDazBNMWYwYmIwbXg4bS1sQ2JlZkFXYlhudUZuRUtZZlgwbVhvVUF6NVhPVG03VGVVbFBrOWxzaUR0c2cwM2RkSTBLQVFNWEU1RUZBUERDUHdsMkwxS21sazhQRzB6R2xsZFRXaktkbWhlX3Jaa0pxdGYxU29pLWJBOWFBMTh2SkRJS1VuejNKU3JydkVTTVdIZEMyc3ExUC1NRHVSckZYcUMwams4UVlYTjUycy04c3VWVXJKdm1GUVNFc1pRVy1McUVGTnRqNS1LWDFlaXhIb19wem5sd0tndVQtSXJ3cFplUmZZV0tzQUxDSEhRSEh5UGIxbzhfbHFGSzQ4bzIwS2fSAagCQVVfeXFMUEtTcTVMT3FuVlBkSkx6X1otM2tDaGlPQVBJMTB0Q1F0UGZ3Ynl4NTJ3Vmt5czhhZmQ4WUpCUXdRdUJ5OGZ1bk1ITHRSX05vZWVzNzNlYnBpdDduX1VHRmdUSWpNdm1RMVBGTUJkTldVUnpmOXdYbjFVbmlISFd5OXY4VkE0SnBXRFA4Q0xVanl1ckFPaUV2X3VBa3JYRlFWTUVwcXI4Z1laZmtCOUlXNnJYMXMyZHVjbHVoOGlsQ1RzWEZXTG1rMmg1NWhORGhSOXdFR0VwbzlRc2ZOeDNnc0RlaUFiRzdjOWNCc1ExNmlqazNnMFpyTWM0c2h4MmdyQ25DYi1DYUlRME1lUVhwYWxiN25IWjFpSUlkeHo1aTBkVFJYX09oRnI?oc=5",
+          "description": "Lo scambio: così Mps e Banco Bpm vogliono bloccare l'offerta di Intesa, il progetto di fusione svelato Corriere della Sera Mps e Bpm lavorano alla fusione,ma c’è il nodo Crédit Agricole la Repubblica Mps – Bpm preparano la nozze in azioni e cash con un dividendo straordinario per i soci di Siena. Sul tavolo la carta Generali Milano Finanza Alleanza in arrivo tra Mps e Banco Bpm Il Sole 24 ORE Mps-",
+          "pubDate": "Mon, 27 Jul 2026 08:57:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Sinodo: ecco il sussidio “Fare memoria”, per le Assemblee 2027 delle Chiese locali - Vatican News",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNU5jTzRlU05td1hRN08xS0lkZWhLbWJfTnBWX29oaERmcVZjaGE3R1U5bnl6WmdRTXVFNlZZeEs2dXlXNG9hX0lyY25UQjRBUnA5UzN2OXFIaDJZRDRyVDRlakdpQVg5UU1KLTI2YnYxRXQxTTdDMXQtYUhhQlM4YXZreHdDc1dkaXlHZDd3Z245dVNZWmFtWThJX2Qxanl1Y2lhajBfRlEtR1lqd3UxVUdaLWkydUw3YW1VbDB3?oc=5",
+          "description": "Sinodo: ecco il sussidio “Fare memoria”, per le Assemblee 2027 delle Chiese locali Vatican News «Care diocesi, raccontateci come state cambiando». Così va avanti il cammino del Sinodo Avvenire Pubblicato il sussidio per la prossima tappa sinodale delle Chiese locali ANSA Sinodo, pubblicato il sussidio per le Assemblee diocesane Chiesa di Milano Sinodo, pubblicate le Note dal titolo «Fare memoria» ",
+          "pubDate": "Mon, 27 Jul 2026 09:46:44 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borsa Italiana, il commento della seduta del 27 luglio 2026 - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWW51REs2RHh0QW5OLXVSR3ZTRDVMS1kxcnlqSWN6b0NzNUJ3RF9tdkdNVjAtX3pJRjAyT0RLWU5oU1hvckwyTld6NDB4cDdfS1hJS21EeHhQWFZQa0RRMFZNLWxTSEtBSTJTSHNXU1R0TW5LZUg2aWxTYkRBS0I3MEdXSFM4MzRDT1lydERrb2dfbWVqZ0U5Q24yU0I?oc=5",
+          "description": "Borsa Italiana, il commento della seduta del 27 luglio 2026 SoldiOnline.it Borse e petrolio 27 luglio | Europa in rialzo con la speranza di un accordo tra Usa e Iran, Milano chiude a +0,49% Corriere della Sera Greggio in picchiata, mercati ottimisti RaiNews Mercati europei positivi Borsa Italiana Borse Ue tra schiarita Usa-Iran e nuovo calo chip: Milano +0,5%, Wall Street chiude debole. Greggio sc",
+          "pubDate": "Mon, 27 Jul 2026 15:51:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Cosa aspettarsi dalla riunione della Fed di luglio - Morningstar",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcHM2dEZ1WjFwYjBCd05wdUdPRE9uRGxJVWdqbTF5Qi1SUU1HX016WHZuUTJ3QnhuVzlyVUdKVkVleDlqODZ3REFHSW80SU9IOU5tbU5RMG9EcWhVMngyR0xRNTRXV0ZCcWY4UUtMYlJGYmhGNi1ZNEs3bFlaRW9KUktSdElxZmNtTk14OVlHWGljeldvY1VxTA?oc=5",
+          "description": "Cosa aspettarsi dalla riunione della Fed di luglio Morningstar Preview Fed luglio 2026: tassi fermi, ma possibili nuovi rialzi ig.com MARKET DRIVER: Pictet WM vede Fed ferma in 2026 ma resta rischio rialzo tassi Milano Finanza Usa: la Fed con Warsh cambia passo, più attenzione all’inflazione FondiOnline Bond, i timori sui tassi sono eccessivi? Startmag",
+          "pubDate": "Mon, 27 Jul 2026 16:12:18 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "after",
+      "n_items": 10,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 56,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Why a new war in Yemen could be different for the Houthis - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZmhWWkdGTHV4cDNqcHlKWjdfN2c2eXpleFlZWnFtU0lkRzFpbGQ4a25YS0xqNFVuVWRuS2s2dVZEZzdXX2gzdF90alNnQkw1TVNHcTA4M2lkeUF1dUVwNHNpWTVTRnUtbFBIZ1JnT2FxV01zc3NYYWQxRjdlTlhoRzZ0anBXakZlWGowMDFFQXNYT21GZHlWOFkyWl9mZlXSAaQBQVVfeXFMTzFEZjFvbkhiQm5jeEdkYTUxSFNFNDVhX2VOQmlNcFlSbHF5SmVldnZkcGFmVlZtUVBQcHo4U1dxbEZNaUQ1YXdwbXByeWRaVmRibG92bllmMENGS2xkdXlteFRjcW9CSlg1VWFXU2tQMzR3RTY5OHlKSlRNeEtNWTFVRjl0M1RFVzdTc1lDc0ExQ0I0cFE5MDEzbXAxd2NybjZ0eHY?oc=5",
+          "description": "Why a new war in Yemen could be different for the Houthis Al Jazeera Asia ‘scraping the bottom of the barrel’ as Red Sea oil blockade worsens energy crisis The Guardian Houthis pushing to model Iran's Hormuz control in Red Sea, Yemeni FM says Reuters Houthis claim attack on Saudi oil refinery as Iran war widens to Red Sea The Washington Post Yemen says ready for Houthi escalation after rebels targ",
+          "pubDate": "Mon, 27 Jul 2026 15:23:24 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "A Japanese town wrestles with identity after protests over its first mosque",
+          "link": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
+          "description": "As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions.",
+          "pubDate": "Mon, 27 Jul 2026 22:08:21 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Shots fired at US consulate in Toronto for a second time this year",
+          "link": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
+          "description": "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people were arrested in June after a similar attack.",
+          "pubDate": "Tue, 28 Jul 2026 00:36:16 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Chile captures fugitive convicted of singer Victor Jara's murder under Pinochet",
+          "link": "https://www.bbc.co.uk/news/articles/c3w0xwj8vzyo?at_medium=RSS&at_campaign=rss",
+          "description": "Nelson Haase was one of those convicted over the kidnap and murder of folk singer Victor Jara after Chile's military coup in 1973.",
+          "pubDate": "Mon, 27 Jul 2026 15:49:45 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Chip firms fall in US and Asia as AI jitters rattle investors",
+          "link": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
+          "description": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after sliding by 8%.",
+          "pubDate": "Tue, 28 Jul 2026 03:49:33 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "says",
+      "n_items": 11,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 50,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Trump says US and Tehran having 'good talks' as drones hit Iran's neighbours - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYTcyMDhXSXVNVFp4QlpqSGdQc3ZqaFN0c1hYSml1ZWhZS1FXbVN1Ql8zYUllVkpETjdMbXNRWUV3eHVqZWFnYnlBY1pvTzQ0WGNESmRyOGhCaFU4dEZwQXptVEV6Q19xb2FBVGxuLWFmUUZ0c0hjRFAzZXJMN2RYd0diYnJQM1M0Ylp6NWp1M0NBMFlFWi1scUNFRGtJblVFUEJzWF9iRTY3QXY4OFZuWmM4Rk01NFF6REllM0NpSEVXVmd3OFc5bnc0ZFM?oc=5",
+          "description": "Trump says US and Tehran having 'good talks' as drones hit Iran's neighbours Reuters Trump Backs New Talks but It’s Unclear What He Hopes to Achieve This Time The New York Times Iran war live: Trump says ‘friendly’ talks ongoing; Netanyahu arrives in US Al Jazeera Trump to Axios: I'm ready for \"strong military action\" if Iran talks fail Axios Iran War Live Updates: Trump says U.S. will \"go back to",
+          "pubDate": "Mon, 27 Jul 2026 21:32:50 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Stevens to El-Sayed: ‘Thank you for clarifying that you didn’t call me an ogre’ - Politico",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc0NNUno3T0NtRE5ZN1RRSFpHcXMzdkljeUZrT3ZYWDhBQXVvdzdUdnNWWXVHZkdrX1ZJWnJDZkdMMGJ0SmdVZnJ0Y0l3am1rM05ZbHRBV18xTE1vWnRJcWJSYmlpMW15dXhremJsQV95elVLZ0lQMU0zMmhHTlNNaGUtX1dnR2hqOXJkS3pGMnIxc0dKUk53bXpn?oc=5",
+          "description": "Stevens to El-Sayed: ‘Thank you for clarifying that you didn’t call me an ogre’ Politico AIPAC Attacks and an ‘Ogre’ Jab: 6 Takeaways From Michigan’s Senate Debate The New York Times Stevens and El-Sayed trade personal attacks and other takeaways from the Michigan Senate primary debate CNN Michigan progressive Abdul El-Sayed says ‘ogre’ remark not directed at rival The Guardian Michigan’s Arab vot",
+          "pubDate": "Tue, 28 Jul 2026 01:09:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Why a new war in Yemen could be different for the Houthis - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZmhWWkdGTHV4cDNqcHlKWjdfN2c2eXpleFlZWnFtU0lkRzFpbGQ4a25YS0xqNFVuVWRuS2s2dVZEZzdXX2gzdF90alNnQkw1TVNHcTA4M2lkeUF1dUVwNHNpWTVTRnUtbFBIZ1JnT2FxV01zc3NYYWQxRjdlTlhoRzZ0anBXakZlWGowMDFFQXNYT21GZHlWOFkyWl9mZlXSAaQBQVVfeXFMTzFEZjFvbkhiQm5jeEdkYTUxSFNFNDVhX2VOQmlNcFlSbHF5SmVldnZkcGFmVlZtUVBQcHo4U1dxbEZNaUQ1YXdwbXByeWRaVmRibG92bllmMENGS2xkdXlteFRjcW9CSlg1VWFXU2tQMzR3RTY5OHlKSlRNeEtNWTFVRjl0M1RFVzdTc1lDc0ExQ0I0cFE5MDEzbXAxd2NybjZ0eHY?oc=5",
+          "description": "Why a new war in Yemen could be different for the Houthis Al Jazeera Asia ‘scraping the bottom of the barrel’ as Red Sea oil blockade worsens energy crisis The Guardian Houthis pushing to model Iran's Hormuz control in Red Sea, Yemeni FM says Reuters Houthis claim attack on Saudi oil refinery as Iran war widens to Red Sea The Washington Post Yemen says ready for Houthi escalation after rebels targ",
+          "pubDate": "Mon, 27 Jul 2026 15:23:24 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Berlin Pride attack suspect raised red flags, group says, amid questions about prior release from prison despite ISIS ties - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVWt3OG9KSFgzTm42M3BJbUdqR2NpV1EyU0lqM0JYaElSdHRqOGtjMlYyT21ZdDQ5dk5SNjdLc2RxZlhYVzNaWkZ4S1ZWaldaSTZfVW9WT1pGbHhCQ0MwZmd2SE00Z0dDYVlLTUU1cWNmNEdtRE10OUNfSlVHTVRyakxn?oc=5",
+          "description": "Berlin Pride attack suspect raised red flags, group says, amid questions about prior release from prison despite ISIS ties CBS News Berlin Pride attacker served less than 2 years in prison for wanting to join ISIS, prosecutors say CBS News Camera on a roof top captures wildfires in Spain AP News Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’ The New York Times German lawmak",
+          "pubDate": "Mon, 27 Jul 2026 15:40:00 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
+          "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+          "description": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
+          "pubDate": "Mon, 27 Jul 2026 20:34:55 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "mondosanità",
+      "n_items": 14,
+      "n_sources": 3,
+      "category": "general",
+      "score": 42,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Scompenso cardiaco, meno ricoveri con pasti adattati alle esigenze dei pazienti - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ1pKc3F4bkJNdWNhRGlJbzgxZDhJd1k4NmpNZzFDanFhOGZjS294dkhCc3BGRzF5clh2anNRYi1JYWw1XzRKaFd1UXlVQkRNSkl2V04xX1hjSkRXNmZpTlpobGpJbzg3bjhTY0s0aTlpbkRMUTVNX0FKbXJoYkx4azVSMUdtcC12dmhYNmF6X2E0QXd0SFVqTkxqMTU5U3Y0YTg3bDB3dWhMcURRZzdmRXBVcWZpUWQtVnBWZFdPTl8ySm5TMWtwYWFXZEZoWFNWMFI5VA?oc=5",
+          "description": "Scompenso cardiaco, meno ricoveri con pasti adattati alle esigenze dei pazienti Mondosanità",
+          "pubDate": "Mon, 27 Jul 2026 22:06:19 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "L’errore che molti fanno a cena: secondo la scienza non conta solo cosa mangi, ma anche quando - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSlpocXdqRGRMcktILVNnMjFzSU52d1lRZFREeDdfTU1fMEJldTR4U01BdXlKMVJOeElaYzNoNEVSczR0NW9NTEMyU2RqRmRKUFQtcUpWR3lMM1NpQ0ZMUlVDRzhId050MGlCd2xSd1VGR3A1UTF3VmhLMGdkWE9mb3lua083U29DdHlnR0dEU05hY25sSFdlQ1VFM2ZkS19RYjN2WHA2MURqRU51d1FPbWZ4N1psNEVkQ1k3alR0NDQ3LW1fSkhUUEttZnV0N1pieXp5UkZJUjIzQQ?oc=5",
+          "description": "L’errore che molti fanno a cena: secondo la scienza non conta solo cosa mangi, ma anche quando Mondosanità",
+          "pubDate": "Mon, 27 Jul 2026 15:05:22 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Parkinson: dietro il tremore e il danno ai neuroni ci può essere un virus o un batterio: il sistema immunitario potrebbe essere l'anello di congiunzione che manca per capire la malattia - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNWW5vRUV3NThoVkdmeWxFRGRITDFQenpEMlFJVWExWUw4SF9DcEEzQXVDNTVmc2JpYUh3M3NKaWtwUlB4QVg1MWlSay1pMlREalhXTW9ITEMydjVvMEhadWluTWtlR0pGSFU4WUJWQ2tGbzg2MzVqc1BOZ2JuOHJpdkxoU2dETzVhNXkxQ2toejFzRUZQR1BfazNHdHl6dS0xdzlTTUx1R1hDWExFNk5aN21nRDVnZEVOSlN0bGt2dm5JYzB2enFKTXBnS0piRUtnM1NwUElNdWxGVlZkUWR2a2gzS3RVR1U2Q01ZUzY3YVM3RHdROUY4aGZPbG92d05ONmZESVJGWjJKd1RPOHhKTjl3Y1FLaTBIMjlSTDZSYXhlcFJnVXFNd0tGWDhPdUdhY1lyc0xuSERhWXRZX3k3c2RSOFcwaHc4R1Nab1c2ejdZLXJaZTE2cDNJQ1k2cHFT?oc=5",
+          "description": "Parkinson: dietro il tremore e il danno ai neuroni ci può essere un virus o un batterio: il sistema immunitario potrebbe essere l'anello di congiunzione che manca per capire la malattia Mondosanità",
+          "pubDate": "Sun, 26 Jul 2026 22:36:45 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Perché ci sentiamo in colpa quando non facciamo nulla? La scienza del riposo “proibito” - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZG0zMzBibE5zWlVkVU13WHl5Tm5yeUtndHJmN21BemUyQnJDRmlzcjRfVVdvUHMwVFlad1R0eWM2RElFVjhwZ2RPNm5nNVZfeGZYV21mdy1iOXFFellOUkxXOENDa2g2S1NyZzdNUGJwYWVaVVpsYTMtZHJ6Q3BqNEtCbHNFd0wxY2lsdG85am9lQ1JBbkNWVTRZSTJXdTN1SVpyWno3d1ZjZzd6YzJISmdZQktERi10ODZqTGlDZnNIT2RnMUFla0JCZHZFVU5RNkVGRWFhSTlhRXpN?oc=5",
+          "description": "Perché ci sentiamo in colpa quando non facciamo nulla? La scienza del riposo “proibito” Mondosanità",
+          "pubDate": "Sun, 26 Jul 2026 06:34:56 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Epatite C: migliaia di italiani non sanno di averla. Un semplice test può evitare cirrosi e tumore del fegato - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPa0lMTmFzV3VDMnJKMVByQlRLT1lVQjk4WENNWnl4Qnpsc25Vd29WQmI3eFdra0JZc3FsdENQS0VBLW52MktoTkpGaXNfM2toZzR6Ujg5VWFXWnhxM1EwdHllc1RnaDFSTUxDcy1HRDROVVdGakppWTI4THprc2ROSXYzUWNwRU5zWUpVbDBYTFBhandjd2hoRGp4OUZzNkNiaTE5ODd3M1IxWkhocGJfSEdsX3lVVUxVWkFLTm1obTh6MjRXYV9femNrTkdHMDJmNUE2dHdqV3hZcHU0aWtrVzI2dzBPLWlhck9uOGg1aw?oc=5",
+          "description": "Epatite C: migliaia di italiani non sanno di averla. Un semplice test può evitare cirrosi e tumore del fegato Mondosanità Epatite C, con un programma di screening individuate oltre 20mila infezioni sommerse ANSA Epatiti virali, Simit: “Per l’epatite C la sfida è arrivare ai pazienti sommersi” sanitainformazione.it Epatiti virali, la sfida del 2030: l’Aou di Ferrara rafforza screening e percorsi di",
+          "pubDate": "Mon, 27 Jul 2026 15:20:23 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "torna",
+      "n_items": 7,
+      "n_sources": 5,
+      "category": "clima",
+      "score": 41,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Dopo il maltempo torna l’allerta caldo nel Vicentino. «Attesi 40 gradi, peggio del 2003» - Il Giornale di Vicenza",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaVBKS2FLYU13QU5EY0FpSV9iUXcyLU9iMy02cXNuandFX3BHVVFiUkpSMEs2TThCdUhNWjE4cUlOdEJwXzA2bk1vczJkaGtfV2JTbjNlaHk3dWczRmpXME4tclZHQnR3WVB2di1qZUdCaG5sRnVHT3BhMGVpMU80V1dneWhSRXJYQkVTbnNxdFlwRzZ3am85NUtDNUNjcXJTbmNvc0gzbnVSTEE0MlZwb3JueWRxdkd3VUpzLWRsaVNLX3BXRkdUZXhGbnpVNlhsS2taQ1JuYjQ1VWxIR3BMVS1VTGFMaTBqeDR6ZlNTRTjSAfYBQVVfeXFMTmZyTmFFNU81Z3VJcEN0YW9IeHJqRWR1UzU3U1VmOHY2NGdoQzhfUzVFOVFuZHR4WHFRbGRSRFBkR1NueUZFMjVialJpcm9fZEtOVXpXQTExV3hmTkFURmw3Qi03LUdJbGhyQ1U0M253dEFxUTg3emdVcG9pa3Z0Y0FDSUZKOUtEQlAzNHczMDdFdmNGQjFVLUFzenM5cm1hYjhVX3dGNU42QlVmeFdWWVVYRkxOMWloek5yMHFDQXlFeUtudVRPUFZwcElHTmlEM0JOaklQb1JIc1M1UTRReDBBQ3pEQ3JaNDFLVENwbHJsTzFCS0VB?oc=5",
+          "description": "Dopo il maltempo torna l’allerta caldo nel Vicentino. «Attesi 40 gradi, peggio del 2003» Il Giornale di Vicenza Torna il caldo africano, ecco dove e quando colpirà la quarta ondata Sky TG24 Quarta ondata di caldo in arrivo e sarà la peggiore dell’estate: picchi di oltre 40 gradi al Nord Ovest La Stampa Avviso ondate di calore – Bollettino dal 27 al 29 luglio 2026 Comune di Napoli Previsioni meteo:",
+          "pubDate": "Mon, 27 Jul 2026 03:09:01 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Zelensky oggi da Trump: \"La guerra finirà con una pace dignitosa\" - Droni ucraini colpiscono vicino Mosca e in Crimea - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORFJMbUFKc2E3bEZkUTc4MHBKT2tkNHlpUzgybFFuM2R1cU9MbkppcjFVRFFJSndpMENwOVAxRTJpc1U3VGp0MmVoQlkxR1RFUjl3dTRzaHpEWjlpdEVucjVnQlZqNTZOdUFmOVlpVXp3bzRsMGl2WXVtSTdQVmhlVG9ZOTZ3di1RV1pENW4zcF9MaDFBQV9KLVVyeS1peTViRm1wdWRXU1VaTWRuYnNqRGt5VnVLSHB2Z1pJdjhoMlAxYTlmVENwaE5PZElxMi1OT000dmdhdzVLM1FOamR6VTBSVmtYLW1VNlBRQjdnME1rRFhUUEhFdmZn0gH_AUFVX3lxTE00azZCbEJ2TGk0a05aVmpQNGRTVFFXUmNreDVieTZaYjk0alhTYm9HaXFINlNpUThRTzM1NFQwZWRjTTNodzFtSnBCMnFucmNfRG0tQ3QtajA3amxmQXJUSkpOUy1zcnpBWU1MUDN5TUFPUnhJLU1lRkJvMGZ5V3hEcVVHbk44MjBDN2lELS1BYTB1WnMtNV9xczRpRFcwcFhJYjR4YXpueVNsVVZDQVVHbGpVNVhzUnJzdk9xbGFmQ3BaemhaUEJMSThwa1dJMGN2M1RGZlQ0RzgxY0tLRWJCRDY3SWlIcmQ5RkZNeGlZTmQxTzA3ajRIVjJqOV9aaw?oc=5",
+          "description": "Zelensky oggi da Trump: \"La guerra finirà con una pace dignitosa\" - Droni ucraini colpiscono vicino Mosca e in Crimea RaiNews Guerra Ucraina - Russia, le news di oggi. Zelensky incontra Trump alla Casa Bianca la Repubblica Alla Casa Bianca tornano Netanyahu e Zelensky. Il punto sulle guerre, Trump arranca su armi e negoziati HuffPost Italia Guerra in Ucraina: incontro tra Trump e Zelensky a Washin",
+          "pubDate": "Tue, 28 Jul 2026 03:03:42 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Panini, vestiti e serie tv: per i brand torna di moda l’identità globale",
+          "link": "https://www.ilsole24ore.com/art/panini-vestiti-e-serie-tv-i-brand-torna-moda-l-identita-globale-AJjC0nK",
+          "description": "Dopo anni in cui le marche hanno puntato su strategie locali, il mercato riscopre la dimensione senza confini: secondo McCann-Economist tre consumatori su quattro si definiscono cittadini del mondo",
+          "pubDate": "Fri, 24 Jul 2026 18:48:49 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Oltre 1.400 morti nell'epidemia di Ebola in Congo - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN3R0dDl5RkdkTHJ3Q0NqejN6bmdObFVSTkNUb3pNVWZKMXdUM3pHTDd6eGhXbk4xY2gzbDA3bFU5WWh2ZnU3TWJocThqMlZfNVUxelVEWllvSHNqWUdEcmM0WWFiUHJhSG1UeWVhVWtzZ3hhTDlCeHJ1b202MGxsZFBkckFzQ3NVZVp1b3M2Ykh5d3JvTXJqZkN5MjZ5M3M1RmtES1cyRERNUVZCcnNwbVpDZk5OSGFJTnlDd0l1V0tsZVBQTkZXTWtpZGFUdXdwQmlzNG9MQ1B0QQ?oc=5",
+          "description": "Oltre 1.400 morti nell'epidemia di Ebola in Congo ANSA Ebola torna a far paura: perché questa epidemia è diversa dalle precedenti e cosa sappiamo del virus Mondosanità Ebola, si allarga l’epidemia: 1400 morti, 3200 contagiati Tv2000 RD Congo, si aggrava l'epidemia di Ebola: 1.405 vittime su oltre 3.000 casi Vatican News Ebola, 1.405 i morti in Repubblica Congo RaiNews",
+          "pubDate": "Mon, 27 Jul 2026 01:04:00 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Tornare a vedere non è più fantascienza: dall’intervento record di Torino alle cure che stanno cambiando la cecità - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQekRZcERUVkx5dml5OGVGT0RxWVgxRVdTalUwREI4ZUJEZjhlOXhBaU5FUjQyTkRaUUJIYVRoeFlFWHE0TFliY3VjZEFKT2Z6TzhFQUNLYzZ2VXZKN01pOWdfMWhiWGttTllia3EzbU1GLU55bHVwYzRyaERqM1lDc19maFBZTVRnZFRCUERkVFEwZUVxZVRwX1U3V1hoU3lWbnJkOWZObjFST2dDQ3NwU0M0eUxXRjd5Rm9RUVc1R2JCeVViZkNSVlY1QUlkX1JNZG9ST0s5Q0w4UzB0TlF4VHlYWHRYZFh1cTRQWFFXVEswcVljZGVfRlcwQzFQdkxMbXc?oc=5",
+          "description": "Tornare a vedere non è più fantascienza: dall’intervento record di Torino alle cure che stanno cambiando la cecità Mondosanità Torino, primo autotrapianto retina tra i due occhi: donna torna a vedere dopo 5 anni sanitainformazione.it Parla la donna che ha riacquistato la vista dopo anni: “Del mondo mi mancava tutto” la Repubblica Autotrapianto della retina centrale, intervento eseguito per la prim",
+          "pubDate": "Mon, 27 Jul 2026 19:36:02 GMT"
+        }
+      ],
+      "macro_area": "clima-salute"
+    },
+    {
+      "keyword": "chip",
+      "n_items": 8,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 38,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Borsa Italiana, il commento della seduta del 27 luglio 2026 - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWW51REs2RHh0QW5OLXVSR3ZTRDVMS1kxcnlqSWN6b0NzNUJ3RF9tdkdNVjAtX3pJRjAyT0RLWU5oU1hvckwyTld6NDB4cDdfS1hJS21EeHhQWFZQa0RRMFZNLWxTSEtBSTJTSHNXU1R0TW5LZUg2aWxTYkRBS0I3MEdXSFM4MzRDT1lydERrb2dfbWVqZ0U5Q24yU0I?oc=5",
+          "description": "Borsa Italiana, il commento della seduta del 27 luglio 2026 SoldiOnline.it Borse e petrolio 27 luglio | Europa in rialzo con la speranza di un accordo tra Usa e Iran, Milano chiude a +0,49% Corriere della Sera Greggio in picchiata, mercati ottimisti RaiNews Mercati europei positivi Borsa Italiana Borse Ue tra schiarita Usa-Iran e nuovo calo chip: Milano +0,5%, Wall Street chiude debole. Greggio sc",
+          "pubDate": "Mon, 27 Jul 2026 15:51:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "ASML e i titoli chip USA crollano per il presunto breakthrough DUV della Cina - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSVYxdTA5YkNySFlYSTNmWERHQV9BY0NUTVpzdjFFWEdQQVUwZk11aUFjek95eDlUUTBWR2RLZEV1SmM1ZWJVOUh2VElQVm5WZm1EbzlwTzlsQlpyeUhtUzFkUFBTRHh6ZFljWXVBSlpDU2t6b3pQMTVpQzJDb2Q2UVVqOEt2ejR6WVdNZVp6dVQ4SmJfSUxjTmI2bE9ITXFrNXFrRE9Fbnd0NlpiY1JDY25ibFV5WXdGVGl4RUEwUGxySzlsUnl4d3JTTVRpd00?oc=5",
+          "description": "ASML e i titoli chip USA crollano per il presunto breakthrough DUV della Cina Investing.com Borse: Tokyo cede oltre il 4%, Seul quasi -8% sui timori per i chip ANSA New York: Lam Research si muove verso il basso Borsa Italiana Rollercoaster a Wall Street, i chipmakers hanno un nuovo concorrente cinese Websim Listini USA incerti appesantiti dal comparto dei chip la Repubblica",
+          "pubDate": "Mon, 27 Jul 2026 13:24:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "La febbre dei chip contagia la Cina: il produttore Cxmt sale del 466% al debutto in Borsa (e minaccia Samsung) - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOQnh4bUdzR1lJcUdHTHZlNDREcnZjU25LbHVqY21FVkUtaW53d2M2eFNxY2dDSTQ0S2dZLXFTYTczMXBIdEdDSHk5SDl0T2VvMGF0R1BTR1pteXhBaDV4UHU0M3NwZHlTd1dCd3h6TUlvTTM4V3VLdWVpX1dPOWNyTENwQnczS2NWdzdDYUFJNVhNWk41ZWJFNjE5WDR5b3NZMVVxeThJUWFfYWwzOHFlUTFyc1VfVWFxUDRvZVlLbkR2TXhWbUx6eHYxSnhwRGJtRVBVSG1rNjBzLWtUc1hpSjM0ZW9pTFM5SXlaZktuQ0c2amhoX0NZYUlzd0o5WkdabFJyQTVEVlkyUTdOakhHeGRyV3VPdXlvWm1VOVFfekMyeFN1U1l5SjhTVdIBsAJBVV95cUxQWVZQTnpnUXhlRmZrRkZJb1ZMMHVsczczR0FNQkc4NGxKWDRMRnRSeG1JWmFoX1dObW1BMHBfZkRsS1FhVjRHSVhnS2c3TkFCN2tkSWRlbGwzdXRjMXhGRjVjTkthTWpHU1ZNdkpkbDFnSGEyWnp4TlMwdWFUTXdVZFBjOVFSQ0pPRUlVTE1VQmVCZnpOVThaWDBFcTRNVUg1OWZjQmg3a3BMem5faEJjcGxHcDE1Wlp2ekJCN1ZXUWN4eFlMaE9zbGs4TFBBbDVkcXFPOTdxOFVIM0VnYTZmZUMwQ2p3aTRwajNmMVRjTDZQelo2TmN0c1FCVWVCQU5wVTl6YzVYNE4tU0Zzc1ZOeE85SjZiZmEzSW5MRXJyTkZVUGV6TllnNWtFSkdDRGVW?oc=5",
+          "description": "La febbre dei chip contagia la Cina: il produttore Cxmt sale del 466% al debutto in Borsa (e minaccia Samsung) Corriere della Sera Cxmt, debutto record a Shanghai: così la Cina accelera nell’autosufficienza sui chip la Repubblica CXMT guadagna il 500% al debutto sulla Borsa di Shanghai Borsa Italiana Cos'è successo oggi sui mercati: dal debutto shock di Cmxt in Cina a Shein in rosso alla vigilia d",
+          "pubDate": "Mon, 27 Jul 2026 10:58:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Nvidia tratta con OpenAI per 250 miliardi di dollari - Corriere del Ticino",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ0x0LVRsdWhVQ1J6OGJJZURFbFp3YW4xRHFGQktWNHgzLW5GMFJfRjFhVzg1U2xmU2x2ZnZNUzB3Y3g2UmJ6S3NYaDR1QWxhYnd3UVRkallqSHptQlJZVi1oSUNFMkJza1VQYkVZcXhvUWR1RFVXUmFxTTJmTDcyVnpfNTJmRjJIN1ZF?oc=5",
+          "description": "Nvidia tratta con OpenAI per 250 miliardi di dollari Corriere del Ticino Nvidia scommette su OpenAI, sprint verso il super data center. Musk perde lo scettro di trilionario la Repubblica Jim Cramer afferma che il governo USA è il silenzioso sostegno di Nvidia Yahoo Finanza Produttori di chip sotto pressione con nuovi timori su AI, Nvdia cede oltre il 5% Borsa Italiana Nvidia: in talks with OpenAI ",
+          "pubDate": "Mon, 27 Jul 2026 05:23:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borse: Tokyo cede oltre il 4%, Seul quasi -8% sui timori per i chip",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/28/borse-tokyo-cede-oltre-il-4-seul-quasi-8-sui-timori-per-i-chip_0a94d4fd-d4c8-4268-8b93-426581f2041b.html",
+          "description": "A guidare i ribassi sono stati i principali produttori di semiconduttori sudcoreani",
+          "pubDate": "Tue, 28 Jul 2026 03:59:13 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "intelligenza",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Leone ai giovani: usate i social e l'intelligenza artificiale con moderazione e disciplina - Vatican News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUVpqT25mLXlQbEg1b1VMZzVLbzU5VmRzaFJtMWt6RVRvVkd1TGtwZzQxWmpGWjJ5a3JjUWZHbGRubDBueWd4NDFQWEZsY29RSGs2NEdJdEVEbk4xTUlsZlVWbzdfZ09JNzlPZHlSSENUaG8zbjFXQkVfVnViVUtDSE0zQ1Rpak56eEFFS3pwbHBmQmRyUUFRZ21LX3o0ZFppbVE1dEp3YmQ?oc=5",
+          "description": "Leone ai giovani: usate i social e l'intelligenza artificiale con moderazione e disciplina Vatican News Papa ai giovani portoghesi: \"Non smettete di sognare un mondo di pace\" RaiNews Il Papa ai giovani, attenti ai social, proiettano in un mondo irreale ANSA Papa Leone ai giovani: usate social e IA moderatamente, proiettano in un mondo irreale e prendono il posto dei veri valori Tecnica della Scuol",
+          "pubDate": "Sun, 26 Jul 2026 07:01:52 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Nozze 'Appy', l'intelligenza artificiale aiuta centinaia di giapponesi a sposarsi",
+          "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/07/28/nozze-appy-lintelligenza-artificiale-aiuta-centinaia-di-giapponesi-a-sposarsi_4f8ac25b-921e-4c5b-94bd-ca532327b888.html",
+          "description": "L'app lanciata per contrastare il basso tasso di natalità",
+          "pubDate": "Tue, 28 Jul 2026 05:02:31 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "IA, deepfake e chatbot, dal 2 agosto cambiano gli obblighi di trasparenza - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQLU5mWU9PcnNpeEZIZlFnMVdFVkZMdVd3SGwwenV6eTN3bDJjczVPZFY3SzJycV9CMkt3eHlnZ0o4R1J0ekhnUURQTHEyUmZrWFFISVZIdWZadmU3UnMtVlVLbmlPN3VDQ2ZYenpKcGsxN3BZbG55MkFvTWotT1dsZG1UcjZnS3d6bzBqeXd2d0VhWFhJQzBzMlV4S1RsRHcyMUJxZ29DU2VGcnR5R2I0S3I1X2k0bzI1NXE4ZDRLQ01Gd2JqTGwyNndKQTIyczV5dzZvZTJrSDFtQ3NIZlpUY1AySGYzdEZBV0tuMDZCYTRMejY4LWtzSVZvZlkxb0xxSFJ6X2Rqc29FazdpXzdfd2VB0gGXAkFVX3lxTE9zSjg4OG9qb3haUGlPcTZkZ3Vpb1AyOE0xUElvWWN3QmZTaW44clR6NE8zTGp6OTNRejZOT2hNN1ZkYm80Nk9qYjdZQnpqOWxRV0huQ3RJRlFkcGdBekxJczE1eldQZkZILXVuaTJSZEFoOFA1OWQzSWhOR29RYmtYZkFHcEtpcXN5QmxWVl9qVWVMc2xad1BYVnlOWnhzODdOM0taVmRaU19FeFd5Tl9KOUNSSUtxXzRqeEYwbWZOM2ZoOElpdnhJc1JZbkk0bkhRYzJFSzZHMFFRVEJOTWJvb0g0d0FxUmxIcWN3QkNTRjNseHEtamt5X2duUlhiVHRLeUxxSzVqQS16RHYtS1JPcWxLa0RnQQ?oc=5",
+          "description": "IA, deepfake e chatbot, dal 2 agosto cambiano gli obblighi di trasparenza ANSA AI Act, cosa cambia dal 2 agosto per chi usa Iintelligenza Artificiale Sky TG24 EU AI Act e studi professionali: le scadenze concrete - EC News - Area fiscale EC News AI Act: che cosa cambia davvero per le scuole dal 2 agosto 2026? E per chi usa i sistemi Google o Microsoft? Tecnica della Scuola AI Act, il rinvio è una ",
+          "pubDate": "Sun, 26 Jul 2026 11:15:35 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: Seul crolla oltre l'8%, scatta il circuit breaker sul Kospi",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/28/borsa-seul-crolla-oltre-l8-scatta-il-circuit-breaker-sul-kospi_c2b44ed3-72fe-4c21-8cac-71de72c95b67.html",
+          "description": "Timori sulla sostenibilità degli investimenti nell'intelligenza artificiale",
+          "pubDate": "Tue, 28 Jul 2026 05:38:35 +0200"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Valeva 15 miliardi, ora sta crollando: la prima grande azienda travolta dall'intelligenza artificiale - today.it",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTS1DV2NvRnN5eGl1X01WZ2ZldUs4Y0JwUGl3ZjVxUHJodDNIT2Q0TVJwSjN2YkgxUjZZQUlrV3B0UHQ1amYycmRyVjBBdGNOX01GTHpTWnVTYzJGUFoweFBYQlFid1dQZkw5RHQ5Xy1ud292bjhxWmU0dmc1OU43OG1WVC1ydGdTeFlCT2E0MNIBjwFBVV95cUxQU2psSEJNR0gzSjZ1VVVSU24zb1hVVGR3S3NjdllZRFpKYjkwRTJhRG5WeF9sTDZJZkl3bXVhUTZsYWJxZ2lpdTBCZkF4UHlmU0ktbldMM3hYbXJOeEN4bEpsckw1WVZjVzAwTW11djlXemNxeE12WkhCTXBkRnpCOGNHT3lVTDhEemVVSC1UNA?oc=5",
+          "description": "Valeva 15 miliardi, ora sta crollando: la prima grande azienda travolta dall'intelligenza artificiale today.it",
+          "pubDate": "Mon, 27 Jul 2026 18:01:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "artificiale",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Leone ai giovani: usate i social e l'intelligenza artificiale con moderazione e disciplina - Vatican News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUVpqT25mLXlQbEg1b1VMZzVLbzU5VmRzaFJtMWt6RVRvVkd1TGtwZzQxWmpGWjJ5a3JjUWZHbGRubDBueWd4NDFQWEZsY29RSGs2NEdJdEVEbk4xTUlsZlVWbzdfZ09JNzlPZHlSSENUaG8zbjFXQkVfVnViVUtDSE0zQ1Rpak56eEFFS3pwbHBmQmRyUUFRZ21LX3o0ZFppbVE1dEp3YmQ?oc=5",
+          "description": "Leone ai giovani: usate i social e l'intelligenza artificiale con moderazione e disciplina Vatican News Papa ai giovani portoghesi: \"Non smettete di sognare un mondo di pace\" RaiNews Il Papa ai giovani, attenti ai social, proiettano in un mondo irreale ANSA Papa Leone ai giovani: usate social e IA moderatamente, proiettano in un mondo irreale e prendono il posto dei veri valori Tecnica della Scuol",
+          "pubDate": "Sun, 26 Jul 2026 07:01:52 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Nozze 'Appy', l'intelligenza artificiale aiuta centinaia di giapponesi a sposarsi",
+          "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/07/28/nozze-appy-lintelligenza-artificiale-aiuta-centinaia-di-giapponesi-a-sposarsi_4f8ac25b-921e-4c5b-94bd-ca532327b888.html",
+          "description": "L'app lanciata per contrastare il basso tasso di natalità",
+          "pubDate": "Tue, 28 Jul 2026 05:02:31 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "IA, deepfake e chatbot, dal 2 agosto cambiano gli obblighi di trasparenza - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQLU5mWU9PcnNpeEZIZlFnMVdFVkZMdVd3SGwwenV6eTN3bDJjczVPZFY3SzJycV9CMkt3eHlnZ0o4R1J0ekhnUURQTHEyUmZrWFFISVZIdWZadmU3UnMtVlVLbmlPN3VDQ2ZYenpKcGsxN3BZbG55MkFvTWotT1dsZG1UcjZnS3d6bzBqeXd2d0VhWFhJQzBzMlV4S1RsRHcyMUJxZ29DU2VGcnR5R2I0S3I1X2k0bzI1NXE4ZDRLQ01Gd2JqTGwyNndKQTIyczV5dzZvZTJrSDFtQ3NIZlpUY1AySGYzdEZBV0tuMDZCYTRMejY4LWtzSVZvZlkxb0xxSFJ6X2Rqc29FazdpXzdfd2VB0gGXAkFVX3lxTE9zSjg4OG9qb3haUGlPcTZkZ3Vpb1AyOE0xUElvWWN3QmZTaW44clR6NE8zTGp6OTNRejZOT2hNN1ZkYm80Nk9qYjdZQnpqOWxRV0huQ3RJRlFkcGdBekxJczE1eldQZkZILXVuaTJSZEFoOFA1OWQzSWhOR29RYmtYZkFHcEtpcXN5QmxWVl9qVWVMc2xad1BYVnlOWnhzODdOM0taVmRaU19FeFd5Tl9KOUNSSUtxXzRqeEYwbWZOM2ZoOElpdnhJc1JZbkk0bkhRYzJFSzZHMFFRVEJOTWJvb0g0d0FxUmxIcWN3QkNTRjNseHEtamt5X2duUlhiVHRLeUxxSzVqQS16RHYtS1JPcWxLa0RnQQ?oc=5",
+          "description": "IA, deepfake e chatbot, dal 2 agosto cambiano gli obblighi di trasparenza ANSA AI Act, cosa cambia dal 2 agosto per chi usa Iintelligenza Artificiale Sky TG24 EU AI Act e studi professionali: le scadenze concrete - EC News - Area fiscale EC News AI Act: che cosa cambia davvero per le scuole dal 2 agosto 2026? E per chi usa i sistemi Google o Microsoft? Tecnica della Scuola AI Act, il rinvio è una ",
+          "pubDate": "Sun, 26 Jul 2026 11:15:35 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: Seul crolla oltre l'8%, scatta il circuit breaker sul Kospi",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/28/borsa-seul-crolla-oltre-l8-scatta-il-circuit-breaker-sul-kospi_c2b44ed3-72fe-4c21-8cac-71de72c95b67.html",
+          "description": "Timori sulla sostenibilità degli investimenti nell'intelligenza artificiale",
+          "pubDate": "Tue, 28 Jul 2026 05:38:35 +0200"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Valeva 15 miliardi, ora sta crollando: la prima grande azienda travolta dall'intelligenza artificiale - today.it",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTS1DV2NvRnN5eGl1X01WZ2ZldUs4Y0JwUGl3ZjVxUHJodDNIT2Q0TVJwSjN2YkgxUjZZQUlrV3B0UHQ1amYycmRyVjBBdGNOX01GTHpTWnVTYzJGUFoweFBYQlFid1dQZkw5RHQ5Xy1ud292bjhxWmU0dmc1OU43OG1WVC1ydGdTeFlCT2E0MNIBjwFBVV95cUxQU2psSEJNR0gzSjZ1VVVSU24zb1hVVGR3S3NjdllZRFpKYjkwRTJhRG5WeF9sTDZJZkl3bXVhUTZsYWJxZ2lpdTBCZkF4UHlmU0ktbldMM3hYbXJOeEN4bEpsckw1WVZjVzAwTW11djlXemNxeE12WkhCTXBkRnpCOGNHT3lVTDhEemVVSC1UNA?oc=5",
+          "description": "Valeva 15 miliardi, ora sta crollando: la prima grande azienda travolta dall'intelligenza artificiale today.it",
+          "pubDate": "Mon, 27 Jul 2026 18:01:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "ilva",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Accise, tagli solo sul diesel: -17 cent fino al 6. Meloni: “Tempestivo ma non risolve il problema” - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSkttZzlLbjdfaDRjRmNnc09TUjljSTZ3N0t3ZHVzdHo4VGtnb1VSUFpHNXRjU2MwLTQzWTMzaUhyYkY5YUNVNDAwNkpMemFmUUxMbVMyWnp1QmxFemQ4enA0VXFJY2hFemZOSk01ZTN0VlZmSzhlOXdMeFptOE9aTzdQNFcwbmkxSkNqb2RSVVo5YTc1bmNRYjdaUHM3Tmk4VU9NODZxZ1c4aklzYmJMRzFMZzVqNU5oYWJxYg?oc=5",
+          "description": "Accise, tagli solo sul diesel: -17 cent fino al 6. Meloni: “Tempestivo ma non risolve il problema” la Repubblica Carburanti, sconto di 17 centesimi solo sul gasolio fino al 6 agosto: la decisione del governo Corriere della Sera Cdm con misure per caro carburanti ed ex Ilva, Giorgetti: \"Sconto solo su gasolio per 17 centesimi\" RaiNews Sul diesel sconto da 17 cent fino al 6 agosto, Fi-Lega contro au",
+          "pubDate": "Mon, 27 Jul 2026 16:48:26 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Carburanti, ecco quanto potrebbe valere il taglio delle accise su gasolio e benzina - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRFotSWlVRmhNOFlESlR0LTBOZklRRUJlVEpNM3FkbnRfLWY2dXF5ZU9tRVNhVFFqblM3QmZwM19aeF9ITGhCSXVyQlV0VFdEcUxlc0xxbTQwd1pkRW9FczRSa0dBWmo5TXdYYkhsWWdFNURyVG13OWxPQ2xXWWI1ZHYtTTNvMW9QcHNXS0syOGFKRnVaMFRqa3VTVUQ3SVJFYnYxYlZ5VnY3TXh1aTZj?oc=5",
+          "description": "Carburanti, ecco quanto potrebbe valere il taglio delle accise su gasolio e benzina Il Sole 24 ORE Carburanti, sconto di 17 centesimi solo sul gasolio fino al 6 agosto: la decisione del governo Corriere della Sera Cdm con misure per caro carburanti ed ex Ilva, Giorgetti: \"Sconto solo su gasolio per 17 centesimi\" RaiNews Sul diesel sconto da 17 cent fino al 6 agosto, Fi-Lega contro aumento tabacchi",
+          "pubDate": "Mon, 27 Jul 2026 19:05:38 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Jindal conferma impegno per l'acquisizione dell'ex Ilva di Taranto",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/jindal-conferma-impegno-per-lacquisizione-dellex-ilva-di-taranto_e91f18be-6725-4613-b282-89ca94a56a4c.html",
+          "description": "Sia per l'area a caldo sia per quella a freddo, con la costruzione di un forno carbon free",
+          "pubDate": "Mon, 27 Jul 2026 23:46:37 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Giorgetti, in decreto 100 milioni per l'ex Ilva",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/giorgetti-in-decreto-100-milioni-per-lex-ilva_d12affdf-265c-4604-b359-a65706e9b7e5.html",
+          "description": "'Per completare il percorso di cessione delle attività'",
+          "pubDate": "Mon, 27 Jul 2026 18:50:19 +0200"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Ex Ilva, Corte d’Appello Milano: stop area a caldo entro 90 giorni se non riduce emissioni. Governo conferma prestito",
+          "link": "https://www.ilsole24ore.com/art/ilva-corte-appello-milano-stop-all-area-caldo-entro-90-giorni-se-non-si-riducono-emissioni-AJoakzW",
+          "description": "Deflagra il caso ex Ilva alla vigilia del vertice di domani mattina 28 luglio a Palazzo Chigi tra Governo (la questione è anche nell’ordine del Giorno del Consiglio...",
+          "pubDate": "Mon, 27 Jul 2026 10:39:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "guerra",
+      "n_items": 7,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "score": 34,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa-Iran, Trump: \"Sospesi raid per dare chance, ma pronto a una forte azione\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95OXM3XzhHVjlxQU45aTBWRkdSX3V3SHB5TFQ3dFNSOHdPSHFSWGY4YVdONlg0VHBHUW5ldzkzd2oxWWY0VmNQeU9MMGRWZkRMM25jSGhYVTJZUGZKU3NHSDhtb25qaWdtVDF5OEpXLXNiQ3M0TjhNbXZuRQ?oc=5",
+          "description": "Guerra Usa-Iran, Trump: \"Sospesi raid per dare chance, ma pronto a una forte azione\" Sky TG24 Iran, 60 morti in 12 giorni. Trump: \"Colloqui in corso, ma pronti a un'azione forte\" RaiNews Guerra Usa-Iran, le notizie in diretta | Trump: «Con l'Iran colloqui approfonditi, ma se falliscono pronti a forte azione militare». Nuovi attacchi Houthi contro infrastrutture saudite Corriere della Sera Corse in",
+          "pubDate": "Mon, 27 Jul 2026 21:21:15 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Ucraina Russia, attacco russo in Donetsk: quattro morti e 18 feriti - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZjRFc3JCT09ObTh2Z05BS3RqeDAzeTlMZVBmS25vTloxUmVuTGFEX0dvYXZPZmM4b3BIVUc4dmVKY2pqc1JBbm5IbkJub2FXV0JyOEI0b2ZZT1pRbmZDWGFlYmVsV3FJbkt2WThSbzZ4bnJWTVplX1YtMG54ZHZ2cHh2WDBmLTlI?oc=5",
+          "description": "Guerra Ucraina Russia, attacco russo in Donetsk: quattro morti e 18 feriti Sky TG24 Le notizie di lunedì 27 luglio sulla guerra Ucraina-Russia Corriere della Sera Russia, attacco aereo a Rostov uccide due persone e ne ferisce 5 ANSA Ucraina: attacchi incrociati, vittime e distruzione Tv2000 Attacco aereo a Rostov, due morti. La Russia risponde con raid su Zaporizhzhia La Stampa",
+          "pubDate": "Mon, 27 Jul 2026 21:59:58 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Zelensky oggi da Trump: \"La guerra finirà con una pace dignitosa\" - Droni ucraini colpiscono vicino Mosca e in Crimea - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORFJMbUFKc2E3bEZkUTc4MHBKT2tkNHlpUzgybFFuM2R1cU9MbkppcjFVRFFJSndpMENwOVAxRTJpc1U3VGp0MmVoQlkxR1RFUjl3dTRzaHpEWjlpdEVucjVnQlZqNTZOdUFmOVlpVXp3bzRsMGl2WXVtSTdQVmhlVG9ZOTZ3di1RV1pENW4zcF9MaDFBQV9KLVVyeS1peTViRm1wdWRXU1VaTWRuYnNqRGt5VnVLSHB2Z1pJdjhoMlAxYTlmVENwaE5PZElxMi1OT000dmdhdzVLM1FOamR6VTBSVmtYLW1VNlBRQjdnME1rRFhUUEhFdmZn0gH_AUFVX3lxTE00azZCbEJ2TGk0a05aVmpQNGRTVFFXUmNreDVieTZaYjk0alhTYm9HaXFINlNpUThRTzM1NFQwZWRjTTNodzFtSnBCMnFucmNfRG0tQ3QtajA3amxmQXJUSkpOUy1zcnpBWU1MUDN5TUFPUnhJLU1lRkJvMGZ5V3hEcVVHbk44MjBDN2lELS1BYTB1WnMtNV9xczRpRFcwcFhJYjR4YXpueVNsVVZDQVVHbGpVNVhzUnJzdk9xbGFmQ3BaemhaUEJMSThwa1dJMGN2M1RGZlQ0RzgxY0tLRWJCRDY3SWlIcmQ5RkZNeGlZTmQxTzA3ajRIVjJqOV9aaw?oc=5",
+          "description": "Zelensky oggi da Trump: \"La guerra finirà con una pace dignitosa\" - Droni ucraini colpiscono vicino Mosca e in Crimea RaiNews Guerra Ucraina - Russia, le news di oggi. Zelensky incontra Trump alla Casa Bianca la Repubblica Alla Casa Bianca tornano Netanyahu e Zelensky. Il punto sulle guerre, Trump arranca su armi e negoziati HuffPost Italia Guerra in Ucraina: incontro tra Trump e Zelensky a Washin",
+          "pubDate": "Tue, 28 Jul 2026 03:03:42 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Usa-Iran, le notizie in diretta | Trump: «Con l'Iran colloqui approfonditi, ma se falliscono pronti a forte azione militare». Nuovi attacchi Houthi contro infrastrutture saudite - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWJyQzNFN1BCY2pOZmY0dEo2TF81Y1RXUDRHb1h3bG1pMjdEVC0tTnJxVkhBSTdVd3BQNHR1OERhNDV6QmlqaVlrdEU5X3RvZHpfZ2NQYTZMTVhnN0VDOTFQZGpwMkZjd0VNU3ZWbUVMZ2lmNFVubXE3N2h2TmtqOHNpd0NENTlNTnBxatIBkgFBVV95cUxONlpoY3JfV1gxWWlRcnRKaEZLOGU2RGZEd3NjdlhQbXBHQjB4QlF2ZXZsckJUQXdWV0g3LTYzWDM4RjB4SzA4WFRPZWFxQnFPdGtUeHdLcjIzaTNWNzBERGc0S3ZSaHhIREN4enh6LXdvOFBJUmJQdnVVVHdYdmVkajU1VFhfN0JxZ0dScEZ1eFJSQQ?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Trump: «Con l'Iran colloqui approfonditi, ma se falliscono pronti a forte azione militare». Nuovi attacchi Houthi contro infrastrutture saudite Corriere della Sera Iran, 60 morti in 12 giorni. Trump: \"Colloqui in corso, ma pronti a un'azione forte\" RaiNews Corse in auto di James Dean e gli arsenali missilistici La Stampa Guerra a vuoto | I bombardamenti di ",
+          "pubDate": "Tue, 28 Jul 2026 00:55:52 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Yemen, salta la tregua quadriennale: riesplode la guerra totale tra Houthi e Arabia Saudita - Il Tempo",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTTZXTEhyal9CcWV1TTZOTG1qaFhSMGhkTEhlVE4xUjBfVmFhRHpXQ3RtLW16R08tdlZJRzJDWGNBQXQ2YWttWXl4dVBOZ0l4SDBYWlFmbWNiQ3ZFMmRYYnJId0tBZXh4UFRaRjRUUGw0ZFoyc0dCZEhUTFNPWjlNT0ExUDcxRjRaNlBicjRILWk3bmI0cXo5RzhSc1Q3U2JjZTl5c1BEWkpXaHdmMDhzVFNvN1JZOWZHY0dYMW5IaWdodEc3VjVzdjNSX3FIeV9HQ01Z?oc=5",
+          "description": "Yemen, salta la tregua quadriennale: riesplode la guerra totale tra Houthi e Arabia Saudita Il Tempo Gli Houthi attaccano impianti petroliferi sauditi con droni ANSA Un conflitto tira l’altro, l’Arabia saudita colpita dagli Houthi il manifesto I patriot del battaglione greco fanno scudo ai siti petroliferi di Aramco la Repubblica Slalom in barca tra le mine di Hormuz. “Il mare è l’arma micidiale d",
+          "pubDate": "Mon, 27 Jul 2026 15:38:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "samsung",
+      "n_items": 7,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 34,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "La febbre dei chip contagia la Cina: il produttore Cxmt sale del 466% al debutto in Borsa (e minaccia Samsung) - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOQnh4bUdzR1lJcUdHTHZlNDREcnZjU25LbHVqY21FVkUtaW53d2M2eFNxY2dDSTQ0S2dZLXFTYTczMXBIdEdDSHk5SDl0T2VvMGF0R1BTR1pteXhBaDV4UHU0M3NwZHlTd1dCd3h6TUlvTTM4V3VLdWVpX1dPOWNyTENwQnczS2NWdzdDYUFJNVhNWk41ZWJFNjE5WDR5b3NZMVVxeThJUWFfYWwzOHFlUTFyc1VfVWFxUDRvZVlLbkR2TXhWbUx6eHYxSnhwRGJtRVBVSG1rNjBzLWtUc1hpSjM0ZW9pTFM5SXlaZktuQ0c2amhoX0NZYUlzd0o5WkdabFJyQTVEVlkyUTdOakhHeGRyV3VPdXlvWm1VOVFfekMyeFN1U1l5SjhTVdIBsAJBVV95cUxQWVZQTnpnUXhlRmZrRkZJb1ZMMHVsczczR0FNQkc4NGxKWDRMRnRSeG1JWmFoX1dObW1BMHBfZkRsS1FhVjRHSVhnS2c3TkFCN2tkSWRlbGwzdXRjMXhGRjVjTkthTWpHU1ZNdkpkbDFnSGEyWnp4TlMwdWFUTXdVZFBjOVFSQ0pPRUlVTE1VQmVCZnpOVThaWDBFcTRNVUg1OWZjQmg3a3BMem5faEJjcGxHcDE1Wlp2ekJCN1ZXUWN4eFlMaE9zbGs4TFBBbDVkcXFPOTdxOFVIM0VnYTZmZUMwQ2p3aTRwajNmMVRjTDZQelo2TmN0c1FCVWVCQU5wVTl6YzVYNE4tU0Zzc1ZOeE85SjZiZmEzSW5MRXJyTkZVUGV6TllnNWtFSkdDRGVW?oc=5",
+          "description": "La febbre dei chip contagia la Cina: il produttore Cxmt sale del 466% al debutto in Borsa (e minaccia Samsung) Corriere della Sera Cxmt, debutto record a Shanghai: così la Cina accelera nell’autosufficienza sui chip la Repubblica CXMT guadagna il 500% al debutto sulla Borsa di Shanghai Borsa Italiana Cos'è successo oggi sui mercati: dal debutto shock di Cmxt in Cina a Shein in rosso alla vigilia d",
+          "pubDate": "Mon, 27 Jul 2026 10:58:00 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Migliori smartwatch Samsung (Luglio 2026) - tuttoapp-android.com",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NNVRRVnVVWk5TTXpSa21SSHh3OVNqUmF0bzc5UVBsX0J6QndSaTlkRHprSkVsbnBaN1MtR3QzOEd6VTNjNFBEOUY0OFNlT0c4dUFseFcxSVpTYTIwYWZCN3pzVmFBTEJabXVZQTFWTUZiUDRZcEE?oc=5",
+          "description": "Migliori smartwatch Samsung (Luglio 2026) tuttoapp-android.com",
+          "pubDate": "Mon, 27 Jul 2026 18:21:02 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Samsung Galaxy S27 Ultra, finalmente la batteria cresce, e non di poco! - HDblog.it",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM0NDTm9LUDNHcmR4WDkwS1FQMjVvLVZ5cnl6S2xIdHl5N2xfU2JmMkdnZFRFQVh4bWZtNkRCWGs2cmFrNFlzUnl0SVVqeldIREJaY0d6aHpJLTVVUFVCTlc5S3J4YTFIWDdjeWVwem1rdFpmNzZCNGN3SkI2MzdqanJFTjZVbmxrdHdjQXRvU2ZwR2FHVWxFRTFlUlo?oc=5",
+          "description": "Samsung Galaxy S27 Ultra, finalmente la batteria cresce, e non di poco! HDblog.it",
+          "pubDate": "Mon, 27 Jul 2026 17:05:52 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Samsung ottiene tre riconoscimenti Altroconsumo per frigoriferi e lavatrice con Intelligenza Artificiale - Samsung Global Newsroom",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbVpCdGNhcUUtalJaTHZScXlZdjEtYWE2LVluVzNESUQteDNNTHZXd0dvQ2dlbklnZDQxZU5IMzNjXzRUQUVWenlFbjJDMXp0TEljZnZvZnhjTmZJelM0ZUFqUHlpd2o0clBqQWF2TVRTcmZwd195V0hPTkNaOUk5cUhRc1pEdHVHbmQxZWJfN2ZsdGloMGlSSXdOYW0tZEdWRHZvdkVfZk94MmpPNjQxQS11LW1iTUpSWTVHcVNNclhKM01nVDV6a181eEk?oc=5",
+          "description": "Samsung ottiene tre riconoscimenti Altroconsumo per frigoriferi e lavatrice con Intelligenza Artificiale Samsung Global Newsroom",
+          "pubDate": "Mon, 27 Jul 2026 10:47:05 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Samsung Galaxy S27 Pro and S27 Ultra battery capacities leak - GSMArena.com news - GSMArena.com",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzB6RTlmcURScDBMZHRwN3pIQ0NiUzBmVERrUjF5b1NCSFFwdVVTOUpuYW9VTG9NSXV4TlAzV0dLVmNVanFQQnFIVWNXeWxkNkRKYkJoZkF2MU16NW5Ed3Vfek90VndSNEgyZE9rdHFzczJzODZSbFI4RmU5eTZ0YmxCSlVXUjZ2aWNZQXhQdThzRm1GWVZmTkFxODVqYWtVY1HSAZ4BQVVfeXFMT0RhUGZkelJ3QXVSWTBWU3RoeFpDUTZ5VUVFNVlBbzJaUVhmYzNNOXZDaUVEQTRBR1JMSWd3cW1seVlGVzhmdHBFNi1TRzdxMkxiNW9EQU1kVjRpRkpZeFY5NGxITWVTcFdDcG5pTkZrUGVlMm4wajlWYVYzX0FyUm5Yc1RMQkh6aUo4eDBITHdIU2pJWjRodjAyaDhMN3c?oc=5",
+          "description": "Samsung Galaxy S27 Pro and S27 Ultra battery capacities leak - GSMArena.com news GSMArena.com Samsung’s Galaxy Z Fold 8 ‘Passport’ Design Is the Next Big Smartphone Trend Bloomberg.com Samsung Galaxy Z Fold8 Ultra, Fold8 and Flip8: Foldables, Perfected for Every Way of Living Samsung Global Newsroom T-Mobile is giving away the new Samsung Galaxy Z Fold 8 for free — how to claim yours Mashable Gala",
+          "pubDate": "Mon, 27 Jul 2026 23:31:02 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "forte",
+      "n_items": 5,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 31,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Usa-Iran, Trump: \"Sospesi raid per dare chance, ma pronto a una forte azione\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95OXM3XzhHVjlxQU45aTBWRkdSX3V3SHB5TFQ3dFNSOHdPSHFSWGY4YVdONlg0VHBHUW5ldzkzd2oxWWY0VmNQeU9MMGRWZkRMM25jSGhYVTJZUGZKU3NHSDhtb25qaWdtVDF5OEpXLXNiQ3M0TjhNbXZuRQ?oc=5",
+          "description": "Guerra Usa-Iran, Trump: \"Sospesi raid per dare chance, ma pronto a una forte azione\" Sky TG24 Iran, 60 morti in 12 giorni. Trump: \"Colloqui in corso, ma pronti a un'azione forte\" RaiNews Guerra Usa-Iran, le notizie in diretta | Trump: «Con l'Iran colloqui approfonditi, ma se falliscono pronti a forte azione militare». Nuovi attacchi Houthi contro infrastrutture saudite Corriere della Sera Corse in",
+          "pubDate": "Mon, 27 Jul 2026 21:21:15 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Usa-Iran, le notizie in diretta | Trump: «Con l'Iran colloqui approfonditi, ma se falliscono pronti a forte azione militare». Nuovi attacchi Houthi contro infrastrutture saudite - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWJyQzNFN1BCY2pOZmY0dEo2TF81Y1RXUDRHb1h3bG1pMjdEVC0tTnJxVkhBSTdVd3BQNHR1OERhNDV6QmlqaVlrdEU5X3RvZHpfZ2NQYTZMTVhnN0VDOTFQZGpwMkZjd0VNU3ZWbUVMZ2lmNFVubXE3N2h2TmtqOHNpd0NENTlNTnBxatIBkgFBVV95cUxONlpoY3JfV1gxWWlRcnRKaEZLOGU2RGZEd3NjdlhQbXBHQjB4QlF2ZXZsckJUQXdWV0g3LTYzWDM4RjB4SzA4WFRPZWFxQnFPdGtUeHdLcjIzaTNWNzBERGc0S3ZSaHhIREN4enh6LXdvOFBJUmJQdnVVVHdYdmVkajU1VFhfN0JxZ0dScEZ1eFJSQQ?oc=5",
+          "description": "Guerra Usa-Iran, le notizie in diretta | Trump: «Con l'Iran colloqui approfonditi, ma se falliscono pronti a forte azione militare». Nuovi attacchi Houthi contro infrastrutture saudite Corriere della Sera Iran, 60 morti in 12 giorni. Trump: \"Colloqui in corso, ma pronti a un'azione forte\" RaiNews Corse in auto di James Dean e gli arsenali missilistici La Stampa Guerra a vuoto | I bombardamenti di ",
+          "pubDate": "Tue, 28 Jul 2026 00:55:52 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Trump: 'Sospesi i raid all'Iran per dare una chance ma sono pronto a un'azione forte'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/07/27/trump-sospesi-i-raid-alliran-per-dare-una-chance-ma-pronto-a-forte_2bfa8385-53b7-479f-a9a8-1faa679c1637.html",
+          "description": "Il presidente Usa ha detto che non verrà concesso 'molto tempo' alla diplomazia",
+          "pubDate": "Mon, 27 Jul 2026 19:51:05 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: Europa in rialzo, Francoforte +1,04%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/07/27/borsa-europa-in-rialzo-francoforte-104_ec7c6ef0-7db0-4ff0-ba45-a822c8f7553e.html",
+          "description": "Parigi +0,4%, Londra +0,4%, Madrid +0,8%",
+          "pubDate": "Mon, 27 Jul 2026 18:13:52 +0200"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Meteo, il “super El Niño” fa paura: «Sarà il fenomeno più forte di sempre» – Le conseguenze - La Nuova Sardegna",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSHgxZVIxQXcxbGRmRDBySmRXZUFHZk5XUlU0Zm5ndW1YRXRad0lBaTJ2SXZEWE1ZNThxUFlkeEItWUVnekJ6VXp4a3Y3LWZZRkNVRFlVb2c3MEI2ZUJSSnVQSG1ORjc2WGNvOTNoSlpIdVlud3hlZVFkeWF6a3hHTEtZUDNDRmx4bXBXRGNicDItRDZ3THNhYjRMS0tIT1ZWRUxjRXcxd0VQTmFoVGxRdU4xUzh3R0ZDSEloRno3MlVmWW5GS3NXN1NCYXo3Q3dfd3drZ1h2dw?oc=5",
+          "description": "Meteo, il “super El Niño” fa paura: «Sarà il fenomeno più forte di sempre» – Le conseguenze La Nuova Sardegna",
+          "pubDate": "Mon, 27 Jul 2026 12:44:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "borsa",
+      "n_items": 11,
+      "n_sources": 2,
+      "category": "economia",
+      "score": 28,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Petrolio e gas in caduta libera, il Brent sotto i 90 dollari - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOVgyMURCaFdQSTlWNVpmZEtKMXJ2NEpyZDNreHQxRzVVQl8yLVNTLU4yZTZGeFUwRThVUEs3cXV3eHBfdjlvOElGbUEzYXUtM09zeVh6UGpDdktxRDM3M2dwTFUxNFRkaENvd090M1h2LXFsOXBuQmIwV05iV1RnelNyR3dMYmhFZjBxSG1LRHdyazk0Vlo4bGdwWThTRlcxS3V6SXRWb1lGd0pfWVdyYjAyVFEza2FiTldRNEFwZ0hscEFkWTZvakJDNW5BVEN3TWNCbnNiazljNFRLT3JxaUJkUXoxcTB0X1HSAe8BQVVfeXFMTmQ1SlFwRS1TbzNHNW1XaVQ3TE5IMkx2eWJmOXZSOE1mZnlzbEw5bHRTamZtVmdWWVhnZHpGRU5oTk9YbE1xSXplMTdfQjJvR0djcDFac05ZWkJybmJmdl9vNTBpNW9jYnVqRnpUQUxpTnpTRGVJUFN3XzJISlBqRG5CNmJuVm9ucU9tY2V3MnU2WDRHR0lweHNvN1FfZ20tWUVjVG9tSVBXNW83dlAwOTZGV0FJQi11T2p0TTdWTVRLbFpXVEx3bHM0Y0J3UnVwQWoxdnM5WXFnMTY3Q3pic2dBV0tRak1LSWh0NC00SzQ?oc=5",
+          "description": "Petrolio e gas in caduta libera, il Brent sotto i 90 dollari ANSA Il Mondo a pezzi. Il secondo shock di Hormuz - Intervista a Paolo Guerrieri Paleotti (27.07.2026) Radio Radicale Natural Gas (Amsterdam) a 57,07 euro per Megawatt-Ora alle 19:30 Borsa Italiana Il petrolio crolla mentre si allentano le tensioni tra Stati Uniti e Iran Yahoo Finanza Perché il rialzo di gas e petrolio è contenuto nonost",
+          "pubDate": "Mon, 27 Jul 2026 11:23:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borsa Italiana, il commento della seduta del 27 luglio 2026 - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWW51REs2RHh0QW5OLXVSR3ZTRDVMS1kxcnlqSWN6b0NzNUJ3RF9tdkdNVjAtX3pJRjAyT0RLWU5oU1hvckwyTld6NDB4cDdfS1hJS21EeHhQWFZQa0RRMFZNLWxTSEtBSTJTSHNXU1R0TW5LZUg2aWxTYkRBS0I3MEdXSFM4MzRDT1lydERrb2dfbWVqZ0U5Q24yU0I?oc=5",
+          "description": "Borsa Italiana, il commento della seduta del 27 luglio 2026 SoldiOnline.it Borse e petrolio 27 luglio | Europa in rialzo con la speranza di un accordo tra Usa e Iran, Milano chiude a +0,49% Corriere della Sera Greggio in picchiata, mercati ottimisti RaiNews Mercati europei positivi Borsa Italiana Borse Ue tra schiarita Usa-Iran e nuovo calo chip: Milano +0,5%, Wall Street chiude debole. Greggio sc",
+          "pubDate": "Mon, 27 Jul 2026 15:51:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Tre Btp in asta il 30 luglio 2026. Le caratteristiche - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd080ZmRSaGFaOGZSajYwcXV0WmhtcDFfa3R6VDJLM2gzQ3BtZTY1Tk90N2ItWkloNHladGR6QlMtX3hYVDZlLUpvY3pydG96UVdGUjhocXRReGhxeHN2NXNiUW95cVhXQmt0cXRkbDFSV2xudTZtcF96NDlYSWRWa21ZUXdfbWxkYlNmclJnZXNjTHZXRVFyM3ZqTU0za1Bv?oc=5",
+          "description": "Tre Btp in asta il 30 luglio 2026. Le caratteristiche SoldiOnline.it Tesoro: in asta 30 luglio BTp 5 e 10 anni e CcTeu fino a 8 miliardi Il Sole 24 ORE Asta BOT 29 luglio 2026, rendimenti e costi per le imprese PMI.it MEF, il 29 luglio in asta BOT 6 mesi per 7,5 miliardi di euro Borsa Italiana MEF, il 28 luglio in asta BTP per complessivi 5,5 miliardi di euro Teleborsa",
+          "pubDate": "Mon, 27 Jul 2026 16:52:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Nasdaq in ripresa: 7 titoli tech che potrebbero beneficiare del rialzo - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORzRHQjJkU1I4cDdUeDdmdGxqYnhIZXFlQjRNcTFZWTFKeDJKaXNrVGVwcDVOcEZjWFFhT0toaTZDX0xQVDJwRGhnWGpNVl9ta1czWkJQaTBxXzk1enhkb0FBSnNBWXZxQnZ4TWNiTGZvUUxmbWg2aWpxbmlLbVluc0JrdmRNTWxsU2VZUzRTMEV5eTVaRERvbVVTY3NoLXAtaC1HeDV2MTI4WUpoWVU5Ul8yLVl1MkM1VWxwOGdQUTUtSUU?oc=5",
+          "description": "Nasdaq in ripresa: 7 titoli tech che potrebbero beneficiare del rialzo Investing.com La diretta da Wall Street | Borse Usa chiudono contrastate: Dow Jones +0,5%, Nasdaq -0,2% Milano Finanza Wall Street tonica con allentamento tensioni in Medioriente e calo del petrolio Borsa Italiana I mercati USA guardano alla stagione delle trimestrali mentre si allentano le tensioni in Medio Oriente: Dow Jones,",
+          "pubDate": "Mon, 27 Jul 2026 11:44:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Saipem - Oggi in uscita i risultati del 2Q 2026 - Websim",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWFA0Y1BMQ0ZmSUdTbGxyUXlxZkdXMW12ZE85X2NFVFd1LUhuWjlaa3dUckwzWmpxX2NZN3JkNXRJaERXT1JwNTdLaXZxUmlWMlUxSFRCRzlGLTdLTUhWTEJqbWRnNUR3ckM5VmxrelMxQlFITkZMUWxraU5TYko4Q3dKbWs2TjA3OTRNbGZ3?oc=5",
+          "description": "Saipem - Oggi in uscita i risultati del 2Q 2026 Websim Saipem chiude il semestre con ricavi in crescita a 7,34 miliardi ANSA Saipem, i conti del 1° semestre 2026 SoldiOnline.it Saipem: in I sem utile cala a 131 mln, +33% nuovi ordini per 5,7 mld Il Sole 24 ORE Saipem: nel primo semestre ricavi a 7,3 miliardi (+2%) e balzo dei nuovi ordini (+33%) Borsa Italiana",
+          "pubDate": "Mon, 27 Jul 2026 07:28:00 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "droni",
+      "n_items": 5,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 26,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Zelensky oggi da Trump: \"La guerra finirà con una pace dignitosa\" - Droni ucraini colpiscono vicino Mosca e in Crimea - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORFJMbUFKc2E3bEZkUTc4MHBKT2tkNHlpUzgybFFuM2R1cU9MbkppcjFVRFFJSndpMENwOVAxRTJpc1U3VGp0MmVoQlkxR1RFUjl3dTRzaHpEWjlpdEVucjVnQlZqNTZOdUFmOVlpVXp3bzRsMGl2WXVtSTdQVmhlVG9ZOTZ3di1RV1pENW4zcF9MaDFBQV9KLVVyeS1peTViRm1wdWRXU1VaTWRuYnNqRGt5VnVLSHB2Z1pJdjhoMlAxYTlmVENwaE5PZElxMi1OT000dmdhdzVLM1FOamR6VTBSVmtYLW1VNlBRQjdnME1rRFhUUEhFdmZn0gH_AUFVX3lxTE00azZCbEJ2TGk0a05aVmpQNGRTVFFXUmNreDVieTZaYjk0alhTYm9HaXFINlNpUThRTzM1NFQwZWRjTTNodzFtSnBCMnFucmNfRG0tQ3QtajA3amxmQXJUSkpOUy1zcnpBWU1MUDN5TUFPUnhJLU1lRkJvMGZ5V3hEcVVHbk44MjBDN2lELS1BYTB1WnMtNV9xczRpRFcwcFhJYjR4YXpueVNsVVZDQVVHbGpVNVhzUnJzdk9xbGFmQ3BaemhaUEJMSThwa1dJMGN2M1RGZlQ0RzgxY0tLRWJCRDY3SWlIcmQ5RkZNeGlZTmQxTzA3ajRIVjJqOV9aaw?oc=5",
+          "description": "Zelensky oggi da Trump: \"La guerra finirà con una pace dignitosa\" - Droni ucraini colpiscono vicino Mosca e in Crimea RaiNews Guerra Ucraina - Russia, le news di oggi. Zelensky incontra Trump alla Casa Bianca la Repubblica Alla Casa Bianca tornano Netanyahu e Zelensky. Il punto sulle guerre, Trump arranca su armi e negoziati HuffPost Italia Guerra in Ucraina: incontro tra Trump e Zelensky a Washin",
+          "pubDate": "Tue, 28 Jul 2026 03:03:42 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Yemen, salta la tregua quadriennale: riesplode la guerra totale tra Houthi e Arabia Saudita - Il Tempo",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTTZXTEhyal9CcWV1TTZOTG1qaFhSMGhkTEhlVE4xUjBfVmFhRHpXQ3RtLW16R08tdlZJRzJDWGNBQXQ2YWttWXl4dVBOZ0l4SDBYWlFmbWNiQ3ZFMmRYYnJId0tBZXh4UFRaRjRUUGw0ZFoyc0dCZEhUTFNPWjlNT0ExUDcxRjRaNlBicjRILWk3bmI0cXo5RzhSc1Q3U2JjZTl5c1BEWkpXaHdmMDhzVFNvN1JZOWZHY0dYMW5IaWdodEc3VjVzdjNSX3FIeV9HQ01Z?oc=5",
+          "description": "Yemen, salta la tregua quadriennale: riesplode la guerra totale tra Houthi e Arabia Saudita Il Tempo Gli Houthi attaccano impianti petroliferi sauditi con droni ANSA Un conflitto tira l’altro, l’Arabia saudita colpita dagli Houthi il manifesto I patriot del battaglione greco fanno scudo ai siti petroliferi di Aramco la Repubblica Slalom in barca tra le mine di Hormuz. “Il mare è l’arma micidiale d",
+          "pubDate": "Mon, 27 Jul 2026 15:38:00 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Fedorov, i droni e la guerra degli appalti che spacca Kiev (e fa volare l'ex ministro nei sondaggi) - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQQ2RZblZIeUN2a3ZVcElIOGRkUk50SDkzVmNYWjhkLS1OTGhVTjVwM29zNWFzd0RHUXREbWNBT0tEdnVTME1DdWVtc0doRTIzU1didzNLY2hpV1JZa0tRaE01VHREbFRTNE1uSWRSRTR4dzlZMFM2c0J2YlB4YjBWVDJPcjU1aGhhSUhTZmdTb0NmUENjTzg4Qk1JTjktUzA0MjFFUk5IQXdHZEp0eWtRSDRYMGU0MU15eXg0TGljUE5kSEZDOE53ck42SFpIVjRTOXh2S0dSMDc2Qk5hanJnZzhWNTlpb2JiZHhMWG4zU0hkSjJzSjFzWGRqdU1NOE5EZ083UUE3N0dyeVJxa1gxS9IBlgJBVV95cUxOQ1Q5UDlKOUJzSnhvN1hIdWZiaHh1TXZDNDlLV19ZQTYyZTF3enVCazlUMmc0SjNaS203TUVqRXZPdkRRRkVaakxMMDl1WXFWV2VVWjlvQ2J3MFFVVkVtLXpYejBLeUJ2dldiUGxnNFZ5NTFsbVNqVDJ3eFJFNlpTeG50cG8wdWVGVG9zVHJ1TUpMSnFJRng4eGVEaWJsRVZ5MmVmNXZwWU1Vc2VQRjJqQjVDSnlUSlY1QmVaOThEV1dIaFJ5MUx0RGc1MUNBSGtYSnBFakcwV1padXpZQXN5WURUWk9UbmVsSVJ4aWxyN0o5c1c4ZE5VR2VvZDZaN2l5RTRDVHRWclAtUDhnOFRtQlJZYURtZw?oc=5",
+          "description": "Fedorov, i droni e la guerra degli appalti che spacca Kiev (e fa volare l'ex ministro nei sondaggi) Corriere della Sera",
+          "pubDate": "Mon, 27 Jul 2026 15:45:07 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Gli Houthi attaccano impianti petroliferi sauditi con droni - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPejB0dzlocmJ2ZFMycDlTTldvai1xTzZWbV9EMlk0QXBLejliUmt5Tmh0V1VTTTF4OGtndzBpeU9mSU9UZktyazJIcmE5YzU2dFgtTnFLMWlQdnZjWjdTT1Z6SncwOHVZby1McTlNdXNyWGRiWXN1dnNTTlRIa3dqQTR2WERjblFIZTh0V0hNMmswdVJMOXliM1pfN0RWMXlpd1pFU0QzZ1JSRE8xNWZrM2w4SEM0cjRRS2luaDI2U191ZFNFZkY1Z0NGd3FTR2Vjc1NyY2NrcF8zZ01JU3BhSnU3VGxLZ9IB6wFBVV95cUxQU2J6V0VYZ1FmQXRFRHZqMGo5UmFaQzVmeVBUTUNPQnpVZFdvbmtsV0pMWk0tRVY4b29Gcl9nNEhXM2JxbVh5ODJuLXI4OUJ4bWNvdjlIWlZJQ090SXc5LVYwR2wyanNPbm1iNmtUNThGZUR3R3RsS3BQbGtBUnAyTXVkM0dlb0xkbUVoZ1UyTk5ZOXRRVFFLa0hGc3RJelhMY2ZtQXJUWDRMNzAydlBFZWhLbWRaaXpmcC1ENVgzSjZ2bzB2MWczZWtWcHhRYUpncjRwNFRBMWJRYV9MZVFPWTZDNlNIVTRFUHZ3?oc=5",
+          "description": "Gli Houthi attaccano impianti petroliferi sauditi con droni ANSA",
+          "pubDate": "Mon, 27 Jul 2026 13:11:00 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "Droni e satelliti per la conservazione del Colosseo",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/29/droni-e-satelliti-per-la-conservazione-del-colosseo_52d9695f-a259-4189-9667-a1df7fc60a01.html",
+          "description": "Nuovo sistema di monitoraggio e manutenzione sviluppato con Asi",
+          "pubDate": "Mon, 29 May 2023 08:59:16 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    }
+  ]
+}

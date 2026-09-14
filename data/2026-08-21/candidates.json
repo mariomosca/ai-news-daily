@@ -1,0 +1,925 @@
+{
+  "date": "2026-08-21",
+  "top_topics": [
+    {
+      "keyword": "italia",
+      "n_items": 28,
+      "n_sources": 11,
+      "category": "economia",
+      "score": 314,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Fonti Parigi all'ANSA, 'Francia per il momento non rimanderà i migranti in Italia' - Ultima ora - Ansa.it - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNcGRrR0FWVkdXMG4zanFGOHZPc2JPem9DMVJnQlg3OEpRNHBMdjJSOE5wZFRmd29DS0Q4RUtyMnlLbFE1TThIV3BoMXFsei1wUk1relpIY1hHdjg5M1NjeTNYZVNyYmNlNVYwNkRXMXY2c2ZHS05WV0VJeXNxRUVSVXRCMXo4RVp1eUhJRHZXOU92dF9qamhKQTZ1YTlvWXlrd0JpZEJTTkJXWlVidGZsMm9mQWUwWWhFZkhEOEl6R3JUMUo4RHk3cWxfQk1WVE9yRTBUQTJqbkI0LVZTWklsREJJTE1Ud2JIbUtFYVlHRVZPRzBYZUwyZmlGeDNNV2o0UHc?oc=5",
+          "description": "Fonti Parigi all'ANSA, 'Francia per il momento non rimanderà i migranti in Italia' - Ultima ora - Ansa.it ANSA Anche la Svezia trasferisce i migranti in Italia, è il quinto Paese europeo ANSA Dopo Svizzera, Germania e Austria, anche Finlandia e Svezia riprenderanno trasferimenti in Italia RaiNews Migranti, ora anche Finlandia e Svezia decidono di «rimandarli» in Italia Corriere della Sera Anche Sv",
+          "pubDate": "Thu, 20 Aug 2026 17:40:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Grave ondata di maltempo in Valcamonica: crolla il ponte di Sonico, evacuati gli abitanti di Rino e Vione - Corriere Brescia",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNd2J4cER3SkhFMmtVZEVzTWpGZk5MbEpxZUVlWk1tcWtlVjRHU2hhQ2FxT2U4eW1uOFVJNDVZN0c5czFIN3BSY2Rpc3lvT2V3ZFVNNk1ISzRJdW1sRmxVei1kaGxOSi0ycW8waUtGWlRidUtFWDhyQjl1dEw2Vi13aEpiVXdLOE5vWG16TjRyV1NyWW5sRzJ6akw1Y05JcG5wWWxlc0RyR0JfZHlJYkYzczRuNm1oellBUndBbUFzekk1QURxNER0S1JobExHU1Z1ZTQ3LXl0cUlzaVRMZ082aTFmd0I5SURVNFFCa0EyNTdlWENwVDY2NW8teC1TTnRCMXBNTWQ1SdIBjAJBVV95cUxPb0pKOEowaHl1aUo5dHl2VDk1ZE8zZXhnT1F4MmhfS0ZkRUNQVF84enVXUjd3eDI5U3ZaNlRhbktmdTIyZzRjblhRdHB0Ym5laE13WkY4OWQ0aHZoSnFZS0VJelFFTGxYV2tBaWhEVzNZRHYzNjlKVmxWdUNhR0lXYnVyTnh3dmstOGpTTGRSLVFpSmhCbDFsT3JybWZITGdZNlNVSnpPT0djZEY5YVdIa1UyNGJ5ams2aS1HNW9nUU5oRjhCSmdfRHpCYl9IXzFGbXV1dUNwMm82Z0twWmhIbUJkX0k4bktDMnlRVFFyZ3JKRWZPTGNPRGRGMVpRS2JpbnZCMHRPNmN1dmJm?oc=5",
+          "description": "Grave ondata di maltempo in Valcamonica: crolla il ponte di Sonico, evacuati gli abitanti di Rino e Vione Corriere Brescia Le forti piogge hanno causati vari problemi nel nord Italia Il Post Centinaia di evacuati dopo i nubifragi in Valcamonica. Statale 42 chiusa per il crollo del ponte RaiNews Maltempo, è allerta: quattro regioni in arancione, 13 in giallo Euronews Frana la val Rabbia, un'enorme ",
+          "pubDate": "Thu, 20 Aug 2026 19:19:34 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "MPSi sfida Intesa, \"un polo da 70 miliardi con Bpm e Banca Generali\". Dividendo miliardario - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQN3pDQ3BuXzlobmVGbzFjM3Y5dzBBSTF6NUc2QUJ5Qy1yN3N2RU03d3lzckZWLXFDYUdIUFNWaGZ4V0hUcGk4VkJvcjB0TW5ScTFFTjNvXzE0VUJKZTE5VV9CNk5MWkt5WGlnbks1SnlfMnc5Z2ZUMExGZGE2SDFKNHBIam9xTXdWd3l1TGI2U3YxSUthUk51SzVBWWp3ODdrLUd0ZkFNeGZYd0R4Mll0dmttVWg4dUh3VnFLV1haYVBFQzBsZlJ3b0FReHlHUV81WS1ibFhqc0dyR3pBYzNid3FqZE90M3RLd3kxdHJmODXSAfYBQVVfeXFMTVVxVVZyY18xdFVxaTlXdktPb0tWUEZNRk0wbzRqS0diOF9WQnZjRVlqT0wyRVlodWl0Q3dNNjNkMVJfdVR4a1IyQjJnVFI0Y2ZIcjIxTHBMM3BWWnVRQTE5YW5LaXJxQVkyQzVIbnJHVTZGd2tfeksyc3hmR0lqR1pvWVlqUjZXVTZ1MDJMTzltdkZNUmgzSkxSZjN5eHc1d1hEc3NYdTdkeDZHNmJia3BrRlp0RWJPT0FUdDRvVl9LNzVRa3FvcWlXZ0xZaWVIQXIwQ0lYR2ZFOXk0ekhvQ25xeUJ5QmZGYnV1TF82Qy1GN0NibTd3?oc=5",
+          "description": "MPSi sfida Intesa, \"un polo da 70 miliardi con Bpm e Banca Generali\". Dividendo miliardario RaiNews Risiko bancario, i timori di Salvini su Banco Bpm: no all’ipotesi dello spezzatino la Repubblica MPS, ok del cda alle offerte su Banco BPM e Banca Generali Borsa Italiana E dopo la contromossa di Siena la palla passa ora a Intesa Sanpaolo Milano Finanza Da Messina a Lovaglio, i protagonisti del risi",
+          "pubDate": "Fri, 21 Aug 2026 02:21:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Si allarga il caso dublinanti, anche Finlandia e Svezia li rimandano in Italia",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/anche-la-svezia-trasferisce-i-migranti-in-italia-spagna-e-francia-no_f3081cbe-5518-4036-8bb9-84bc7317e174.html",
+          "description": "Parigi frena: 'Puntiamo a bloccare le partenze'. Schlein e Conte: 'Boomerang per Meloni'",
+          "pubDate": "Thu, 20 Aug 2026 21:12:52 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
+          "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
+          "description": "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\".",
+          "pubDate": "Thu, 20 Aug 2026 20:08:29 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "trump",
+      "n_items": 17,
+      "n_sources": 8,
+      "category": "geopolitica",
+      "score": 142,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump e la guerra economica 'devastante' all'Iran, l'offensiva del tycoon: chi rischia? - Adnkronos",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVDl4aUN3Z2VCaDVDRTJ2bTc4a3JRVTZmRWRlcHdZU3g1NW5Fc3lRSjZwNjVBYVFTMUtFM2ppa0NndVJmWlJrUGx0OHB1V1lkMVdoZ0pZdU1nX29vMVpKcVJCU2hTYWZjbEFRTjlfaEt6XzhSVVRnVURzUm5HUDJnM0paWG5veTJGbzFHay1SOUJEaVA5blA3TzdjUzhWajdBZm9IZmV6UEJhTEttSUo5TlBaN2E?oc=5",
+          "description": "Trump e la guerra economica 'devastante' all'Iran, l'offensiva del tycoon: chi rischia? Adnkronos L'Iran ha perso il controllo di Hormuz? File di petroliere passano lo Stretto sotto scorta Usa Corriere della Sera Armi di distrazione La Stampa Sale il petrolio, Brent sopra 93 dollari con 'guerra economica devastante' di Trump ANSA La morsa di Trump sull’Iran: “Isolamento e guerra economica” la Repu",
+          "pubDate": "Thu, 20 Aug 2026 22:21:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Gli Usa: «Presto sanzioni più dure a Teheran». Ma l'Iran avverte: «Pronti a usare armi nuove» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSGYyb3dRYWdNZE1CRW9SQ213NTJoVjN3MXpWSWdRVndXaHFoNHV4Y0FoRVVYVUFiZFVEalRkT1d4T1NxRmFMdDlsbW96Y3VnRi1nZU9JZnBORVB0em9la2c1clVzd3d3S0F3TmlWSXFvS2hvcDFLSWg3OHpoR1Fwd0hOVXBLcEZoeExxN0kxTTlnMWR3X1pvRjdyb0lEMGRHS0hKb1hVbGg1MUh5Q3fSAbMBQVVfeXFMUE1tQy1oYWU4Q0ZObnVVLWhtRGhSb3NtXzRBNkF3cm1LbE5ySDMtOXpfejIwTHBld05yZHl6VzNMaEFtVTF6U2xZblF1aFVHMGMwNXl0UlhsTjdaMDU3MG5qbTljd0FFbFlWb3NnVkN0ZnRiSkwxSUU1cGdjSmhTTUJCVFVZMjV3ZlkwdWROVU9kTGVVUWJ6R0FOSUtJTFluVnNWb3dCOGJBQXZudUJzU1ozcjA?oc=5",
+          "description": "Gli Usa: «Presto sanzioni più dure a Teheran». Ma l'Iran avverte: «Pronti a usare armi nuove» Corriere della Sera L'Iran ha perso il controllo di Hormuz? File di petroliere passano lo Stretto sotto scorta Usa Corriere della Sera Armi di distrazione La Stampa Sale il petrolio, Brent sopra 93 dollari con 'guerra economica devastante' di Trump ANSA La morsa di Trump sull’Iran: “Isolamento e guerra ec",
+          "pubDate": "Thu, 20 Aug 2026 20:27:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Trump vedrà Kim: \"Vado d'accordo con lui anche se la Nord Corea ha 57 armi nucleari\" - AGI",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wbzlrbUtybFpISkdSV2tJaU9jakU5ZGw3cDlicV9hcGJnNVVDc0NYLUdpQm04eU1xX1lkLTF0ckNzTUdPUDFQenJqX1JveVNrbjh2S3N1Nnp2OG9xXzhIUmdhdVMtZFVJSEVROGhDUS1NbFYtU3FQdEFqTGk?oc=5",
+          "description": "Trump vedrà Kim: \"Vado d'accordo con lui anche se la Nord Corea ha 57 armi nucleari\" AGI Esercitazioni dimezzate Internazionale Donald Trump punta a incontrare Kim e valuta una visita in autunno ANSA Trump: \"La Corea del Nord ha 57 armi nucleari, ma andiamo d'accordo\" Sky TG24 Trump: “Voglio incontrare Kim Jong-un nel 2026”. Ma la sorella del leader nordcoreano: “Non ne so niente” Il Fatto Quotidi",
+          "pubDate": "Wed, 19 Aug 2026 16:40:46 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump’s Economic Threat Puts Focus on Iran’s Trading Partners - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLWYteDRBcHMwRkVvaExPRVoyTVdQVkpsaFZwNnJVaTQ5MVVrX1hrVG11Z1E5Vkh6VHpvQUpTMEkyZVE3TFlyTTE1ZHdWRjBYLXlhMEFqM2kzYVhLbFcyVWxFQzhQNzhfaENpNFNWbk1aTVF6TE1PUFVuYW9kQXR6dDZPU0dpNTlkb0libzF6QQ?oc=5",
+          "description": "Trump’s Economic Threat Puts Focus on Iran’s Trading Partners The New York Times The Message Behind Trump’s Threats of ‘Economic Warfare’ Against Iran The New York Times West Asia LIVE: U.S. says it will impose 'toughest sanctions in history' on Iran The Hindu Bessent says U.S. likely won't restart large-scale Iran combat as it steps up economic pressure CNBC Bessent says US to impose 'toughest' e",
+          "pubDate": "Fri, 21 Aug 2026 02:53:16 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Navy discusses renaming aircraft carrier after Trump instead of heroic Black sailor - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUEVNdXFESDZxTUhMRGdDUEg0R0RYU2Z2RjNwdWtQcUNwVnJLd3hsZlZCOFpNQjUwVWJSTy04anZ2RjJaQUwycGVFN0trSnlyb3RNdUY0Vm11QThhQkxwNjVJRENzTW1zWWtyUVZ1YjNEX0lmYlhidTRlNF9ualg3QVExZTFoSHB6akpLQ0RqZzRWVUp3dE5naTUxVm43S2JFb21WMWRqT3JWWkpCVi1PSFB2cEF6b21NaUtaR3BhWDJMRWlJcTRSVGNtVEpWcEE?oc=5",
+          "description": "Navy discusses renaming aircraft carrier after Trump instead of heroic Black sailor NBC News Exclusive: Navy weighs renaming carrier slated to honor Black war hero, potentially switching it to Trump CNN Trump Plots Seizing Black Navy Hero’s Honor for Himself The Daily Beast Navy may name new aircraft carrier after Trump and not WWII hero: CNN USA Today Report: Future USS Doris Miller aircraft carr",
+          "pubDate": "Fri, 21 Aug 2026 02:41:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "iran",
+      "n_items": 11,
+      "n_sources": 7,
+      "category": "geopolitica",
+      "score": 83,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump e la guerra economica 'devastante' all'Iran, l'offensiva del tycoon: chi rischia? - Adnkronos",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVDl4aUN3Z2VCaDVDRTJ2bTc4a3JRVTZmRWRlcHdZU3g1NW5Fc3lRSjZwNjVBYVFTMUtFM2ppa0NndVJmWlJrUGx0OHB1V1lkMVdoZ0pZdU1nX29vMVpKcVJCU2hTYWZjbEFRTjlfaEt6XzhSVVRnVURzUm5HUDJnM0paWG5veTJGbzFHay1SOUJEaVA5blA3TzdjUzhWajdBZm9IZmV6UEJhTEttSUo5TlBaN2E?oc=5",
+          "description": "Trump e la guerra economica 'devastante' all'Iran, l'offensiva del tycoon: chi rischia? Adnkronos L'Iran ha perso il controllo di Hormuz? File di petroliere passano lo Stretto sotto scorta Usa Corriere della Sera Armi di distrazione La Stampa Sale il petrolio, Brent sopra 93 dollari con 'guerra economica devastante' di Trump ANSA La morsa di Trump sull’Iran: “Isolamento e guerra economica” la Repu",
+          "pubDate": "Thu, 20 Aug 2026 22:21:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Gli Usa: «Presto sanzioni più dure a Teheran». Ma l'Iran avverte: «Pronti a usare armi nuove» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSGYyb3dRYWdNZE1CRW9SQ213NTJoVjN3MXpWSWdRVndXaHFoNHV4Y0FoRVVYVUFiZFVEalRkT1d4T1NxRmFMdDlsbW96Y3VnRi1nZU9JZnBORVB0em9la2c1clVzd3d3S0F3TmlWSXFvS2hvcDFLSWg3OHpoR1Fwd0hOVXBLcEZoeExxN0kxTTlnMWR3X1pvRjdyb0lEMGRHS0hKb1hVbGg1MUh5Q3fSAbMBQVVfeXFMUE1tQy1oYWU4Q0ZObnVVLWhtRGhSb3NtXzRBNkF3cm1LbE5ySDMtOXpfejIwTHBld05yZHl6VzNMaEFtVTF6U2xZblF1aFVHMGMwNXl0UlhsTjdaMDU3MG5qbTljd0FFbFlWb3NnVkN0ZnRiSkwxSUU1cGdjSmhTTUJCVFVZMjV3ZlkwdWROVU9kTGVVUWJ6R0FOSUtJTFluVnNWb3dCOGJBQXZudUJzU1ozcjA?oc=5",
+          "description": "Gli Usa: «Presto sanzioni più dure a Teheran». Ma l'Iran avverte: «Pronti a usare armi nuove» Corriere della Sera L'Iran ha perso il controllo di Hormuz? File di petroliere passano lo Stretto sotto scorta Usa Corriere della Sera Armi di distrazione La Stampa Sale il petrolio, Brent sopra 93 dollari con 'guerra economica devastante' di Trump ANSA La morsa di Trump sull’Iran: “Isolamento e guerra ec",
+          "pubDate": "Thu, 20 Aug 2026 20:27:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Bessent agli alleati: \"O siete con noi o contro di noi per l'isolamento economico dell'Iran\" - L'israeliana Channel 13 riporta che l'Unione Europea sta preparando un pacchetto di sanzioni contro Israele in caso andasse avanti con il progetto di insediamenti - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYlZBOGxuOTNnR3ZuUFRBZjI4LXBBc2dSbmx0MnBGRU1DSGRSZ2FsV0xULWNxYW5NdU9zLXRJenJmM0NFdlVVMHpXU0p2NUNvakYxdnE3Ulc3ZkdaMWkwN0E3Nnhqd0xPMVc4ZEk3QUl6WmVCNl9aX253TG9OdU5TaGc3OEFNQzRKZ3JfZm4wMmRSV25hdkJHUk81bXVWdVBuQnd4a2RCRF9sTzdyY1RoUU50UFBWWXl5YjFIZWJTbmtBQkVwYzJlMV9xMEZabUhZNm50QTBHSkljdG5XNU5RRkxtTVRLV2FPSHFMMNIB8gFBVV95cUxPSGE5OXVfSDk2SzM5WjlFS3pZSEl4QTdsVHowVzJ1Zm9qaHBwTTdvb2UtY29VWFRCRUVWOUtBNlQ1VXQ1R09LSHJrZ2FTWmpvdmM3MWlVdHZOcE9oRGVYcE9EOEtSYmFhakhqQUVjLS1ibGs1YVJTM0lvTTlTZHlUbTl4X1dZWmF2SXpPLUd0T3pYdGZJckI3d3ZybV9CNlNCaExRRDNjZTZfR0Vack8wd2g1N3dTeGwzY1Y3NUNEZC0wc3pXaWZrV0JpUmNCUGlqclZjU3NPMGJKOFFjUkFoeDNySl8zLWJqLWRXUVo5VjVaUQ?oc=5",
+          "description": "Bessent agli alleati: \"O siete con noi o contro di noi per l'isolamento economico dell'Iran\" - L'israeliana Channel 13 riporta che l'Unione Europea sta preparando un pacchetto di sanzioni contro Israele in caso andasse avanti con il progetto di insediamenti RaiNews Roma con Londra, Parigi e Berlino: 'Basta nuovi insediamenti in Cisgiordania' ANSA Guerra in Iran. Parigi, Roma, Berlino, Londra: “Isr",
+          "pubDate": "Thu, 20 Aug 2026 21:57:28 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Iran minaccia l'Europa, quali e quanti sono i missili di Teheran - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DMDROMFB5ZGJBTldxa05oOWtXcjNRbEpRclFYQ2tzdVR6VkNEMlo0eVY4MVlQMTFNcDBDR3BaZ0lZYlRqTVI5TnYxM1dZREo0SHFWZzRISm05d3pHOFlUN0dMVGFxRDU0N281dFdsSktuaTJEQzFpRUxjTlRXZzQ?oc=5",
+          "description": "Iran minaccia l'Europa, quali e quanti sono i missili di Teheran Sky TG24 «L'Iran può colpire l'Europa»: nel mirino le basi americane Corriere della Sera La mappa dei rischi iraniani per i Paesi europei. E il doppio innesco di Erdogan Il Sole 24 ORE I piani di Teheran in caso di escalation: 'Pronti a colpire le basi militari Usa in Europa' ANSA La minaccia dell'Iran alle basi: così i siti american",
+          "pubDate": "Thu, 20 Aug 2026 07:41:06 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump’s Economic Threat Puts Focus on Iran’s Trading Partners - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLWYteDRBcHMwRkVvaExPRVoyTVdQVkpsaFZwNnJVaTQ5MVVrX1hrVG11Z1E5Vkh6VHpvQUpTMEkyZVE3TFlyTTE1ZHdWRjBYLXlhMEFqM2kzYVhLbFcyVWxFQzhQNzhfaENpNFNWbk1aTVF6TE1PUFVuYW9kQXR6dDZPU0dpNTlkb0libzF6QQ?oc=5",
+          "description": "Trump’s Economic Threat Puts Focus on Iran’s Trading Partners The New York Times The Message Behind Trump’s Threats of ‘Economic Warfare’ Against Iran The New York Times West Asia LIVE: U.S. says it will impose 'toughest sanctions in history' on Iran The Hindu Bessent says U.S. likely won't restart large-scale Iran combat as it steps up economic pressure CNBC Bessent says US to impose 'toughest' e",
+          "pubDate": "Fri, 21 Aug 2026 02:53:16 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "perché",
+      "n_items": 12,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 78,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Palermo, bimba di quattro anni muore di difterite: i genitori non avevano voluto vaccinarla - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRi1VcnN3V3BYZVZqbHZLbGpPTktMQzA0bDB4bnFKY2N2QXVnLTRfOHBPSkN5NmJQaEU2ZW5IWWptMjEwOUxLSkxKUnRvR3FjQzVSRVJUeHJWaHhra1FQVWVWNEhjdjNFdVNUTnp2ZkN6VlpLR2p1M3Y5NVh0a3dpUUdRYU9SeG9rc29NcHMyX1NOYWpxRlNRbGNMWlI4bUVQMnhsR3N5bjEtVXVia3NR0gFoQVVfeXFMTi05N254YlYzY3RqLV83OXRoT3RtaVgzTzVOOGVaUEhKZ2lDcjhla3VLdC0wSVBqb2ZRV21PTkplekwyUzNwYnZOUnMteUVDU2R6M3JZM0gxX2dWbDVKWXRXVEVtdUdLNS0?oc=5",
+          "description": "Palermo, bimba di quattro anni muore di difterite: i genitori non avevano voluto vaccinarla Tgcom24 Palermo, bimba di 4 anni muore di difterite: non era vaccinata Corriere della Sera A Palermo una bambina di 4 anni è morta per una sospetta difterite Il Post Difterite, cos'è e perché il vaccino è ancora fondamentale Il Fatto Quotidiano Bimba morta per difterite, l'assessore Caruso: \"I vaccini sono ",
+          "pubDate": "Thu, 20 Aug 2026 18:47:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Bessent, buyback Treasury potrebbe essere maggiore dei 4 miliardi annunciati - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdW1Kd2tsX1E4Um1DNGhXaEVNVHByLWxxMm9sUlAzMjE5OHdSbUlyZ2x0clM0cnhQclpFa0s5d2Q3MDBmYmRjWWpIbzV3aHlBNXVoQ0JoUWdDaVV1UlY3eFgxbktyNTFvMkhkcGJmOXdlYjZrM3IwTTE2Rmw3SWxlTXlnbWtzMl9ZNm9ERGFQNXItUHNQT3gwNjhfRGNINFJFeHNRZjNiSEc1N0I5N21BY2xSZFlBNGkyN2wyMnh4VjBMOW9fWTVSdXEwLVJaTDBOZGd2R1h1V3l6bEJmalFtLWdwR2hPMDluVWJ2T2VxaFQyNldQSlNTR0JRR19CZw?oc=5",
+          "description": "Bessent, buyback Treasury potrebbe essere maggiore dei 4 miliardi annunciati ANSA Perché i rendimenti dei titoli di Stato aumentano. E potrebbero salire ancora Morningstar Usa, blitz del governo sui titoli di Stato per rassicurare i mercati la Repubblica Positivo il Mercato americano Borsa Italiana Il buyback di Bessent non basta, Treasury bruciano i guadagni ANSA",
+          "pubDate": "Thu, 20 Aug 2026 15:29:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Gas, scorte italiane quasi all'80%: perché Roma è più avanti - Euronews",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRURMYVFZVmZGRTZFSTl3UDR5MWs3Ukh5c2FIVi1NQ0lJU0pUS0FDT1VObHNuREVfeVpZTlhWUXpSWTBvaUV3MU9laFUtOHpGMlRwWkQxdWQwWGNDLUhzRW5vQkZhTlBXMDZzN3RDUTJlRUVOSG42U1o0NTRpMkJuVVV5UVhfYzAzSDR0dkxZNDBUZDF4dmVRQ04wYktXOFRu?oc=5",
+          "description": "Gas, scorte italiane quasi all'80%: perché Roma è più avanti Euronews Ue, 'nessun rischio immediato su forniture di gas, stock al 62%' ANSA Stoccaggi gas, Italia in vantaggio nonostante Hormuz: 20 punti di distacco all’Europa Milano Finanza Altro che i condizionatori, sarà il gas l’incubo in bolletta. Le simulazioni: “Rischiamo aumenti fino al 30%” Quotidiano Nazionale Gas ai minimi storici: l'Eur",
+          "pubDate": "Wed, 19 Aug 2026 20:04:51 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Bitcoin vola oltre i 70 mila dollari, perché potrebbe essere l'inizio di un nuovo ciclo rialzista - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQeVIxQlNNbUxiRmIxd3lCVDdLeWJBd2NoQTFlVWkyMTN1aEZpSVhfckpYMi1ldkRQQkNPUjlENkhnM0NkVk1ZM1BHaVJYM1l5R01wRjhvX1pMM0YxLTlBbHB6cU5qcFprSlNWNFZ6UWVnRkhLenp4UFkwV2JkSk4xU2dYM3lwdDJHNzJCb2hqbHFWZWpvbUxOMlBrNFI2Njg3eURPR1Zfc3JJMmEzVFJLdnpHbC1nRmVqNl9pZk5wU0NPZW1GV3BBcThacnJpSUlIME1IY0NZUUlLYjhnUi1FR0VBcFFRQi1LWnEzR0JYZ19CQmw0RXNkdEZpZjBCVmdsMVRTT1pLbTJvU1hEenY3TzdVS2gwLWfSAZwCQVVfeXFMTnM0NFA1YXo3aW43ZWZ4TXpRZ3pBYXZHclUtd2Fsakt1S1dMR29vbi1rLUVKOXl2d0U3aUhIMkF4cmtRSmtJcURJeDllcUQzREVjSVdSYlRwbVJtZHJNbDE5eFBTSGRZUnRId05Gc2tXT1dnQWRYbG5TbFFnYU83NmdsVmtiQ1ZFWUdNQkxZSmZxZkFYaGVhdVQ3VTJURjVXSmJCd2IxeGRFRmdGc2JWSzZsTHdwa1A5NWhoX2ZCVHZzQUpJWjZXQUVmZVJTSUdSVm1sVlFtWU0zaEIwbHVkanlQYWYxUDNlSWg1T1NmbUx5RUt4eC01dEMyNjZ4cWpwV1VhOUFrTXJLa3BzWnp0S2RhZUFfLXdfdFIyWjc?oc=5",
+          "description": "Bitcoin vola oltre i 70 mila dollari, perché potrebbe essere l'inizio di un nuovo ciclo rialzista Corriere della Sera Bitcoin supera 70.000 dollari per la prima volta da fine maggio ANSA Donald Trump chiede al Congresso di approvare la legge sulle cripto e il bitcoin torna sopra i 70 mila dollari Milano Finanza Bitcoin torna sopra i 70.000 dollari, il mercato scommette sulla svolta USA Borsa Itali",
+          "pubDate": "Thu, 20 Aug 2026 15:47:00 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Batterie, perché il caldo spinge i prezzi di utilizzo",
+          "link": "https://www.ilsole24ore.com/art/batterie-perche-caldo-spinge-prezzi-utilizzo-AJj0Nzp",
+          "description": "Comprare elettricità quando costa poco e rivenderla poche ore dopo, quando costa molto di più. A luglio questa differenza è aumentata in Italia, soprattutto al nord. Per i sistemi di...",
+          "pubDate": "Thu, 20 Aug 2026 02:32:01 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "york",
+      "n_items": 13,
+      "n_sources": 5,
+      "category": "general",
+      "score": 65,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Voleva distruggere il Campidoglio dello Stato di New York, arrestata per terrorismo - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeWNLejRENHhJZFZnZnk2YmZ5LWdPcFpIZ1dfckJ5OEM3aHM1MXdJSFdsd09EdVBsd1RCenBmUHlyV3lMY2VWSGs3LUpCTG5hM1JPVVdqTmMyZjJzazRnOEdOQ1lfZ1BaZ0NtQW1GMHhnQTRMNDhrMklpRmNCdHM2QlRpb2NmWHR5MzF6LTNSLTBqUU5XZjhLcTl0cDJ1VUxqaENzRl91LWdKUkptQkFkdm5uZDRsQVBJSWJaTmM1NXo5Y3M0SklHWmx0enhJQ18yQUc1RkEzbjJJcnNo0gFoQVVfeXFMTko4S3lLbFJGVW1UTVhxbnFyTVVRQk42YmFKbGQ4ZFBnaWdIUUtDWnJka051NW5QSmN3MzVObmc1ZDlDNHFNT2t4aW5TUlZuZEl2Xy10RkxUcGw2M2ppcExmU3lGN2lGNEU?oc=5",
+          "description": "Voleva distruggere il Campidoglio dello Stato di New York, arrestata per terrorismo Tgcom24 Arrestata una donna per aver tramato un attentato contro il Campidoglio di New York in nome dello Stato Islamico Demócrata",
+          "pubDate": "Thu, 20 Aug 2026 20:33:20 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump’s Economic Threat Puts Focus on Iran’s Trading Partners - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLWYteDRBcHMwRkVvaExPRVoyTVdQVkpsaFZwNnJVaTQ5MVVrX1hrVG11Z1E5Vkh6VHpvQUpTMEkyZVE3TFlyTTE1ZHdWRjBYLXlhMEFqM2kzYVhLbFcyVWxFQzhQNzhfaENpNFNWbk1aTVF6TE1PUFVuYW9kQXR6dDZPU0dpNTlkb0libzF6QQ?oc=5",
+          "description": "Trump’s Economic Threat Puts Focus on Iran’s Trading Partners The New York Times The Message Behind Trump’s Threats of ‘Economic Warfare’ Against Iran The New York Times West Asia LIVE: U.S. says it will impose 'toughest sanctions in history' on Iran The Hindu Bessent says U.S. likely won't restart large-scale Iran combat as it steps up economic pressure CNBC Bessent says US to impose 'toughest' e",
+          "pubDate": "Fri, 21 Aug 2026 02:53:16 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Progressive Aisha Wahab wins California special election to fill Eric Swalwell seat - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWWs1aWRxSjVWRGYtaVdqZW8zbHROOGhFdVVIbTMwX0VVdXEyT29CSlhBaXdmOEhNclY4dVBJd0Q5TjVjaTVLbkZYTGE2NDRtcWV4TWVobUNXTkkxRWtxTUszbFpfVG5mMnNtNDRsQ1BUczVTcnRRTzhtRENjenJLVEhEUUF4UFQ4WXEtcXdMbklQNkkwbW5peW12R1l4Zw?oc=5",
+          "description": "Progressive Aisha Wahab wins California special election to fill Eric Swalwell seat The Guardian Aisha Wahab Wins California Special Election to Replace Eric Swalwell The New York Times Aisha Wahab wins race to fill Swalwell’s House seat, overcoming AIPAC spending The Washington Post Democrat Aisha Wahab will win Swalwell’s House seat, CNN projects, overcoming millions in AIPAC spending CNN Aisha ",
+          "pubDate": "Thu, 20 Aug 2026 22:48:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "USS Abraham Lincoln Is Returning to the US, Report Says - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbzVxRUhpb0paOXhWSld4R3dJX2dMWUJSOFkyRmptVDBGYjBQZ3ZZOThjMTd0SC13dDcwSjQyZnR2QmtxOXV3NHIyQWIwUVcxRjRpX041UFQ2VktoaXpyOHlRQUNBbFo0em05VTFzczFwOTFEOTEwNkNTUDRITndfRmxlRXJPbEZ3MzlETnphYmNVQXJQTlFPd2VyOVlLS3c3?oc=5",
+          "description": "USS Abraham Lincoln Is Returning to the US, Report Says Forbes U.S.S. Abraham Lincoln Leaves Middle East After Months at Sea in Operation Against Iran The New York Times Palos Heights, Illinois family awaits USS Abraham Lincoln sailor Terry Stonitsch's return from extended deployment ABC7 Chicago Trump threatens Iran with ‘economic warfare,’ while cutting off talks CNN Trump says USS Lincoln’s rec",
+          "pubDate": "Thu, 20 Aug 2026 18:46:21 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "White House faces questions over security clearance for top Trump aide Natalie Harp - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUEtsT3VBUmpRLWI3Mnh2cks5WUNfNHg3VHZZX0VGbFQyTXFyc0MwbHFZVkl4WXpta29vSkdlTkFXYlRTck5jb2FpcW5wTjd0Y3dCRG16RTl5TWFwY1F1Zk1yWlNLWWUtWHN5SGV1bk9NQTFhV09wT0RsZGE4MUxOeDZOOHpUUQ?oc=5",
+          "description": "White House faces questions over security clearance for top Trump aide Natalie Harp The Guardian ‘With All My Heart, Natalie.’ Trump’s Most Devoted Aide Emerges. The New York Times Meet Natalie Harp, the aide so close to Trump she once rode in an SUV trunk to accompany him CNN Ossoff: ‘Amazing to watch this White House melt down’ over Harp remark The Hill Obama strategist turns on rising Dem star ",
+          "pubDate": "Fri, 21 Aug 2026 01:30:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "arriva",
+      "n_items": 9,
+      "n_sources": 7,
+      "category": "general",
+      "score": 63,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "La rivincita dell'mRna: con i vaccini arrivano i primi grandi risultati contro il cancro - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0MyXzJadFVFREJMZkFadmRBXzlIWTVmQ1lZX2xyYWREYl8wUnJjamk5VkpFWVVPcGdHUWRtZUNKc1FKV0RJUEpfVnFNbFNCRi1WTkd3TDhQRk1LTFBBek1uYmZLUmNXUjV1UEljenJScHFzVE5fQkdQT29wenFxbGhIdzhxY2xHMVJIMVdrN1FaQ2k0WmRUcDNpdEJfSmJVRV94Z2p6QzlKbzlTV3RIdGRqbw?oc=5",
+          "description": "La rivincita dell'mRna: con i vaccini arrivano i primi grandi risultati contro il cancro Il Sole 24 ORE Melanoma, risultati positivi per il vaccino a mRna (la stessa tecnologia usata contro il Covid) personalizzato Corriere della Sera 5 motivi per cui il titolo Moderna è balzato del 170% e quanto può ancora salire Yahoo Finanza Melanoma, dal Covid alla lotta ai tumori: la terapia mRNA di Moderna e",
+          "pubDate": "Thu, 20 Aug 2026 08:34:05 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Operazione da 295 milioni di euro, il colosso Webuild deposita alla Consob l'offerta per il controllo di Trevi - CesenaToday",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcU85YzJLanJlT0VJVW95cENqdDRrcDVtb0ZmRWZXSVJ5YThTLWpaMFh4MXBxQXAtNXIxUmdIY0hZS2RMYzdEVzBJZEFqOXF2bmpFbE1kUW9Fa1ZlU1A3UE1aSU54MHBtWXVYVGNqcE1tZGZoMWFVZnpQbFo3QUJJWU1WNmVSR25MbGNqblJQXzNrUFJQX0xfZ0tB?oc=5",
+          "description": "Operazione da 295 milioni di euro, il colosso Webuild deposita alla Consob l'offerta per il controllo di Trevi CesenaToday ICOP, CdA delibera aumento di capitale a servizio dell'ops su Trevi e riduce al 66,67% la soglia minima di efficacia Borsa Italiana MARKET DRIVER: Webuild, Intermonte conferma outperform Milano Finanza >>>ANSA/L'offerta di Webuild per Trevi arriva in Consob - Notizie - Ansa.it",
+          "pubDate": "Wed, 19 Aug 2026 09:09:09 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Dazn, arriva l'abbonamento per smartphone da 19,99 euro al mese - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQmZaTGEzU2xBRldqYXFCeFc4cmpCbEhaMy1NM1RkZGEybEZjeWhIZGJjdlRucEdiamw0S1ViN2pIdERIeEVqMUg3Tm0yeEVZWlBSQm9reGlFVko3eDBCQTJINHRORl92UDNINHctdjJxTU5uZW9XTl9UVnJnQnBYYVRnQjBXaDkzTVA1VUZmMHZYNzIxVXN2RkhxOVRxYklpamlobEN4d215M2lDUHh3R0hYZmg2Rm1ISnpLLURSZmxNSUpPZVlzc1UzOHF2ZnhoOUZiTDRaTGlzb1hOWjhmZ0FOTFJncVd00gHuAUFVX3lxTE50OUM0MU93clp1N3pwNWtyUmdEUldCb3JYYndMc3A0N2VhMVd5X2E5U3FucVpQa1l1WW9SYjItYnNLMkI5UkZRa0psR28yWkZva0RPa01BLUdwS2hDOUJSYk1KZUpBZ0xVTWpIeUFNbjVLdmxBdWRjNXpvRUVhUlp0a3NGUi0xakVwS3FZYkZxenJUVnNtcy1nQnA2R1FmS0NRa2hnLUhXRVlLaUNBRGNMai10VXBhMUdISGtWOXBqNEtSNzlHQW5LTFVfQjVtcGZHNVhPdFpaSUFiOHJVZzQ0YnhwNGMtYkk4TGN3bGc?oc=5",
+          "description": "Dazn, arriva l'abbonamento per smartphone da 19,99 euro al mese Corriere della Sera",
+          "pubDate": "Wed, 19 Aug 2026 13:44:46 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "Metaverso, dopo mesi di attesa Meta e Apple pronte a stupire",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/metaverso-dopo-mesi-di-attesa-meta-e-apple-pronte-a-stupire_cfde93b6-9f56-4996-bf94-712f6e7c9aa5.html",
+          "description": "Quest 3 il nuovo visore di Meta, novità Apple arriva il 5 giugno",
+          "pubDate": "Tue, 30 May 2023 12:21:56 +0200"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Starship ce l'ha fatta: la navicella di SpaceX arriva a Christmas Island dopo 24 giorni in mare - Focus.it",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOXRVZ1dGZzR6M0VUQzdCT0c4cWFKSjhXbE9KcWEwU1kzbV90WWV5bWNrMHoyUFdxQlFRd2FvMXV1N2JFRGxJNnVVUFJtME8wdGM5MjlfQ2Z6cHBaWTduRXZ3aUoyMmRaV0k0SURVODEwSnQ0N0FVd2VkdnQzMml0MFlmdV9BVFFmTlJ6YTY3NjU4WWQ5N29yTklqeWxSUVdCUWlDODRTbzVzVTN1NWgzc3R3eTNFX2MycmR5WnRWUjlpQ2kwbVBYWE13?oc=5",
+          "description": "Starship ce l'ha fatta: la navicella di SpaceX arriva a Christmas Island dopo 24 giorni in mare Focus.it",
+          "pubDate": "Wed, 19 Aug 2026 12:34:06 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "west",
+      "n_items": 9,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 60,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Trump’s Economic Threat Puts Focus on Iran’s Trading Partners - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLWYteDRBcHMwRkVvaExPRVoyTVdQVkpsaFZwNnJVaTQ5MVVrX1hrVG11Z1E5Vkh6VHpvQUpTMEkyZVE3TFlyTTE1ZHdWRjBYLXlhMEFqM2kzYVhLbFcyVWxFQzhQNzhfaENpNFNWbk1aTVF6TE1PUFVuYW9kQXR6dDZPU0dpNTlkb0libzF6QQ?oc=5",
+          "description": "Trump’s Economic Threat Puts Focus on Iran’s Trading Partners The New York Times The Message Behind Trump’s Threats of ‘Economic Warfare’ Against Iran The New York Times West Asia LIVE: U.S. says it will impose 'toughest sanctions in history' on Iran The Hindu Bessent says U.S. likely won't restart large-scale Iran combat as it steps up economic pressure CNBC Bessent says US to impose 'toughest' e",
+          "pubDate": "Fri, 21 Aug 2026 02:53:16 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+          "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+          "description": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+          "pubDate": "Thu, 20 Aug 2026 18:55:14 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Dozens dead after boat capsizes in north-western Nigeria",
+          "link": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
+          "description": "The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children.",
+          "pubDate": "Thu, 20 Aug 2026 20:27:36 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Walmart sales under strain as US shoppers pull back",
+          "link": "https://www.bbc.co.uk/news/articles/cpq8rjy7vxlo?at_medium=RSS&at_campaign=rss",
+          "description": "High gas prices and weaker pharmacy sales pushed Walmart's growth to its slowest pace in six years",
+          "pubDate": "Thu, 20 Aug 2026 17:59:59 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Samsung confirms August 27 event for the ‘newest addition to the Galaxy S26 family’ - 9to5Google",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12NDBHaVhjZ1NmTVQ5eGpneGRNWlJ0Y3VMbEVtbUdERFpQcnBPbTBHWUZpSGtQQWFqVmt3ajEwNmt5VXUwcGhiNDFwWnFRZE5uZGdObFBvU05nNHVYU3FHd0NTZXN0VjUzREZ1dDh0dVZqSlVqZWJ3ajZvM3V3QQ?oc=5",
+          "description": "Samsung confirms August 27 event for the ‘newest addition to the Galaxy S26 family’ 9to5Google [Invitation] Galaxy Event August 2026 samsung.com Samsung Galaxy Event Set for Aug. 27, Galaxy S26 FE Expected PCMag Samsung Galaxy S26 FE's battery life could be longer than the Galaxy S25 FE SamMobile Exclusive: Samsung Galaxy S26 FE Design, Specs & Features Across 26 Images Android Headlines",
+          "pubDate": "Thu, 20 Aug 2026 02:45:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "europa",
+      "n_items": 9,
+      "n_sources": 6,
+      "category": "economia",
+      "score": 60,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Iran minaccia l'Europa, quali e quanti sono i missili di Teheran - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DMDROMFB5ZGJBTldxa05oOWtXcjNRbEpRclFYQ2tzdVR6VkNEMlo0eVY4MVlQMTFNcDBDR3BaZ0lZYlRqTVI5TnYxM1dZREo0SHFWZzRISm05d3pHOFlUN0dMVGFxRDU0N281dFdsSktuaTJEQzFpRUxjTlRXZzQ?oc=5",
+          "description": "Iran minaccia l'Europa, quali e quanti sono i missili di Teheran Sky TG24 «L'Iran può colpire l'Europa»: nel mirino le basi americane Corriere della Sera La mappa dei rischi iraniani per i Paesi europei. E il doppio innesco di Erdogan Il Sole 24 ORE I piani di Teheran in caso di escalation: 'Pronti a colpire le basi militari Usa in Europa' ANSA La minaccia dell'Iran alle basi: così i siti american",
+          "pubDate": "Thu, 20 Aug 2026 07:41:06 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse europee negative, resiste Piazza Affari con focus sulle banche - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQS2R2WThzdGNsY3NNX1o0dWItTWJxbDJNUjdsSkxRZmNwcWVMZWV4VnFWRkFVY3pOT2tRdjd3N3hZbm90RmxrSktiZHB1d0VCaTQ4cnhmaXZEMkJEd1RuT1pyQWwzWG51TnV0QmdLRnVjRXhxUUg4Z0cyQzhtRUtmaE1hUTJqS0lBaG9rVm9HbG1tLTgycWpDNEItVlUzUUN6TUp3Yk5vRmZqelprUDRwcUN5QVJMNmxQLW9DQTZLVldORGVpT3B0TFNucnN6NExlMVBLVEU0bGl5cDNUb0NTM1RFSGdycnQ2TUE?oc=5",
+          "description": "Borse europee negative, resiste Piazza Affari con focus sulle banche Borsa Italiana Moderati guadagni a Milano in testa all'Europa Borsa Italiana Borse, greggio e Treasury pesano sull’Europa. Milano resiste con oil e risiko banche. WS -1,32% Il Sole 24 ORE Piazza Affari azzera i rialzi: Ftse Mib chiude in lieve ribasso SoldiOnline.it Borsa: l'Europa debole dopo Wall Street, in rialzo gas e petroli",
+          "pubDate": "Thu, 20 Aug 2026 16:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Le Borse del 20 agosto| Piazza Affari guarda al risiko bancario, i future del gas tornano a livelli record (per Hormuz). L'Europa chiude contrastata - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPYzBZMHRTdGpKTGhSQTNmcVFOZHM3aGFDa2VxSTRZYy1wbzFSaGV4dDc0eHRpLUtYWWxVZW1xTk03d1JWS09fQ3JtQnpKdXNpVi1sRXJBa3hhV2RIckhpcXUxR3ZfcFNNaTE0VUdpNFlOSHNSU0JDQ2MtNVJpWFlELTRNazB2WDdaY0hZbUQ1TTQ1TTYxbDhxdW10TUUxMEZVazdkNmhYS3Zpem5wTW5VUXg4bnVnYUl0T0pKOGtxOTloVGpPWnRJUUNyelBaOUJYSFNoSGVMNS1BTm9UcDgyRXVxem1teEx6TC15TC1LS2tyUGpucVFRODBpcExhYm1YV3pacU1JM3AxOEFl0gGSAkFVX3lxTFB2cVFaR216R3NWY0FJbHMycGV4MmFVZ1VpTFNLOW1QNGFNRTJDZ3pOcVhWMWduXzZUdjgtbUhMM29NeWxUcHZ1X3N2UkMyYnk5aWo1QlNwU05KOXdacmFZdTY1SWpEU3RKa0Fhd1BpYUVJNmJtQnJ0TmN4eTlTSkE3Rlhwc1V5NGRXejVHNWhXSU43bHRSU3FYbkIxbTNUaG5tTFVFQVJNOG45QkJrY0U0OTI4S3dmOTJnLVgweWFKMzB5ME10RXR5Vy1CQUdZY0tLWVljWjRBTE5rWnRRaEJRTTdXYllYamswNk4zMUIwUWZNVjJWeGQ5Vm82WWhMOGNKTVo0RGVTQWQ2ampLOWIxV0E?oc=5",
+          "description": "Le Borse del 20 agosto| Piazza Affari guarda al risiko bancario, i future del gas tornano a livelli record (per Hormuz). L'Europa chiude contrastata Corriere della Sera Borse oggi in diretta | Il Ftse Mib chiude sulla parità. Mps -0,3% dopo doppia offerta su Banca Generali (+1,3%) e Bpm (+0,7%) Milano Finanza Borsa Milano ferma, ma si riaccende il risiko bancario su Mps SoldiOnline.it Borsa: Milan",
+          "pubDate": "Thu, 20 Aug 2026 16:44:56 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Gas, scorte italiane quasi all'80%: perché Roma è più avanti - Euronews",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRURMYVFZVmZGRTZFSTl3UDR5MWs3Ukh5c2FIVi1NQ0lJU0pUS0FDT1VObHNuREVfeVpZTlhWUXpSWTBvaUV3MU9laFUtOHpGMlRwWkQxdWQwWGNDLUhzRW5vQkZhTlBXMDZzN3RDUTJlRUVOSG42U1o0NTRpMkJuVVV5UVhfYzAzSDR0dkxZNDBUZDF4dmVRQ04wYktXOFRu?oc=5",
+          "description": "Gas, scorte italiane quasi all'80%: perché Roma è più avanti Euronews Ue, 'nessun rischio immediato su forniture di gas, stock al 62%' ANSA Stoccaggi gas, Italia in vantaggio nonostante Hormuz: 20 punti di distacco all’Europa Milano Finanza Altro che i condizionatori, sarà il gas l’incubo in bolletta. Le simulazioni: “Rischiamo aumenti fino al 30%” Quotidiano Nazionale Gas ai minimi storici: l'Eur",
+          "pubDate": "Wed, 19 Aug 2026 20:04:51 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: l'Europa chiude debole e guarda al Medio Oriente",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/borsa-leuropa-chiude-debole-e-guarda-al-medio-oriente_24ce0bf3-226d-45fc-86a7-e32ba582152e.html",
+          "description": "Parigi (-0,57%), Francoforte (-0,42%), Londra (+0,04%)",
+          "pubDate": "Thu, 20 Aug 2026 17:55:24 +0200"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "after",
+      "n_items": 11,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 50,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Navy discusses renaming aircraft carrier after Trump instead of heroic Black sailor - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUEVNdXFESDZxTUhMRGdDUEg0R0RYU2Z2RjNwdWtQcUNwVnJLd3hsZlZCOFpNQjUwVWJSTy04anZ2RjJaQUwycGVFN0trSnlyb3RNdUY0Vm11QThhQkxwNjVJRENzTW1zWWtyUVZ1YjNEX0lmYlhidTRlNF9ualg3QVExZTFoSHB6akpLQ0RqZzRWVUp3dE5naTUxVm43S2JFb21WMWRqT3JWWkpCVi1PSFB2cEF6b21NaUtaR3BhWDJMRWlJcTRSVGNtVEpWcEE?oc=5",
+          "description": "Navy discusses renaming aircraft carrier after Trump instead of heroic Black sailor NBC News Exclusive: Navy weighs renaming carrier slated to honor Black war hero, potentially switching it to Trump CNN Trump Plots Seizing Black Navy Hero’s Honor for Himself The Daily Beast Navy may name new aircraft carrier after Trump and not WWII hero: CNN USA Today Report: Future USS Doris Miller aircraft carr",
+          "pubDate": "Fri, 21 Aug 2026 02:41:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump, Cohen set aside beef in radio interview - The Hill",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUxyVU5ZV3VGRTRMLThWZVZxMlRVckJ0QlVOUmo5Y0tsVlFZOXZmUVo1TEJ2TzJ3Zk9TVENZY2ZFOFJmRk1nelZSRFltQjdROEJ4bXJ1MDBjX0NxUGZuZXF5SXhUakh5Vkt1UU5NUjRYR3BHeGZhOUxhcEhBYnBXa3RSZFJLUmt5d1V1ZDVYd2Zyd9IBlwFBVV95cUxORFp2akdmek54SVJVek9sdXhVR0xBSGRqdTIzcHBUaW1HVVBDUEJSdS1HZEtaSW9kR09HYUt3X19tOW9PVVpKdnlrNEgxRVF0U1BjUnVxendxcUJSZTQwNGNaTVZfYzU1N2VUZFNKVUVtYTFrRjFsZ3diZ24wemhraDhlWUlOcHZMZHNIRlpsM1dpaDJvVWJn?oc=5",
+          "description": "Trump, Cohen set aside beef in radio interview The Hill Sycophancy in stereo as former Trump hater Michael Cohen loses his nerve The Guardian Trump appears on former fixer-turned-enemy Michael Cohen’s radio show after detente AP News Donald Trump once called Michael Cohen a ‘rat.’ Now Cohen says their relationship is ‘being resuscitated’ CNN Why Can’t We Be Friends? Trump Has a Reunion (of Sorts) ",
+          "pubDate": "Thu, 20 Aug 2026 23:58:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "USS Abraham Lincoln Is Returning to the US, Report Says - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbzVxRUhpb0paOXhWSld4R3dJX2dMWUJSOFkyRmptVDBGYjBQZ3ZZOThjMTd0SC13dDcwSjQyZnR2QmtxOXV3NHIyQWIwUVcxRjRpX041UFQ2VktoaXpyOHlRQUNBbFo0em05VTFzczFwOTFEOTEwNkNTUDRITndfRmxlRXJPbEZ3MzlETnphYmNVQXJQTlFPd2VyOVlLS3c3?oc=5",
+          "description": "USS Abraham Lincoln Is Returning to the US, Report Says Forbes U.S.S. Abraham Lincoln Leaves Middle East After Months at Sea in Operation Against Iran The New York Times Palos Heights, Illinois family awaits USS Abraham Lincoln sailor Terry Stonitsch's return from extended deployment ABC7 Chicago Trump threatens Iran with ‘economic warfare,’ while cutting off talks CNN Trump says USS Lincoln’s rec",
+          "pubDate": "Thu, 20 Aug 2026 18:46:21 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Meghan could return to acting once back in UK - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RU1ZXYlZQNXBndHhsa3ZDdnprRkVLOWJxbXlHWTd5RWl5ZnRqd0dTQ0l5N2E5YXVFbnlOUnRUYkJ1Xy1LamdrVmZEOHJXbFAwVmVSY3U3VVNWdw?oc=5",
+          "description": "Meghan could return to acting once back in UK BBC After Six Years, Harry and Meghan Are Coming Home. What Changed? The New York Times Prince Harry and Meghan moving back to Britain this month The Guardian Harry and Meghan Had Big Entertainment Ambitions. Here’s How It Worked Out. WSJ Royal experts explain Prince Harry, Meghan's planned move back to UK ABC News - Breaking News, Latest News and Vide",
+          "pubDate": "Fri, 21 Aug 2026 02:52:29 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Here's how America's $40 trillion debt can hit your wallet - Axios",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQnBoUnZyY1lwRjZ3MkQ3Wk1oS1Y0QWZKS29pczdXczBmdlA1X3BpWnZjbjEzcVRRODNJM2VDSWp4Rm9uUkNLdGoxTWNuN29xWDJuSm83WFFHekNVODVpQkRCWmxTWUJUTF9QdENsU1g5LTNnMTBvTGcxT0tRaEdINEkwUlAwY19JdEpXTFNR?oc=5",
+          "description": "Here's how America's $40 trillion debt can hit your wallet Axios 3 things to know about the $40 trillion federal debt NPR Vance: Bessent has ‘very discreet plan’ to shrink $40 trillion national debt The Hill US debt crosses $40 trillion threshold after doubling under Trump and Biden Reuters U.S. debt hits $40 trillion faster than forecasters expected The Washington Post",
+          "pubDate": "Thu, 20 Aug 2026 23:24:26 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "morti",
+      "n_items": 7,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 48,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Ucraina, attacco russo su Kiev nella notte: allerta in Polonia e Romania, si alzano in volo i caccia Nato - Il Messaggero",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLWRTOExtYngyaHV0V0JZMHRmc25HbFhSX1RrdDluc0RqRVNEY1hlNVBJcTk1RHhTbTkwX211VlhueTh2TjRTMkR2eW4zck10bE5vMHRfU1dTdl92UnJCaDJYcG9ZSmdVTzBBcGNjTzQ2VzdjYk1oVmMzNm9xVnlFakhVOUFlbG5UNE51ajBEcUp4VUFVb0kxUzFqZmJVS3RxSkNRd3IzaDdlYXhiQ1MyTVpsVmt4OGNsVExzLXB0VjFrUHpfemc?oc=5",
+          "description": "Guerra Ucraina, attacco russo su Kiev nella notte: allerta in Polonia e Romania, si alzano in volo i caccia Nato Il Messaggero Notte d'inferno a Kiev, i missili russi fanno strage di civili ANSA Sanita': gli avvenimenti di VENERDI' 21 agosto Il Sole 24 ORE Missili di Putin su Kiev, 17 morti. Colpito un ospedale pediatrico la Repubblica Il raid russo su Kiev semina morte e distruzione. Colpito anch",
+          "pubDate": "Thu, 20 Aug 2026 06:36:19 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Ucraina-Russia, le notizie in diretta | Caccia romeno distrugge un drone marino nel Mar Nero. A Kiev colpito un ospedale pediatrico: 16 morti e 40 feriti. Zelensky: «Ci servono i Patriot» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQZFl5UHVRLV9BYTJXSVFWNlRnNVB2a2w0UG96ekFMUVVSNERRLVVCMWNldGpYRFAyZDdreUpBS2NUUGdYcjl0cnVHbVVqN1pPcWFRamdSNzBIeEhQc0lfYjd3WkdpZXZMemhYT045dzBERU9uOF9WQURCSUo5NG5DT3dyS2htU2czb0pkM2hSc29vd3hnMmVlY3RqczF3VDRfMHk0ZEJMbGxCOXZaVGtnYUZEUHk3SGVWaEkyNTZxakVNRURDLWUtZktNd2pHMV96TERuRGN4cU52YlBDNDczMmxtSEdMTW11UGIySGR1NlJNQjNPcFJhTmplRThLNWpHS0tRNzJta9IBjAJBVV95cUxNVjZpNkxrTEhkM0ROTkxzdUVFLU1zb1RzZU91NmZIWTN6M3M0QVdkVEtCRkNEYmQ3VUZrNU8tQXJJR0tFOGZNcVZBOS1vVnVpbGd5enN5VEtIVW5GcHowUXZVZ21QbUlRLVJOLTM1TXFwZVY3N1YxTmQ1azJ2bVAwV1RXZE9rVGFpbWIxQzk1YXFEdWkwcGkyZU0xNFRwc1FyV0UxX2R4dGpabXM1ZjdGb21QQzF4MkV1dzR4enh2clFRZkxXZzV0emRXV3loNmFzdkNOUDZESzB5U1o4TGlvckhsc0Y1Si13aVhVMHB3OU9YNnp2dzZmWWZ2Sjh0d2ZQRkVsM2FfOWFnOUs2?oc=5",
+          "description": "Guerra Ucraina-Russia, le notizie in diretta | Caccia romeno distrugge un drone marino nel Mar Nero. A Kiev colpito un ospedale pediatrico: 16 morti e 40 feriti. Zelensky: «Ci servono i Patriot» Corriere della Sera Finlandia, si indaga su possibile sconfinamento di un aereo russo Tgcom24 Finlandia, sospetta violazione dello spazio aereo da velivolo russo: scatta l’indagine OglioPoNews",
+          "pubDate": "Thu, 20 Aug 2026 23:03:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Notte d'inferno a Kiev, i missili russi fanno strage di civili - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNTGo5Mk9YNGxLWTgzNVlCMXdkYmRDTWtsM2dfM2ZsOXZtUDRxVndyTnc1a1Fpb0Z3RElwRUhjX1BfSXRBekNSejdCYXk2MHNvdHdmanByemZTR0hDZU1LZWRxUnBER21ZYlU3VFVUbnJRem1MaWxrYy1FWWVSSG5rTmZub1p2emN5WG9ybFl0NUFmV3dZYWlGTkVPMDBqWVBqaUpYWk00cHZhUWkxMXFhN213SE5TMUl6SHM5SVFCV3lsYTF0R3V3RjRpbFYxSE80OWo2VGhiQ05XOGtxTlA1MF9QNVduMU1tNy13WktJOE9JTlNXbS1ucmJJelZrLUVFakZmYjdQZ0pYZ9IBjwJBVV95cUxPb2t2el9oMVVMdVk2T1pRNWlKWmhRaG40dWdKQTdNbm5OMURjdGdiaWZfQy1YWGc2eVdMSkNhSkFDRnI1cWJ2SFA5ZjJzd2dYVkliNDhQX1hlVkJwdnhlVEVMMlM1U242dy1KSVNrWWF2WjdFUkdzb1FCWlM2NjFIYzFES053a3dGTWJDd0Z4NVdlUG5ZRHd4UVdBNElaU0czWkxfMjNGZkNzaU8teFN0LWpIT3oxb3BiZ2Q0aHpsUW1ZcHI0TjhxTWtrSC1sVlZyeFVmVERqQllyX2xkYk9YeDQyVzRzTnVvcFBjY1A3UVUwVTBXUWt5OVRraDQ5UEl0QWxIem5BN2FpdjZ6bUtF?oc=5",
+          "description": "Notte d'inferno a Kiev, i missili russi fanno strage di civili ANSA Sanita': gli avvenimenti di VENERDI' 21 agosto Il Sole 24 ORE Missili di Putin su Kiev, 17 morti. Colpito un ospedale pediatrico la Repubblica Il raid russo su Kiev semina morte e distruzione. Colpito anche un ospedale pediatrico Avvenire Strage coi missili russi, Zelensky vuole altri aiuti Il Fatto Quotidiano",
+          "pubDate": "Thu, 20 Aug 2026 17:56:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Allerta meteo, fulmine manda in tilt la stazione di Ventimiglia",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/allerta-arancione-per-maltempo-in-veneto-e-liguria-il-caldo-non-allenta-la-morsa_c3619ca5-9061-4188-a414-b72c05338bad.html",
+          "description": "Temporali al nord, il caldo non allenta la morsa nel centro-sud e tra over 85 fa più morti",
+          "pubDate": "Thu, 20 Aug 2026 21:06:39 +0200"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "La Romania distrugge un drone marino russo. Raid su Kiev: almeno 15 morti - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNenBzREltVkVLcHhkcGhMbmkyVmJnajNRRWxRRW03QWJqM25lSERkempXTWlNb2dqQVhsTU1zNkc3MEszLThHVFIyRWpTdVo0QzMxQV8wLTFCNlE2bHhjYkJ3VWVocHZBd0JSaVJERkh5ODNoZGRJS0xkZGlpd0owSG45TDhKR3JvWm5nVGt6a21TSWxGTW5od2gzYjYwS0t3MlJnUV9PMmtnMFRrY1pZbDEwV29ZQ2JXcTZzVmdvcWdQU3I3NTZNN0RyMENScGRReFlkTUVONmVEeEs0VXloclBnR0xMQldYVy1FU1ZkRGo1QQ?oc=5",
+          "description": "La Romania distrugge un drone marino russo. Raid su Kiev: almeno 15 morti Il Fatto Quotidiano",
+          "pubDate": "Thu, 20 Aug 2026 19:06:12 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "borsa",
+      "n_items": 13,
+      "n_sources": 3,
+      "category": "economia",
+      "score": 45,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "MPSi sfida Intesa, \"un polo da 70 miliardi con Bpm e Banca Generali\". Dividendo miliardario - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQN3pDQ3BuXzlobmVGbzFjM3Y5dzBBSTF6NUc2QUJ5Qy1yN3N2RU03d3lzckZWLXFDYUdIUFNWaGZ4V0hUcGk4VkJvcjB0TW5ScTFFTjNvXzE0VUJKZTE5VV9CNk5MWkt5WGlnbks1SnlfMnc5Z2ZUMExGZGE2SDFKNHBIam9xTXdWd3l1TGI2U3YxSUthUk51SzVBWWp3ODdrLUd0ZkFNeGZYd0R4Mll0dmttVWg4dUh3VnFLV1haYVBFQzBsZlJ3b0FReHlHUV81WS1ibFhqc0dyR3pBYzNid3FqZE90M3RLd3kxdHJmODXSAfYBQVVfeXFMTVVxVVZyY18xdFVxaTlXdktPb0tWUEZNRk0wbzRqS0diOF9WQnZjRVlqT0wyRVlodWl0Q3dNNjNkMVJfdVR4a1IyQjJnVFI0Y2ZIcjIxTHBMM3BWWnVRQTE5YW5LaXJxQVkyQzVIbnJHVTZGd2tfeksyc3hmR0lqR1pvWVlqUjZXVTZ1MDJMTzltdkZNUmgzSkxSZjN5eHc1d1hEc3NYdTdkeDZHNmJia3BrRlp0RWJPT0FUdDRvVl9LNzVRa3FvcWlXZ0xZaWVIQXIwQ0lYR2ZFOXk0ekhvQ25xeUJ5QmZGYnV1TF82Qy1GN0NibTd3?oc=5",
+          "description": "MPSi sfida Intesa, \"un polo da 70 miliardi con Bpm e Banca Generali\". Dividendo miliardario RaiNews Risiko bancario, i timori di Salvini su Banco Bpm: no all’ipotesi dello spezzatino la Repubblica MPS, ok del cda alle offerte su Banco BPM e Banca Generali Borsa Italiana E dopo la contromossa di Siena la palla passa ora a Intesa Sanpaolo Milano Finanza Da Messina a Lovaglio, i protagonisti del risi",
+          "pubDate": "Fri, 21 Aug 2026 02:21:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Benzina e diesel, i prezzi non si fermano. La verde torna sopra i 2 euro - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RNUxHUHZQU1JEQ2xPSTZWa0sxTjRhREoxaHZGalZzSDZUcHdaazR3NGkzVWM5NmFpWV9zZlA1THdHTW1kU0stMlpMM2lRTTVmc1RVM0ZNZF9DZmJ3bUtubjZRSTRzejNEWldj?oc=5",
+          "description": "Benzina e diesel, i prezzi non si fermano. La verde torna sopra i 2 euro Sky TG24 Caro carburanti: “Così nei prossimi sei mesi aumenterà l’inflazione” la Repubblica Benzina e gasolio tornano sopra i 2 euro, in autostrada il pieno costa oltre 109 euro Corriere della Sera E' allarme per benzina sopra 2 euro. Consumatori: urge taglio accise più incisivo Borsa Italiana La benzina schizza sopra i 2 eur",
+          "pubDate": "Thu, 20 Aug 2026 10:43:37 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse europee negative, resiste Piazza Affari con focus sulle banche - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQS2R2WThzdGNsY3NNX1o0dWItTWJxbDJNUjdsSkxRZmNwcWVMZWV4VnFWRkFVY3pOT2tRdjd3N3hZbm90RmxrSktiZHB1d0VCaTQ4cnhmaXZEMkJEd1RuT1pyQWwzWG51TnV0QmdLRnVjRXhxUUg4Z0cyQzhtRUtmaE1hUTJqS0lBaG9rVm9HbG1tLTgycWpDNEItVlUzUUN6TUp3Yk5vRmZqelprUDRwcUN5QVJMNmxQLW9DQTZLVldORGVpT3B0TFNucnN6NExlMVBLVEU0bGl5cDNUb0NTM1RFSGdycnQ2TUE?oc=5",
+          "description": "Borse europee negative, resiste Piazza Affari con focus sulle banche Borsa Italiana Moderati guadagni a Milano in testa all'Europa Borsa Italiana Borse, greggio e Treasury pesano sull’Europa. Milano resiste con oil e risiko banche. WS -1,32% Il Sole 24 ORE Piazza Affari azzera i rialzi: Ftse Mib chiude in lieve ribasso SoldiOnline.it Borsa: l'Europa debole dopo Wall Street, in rialzo gas e petroli",
+          "pubDate": "Thu, 20 Aug 2026 16:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Bessent, buyback Treasury potrebbe essere maggiore dei 4 miliardi annunciati - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdW1Kd2tsX1E4Um1DNGhXaEVNVHByLWxxMm9sUlAzMjE5OHdSbUlyZ2x0clM0cnhQclpFa0s5d2Q3MDBmYmRjWWpIbzV3aHlBNXVoQ0JoUWdDaVV1UlY3eFgxbktyNTFvMkhkcGJmOXdlYjZrM3IwTTE2Rmw3SWxlTXlnbWtzMl9ZNm9ERGFQNXItUHNQT3gwNjhfRGNINFJFeHNRZjNiSEc1N0I5N21BY2xSZFlBNGkyN2wyMnh4VjBMOW9fWTVSdXEwLVJaTDBOZGd2R1h1V3l6bEJmalFtLWdwR2hPMDluVWJ2T2VxaFQyNldQSlNTR0JRR19CZw?oc=5",
+          "description": "Bessent, buyback Treasury potrebbe essere maggiore dei 4 miliardi annunciati ANSA Perché i rendimenti dei titoli di Stato aumentano. E potrebbero salire ancora Morningstar Usa, blitz del governo sui titoli di Stato per rassicurare i mercati la Repubblica Positivo il Mercato americano Borsa Italiana Il buyback di Bessent non basta, Treasury bruciano i guadagni ANSA",
+          "pubDate": "Thu, 20 Aug 2026 15:29:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Le Borse del 20 agosto| Piazza Affari guarda al risiko bancario, i future del gas tornano a livelli record (per Hormuz). L'Europa chiude contrastata - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPYzBZMHRTdGpKTGhSQTNmcVFOZHM3aGFDa2VxSTRZYy1wbzFSaGV4dDc0eHRpLUtYWWxVZW1xTk03d1JWS09fQ3JtQnpKdXNpVi1sRXJBa3hhV2RIckhpcXUxR3ZfcFNNaTE0VUdpNFlOSHNSU0JDQ2MtNVJpWFlELTRNazB2WDdaY0hZbUQ1TTQ1TTYxbDhxdW10TUUxMEZVazdkNmhYS3Zpem5wTW5VUXg4bnVnYUl0T0pKOGtxOTloVGpPWnRJUUNyelBaOUJYSFNoSGVMNS1BTm9UcDgyRXVxem1teEx6TC15TC1LS2tyUGpucVFRODBpcExhYm1YV3pacU1JM3AxOEFl0gGSAkFVX3lxTFB2cVFaR216R3NWY0FJbHMycGV4MmFVZ1VpTFNLOW1QNGFNRTJDZ3pOcVhWMWduXzZUdjgtbUhMM29NeWxUcHZ1X3N2UkMyYnk5aWo1QlNwU05KOXdacmFZdTY1SWpEU3RKa0Fhd1BpYUVJNmJtQnJ0TmN4eTlTSkE3Rlhwc1V5NGRXejVHNWhXSU43bHRSU3FYbkIxbTNUaG5tTFVFQVJNOG45QkJrY0U0OTI4S3dmOTJnLVgweWFKMzB5ME10RXR5Vy1CQUdZY0tLWVljWjRBTE5rWnRRaEJRTTdXYllYamswNk4zMUIwUWZNVjJWeGQ5Vm82WWhMOGNKTVo0RGVTQWQ2ampLOWIxV0E?oc=5",
+          "description": "Le Borse del 20 agosto| Piazza Affari guarda al risiko bancario, i future del gas tornano a livelli record (per Hormuz). L'Europa chiude contrastata Corriere della Sera Borse oggi in diretta | Il Ftse Mib chiude sulla parità. Mps -0,3% dopo doppia offerta su Banca Generali (+1,3%) e Bpm (+0,7%) Milano Finanza Borsa Milano ferma, ma si riaccende il risiko bancario su Mps SoldiOnline.it Borsa: Milan",
+          "pubDate": "Thu, 20 Aug 2026 16:44:56 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "meloni",
+      "n_items": 9,
+      "n_sources": 5,
+      "category": "general",
+      "score": 45,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Meloni venerdì a Taranto ma dice no alle associazioni di categoria: “Tavolo sull’Ilva in città? Già previsto a Roma” - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZWxITUZmQkV1WXlCTWJGM0ZROXYtQkg1bk9obEdicUlkWTJrNnVEWUdqcHdmZTN5N1RiSGtiNTh1VktBQVlLSFFULTJ1ZlV0Njc4ZkFqVHBUNnhqWU9Ha3lOS0xTbGlNaWgwWjRZd1Y2Y1VMdGx2dTlSRTNxdHlQaGNaNjFqeVdNRGdkSXg2bl8taXdSWEtqQ015RWlXbDJ6eThLNXdRUW8?oc=5",
+          "description": "Meloni venerdì a Taranto ma dice no alle associazioni di categoria: “Tavolo sull’Ilva in città? Già previsto a Roma” Il Fatto Quotidiano Ex Ilva, Mattarella: \"Impegno nazionale per occupazione e salute a Taranto\" RaiNews Ilva, Mattarella: è un impegno nazionale. Meloni: tavolo su Taranto a palazzo Chigi la Repubblica Taranto, i giochi non servono a celare la crisi il manifesto *** Ex Ilva: Meloni,",
+          "pubDate": "Thu, 20 Aug 2026 16:52:50 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Si allarga il caso dublinanti, anche Finlandia e Svezia li rimandano in Italia",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/anche-la-svezia-trasferisce-i-migranti-in-italia-spagna-e-francia-no_f3081cbe-5518-4036-8bb9-84bc7317e174.html",
+          "description": "Parigi frena: 'Puntiamo a bloccare le partenze'. Schlein e Conte: 'Boomerang per Meloni'",
+          "pubDate": "Thu, 20 Aug 2026 21:12:52 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Mattarella: \"Impegno nazionale per Taranto\". Meloni: \"A settembre tavolo sull'ex Ilva\"",
+          "link": "https://www.ansa.it/puglia/notizie/speciali/xx_giochi_del_mediterraneo_taranto_2026/2026/08/20/mattarella-impegno-nazionale-per-taranto.-meloni-a-settembre-tavolo-sullex-ilva_d3ea0658-0341-48c1-a124-4ffd90ace1e6.html",
+          "description": "Il presidente: 'Hanno dovuto fronteggiare problemi drammatici, ora la città 'abbracci il futuro'",
+          "pubDate": "Thu, 20 Aug 2026 19:55:31 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Fossi (Pd), interesse per le parole di Meloni, ma aspettiamo i fatti - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOVFTaU8wUnVkMlVkQzktQ0tLRkw4RmRBSjhPYUY3TWEzWC0yeEZIZEstOHBrMWRTTkFVUmFJaDRvNFphZXAzNmRVcnpaSmF5dml5eXVxdEVaU0VRb0o2TjRDZDlsa20tTkVVZnZiTDkzNHhGY1dzQ0JCZGNySFVNR0lKd05Yd2NRdEI3b3lYd2RZaHMtSThSMFZaQktjRjE2d3ZtSlIzR3NaWDJWUURiVnhZUGNNT2Y4VVE0RzlPejhQemRqZlg0MV8xTDNLeVR3UG9EeDBzdXpubi1nQmd4Smw5UEhoU1RPSjJqRXdCUQ?oc=5",
+          "description": "Fossi (Pd), interesse per le parole di Meloni, ma aspettiamo i fatti ANSA Risiko bancario, quando la politica è troppo azionista la Repubblica Latronico: un lucano rilancia Paschi di Siena AGR Basilicata Mps, Mario Turco (M5S): il governo chiarisca il suo ruolo nel risiko bancario Milano Finanza Se su Mps il Pd la pensa come Giorgia Meloni. Convergenze Il Foglio",
+          "pubDate": "Thu, 20 Aug 2026 15:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Mille miliardi di risparmio, spread, rating e boom del turismo: i numeri che premiano l’Italia di Meloni - Secolo d'Italia",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRDFoVFlDQ0p0S1VOVnJGMVJKTWQ5Zkw1SFQ5U0RjYkJNUFBJY3A4Y3VSMVQyR2x6alNsVFUzUjVTTnlSTkl5S0FtZnFldHdmSWIzT3Z0TGVnMm1uT2REeTgwU0JKR2IteGhJWmEtUmViVFV5RVpNNGRiNXI5NFllMFUxMmM4RDc0LWQ0S01RSzFWV1d5cHVVdEdtNVFSLXNHT04xbWE4emZWbFhkS19Qa2FNTEs3Wmhfei1wX3BNUjNMZ0h6dmN1dEFoMmRHU19sdy04aQ?oc=5",
+          "description": "Mille miliardi di risparmio, spread, rating e boom del turismo: i numeri che premiano l’Italia di Meloni Secolo d'Italia Risparmio: oltre 1.000 miliardi affidati ai gestori Borsa Italiana FDI - FRATELLI D'ITALIA * CAMERA: «RISPARMIO, GIORGIANNI (FDI): +181 MILIARDI DAL 2022, FIDUCIA E STABILITÀ RAFFORZANO PATRIMONIO ITALIANI agenziagiornalisticaopinione.it Unimpresa: cresce la ricchezza delle fami",
+          "pubDate": "Thu, 20 Aug 2026 17:01:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "allerta",
+      "n_items": 9,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 42,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Maltempo, in Liguria e Toscana allerta arancione (la più alta) per i temporali - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1FYTmwtUm9iV2wxX1dfd21rQzMtaFNiUGxQd3prT01XT0dSR0JsSmZQNGtPcGRSUUt0dHNqWGdxcnNKYjdLX2NBYlg3U0p4Y1BZVmdjWHplWFZkeHBVZXcxTUtTZndSR29zWjFuWlhfT0tnakZ6eHZHOUk2SGZiN3l4TGl1QkNld0xlWmJCcU5scjRmRGcwQkxqZ1k?oc=5",
+          "description": "Maltempo, in Liguria e Toscana allerta arancione (la più alta) per i temporali Il Sole 24 ORE Allerta meteo arancione dalle ore 3.00 alle ore 15.00 di venerdì 21 agosto Comune di Genova Genova irraggiungibile da entrambi i lati dell'Aurelia per rischio frane ANSA Liguria, il torrente Rupinaro di Chiavari a rischio esondazione: sirene attivate. Code per allagamenti sull’A12 Il Fatto Quotidiano Seri",
+          "pubDate": "Thu, 20 Aug 2026 13:37:58 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Ucraina, attacco russo su Kiev nella notte: allerta in Polonia e Romania, si alzano in volo i caccia Nato - Il Messaggero",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLWRTOExtYngyaHV0V0JZMHRmc25HbFhSX1RrdDluc0RqRVNEY1hlNVBJcTk1RHhTbTkwX211VlhueTh2TjRTMkR2eW4zck10bE5vMHRfU1dTdl92UnJCaDJYcG9ZSmdVTzBBcGNjTzQ2VzdjYk1oVmMzNm9xVnlFakhVOUFlbG5UNE51ajBEcUp4VUFVb0kxUzFqZmJVS3RxSkNRd3IzaDdlYXhiQ1MyTVpsVmt4OGNsVExzLXB0VjFrUHpfemc?oc=5",
+          "description": "Guerra Ucraina, attacco russo su Kiev nella notte: allerta in Polonia e Romania, si alzano in volo i caccia Nato Il Messaggero Notte d'inferno a Kiev, i missili russi fanno strage di civili ANSA Sanita': gli avvenimenti di VENERDI' 21 agosto Il Sole 24 ORE Missili di Putin su Kiev, 17 morti. Colpito un ospedale pediatrico la Repubblica Il raid russo su Kiev semina morte e distruzione. Colpito anch",
+          "pubDate": "Thu, 20 Aug 2026 06:36:19 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Grave ondata di maltempo in Valcamonica: crolla il ponte di Sonico, evacuati gli abitanti di Rino e Vione - Corriere Brescia",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNd2J4cER3SkhFMmtVZEVzTWpGZk5MbEpxZUVlWk1tcWtlVjRHU2hhQ2FxT2U4eW1uOFVJNDVZN0c5czFIN3BSY2Rpc3lvT2V3ZFVNNk1ISzRJdW1sRmxVei1kaGxOSi0ycW8waUtGWlRidUtFWDhyQjl1dEw2Vi13aEpiVXdLOE5vWG16TjRyV1NyWW5sRzJ6akw1Y05JcG5wWWxlc0RyR0JfZHlJYkYzczRuNm1oellBUndBbUFzekk1QURxNER0S1JobExHU1Z1ZTQ3LXl0cUlzaVRMZ082aTFmd0I5SURVNFFCa0EyNTdlWENwVDY2NW8teC1TTnRCMXBNTWQ1SdIBjAJBVV95cUxPb0pKOEowaHl1aUo5dHl2VDk1ZE8zZXhnT1F4MmhfS0ZkRUNQVF84enVXUjd3eDI5U3ZaNlRhbktmdTIyZzRjblhRdHB0Ym5laE13WkY4OWQ0aHZoSnFZS0VJelFFTGxYV2tBaWhEVzNZRHYzNjlKVmxWdUNhR0lXYnVyTnh3dmstOGpTTGRSLVFpSmhCbDFsT3JybWZITGdZNlNVSnpPT0djZEY5YVdIa1UyNGJ5ams2aS1HNW9nUU5oRjhCSmdfRHpCYl9IXzFGbXV1dUNwMm82Z0twWmhIbUJkX0k4bktDMnlRVFFyZ3JKRWZPTGNPRGRGMVpRS2JpbnZCMHRPNmN1dmJm?oc=5",
+          "description": "Grave ondata di maltempo in Valcamonica: crolla il ponte di Sonico, evacuati gli abitanti di Rino e Vione Corriere Brescia Le forti piogge hanno causati vari problemi nel nord Italia Il Post Centinaia di evacuati dopo i nubifragi in Valcamonica. Statale 42 chiusa per il crollo del ponte RaiNews Maltempo, è allerta: quattro regioni in arancione, 13 in giallo Euronews Frana la val Rabbia, un'enorme ",
+          "pubDate": "Thu, 20 Aug 2026 19:19:34 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Meteo Firenze e Toscana, confermato l'arrivo del maltempo: allerta arancione per temporali forti. A Firenze sospesa fermata Cascine del tram, parchi e giardini off limits. Lucca, il sindaco chiude le Mura della città - Corriere Fiorentino",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQYjl1czU0cHh6b0tsOEg1ckJ5Qm9SVW51UWtqSmpWbVhocGUxRlVENXFkdVR2c1J3X2RKdmRlczE0QjNubWFvdU5VRmo5Q0xFX3FpU2xHMTFGUElxSlRGUGdhTkNqOGFHWFlydWJia1Eyd2JvLVdUYVNyaWZPbHM2aUVvTEZhX0VHcXJZUnpadXFQRzlGbFJ4Y2xzUllHZHB4b2VRYjR5NDc4M0FZYnlnYjdsZFJDRS15WnBlSE0ybFNHWlpXdTRBRFl3bHJxQWNMRU8yLXFPX250Y2hDaFNKZm5tLUZCLUszWExLbjE1MnphcUR2cDhlbTh3OWx6Y19XUnBIczJZeThWM3RCSHVxYtIBlgJBVV95cUxQeEc4cWdvX1dsM3JYa3FuVkd6N3VFRlVETDlZTFZoRTA4aE9BbzlBamptblRwdXlWbTltQ1k3NjFKVkVMWnZHa1NLdUJvblNacVpIOEs0em4tb3VtdEZpWXk4bHhvVlRCZm5NTURCNXZOUDZtY2plYlRqX2REdmREb3o5cnhKMUw1Y3Z3eVB3ZHo4cGtKX2JfZGJJTGRudkJuamdINHpwakJSM2JWelA4Q3MyTFQySllWS1NUZXByRkViTEpQSEFIRl9paWVHTTYzSzlzYlJtZFlhR0ZUV2I2Wmk5eFgwQl9PMkJzbE1NMG56WHp3aTM0NFlXTDdNbnVTaVN6VEhYYzFTQXJfSnF1M3VUcjRrQQ?oc=5",
+          "description": "Meteo Firenze e Toscana, confermato l'arrivo del maltempo: allerta arancione per temporali forti. A Firenze sospesa fermata Cascine del tram, parchi e giardini off limits. Lucca, il sindaco chiude le Mura della città Corriere Fiorentino Temporali forti in estensione a tutta la Toscana, allerta arancione fino alle 18 di venerdì Toscana Notizie Allerta meteo arancione, a Bagno a Ripoli chiusi parchi",
+          "pubDate": "Thu, 20 Aug 2026 17:21:59 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Allerta meteo, fulmine manda in tilt la stazione di Ventimiglia",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/allerta-arancione-per-maltempo-in-veneto-e-liguria-il-caldo-non-allenta-la-morsa_c3619ca5-9061-4188-a414-b72c05338bad.html",
+          "description": "Temporali al nord, il caldo non allenta la morsa nel centro-sud e tra over 85 fa più morti",
+          "pubDate": "Thu, 20 Aug 2026 21:06:39 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "sempre",
+      "n_items": 6,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 42,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "Belen Rodriguez cade da cavallo sulla spiaggia, \"rialzarsi sempre\"",
+          "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/08/20/belen-rodriguez-cade-da-cavallo-sulla-spiaggia-rialzarsi-sempre_92567b2f-a80e-443d-85b9-40ac1e3f0ad2.html",
+          "description": "L'incidente durante una passeggiata sul lungomare dell'isola di Albarella",
+          "pubDate": "Thu, 20 Aug 2026 11:50:41 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "IA: Italia prima nel fare le leggi, ma ultima in investimenti - ItaliaOggi",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaHd2bjM0dWRiOXhfUEdCckR4ajFWNVdvaXVYUWFzRTM5djlPU09aX2JuMTd1dldRYmNTMjFpV3M2bk1OVDdCWHgtXzFMZThPSlZtQVpKc2dUUFl4UERic1ZkSWdqYzZEZzZVeno1ZzJkUThOXzA5dUYwOGwwYmM4cm5QM3NkNzZsRGVwMHBNeS1VN29ueXhpRGNwSjFmSnJteS1ndFVJZlo1dU5mWWRZZngtd1o?oc=5",
+          "description": "IA: Italia prima nel fare le leggi, ma ultima in investimenti ItaliaOggi AI e lavoro, imprese cercano esperti ma oltre la metà sono introvabili Sky TG24 Ingegneria, tech e sanità, le candidature sono il 70% della media degli annunci Il Sole 24 ORE L’IA parla anche italiano: quali sono i modelli nostrani e quanto sono potenti la Repubblica Lavoro sempre più specializzato: la lista delle mansioni di",
+          "pubDate": "Thu, 20 Aug 2026 15:19:36 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "Pagamenti sempre più digitali, spinta da Covid",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/pagamenti-sempre-piu-digitali-spinta-da-covid_730ee14b-27f0-49f4-b8a3-70d4ebf2476b.html",
+          "description": "Bankitalia, crescita per carte, bancomat e app fintech",
+          "pubDate": "Tue, 30 May 2023 10:41:09 +0200"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "«West Nile ormai presente in Italia, bisogna prepararsi»: il virus si diffonde sempre di più, in Europa 429 casi - Leggo.it",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0llTFNWWmU2c3dRWGZ4MnBWbjVEd3dIX3dCT2VLcDNSbTJVSXBZel9zcVVGXzFKRzQ1dTNkbWdoSG9OODNvREc4YVVBVkhsRG92di1KeWsta2thVUp3MWx1a3VGdGNKOG5tU1NrdDY3U1M4V094WENQX1VVLWZCQ2hzcWlDZHBnREh6LU1nLVVsQkt3VWFKanRaazRVWEgtcjZNV1R6SmFINmp4QlJoTThtYW1WVWdR0gGqAUFVX3lxTFBXTHFIb1lfWkF5NU1uTXBYUXJWcWtDV3otcmtsVXpYbUhwRHIyVnpDS3Q5eXRUXzFsUXhsck5mUkJ5cVpOREJ1aWdXZFRvbFk3ZDVhcTBfZDFIQ2VZZmRCckRxdV9UTU0wc2hKeU5aX2E2bEt2VHRGaUhrYWpSUV9aSnBrQXRUVmhpMlNnS0FMeFh5cklsVHJHVk50YXVkYzM4c01Ndy1DV0pR?oc=5",
+          "description": "«West Nile ormai presente in Italia, bisogna prepararsi»: il virus si diffonde sempre di più, in Europa 429 casi Leggo.it Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Thu, 20 Aug 2026 17:33:47 GMT"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Caldo killer in Germania: 14 mila morti stimate, è il bilancio più grave di sempre - AGI",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Va1VkQTBWa3h1TF9IV2R4b2liOUtZSUZ0eGFsY0dxOFpRMkZuRUVKbThYSjl4VHBBMkstQ3RFeFNwYVQzamVhc2l0eE9CeEJCbmdHakRqTEs0N3VIUFlXRDRQalJTRlZTRHZvbnNZTURvYTlIbXhNTzg4S1U?oc=5",
+          "description": "Caldo killer in Germania: 14 mila morti stimate, è il bilancio più grave di sempre AGI Caldo, la strage degli over 85: i morti a luglio aumentano dell’8%, in Germania sono 14mila la Repubblica Caldo estremo: migliaia di morti correlate in Europa tra gli anziani a luglio Il Fatto Quotidiano Record di vittime del caldo in Germania, 14mila dall'inizio del 2026 ANSA Roma soffoca sotto il caldo record:",
+          "pubDate": "Thu, 20 Aug 2026 19:12:39 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "settembre",
+      "n_items": 8,
+      "n_sources": 5,
+      "category": "general",
+      "score": 40,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "Le prime immagini del cast di X Factor 2026, da Paola Iezzi a Irama",
+          "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/08/20/le-prime-immagini-del-cast-di-x-factor-2026-da-paola-iezzi-a-irama_95c69a16-dbf5-4594-8ba1-99928a543dbc.html",
+          "description": "Si scaldano i motori verso la partenza dello show, al via il 10 settembre su Sky e Now",
+          "pubDate": "Thu, 20 Aug 2026 20:16:19 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Mattarella: \"Impegno nazionale per Taranto\". Meloni: \"A settembre tavolo sull'ex Ilva\"",
+          "link": "https://www.ansa.it/puglia/notizie/speciali/xx_giochi_del_mediterraneo_taranto_2026/2026/08/20/mattarella-impegno-nazionale-per-taranto.-meloni-a-settembre-tavolo-sullex-ilva_d3ea0658-0341-48c1-a124-4ffd90ace1e6.html",
+          "description": "Il presidente: 'Hanno dovuto fronteggiare problemi drammatici, ora la città 'abbracci il futuro'",
+          "pubDate": "Thu, 20 Aug 2026 19:55:31 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Panama, meno navi nel Canale da settembre per la siccità causata da El Niño",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/21/panama-meno-navi-nel-canale-da-settembre-per-la-siccita-causata-da-el-nino_26cc44fe-a74d-491b-a5fb-1cfa40b5abbc.html",
+          "description": "I transiti giornalieri scenderanno da 36 a 32 per il calo delle precipitazioni",
+          "pubDate": "Fri, 21 Aug 2026 00:34:10 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Mattarella e Meloni in campo per Taranto. Premier, a settembre tavoli ex Ilva",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/mattarella-e-meloni-in-campo-per-taranto.-premier-a-settembre-tavoli-ex-ilva_5ca48d3a-adac-4231-8156-3614faff2a72.html",
+          "description": "Due confronti, primo per valutare manifestazioni di interesse, l'altro per investimenti",
+          "pubDate": "Thu, 20 Aug 2026 19:19:39 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Meloni, a settembre tavolo ex Ilva e per lo sviluppo di Taranto",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/meloni-a-settembre-tavolo-ex-ilva-e-per-lo-sviluppo-di-taranto_a2f27429-e230-40de-b54c-3ab65a15d357.html",
+          "description": "'Obiettivo di rilievo nazionale la produzione di acciaio'",
+          "pubDate": "Thu, 20 Aug 2026 18:41:08 +0200"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "guerra",
+      "n_items": 8,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "score": 38,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Ucraina, attacco russo su Kiev nella notte: allerta in Polonia e Romania, si alzano in volo i caccia Nato - Il Messaggero",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLWRTOExtYngyaHV0V0JZMHRmc25HbFhSX1RrdDluc0RqRVNEY1hlNVBJcTk1RHhTbTkwX211VlhueTh2TjRTMkR2eW4zck10bE5vMHRfU1dTdl92UnJCaDJYcG9ZSmdVTzBBcGNjTzQ2VzdjYk1oVmMzNm9xVnlFakhVOUFlbG5UNE51ajBEcUp4VUFVb0kxUzFqZmJVS3RxSkNRd3IzaDdlYXhiQ1MyTVpsVmt4OGNsVExzLXB0VjFrUHpfemc?oc=5",
+          "description": "Guerra Ucraina, attacco russo su Kiev nella notte: allerta in Polonia e Romania, si alzano in volo i caccia Nato Il Messaggero Notte d'inferno a Kiev, i missili russi fanno strage di civili ANSA Sanita': gli avvenimenti di VENERDI' 21 agosto Il Sole 24 ORE Missili di Putin su Kiev, 17 morti. Colpito un ospedale pediatrico la Repubblica Il raid russo su Kiev semina morte e distruzione. Colpito anch",
+          "pubDate": "Thu, 20 Aug 2026 06:36:19 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Trump e la guerra economica 'devastante' all'Iran, l'offensiva del tycoon: chi rischia? - Adnkronos",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVDl4aUN3Z2VCaDVDRTJ2bTc4a3JRVTZmRWRlcHdZU3g1NW5Fc3lRSjZwNjVBYVFTMUtFM2ppa0NndVJmWlJrUGx0OHB1V1lkMVdoZ0pZdU1nX29vMVpKcVJCU2hTYWZjbEFRTjlfaEt6XzhSVVRnVURzUm5HUDJnM0paWG5veTJGbzFHay1SOUJEaVA5blA3TzdjUzhWajdBZm9IZmV6UEJhTEttSUo5TlBaN2E?oc=5",
+          "description": "Trump e la guerra economica 'devastante' all'Iran, l'offensiva del tycoon: chi rischia? Adnkronos L'Iran ha perso il controllo di Hormuz? File di petroliere passano lo Stretto sotto scorta Usa Corriere della Sera Armi di distrazione La Stampa Sale il petrolio, Brent sopra 93 dollari con 'guerra economica devastante' di Trump ANSA La morsa di Trump sull’Iran: “Isolamento e guerra economica” la Repu",
+          "pubDate": "Thu, 20 Aug 2026 22:21:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Ucraina-Russia, le notizie in diretta | Caccia romeno distrugge un drone marino nel Mar Nero. A Kiev colpito un ospedale pediatrico: 16 morti e 40 feriti. Zelensky: «Ci servono i Patriot» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQZFl5UHVRLV9BYTJXSVFWNlRnNVB2a2w0UG96ekFMUVVSNERRLVVCMWNldGpYRFAyZDdreUpBS2NUUGdYcjl0cnVHbVVqN1pPcWFRamdSNzBIeEhQc0lfYjd3WkdpZXZMemhYT045dzBERU9uOF9WQURCSUo5NG5DT3dyS2htU2czb0pkM2hSc29vd3hnMmVlY3RqczF3VDRfMHk0ZEJMbGxCOXZaVGtnYUZEUHk3SGVWaEkyNTZxakVNRURDLWUtZktNd2pHMV96TERuRGN4cU52YlBDNDczMmxtSEdMTW11UGIySGR1NlJNQjNPcFJhTmplRThLNWpHS0tRNzJta9IBjAJBVV95cUxNVjZpNkxrTEhkM0ROTkxzdUVFLU1zb1RzZU91NmZIWTN6M3M0QVdkVEtCRkNEYmQ3VUZrNU8tQXJJR0tFOGZNcVZBOS1vVnVpbGd5enN5VEtIVW5GcHowUXZVZ21QbUlRLVJOLTM1TXFwZVY3N1YxTmQ1azJ2bVAwV1RXZE9rVGFpbWIxQzk1YXFEdWkwcGkyZU0xNFRwc1FyV0UxX2R4dGpabXM1ZjdGb21QQzF4MkV1dzR4enh2clFRZkxXZzV0emRXV3loNmFzdkNOUDZESzB5U1o4TGlvckhsc0Y1Si13aVhVMHB3OU9YNnp2dzZmWWZ2Sjh0d2ZQRkVsM2FfOWFnOUs2?oc=5",
+          "description": "Guerra Ucraina-Russia, le notizie in diretta | Caccia romeno distrugge un drone marino nel Mar Nero. A Kiev colpito un ospedale pediatrico: 16 morti e 40 feriti. Zelensky: «Ci servono i Patriot» Corriere della Sera Finlandia, si indaga su possibile sconfinamento di un aereo russo Tgcom24 Finlandia, sospetta violazione dello spazio aereo da velivolo russo: scatta l’indagine OglioPoNews",
+          "pubDate": "Thu, 20 Aug 2026 23:03:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Israele, Ben Gvir annuncia la costruzione di un’area per l’impiccagione dei terroristi - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnZHZDN6eHdVbThNT2NxS0pMa2hQaGFMS201WHBSTFBRR3EyVXdWNlhpR25qOXNNQlE4aENCcHdYWVRZLXNodXFEREVaRFdPODRnMmx3d05PSUdmamVHTkRXVTM5cW9zN3lHeFBKWHZWTUFGdWI5X085RkdwQ2dvWHJ3ZFNYcXB6UXlSV18tMlpxS01ldlhVYnBuVG1GUmFHRzFPSWx2LUgtMXVpcnZ6Wg?oc=5",
+          "description": "Israele, Ben Gvir annuncia la costruzione di un’area per l’impiccagione dei terroristi Il Sole 24 ORE Israele, il palco per impiccare i palestinesi: Ben-Gvir e gli oltraggi a fini elettorali la Repubblica Autocrati e liberali, il piano inclinato della guerra giusta il manifesto Il destino di Gaza, proliferano i paradossi L'Eco di Bergamo L'effetto che fanno le parole di Ben Gvir Il Foglio",
+          "pubDate": "Thu, 20 Aug 2026 06:57:05 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Gli Usa: «Presto sanzioni più dure a Teheran». Ma l'Iran avverte: «Pronti a usare armi nuove» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSGYyb3dRYWdNZE1CRW9SQ213NTJoVjN3MXpWSWdRVndXaHFoNHV4Y0FoRVVYVUFiZFVEalRkT1d4T1NxRmFMdDlsbW96Y3VnRi1nZU9JZnBORVB0em9la2c1clVzd3d3S0F3TmlWSXFvS2hvcDFLSWg3OHpoR1Fwd0hOVXBLcEZoeExxN0kxTTlnMWR3X1pvRjdyb0lEMGRHS0hKb1hVbGg1MUh5Q3fSAbMBQVVfeXFMUE1tQy1oYWU4Q0ZObnVVLWhtRGhSb3NtXzRBNkF3cm1LbE5ySDMtOXpfejIwTHBld05yZHl6VzNMaEFtVTF6U2xZblF1aFVHMGMwNXl0UlhsTjdaMDU3MG5qbTljd0FFbFlWb3NnVkN0ZnRiSkwxSUU1cGdjSmhTTUJCVFVZMjV3ZlkwdWROVU9kTGVVUWJ6R0FOSUtJTFluVnNWb3dCOGJBQXZudUJzU1ozcjA?oc=5",
+          "description": "Gli Usa: «Presto sanzioni più dure a Teheran». Ma l'Iran avverte: «Pronti a usare armi nuove» Corriere della Sera L'Iran ha perso il controllo di Hormuz? File di petroliere passano lo Stretto sotto scorta Usa Corriere della Sera Armi di distrazione La Stampa Sale il petrolio, Brent sopra 93 dollari con 'guerra economica devastante' di Trump ANSA La morsa di Trump sull’Iran: “Isolamento e guerra ec",
+          "pubDate": "Thu, 20 Aug 2026 20:27:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "chiude",
+      "n_items": 9,
+      "n_sources": 3,
+      "category": "economia",
+      "score": 33,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Meteo Firenze e Toscana, confermato l'arrivo del maltempo: allerta arancione per temporali forti. A Firenze sospesa fermata Cascine del tram, parchi e giardini off limits. Lucca, il sindaco chiude le Mura della città - Corriere Fiorentino",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQYjl1czU0cHh6b0tsOEg1ckJ5Qm9SVW51UWtqSmpWbVhocGUxRlVENXFkdVR2c1J3X2RKdmRlczE0QjNubWFvdU5VRmo5Q0xFX3FpU2xHMTFGUElxSlRGUGdhTkNqOGFHWFlydWJia1Eyd2JvLVdUYVNyaWZPbHM2aUVvTEZhX0VHcXJZUnpadXFQRzlGbFJ4Y2xzUllHZHB4b2VRYjR5NDc4M0FZYnlnYjdsZFJDRS15WnBlSE0ybFNHWlpXdTRBRFl3bHJxQWNMRU8yLXFPX250Y2hDaFNKZm5tLUZCLUszWExLbjE1MnphcUR2cDhlbTh3OWx6Y19XUnBIczJZeThWM3RCSHVxYtIBlgJBVV95cUxQeEc4cWdvX1dsM3JYa3FuVkd6N3VFRlVETDlZTFZoRTA4aE9BbzlBamptblRwdXlWbTltQ1k3NjFKVkVMWnZHa1NLdUJvblNacVpIOEs0em4tb3VtdEZpWXk4bHhvVlRCZm5NTURCNXZOUDZtY2plYlRqX2REdmREb3o5cnhKMUw1Y3Z3eVB3ZHo4cGtKX2JfZGJJTGRudkJuamdINHpwakJSM2JWelA4Q3MyTFQySllWS1NUZXByRkViTEpQSEFIRl9paWVHTTYzSzlzYlJtZFlhR0ZUV2I2Wmk5eFgwQl9PMkJzbE1NMG56WHp3aTM0NFlXTDdNbnVTaVN6VEhYYzFTQXJfSnF1M3VUcjRrQQ?oc=5",
+          "description": "Meteo Firenze e Toscana, confermato l'arrivo del maltempo: allerta arancione per temporali forti. A Firenze sospesa fermata Cascine del tram, parchi e giardini off limits. Lucca, il sindaco chiude le Mura della città Corriere Fiorentino Temporali forti in estensione a tutta la Toscana, allerta arancione fino alle 18 di venerdì Toscana Notizie Allerta meteo arancione, a Bagno a Ripoli chiusi parchi",
+          "pubDate": "Thu, 20 Aug 2026 17:21:59 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse europee negative, resiste Piazza Affari con focus sulle banche - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQS2R2WThzdGNsY3NNX1o0dWItTWJxbDJNUjdsSkxRZmNwcWVMZWV4VnFWRkFVY3pOT2tRdjd3N3hZbm90RmxrSktiZHB1d0VCaTQ4cnhmaXZEMkJEd1RuT1pyQWwzWG51TnV0QmdLRnVjRXhxUUg4Z0cyQzhtRUtmaE1hUTJqS0lBaG9rVm9HbG1tLTgycWpDNEItVlUzUUN6TUp3Yk5vRmZqelprUDRwcUN5QVJMNmxQLW9DQTZLVldORGVpT3B0TFNucnN6NExlMVBLVEU0bGl5cDNUb0NTM1RFSGdycnQ2TUE?oc=5",
+          "description": "Borse europee negative, resiste Piazza Affari con focus sulle banche Borsa Italiana Moderati guadagni a Milano in testa all'Europa Borsa Italiana Borse, greggio e Treasury pesano sull’Europa. Milano resiste con oil e risiko banche. WS -1,32% Il Sole 24 ORE Piazza Affari azzera i rialzi: Ftse Mib chiude in lieve ribasso SoldiOnline.it Borsa: l'Europa debole dopo Wall Street, in rialzo gas e petroli",
+          "pubDate": "Thu, 20 Aug 2026 16:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Le Borse del 20 agosto| Piazza Affari guarda al risiko bancario, i future del gas tornano a livelli record (per Hormuz). L'Europa chiude contrastata - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPYzBZMHRTdGpKTGhSQTNmcVFOZHM3aGFDa2VxSTRZYy1wbzFSaGV4dDc0eHRpLUtYWWxVZW1xTk03d1JWS09fQ3JtQnpKdXNpVi1sRXJBa3hhV2RIckhpcXUxR3ZfcFNNaTE0VUdpNFlOSHNSU0JDQ2MtNVJpWFlELTRNazB2WDdaY0hZbUQ1TTQ1TTYxbDhxdW10TUUxMEZVazdkNmhYS3Zpem5wTW5VUXg4bnVnYUl0T0pKOGtxOTloVGpPWnRJUUNyelBaOUJYSFNoSGVMNS1BTm9UcDgyRXVxem1teEx6TC15TC1LS2tyUGpucVFRODBpcExhYm1YV3pacU1JM3AxOEFl0gGSAkFVX3lxTFB2cVFaR216R3NWY0FJbHMycGV4MmFVZ1VpTFNLOW1QNGFNRTJDZ3pOcVhWMWduXzZUdjgtbUhMM29NeWxUcHZ1X3N2UkMyYnk5aWo1QlNwU05KOXdacmFZdTY1SWpEU3RKa0Fhd1BpYUVJNmJtQnJ0TmN4eTlTSkE3Rlhwc1V5NGRXejVHNWhXSU43bHRSU3FYbkIxbTNUaG5tTFVFQVJNOG45QkJrY0U0OTI4S3dmOTJnLVgweWFKMzB5ME10RXR5Vy1CQUdZY0tLWVljWjRBTE5rWnRRaEJRTTdXYllYamswNk4zMUIwUWZNVjJWeGQ5Vm82WWhMOGNKTVo0RGVTQWQ2ampLOWIxV0E?oc=5",
+          "description": "Le Borse del 20 agosto| Piazza Affari guarda al risiko bancario, i future del gas tornano a livelli record (per Hormuz). L'Europa chiude contrastata Corriere della Sera Borse oggi in diretta | Il Ftse Mib chiude sulla parità. Mps -0,3% dopo doppia offerta su Banca Generali (+1,3%) e Bpm (+0,7%) Milano Finanza Borsa Milano ferma, ma si riaccende il risiko bancario su Mps SoldiOnline.it Borsa: Milan",
+          "pubDate": "Thu, 20 Aug 2026 16:44:56 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Il petrolio chiude in rialzo a New York a 87,83 dollari",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/il-petrolio-chiude-in-rialzo-a-new-york-a-8783-dollari_ffd1b2cf-caec-4fce-959d-ad23ce15f533.html",
+          "description": "Quotazioni salgono del 2,33%",
+          "pubDate": "Thu, 20 Aug 2026 20:37:27 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: Milano chiude poco mossa, lente sul risiko bancario",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/borsa-milano-chiude-poco-mossa-lente-sul-risiko-bancario_650f03d1-275b-4cd4-adfa-f127e7130c37.html",
+          "description": "Scivola Stellantis, in luce Eni. Lo spread tra Btp e Bund sale a 81 punti",
+          "pubDate": "Thu, 20 Aug 2026 18:10:46 +0200"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "ilva",
+      "n_items": 6,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Meloni venerdì a Taranto ma dice no alle associazioni di categoria: “Tavolo sull’Ilva in città? Già previsto a Roma” - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZWxITUZmQkV1WXlCTWJGM0ZROXYtQkg1bk9obEdicUlkWTJrNnVEWUdqcHdmZTN5N1RiSGtiNTh1VktBQVlLSFFULTJ1ZlV0Njc4ZkFqVHBUNnhqWU9Ha3lOS0xTbGlNaWgwWjRZd1Y2Y1VMdGx2dTlSRTNxdHlQaGNaNjFqeVdNRGdkSXg2bl8taXdSWEtqQ015RWlXbDJ6eThLNXdRUW8?oc=5",
+          "description": "Meloni venerdì a Taranto ma dice no alle associazioni di categoria: “Tavolo sull’Ilva in città? Già previsto a Roma” Il Fatto Quotidiano Ex Ilva, Mattarella: \"Impegno nazionale per occupazione e salute a Taranto\" RaiNews Ilva, Mattarella: è un impegno nazionale. Meloni: tavolo su Taranto a palazzo Chigi la Repubblica Taranto, i giochi non servono a celare la crisi il manifesto *** Ex Ilva: Meloni,",
+          "pubDate": "Thu, 20 Aug 2026 16:52:50 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Mattarella: \"Impegno nazionale per Taranto\". Meloni: \"A settembre tavolo sull'ex Ilva\"",
+          "link": "https://www.ansa.it/puglia/notizie/speciali/xx_giochi_del_mediterraneo_taranto_2026/2026/08/20/mattarella-impegno-nazionale-per-taranto.-meloni-a-settembre-tavolo-sullex-ilva_d3ea0658-0341-48c1-a124-4ffd90ace1e6.html",
+          "description": "Il presidente: 'Hanno dovuto fronteggiare problemi drammatici, ora la città 'abbracci il futuro'",
+          "pubDate": "Thu, 20 Aug 2026 19:55:31 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Mattarella e Meloni in campo per Taranto. Premier, a settembre tavoli ex Ilva",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/mattarella-e-meloni-in-campo-per-taranto.-premier-a-settembre-tavoli-ex-ilva_5ca48d3a-adac-4231-8156-3614faff2a72.html",
+          "description": "Due confronti, primo per valutare manifestazioni di interesse, l'altro per investimenti",
+          "pubDate": "Thu, 20 Aug 2026 19:19:39 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Meloni, a settembre tavolo ex Ilva e per lo sviluppo di Taranto",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/meloni-a-settembre-tavolo-ex-ilva-e-per-lo-sviluppo-di-taranto_a2f27429-e230-40de-b54c-3ab65a15d357.html",
+          "description": "'Obiettivo di rilievo nazionale la produzione di acciaio'",
+          "pubDate": "Thu, 20 Aug 2026 18:41:08 +0200"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Ex Ilva, Meloni: tavolo a inizio di settembre. Mattarella: impegno nazionale per Taranto",
+          "link": "https://www.ilsole24ore.com/art/ex-ilva-meloni-tavolo-palazzo-chigi-entro-primi-giorni-settembre-AJtr1jq",
+          "description": "Il tavolo sull’ex Ilva a Palazzo Chigi «tornerà a riunirsi entro i primi giorni di settembre per esaminare le varie manifestazioni di interesse presentate proprio in queste settimane per il...",
+          "pubDate": "Thu, 20 Aug 2026 16:35:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "more",
+      "n_items": 6,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Are ships passing Hormuz more willing to defy Iran or US? What data shows - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOancwTUdheHB0dzJWSHhyNm91UkVsYzBlc1AwSzYyR2xvNVktOE9zZU95aHV0SExDOU9leFJhdzFGVm9QZHpYeGd5alV2eE9PS3cxZUdFbDNpLVhLV1pDeGxKNUdaa01sbVpacFJnMXp1aWoxQVQ1S3NoTDZiLTBsTE1HTXdZZjUtaC1veXB3Vk04ZUpfZnQ2b1VacF9IX25rVHNqazhUX2ExVUxZcnfSAbMBQVVfeXFMT0N1Y2lxb3E3OGdWQzJuZFJNWVNoQXRZOU9JNi1rMzJ1TWhRU0ZlM2NSV3pGMHhNcVdySTNxUmI1b1JmbjN1YV9ReW1xanJiMHMzOFA3NUZTZm91bktrYWoxZXgtcWVoQ0FrZlFONEo4aVk2T0pnc1JSUnNEVGdkRHdNV3FnaHZfZ2plbmR3SjBuWm14QnkzT1ZyQzhab2NJVy0wWXB2bmE0U2lkR2lCZkhjZ0E?oc=5",
+          "description": "Are ships passing Hormuz more willing to defy Iran or US? What data shows Al Jazeera Middle East live: Hormuz shipping traffic falls as Iran-US talks stall France 24 Trump is squeezing Iran’s economy and oil sales. It may still have the upper hand in Hormuz CNN How the U.S. Navy Is Helping Get Oil Through the Strait of Hormuz The New York Times Ships passing through Hormuz hover in single digits, ",
+          "pubDate": "Thu, 20 Aug 2026 08:52:55 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "US sanctions more Cuban companies and officials",
+          "link": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&at_campaign=rss",
+          "description": "An international socialist institute and Cuba's construction ministry are subject to the latest US sanctions, Marco Rubio announces.",
+          "pubDate": "Fri, 21 Aug 2026 02:06:28 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "The Big Call of Duty: Modern Warfare 4 Interview — Infinity Ward on the Beta, Matchmaking, and Much More - IGN",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc0ZKeDVnTklaVXhOb3JOcEk2VjNCZzRTQlppanQ4ZHhsZHdMWGhzVmp5SE1COXBIdkIxZWV1NVFKMXd3ZHREZVRiV2lwbVl6MUJlSlBQNV9RZTNkbF9ERVB3aGd4LXdVSUw4ejNWNzBDeVhkTEVyRHE2VjRYTHBSY1R0aWdab1Y3VUkxZDltVTV6NzRCcF9aazMxM2lXZV9mR1N6Z0FrVHVyV1RTRmtiZXgtQXhMQU9UNnhzS0Izay01Y2w2Y0ZR?oc=5",
+          "description": "The Big Call of Duty: Modern Warfare 4 Interview — Infinity Ward on the Beta, Matchmaking, and Much More IGN Call of Duty: Modern Warfare 4 Beta Patch Notes Call of Duty® | Best-Selling Video Game Franchise Call Of Duty’s Matchmaking System For Modern Warfare 4 Is A Hot Topic GameSpot Call of Duty: Modern Warfare 4 multiplayer trailer Nintendo Everything Get Ready: How to Secure Your Call of Duty:",
+          "pubDate": "Thu, 20 Aug 2026 17:00:36 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Resonance: A Plague Tale Legacy – Why This Is Far More Than A Plague Tale 3 - XBOX Wire",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdEJEcC1UZTBleThrUGc3YmVDVEFhTEN5cFZvbFZOTFBvYVBJZHUyenZFS0pUNW51b3YwMjdVNXRnaThBWXhqUGJKOEsxTTdYMExta0RtU212SHVucHUwYkZjN25BazBzUGVyUXZpOExLVzFkUmd1LXMtRjYyMUlyV2ZaTzRCMFd3bTRINjBkTmw3d9IBlwFBVV95cUxNbE9HSUhSczdKQXpjSW40ZVVndnZHd3lFY3FSWEczTTM4QXcxR1RwSmFmRS05bjFtQUtpTUdRbjJjZGRJVVhMQjNDTVhxUVluSmd1VW1YVTJyMDFmaXRGV1llbUVWWnBVZGJGQm1LRDhWX2dnaDQ0bXF1MGlSZ0dqRXpaeERoR2pXNzlHLTBiVENrRjViZURj?oc=5",
+          "description": "Resonance: A Plague Tale Legacy – Why This Is Far More Than A Plague Tale 3 XBOX Wire The New Rat Horror Game Is Being Pirated A Week Before Launch Kotaku The surprising reason why Resonance: A Plague Tale Legacy’s ancient Greece is historically wrong Creative Bloq Active Matter Developers Discuss Steam Release, Cheaters, Vehicles, and Progression Simplification ixbt.games Resonance: A Plague Tale",
+          "pubDate": "Thu, 20 Aug 2026 16:02:25 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "What beats seeing eclipses from space? Try the northern and southern lights - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX29oTXA0MjM3QzU0b3lCZ2JhWjV5bXl6N0hFaUsxbjJoZGVsVzZrVDlYVDdhLVBlQndnSmNHTHo3M3VsVnBXbl9vRDh4WjRzeHJxX0NIQW5QWGxCWnU2V1VmaDJTUWl4RXZvWW1pZEtQaF93WVpmZ05aMkJlaHNxNVhkT2RmSmNjbDcyUXAteHV4SkMtWktSWkZ2cVF0dw?oc=5",
+          "description": "What beats seeing eclipses from space? Try the northern and southern lights AP News See more headlines & perspectives on Google News",
+          "pubDate": "Wed, 19 Aug 2026 18:14:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "taranto",
+      "n_items": 6,
+      "n_sources": 4,
+      "category": "general",
+      "score": 24,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Meloni venerdì a Taranto ma dice no alle associazioni di categoria: “Tavolo sull’Ilva in città? Già previsto a Roma” - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZWxITUZmQkV1WXlCTWJGM0ZROXYtQkg1bk9obEdicUlkWTJrNnVEWUdqcHdmZTN5N1RiSGtiNTh1VktBQVlLSFFULTJ1ZlV0Njc4ZkFqVHBUNnhqWU9Ha3lOS0xTbGlNaWgwWjRZd1Y2Y1VMdGx2dTlSRTNxdHlQaGNaNjFqeVdNRGdkSXg2bl8taXdSWEtqQ015RWlXbDJ6eThLNXdRUW8?oc=5",
+          "description": "Meloni venerdì a Taranto ma dice no alle associazioni di categoria: “Tavolo sull’Ilva in città? Già previsto a Roma” Il Fatto Quotidiano Ex Ilva, Mattarella: \"Impegno nazionale per occupazione e salute a Taranto\" RaiNews Ilva, Mattarella: è un impegno nazionale. Meloni: tavolo su Taranto a palazzo Chigi la Repubblica Taranto, i giochi non servono a celare la crisi il manifesto *** Ex Ilva: Meloni,",
+          "pubDate": "Thu, 20 Aug 2026 16:52:50 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Mattarella: \"Impegno nazionale per Taranto\". Meloni: \"A settembre tavolo sull'ex Ilva\"",
+          "link": "https://www.ansa.it/puglia/notizie/speciali/xx_giochi_del_mediterraneo_taranto_2026/2026/08/20/mattarella-impegno-nazionale-per-taranto.-meloni-a-settembre-tavolo-sullex-ilva_d3ea0658-0341-48c1-a124-4ffd90ace1e6.html",
+          "description": "Il presidente: 'Hanno dovuto fronteggiare problemi drammatici, ora la città 'abbracci il futuro'",
+          "pubDate": "Thu, 20 Aug 2026 19:55:31 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Mattarella e Meloni in campo per Taranto. Premier, a settembre tavoli ex Ilva",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/mattarella-e-meloni-in-campo-per-taranto.-premier-a-settembre-tavoli-ex-ilva_5ca48d3a-adac-4231-8156-3614faff2a72.html",
+          "description": "Due confronti, primo per valutare manifestazioni di interesse, l'altro per investimenti",
+          "pubDate": "Thu, 20 Aug 2026 19:19:39 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Meloni, a settembre tavolo ex Ilva e per lo sviluppo di Taranto",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/20/meloni-a-settembre-tavolo-ex-ilva-e-per-lo-sviluppo-di-taranto_a2f27429-e230-40de-b54c-3ab65a15d357.html",
+          "description": "'Obiettivo di rilievo nazionale la produzione di acciaio'",
+          "pubDate": "Thu, 20 Aug 2026 18:41:08 +0200"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Ex Ilva, Meloni: tavolo a inizio di settembre. Mattarella: impegno nazionale per Taranto",
+          "link": "https://www.ilsole24ore.com/art/ex-ilva-meloni-tavolo-palazzo-chigi-entro-primi-giorni-settembre-AJtr1jq",
+          "description": "Il tavolo sull’ex Ilva a Palazzo Chigi «tornerà a riunirsi entro i primi giorni di settembre per esaminare le varie manifestazioni di interesse presentate proprio in queste settimane per il...",
+          "pubDate": "Thu, 20 Aug 2026 16:35:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    }
+  ]
+}

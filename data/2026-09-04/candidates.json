@@ -1,0 +1,925 @@
+{
+  "date": "2026-09-04",
+  "top_topics": [
+    {
+      "keyword": "settembre",
+      "n_items": 15,
+      "n_sources": 7,
+      "category": "economia",
+      "score": 111,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Taglio accise sul diesel, verso proroga al 10 settembre: poi le misure per i redditi più bassi - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOTnBSU1BzOHROMzZSSFZRa3BPbkhfQlk5RklvZEIwYWVSQWdQdndDOHQ3MXl0Y09LTEZDUFVyMXZJa0pieUhCQ09wckRsM3pLNWFLaWs0aWVOQjQ1QXN5Q2RYcHlBbFhLSk01M3ZJLTVFRUpoSEc0bFZ0UHZRRzBWNHF1VkNGeDNmVnNoYW5lNHR0LTFzZFZzdUY5eDFLakszelJWY0RwWXBBNGJiQlVaYVpFcTVOZGIyQXNpUXdFTkx5NkFKTEV1NWZzcGtiZVlDcFQ1QXNxSmJ2VXhNNkhka1pHUmgxTi1ES3BYcHF0bGs0YlM4WVBiZXo5ZzlFNUdqTnJCNTdHcUx4T1F4d28wNjhhZEtNUm5jU1NQY9IBogJBVV95cUxQcVlQd2JvLWlOeFhoSVBRelROQnFLdnAtTDFPQ3Vpbm9tX21ZTlRaTUNBY2R0TktFMHlQOTVkOXBMb0lVRHAyZm5JV3NlVmdkWkFDMmVVSjRLZnRtZURvU0dBVUVCVmVCUlJ1MTF5ei1RU0Y3b0NlZFJZTmRmZ3BTZlpFRjNVTm1CVy1FV0oyenYwT1VLQzcxTDRaUUNCbnZwcHBjeFliNmVlRzZWY2N2VnFMcDNMS3FiM2xKc0twcG5weDJqOXNxWnR6Smktc2s3NnVVWnhXbHh2NF9lRXVXOHl6SHNTRmxHbU05bktVdGdtZGYwQXZFT0NLWFktMFZndG1HeTVBODJRLU0wNDhQRnFhNGpOVE9KbW9QX2tMX3k4dw?oc=5",
+          "description": "Taglio accise sul diesel, verso proroga al 10 settembre: poi le misure per i redditi più bassi corriere.it Carburanti sempre più cari, verso mini-proroga taglio accise ANSA Caro diesel, il governo prende tempo. Le tre opzioni sul tavolo per il «dopo-accise» corriere.it Blog | Lo sconto sul gasolio scade sabato: non paga lo Stato, ma i big dell'energia. E sarà rimborsato senza interessi ilfattoquot",
+          "pubDate": "Thu, 03 Sep 2026 16:48:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Maradona, il processo entra nella fase finale. Il 29 settembre le arringhe finali",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/03/maradona-il-processo-entra-nella-fase-finale.-il-29-settembre-le-arringhe-finali_00308bc7-b8ff-45ac-9ec9-d1a11b9cef60.html",
+          "description": "I giudici fissano il calendario. Il neurochirurgo Luque, 'abbiamo fatto il possibile'",
+          "pubDate": "Thu, 3 Sep 2026 23:18:47 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Mps, via libera della Bce all’incorporazione di Mediobanca - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM2JRLUNzdDgzTUpobF9mbWVLbVZsTVpXOG5oV19SYmNyVDNqTU0yZlBGQnhDanNQcnJSZDQ5WWk4bEJ1R01zOUk2RXU2SUxnRVBjYk9kYW1adWItbGZBNHhVVVJoQzN6YzNCYlRUdEk1XzdOeFZZbVlWWWg2aWFvMnZ0eGhDOUxnUHExSEFGTE1OZw?oc=5",
+          "description": "Mps, via libera della Bce all’incorporazione di Mediobanca Il Sole 24 ORE Via libera della Bce alla fusione tra Mps e Mediobanca la Repubblica Rassegna Stampa assicurativa 3 settembre 2026 Assinews.it Mps: settimana prossima cda per cooptazione due consiglieri Il Sole 24 ORE Mps, via libera della Bce all'incorporazione di Mediobanca e alle modifiche statutarie RaiNews",
+          "pubDate": "Thu, 03 Sep 2026 21:07:39 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Acquisti diffusi in Europa in scia alle parole di Waller della Fed - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNEFsb0JHYzdRUXNxeVhOZ05uODh3bXhDMWdaLXhrQ3d5LWE0YTV3S1lidG1reFRyLUVQLVQtS0JFQ0ZvMFU0UEhNdlB1dHdrd2lqcHJSYURuakNvRXRLVF9jRWctRS1MaVpNaURQd1hEdGY3dWxjbHE4bUtaSXRUOWVrR1ZZMkpmVEhKdVMzR3J2Zm9GNjkxMkdEbWhMZjE0VTVDUFp5NDkyZGZWMlNTZUVxSkVrSG9iYVhwcXU5ZmpTUFZIVE1WMzFRWHEzU1hjcy1iTEFEdEVxNmZlcmk3WU1FVk9HMUNJ?oc=5",
+          "description": "Acquisti diffusi in Europa in scia alle parole di Waller della Fed Borsa Italiana Kospi aumenta, seguendo Wall Street, mentre Waller della Fed segnala una pausa sui tassi Yahoo Finanza Pioggia di acquisti sui listini USA con allentamento timori di stretta monetaria ANSA Fed: Waller, favorevole a tassi fermi a settembre (RCO) Il Sole 24 ORE Borsa Usa, in rialzo dopo dichiarazioni Waller su mantenim",
+          "pubDate": "Thu, 03 Sep 2026 16:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "GMG Moto Guzzi – Inaugurata la nuova fabbrica di Mandello del Lario - Red-Live.it",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORmZmSHA2Z3hmU2UwVHlCdlJBLXRyaG9yV0VvOUJDTnpkdlE4bjBWVE1EdWRHeUljTmx6eVVyVFAtQUx1bkVVZjR0NFladGFmdktzVXRtMVpObE5nRFY5a3BHbktHNTlUZDd0U19QVnk4YXVEOFFiVURBa0lYSkV0QU9lV2NkXzNYVk9PeGM4UEZoeWhfSlE?oc=5",
+          "description": "GMG Moto Guzzi – Inaugurata la nuova fabbrica di Mandello del Lario Red-Live.it Moto Guzzi inaugura la sua nuova casa e il museo EICMA Sabato 5 settembre chiusure temporanee sulla Statale 36 per la parata delle moto Guzzi LeccoToday Moto Guzzi: inaugurato il nuovo stabilimento a Mandello del Lario Borsa Italiana Guzzi city rinasce sul lago. Vip e gente comune per la moto senza tempo la Repubblica",
+          "pubDate": "Thu, 03 Sep 2026 11:39:44 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "lancia",
+      "n_items": 12,
+      "n_sources": 9,
+      "category": "general",
+      "score": 108,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Femminicidio-suicidio sulla A1: getta la ex dal cavalcavia e poi si lancia nel vuoto - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUVdlaFN1MFd1YkFiTWdtdzl1dVRkWmtvRXl3Vno1Y0MyNlNFZkdTdXY2NHBHelRtdWxqNTBzYk9rMzVLRUZiY2Y2UEpENDlaS0hlOTFlN1l6Um5NU1RuSGJpRHRxbFZ5VHRXSTg4a3NJU0VTckR2V3N3NUUtQjRreWF6dVdITFNBdXc3c0dDUHZWcV8yTHMxdGJUS25FRkpEMm9NYzBRV2oybHBybmNaSVlhcUdVM0UzNW5SNlRlUXRCc3psTjdxaF9uLVY5ZWpMRy01YVRkTnhCOVRnX2R6NUtIbEJGMkVuR1A5YkVYTFp5c1NYaEM3NGxVUmd3Z9IBgwJBVV95cUxNQzJyWnV4MHRZQkRXQXJqSmZNNXhCZU41ckh6Y0lqbURPV3RSZC1pTENTN1VOaVBSWnp3QXh0Q3liUm1rT2c2VGpHNUoyUWdVNS1EYW5sZ3I3T3hJYjZwckV0OFctaXpwb0pTUE1Ra1FNOVlwVFRhcXBjbGNXQ2JwWEpZSElpZ19GbjVwQzFpV0tmMEE4STd6WTZJRE1UOXJXai1YYmVGUnRVMVA1MVN2eUxYSThXSFZCaDVLVTVRbHIzRm1lX2tfcThaai1PQlFBYWZvUlBOQXpZckVqRmFua1ZGSG5PYzd1ZHlJVmNiX3poOEFORjhxSTVrODFicmxOYl9r?oc=5",
+          "description": "Femminicidio-suicidio sulla A1: getta la ex dal cavalcavia e poi si lancia nel vuoto RaiNews Lancia la ex dal viadotto dopo averla sequestrata e chiusa nel bagagliaio ANSA Ferma l'auto sul cavalcavia dell'A1 a Firenze, vede arrivare i poliziotti e spinge nel vuoto l'ex compagna. Poi si getta anche lui. Lei poco prima aveva chiesto aiuto Corriere Fiorentino “Cosa stai facendo?”, il terrore di Loren",
+          "pubDate": "Thu, 03 Sep 2026 20:22:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Iran, Netanyahu: \"La caduta del regime di Teheran è alla nostra portata, non sfidateci\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVjE1clZzWVlLT2RfUDRCUGNucUxlbHh4RzNEYU1VdFQzT0NfNFA1anp0THRfWmhfWUlJYTJ4X2FFdFdxRzhUcG90YWxHQkNJVzdRUkpiSU52TUsydHRRcUZ3Zk5QRE9QZ0NxeFNPM0hVNHh2UUxfbzRsRUh6dTVMaVRkSmtPb1NQazFwQU1MNkI4YXVqMGx5RkZ5R2V2bGFobV9zNDMtTjFMVW5DQ3lkZDlB0gFoQVVfeXFMTnk3d2FibmZRMFMxNjVLOEpyRWtfYXp6QklFLWFYMDdNQU9ZODc2TUlHMl9BLWpQMF9fYmxjenFkcjVSR3oyZHVLd0NLM3NkMjhLRmpjS2g3b2NpNjA3NG9hcUFDUFFRNEo?oc=5",
+          "description": "Iran, Netanyahu: \"La caduta del regime di Teheran è alla nostra portata, non sfidateci\" Tgcom24 Iran, colpite basi Usa negli Emirati e in Kuwait. Netanyahu: «Caduta del regime iraniano è a portata di mano Il Sole 24 ORE Trump minaccia nuovi raid, l'Iran annuncia rappresaglie e Vance annuncia indagine su attacco a nozze - Netanyahu rilancia: \"La caduta del regime iraniano è a portata di mano\" RaiNe",
+          "pubDate": "Thu, 03 Sep 2026 22:00:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Lancia la ex dal viadotto dopo averla sequestrata e chiusa nel bagagliaio",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/03/uccide-la-ex-lanciandola-da-un-viadotto-le-ha-teso-un-agguato_f1452487-af5d-4f86-9912-7d63e49339da.html",
+          "description": "Femminicidio in Toscana: la donna ha cercato di chiedere aiuto al 112. L'uomo si è suicidato",
+          "pubDate": "Thu, 3 Sep 2026 21:21:21 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Ecco ChatGPT-6 Astra, un supercomputer per soli $20? - Yahoo Finanza",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdFNVOFpNU3JJQlBjMEREYUFXUVhkN3lUUXNYMElELVFjcFZBRFhaMktIMTBZWEFuem1STTlvQ0pnYjhsNC1CaEJuSjl5cFV4NjM5emlaSHNVOHBhTmFUY2NSU1FVNlU1cU5HQXpaOThYQlNFMHUwV1JpRVdYRGRtRw?oc=5",
+          "description": "Ecco ChatGPT-6 Astra, un supercomputer per soli $20? Yahoo Finanza Verso Astra: capacità critiche e misure di protezione di frontiera OpenAI OpenAI lancia GPT-6 Astra, il modello che faceva paura. L’azienda: “Inizia l’era dell’AGI” la Repubblica I titoli AI cinesi salgono dopo il lancio di Astra da parte di OpenAI, MiniMax +6% Investing.com OpenAI: in arrivo Astra, nuovo modello «in grado di rifiu",
+          "pubDate": "Thu, 03 Sep 2026 20:20:33 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Imprese e Regioni del Nord lanciano il Distretto unico della manifattura",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/03/imprese-e-regioni-del-nord-lanciano-il-distretto-unico-della-manifattura_bc015a3f-6901-469c-b0cf-862ccffbd032.html",
+          "description": "Obiettivo costruire una strategia comune su innovazione, credito e competitività",
+          "pubDate": "Thu, 3 Sep 2026 18:05:37 +0200"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "nuova",
+      "n_items": 11,
+      "n_sources": 7,
+      "category": "general",
+      "score": 77,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Nuova tragedia familiare: a Finale Ligure trovati morti padre, madre e figlio 14enne - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWTNWUHBKUTlLeTdqWU1vUHpMcERBVVROUlBySU93c0xGZE81VkVwVjgwQ0xMTEtrRFc5SWptUE02NjdKN0tEUmZ0Q0RuLUJBaEJYTmUxTEl6Vi1NZkRjVWNiaTJiQlc3RFUtemMyTFdla1pCVFNUcHFBam90Um5FeFdfS2JvZTBsdWNPTzVmS1BwcjVHQ25PZTZrUzg1QUZZQWtkNXExbnZHY3JyMnJPd1ZRWDlXZw?oc=5",
+          "description": "Nuova tragedia familiare: a Finale Ligure trovati morti padre, madre e figlio 14enne Tgcom24 Finale Ligure, spara a moglie e figlio nel sonno e si uccide. Quei tormenti nel biglietto di addio corriere.it Strage in famiglia a Finale Ligure. Padre, madre e figlio trovati morti in casa RaiNews Gli amici di Mattia distrutti dal dolore “Il tuo sorriso rimarrà sempre con noi” La Stampa Finale Ligure, tr",
+          "pubDate": "Thu, 03 Sep 2026 19:17:17 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "I droni jet, la nuova arma di Putin - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNck45NFVjNUd1elZySnlsT3FHc3B6SjFTLWZHV1d1UW1mMEE5eGF6TnBpZG13U0JnV2dYcnpsbzlqYU5oWlduV3dUZWlYN1lXNEdmQ09EemxnYWJ5cFRUbUppTl9sal9rTWc2SnNSMnZOYW1SRTByMEZxaU9ydzBFY2dkbnZ4SVVrU29VRHVSRVBYQVUxYnNNd3FqaTdBWW9IVVBSMjdOb0luZjNwai1uQmZUVlY4ekhGZmfSAb8BQVVfeXFMTlBucE9WMGZlUDlTLWYxWC1ITWJEbEhScnZMT3d6NFB4bTl4ZmNrcHllbFRzVmhacG42dFJNamRUQThkYXUxLUhfckRLT2N3b2ZTRjU3VU02Y3RwOHFoOV9PcFVmVHZweHloUlAwTm9CWFI2TVFoSXJFUjlsSjhCQk9xSHRUMzFRS3prRjQ1dHFxSnFZSWhxeUZDX0NLTGdEUkhNRk9jQ1Znd0JYWWdzdDNFejZJR1ZENUcwNmF2UlE?oc=5",
+          "description": "I droni jet, la nuova arma di Putin la Repubblica L’Ucraina: vietare i voli civili in Russia. Le prime cancellazioni. Vettori che sorvolano il Paese la Repubblica L’avvertimento di Kyjiv | Zelensky vuole chiudere i cieli russi con i droni Linkiesta.it Ucraina avverte le compagnie aeree: \"Lo spazio aereo russo non è sicuro\" it.euronews.com \"Svuotate i cieli russi\". Zelensky avverte che volare \"non ",
+          "pubDate": "Thu, 03 Sep 2026 11:15:56 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Benzina, prezzi ancora in salita al self benzina a 2,039 euro/litro, gasolio a 2,147 - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLXNxXzRnejRoamRpZmMxVHlfeWRvQTdRcWZHcjFiQVlfUEdrNmdqQjlxc0FfdEdMcEplbXJSd2dQMmxoOGplOE5WV0M0TDItQkpWVnYyTXl0ajZxbmZVZVlXVHZnYlRTNmlpei1sY2R5TE1ZVzd0d0N3TWJFdWhmd2g5SEp3d1VqaE1ndUVnbFoxZWtnU2RiaW9TanR1b3pwN2hGV2RleVRqMTJvQks4b1RhN28tSm5UeVYwbVVGZ0NGSmRpaDNocnRIOWZDckxnS3pUNUhPOHd1TTNoUEdGWUFBNjRaS0FWVWhFZHhsZ0hFM3fSAfgBQVVfeXFMT05ZbTBYWUlXcWh6bFhvWnAxOUlWbWpzOV9hU1d5UzJuSm54Z2lkOWplblhTOWpXNW9idXlXU3JKNmtfX1JVN28wMkFrUzRNZ09qLVpjdFNScjE3SkY2bF9xc0o0LUFrak1EaVNuVkkwQ0JNV2ZwcHF1eURTLXE1ekhMMGhwa2JDWHhYeDNMUkNEZkdtMEd6Z3k4UWQwTlU3SGxHM1VGTnlKX2xOUk5YWHQ3N2ZWbEotTm5VX3NUUUhkVkhzSFdVMDJnZWk4dUVoRWJuUVJQZ2Nha2E2LWQtVTJsVEp3UjF3dGlzWUF3SWU1djZ4ckItMjE?oc=5",
+          "description": "Benzina, prezzi ancora in salita al self benzina a 2,039 euro/litro, gasolio a 2,147 RaiNews Carburanti, la benzina al nuovo record a 2,124 euro. Accise, nuova proroga dello sconto sul diesel. E salgono anche le bollette del gas: +6,9% corriere.it Benzina, prezzi ancora in salita. I consumatori: “Senza sconti, diesel a 2,4 euro in autostrada” la Repubblica Carburanti alle stelle: gasolio a 2,131 e",
+          "pubDate": "Thu, 03 Sep 2026 09:53:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Dal 1 novembre scatta la tassa sui pacchi extra-Ue: ecco cosa cambia con la nuova agenzia delle dogane - ilfattoquotidiano.it",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTk9kS0RmOExhV3JzclE5VHBYOFNoVm5zYmdQUnV5d1liM2lpQ3ZfRVIwc01zVU9nQUFKa25HT2pmODgySHBsVU5hdHNZZ01saVVWNnc3Tk1VdVpDZDc3V0Yxeno4alpDWTRTVXhUX0JyV21BMmdMY1FRbXZOeGxfVmxqalJjV2x5b0ZUTF9qVmVjd3ZmN3Jzd3loNDB5SlU?oc=5",
+          "description": "Dal 1 novembre scatta la tassa sui pacchi extra-Ue: ecco cosa cambia con la nuova agenzia delle dogane ilfattoquotidiano.it La tassa europea di 3 euro ha fatto crollare i pacchi cinesi: per Temu, Shein e AliExpress cali nelle vendite fino al 40% corriere.it Federmoda, riforma doganale Ue passo importante contro ultra fast fashion FashionNetwork France Come il dazio UE sui pacchi cambia la logistic",
+          "pubDate": "Thu, 03 Sep 2026 18:20:32 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "GMG Moto Guzzi – Inaugurata la nuova fabbrica di Mandello del Lario - Red-Live.it",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORmZmSHA2Z3hmU2UwVHlCdlJBLXRyaG9yV0VvOUJDTnpkdlE4bjBWVE1EdWRHeUljTmx6eVVyVFAtQUx1bkVVZjR0NFladGFmdktzVXRtMVpObE5nRFY5a3BHbktHNTlUZDd0U19QVnk4YXVEOFFiVURBa0lYSkV0QU9lV2NkXzNYVk9PeGM4UEZoeWhfSlE?oc=5",
+          "description": "GMG Moto Guzzi – Inaugurata la nuova fabbrica di Mandello del Lario Red-Live.it Moto Guzzi inaugura la sua nuova casa e il museo EICMA Sabato 5 settembre chiusure temporanee sulla Statale 36 per la parata delle moto Guzzi LeccoToday Moto Guzzi: inaugurato il nuovo stabilimento a Mandello del Lario Borsa Italiana Guzzi city rinasce sul lago. Vip e gente comune per la moto senza tempo la Repubblica",
+          "pubDate": "Thu, 03 Sep 2026 11:39:44 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "chiude",
+      "n_items": 9,
+      "n_sources": 6,
+      "category": "economia",
+      "score": 60,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Berlino chiude Casa Russia, Mosca chiude il Goethe Institut - ilfattoquotidiano.it",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSlpfdkc2N3lBdE1LRHEzTzJTaXRTMi15bEVmRllKRlMxcHF1LVQzWWtXZVNZWkx6d05vYWZHTnA4a1dwNFlCOFBBMW5sYUg5akRzZFhqMFhmNzBtc2ZvZnFBQVAxcElVQV9xUXc3dm54ZHA1SnZPUTktdUt5VFVCTFlqZGRFVDhIcHRzT1VOcTZxNzhLelhuUHduZVRDbkhGbU0wRg?oc=5",
+          "description": "Berlino chiude Casa Russia, Mosca chiude il Goethe Institut ilfattoquotidiano.it Guerra Ucraina-Russia, le notizie in diretta | Putin: «Una soluzione del conflitto è possibile. Zelensky minaccia i voli civili? Complica i negoziati di pace» corriere.it Germania, identificati due sospettati per l'attacco di Lipsia Vatican News La guerra ibrida è già in Europa ISPI Scontro Mosca-Berlino, Lavrov: 'L'I",
+          "pubDate": "Thu, 03 Sep 2026 11:22:30 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "I droni jet, la nuova arma di Putin - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNck45NFVjNUd1elZySnlsT3FHc3B6SjFTLWZHV1d1UW1mMEE5eGF6TnBpZG13U0JnV2dYcnpsbzlqYU5oWlduV3dUZWlYN1lXNEdmQ09EemxnYWJ5cFRUbUppTl9sal9rTWc2SnNSMnZOYW1SRTByMEZxaU9ydzBFY2dkbnZ4SVVrU29VRHVSRVBYQVUxYnNNd3FqaTdBWW9IVVBSMjdOb0luZjNwai1uQmZUVlY4ekhGZmfSAb8BQVVfeXFMTlBucE9WMGZlUDlTLWYxWC1ITWJEbEhScnZMT3d6NFB4bTl4ZmNrcHllbFRzVmhacG42dFJNamRUQThkYXUxLUhfckRLT2N3b2ZTRjU3VU02Y3RwOHFoOV9PcFVmVHZweHloUlAwTm9CWFI2TVFoSXJFUjlsSjhCQk9xSHRUMzFRS3prRjQ1dHFxSnFZSWhxeUZDX0NLTGdEUkhNRk9jQ1Znd0JYWWdzdDNFejZJR1ZENUcwNmF2UlE?oc=5",
+          "description": "I droni jet, la nuova arma di Putin la Repubblica L’Ucraina: vietare i voli civili in Russia. Le prime cancellazioni. Vettori che sorvolano il Paese la Repubblica L’avvertimento di Kyjiv | Zelensky vuole chiudere i cieli russi con i droni Linkiesta.it Ucraina avverte le compagnie aeree: \"Lo spazio aereo russo non è sicuro\" it.euronews.com \"Svuotate i cieli russi\". Zelensky avverte che volare \"non ",
+          "pubDate": "Thu, 03 Sep 2026 11:15:56 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "'Truppe Usa nel Golfo fino al 2027', ma Trump vuole chiudere",
+          "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/03/il-wsj-il-pentagono-estende-il-dispiegamento-delle-truppe-usa-fino-al-2027_c44642e7-ba2d-483f-82ce-c654a741b4c6.html",
+          "description": "Iran prosegue raid. Tycoon: 'Chiederemo all'Ue i soldi delle armi date da Biden per Kiev'",
+          "pubDate": "Thu, 3 Sep 2026 20:38:49 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borsa Italiana, il commento della seduta del 3 settembre 2026 - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzJBQVZnTlNZQXBfVzc5N0cwSFFGc21HdjZYbHB2SVVJQnZ1Q2FSdXAxV1pveU9kR1ZwcjNxamZZOGVkZnhDZXBuUGJaSk9DWk9wMVR4UzdHLVNjVHpJRFMzUlY4bUJKWFNyczR1T09qYlczemtEangwQm1yZ1FPRnBSb0lkcVhuVHVWOGNGX3NEWEVrMFZmeTJkZEgxN2M?oc=5",
+          "description": "Borsa Italiana, il commento della seduta del 3 settembre 2026 SoldiOnline.it Piazza Affari tonica in un'Europa cauta Borsa Italiana Wall Street traina le borse, Milano chiude a +0,88% RaiNews Borsa: Milano chiude a +0,88% con Lottomatica, Stellatis, Tim ANSA Borse europee in rialzo mentre i prezzi del petrolio si stabilizzano: DAX, CAC, FTSE100 Yahoo Finanza",
+          "pubDate": "Thu, 03 Sep 2026 16:04:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Il petrolio chiude in leggero rialzo a New York, a 91,13 dollari",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/03/il-petrolio-chiude-in-leggero-rialzo-a-new-york-a-9113-dollari_0ce0f4c0-3c8b-4f20-90db-ef9b764126ff.html",
+          "description": "Il Wti a +0,13%, in calo invece il Brent a quota 95,30 (-0,35%)",
+          "pubDate": "Thu, 3 Sep 2026 20:41:26 +0200"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "trump",
+      "n_items": 10,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 56,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Iran, Netanyahu: \"La caduta del regime di Teheran è alla nostra portata, non sfidateci\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVjE1clZzWVlLT2RfUDRCUGNucUxlbHh4RzNEYU1VdFQzT0NfNFA1anp0THRfWmhfWUlJYTJ4X2FFdFdxRzhUcG90YWxHQkNJVzdRUkpiSU52TUsydHRRcUZ3Zk5QRE9QZ0NxeFNPM0hVNHh2UUxfbzRsRUh6dTVMaVRkSmtPb1NQazFwQU1MNkI4YXVqMGx5RkZ5R2V2bGFobV9zNDMtTjFMVW5DQ3lkZDlB0gFoQVVfeXFMTnk3d2FibmZRMFMxNjVLOEpyRWtfYXp6QklFLWFYMDdNQU9ZODc2TUlHMl9BLWpQMF9fYmxjenFkcjVSR3oyZHVLd0NLM3NkMjhLRmpjS2g3b2NpNjA3NG9hcUFDUFFRNEo?oc=5",
+          "description": "Iran, Netanyahu: \"La caduta del regime di Teheran è alla nostra portata, non sfidateci\" Tgcom24 Iran, colpite basi Usa negli Emirati e in Kuwait. Netanyahu: «Caduta del regime iraniano è a portata di mano Il Sole 24 ORE Trump minaccia nuovi raid, l'Iran annuncia rappresaglie e Vance annuncia indagine su attacco a nozze - Netanyahu rilancia: \"La caduta del regime iraniano è a portata di mano\" RaiNe",
+          "pubDate": "Thu, 03 Sep 2026 22:00:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump administration asks Supreme Court to allow mail-in ballot restrictions - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUHRVZkdQMnZXdFdJaWVUbk9oQ2lUTWVpdjZBcnRHenpKallnR1c1SXhqNzNCdlZYdHIzUzZpQUloR1h4RHBSNUhaZllJLTBLaTA4Mk9jU2dXSGcyN0ZmdHJLUXdWWUJqUVRqWjVtM3FZaU5yQ2o2ak95N0VzbWVhQ1d5R01JUEFXZHpJS1VrLXV3Tl9acHA3LUcxR1F0dm12VTREMTlLSjQ1aElpYWxfV2FTbnBLVTdDXzVhSVFvUmQ5d3M?oc=5",
+          "description": "Trump administration asks Supreme Court to allow mail-in ballot restrictions The Washington Post Trump asks Supreme Court to OK sweeping changes for mail ballots CNN Trump administration asks Supreme Court to clear the way for it to implement new mail-in voting rule SCOTUSblog Trump asks Supreme Court to lift block on USPS plan to restrict mail voting npr.org Live updates: Trump administration ask",
+          "pubDate": "Fri, 04 Sep 2026 01:25:06 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Fox News Media abruptly ousts longtime anchor Maria Bartiromo - theguardian.com",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY1poSlkySjBCT052bDVmdTE2Zm02TW5ma0ZkRnYwWnFLMGdMSGVaeENjc0VRa296M2dXZlJpSURfalhWa0d1Zzk3ak1JdEswSkRYNjFKVmoxWTBDMDQ1aC1oREJKRWVMNXN3dFB0NzA5ZU04SDZhci1DVjhNMS1ScG52akF6YjQ?oc=5",
+          "description": "Fox News Media abruptly ousts longtime anchor Maria Bartiromo theguardian.com Fox News abruptly ousts Maria Bartiromo, a longtime Trump ally CNN Longtime host Maria Bartiromo out at Fox News The Washington Post Vance laughs off speculation about Maria Bartiromo for WH press secretary USA Today Fox Delivers Final Insult to Trump-Loving Host After Abrupt Exit The Daily Beast",
+          "pubDate": "Thu, 03 Sep 2026 17:46:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Missouri Supreme Court Delivers Win for Democrats in Redistricting Case - nytimes.com",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONnZudl95TDQtRlJWbVdtckMyQTIydVR5UGpzcW9uS3JjSjUtS1BzU1ZSb281eHM3R3pJSU40THl6YXd6QjdpVWdJMEpCbW9PTXZpdVphOXhleU9IM2JPbDJvOHVTcUx4cXozZk00TVd2SzdRWTAxZjdjY082bXJUNlVOTU9Zd1ZhUVFwMzRSMTViRUxo?oc=5",
+          "description": "Missouri Supreme Court Delivers Win for Democrats in Redistricting Case nytimes.com Missouri Supreme Court orders gerrymandered map, Amendment 6 to go on November ballot KOMU 8 Missouri supreme court throws out new congressional maps backed by Trump theguardian.com Missouri Supreme Court pauses GOP gerrymander, likely netting Democrats 1 House seat Politico Voter power at stake as Missouri Supreme",
+          "pubDate": "Thu, 03 Sep 2026 23:52:52 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Work on Trump-backed Triumphal Arch will start in coming weeks, Burgum says - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWVV4WElmMHgwd0ZwdFFkM09jS1BjUmdoSm9ZMkRla1dmZURzYWtNZHdBTy1hWkg5WHNYOGdaVC1jZl9pbTlrNkxMdFRYVjNFWGtPU3E1WFNBWUlRLWstSkVMS0YtczJnNWlrYlhxRjl6cXRTcmpWelBqeHVuOWZZWjdVa1VxcThPZFE?oc=5",
+          "description": "Work on Trump-backed Triumphal Arch will start in coming weeks, Burgum says CBS News Trump to Break Ground on Arch Before Getting Approval nytimes.com Trump administration plows ahead with groundbreaking for the president’s ‘triumphal arch’ CNN Excavation work on Trump’s towering, gilded arch to begin over next two weeks theguardian.com Trump Plans to Break Ground on Washington Arch Without Final ",
+          "pubDate": "Thu, 03 Sep 2026 21:22:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "allarme",
+      "n_items": 8,
+      "n_sources": 7,
+      "category": "general",
+      "score": 56,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "Allarme carenza di sangue, manca soprattutto il gruppo 0+",
+          "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/09/03/allarme-carenza-di-sangue-manca-soprattutto-il-gruppo-0_5472a631-5eea-4475-b229-8569ac0a05e1.html",
+          "description": "Il Centro nazionale: 'Lazio, Campania e Sicilia le Regioni più interessate'",
+          "pubDate": "Thu, 3 Sep 2026 16:55:33 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Venezuela: allarme su detenuti, vittime dei terremoti e prossime elezioni",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/04/venezuela-allarme-su-detenuti-vittime-dei-terremoti-e-prossime-elezioni_6403f1bd-3bc9-4fad-bb3c-4ec264cbedd8.html",
+          "description": "Familiari e ong accusano il governo, Venevisión chiede garanzie sul voto: 'basta opacità'",
+          "pubDate": "Fri, 4 Sep 2026 00:54:13 +0200"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "«Su allarme caro scuola numeri gonfiati»",
+          "link": "https://www.ilsole24ore.com/art/su-allarme-caro-scuola-numeri-gonfiati-AJ77aj1",
+          "description": "Caro scuola: è botta e risposta tra associazioni dei consumatori e cartolai. Le prime hanno lanciato l’allarme rincari con stime del Codacons che fissano un budget massimo di 1.300 euro...",
+          "pubDate": "Thu, 3 Sep 2026 04:02:01 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'allarme dei big, 'rischio estinzione con l'IA, è come le pandemie'",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/lallarme-dei-big-rischio-estinzione-con-ia-e-come-pandemie_3afde5e5-7bcf-464e-b3aa-aee6577a9b23.html",
+          "description": "Nyt riporta lettera di 350 leader industria, anche ceo OpenAI",
+          "pubDate": "Tue, 30 May 2023 14:12:41 +0200"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "El Niño di \"proporzioni gigantesche\": l’Onu lancia l’allarme per i prossimi mesi - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeWR6ZGZGYzNWVG9OOWF0eDRsYWZ4Ukp1X0NuWnJtR0tWaVphSE1ELV9WeVVxSFo0LU01MDJxcGZabDhwc1IweXhvcWpVaXZRU3hhS3hWNWo1a2FzblF2VUFsRk1oaWhSVVJvV29mVWdzNlpud09vd1dZQURSel9zdTBvNng0ak5nZl9zN2NpaDJhSFJ3cmRudHdKcFJSTlZTU3BVMTNBN0lHZHp4YjdRZXBncHVkeXVNV25MbnVKZlpEMmVFT2dkVVZFYU5BeURZV295RWpma29qOU1ONzk2dFNhek1ZYk9wOWdzatIB8gFBVV95cUxOMGlSZjdmTTA4R3BCc2JuREt0R1RCcTc1M01yRHA2Z2F2dVlrTC1OOW9fd2hDN2l2RXlrVXkwRXNncFd6amxQX1JyMUtKOUYzbW5GMFJQSnNIVVJfN0pXVk93MzdvZmVLTGR5cU1VS3haU3VLdGF6SHBMZmwtNzhTb1FaMUllYUZBV3BuTEMwbkRqcW1scWM1VWRfLTZUY1AwT0I3Z01WZm9Vb2kwUzJCeVlCWEFMT1RVMXdscE11WHhSUl9JQW9PbXk4MW13anIzVjB0ZGNFVGZJOEZURlVSTDlha18zVE4tbTNKLXM1a1pHQQ?oc=5",
+          "description": "El Niño di \"proporzioni gigantesche\": l’Onu lancia l’allarme per i prossimi mesi RaiNews",
+          "pubDate": "Thu, 03 Sep 2026 13:33:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "mondo",
+      "n_items": 14,
+      "n_sources": 4,
+      "category": "general",
+      "score": 56,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "\"Hegseth proroga le missioni militari Usa in Medio Oriente fino al 2027\" - AGI",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYXFvTnlaTFZBWTZhbGRLWVlBemVPNVEweEdKYUQ4QVJvS2hCUkFQMnBROFotUTBFMHRxaVlzYWtINDFuMURHbmlwempoYlp1eldVenNXVzFkQ2hLOGxybzhSVnRxU3lWaEF2cEVEcExvVEtMTU53aXQ0bW45T25SZXNkMzRKWUhJa0h6a2VNN3k0N1k?oc=5",
+          "description": "\"Hegseth proroga le missioni militari Usa in Medio Oriente fino al 2027\" AGI Hegseth, controverso ministro della guerra a \"Radio 3 Mondo\" rai.it Guerra Iran-Usa, l'avvertimento degli alti ufficiali americani: “Conflitto ci indebolisce\" Sky TG24 Nella notte bombardamenti iraniani sulle basi americane in Kuwait (VIDEO). Il Pentagono proroga la presenza delle truppe Usa in Medio Oriente fino al 2027 ",
+          "pubDate": "Thu, 03 Sep 2026 06:21:23 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Il Papa ai vescovi del mondo arabo: \"Non abbiate paura. Siate voce di verità e pace\" - Vatican News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOejRvMFdQcXhzWGZLQ3NVVFNNR2ZCUEFRa1NpZnRPNUNiMmZqQXlaeUkxa1ppR0pVUTR0eVNsNjczejlWbDJPRldBY1pfbWZ5RVk3U1BIT2ZlU00ydnd2cTlqMnVSdlpacWtZTzgzUzlDXzZONC1HblY5UU0tbUR0Ykl3Vk1qLVNadUNCdzNnb2JHbGZ5MGQyMnk3Ymhsdk50TzluQUVfQmtHelRFT1FB?oc=5",
+          "description": "Il Papa ai vescovi del mondo arabo: \"Non abbiate paura. Siate voce di verità e pace\" Vatican News Il Papa ai vescovi del Medio Oriente, 'dialogo con Islam, ogni migrante è un fratello' ANSA Papa Leone XIV invita a stare tra la gente Korazym.org Essayan: in Medio Oriente la pace non può essere imposta con la guerra Vatican News Il Papa, i cristiani in Medio oriente non cercano il potere ANSA",
+          "pubDate": "Thu, 03 Sep 2026 11:09:57 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "ChatGpt down, problemi all'AI di OpenAI in tutto il mondo. Malfunzionamenti anche su Gemini, Claude e Grok - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOT01qRGx1X2t3dHg2VDhVVmJWc1dzR1pvVERQZmhfbDZaSVJQbkMwbmJNMU96ZWwwZU1IMWhJMHFfZ1BNd2pHMnFSRjhRMWFfUHB5NS0xVU85cTd6bmVfYzNvX2tadEhvZkNEMUxnT0JlVm1oVm40NURMMkg3M3V5Mi16aXZoSDNzLWs4eXNqd04wUVhhTDZUMlpEeXhFVUtPeWJjQ1M2RkJtSVNrQW9TQ0Y3U2Q2bGhsMlBaal9UU0h5a01kRUdsSHpDdXVTdmxRTTNGUGY3MFVaUm9UcDUxazdwWi0yQWMzZmkyZXg0bnJuRkRObHhKMlk4V3NHZjJ2QXBkTFNuUDhqZVAzanhoOUs5V3dKMDhnYWFB0gGgAkFVX3lxTE85eENRamx2YVN4NXBTNnJBT181cFgyY3l2anI1QmFtS1hSd1FadG5XUEVsTkN1S0lsdFpueG5KcUV5eFI5b3IxY3ZaOTZwWXZzWncyeHZieDZkT1R2RE02UVlhTEdCckpBQ1VTblJQalptQy1BWXo5SGFLdTJSXzd4RktPbG56eTg1N19YLUY0UUlJWHh1ZjJqY2FfeEFMdng2NnBDcTV1V3h4ZmJlZkhlRVQ2UVRGOFRseXNNRWNFMWU4UXhxT254dGxPeUVqUS02dFF6RFMzY0d5NXRHYkxBblR0R0JfTTZIcDFTcFNjQ3YyVEZmcFZMOHhBWVNXNV9HTTdyZE5ONUdiZEpHWkw0NUhYVHZmUWZIcmVyT294Rw?oc=5",
+          "description": "ChatGpt down, problemi all'AI di OpenAI in tutto il mondo. Malfunzionamenti anche su Gemini, Claude e Grok corriere.it",
+          "pubDate": "Thu, 03 Sep 2026 15:56:14 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "El Niño, l'allarme Onu: «Sta assumendo proporzioni gigantesche, mondo in pericolo» - Quotidiano Di Puglia",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQV3gxZmZEZGpCanc0VU0tOWJfRTdMdDBTcGRqTGV1VFV0Sk51aTFwX3FfcVNKTEdZU0FIc2VUa1AxYzhiTGhxNnFuTFFxTmhNWUFKdkJPbTVscS1LWW5rRGxja2I4U1p2OU92eWVwQjBYTDlxYV9IbXotNVlJWkM1OUFXcFJEN3VCVEptYUVURm9kZ1RqNjFneVZURk5fNmhiUXl2cUJsR2xRSVFaRjBzUFFYYVhjZlIyZXhXcVFvdWtMR0V5Xzd2VDF6b282c0NEeUNQR25CUDRubnBSV0F6TFRjeGtyS0JQSXlCWUloMHNEQ0dOOUF0RUxPbWNkLTdsQVJLLWI1RUc0Y2kwQzhEWnVR0gGXAkFVX3lxTFAxOURrb1dOQzRBYU9MOWRDclI3VDJaYlFIZVVScGVUWnhCcXZxd2hvSnFWQnJhT1R5YTIzUjV1OGgwVHFLUl9RVHVkdDJrWkhuc2dMaDFKdXZfSk1ISWs1RDcwem1wVFRIRERyRWh5bW5BVllHMndkSEgzTlJVV19haUZxSV9BN0wyaHlYZ0toSS1kWFFla3JZTGRGSExPcjVxN1BvRFZVX2FpSWoyMU14OG1vSHB0MWFPMFhOVWNHSVBoRVJQaWpMMzlXdUY3WTNFQ1J6ZVk3REVlVjJWQVRGbXdFdktkN3laNEd0QzE1TDZoaXlfQVJHLWE3bUpSWUh5WU83cWdnR1YxNk9rbzYyd1hJVXp0RQ?oc=5",
+          "description": "El Niño, l'allarme Onu: «Sta assumendo proporzioni gigantesche, mondo in pericolo» Quotidiano Di Puglia",
+          "pubDate": "Thu, 03 Sep 2026 08:36:18 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Confermata la teoria di Einstein nel mondo quantistico - AGI",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMEtfTmJJMnFpSGpPUlhoLVZ4cnZOaVhwanh0dkFPY2lPVUpSYUQzSWdldkE2Z2VyckJ5bFVLdGZESXFxQkxLWm9jeTBkQUdUSi15dE9wVVFOa1l4VWJkY2E5enFNSmVWUXFMUFhTX094RHhjWlpaXzRyUTZpakxMR09DS3RnZVFCQThSSWU4dTJfNFA0N2QxUkFB?oc=5",
+          "description": "Confermata la teoria di Einstein nel mondo quantistico AGI",
+          "pubDate": "Thu, 03 Sep 2026 04:05:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "italiana",
+      "n_items": 9,
+      "n_sources": 5,
+      "category": "economia",
+      "score": 51,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Fabio Mussi è morto, addio all’ex ministro del governo Prodi e dirigente di Sinistra italiana Avs - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVVMtWm5CUlNON1FCd1VXOEFlMENVRUVLRmVOYmxGeTIxb0hMNi13MkFZMW4tQTRyb1BkRE5rcU5rdjlJNV8tMDBuNkZ0eGVvQW9Rd0psNnhkZXc1ZDNFQU8yc1pNalA2NGEzX1pKX3I5TjhLUnpUbHNyaFM4cXNfVnA4eUJXZ9IBiwFBVV95cUxPbzg2QjUwRVdFUW5uYWVyRkhBOGZZd3Zia3NQdHlSd3cwSFU0R3VVWE9fWklMVGI4WDI3cTlqZkNrYS12VkZGbDRkWldBa2JPMGRXQ2l6QjVrV256UUFLTnFaSWJqZXo1T1Y0WFk2aWVHYU53TmktS2JUMUZSVjZhVXdoTi1mYW15QkxZ?oc=5",
+          "description": "Fabio Mussi è morto, addio all’ex ministro del governo Prodi e dirigente di Sinistra italiana Avs la Repubblica È morto Fabio Mussi già Ministro dell'Università e della Ricerca FLC CGIL Addio a Fabio Mussi, 'intellettuale raffinato' della sinistra operaia ANSA D’Alema: «Sul Pd aveva ragione lui» il manifesto Mussi e quel no al Pd \"figlio del fallimento, anche mio\" ilfattoquotidiano.it",
+          "pubDate": "Thu, 03 Sep 2026 08:18:45 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Munizioni fantasma comprate in Italia per l’Ucraina, si dimette il ministro della Difesa estone - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdll5VWhrelRWT0Y0cXE5UUZWOTVpZWRWYlRpT1VCcmdyeFFmaTF1eXFaZlk4N0JTQjBPc1pCOVpQV25tSmZWRVdLX3FfZ3NWLXRuRF9rWkFQYXVFdHd0eXRBcTBmbGVIUUhEUndfMGVlZXFMdkZETE1jNU9MSEMzZHg5UUNZRnZfaUpsd1RQVE43b1lRNW4ydUkyaDBJYVNOWjF2OHZWbzlaaWNvVXl0RXpiUFp0T2lKQ2M5Y3lyZGRrWTTSAcgBQVVfeXFMT2lWX1dMR2RBVEl0QzlXWEVlS1pxd3FMLWo1MjRlZ1E0MnZuZHRPdS1Va3cwRlc3dUVpNGswMkxQeV8yWlJMV1JkeXYzREFveDhpdHNGb2YyRnBLSDNIV3c5alJNRlhHTWhoQnNoMDVjdzhQX3pKNUlZWW8xbWlHV09zcmpNUnRybHQyc01xUUNYUUx0RHE4OHJmUDcyZ0FDZ3M4NWl4VmZ4RGFHcTMwdFZZY3JPS1A1TzZyVFFybVJnQkJzWmEyWjU?oc=5",
+          "description": "Munizioni fantasma comprate in Italia per l’Ucraina, si dimette il ministro della Difesa estone la Repubblica Estonia, scandalo munizioni per Kiev da italo-indiani: lascia ministro Sky TG24 Scandalo munizioni per Kiev da azienda italo-indiana, ministro estone lascia ANSA Estonia: dimissioni ministro della Difesa per scandalo appalti UE it.euronews.com Estonia, 70 milioni all’azienda italiana Datas",
+          "pubDate": "Thu, 03 Sep 2026 11:38:58 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Acquisti diffusi in Europa in scia alle parole di Waller della Fed - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNEFsb0JHYzdRUXNxeVhOZ05uODh3bXhDMWdaLXhrQ3d5LWE0YTV3S1lidG1reFRyLUVQLVQtS0JFQ0ZvMFU0UEhNdlB1dHdrd2lqcHJSYURuakNvRXRLVF9jRWctRS1MaVpNaURQd1hEdGY3dWxjbHE4bUtaSXRUOWVrR1ZZMkpmVEhKdVMzR3J2Zm9GNjkxMkdEbWhMZjE0VTVDUFp5NDkyZGZWMlNTZUVxSkVrSG9iYVhwcXU5ZmpTUFZIVE1WMzFRWHEzU1hjcy1iTEFEdEVxNmZlcmk3WU1FVk9HMUNJ?oc=5",
+          "description": "Acquisti diffusi in Europa in scia alle parole di Waller della Fed Borsa Italiana Kospi aumenta, seguendo Wall Street, mentre Waller della Fed segnala una pausa sui tassi Yahoo Finanza Pioggia di acquisti sui listini USA con allentamento timori di stretta monetaria ANSA Fed: Waller, favorevole a tassi fermi a settembre (RCO) Il Sole 24 ORE Borsa Usa, in rialzo dopo dichiarazioni Waller su mantenim",
+          "pubDate": "Thu, 03 Sep 2026 16:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "GMG Moto Guzzi – Inaugurata la nuova fabbrica di Mandello del Lario - Red-Live.it",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORmZmSHA2Z3hmU2UwVHlCdlJBLXRyaG9yV0VvOUJDTnpkdlE4bjBWVE1EdWRHeUljTmx6eVVyVFAtQUx1bkVVZjR0NFladGFmdktzVXRtMVpObE5nRFY5a3BHbktHNTlUZDd0U19QVnk4YXVEOFFiVURBa0lYSkV0QU9lV2NkXzNYVk9PeGM4UEZoeWhfSlE?oc=5",
+          "description": "GMG Moto Guzzi – Inaugurata la nuova fabbrica di Mandello del Lario Red-Live.it Moto Guzzi inaugura la sua nuova casa e il museo EICMA Sabato 5 settembre chiusure temporanee sulla Statale 36 per la parata delle moto Guzzi LeccoToday Moto Guzzi: inaugurato il nuovo stabilimento a Mandello del Lario Borsa Italiana Guzzi city rinasce sul lago. Vip e gente comune per la moto senza tempo la Repubblica",
+          "pubDate": "Thu, 03 Sep 2026 11:39:44 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borsa Italiana, il commento della seduta del 3 settembre 2026 - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzJBQVZnTlNZQXBfVzc5N0cwSFFGc21HdjZYbHB2SVVJQnZ1Q2FSdXAxV1pveU9kR1ZwcjNxamZZOGVkZnhDZXBuUGJaSk9DWk9wMVR4UzdHLVNjVHpJRFMzUlY4bUJKWFNyczR1T09qYlczemtEangwQm1yZ1FPRnBSb0lkcVhuVHVWOGNGX3NEWEVrMFZmeTJkZEgxN2M?oc=5",
+          "description": "Borsa Italiana, il commento della seduta del 3 settembre 2026 SoldiOnline.it Piazza Affari tonica in un'Europa cauta Borsa Italiana Wall Street traina le borse, Milano chiude a +0,88% RaiNews Borsa: Milano chiude a +0,88% con Lottomatica, Stellatis, Tim ANSA Borse europee in rialzo mentre i prezzi del petrolio si stabilizzano: DAX, CAC, FTSE100 Yahoo Finanza",
+          "pubDate": "Thu, 03 Sep 2026 16:04:00 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "europa",
+      "n_items": 10,
+      "n_sources": 5,
+      "category": "general",
+      "score": 50,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Berlino chiude Casa Russia, Mosca chiude il Goethe Institut - ilfattoquotidiano.it",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSlpfdkc2N3lBdE1LRHEzTzJTaXRTMi15bEVmRllKRlMxcHF1LVQzWWtXZVNZWkx6d05vYWZHTnA4a1dwNFlCOFBBMW5sYUg5akRzZFhqMFhmNzBtc2ZvZnFBQVAxcElVQV9xUXc3dm54ZHA1SnZPUTktdUt5VFVCTFlqZGRFVDhIcHRzT1VOcTZxNzhLelhuUHduZVRDbkhGbU0wRg?oc=5",
+          "description": "Berlino chiude Casa Russia, Mosca chiude il Goethe Institut ilfattoquotidiano.it Guerra Ucraina-Russia, le notizie in diretta | Putin: «Una soluzione del conflitto è possibile. Zelensky minaccia i voli civili? Complica i negoziati di pace» corriere.it Germania, identificati due sospettati per l'attacco di Lipsia Vatican News La guerra ibrida è già in Europa ISPI Scontro Mosca-Berlino, Lavrov: 'L'I",
+          "pubDate": "Thu, 03 Sep 2026 11:22:30 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Un rapporto di polizia sulla crisi di Ceuta mette in crisi Sanchez - it.euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVk5ud0ZHT2hZX1g2Skk3bGJQSTdKUWpOV1J1T2tzb1prbjhNUU5IYVZLN0xkdGJYVWNTby16MFI2U1I2UmN1cDFWMS1pRWpXQm9tMkM5Rm04RkIxWEhySDNHMGhwZm9iN0lDbGZVTmdkUVI0b3hEMm92dEJUTFBlR2MxVHZHUUVpdV9VNkNiNHFraWRwdHRaQXFFcmFfMGdld1lxUW9VVzFxcnZ3TVFKWGNfRUtJd0pxOFRBeGl4a3QyUFVTNVRqbUZPQQ?oc=5",
+          "description": "Un rapporto di polizia sulla crisi di Ceuta mette in crisi Sanchez it.euronews.com Sanchez in Parlamento: «Non ci sono prove che dietro la crisi di Ceuta ci sia il Marocco. Dall'Europa non è arrivata solidarietà che ci aspettavamo» corriere.it Sánchez su Ceuta: “Invasione non organizzata dal Marocco”. E alle destre: “Non si può buttare un essere umano… la Repubblica Ceuta, polizia identifica 32 ag",
+          "pubDate": "Wed, 02 Sep 2026 19:24:43 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Acquisti diffusi in Europa in scia alle parole di Waller della Fed - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNEFsb0JHYzdRUXNxeVhOZ05uODh3bXhDMWdaLXhrQ3d5LWE0YTV3S1lidG1reFRyLUVQLVQtS0JFQ0ZvMFU0UEhNdlB1dHdrd2lqcHJSYURuakNvRXRLVF9jRWctRS1MaVpNaURQd1hEdGY3dWxjbHE4bUtaSXRUOWVrR1ZZMkpmVEhKdVMzR3J2Zm9GNjkxMkdEbWhMZjE0VTVDUFp5NDkyZGZWMlNTZUVxSkVrSG9iYVhwcXU5ZmpTUFZIVE1WMzFRWHEzU1hjcy1iTEFEdEVxNmZlcmk3WU1FVk9HMUNJ?oc=5",
+          "description": "Acquisti diffusi in Europa in scia alle parole di Waller della Fed Borsa Italiana Kospi aumenta, seguendo Wall Street, mentre Waller della Fed segnala una pausa sui tassi Yahoo Finanza Pioggia di acquisti sui listini USA con allentamento timori di stretta monetaria ANSA Fed: Waller, favorevole a tassi fermi a settembre (RCO) Il Sole 24 ORE Borsa Usa, in rialzo dopo dichiarazioni Waller su mantenim",
+          "pubDate": "Thu, 03 Sep 2026 16:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borsa Italiana, il commento della seduta del 3 settembre 2026 - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzJBQVZnTlNZQXBfVzc5N0cwSFFGc21HdjZYbHB2SVVJQnZ1Q2FSdXAxV1pveU9kR1ZwcjNxamZZOGVkZnhDZXBuUGJaSk9DWk9wMVR4UzdHLVNjVHpJRFMzUlY4bUJKWFNyczR1T09qYlczemtEangwQm1yZ1FPRnBSb0lkcVhuVHVWOGNGX3NEWEVrMFZmeTJkZEgxN2M?oc=5",
+          "description": "Borsa Italiana, il commento della seduta del 3 settembre 2026 SoldiOnline.it Piazza Affari tonica in un'Europa cauta Borsa Italiana Wall Street traina le borse, Milano chiude a +0,88% RaiNews Borsa: Milano chiude a +0,88% con Lottomatica, Stellatis, Tim ANSA Borse europee in rialzo mentre i prezzi del petrolio si stabilizzano: DAX, CAC, FTSE100 Yahoo Finanza",
+          "pubDate": "Thu, 03 Sep 2026 16:04:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Titoli sotto la lente a Piazza Affari - Eni, Avio, Lottomatica - Websim",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQi03MWR0OWdiWHZXUGd0ZTBBRERsZXNFb0lvZmhTanF1OVFVRmFadEc1NEFOUU9QSFZ4ZmhMNXZaQmp6LWI3Ry1IOEw5cTROaHhjZnB6ZkEwWkRXQlNYZjlaZGhjRV9YZ2Z2TnhEU1h1dXo4VHc0Tko4OFdXWU1vVFFRdDA4WEc1Qlc3NkpnX1FwNThGYnhEbkIwamFhUEZFT00zR2J2emVSZzg?oc=5",
+          "description": "Titoli sotto la lente a Piazza Affari - Eni, Avio, Lottomatica Websim Le Borse di oggi, 3 settembre. Seduta debole per i mercati, frenano petrolio e gas la Repubblica Borse in diretta, prezzo petrolio di oggi 3 settembre | Europa cauta con calo tensioni sui bond, spread in calo a 83 punti corriere.it Borse poco mosse con Brent a 96 dollari, a Milano brilla Azimut Borsa Italiana Borsa: Europa cauta",
+          "pubDate": "Thu, 03 Sep 2026 06:46:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "iran",
+      "n_items": 7,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 48,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Iran, Netanyahu: \"La caduta del regime di Teheran è alla nostra portata, non sfidateci\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVjE1clZzWVlLT2RfUDRCUGNucUxlbHh4RzNEYU1VdFQzT0NfNFA1anp0THRfWmhfWUlJYTJ4X2FFdFdxRzhUcG90YWxHQkNJVzdRUkpiSU52TUsydHRRcUZ3Zk5QRE9QZ0NxeFNPM0hVNHh2UUxfbzRsRUh6dTVMaVRkSmtPb1NQazFwQU1MNkI4YXVqMGx5RkZ5R2V2bGFobV9zNDMtTjFMVW5DQ3lkZDlB0gFoQVVfeXFMTnk3d2FibmZRMFMxNjVLOEpyRWtfYXp6QklFLWFYMDdNQU9ZODc2TUlHMl9BLWpQMF9fYmxjenFkcjVSR3oyZHVLd0NLM3NkMjhLRmpjS2g3b2NpNjA3NG9hcUFDUFFRNEo?oc=5",
+          "description": "Iran, Netanyahu: \"La caduta del regime di Teheran è alla nostra portata, non sfidateci\" Tgcom24 Iran, colpite basi Usa negli Emirati e in Kuwait. Netanyahu: «Caduta del regime iraniano è a portata di mano Il Sole 24 ORE Trump minaccia nuovi raid, l'Iran annuncia rappresaglie e Vance annuncia indagine su attacco a nozze - Netanyahu rilancia: \"La caduta del regime iraniano è a portata di mano\" RaiNe",
+          "pubDate": "Thu, 03 Sep 2026 22:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "\"Hegseth proroga le missioni militari Usa in Medio Oriente fino al 2027\" - AGI",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYXFvTnlaTFZBWTZhbGRLWVlBemVPNVEweEdKYUQ4QVJvS2hCUkFQMnBROFotUTBFMHRxaVlzYWtINDFuMURHbmlwempoYlp1eldVenNXVzFkQ2hLOGxybzhSVnRxU3lWaEF2cEVEcExvVEtMTU53aXQ0bW45T25SZXNkMzRKWUhJa0h6a2VNN3k0N1k?oc=5",
+          "description": "\"Hegseth proroga le missioni militari Usa in Medio Oriente fino al 2027\" AGI Hegseth, controverso ministro della guerra a \"Radio 3 Mondo\" rai.it Guerra Iran-Usa, l'avvertimento degli alti ufficiali americani: “Conflitto ci indebolisce\" Sky TG24 Nella notte bombardamenti iraniani sulle basi americane in Kuwait (VIDEO). Il Pentagono proroga la presenza delle truppe Usa in Medio Oriente fino al 2027 ",
+          "pubDate": "Thu, 03 Sep 2026 06:21:23 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "U.S. military reviewing deadly strike on Iranian wedding - Axios",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaFQ5ZDlJdzMyWUlPQnhGQnBBclQtTTV4MS1BSzJTdVBHcks3SWp1cTNvR19YTEs2Z0dZNkIxbElVNmhFNndSRUUzUUU4ZmVGOUtpNDE0Qy0ycF9falVsNDJ3cE5MUVZaSmJIb1JYc2tjbFY0SGJpQThRbmlUWXFRaGNuajY?oc=5",
+          "description": "U.S. military reviewing deadly strike on Iranian wedding Axios In Small Iranian Town, a U.S. Attack Turns a Wedding Into a Tragedy nytimes.com U.S. strikes Iran again as Tehran targets American allies in Gulf region PBS What to know about a reported US airstrike that hit a wedding in Iran AP News US probes deadly strike on Iran wedding that experts link to US munition South China Morning Post",
+          "pubDate": "Fri, 04 Sep 2026 02:14:43 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Iran attacks Kuwait with missiles and drones after US strikes - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN3JKaGh4eWVCeWFMcUVYaEUzUUhrMG05Q3gtREsydnc2ajZoY2Z2LXkwSWFCZmlTMVZWaUVRV3FxeUJkREN5bGR0QzRFb25jMVdWMXBnMkVqODYzdzQtRTBXT0s0S0tPMUxkc3hDZWVSN3JJdTROejZ1b0NHUHB5WE1LcXVrZw?oc=5",
+          "description": "Iran attacks Kuwait with missiles and drones after US strikes Fox News Iran targets Kuwait in retaliation for US bombardments, and other Mideast news The Hill Iran targets US bases as Israel warns sanctions could drive Tehran to ‘desperate steps’ theguardian.com Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long' CNBC Iran targets US allies in Gulf after overnigh",
+          "pubDate": "Thu, 03 Sep 2026 22:44:20 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "'Truppe Usa nel Golfo fino al 2027', ma Trump vuole chiudere",
+          "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/03/il-wsj-il-pentagono-estende-il-dispiegamento-delle-truppe-usa-fino-al-2027_c44642e7-ba2d-483f-82ce-c654a741b4c6.html",
+          "description": "Iran prosegue raid. Tycoon: 'Chiederemo all'Ue i soldi delle armi date da Biden per Kiev'",
+          "pubDate": "Thu, 3 Sep 2026 20:38:49 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "ilfattoquotidiano",
+      "n_items": 11,
+      "n_sources": 4,
+      "category": "general",
+      "score": 44,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Rai, Claudia Di Pasquale co-conduttrice di Report con Daniele Piervincenzi - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUFNfcU5sMkFDa2pZTVRFc2xFWWVWcmJ2WllMcU9uam5ickFGRzcyTlhOSUFkOGJLNm5Fdm1QR3lVSnZTTDliZVZ2MzJpSnBfdUladC1WQklSRElJR1lNdXJMbXFaX2QwOVVpbXZDOGRPRERwUDJuR005eGFWOGlMcEk1NnlwOGotRTBkbEUxUkFXczFQQzItUjM5Vjlic0d1bjlGMWRTODNhc2JWRGNvSWhZSHBiM3I3ZEF6M1ZQTFM2U09LUFgzdmtwQlNpYjh3ckpmVThjNm5oeFJNbFdrdGw1UmdTZDdlbEdRSEFIU2FTdFJ0TFc2RHRoaw?oc=5",
+          "description": "Rai, Claudia Di Pasquale co-conduttrice di Report con Daniele Piervincenzi ANSA Claudia Di Pasquale conduttrice di Report, esulta la redazione ANSA Dalla Swg un altro sondaggio su Sigfrido ilfattoquotidiano.it Di Pasquale conduttrice di Report, Ranucci 'approva': \"Era la mia scelta\" Adnkronos Le Brigate Ranucci: quanti giornalisti hanno rinunciato a Report Il Foglio",
+          "pubDate": "Thu, 03 Sep 2026 16:50:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Procura militare avvia verifiche sugli appartenenti alle forze armate in Futuro nazionale. I difensori: nessun reato, confidiamo nell'archiviazione - Corriere Roma",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMjBvNHpXUXgyRHYwbGtQNEFJbnh2MEs3QmhMdWpNSXBEU1Jqc09ySmJNaWlGSjc1YXdLbzVxVEJRZC1WckxQZEtEUlcwUVo0OFJlRXZEcFpWQ2Vmdk50QlZZUlVJRmFzMmYxWEhoR2R1Rno5N1ZHdmtGY00tU01zRUZycEFyZ1Npdk9Sc0JxMjRaUVJpX3h0QzlrcWpXeDdiR1NhWWtVQkFacnkwRWN1allQTV81TDdzSVUwRThWWGUtdFozQk5aSEkzMWZJbzDSAdQBQVVfeXFMT3ZjazNyUnJpVXNMOVJkYzA5YTlXeDliUVFLUzJHZlhKclBWR2FONzZXU19udjlJc21iWVdLeW9wVWJSLXBHRlhKRXZZWnJiQTgtb3VQZlZUUDdMYVl2Q01XVmZMSlNNZ3h0N0t6YVBXYnFiWjRSZW5SSGtPNVpaX3BjU01mSVVaeTZpcVdjeWNrSHVSS1VaMkFlSDV0TXhzLUxmNUNaQm43dW9zWExWV1BmSXdFZnBTSHNQSHdRX2syYUsxRFpXSTlFRS12bVRiVnpEQWE?oc=5",
+          "description": "Procura militare avvia verifiche sugli appartenenti alle forze armate in Futuro nazionale. I difensori: nessun reato, confidiamo nell'archiviazione Corriere Roma Indagine sui militari che hanno aderito al partito di Vannacci ANSA “Ricostituzione del partito fascista”, la Procura Militare avvia un’indagine su Vannacci: “Forze armate nel partito” ilfattoquotidiano.it Le (due) tegole giudiziarie su V",
+          "pubDate": "Thu, 03 Sep 2026 18:58:15 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Meloni, 1.410 giorni di governo tra numeri, scandali e gaffe: venerdì 4 pagine speciali sul Fatto Quotidiano - ilfattoquotidiano.it",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTk5VbHl4RWNvdzZsMU82ZzJ4VW5haU1CVncyWlE0ajhWS1YtX3ZkM2hua2U3RDBPTDNQOG53ZWJjdjBIMmVFbEVFOC1lb3h3elpKZWp3SUdsdDRlc2xHcTYwc2FBU1BsS0RkVFpHOVFmRjB3WVBFU2tqLTdkcFIzSWk4Mjh1bnNsZEFReE41Y3p5UGRNYkszNTNHT3lJa0QyNHI5dk9aRWZaU01rNTBWZ082bTlqNURxZ0xlTWlXaUhjS3Nhd0VSbEc3UVV3ZEh0TTdGbmZwZ1JyRTlsNjNzVkRjU2ZsdWVfQVAxaWRn?oc=5",
+          "description": "Meloni, 1.410 giorni di governo tra numeri, scandali e gaffe: venerdì 4 pagine speciali sul Fatto Quotidiano ilfattoquotidiano.it Il governo Meloni eguaglia il Berlusconi II, il record di longevità e la festa ANSA Briciole, oltre la retorica Il Foglio Come ha fatto Giorgia Meloni a durare così tanto Il Post Bene Meloni, meno i ministri Il Foglio",
+          "pubDate": "Thu, 03 Sep 2026 16:05:21 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Fabio Mussi è morto, addio all’ex ministro del governo Prodi e dirigente di Sinistra italiana Avs - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVVMtWm5CUlNON1FCd1VXOEFlMENVRUVLRmVOYmxGeTIxb0hMNi13MkFZMW4tQTRyb1BkRE5rcU5rdjlJNV8tMDBuNkZ0eGVvQW9Rd0psNnhkZXc1ZDNFQU8yc1pNalA2NGEzX1pKX3I5TjhLUnpUbHNyaFM4cXNfVnA4eUJXZ9IBiwFBVV95cUxPbzg2QjUwRVdFUW5uYWVyRkhBOGZZd3Zia3NQdHlSd3cwSFU0R3VVWE9fWklMVGI4WDI3cTlqZkNrYS12VkZGbDRkWldBa2JPMGRXQ2l6QjVrV256UUFLTnFaSWJqZXo1T1Y0WFk2aWVHYU53TmktS2JUMUZSVjZhVXdoTi1mYW15QkxZ?oc=5",
+          "description": "Fabio Mussi è morto, addio all’ex ministro del governo Prodi e dirigente di Sinistra italiana Avs la Repubblica È morto Fabio Mussi già Ministro dell'Università e della Ricerca FLC CGIL Addio a Fabio Mussi, 'intellettuale raffinato' della sinistra operaia ANSA D’Alema: «Sul Pd aveva ragione lui» il manifesto Mussi e quel no al Pd \"figlio del fallimento, anche mio\" ilfattoquotidiano.it",
+          "pubDate": "Thu, 03 Sep 2026 08:18:45 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Berlino chiude Casa Russia, Mosca chiude il Goethe Institut - ilfattoquotidiano.it",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSlpfdkc2N3lBdE1LRHEzTzJTaXRTMi15bEVmRllKRlMxcHF1LVQzWWtXZVNZWkx6d05vYWZHTnA4a1dwNFlCOFBBMW5sYUg5akRzZFhqMFhmNzBtc2ZvZnFBQVAxcElVQV9xUXc3dm54ZHA1SnZPUTktdUt5VFVCTFlqZGRFVDhIcHRzT1VOcTZxNzhLelhuUHduZVRDbkhGbU0wRg?oc=5",
+          "description": "Berlino chiude Casa Russia, Mosca chiude il Goethe Institut ilfattoquotidiano.it Guerra Ucraina-Russia, le notizie in diretta | Putin: «Una soluzione del conflitto è possibile. Zelensky minaccia i voli civili? Complica i negoziati di pace» corriere.it Germania, identificati due sospettati per l'attacco di Lipsia Vatican News La guerra ibrida è già in Europa ISPI Scontro Mosca-Berlino, Lavrov: 'L'I",
+          "pubDate": "Thu, 03 Sep 2026 11:22:30 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "nvidia",
+      "n_items": 7,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 41,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Nvidia, accordo da 13 miliardi di dollari per acquisizione di Hugging Face - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQzJYSHgyZjZGWHlUN3o5RkNULTE4RUtUVEMzOEdNSXMwZUFaUnZVTlRnRnFMRDNKSTB3YjJ5VkFyd05qMVJGcWZUejZoTURnSlVYMzhGWkMtZ3JIRWhzeENnU2JnUkFWMEdMTzdoSlBrRXRtY0hRbVVJX3VTekpxZHFTVGFQWXd2amZDNGgtY29uYW53ZmFoNFZhdUlyR01FSC0tOEdxZkNnMl9JZUE?oc=5",
+          "description": "Nvidia, accordo da 13 miliardi di dollari per acquisizione di Hugging Face Il Sole 24 ORE Nvidia compra Hugging Face per 12,9 miliardi: la grande scommessa sull’AI open source RaiNews Nvidia ufficializza acquisizione di Hugging Face per 13 miliardi di dollari Borsa Italiana Nvidia si è accordata con la piattaforma di intelligenza artificiale Hugging Face per acquistarla, per quasi 13 miliardi di d",
+          "pubDate": "Thu, 03 Sep 2026 19:03:06 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+          "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+          "description": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
+          "pubDate": "Thu, 03 Sep 2026 16:32:05 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Nvidia si è accordata con la piattaforma di intelligenza artificiale Hugging Face per acquistarla, per quasi 13 miliardi di dollari - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLMUdKd3liV0Rxa0FxVW01SWZSQllzT0pKeElKMnNEbl9HLXZmYUdRS2xCMVdDQ1o1LXRCLXB1YlVwOTJHdl9mUTZOSEFEVGhMaC1uSloxbm1FeUxYUEF2RkZmTFpxU01sLWo1ZzFkZ0J2Z1E?oc=5",
+          "description": "Nvidia si è accordata con la piattaforma di intelligenza artificiale Hugging Face per acquistarla, per quasi 13 miliardi di dollari Il Post",
+          "pubDate": "Thu, 03 Sep 2026 14:09:23 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control - The Verge",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uSHZFR0NDeWhjX2JHM0REQmNHeWtkc1daZ3NocXlvOXM3YXdEQUp2MmY4SHJ1bXhsaGRFb0J1eGZZMFlXT2JfdjYyLWtPSjBFVmliSnRuVlgwWUZaak1FTy03cnJXQ2VJX2c?oc=5",
+          "description": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control The Verge ‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW NVIDIA Blog Nvidia DLSS 5 Launches Sept. 3 in NBA 2K27: 370 FPS Claim [2026] tech-insider.org NVIDIA DLSS 5 Technical Preview - Neural Rendering is Here TechPowerUp We explored early DLSS 5 performance with community mods — and the ",
+          "pubDate": "Fri, 04 Sep 2026 01:49:00 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "We Just Got Our First Real Look at AI PCs With Nvidia’s RTX Spark ‘Superchip’ - WIRED",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCdFNmbzB2VEl2ckk1Mmg2VHJOVlhxTVlKeHo3M1E2LW80TXZRc2ZidzlVdDdMZ3NyWHpGODZmTTFjakpYVXRjaFpjeFZvWmJSc0ozTkJxNk9saUJXR1piWTA0aDZKTWl0ZWxWT0UwYkdoZw?oc=5",
+          "description": "We Just Got Our First Real Look at AI PCs With Nvidia’s RTX Spark ‘Superchip’ WIRED Nvidia sets October launch for RTX Spark AI PCs Reuters Lenovo Expands the Yoga Portfolio with New AI PCs and Tablets Built for Creators Lenovo StoryHub Nvidia’s new RTX Spark laptops launch in October with two different configs The Verge NVIDIA \"N1X\" Comes in Two SKUs: 20C CPU and 6,144C GPU or 18C CPU and 5,120C ",
+          "pubDate": "Thu, 03 Sep 2026 13:00:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "face",
+      "n_items": 7,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 41,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Femminicidio-suicidio sulla A1: getta la ex dal cavalcavia e poi si lancia nel vuoto - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUVdlaFN1MFd1YkFiTWdtdzl1dVRkWmtvRXl3Vno1Y0MyNlNFZkdTdXY2NHBHelRtdWxqNTBzYk9rMzVLRUZiY2Y2UEpENDlaS0hlOTFlN1l6Um5NU1RuSGJpRHRxbFZ5VHRXSTg4a3NJU0VTckR2V3N3NUUtQjRreWF6dVdITFNBdXc3c0dDUHZWcV8yTHMxdGJUS25FRkpEMm9NYzBRV2oybHBybmNaSVlhcUdVM0UzNW5SNlRlUXRCc3psTjdxaF9uLVY5ZWpMRy01YVRkTnhCOVRnX2R6NUtIbEJGMkVuR1A5YkVYTFp5c1NYaEM3NGxVUmd3Z9IBgwJBVV95cUxNQzJyWnV4MHRZQkRXQXJqSmZNNXhCZU41ckh6Y0lqbURPV3RSZC1pTENTN1VOaVBSWnp3QXh0Q3liUm1rT2c2VGpHNUoyUWdVNS1EYW5sZ3I3T3hJYjZwckV0OFctaXpwb0pTUE1Ra1FNOVlwVFRhcXBjbGNXQ2JwWEpZSElpZ19GbjVwQzFpV0tmMEE4STd6WTZJRE1UOXJXai1YYmVGUnRVMVA1MVN2eUxYSThXSFZCaDVLVTVRbHIzRm1lX2tfcThaai1PQlFBYWZvUlBOQXpZckVqRmFua1ZGSG5PYzd1ZHlJVmNiX3poOEFORjhxSTVrODFicmxOYl9r?oc=5",
+          "description": "Femminicidio-suicidio sulla A1: getta la ex dal cavalcavia e poi si lancia nel vuoto RaiNews Lancia la ex dal viadotto dopo averla sequestrata e chiusa nel bagagliaio ANSA Ferma l'auto sul cavalcavia dell'A1 a Firenze, vede arrivare i poliziotti e spinge nel vuoto l'ex compagna. Poi si getta anche lui. Lei poco prima aveva chiesto aiuto Corriere Fiorentino “Cosa stai facendo?”, il terrore di Loren",
+          "pubDate": "Thu, 03 Sep 2026 20:22:00 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Argentine leader says oil firms working off Falklands face sanctions",
+          "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+          "description": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
+          "pubDate": "Fri, 04 Sep 2026 02:53:07 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
+          "link": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&at_campaign=rss",
+          "description": "The ICE officer faces federal charges related to the January shooting in Minnesota.",
+          "pubDate": "Fri, 04 Sep 2026 01:26:23 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Ecco ChatGPT-6 Astra, un supercomputer per soli $20? - Yahoo Finanza",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdFNVOFpNU3JJQlBjMEREYUFXUVhkN3lUUXNYMElELVFjcFZBRFhaMktIMTBZWEFuem1STTlvQ0pnYjhsNC1CaEJuSjl5cFV4NjM5emlaSHNVOHBhTmFUY2NSU1FVNlU1cU5HQXpaOThYQlNFMHUwV1JpRVdYRGRtRw?oc=5",
+          "description": "Ecco ChatGPT-6 Astra, un supercomputer per soli $20? Yahoo Finanza Verso Astra: capacità critiche e misure di protezione di frontiera OpenAI OpenAI lancia GPT-6 Astra, il modello che faceva paura. L’azienda: “Inizia l’era dell’AGI” la Repubblica I titoli AI cinesi salgono dopo il lancio di Astra da parte di OpenAI, MiniMax +6% Investing.com OpenAI: in arrivo Astra, nuovo modello «in grado di rifiu",
+          "pubDate": "Thu, 03 Sep 2026 20:20:33 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Nvidia, accordo da 13 miliardi di dollari per acquisizione di Hugging Face - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQzJYSHgyZjZGWHlUN3o5RkNULTE4RUtUVEMzOEdNSXMwZUFaUnZVTlRnRnFMRDNKSTB3YjJ5VkFyd05qMVJGcWZUejZoTURnSlVYMzhGWkMtZ3JIRWhzeENnU2JnUkFWMEdMTzdoSlBrRXRtY0hRbVVJX3VTekpxZHFTVGFQWXd2amZDNGgtY29uYW53ZmFoNFZhdUlyR01FSC0tOEdxZkNnMl9JZUE?oc=5",
+          "description": "Nvidia, accordo da 13 miliardi di dollari per acquisizione di Hugging Face Il Sole 24 ORE Nvidia compra Hugging Face per 12,9 miliardi: la grande scommessa sull’AI open source RaiNews Nvidia ufficializza acquisizione di Hugging Face per 13 miliardi di dollari Borsa Italiana Nvidia si è accordata con la piattaforma di intelligenza artificiale Hugging Face per acquistarla, per quasi 13 miliardi di d",
+          "pubDate": "Thu, 03 Sep 2026 19:03:06 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "borsa",
+      "n_items": 10,
+      "n_sources": 3,
+      "category": "economia",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Taglio accise sul diesel, verso proroga al 10 settembre: poi le misure per i redditi più bassi - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOTnBSU1BzOHROMzZSSFZRa3BPbkhfQlk5RklvZEIwYWVSQWdQdndDOHQ3MXl0Y09LTEZDUFVyMXZJa0pieUhCQ09wckRsM3pLNWFLaWs0aWVOQjQ1QXN5Q2RYcHlBbFhLSk01M3ZJLTVFRUpoSEc0bFZ0UHZRRzBWNHF1VkNGeDNmVnNoYW5lNHR0LTFzZFZzdUY5eDFLakszelJWY0RwWXBBNGJiQlVaYVpFcTVOZGIyQXNpUXdFTkx5NkFKTEV1NWZzcGtiZVlDcFQ1QXNxSmJ2VXhNNkhka1pHUmgxTi1ES3BYcHF0bGs0YlM4WVBiZXo5ZzlFNUdqTnJCNTdHcUx4T1F4d28wNjhhZEtNUm5jU1NQY9IBogJBVV95cUxQcVlQd2JvLWlOeFhoSVBRelROQnFLdnAtTDFPQ3Vpbm9tX21ZTlRaTUNBY2R0TktFMHlQOTVkOXBMb0lVRHAyZm5JV3NlVmdkWkFDMmVVSjRLZnRtZURvU0dBVUVCVmVCUlJ1MTF5ei1RU0Y3b0NlZFJZTmRmZ3BTZlpFRjNVTm1CVy1FV0oyenYwT1VLQzcxTDRaUUNCbnZwcHBjeFliNmVlRzZWY2N2VnFMcDNMS3FiM2xKc0twcG5weDJqOXNxWnR6Smktc2s3NnVVWnhXbHh2NF9lRXVXOHl6SHNTRmxHbU05bktVdGdtZGYwQXZFT0NLWFktMFZndG1HeTVBODJRLU0wNDhQRnFhNGpOVE9KbW9QX2tMX3k4dw?oc=5",
+          "description": "Taglio accise sul diesel, verso proroga al 10 settembre: poi le misure per i redditi più bassi corriere.it Carburanti sempre più cari, verso mini-proroga taglio accise ANSA Caro diesel, il governo prende tempo. Le tre opzioni sul tavolo per il «dopo-accise» corriere.it Blog | Lo sconto sul gasolio scade sabato: non paga lo Stato, ma i big dell'energia. E sarà rimborsato senza interessi ilfattoquot",
+          "pubDate": "Thu, 03 Sep 2026 16:48:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Acquisti diffusi in Europa in scia alle parole di Waller della Fed - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNEFsb0JHYzdRUXNxeVhOZ05uODh3bXhDMWdaLXhrQ3d5LWE0YTV3S1lidG1reFRyLUVQLVQtS0JFQ0ZvMFU0UEhNdlB1dHdrd2lqcHJSYURuakNvRXRLVF9jRWctRS1MaVpNaURQd1hEdGY3dWxjbHE4bUtaSXRUOWVrR1ZZMkpmVEhKdVMzR3J2Zm9GNjkxMkdEbWhMZjE0VTVDUFp5NDkyZGZWMlNTZUVxSkVrSG9iYVhwcXU5ZmpTUFZIVE1WMzFRWHEzU1hjcy1iTEFEdEVxNmZlcmk3WU1FVk9HMUNJ?oc=5",
+          "description": "Acquisti diffusi in Europa in scia alle parole di Waller della Fed Borsa Italiana Kospi aumenta, seguendo Wall Street, mentre Waller della Fed segnala una pausa sui tassi Yahoo Finanza Pioggia di acquisti sui listini USA con allentamento timori di stretta monetaria ANSA Fed: Waller, favorevole a tassi fermi a settembre (RCO) Il Sole 24 ORE Borsa Usa, in rialzo dopo dichiarazioni Waller su mantenim",
+          "pubDate": "Thu, 03 Sep 2026 16:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "GMG Moto Guzzi – Inaugurata la nuova fabbrica di Mandello del Lario - Red-Live.it",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORmZmSHA2Z3hmU2UwVHlCdlJBLXRyaG9yV0VvOUJDTnpkdlE4bjBWVE1EdWRHeUljTmx6eVVyVFAtQUx1bkVVZjR0NFladGFmdktzVXRtMVpObE5nRFY5a3BHbktHNTlUZDd0U19QVnk4YXVEOFFiVURBa0lYSkV0QU9lV2NkXzNYVk9PeGM4UEZoeWhfSlE?oc=5",
+          "description": "GMG Moto Guzzi – Inaugurata la nuova fabbrica di Mandello del Lario Red-Live.it Moto Guzzi inaugura la sua nuova casa e il museo EICMA Sabato 5 settembre chiusure temporanee sulla Statale 36 per la parata delle moto Guzzi LeccoToday Moto Guzzi: inaugurato il nuovo stabilimento a Mandello del Lario Borsa Italiana Guzzi city rinasce sul lago. Vip e gente comune per la moto senza tempo la Repubblica",
+          "pubDate": "Thu, 03 Sep 2026 11:39:44 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borsa Italiana, il commento della seduta del 3 settembre 2026 - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzJBQVZnTlNZQXBfVzc5N0cwSFFGc21HdjZYbHB2SVVJQnZ1Q2FSdXAxV1pveU9kR1ZwcjNxamZZOGVkZnhDZXBuUGJaSk9DWk9wMVR4UzdHLVNjVHpJRFMzUlY4bUJKWFNyczR1T09qYlczemtEangwQm1yZ1FPRnBSb0lkcVhuVHVWOGNGX3NEWEVrMFZmeTJkZEgxN2M?oc=5",
+          "description": "Borsa Italiana, il commento della seduta del 3 settembre 2026 SoldiOnline.it Piazza Affari tonica in un'Europa cauta Borsa Italiana Wall Street traina le borse, Milano chiude a +0,88% RaiNews Borsa: Milano chiude a +0,88% con Lottomatica, Stellatis, Tim ANSA Borse europee in rialzo mentre i prezzi del petrolio si stabilizzano: DAX, CAC, FTSE100 Yahoo Finanza",
+          "pubDate": "Thu, 03 Sep 2026 16:04:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Titoli sotto la lente a Piazza Affari - Eni, Avio, Lottomatica - Websim",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQi03MWR0OWdiWHZXUGd0ZTBBRERsZXNFb0lvZmhTanF1OVFVRmFadEc1NEFOUU9QSFZ4ZmhMNXZaQmp6LWI3Ry1IOEw5cTROaHhjZnB6ZkEwWkRXQlNYZjlaZGhjRV9YZ2Z2TnhEU1h1dXo4VHc0Tko4OFdXWU1vVFFRdDA4WEc1Qlc3NkpnX1FwNThGYnhEbkIwamFhUEZFT00zR2J2emVSZzg?oc=5",
+          "description": "Titoli sotto la lente a Piazza Affari - Eni, Avio, Lottomatica Websim Le Borse di oggi, 3 settembre. Seduta debole per i mercati, frenano petrolio e gas la Repubblica Borse in diretta, prezzo petrolio di oggi 3 settembre | Europa cauta con calo tensioni sui bond, spread in calo a 83 punti corriere.it Borse poco mosse con Brent a 96 dollari, a Milano brilla Azimut Borsa Italiana Borsa: Europa cauta",
+          "pubDate": "Thu, 03 Sep 2026 06:46:00 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "says",
+      "n_items": 9,
+      "n_sources": 4,
+      "category": "general",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Tensions flare in Lindsay Clancy trial courtroom over holdout juror - CNN",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1VnljRFBtaVhWUWVYNHhFQzJMLUJjN3h2cTd1Sm1SaUZtck9lNEdRMmIzRTFBNjZLZkZXam9GdU1taHhFNFEwR3hXUG00Z2ZmTE1Sdi1HVUZWZFhYTmFkZ0pNcEp4UjJ3cnEtem5uUnk1dw?oc=5",
+          "description": "Tensions flare in Lindsay Clancy trial courtroom over holdout juror CNN Lindsay Clancy trial tensions flare as judge declines to remove holdout juror BBC Fireworks in the Lindsay Clancy murder case: What experts have to say USA Today Defense says lone juror has Clancy jury deadlocked WBUR Lindsay Clancy Trial: Defense Blames Single Juror for Deadlock nytimes.com",
+          "pubDate": "Fri, 04 Sep 2026 02:28:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Work on Trump-backed Triumphal Arch will start in coming weeks, Burgum says - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWVV4WElmMHgwd0ZwdFFkM09jS1BjUmdoSm9ZMkRla1dmZURzYWtNZHdBTy1hWkg5WHNYOGdaVC1jZl9pbTlrNkxMdFRYVjNFWGtPU3E1WFNBWUlRLWstSkVMS0YtczJnNWlrYlhxRjl6cXRTcmpWelBqeHVuOWZZWjdVa1VxcThPZFE?oc=5",
+          "description": "Work on Trump-backed Triumphal Arch will start in coming weeks, Burgum says CBS News Trump to Break Ground on Arch Before Getting Approval nytimes.com Trump administration plows ahead with groundbreaking for the president’s ‘triumphal arch’ CNN Excavation work on Trump’s towering, gilded arch to begin over next two weeks theguardian.com Trump Plans to Break Ground on Washington Arch Without Final ",
+          "pubDate": "Thu, 03 Sep 2026 21:22:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Ukraine’s Next Goal Is to Shut Down Russia’s Commercial Airspace - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQjNpQ1RJbVVqb2p4ODhrZ1dlVzRiQjVsV3czM1B1WXVKZ296clktVUtlSVZPYWwyZFpvd3B6WnY4RWVUczZ3eVlSN3NCMGliRkNjYmpCSlpwRF8wV3BMb1FnOTIxUG1OSE5OTzNjUlE3dkp2aGk3ZWhJZUJRZkJkc0ZTVXB2Vkg3VHFfTnVxRHo0WHVwejh3SGdKT3YyUQ?oc=5",
+          "description": "Ukraine’s Next Goal Is to Shut Down Russia’s Commercial Airspace WSJ Zelenskyy says foreign airlines suspend Russia flights after Ukrainian warning ABC News - Breaking News, Latest News and Videos Zelenskyy says airlines should avoid Russian airspace as Ukraine expands drone operations CNBC Ukraine formally warns airlines that Russian airspace is unsafe Euronews How Much Can Ukraine Disrupt Civili",
+          "pubDate": "Fri, 04 Sep 2026 02:00:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Iran attacks Kuwait with missiles and drones after US strikes - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN3JKaGh4eWVCeWFMcUVYaEUzUUhrMG05Q3gtREsydnc2ajZoY2Z2LXkwSWFCZmlTMVZWaUVRV3FxeUJkREN5bGR0QzRFb25jMVdWMXBnMkVqODYzdzQtRTBXT0s0S0tPMUxkc3hDZWVSN3JJdTROejZ1b0NHUHB5WE1LcXVrZw?oc=5",
+          "description": "Iran attacks Kuwait with missiles and drones after US strikes Fox News Iran targets Kuwait in retaliation for US bombardments, and other Mideast news The Hill Iran targets US bases as Israel warns sanctions could drive Tehran to ‘desperate steps’ theguardian.com Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long' CNBC Iran targets US allies in Gulf after overnigh",
+          "pubDate": "Thu, 03 Sep 2026 22:44:20 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Argentine leader says oil firms working off Falklands face sanctions",
+          "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+          "description": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
+          "pubDate": "Fri, 04 Sep 2026 02:53:07 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "after",
+      "n_items": 11,
+      "n_sources": 3,
+      "category": "general",
+      "score": 33,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Fox News Media abruptly ousts longtime anchor Maria Bartiromo - theguardian.com",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY1poSlkySjBCT052bDVmdTE2Zm02TW5ma0ZkRnYwWnFLMGdMSGVaeENjc0VRa296M2dXZlJpSURfalhWa0d1Zzk3ak1JdEswSkRYNjFKVmoxWTBDMDQ1aC1oREJKRWVMNXN3dFB0NzA5ZU04SDZhci1DVjhNMS1ScG52akF6YjQ?oc=5",
+          "description": "Fox News Media abruptly ousts longtime anchor Maria Bartiromo theguardian.com Fox News abruptly ousts Maria Bartiromo, a longtime Trump ally CNN Longtime host Maria Bartiromo out at Fox News The Washington Post Vance laughs off speculation about Maria Bartiromo for WH press secretary USA Today Fox Delivers Final Insult to Trump-Loving Host After Abrupt Exit The Daily Beast",
+          "pubDate": "Thu, 03 Sep 2026 17:46:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Federal prosecutor fired after investigating ICE officer for civil rights offenses in Minnesota shooting, sources say - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0JtVGZ0X28zWU1McG1MMS1rVG5SMndrNGpKSzhhakdZSEtqbE03M0M1bEFXY0FpcVEzLVhidW5wSXByR1dzWkc1bDZVMlNUTWs3WlFoQnQwUlcwTmdXb3ZqN3cxc0FyYUM1YmtaZ05jWExTOGM2NFdIdGh3T1ltS0JteDVsQkEtc1Y2Z0FYa3lvRXdENnptZ2FfMWczRVdmYXc?oc=5",
+          "description": "Federal prosecutor fired after investigating ICE officer for civil rights offenses in Minnesota shooting, sources say CBS News ICE Agent Charged With Lying About Minnesota Shooting nytimes.com ICE agent charged with lying about shooting Venezuelan man during crackdown BBC Trump’s DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor’s “Strongest Possible” Objections ProPublica ICE office",
+          "pubDate": "Fri, 04 Sep 2026 00:36:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "42 Years Later, Jury Finds Texas Man Guilty in Killing of Teen Girl - nytimes.com",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTFB1eVd6Mko3cE1XY2hIMTNmX1RTTTdJa211bTNoblJQaHF2MkdfcDlZQ3YtTW5MUWlialJFNFRBcHNEXzFRNm5PRDJVRWFwZnM5ZGlJUFRBamluNEw4ZUQ1M2dXd2dHZFFmTjZ2MUx1YkNnUU1rcll1MXRzS2t4RUxsaGtzN2xUR1pDci1Zbw?oc=5",
+          "description": "42 Years Later, Jury Finds Texas Man Guilty in Killing of Teen Girl nytimes.com James Elmore Jr. gets maximum sentence in case tied to Texas Killing Fields KHOU Man sentenced to 20 years over a 'Texas Killing Fields' case, decades after dozens of bodies found ABC News - Breaking News, Latest News and Videos 'It's time to heal': Families gather at 'Texas Killing Fields' after sentencing decades in ",
+          "pubDate": "Thu, 03 Sep 2026 20:44:43 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Ukraine’s Next Goal Is to Shut Down Russia’s Commercial Airspace - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQjNpQ1RJbVVqb2p4ODhrZ1dlVzRiQjVsV3czM1B1WXVKZ296clktVUtlSVZPYWwyZFpvd3B6WnY4RWVUczZ3eVlSN3NCMGliRkNjYmpCSlpwRF8wV3BMb1FnOTIxUG1OSE5OTzNjUlE3dkp2aGk3ZWhJZUJRZkJkc0ZTVXB2Vkg3VHFfTnVxRHo0WHVwejh3SGdKT3YyUQ?oc=5",
+          "description": "Ukraine’s Next Goal Is to Shut Down Russia’s Commercial Airspace WSJ Zelenskyy says foreign airlines suspend Russia flights after Ukrainian warning ABC News - Breaking News, Latest News and Videos Zelenskyy says airlines should avoid Russian airspace as Ukraine expands drone operations CNBC Ukraine formally warns airlines that Russian airspace is unsafe Euronews How Much Can Ukraine Disrupt Civili",
+          "pubDate": "Fri, 04 Sep 2026 02:00:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trading food for medicine and crossing the river by zip line are part of life in Nepal flood zone - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVnI5N1lFbzZWVm9IOXBLOFVYYnNWZzlDdEMwOXdvaDhnYTJ6UGNJT3EzemZqT2pIYmRYMmhINUw5ZnNtR0k5cDM0ZjNaNTB5ZUM1d1dZcURhX1otUjZWbHFtVTVHb1hScUc3Nzc0TVZFUkphdVRWck1wSUcyTjg4OFJtcnNLakliNUZZaA?oc=5",
+          "description": "Trading food for medicine and crossing the river by zip line are part of life in Nepal flood zone AP News Voices heard at flood-stricken Nepali power plant where scores trapped CNN Two people rescued from Nepal hydropower tunnel more than a week after flash flood BBC The ‘Miracle House’ That Survived Nepal’s Floods nytimes.com How engineers in a WhatsApp group are guiding Nepal's flood rescue effo",
+          "pubDate": "Fri, 04 Sep 2026 01:46:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "putin",
+      "n_items": 6,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ucraina-Russia, Putin: \"C'è possibilità di accordo per stop guerra ma minacce ad aerei civili ostacolano la pace\" - Adnkronos",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOEhMQnBuWDZBWUNwMzVHd1ptU3JBY2hmOVVZbTkxQkhhSWlLY2hXdlQxVTdrOWpWTF9wd1BDcEVJS3JxMExFeFE4c1J2M29oTzl3RGpTRTRyci1TOHc3aDdHMDNCdUcwa0dKZXFVTFZUTWhkZHpnd0dvZnpiTnFtaXFfZXp6Ri1sUUNUNmVBTGxkcWU4WHEtdk9UOUN4TmpjQ19aQ1VlRDF6eFhxVDVqY2dkVWY?oc=5",
+          "description": "Ucraina-Russia, Putin: \"C'è possibilità di accordo per stop guerra ma minacce ad aerei civili ostacolano la pace\" Adnkronos Putin attacca: 'Kiev fa terrorismo, da Merz passi bruschi ma goffi' ANSA Putin: \"Un accordo tra Russia e Ucraina è possibile\", contatti \"attraverso i servizi segreti\" RaiNews Putin: \"I contatti con Kiev continuano, il dialogo con gli Usa sta funzionando. Ma le minacce di Zele",
+          "pubDate": "Thu, 03 Sep 2026 10:29:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Berlino chiude Casa Russia, Mosca chiude il Goethe Institut - ilfattoquotidiano.it",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSlpfdkc2N3lBdE1LRHEzTzJTaXRTMi15bEVmRllKRlMxcHF1LVQzWWtXZVNZWkx6d05vYWZHTnA4a1dwNFlCOFBBMW5sYUg5akRzZFhqMFhmNzBtc2ZvZnFBQVAxcElVQV9xUXc3dm54ZHA1SnZPUTktdUt5VFVCTFlqZGRFVDhIcHRzT1VOcTZxNzhLelhuUHduZVRDbkhGbU0wRg?oc=5",
+          "description": "Berlino chiude Casa Russia, Mosca chiude il Goethe Institut ilfattoquotidiano.it Guerra Ucraina-Russia, le notizie in diretta | Putin: «Una soluzione del conflitto è possibile. Zelensky minaccia i voli civili? Complica i negoziati di pace» corriere.it Germania, identificati due sospettati per l'attacco di Lipsia Vatican News La guerra ibrida è già in Europa ISPI Scontro Mosca-Berlino, Lavrov: 'L'I",
+          "pubDate": "Thu, 03 Sep 2026 11:22:30 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Putin attacca: 'Kiev fa terrorismo, da Merz passi bruschi ma goffi' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNNlpma2g2MTh4VFp2OC13TzBDMk5JYWh0ZkYwT1Biek4teERYQnBSdGVZLVdQS1ZWcXpaTzBiSl8xS3NSWFFYU3RrdUZjSTgySGw4NWp3MUIyZ1lPMmFwTmR2TjRWeVpHLXg0cVFrb2JBaDBuYlgtUjZsaDc0TVpBMHJrRW9ocGJGNWZ4VFRoSE0xdzdJT0J1dFdhQW5KQW9MWXBzSW9SN0NZSTBFbmF2NHEzYkVzUjlUQl8tLUpHRWVQMWVuckdLYmpLLW5pY1FaMlk2RjVHTFFxTmFaQ2JyRVNJal9MMFNlQ0J2UnA1WHBNbmlGdy04RHFjUGhhR0ppQmNR0gGIAkFVX3lxTE8wcDhpUXFIdFVsUTQ1SFNqV0I5aFFsR1JTTEpGNnE0ek04amwzTDI5Tko2YTFBUXZRczBXMmI0SVByalJtTVZuN0t3OWtYZTI5Z3dmNU1LdGpUdWlibExKdjl2MTBfU0l0bGlXaDVjTVBpVGNSME03SzdZX01oYmpESUpjWGZXY0RGNXpTVUVPdmNCX0tfd3FveXhlbkxzZG1sNUprNVJSTWJnOVNRZEkyWHczUEVnRGpoR1VwR3Y0VG9ja0pNOU95S2FBMEJtU3YxRENLakcxTENwd3J6bF9zZDhUTDZnajU5UHFpczFNZjlRcDE3cDdyRmd1alVsN3hybTRreHNiWQ?oc=5",
+          "description": "Putin attacca: 'Kiev fa terrorismo, da Merz passi bruschi ma goffi' ANSA Putin: \"Un accordo tra Russia e Ucraina è possibile\", contatti \"attraverso i servizi segreti\" RaiNews Putin: \"I contatti con Kiev continuano, il dialogo con gli Usa sta funzionando. Ma le minacce di Zelensky sui voli civili minano i negoziati\" ilfattoquotidiano.it E se scoppia la pace in Ucraina? Ecco le azioni europee su cui",
+          "pubDate": "Thu, 03 Sep 2026 19:09:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "I droni jet, la nuova arma di Putin - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNck45NFVjNUd1elZySnlsT3FHc3B6SjFTLWZHV1d1UW1mMEE5eGF6TnBpZG13U0JnV2dYcnpsbzlqYU5oWlduV3dUZWlYN1lXNEdmQ09EemxnYWJ5cFRUbUppTl9sal9rTWc2SnNSMnZOYW1SRTByMEZxaU9ydzBFY2dkbnZ4SVVrU29VRHVSRVBYQVUxYnNNd3FqaTdBWW9IVVBSMjdOb0luZjNwai1uQmZUVlY4ekhGZmfSAb8BQVVfeXFMTlBucE9WMGZlUDlTLWYxWC1ITWJEbEhScnZMT3d6NFB4bTl4ZmNrcHllbFRzVmhacG42dFJNamRUQThkYXUxLUhfckRLT2N3b2ZTRjU3VU02Y3RwOHFoOV9PcFVmVHZweHloUlAwTm9CWFI2TVFoSXJFUjlsSjhCQk9xSHRUMzFRS3prRjQ1dHFxSnFZSWhxeUZDX0NLTGdEUkhNRk9jQ1Znd0JYWWdzdDNFejZJR1ZENUcwNmF2UlE?oc=5",
+          "description": "I droni jet, la nuova arma di Putin la Repubblica L’Ucraina: vietare i voli civili in Russia. Le prime cancellazioni. Vettori che sorvolano il Paese la Repubblica L’avvertimento di Kyjiv | Zelensky vuole chiudere i cieli russi con i droni Linkiesta.it Ucraina avverte le compagnie aeree: \"Lo spazio aereo russo non è sicuro\" it.euronews.com \"Svuotate i cieli russi\". Zelensky avverte che volare \"non ",
+          "pubDate": "Thu, 03 Sep 2026 11:15:56 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic - nytimes.com",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeXBvTUFyZWt5R3ZDZlJYTTNRYTJCWjdJMmhGWmVIakZWb0lMQVh4bEpVWkw2UG9Yc1dFYWhnTVlyQ2pHcjFmVHRVU0ZPa0YyS1F1bXc0TERWWmQtbERVNnVOVzdpVzBKLW1GRU5WVzNtUzBaV2pCdWxsampxVHROYU1GS21yWmZrSlBHR3BjR1JlQQ?oc=5",
+          "description": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic nytimes.com Norway seizes a Russian vessel in remote Arctic, drawing Putin’s ire AP News Norway seizes Russian ship, sparking anger in Moscow, to compensate Ukrainian energy firm Reuters Norway seizes Russian ship in Svalbard to compensate Ukraine DW.com Norway seizes Russian ship in Arctic over Crimea compensation claim Al Jazeera",
+          "pubDate": "Thu, 03 Sep 2026 21:12:44 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "governo",
+      "n_items": 10,
+      "n_sources": 3,
+      "category": "general",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Meloni, 1.410 giorni di governo tra numeri, scandali e gaffe: venerdì 4 pagine speciali sul Fatto Quotidiano - ilfattoquotidiano.it",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTk5VbHl4RWNvdzZsMU82ZzJ4VW5haU1CVncyWlE0ajhWS1YtX3ZkM2hua2U3RDBPTDNQOG53ZWJjdjBIMmVFbEVFOC1lb3h3elpKZWp3SUdsdDRlc2xHcTYwc2FBU1BsS0RkVFpHOVFmRjB3WVBFU2tqLTdkcFIzSWk4Mjh1bnNsZEFReE41Y3p5UGRNYkszNTNHT3lJa0QyNHI5dk9aRWZaU01rNTBWZ082bTlqNURxZ0xlTWlXaUhjS3Nhd0VSbEc3UVV3ZEh0TTdGbmZwZ1JyRTlsNjNzVkRjU2ZsdWVfQVAxaWRn?oc=5",
+          "description": "Meloni, 1.410 giorni di governo tra numeri, scandali e gaffe: venerdì 4 pagine speciali sul Fatto Quotidiano ilfattoquotidiano.it Il governo Meloni eguaglia il Berlusconi II, il record di longevità e la festa ANSA Briciole, oltre la retorica Il Foglio Come ha fatto Giorgia Meloni a durare così tanto Il Post Bene Meloni, meno i ministri Il Foglio",
+          "pubDate": "Thu, 03 Sep 2026 16:05:21 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Lo scolapasta di Pera: “Non faccio l’eroe, pronto a ritirare la norma sul ballottaggio”. Salvini? “Ha coccolato Vannacci e ora?” - Il Foglio",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQeVV1MmNSTWZLS3BkVUM3U1pUZW5nSDdhcWN5bTZSdXg2RTNCMVozU3gtekFjazNOY2lPS0laVHVtbnhwdmFnMEh6UHltaEJLRmpIeFdwdTI2UGRfYkFVeEI2ZDFpZzlGVXhIUFNvQnczdC1sNkpNbEZsanBOcVA5SmxaLUFLek5UMzNSZ2g5ak5Ndjc0VzE4U21FXzlwdUx5YXRjRUJ3QW9QQkNHZG9zaTVSdkxOUWEtTDlqbkc5WVFEcEszWDVWRUF0dHhaNTdsUTNVYmNGTHNKNmFDTTUzRFNOYzRIRU10dVVjTEhUMHF0cGZpWFA5UkttVk52Y1U0ZVAxaG5R?oc=5",
+          "description": "Lo scolapasta di Pera: “Non faccio l’eroe, pronto a ritirare la norma sul ballottaggio”. Salvini? “Ha coccolato Vannacci e ora?” Il Foglio Boccia: “Il governo teme la sconfitta e modifica la legge elettoralein base alle sue convenienze” la Repubblica La maggioranza si ricompatta sulle preferenze, primo ok al Senato ANSA Legge elettorale, il rischio di forzare la rappresentanza Avvenire Elisabetta ",
+          "pubDate": "Thu, 03 Sep 2026 04:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Fabio Mussi è morto, addio all’ex ministro del governo Prodi e dirigente di Sinistra italiana Avs - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVVMtWm5CUlNON1FCd1VXOEFlMENVRUVLRmVOYmxGeTIxb0hMNi13MkFZMW4tQTRyb1BkRE5rcU5rdjlJNV8tMDBuNkZ0eGVvQW9Rd0psNnhkZXc1ZDNFQU8yc1pNalA2NGEzX1pKX3I5TjhLUnpUbHNyaFM4cXNfVnA4eUJXZ9IBiwFBVV95cUxPbzg2QjUwRVdFUW5uYWVyRkhBOGZZd3Zia3NQdHlSd3cwSFU0R3VVWE9fWklMVGI4WDI3cTlqZkNrYS12VkZGbDRkWldBa2JPMGRXQ2l6QjVrV256UUFLTnFaSWJqZXo1T1Y0WFk2aWVHYU53TmktS2JUMUZSVjZhVXdoTi1mYW15QkxZ?oc=5",
+          "description": "Fabio Mussi è morto, addio all’ex ministro del governo Prodi e dirigente di Sinistra italiana Avs la Repubblica È morto Fabio Mussi già Ministro dell'Università e della Ricerca FLC CGIL Addio a Fabio Mussi, 'intellettuale raffinato' della sinistra operaia ANSA D’Alema: «Sul Pd aveva ragione lui» il manifesto Mussi e quel no al Pd \"figlio del fallimento, anche mio\" ilfattoquotidiano.it",
+          "pubDate": "Thu, 03 Sep 2026 08:18:45 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Sorrisi, paure e supporter in coda per Siegmund: sulle tracce del «venditore Ulli» che vuole portare l'AfD al governo in Germania - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc0E3QVREVElBMVNsRlV3WTAwNEZUeXNfZHFDakFFbzBKdC1yVFJhbUdJbVpqREZQQ3RnYnpnT2RhU0ljV3hHQ0pjaTUxb2g2LXlsXy1KZmhCdnhLUUx0dGVWWDRqUVRiUXdEbFdETEI4bkIyQmhuck5Wb0xWSm1oM1ZYZEpQY25MZmswcmw5ajNmUTRVTVpRSDctZHUzbkZ4akZiT3BjSGRpVXVQVXZkaDlscG1paGdJZlZnaG1Xd1ZpaktGc0lz0gHMAUFVX3lxTE1GX1FFMm1IZTlmYS1PcUtWYTItYjJtYmRDQkRuODJuVGlGSGkwOGNWXzFwNGplcndNbTFXQmE4MEdRMVMtc1RuWmhLVVBWMVdfSm9FbXc5cnBocW1hYkNMQnpibWVIa1lMa3hycWNXZXlPSjctbFZZcFRqaXlqUFg4SUJUb2w4TWlDQVlRWFltbl8zZ1kzNVBCWlpDZzR4cjZzQkFxVy1pYVduX1JKXzRvdnlJNlVpR3hPRW1EZGFNZUxhdFc3STgxVElkdw?oc=5",
+          "description": "Sorrisi, paure e supporter in coda per Siegmund: sulle tracce del «venditore Ulli» che vuole portare l'AfD al governo in Germania corriere.it Disabili in scuole separate se l’Afd prende il potere: “È la tomba dell’inclusività” la Repubblica L’estrema destra tedesca va all’assalto delle regioni - Simon Dunaway Internazionale C’è un’elezione molto importante in Germania Il Post Otto e Cinquanta - La",
+          "pubDate": "Thu, 03 Sep 2026 21:36:44 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Taglio accise sul diesel, verso proroga al 10 settembre: poi le misure per i redditi più bassi - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOTnBSU1BzOHROMzZSSFZRa3BPbkhfQlk5RklvZEIwYWVSQWdQdndDOHQ3MXl0Y09LTEZDUFVyMXZJa0pieUhCQ09wckRsM3pLNWFLaWs0aWVOQjQ1QXN5Q2RYcHlBbFhLSk01M3ZJLTVFRUpoSEc0bFZ0UHZRRzBWNHF1VkNGeDNmVnNoYW5lNHR0LTFzZFZzdUY5eDFLakszelJWY0RwWXBBNGJiQlVaYVpFcTVOZGIyQXNpUXdFTkx5NkFKTEV1NWZzcGtiZVlDcFQ1QXNxSmJ2VXhNNkhka1pHUmgxTi1ES3BYcHF0bGs0YlM4WVBiZXo5ZzlFNUdqTnJCNTdHcUx4T1F4d28wNjhhZEtNUm5jU1NQY9IBogJBVV95cUxQcVlQd2JvLWlOeFhoSVBRelROQnFLdnAtTDFPQ3Vpbm9tX21ZTlRaTUNBY2R0TktFMHlQOTVkOXBMb0lVRHAyZm5JV3NlVmdkWkFDMmVVSjRLZnRtZURvU0dBVUVCVmVCUlJ1MTF5ei1RU0Y3b0NlZFJZTmRmZ3BTZlpFRjNVTm1CVy1FV0oyenYwT1VLQzcxTDRaUUNCbnZwcHBjeFliNmVlRzZWY2N2VnFMcDNMS3FiM2xKc0twcG5weDJqOXNxWnR6Smktc2s3NnVVWnhXbHh2NF9lRXVXOHl6SHNTRmxHbU05bktVdGdtZGYwQXZFT0NLWFktMFZndG1HeTVBODJRLU0wNDhQRnFhNGpOVE9KbW9QX2tMX3k4dw?oc=5",
+          "description": "Taglio accise sul diesel, verso proroga al 10 settembre: poi le misure per i redditi più bassi corriere.it Carburanti sempre più cari, verso mini-proroga taglio accise ANSA Caro diesel, il governo prende tempo. Le tre opzioni sul tavolo per il «dopo-accise» corriere.it Blog | Lo sconto sul gasolio scade sabato: non paga lo Stato, ma i big dell'energia. E sarà rimborsato senza interessi ilfattoquot",
+          "pubDate": "Thu, 03 Sep 2026 16:48:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "report",
+      "n_items": 5,
+      "n_sources": 5,
+      "category": "general",
+      "score": 25,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Rai, Claudia Di Pasquale co-conduttrice di Report con Daniele Piervincenzi - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUFNfcU5sMkFDa2pZTVRFc2xFWWVWcmJ2WllMcU9uam5ickFGRzcyTlhOSUFkOGJLNm5Fdm1QR3lVSnZTTDliZVZ2MzJpSnBfdUladC1WQklSRElJR1lNdXJMbXFaX2QwOVVpbXZDOGRPRERwUDJuR005eGFWOGlMcEk1NnlwOGotRTBkbEUxUkFXczFQQzItUjM5Vjlic0d1bjlGMWRTODNhc2JWRGNvSWhZSHBiM3I3ZEF6M1ZQTFM2U09LUFgzdmtwQlNpYjh3ckpmVThjNm5oeFJNbFdrdGw1UmdTZDdlbEdRSEFIU2FTdFJ0TFc2RHRoaw?oc=5",
+          "description": "Rai, Claudia Di Pasquale co-conduttrice di Report con Daniele Piervincenzi ANSA Claudia Di Pasquale conduttrice di Report, esulta la redazione ANSA Dalla Swg un altro sondaggio su Sigfrido ilfattoquotidiano.it Di Pasquale conduttrice di Report, Ranucci 'approva': \"Era la mia scelta\" Adnkronos Le Brigate Ranucci: quanti giornalisti hanno rinunciato a Report Il Foglio",
+          "pubDate": "Thu, 03 Sep 2026 16:50:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "U.S. military reviewing deadly strike on Iranian wedding - Axios",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaFQ5ZDlJdzMyWUlPQnhGQnBBclQtTTV4MS1BSzJTdVBHcks3SWp1cTNvR19YTEs2Z0dZNkIxbElVNmhFNndSRUUzUUU4ZmVGOUtpNDE0Qy0ycF9falVsNDJ3cE5MUVZaSmJIb1JYc2tjbFY0SGJpQThRbmlUWXFRaGNuajY?oc=5",
+          "description": "U.S. military reviewing deadly strike on Iranian wedding Axios In Small Iranian Town, a U.S. Attack Turns a Wedding Into a Tragedy nytimes.com U.S. strikes Iran again as Tehran targets American allies in Gulf region PBS What to know about a reported US airstrike that hit a wedding in Iran AP News US probes deadly strike on Iran wedding that experts link to US munition South China Morning Post",
+          "pubDate": "Fri, 04 Sep 2026 02:14:43 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Claudia Di Pasquale conduttrice di Report, esulta la redazione",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/09/03/claudia-di-pasquale-co-conduttrice-di-report-con-daniele-piervincenzi_8cea21c2-f039-4aa7-b9d0-74fb8f683c22.html",
+          "description": "Al posto di Presutti, con Piervincenzi. Consiglieri di opposizione: \"Gestione disastrosa\"",
+          "pubDate": "Thu, 3 Sep 2026 20:19:02 +0200"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Almost half of households do not see benefits of economic growth, report says",
+          "link": "https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss",
+          "description": "Analysis has found a \"stark\" gap in the spending power of households in the north and south of England on average.",
+          "pubDate": "Thu, 03 Sep 2026 05:47:11 GMT"
+        },
+        {
+          "source": "ansa-cultura",
+          "title": "Rai, Claudia Di Pasquale co-conduttrice di Report con Daniele Piervincenzi",
+          "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/09/03/rai-claudia-di-pasquale-co-conduttrice-di-report-con-daniele-piervincenzi_ddd27723-d212-4885-b14b-08f791376773.html",
+          "description": "Corsini: \"Una collega interna, di grande esperienza\"",
+          "pubDate": "Thu, 3 Sep 2026 18:51:29 +0200"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "chatgpt",
+      "n_items": 5,
+      "n_sources": 3,
+      "category": "tech-ai",
+      "score": 21,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Ecco ChatGPT-6 Astra, un supercomputer per soli $20? - Yahoo Finanza",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdFNVOFpNU3JJQlBjMEREYUFXUVhkN3lUUXNYMElELVFjcFZBRFhaMktIMTBZWEFuem1STTlvQ0pnYjhsNC1CaEJuSjl5cFV4NjM5emlaSHNVOHBhTmFUY2NSU1FVNlU1cU5HQXpaOThYQlNFMHUwV1JpRVdYRGRtRw?oc=5",
+          "description": "Ecco ChatGPT-6 Astra, un supercomputer per soli $20? Yahoo Finanza Verso Astra: capacità critiche e misure di protezione di frontiera OpenAI OpenAI lancia GPT-6 Astra, il modello che faceva paura. L’azienda: “Inizia l’era dell’AGI” la Repubblica I titoli AI cinesi salgono dopo il lancio di Astra da parte di OpenAI, MiniMax +6% Investing.com OpenAI: in arrivo Astra, nuovo modello «in grado di rifiu",
+          "pubDate": "Thu, 03 Sep 2026 20:20:33 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "ChatGpt down, problemi all'AI di OpenAI in tutto il mondo. Malfunzionamenti anche su Gemini, Claude e Grok - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOT01qRGx1X2t3dHg2VDhVVmJWc1dzR1pvVERQZmhfbDZaSVJQbkMwbmJNMU96ZWwwZU1IMWhJMHFfZ1BNd2pHMnFSRjhRMWFfUHB5NS0xVU85cTd6bmVfYzNvX2tadEhvZkNEMUxnT0JlVm1oVm40NURMMkg3M3V5Mi16aXZoSDNzLWs4eXNqd04wUVhhTDZUMlpEeXhFVUtPeWJjQ1M2RkJtSVNrQW9TQ0Y3U2Q2bGhsMlBaal9UU0h5a01kRUdsSHpDdXVTdmxRTTNGUGY3MFVaUm9UcDUxazdwWi0yQWMzZmkyZXg0bnJuRkRObHhKMlk4V3NHZjJ2QXBkTFNuUDhqZVAzanhoOUs5V3dKMDhnYWFB0gGgAkFVX3lxTE85eENRamx2YVN4NXBTNnJBT181cFgyY3l2anI1QmFtS1hSd1FadG5XUEVsTkN1S0lsdFpueG5KcUV5eFI5b3IxY3ZaOTZwWXZzWncyeHZieDZkT1R2RE02UVlhTEdCckpBQ1VTblJQalptQy1BWXo5SGFLdTJSXzd4RktPbG56eTg1N19YLUY0UUlJWHh1ZjJqY2FfeEFMdng2NnBDcTV1V3h4ZmJlZkhlRVQ2UVRGOFRseXNNRWNFMWU4UXhxT254dGxPeUVqUS02dFF6RFMzY0d5NXRHYkxBblR0R0JfTTZIcDFTcFNjQ3YyVEZmcFZMOHhBWVNXNV9HTTdyZE5ONUdiZEpHWkw0NUhYVHZmUWZIcmVyT294Rw?oc=5",
+          "description": "ChatGpt down, problemi all'AI di OpenAI in tutto il mondo. Malfunzionamenti anche su Gemini, Claude e Grok corriere.it",
+          "pubDate": "Thu, 03 Sep 2026 15:56:14 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "OpenAI, fondo da 1 milione di dollari per regolamentare l'IA",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/29/openai-fondo-da-1-milione-di-dollari-per-regolamentare-lia_df8729b9-427a-4dbb-a12b-04991dd1bf7d.html",
+          "description": "Lo sviluppatore di ChatGpt sovvenziona ricercatori e aziende",
+          "pubDate": "Tue, 30 May 2023 17:32:04 +0200"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "ChatGpt su iPhone, record di download negli Usa",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/29/chatgpt-su-iphone-record-di-download-negli-usa_7d3e2539-a340-4303-b03f-627225d66de7.html",
+          "description": "Dal lancio oltre 500 mila utenti hanno scaricato il chatbot",
+          "pubDate": "Mon, 29 May 2023 14:29:19 +0200"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "Ha usato ChatGpt per ricerche legali, avvocato in tribunale a NY",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/29/ha-usato-chatgpt-per-ricerche-legali-avvocato-in-tribunale-a-ny_8aeecd2e-ff75-4166-8075-89740db095d2.html",
+          "description": "Fasulli i casi e le sentenze trovati dalla piattaforma IA",
+          "pubDate": "Mon, 29 May 2023 09:05:31 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    }
+  ]
+}

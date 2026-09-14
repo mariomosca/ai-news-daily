@@ -1,0 +1,635 @@
+{
+  "date": "2026-09-12",
+  "top_topics": [
+    {
+      "keyword": "ai rischio estinzione ricercatori",
+      "label": "350 ricercatori e CEO avvertono: IA comporta rischio estinzione umana",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 4,
+      "score": 46,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Ai, tutti gli allarmi sui rischi di sviluppo incontrollato - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxONDByMEtMMFNSVzIwaEw3UU5aUlNwT0NYX2J6UndTU3IxN3RmbDJQaXhfWHZOeHFiZVlidDZ0eFVXTHF2ZklZNGIwclJFTld4ekpoT1otb3BZa0l4cFdqUTJSNUx0cktpRHdvQkRBdlMzWnJISmpfWGFpeHFZNUZ3X1BlTWFPTldBT1RHUFVkRkt5SV85WXVoaXRXVVJpVE9Sc0ZIdktwSXNqenVoVklQWWNwcUw5aHk5bXhkUkdrckpPX3hmbXVaV1lnb1pCU1ZqVVNocS1xTDIxd1BleTUzY0l3OHk5OXNzLV9mSjVxNURoSE1lZzY4UzNocWt4U1AxWENXeUExc09SNTF5V2hsSXdLVnBSY3FETERj?oc=5",
+          "description": "Ai, tutti gli allarmi sui rischi di sviluppo incontrollato Il Fatto Quotidiano Anthropic: “Bloccati tentativi di uso dell’AI per possibili ricerche su armi biologiche” RaiNews Il lato oscuro dell’AI: ecco perché Anthropic blocca le richieste collegate alle armi biologiche La Stampa I missili degli houthi, lo spionaggio russo e cinese, la propaganda. Il report sugli utilizzi di Claude Il Foglio Ant",
+          "pubDate": "Fri, 11 Sep 2026 15:34:09 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Why the AI race has its creators fearing human extinction - Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWtHNERvOUJaQ0Z4Yk5XdWgzYXpqU1lIX2p6MnIwdDBLNk0tWEhxZ2pTeTdmNWdnUW5fUXdEdm5CbVlURUgtVEd0a3RicEFaOUxVd2ljUERWSk9DVEhsb3NlbkZ0MmNfUExoMVRYYkFUb3VTU3c5clJpYlNJdWh2MTIyLV8?oc=5",
+          "description": "Why the AI race has its creators fearing human extinction Financial Times Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears WSJ Why are the people building the most powerful AI so worried about what it could do? NPR One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’ WIRED Here’s why it’s so hard to keep AI agents from going rogue The Washington Post",
+          "pubDate": "Fri, 11 Sep 2026 16:11:14 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Il Nobel Geoffrey Hinton: “Stop allo sviluppo dell’IA. Come in Terminator potrebbe eliminarci” - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeHotNjdOV2pLUTNtLTJZMUd0TDFDanNscFlXZFZTNDBEUlR3dXVXRHNwTDB5ZnhwZXl5bDFVMXpHdEZxOVVZZjZvVHZ1dkRjdUYyRW5SNEctYjBRaURDNnlqbmdZODh1TTFtZ1IyajdzSmRiT0RtMkpHa3BoN0FVeFZyOUZ4OFpPc0VPYXlVV1hUeEdUTjY0cTdSZVFqMXUyTlp4WTgxWHh4dw?oc=5",
+          "description": "Il Nobel Geoffrey Hinton: “Stop allo sviluppo dell’IA. Come in Terminator potrebbe eliminarci” la Repubblica Ricercatore di OpenAI sulla sicurezza stima il rischio di estinzione umana al 70% entro 3 anni BeInCrypto IA e futuro: Anthropic prevede crescita record ma anche più disuguaglianze mai viste Il Fatto Quotidiano L’AI ci ucciderà? L’allarme di Coxon su Anthropic: storia di una bufala Industri",
+          "pubDate": "Fri, 11 Sep 2026 23:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Ricercatore di OpenAI sulla sicurezza stima il rischio di estinzione umana al 70% entro 3 anni - BeInCrypto",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uT0tDUi1PRFlpMllFVnJ0V2g2TXpIZ0g5c2ttMEhlU01TbEVSbzM4cUhPRW9MM3hWTVEzRUJDUUpQcXZBWk41X0MtSXQweEFaZTRvMXhHeFZtQ3BRZlhtaFNWS2tyZy1zZm92MXFmeFJWVlNpa3BmbVBUbUZwc3c?oc=5",
+          "description": "Ricercatore di OpenAI sulla sicurezza stima il rischio di estinzione umana al 70% entro 3 anni BeInCrypto",
+          "pubDate": "Fri, 11 Sep 2026 12:26:00 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'IA può portare all'estinzione, l'allerta di decine di ricercatori",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/-lia-puo-portare-allestinzione-lallerta-di-decine-di-ricercatori-_f2907c59-c053-4af7-b511-410cbb0bc59b.html",
+          "description": "Tra i firmatari gli ad di OpenAI e Google Deepmind, ci sono anche italiani tra cui l'esperto di tecnologie dell'informazione Luca Simoncini",
+          "pubDate": "Tue, 30 May 2023 17:55:51 +0200"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'allarme dei big, 'rischio estinzione con l'IA, è come le pandemie'",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/lallarme-dei-big-rischio-estinzione-con-ia-e-come-pandemie_3afde5e5-7bcf-464e-b3aa-aee6577a9b23.html",
+          "description": "Nyt riporta lettera di 350 leader industria, anche ceo OpenAI",
+          "pubDate": "Tue, 30 May 2023 14:12:41 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "zelensky putin g20 miami",
+      "label": "Zelensky propone incontro con Putin al G20 di Miami a dicembre",
+      "n_items": 4,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 4,
+      "score": 32,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Ucraina Russia, Zelensky: \"Pronto a incontrare Putin a G20 a Miami\". LIVE - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSlpXVzhsWHBzN09Lc0RLOXFjNkRPbTdiaVNhZzNfdldDd2R4LW1RXzc2Ui04RUlBRHVHdDlLX1RfQ0JXblpvYnN3N2hhMDRtUXd5N2lYRE55ODBlVmVHWjd6LURjZHhZeEhpV3VQNUc2aUNlMGRxc2JTX19INjEwUU5jMTBHc3Mw?oc=5",
+          "description": "Guerra Ucraina Russia, Zelensky: \"Pronto a incontrare Putin a G20 a Miami\". LIVE Sky TG24 Zelensky propone di incontrare Putin al G20 di Miami a dicembre - Aggiornamento del 12 Settembre delle ore 10:57 RaiNews Ucraina: Zelensky, pronto a incontrare Putin al G20 di Miami Il Sole 24 ORE Zelensky propone di incontrare Putin al G20 di Miami a dicembre. Ancora raid incrociati ANSA Guerra Ucraina-Russi",
+          "pubDate": "Sat, 12 Sep 2026 07:40:34 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Ucraina: Zelensky: \"Pronto a incontrare Putin al G20 a Miami\". Colpita Togliatti, la 'Detroit russa' - AGI",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVW11VWpXS1p3aHVOZTR6ZmZYZ2s3RjhjV2REVE5nUEM5N2VZaHZTLUZBRnVSdTJUbVVtXy1NVF80RzlvdVZNVzUtZURUMS1xczZUVVF6bnJqMWN2bWdSZzY4aGZRWTJoUGhmQlE2ZlZqNnU1WTctb2NoVzB4Y1dMbk5tdw?oc=5",
+          "description": "Ucraina: Zelensky: \"Pronto a incontrare Putin al G20 a Miami\". Colpita Togliatti, la 'Detroit russa' AGI Zelensky propone di incontrare Putin al G20 di Miami a dicembre - Aggiornamento del 12 Settembre delle ore 10:57 RaiNews Guerra Ucraina Russia, Zelensky: \"Pronto a incontrare Putin a G20 a Miami\". LIVE Sky TG24 Ucraina: Zelensky, pronto a incontrare Putin al G20 di Miami Il Sole 24 ORE Zelensky",
+          "pubDate": "Sat, 12 Sep 2026 08:48:15 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Zelensky propone di incontrare Putin al G20 di Miami a dicembre. Ancora raid incrociati",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/12/zelensky-propone-di-incontrare-putin-al-g20-di-miami-a-dicembre.-ancora-raid-incrociati_1a9e23a8-4a39-42d1-bcc4-42ab5d6f1b5f.html",
+          "description": "Il leader ucraino a DW: 'Sarò lì se anche lui ci andrà'. Mosca: 'Non ancora discussa l'eventuale partecipazione'",
+          "pubDate": "Sat, 12 Sep 2026 11:31:23 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Zelensky propone di incontrare Putin al G20 di Miami a dicembre",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/12/zelensky-propone-di-incontrare-putin-al-g20-di-miami-a-dicembre_d40f9857-72dc-436b-8fbf-365455ea7fb5.html",
+          "description": "Intervista del leader ucraino a DW: 'Sarò lì se anche lui ci andrà'",
+          "pubDate": "Sat, 12 Sep 2026 09:34:31 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "houthi mar rosso petrolio",
+      "label": "Houthi controllano Mar Rosso, attaccato oleodotto saudita: rischi per rotte globali",
+      "n_items": 4,
+      "n_sources": 3,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 4,
+      "score": 28,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Iran, Houthi controllano Mar Rosso. Attaccato oleodotto saudita. LIVE - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ja1BORHlYcmdhaTFyLWdtUG9TSWRrenNiV052aVl2YjJYemR6b01SdUZUZHJjNGpwSy02VHdrUkt1RGxCamE4TG5Rc19XYVhnZWM5WVNGUTRLeVRBajVITHhmTWlXc1F5OVZFdU56ZzVSRWZ4VGdSeGFXSQ?oc=5",
+          "description": "Iran, Houthi controllano Mar Rosso. Attaccato oleodotto saudita. LIVE Sky TG24 Che posto è lo stretto di Bab el Mandeb Il Post L'Iran colpisce l'Arabia Saudita su due fronti: dagli Houthi all'oleodotto per Yanbu, cosa succede al petrolio Corriere della Sera Yemen, il conflitto nel conflitto ISPI Guerra in Iran, le news di oggi. Attacco all’oleodotto saudita, Riad: “I droni sono partiti dall’Iraq” ",
+          "pubDate": "Sat, 12 Sep 2026 07:08:07 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Oil routes in peril as attacks shut Saudi pipeline and Houthis threaten key waterway - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNVpxYjZ0d1VwNVJKVHFhUFVFRXJGNDRobUxmNjJOUFBWQ1R1THRRdlRFbE9oRVRxaHdRTkw4b3hxV2tIcTZSX1ZCUUZ2SGQtQWJ4akhpSGE5S3p6a1RxSXdwNjlVemJFRWlvMzVzZm10RGJWTVNVM2VhVVZkcU1kRDl2UjJBR191WlppV2p1LTlPdk1Ba2lHV0Y4Ykp6YzU1RmRHdEpOQmxIREU?oc=5",
+          "description": "Oil routes in peril as attacks shut Saudi pipeline and Houthis threaten key waterway The Washington Post Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq BBC Iraq races to contain fallout after local Iran-backed militias accused of attacking Saudi pipeline Dallas News Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping Reuters Saudi Arabia shut down E",
+          "pubDate": "Sat, 12 Sep 2026 04:06:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "‘A f***-up of epic proportions’: Blame game begins after Iran-backed Houthis’ lightning advance down Red Sea coast - cnn.com",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rNC00UEttX2RuYWVWaEl5T2RhZkpyWXFNYzA3MEt0OW9CX25ialVsSkphTk84eGl2R2NXTlhycHJPN1NQNjIwVEZHVGdqeG1vY3dYTmNTcGk3blAxTU1qRmg5WDFUSF8zanU4NHBmS19jYWthUGlSWXJlU2ZWaHc?oc=5",
+          "description": "‘A f***-up of epic proportions’: Blame game begins after Iran-backed Houthis’ lightning advance down Red Sea coast cnn.com ‘We Left in the Clothes We Were Wearing’: Yemenis Flee New Fighting The New York Times Yemen's Houthis capture a Red Sea island in a threat to shipping, and other Mideast developments AP News Houthis reportedly advance to key Red Sea island, further threatening crucial oil cho",
+          "pubDate": "Sat, 12 Sep 2026 04:00:30 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+          "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+          "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
+          "pubDate": "Fri, 11 Sep 2026 22:17:45 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "treno deraglia francia sabotaggio",
+      "label": "Treno deraglia in Francia, polizia privilegia pista del sabotaggio",
+      "n_items": 4,
+      "n_sources": 4,
+      "category": "general",
+      "macro_area": "clima-salute",
+      "richness": 3,
+      "score": 28,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Treno deraglia in Francia, la polizia privilegia la pista del sabotaggio - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQelAxRHQwazB0bzR6OS1CbHFaV0ttc0N1SFhqMU1RZXNOOUFDeUpMSWRySmlsRUJGR1NPeDZOdm83d2pnOHl3TkozQ3I0SUlKdV9sMk44YmoxUFVhVjUxMk1kUHdDLVV1Y3FrWEgzREtoYkxST3FPOTd3TkhUb0JZc05DNW9iTjNjZF9Eazl0a0NROGZvTmxYRHB4S1FkRWljajR6MnMwcHUtQjNVZkx6UHltbDdxa0wybEZJS0o4Ri04TjdDUHhPVk9Icl9PT2VNOVdTcGpJTkQyVzZaT0F3QVUxa3JjSlQyUUFZNDZjWHVfVXZLZ1HSAfsBQVVfeXFMTzVwOTNZbDRCcUxhRU92M1hUbzJ5YTFWVUxpYmhKeXd1QzE3aWRKYWJyTUN4MTBVMEpUcm5yTmNETVBBY2h0SjJLTHUtM29DcDNnZTBzU2w5RzEyNFBtaGdyNHcyVzU1RmwxWHVrQy10cjVCT3VoQVpGZE9vT3gwcGJEZjZKd29OQkE4QUFneWtqSjRNOFE4bkJnUDZ3N1dUcm92aWFvZGVfOFZIQk8xamVNVGZDbUhYaHBKZnZCdDJXWUlJSFhoM05KSG9Jd2lhazFWa1NrUDc2bERyOUlFQWowT21rZXdnc3NnTWNweEg3NFlydWNaTE5pbm8?oc=5",
+          "description": "Treno deraglia in Francia, la polizia privilegia la pista del sabotaggio ANSA Treno deragliato in Francia, la polizia indaga su possibile sabotaggio: «Trovato un frammento di rotaia sui binari» Corriere della Sera Francia, deraglia treno regionale: almeno 44 feriti, uno è grave Sky TG24 Normandia, 44 feriti nel treno deragliato. La polizia: “Probabile sabotaggio” La Stampa Francia, deraglia un tre",
+          "pubDate": "Sat, 12 Sep 2026 07:55:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Treno deraglia in Francia, la polizia privilegia la pista del sabotaggio",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/12/treno-deraglia-in-francia-la-polizia-privilegia-la-pista-del-sabotaggio_63714df9-2f3e-4ddf-a4cd-55f8f61cb7d7.html",
+          "description": "L'incidente ier sera nel nord del Paese, 44 feriti tra cui una donna grave",
+          "pubDate": "Sat, 12 Sep 2026 10:42:17 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Treno deragliato in Francia, la polizia privilegia la pista del sabotaggio",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/12/treno-deragliato-in-francia-la-polizia-privilegia-la-pista-del-sabotaggio_b47e57be-fb96-456b-a1a6-1e3114d2a24a.html",
+          "description": "Ieri sera 44 feriti nel nord, una donna grave",
+          "pubDate": "Sat, 12 Sep 2026 10:01:53 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Passenger train derails in France leaving at least 44 injured",
+          "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+          "description": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
+          "pubDate": "Fri, 11 Sep 2026 21:25:32 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "emma bonino addio ricordo 78 anni",
+      "label": "Addio a Emma Bonino: leader radicale morta a 78 anni, vita per i diritti",
+      "n_items": 4,
+      "n_sources": 2,
+      "category": "diritti",
+      "macro_area": "societa-diritti",
+      "richness": 4,
+      "score": 24,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Mario Monti: «Ho ammirato Emma Bonino per il suo coraggio. Ballammo il valzer, era lei che trascinava» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQeUptTXBIMG5KWlhSM0pXN2dKblpWLU5xX0JZQjRtSldWeTVyamhMcUk4bWZpekJuV2dzdV9sRzh2QzRCVzFMSERnMzRCQWxab2hSdk5zRW5OcUtGbnBxTGZJVXRFSENNcXBRUXJwZUpuU3F1d1pWN0J2aHJFLVJPbV9DZHExdWtqeXZ1bGNOeHRYSnd5VU9oX0pIOFg5eTRiLUFoMGdLMlNHX0V3QVdGeFpNMjB6Qy1mVU1HazR2OEViNEd0Snd2OVQyTVNOTm5pTUY5WjBNWDVGWm1uOC1BZ3JCUklRRVVNV2d1eDNpUlBsTzE0Nm0taFFFMFFuQWtSZ242Q05YUXjSAY4CQVVfeXFMTjMxbDU1VU1Bc2NDcmxRVlVqX05tR085RGNnQUdPZ3huSXlkc2tMNjlWMmRjQlkwXzBqUnh0Q2NHenNLQVRiY1hCMHFKYWtvRFZkVU9KaC1XLU4xclJoc1UzQWhCRzBrUEVfTWZ6bGtycmNFZzFzdlBac29LenVRbUctbGw4T2lyckItNzFTeEI5WW9CTU04VUZsNDJxOS0tWjNVS1pHdEhfaTdxMzdxOU9rdGlyMDZCNXdGRktFNVVDYnVIRG1OcUxlcW1FZmN1ZHJLdjlORlFVNTJ2NDRtc1ZRc3Rzcm5xMUtPSjNXc0I4X0d5YjhxYTdHenJ1djRhXzdpX3FCVG5UY3RoWkx3?oc=5",
+          "description": "Mario Monti: «Ho ammirato Emma Bonino per il suo coraggio. Ballammo il valzer, era lei che trascinava» Corriere della Sera “Gli devo tanto ma non lo perdono”. Emma e Marco, quelle due vite radicali imprigionate e tormentose la Repubblica Dai comizi in piazza alle raccolte firme: Asti ricorda Emma Bonino tra diritti, premi e lotte La Stampa Da Mattarella a Meloni, la politica piange la leader radic",
+          "pubDate": "Sat, 12 Sep 2026 07:38:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Bonino in un'intervista con l'ANSA nel maggio 2018: \"La legge 194 positiva, ma va migliorata\"",
+          "link": "https://www.ansa.it/sito/videogallery/italia/2026/09/11/aborto-bonino-legge-194-positiva-ma-dopo-40-anni-va-migliorata_eb27f10a-f0ea-4e54-b119-c77912f61a71.html",
+          "description": "Il bilancio della leader radicale a 40 anni dalla 194",
+          "pubDate": "Fri, 11 Sep 2026 14:20:36 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Addio a Emma Bonino: rose e cioccolatini, quella visita a sorpresa di Papa Francesco",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/11/rose-e-cioccolatini-quella-visita-a-sorpresa-di-papa-francesco-_c86e6201-c9f4-49b6-a32d-2f0548082511.html",
+          "description": "Era il 5 novembre 2024, 'Cerea!'. Due amici sulla terrazza, entrambi in sedia a rotelle",
+          "pubDate": "Fri, 11 Sep 2026 13:42:05 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Addio a Emma Bonino, una vita in prima linea per i diritti",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/09/11/addio-a-emma-bonino-una-vita-in-prima-linea-per-i-diritti_759e1d37-70c0-4a4e-836e-dc86007ae0b8.html",
+          "description": "Aveva 78 anni. Più Europa: 'Addio a Emma, la sua vita una lunga lotta per le libertà'",
+          "pubDate": "Sat, 12 Sep 2026 09:54:28 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "ucraina attacchi infrastrutture energetiche",
+      "label": "Kiev prepara controffensiva contro attacchi russi ai siti energetici per l'inverno",
+      "n_items": 3,
+      "n_sources": 3,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 21,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Kiev e l'incubo di un inverno al gelo, Zelensky: «Restituiremo ai russi gli attacchi ai siti energetici» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVEF2d2NDNWY2QkFDWDFRbmNlaHNETWRMMy11dzhoaXJtOGFta3pLcktmR3k4VjBCZEtmRU0tZTFoVTg2S3BuSjZ4a0c2cS1nc3JTN3dKQ28xS0UzOTJ5ZllZdndtcENVcG1iRGlvbEJfRmU5cGo2Ylp1ODFUbTJXTnR6b1R0MmVpa2NSR1JES3M3MG1QT3lmSjF4ZC04Qnh4Ym9WNHVia2ozMThpb0xkOFBCOG80UWktbUtnNW5qWkFTZw?oc=5",
+          "description": "Kiev e l'incubo di un inverno al gelo, Zelensky: «Restituiremo ai russi gli attacchi ai siti energetici» Corriere della Sera L'Ucraina si prepara all'incubo inverno con un piano da 5,4 miliardi: il freddo e le bombe Corriere della Sera",
+          "pubDate": "Sat, 12 Sep 2026 05:21:54 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Ucraina, altri 6,1 miliardi per la difesa aerea di Kiev: “Dobbiamo produrre 10 milioni di droni FPV l’anno come Mosca” - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdDJyVm1zTEkzZ0U1SGJlZzdvRUJtbXJPMU1yMGhZcnhZdzBFLU1kV1AtLXZsVWJJNWoxOC1tWDhTUi04VUVfek9pbHBueFY2X2Vva0FIZDNMd2k4VnlFZFdTeEVXbk9PbEk4OHhTWkFRcENkeFlDeG9jTmRUWGM3QjkxYzN1cG9KUXlqaGNzeVdSTVlmWDc4Yg?oc=5",
+          "description": "Ucraina, altri 6,1 miliardi per la difesa aerea di Kiev: “Dobbiamo produrre 10 milioni di droni FPV l’anno come Mosca” Il Fatto Quotidiano Ue, con nuovi 6,1 miliardi, allocati tutti 28,3 miliardi per difesa ucraina in 2026 ANSA L’UE presta 6,1 miliardi all’Ucraina per l’acquisto dei missili Patriot Eunews L'Ue stanzia 6,1 miliardi per l'Ucraina, aiuti anche per i Patriot Euronews.com Aiuti all’Ucr",
+          "pubDate": "Fri, 11 Sep 2026 11:50:12 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+          "description": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
+          "pubDate": "Sat, 12 Sep 2026 05:55:15 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "denise cosco suicidio madre lea garofalo",
+      "label": "Denise Cosco, figlia di Lea Garofalo, si toglie la vita 17 anni dopo omicidio madre",
+      "n_items": 3,
+      "n_sources": 3,
+      "category": "diritti",
+      "macro_area": "societa-diritti",
+      "richness": 3,
+      "score": 21,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "La scelta di Denise, suicida 17 anni dopo l’omicidio della madre Lea Garofalo - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVTRYN19LQ2ZBbVdENEtmTXRmOUlfdm1sVzl3dGVGTUZ3ZVFzQmNtamtwanhtV0QzSmc2dENiVVNteUVHTzdha0NvV3pJeFNKOVktSXMtb0hrdEdnOTlwdkt5SjlyMDNJM29aZk14ZkRTMkl3OUNPS0djZGdiVTJGZl9uWVJJWmpvTlF2NGg0Z3d0WlVudG4tb0xlQkFINmxEYUtsbGZB?oc=5",
+          "description": "La scelta di Denise, suicida 17 anni dopo l’omicidio della madre Lea Garofalo Il Sole 24 ORE Il suicidio di Denise, la figlia di Lea Garofalo: gli inquirenti ascolteranno il compagno RaiNews Denise Cosco, la zia svela il suo volto in una foto: «Avevi occhi bellissimi». L'inchiesta per istigazione al suicidio Corriere Roma Morte Denise Cosco, sopralluogo pm e carabinieri nel suo appartamento Sky TG",
+          "pubDate": "Fri, 11 Sep 2026 12:13:05 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+          "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+          "description": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
+          "pubDate": "Fri, 11 Sep 2026 20:34:29 GMT"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Denise Cosco, l'appello di don Ciotti: \"Sia seppellita insieme alla madre Lea Garofalo al cimitero Monumentale di Milano\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYk1NYjliLXJxcXR0ZTRaYWh4OW8xVkM4a1NhRks1NUxxbXBHem1zQlRiMXJIQ2RsV056Mm9IVnhyb25CY1BrVEhpOWhtUkRvdkxUWTJrN1g2MXNoaUxlZTRhcGxyMEM3ZGxXVXU2X3BxN2hNLTBVejMyTHhsakhySU5RcWVwZTdrZG1nYjBwWkh5ZUFoaER5bVBTNFlJOTk1VmFCWlVvekRGN21OZjNCNDU2TVVZZ9IBaEFVX3lxTE9jb3B0QjJYSW1GX3VsMDZQMVUtNjdFNjh0U0VqbE5zMzAzbEwxMzhFUmF1VTE2Yi1FS29oZ3NwSGQtbURqTndBVHFYaTlWT29DeXBQSFNpSVVXWHU1U1ZiaEZDM2JCRFJG?oc=5",
+          "description": "Denise Cosco, l'appello di don Ciotti: \"Sia seppellita insieme alla madre Lea Garofalo al cimitero Monumentale di Milano\" Tgcom24 Il suicidio di Denise, la figlia di Lea Garofalo: gli inquirenti ascolteranno il compagno RaiNews Denise Cosco, la zia svela il suo volto in una foto: «Avevi occhi bellissimi». L'inchiesta per istigazione al suicidio Corriere Roma Morte Denise Cosco, sopralluogo pm e ca",
+          "pubDate": "Sat, 12 Sep 2026 06:45:17 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "carburanti benzina gasolio prezzi",
+      "label": "Carburanti verso 2,5 euro, effetto chiusure raffinerie italiane",
+      "n_items": 4,
+      "n_sources": 2,
+      "category": "energia",
+      "macro_area": "economia",
+      "richness": 3,
+      "score": 20,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Carburanti verso i 2,5 euro al litro, il costo \"invisibile\" delle raffinerie chiuse: così l'Italia si è messa nei guai - today.it",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSXQxTkdoRmJUdmtncHZCanlyZmtvM3o2d256TDN1clpIYzlTb3Z5Nzg3WE9OWmU5YWU2ak5KMXVUTnFmRTlGbVpwTnVVS3F2Qkk5UWdjNV9PRWo1SFYwWldzSHFBaWNhOXd0YUNXWGhSMDR4cUFLdy1VczMxQXpyYzZlN0g2TmoxWmI3NkppVVLSAZABQVVfeXFMTnQ3NTZtOE5heC1NSkd6b19TRnFKbTJMNERaeExYR1I2Ulp3ckpWTHQ4c251ZTdDTFE2eVJab283TVdtRTI4N1ZYVTZEenMxMlV1SUpoY0lHWGF4NTIwdzFSS1VxM0JZSzB2WU1ES3Vfa3JvbmN3Q0hMdEE4d1VYMjNrNG9nRXhidUQtdl9HemZw?oc=5",
+          "description": "Carburanti verso i 2,5 euro al litro, il costo \"invisibile\" delle raffinerie chiuse: così l'Italia si è messa nei guai today.it Prezzi dei carburanti ancora in rialzo, il gasolio a 2,208 euro ANSA Carburanti, corsa senza fine. La benzina a 2,1 euro, diesel a 2,208 la Repubblica Carburanti, vola il prezzo per autotrasporto e riscaldamento. Nuovi record per benzina e diesel che vede i 2,2 euro Corri",
+          "pubDate": "Fri, 11 Sep 2026 18:01:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Meloni: 'In arrivo aiuti mirati contro il caro carburanti a chi ha più bisogno' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPNGZaMVVRblVWZlVCcGJfeGMxeDBraFpsNDIwNWFpVkM1RzFEd0ZOajg4UnFReWdYM2taVnU2bVduMVpEOHF5N2RQLTR3OEpKVVpzZWFJby1BVVhEcmE5QkV1YmtGd1hkYnFHb0g3c0RrMGQweTlObzRXdDdWVThFQmhPNHV1bUY3ZjdtWHVVYmdPbmdLcDB0dnZkQ0s3T2Uwd3Z3RTUxSUF1M0NYejk0Y2lPQ19ERmFyMVZwY3hvLTRqVEZjd184V1E0RHlKZk9uemJiN1hndWpOV2pkTzRFTVkwV1lfaXQ3RWpZVy13aHp0d0Z1bWNPa1JxZmcwVUU50gGGAkFVX3lxTE1pTnhfZ0pIUmN2RlVhVEZtX0VYWTBHTGl4aTJ0RnhnejRRbGlHTmdDSTJNZUF4VGw0V0xsSFh3dnN0R0RjVWQwRldJUjRGb0RGOFZVbGVFYkd1NEM3dkNlOWFIMWtKSVh3eDdNWE4tQ2F3bXFuLVdKeE1IR0hqTnZ0RVM2VHdJZXJqaFh1c3VUNGZkbWR1VkVOeG5YWmRKTVk4V2x1dVBFRk1HX0RRWkVXMzRTYXNMVDBuVVkxU1plQkpwSmhxNjl2UmI4RFYyZ2U0Vl94UEVNQWg0ZmVBRjVhMlNqUGZSUVFTRTZWRWRWWjlnTURNc1lFdnF2OGVhMTVwNTZUYlE?oc=5",
+          "description": "Meloni: 'In arrivo aiuti mirati contro il caro carburanti a chi ha più bisogno' ANSA Italia, prorogato il taglio alle accise sul gasolio per un'altra settimana: sarà l'ultimo sconto generalizzato Yahoo Finanza Il dilemma del Tesoro sul tesoretto. Le sorti della manovra appese al 22 settembre HuffPost Italia Caro carburante, bonus o aiuti a pensionati: le possibili misure del governo Adnkronos Tagl",
+          "pubDate": "Fri, 11 Sep 2026 10:43:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Prezzi dei carburanti ancora in rialzo,  il gasolio a 2,208 euro",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/12/prezzi-dei-carburanti-ancora-in-rialzo-il-gasolio-a-2208-euro_885d9f70-8fde-40f0-b0c3-f285fd93b75a.html",
+          "description": "La benzina a 2,1 euro. In autostrada si arriva rispettivamente a 2,192 e 2,285",
+          "pubDate": "Sat, 12 Sep 2026 10:23:27 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Adusbef, record rincari gasolio in Bulgaria, in Finlandia a 2,47 euro",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/12/adusbef-record-rincari-gasolio-in-bulgaria-in-finlandia-a-247-euro_05d1e3bc-8f91-409f-8d35-25ab1ebb5c89.html",
+          "description": "Con il taglio accise l'Italia sotto la media Ue, ma le tasse restano alte",
+          "pubDate": "Sat, 12 Sep 2026 10:22:07 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "apple iphone 18 lancio nuovo",
+      "label": "Apple presenta iPhone 18 con primo design pieghevole in 20 anni",
+      "n_items": 3,
+      "n_sources": 2,
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 3,
+      "score": 18,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "bbc-business",
+          "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
+          "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+          "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+          "pubDate": "Thu, 10 Sep 2026 09:32:34 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Apple on wide Android foldables beating iPhone Duo; ‘they got the aspect ratio’ - 9to5Google",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOW15clRjRk1OVVd5NHl0ZDY4ajhHZDdpZDFQLS1OYXh1RFZlYURqbzN2dnMzR2lzdnV3SUtNMVMyRlV1OEd2ZE5pZDk1SXQ5YmJteDhNT1NCa2ctZWZfcVA2Y0Y4dmRZczhreUhyQlhFTlZ6dzhOM1ROR3dld2RhYzBjaGlrTkRkUVN2U2M0VXFyY29ERlJiZ1ZKdkhzNzhGQmkwQWJua2FfSFRESUhGaw?oc=5",
+          "description": "Apple on wide Android foldables beating iPhone Duo; ‘they got the aspect ratio’ 9to5Google Why is Apple’s New Foldable iPhone Duo $1,999? The New York Times Apple unveils iPhone Duo Apple iPhone Duo vs. iPhone 18 Pro + iPad Mini: Can One Foldable Really Replace Both? TechRepublic Tech stocks today: Oracle stock wavers after earnings beat; AI in focus Yahoo Finance",
+          "pubDate": "Fri, 11 Sep 2026 14:45:00 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "India gets one of world's steepest iPhone price hikes - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObnhfQVE1WmxxZnVYMkpLX0F6RnhGM2Y1RVVMa0EzR1ZaMWNGLWdVT0pHTS1iaEpnUU9uQUxmYkdUM2UtVDVpQlZjV3k0cjdPQkdLaHJUWE9tV0FYVlhtVlFOQXV0YjRvcURvSWpKRXRXb19vd1BTWXZCdnREejdNdm1FbjZ4RHhraHJHNmpDTGcxNXotVTFFRlpoVmZVd2xySXdQam44QWdXWnNPOUhj?oc=5",
+          "description": "India gets one of world's steepest iPhone price hikes Reuters Apple just raised prices on new and older iPhones. Here’s what they cost now. The Washington Post iPhone Price Hike Is Here: Older Models Now Up by $100, Even iPhone 16 PCMag New From Apple: Extremely Pricey iPhones and a Watch That Eavesdrops New York Magazine The cost of every new Apple product that debuted this week — and the price h",
+          "pubDate": "Thu, 10 Sep 2026 12:47:45 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "poste italiane tim opas",
+      "label": "Poste Italiane sale al 66,63% di Tim dopo OPAS, acquisizione completata",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Poste Italiane sale al 66,63% di Tim: cosa significa dopo l’OPAS - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSEVSNFJzel9ObWtxaWItUDVEaG05U29NYjBvOGgxRU96R09TdWVFQU16ODFtZjJtdWw4NEJuMWdTRGtIVlNtQmptbFZWb0tDTGJyVUdOc0NERHFQUlV2TjE2RXVxV2dMMjd5ZGRPeTBjU3VJSFhMaGoxRWtCcUpkaVNLZWlXbVFYZUR3QkplNU1XNmZCd1h6VmFrcVdrR1J4ZlE?oc=5",
+          "description": "Poste Italiane sale al 66,63% di Tim: cosa significa dopo l’OPAS SoldiOnline.it Poste supera il 66,6% di Tim e prende il pieno controllo della compagnia telefonica. Boom di adesioni all'opas Corriere della Sera Poste sale al 66,63% di Tim, sprint finale dell’Opas. Dal 21 settembre la finestra per i ritardatari la Repubblica Equita suggerisce di consegnare i titoli TIM nell'OPA di Poste: ecco i 10 ",
+          "pubDate": "Fri, 11 Sep 2026 17:04:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Poste al 66,63% di Tim, adesioni al 58,2297% dell'offerta",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/11/poste-al-6663-di-tim-adesioni-al-582297-dellofferta_797e22bc-2636-452a-82b3-4f4979b02b73.html",
+          "description": "Nell'ultima giornata apportato il 58,22% delle azioni oggetto dell'offerta",
+          "pubDate": "Fri, 11 Sep 2026 18:51:22 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "brics summit india dichiarazione",
+      "label": "BRICS approva dichiarazione contro guerre unilaterali al vertice in India",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Al via il vertice della coalizione BRICS che approva dichiarazione contro guerre unilaterali - Fonti summit BRICS: concordata una dichiarazione congiunta sulla pace - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPakszb1hKSlkyM2d3Z1pZUHBmNVV4aGl4VGVQc1hVQmhjMjJFWkRLV2xJSll2cE9vRHpMbVNtVUoydk1jSk9zMFdlYjZ3akRkM1ZTdmwtTU5IOE1ON2hXMnVNNGdQY3dqcDNOQTFxbkNBNTRYdXR6VXJoazV0cEo5UkpXRDJtQ2xWSlFTM3NiamQ5aV83S1dVc1ZCNVJzUEZBcHhjZ2dnZEktbGFIa05ETTNjekdpRDJMU1VNSXItVTBCVUVMcnVST3Nn0gHPAUFVX3lxTE1ZeHo1SHdwX0s1WG9pclVJa0swY2dmcXJDMC04WHpGOVpGUTEySWV4d2Y1NDE1ZWhwMVVPSktjNS1LakJDcGFCaWdqTUZ4dDFnRG9uY1JOQ09Ta0NSS0tnemVRQXp5Qm9xLW9USlVDUkpQTl92TGFNeWduaHR4NjVuWlJzeHdlWkFpWGRZNEcyUldiZlRoV2NMRHlCRU5lYlhXa3dYcW56RzlHdnVQVnRIMjJnRWNwVDZZVXlQeUYxZTF4ekN2Wm91dFdiem1PNA?oc=5",
+          "description": "Al via il vertice della coalizione BRICS che approva dichiarazione contro guerre unilaterali - Fonti summit BRICS: concordata una dichiarazione congiunta sulla pace RaiNews Brics, Putin in India per affari Modi si offre a mediare la pace Il Fatto Quotidiano Brics Summit 2026 in India, i temi sul tavolo del vertice e i Paesi partecipanti Sky TG24 I BRICS hanno molte cose che li dividono Il Post I B",
+          "pubDate": "Sat, 12 Sep 2026 08:03:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "BRICS leaders meet in India as wars and US tensions test the bloc - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPREdaZmR6TnMxUGFHT280OUlwV1VleHUzc0MzSDc0X2Z6Y3hEdF9aLUZRaVpYNmIwYmtOSGdjWWltTjkyanJhM2NWRUZnMVdnMFJMSVlRMjRuWVZMajVpQ2lOck5McHRYNzJLYmR4R2hkc3M2YzRBTTM2NjlOaHVhcFB0YTZhWkVDVUNpMEZxZDViTjhWWXZGVVhqbFpkR045?oc=5",
+          "description": "BRICS leaders meet in India as wars and US tensions test the bloc AP News BRICS agrees on joint declaration before New Delhi summit, sources say Reuters As Oil Prices Rise, BRICS Leaders Have What U.S. Doesn’t: Iran at the Table The New York Times Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi BBC BRICS meets in India: What’s on the agenda, why it matters Al Jazeera",
+          "pubDate": "Sat, 12 Sep 2026 05:44:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "dengue chikungunya milano disinfestazione",
+      "label": "Casi di dengue e chikungunya a Milano e centro Italia: scattano disinfestazioni",
+      "n_items": 2,
+      "n_sources": 1,
+      "category": "salute",
+      "macro_area": "clima-salute",
+      "richness": 3,
+      "score": 14,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-health",
+          "title": "Caso di dengue fa scattare il sistema di disinfestazione straordinario contro le zanzare: come proteggersi - MilanoToday",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3YWt0N1ItSWNNMTdrdXMwMEFPTEtJdS1uU2hJOElCX3Q1dmtlS0ItaXEzU1BONWFzTjNUZEc4RzdjZ29wYXd5aDdMVEw5YVBCa1cwWTlvZHQ0aGNhUUM2VWNnRXBqV1dwYk55dzZHMGxMLXltQ1V2WDYxbWc?oc=5",
+          "description": "Caso di dengue fa scattare il sistema di disinfestazione straordinario contro le zanzare: come proteggersi MilanoToday Caso di Dengue nel Pavese, al via la disinfestazione straordinaria ANSA Trovato un malato di dengue a Vigevano: disinfestazione in periferia La Provincia Pavese Un caso di Dengue in città: disinfestazione straordinaria ilgiorno.it Vigevano, isolato un caso di \"Dengue\": stasera int",
+          "pubDate": "Fri, 11 Sep 2026 13:43:00 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Caso di Chikungunya a Milano, paziente in isolamento a casa: disinfestazione tra via Meda e Tibaldi - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOWg1TVNVTU43bi1udVBMb25TUFRLSmVMdXF6MzVoVG5MZkt6UUZPakVTSDJ5WkpVME9XWTZJeHQ1VlhSalJaTHU0emgxN0FLTDVTaWFfVWN3RWdCT3FTWFJDYXdrMm9hODZ2cER5VHZWZldLWVp2X1FhZmlXenU5Z1ptU015OXpwSUpZTm8ycldCWG16dGlrTmFCbVJieF9jTlduZlpTOG5HU0NWOENEQjhfZzVpOV8waGppVDZwOXlGT1hJZ2NLelFVTTlKVldHWkdVT01fTVNSQWNVVXpXYzZiZ25ZQdIB6wFBVV95cUxPUy1hNkVXUjNBSnhaMXV2ZUJjeVdUdlc0d3hzcmxpcFJfYVNoYTZYalI3UmE1MnR0c1FBcDJRR3BkX3pubmlzZjRUYXRtX19JcnowR0FTdTI4WThJMFQzemtORUxDWF9fLVNfNnd5WkJsRXh0WmkxcDJLT0lRUVd6YVlTU18wNzd0RXR0b0gxaFcwbU4xRGNINS1Jdjcya2RwdFpJcjN1bzllWFdmY1MtTzVwWS1fVEhQWkhWazRGczZvMi1MODZ6c0g5MmpaeWRCNW5ORWs1QzJUX0Nwai0zaG1aT1prWjUwNHhn?oc=5",
+          "description": "Caso di Chikungunya a Milano, paziente in isolamento a casa: disinfestazione tra via Meda e Tibaldi la Repubblica Caso sospetto di arbovirosi, domani disinfestazione in dieci strade laprovinciacr.it Soncino - Sospetto caso di arbovirosi Crema News",
+          "pubDate": "Fri, 11 Sep 2026 11:47:34 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "italia economia sorpassi pil export",
+      "label": "Italia sorpassa Francia in Pil pro capite, export e spread sottol'Ue",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 3,
+      "score": 13,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "I cinque sorpassi dell’Italia: dal Pil pro capite all'export e allo spread sotto la Francia - Il Messaggero",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3VGdzVqZURMcF84VnozRUZ4YWtSbXdIRWdNNnQ0UDhHbnNXMnFkWkcwei1oQ0pYTEFqQjcxOXlHMlNfY1U1WXNST1lCRlpmRl9lXzBzWW9kNlBaZHhfVUxFQWdHRzFvLTJDZWRkNnh1bjdnbGkxem1ZZGxXNUw4a1ZzQm9IUmJVUUd4Ynl3WTlGSWRDMkFGSzF3b1hCSUpWR2c1TnFDVVI3YVg0NWozadIBpgFBVV95cUxQcjZGd3c0emRJTjNyQmdkbGVFajdndU5iNUhGMVZBSFBXT2NGTHVvcHVaQXNROXZ1VzJ4ZWthR3BvQmVkT1ZoWHg0NHlLNk1MT19uLVhLZmJoOXVsakVtU2g0bk5Xekp2bS1KZ040QldaVndXRWVyazd0ZFZ6b1pkOTYtdjNqRW9Pb2N1dXlZT0oycjNOZTkyRWJlRUQyWmR3Tk9uV1hB?oc=5",
+          "description": "I cinque sorpassi dell’Italia: dal Pil pro capite all'export e allo spread sotto la Francia Il Messaggero Urso, i dati dell'Istat ci confermano che siamo sulla strada giusta ANSA Istat, prospettive internazionali incerte ma Italia torna a crescere Borsa Italiana L’Italia macina record e lascia indietro Francia, Germania e Giappone: i sorpassi che smentiscono i profeti del declino Secolo d'Italia F",
+          "pubDate": "Sat, 12 Sep 2026 09:36:02 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "west nile italia 590 casi europa",
+      "label": "Febbre del Nilo: 590 casi in Italia, paese primo in Europa per contagi",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "salute",
+      "macro_area": "clima-salute",
+      "richness": 3,
+      "score": 13,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-health",
+          "title": "Febbre del Nilo, 1.285 casi in Europa di cui 590 in Italia: ecco dove - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0RDd2FhRUJQcFJCSktXWExyQWx3TDZiT0JuM2JxQzR0MU9QVjlzSXBHcEp5dVVtN1RFdzhGY21SYjlZZ3QtU2dqUG1TbU1hYzRyNDExRl9JOWk5YXZsbkh3dFVMQV9iZlFDZmJhdkcxbE9QcXVDZ28yaXNkNldIMnpnU3Y3NHc?oc=5",
+          "description": "Febbre del Nilo, 1.285 casi in Europa di cui 590 in Italia: ecco dove Sky TG24 Italia prima in Europa per casi di febbre del Nilo: 590 casi su 1.285 totali nel 2026 Il Sole 24 ORE Europa: sicurezza sanitaria, tra preoccupazioni e consigli per affrontare West Nile virus -2- Il Sole 24 ORE West Nile. Ecdc: 1.285 casi in Europa dall’inizio della stagione Quotidiano Sanità Dengue: 2 focolai a Lecce e ",
+          "pubDate": "Fri, 11 Sep 2026 15:07:11 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "ericsson genova licenziamenti 131",
+      "label": "Ericsson cala la scure a Genova con 131 licenziamenti, dismissione ottica entro anno",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "lavoro",
+      "macro_area": "economia",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "sole24-economia",
+          "title": "Ericsson annuncia 131 licenziamenti a Genova",
+          "link": "https://www.ilsole24ore.com/art/ericsson-annuncia-131-licenziamenti-genova-AJ3kJWAB",
+          "description": "La multinazionale svedese delle telecomunicazioni Ericsson ha avviato una procedura di licenziamento collettivo per 131 dipendenti a Genova. Una lettera del gruppo, che lo annuncia, è stata recapitata ai lavoratori...",
+          "pubDate": "Fri, 11 Sep 2026 12:39:32 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Ericsson cala la scure a Genova, partiti 131 licenziamenti: “Dismissione totale dell'Ottica entro fine anno” - Il Secolo XIX",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWVFWWTZMQXF6em9LMUlwNXRJOGd3bjBWMUVIcnVteHJOb1pQSUNBVjBZZXp0V1V1Z1JTcVFMckYtNUJtNDluYU9WZ2o3Wml6a1NsTWxSQXdwOGk0OFl6bDlqVU00eVBmQWZtajZGUzVtdmhZWGdDWGxYWVBfblBTZnFodGY0S1pwa21ibjgtUFpiaDZPcjNhWmVfN1ZzUFY0NVdKaGYtSmo0VVBWVmNhRlRqd2VNRzVuaDJ2N2xvS09xeDRndjUwMmFENXVmcjBONjl2UDZ2bjRyT1dVWTVkeTJNQl9PeXpEa2c?oc=5",
+          "description": "Ericsson cala la scure a Genova, partiti 131 licenziamenti: “Dismissione totale dell'Ottica entro fine anno” Il Secolo XIX",
+          "pubDate": "Fri, 11 Sep 2026 08:42:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "app io wallet documenti digitali",
+      "label": "App IO Wallet si amplia: arrivano ISEE, tessera elettorale e titoli di studio",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "tech-policy",
+      "macro_area": "tech-ai",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "App IO, il Wallet si amplia: arrivano Isee, tessera elettorale e titoli di studio - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVjBFY2pOLWpCY0hsa2Z6emtOWE5fTi1WM2xGSktUU3JGOF9Nd0E0dTFhZmZRY2pxVGUwM2tZbkRYbU1wUktiY3NEaWY4cTYtVzZSdWVzcHNRWmxJS0dUdWQ2ZU9uRWYzb1UtdTVEUUkzc1lqUEtGckpGRkpFV3R5Slo3SERrTTRCSGlPYmZsdGZITDY4V25nUWFLRXpYQjRpVFdCOHByZmxIOTRrdjVzUjd3Mk1KZmZuTGpfQzRFbVJXejhxcktDLTJDTlBqR285OWl4aHp6ZlVrZEw5YmJMVkROekVZVjhyNk9mSXZINGZ0QdIB9wFBVV95cUxOM0hMaUNES2FFRndXNk8zaWpENDl5M3BrSG9nUTBxUUlRMHRxaDJ0dFhab2tXUXZSV25TYzRvV0lUVm1qc0U3ZG1Ed1FYZUE3ZExIS1ZFMnBYTExINjR0VVdYUk1Db1hoRkt3NG5jOE43SmJ6NURNSDZSeWVjYkZzUmJKQjRFRzU2R0FVZlNjQVVLemxSTU10aHc0UjZpVlQxSENHMGxCQVFEUE1EclBXZWd4OHpVcEJWeG5iYlB1UTdSNEZoakZWTjl2ci1McFlMdTFmQURQNEh2MDJzMGpSd21LY3F3NVk2cVNjcFl0czJ3Q3lETTNr?oc=5",
+          "description": "App IO, il Wallet si amplia: arrivano Isee, tessera elettorale e titoli di studio RaiNews It-Wallet, in arrivo nuovi documenti sull'App IO: ecco quali e cosa sapere Sky TG24 App Io, nel wallett arrivano Isee e certificati anagrafici PA Magazine IT-Wallet si apre ai privati: Intesa accreditata come verificatore HDblog.it L'IT Wallet diventerà finalmente una app utile? Ecco le novità in arrivo nel p",
+          "pubDate": "Thu, 10 Sep 2026 06:43:25 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "putin truppe europee kiev",
+      "label": "Putin avverte: truppe europee a Kiev equivale a guerra con Mosca",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Ucraina Russia, Putin: \"Mandare truppe europee a Kiev è come guerra a Mosca\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeDNiYTZmaXlFRzRZQmNQYlBES2NXU3RYLXpUM1hmRVFNZmNxSGFhUTZYQm9uZWM5WmZVd1J0Z2NUc3lybTloODBDTzVjLVIwRkwzWl9EQ0xFREZ0bXR1R1FLMmhRV0UzOGZwMzZ1QjBJb0ZmVFZ4SmxkdTF2YTFqb1R6THI1SVdf?oc=5",
+          "description": "Guerra Ucraina Russia, Putin: \"Mandare truppe europee a Kiev è come guerra a Mosca\" Sky TG24 Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Sat, 12 Sep 2026 04:44:06 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "corea del nord missile giappone",
+      "label": "Corea del Nord lancia missile non identificato verso Mar del Giappone",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Seul: \"La Corea del Nord ha lanciato un missile non identificato verso il mar del Giappone\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUGhNQl9Wb2kxdlJfSC0tcW1xTXBuR0p0VW5TMW1VRlVsdFVkV2tjNHMybkhzaUZ5dTh0a2xwQWo3Z25DeUJWUEQyUU9ORVhjWmNNR0hDWXYwOHp0OTZFT25NN09yYy1ILWRXcVZudUJEX0N4UDlkR05iUzdKbk5yWUF1VlFXUmVWX3o0M2p0VV9mLTJ6T0pITmxXUXJ0RnJtdVhJ0gFoQVVfeXFMT2JTU2d1NU9vbG9tZ2NmQ3BqNGE0ZS1hVlZpX1pYMTdkSmtjREZIaFp5RVpqdE0yN2ZyTklJTEkycktPWkZLQlRyR0xhRk5JT3U5TTc0cmY1R1ZDcS1UY3Fsa3VaVGpxUDA?oc=5",
+          "description": "Seul: \"La Corea del Nord ha lanciato un missile non identificato verso il mar del Giappone\" Tgcom24 Seul, Corea del Nord ha lanciato un proiettile verso il mar del Giappone ANSA UFS 2026, Trump ridimensiona le esercitazioni militari Usa-Corea del Sud: i rischi per la deterrenza Il Riformista",
+          "pubDate": "Sat, 12 Sep 2026 05:14:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "svezia elezioni britannici espulsione",
+      "label": "Svezia alle urne, divisioni su espulsione britannici da elezioni",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "La Svezia va alle urne. E si divide anche sull'espulsione dei britannici - Avvenire",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTkgzT00yN0hMS1MtTXA1ZWZHS1I4M0g1REk3MTNJWmFHRjRaRGkxaXF1cUlXdHE0MlJBLWhwdzJxVGVpcXI1UmpJTlV2TzRMM3ZqaGNmaE0xUW8yaHhUOHdKLWxVWkZjZHpPajNhMDFNTXNrWXEwN3NVYUZrVEt4MU95NTlyZXF0T0NPS0dUaEdDRVp3MDZ5dHR1U1VZMWVmdnppS0taMmJHaVk?oc=5",
+          "description": "La Svezia va alle urne. E si divide anche sull'espulsione dei britannici Avvenire La Svezia va al voto, testa a testa con l'incognita ultradestra ANSA Svezia, l'ombra dell'estrema destra sulle elezioni Corriere della Sera Il modello svedese alla prova del voto. Destra e sinistra divise da un seggio La Stampa Gli svedesi votano spaccati su molto ma uniti contro il Cremlino Il Foglio",
+          "pubDate": "Fri, 11 Sep 2026 14:30:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "occupazione italia istat record",
+      "label": "Tasso di occupazione italiano raggiunge record al 63,1% nel Q2",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "lavoro",
+      "macro_area": "economia",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Istat, nel secondo trimestre tasso di occupazione record al 63,1% - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOc1hvRlhhdkN6UTBiRFdNdHc3QW1nTjZaV3R3d2JxbUNVME1qM3RXdXUxSXQ2TjU5eDRlVm1ORnNCc2VxdzR2QlJZT01wdE9pRGFnSkx5OWx1OGcyZjVjbjdQbG05NXdQR0k4dnRQYVFRVWlzWmxXUnFpUEZFaG1qSWNTZ0wyRW9hSUVueG5YRUhBSHN6X01OUnQ2c2NTWDRlMm9TcnlPOHVZaWN4blVxQWUyeDdFV09BeUNaZW9oZnhNVG03cVdNclZsb3lDQ1F5dmhyajQtVnhWNTRZVmlNYVZfSlp0d9IB6wFBVV95cUxPRUxIUVdRa3NRZktEWEVhbTRGeTVRTk1veVExY0VTZ3hNMHZ2NGpMd3ZMUlVSOE9iMDh5S0Q1dWlIQ0x1TnNFbm1ENW1CV01ZNWxWZ3BrVzFsUHhzX2lQTE9maW1mNnZJZHNkSHcxbmwtdnlfYVFmY0VKckNqWUVnVFhyRUhZeXg4RU9raU9TcHVCQjZwejNtTHR4NWtVOS10MmJNUnVzdm51TTBaTGJFNUk1MHZVeDNlSzZxYjdic0NiTlAtVlREQ3E4VEQ0T3NjakpuYjY2T04yY0hzeS1ySllXaURWem5BV2Jn?oc=5",
+          "description": "Istat, nel secondo trimestre tasso di occupazione record al 63,1% ANSA Lavoro, occupati crescono di 155 mila unità nel 2° trimestre Borsa Italiana Torna il tempo indeterminato ma la Gen Z resta fuori dal «gioco» L'Eco di Bergamo Lavoro: Sbarra, record storico per il Mezzogiorno con occupazione al 51,1% Il Sole 24 ORE Buone notizie dall'Istat. L'occupazione è da record e l'export del Sud vola HuffP",
+          "pubDate": "Fri, 11 Sep 2026 08:32:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    }
+  ]
+}

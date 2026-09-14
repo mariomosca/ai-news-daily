@@ -1,0 +1,925 @@
+{
+  "date": "2026-08-12",
+  "top_topics": [
+    {
+      "keyword": "italia",
+      "n_items": 31,
+      "n_sources": 12,
+      "category": "tech-ai",
+      "score": 378,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ceuta, l'allerta degli 007 italiani: moto d'acqua e settemila euro, così i migranti vanno in Spagna - Il Mattino",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeFdrdll5bGFwWUFzcHIzSUx2WklqeFZBR05ITXpPUXRiZjhRdDloa21jYnhXaWtCMFRndXpDb0ZaU3BuRjkzSzlzbW8yZW55NGRzcUxaTmNERTRUZkZ3dnBwdFVtY3FVeVoyZUU1ejI4YVRFd25oLU4yanRWd3d4SVBwUlBtdXdxZ2ZTNGhzZ2gtRjBVV3BOTEp1N1VJLXJuaHNDUVhMbTVld9IBpgFBVV95cUxQX045WnBYQ0ZScFo0TW5UVDlPMHM0RUNBZkY0c2JqZEg1cURmRHlDYVNFRWpIcHN2aWVDS0xocEV6Q3VXQXhkX2k2MG52MTI3OWZYZ3NZYXRGWFd6QVI4bzJGRWtyQzdEd0tlQzNDR3JKcDhkb3pjbW1DdXB1Q1lLMHpzWDl6UktsUWY3T2otS28zY2dJYl9uZWUtakpmdUViQTZoQmZ3?oc=5",
+          "description": "Ceuta, l'allerta degli 007 italiani: moto d'acqua e settemila euro, così i migranti vanno in Spagna Il Mattino Una folla senza indirizzo corriere.it Nuovo affondo della Spagna: “La linea di Roma su Ceuta dettata da ragioni elettorali” la Repubblica Migranti, a Ceuta “rischio terrorismo”. Meloni: \"No a immigrazione incontrollata\" tg24.sky.it Albares a migranti, 'non rischiate la vita, irregolari ve",
+          "pubDate": "Tue, 11 Aug 2026 10:21:51 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Il petrolio sale di oltre il 2% mentre svaniscono le speranze di pace USA-Iran e persistono i rischi su Hormuz - Yahoo Finanza",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeVFjX2hOMXlqd2VnTkZzXzR5aHRpZzdZMmZnX2pWdE4tTDBpRUpEMHpJRkdtZ2lDandwWWFubFB0ejRLdXhQa3lkWUFiYWJnNjlFUXJ5LXhHWm1saUN2ZmxESmpUTlhtZ0VmYXlwd284RmRoUEE1X3I2RVJQRlVOWHJhRQ?oc=5",
+          "description": "Il petrolio sale di oltre il 2% mentre svaniscono le speranze di pace USA-Iran e persistono i rischi su Hormuz Yahoo Finanza Il petrolio chiude in rialzo a New York ma sotto 90 dollari, a 82,95 dollari ANSA Volatilità sul petrolio, borse europee sottotono rainews.it Il petrolio azzera i guadagni e vira in negativo in scia ai nuovi segnali di ottimismo dal Pakistan Borsa Italiana Wall Street: apre ",
+          "pubDate": "Tue, 11 Aug 2026 09:02:16 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Ok dal Parlamento turco a legge storica per un'amnistia limitata ai militanti Pkk - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZGpRbGJocEUtWUt4WTRfR2ZUdHdpbG5EZlpXS2J5TVY2VVJSVzJQVndXVWtSQ1lOT05OeTZsM3dkNmtidVhkLWliZUpzSTFCaTJ5Yzg1cUhyV0VmeXl0NmxhbkVmaDROVXBxNk1aaVJuREVEbHc3OUk0S3c2X0RSUWM2ZlQ3Ti1YaG5Rb2JVbmZ2bkFvSDNKYU9NcGhmQzVEQ0NLc1NRSWx6ZEFxM0pzQlA4U0VsUEo4SHpVd2QwN3pmVkI0RzU5bS1lQWg4TjJ0empGdDFkUWEzRUdJaG5XWE9mRGFMbEpraTdQelU5T3BIQVRVSUozNGZ6RHF2YXZwMnpaSg?oc=5",
+          "description": "Ok dal Parlamento turco a legge storica per un'amnistia limitata ai militanti Pkk ANSA Ankara approva una legge storica sul reinserimento dei combattenti del PKK rainews.it La Turchia ha fatto un passo importante nel processo di pace con il PKK Il Post L'indulto per i guerriglieri curdi. Erdoğan impone ancora la sua legge in Turchia HuffPost Italia Collegamento con Mariano Giustino da Ankara sulla",
+          "pubDate": "Mon, 10 Aug 2026 19:56:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Tajani “Arabia Saudita partner strategico per l’Italia e la stabilità regionale” - Il Tirreno",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOa0lwelNYNUpmUS0yN25hRm9tRW16MFM5M2YtLTdSMDVWOWFkZ3FoN2EwV1dBYllCVV9nVlJYcEpzNkFKQTJ2b3gwNEdoUVRNZklFdy1uRlZYRTBTVmVYWWdRRTFGcTBuYWRlSmgyaFBqWE5uMkcyZnR1VVFEQjVlelRjQ1FtMXRqRXlIRGtZMnZpUTN1SmpDZGZTMC1na2lpeThiYTAxc1RzUTlUT3RUQTlWcmpCNFRTVUdMZ1hhbDVIWTllWE4yWjJ4ZEUtNnBWZVN3OTR4clNYdG9oeHZ5SGFQZTM?oc=5",
+          "description": "Tajani “Arabia Saudita partner strategico per l’Italia e la stabilità regionale” Il Tirreno Intervista Tajani ad Asharq Al-Awsat: “Arabia Saudita, partner strategico per l’Italia e la stabilità regionale” Ministero degli Affari Esteri e della Cooperazione Internazionale Tajani \"Arabia Saudita partner strategico per l'Italia e la stabilità regionale\" Virgilio Tajani: l’Arabia Saudita è un partner e",
+          "pubDate": "Tue, 11 Aug 2026 16:30:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Nell'Oristanese il primo Villaggio delle stelle in Italia",
+          "link": "https://www.ansa.it/sardegna/notizie/2026/08/11/in-sardegna-il-primo-villaggio-delle-stelle-in-italia_ee0fae25-85e7-4bc3-aaec-f36e3e795cf8.html",
+          "description": "Certificazione internazionale per il cielo di Allai",
+          "pubDate": "Tue, 11 Aug 2026 12:50:12 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "agosto",
+      "n_items": 16,
+      "n_sources": 8,
+      "category": "tech-ai",
+      "score": 134,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ondata di caldo, le previsioni: fino a Ferragosto punte di 39 gradi, poi correnti più fresche e forti temporali - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPU3VpckZrZGduR0MzakRyX1lLU0VOMVlJWUpkQWhvZmRWMVc2SEJSQ2UtMzlWMWNQcW93TXZ3UjNNazBHMF9OV2ZEOU1HeWZmUVBZZ0NCU2EzMmF0ZE1na2p3NlVlQktMbzBRN0g1bWNMQnB0bFJSUjJldzNYZWZPaWNPaE9IQTJ3b0RmQlU1MUNYY0tpNWNESzgtOWh5Mi05Qm9DZU9vamhObGVxUU16TXNpLVVzMzhSaVBqZXFab0hoRDVMYkZMZkJ2TUpmMEpfbUx3NVBRYkN1ZG1WdFNzYlVZUm1NNGJTZjlITFBDZWxBY3J2SUd6elFMTHhWS2JvTGN4NVR0QTZCanZGN2o5R3VOaG5sdzVjenlsdTc5MHp4aTE0SXFJcdIBrgJBVV95cUxOTlVhZmZnZzRKZmtBRG1KSkdpWW8tNl9raFJnRG9Wc0V2TmJvUVBGSkw0X0Rjc3VhRGYtS2RtTWYzRXhCUi1MR05nT2p5WGl2emJOUVh1alA4RTV4WjVQV0pxMWp2ajZ0SXFieVQyV2dXZmJDWHdKUDk2QzdiMkY1ZlhBbW8tQnBRbWhEbW1BaVk0WjVnbnVYSE9JTnIwVkVnTWQ0Sll1cXBpdTdYY3pWY1dzbFVLZDhXalNiQjV0LWVxV1NENk9DT3BVV1hSU1lFYjB6Q0FtcEdNNEVKN0lTbEdrLVFhMDdINlhLdXpILXRVdFlYcVZYOVc4ZVFrMlpzSWtyT1pOMERyNmcwRkQycFhpbmwtU1VSQ2E1MmJMNGM5YTJlWXdzcnRKYWVVUQ?oc=5",
+          "description": "Ondata di caldo, le previsioni: fino a Ferragosto punte di 39 gradi, poi correnti più fresche e forti temporali corriere.it Caldo, afa e notti super tropicali, ma arriva la svolta: ecco quando tg24.sky.it Previsioni meteo, caldo e afa fino a domenica. Perturbazione atlantica in arrivo dal 17 agosto la Repubblica Venti giorni di afa, l'ondata di caldo più lunga dell'estate ANSA Caldo, l'afa non mol",
+          "pubDate": "Tue, 11 Aug 2026 11:55:45 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Eclissi del 12 agosto, tra app e curiosità degli italiani",
+          "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/08/11/eclissi-del-12-agosto-tra-app-e-curiosita-degli-italiani_b5f4bd55-3ecf-44b3-8603-0bedc7a9bf97.html",
+          "description": "Mappe interattive e click perfetto. In Italia su Google raddoppiate ricerche in 7 giorni",
+          "pubDate": "Tue, 11 Aug 2026 17:00:35 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "L’INPS, con il messaggio n. 2601 del 10 agosto 2026, rende - lavorofacile.it",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR1VsTHEteHhteUFGNkw4MVVIZjdxRTA2UldLQkJwVzJ6T0Uxd1czbHFMMmNwZW9PZ0d0NTc0T211bGE0bE1zVHJkUmVmZkl1ZGU0SWVSSU9KS0g5Uzc2SDJUSVFudmRiUEFRWFZNaFVWQ2RKcU1zMlNpcE56SnZlcjVoeXBUU3JLREo2NllZSjN0M0xvQnYyTA?oc=5",
+          "description": "L’INPS, con il messaggio n. 2601 del 10 agosto 2026, rende lavorofacile.it Fondo di garanzia TFR: nuove procedure INPS edotto.com",
+          "pubDate": "Tue, 11 Aug 2026 07:48:36 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Da mercoledì le nuove regole Ue sugli imballaggi, stretta su plastica monouso dal 2030",
+          "link": "https://www.ilsole24ore.com/art/da-mercoledi-nuove-regole-ue-imballaggi-stretta-plastica-monouso-2030-AJVS41j",
+          "description": "L’Unione europea si prepara a dire definitivamente addio agli imballaggi usa e getta, ma non nell’immediato. A partire dal 12 agosto 2026 si applicherà in tutti e 27 i Paesi...",
+          "pubDate": "Tue, 11 Aug 2026 18:05:53 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "FerX: dal 25 agosto le domande per incentivi fino a 27 GW di rinnovabili",
+          "link": "https://www.ilsole24ore.com/art/ferx-25-agosto-domande-incentivi-fino-27-gw-rinnovabili-AJN9jSj",
+          "description": "Pubblicate, con decreto direttoriale del Mase, le regole operative predisposte dal Gse per accedere alle aste",
+          "pubDate": "Tue, 11 Aug 2026 18:01:19 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "trump",
+      "n_items": 12,
+      "n_sources": 7,
+      "category": "geopolitica",
+      "score": 90,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "'Trump nascosto nel carrello del catering', la fuga da Ankara - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSWNEN3BsVmJObzdSV2NFSFNJMXU3TVdmbVdQN0t1X1g4a0RzbHIybVNoVjA4b3dIaFNZbGhjbk9GcEthM2xmazA5eFdEd3oyLTR3b0NOd2hXVXYtTnlhQ3otTno2Z3hTTTJkc3ExX0lyX3BQcEhfbEROemc5ZEo0UFo1cmdva3UzN0gwamJ4azBldFlneGx0YUppUDhYVVhsbEdLdTY5cEpCNzBPOWNIdjhxeDRrX2o3alA1Uy1mQUVYcW81WW9jeDFURllQZWRhRnNpVk40QW5WaTluMHhCNjllT3bSAeoBQVVfeXFMTldoTlMtcVBhMk5Jcmh6a3lKSWdfS3pPcDRjalRsZEFhVzVMVzZRSi1zOGl6bDF2SllZcVRUQjA3T0VnRXRfS3NZZHhKM1dVUk5IUDV1WWpfX2lhY1BnMW9XV3FCNlYtc0VrbWRiNVlpd3RScWpaT3dQQ19lR0VOeGFvdTNBdWM4NWROMjdGd1dBZHotREFwM19BVVVZYW1EZW1oUGJHd3ZYSm11eXBWUnE1aWUxWU52UWg1eTJIdGtEXzNybFNycTNONDZPVm9xU0lOSU1VdHZ1ZVJWUGZJQ2FUWW1RMmdYY1p3?oc=5",
+          "description": "'Trump nascosto nel carrello del catering', la fuga da Ankara ANSA Trump, volo segreto dopo vertice Nato in Turchia per minacce di attentato dall'Iran tg24.sky.it Joyce Sohyun Lee Il Foglio Trump sceso dall'Air Force One in segreto con un carrello catering Il Fatto Quotidiano Quando Trump è stato fatto scendere dall’Air Force One nascosto dentro un carrello Il Post",
+          "pubDate": "Tue, 11 Aug 2026 18:01:53 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Trump, volo segreto dopo vertice Nato in Turchia per minacce di attentato dall'Iran - tg24.sky.it",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQelh3M0gwSnlKbUFhSTlDOUtEMzNtTjVFTjhDWWNVTmNYMWdRU0dFRDhPZjVHRDhITUFyeFByWDdnNFZfNzBldUU2WG1XWlRnT3ZqUUVvWXhJOF9QYkpybmUzWDZFSVFRNVRpMUxQdkxObFdrMEZlQjVpcFh3NGNFS0JHQQ?oc=5",
+          "description": "Trump, volo segreto dopo vertice Nato in Turchia per minacce di attentato dall'Iran tg24.sky.it 'Trump nascosto nel carrello del catering', la fuga da Ankara ANSA Joyce Sohyun Lee Il Foglio Trump sceso dall'Air Force One in segreto con un carrello catering Il Fatto Quotidiano Quando Trump è stato fatto scendere dall’Air Force One nascosto dentro un carrello Il Post",
+          "pubDate": "Tue, 11 Aug 2026 16:22:06 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Live updates: Democrats Francesca Hong and David Crowley locked in tight race for Wisconsin governor - CNN",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNakUyUnprRl9EZ254QmpoSVdSeldRdUJaUEN1T0hfMURRaE5sSjFnMlRBWC1vcXg5bXNsb2Q2LVBIel80SlNvUUplMGd2c2ZQQXg3NWM0bkFxeDZOeEhEUExhbnNWcVMzZzZGQURnblFkY1NidlNwOERDbUVVeXNKSC1sNUlCT0dScC1VWg?oc=5",
+          "description": "Live updates: Democrats Francesca Hong and David Crowley locked in tight race for Wisconsin governor CNN Wisconsin Governor Primary Election 2026 Live Results: Hong, Tiffany and More NBC News Wisconsin’s razor thin margins have progressives worried Politico Trump’s ‘firewall’ against socialism in battleground state punches ticket to election Fox News Wisconsin governor primary: Democrats Crowley, ",
+          "pubDate": "Wed, 12 Aug 2026 03:46:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XUmJWU0hkazJFUk1NNjVUbUdILUJUZUlaRk9ZZ1B6N21KeWQwYmFLbDVpY29xcmJYOVlFTHR0NWdOcGg1ZG1LaUxUeFNOakU5ZDZlZF93U0tSQQ?oc=5",
+          "description": "Trump hid in catering truck in secret plane swap over Iran threat, reports say BBC Trump says security threat spurred secret plane swap in Turkey NBC News Trump used elaborate ruse to fly out of Turkey following summit because of Iran threat, report says NBC4 Washington Trump says his plane faced 'greater risk' in flight change Reuters Trump Says Secret Service Ordered Air Force One Swap The New Y",
+          "pubDate": "Tue, 11 Aug 2026 23:04:06 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "It's official: Amy Klobuchar is Democrats' pick to succeed Gov. Tim Walz - Axios",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNDFhcUtjTEdKU0Zva3JjQ0w3Y25VcEpFNEMzMlU0YVlfdDJfMEtHdUtodWhvck1qUGdrN0tzTXkxYjNieXpsTjdFanNYVmVITDRtV01oRU14M2Q5Zmp4NFlySUdxUnRFTVFWWm1XLUxMNUJiQk94eGl4VjBsdmI3TXFsVjktNEVDQUNjYUFlOFhZa05nVTluQUVPdEs5RW8?oc=5",
+          "description": "It's official: Amy Klobuchar is Democrats' pick to succeed Gov. Tim Walz Axios Minnesota GOP picks Lisa Demuth over Trump-backed Mike Lindell for governor against Democrat Amy Klobuchar NBC News MN Gubernatorial primary: GOP candidate Lisa Demuth FOX 9 Minneapolis-St. Paul Failed presidential candidate wins Dem primary for Midwest governor amid fraud scandal fallout Fox News Live: Klobuchar and De",
+          "pubDate": "Wed, 12 Aug 2026 01:36:35 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "iran",
+      "n_items": 13,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 84,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Iran, Pakistan: 'Vicini a una sorta di accordo con Stati Uniti' - tg24.sky.it",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONW1UU1pxNWRLUEMzR3E1X1BxWFo2V19MZDU3SDNNWmQyQ0h5NlNJaGxtcVNpQnZfLXhsRlp1M1RidnowVVJueHdKdXpQbUsyT2tuSHdRczhGYUZMai02b2k0cVZGcDNXeUNuNTZoLW9fSmVqMFRpb0l0NlNhREdxajVsOEF6dw?oc=5",
+          "description": "Iran, Pakistan: 'Vicini a una sorta di accordo con Stati Uniti' tg24.sky.it Guerra Usa-Iran, le notizie in diretta | Elicottero Usa spara contro una nave panamense che tenta di forzato il blocco a Hormuz. Pakistan: Washington e Teheran vicine a un accordo. Houthi colpiscono una nave nel Mar Rosso corriere.it Guerra negli stretti: Usa attaccano cargo, Houthi uccidono 4 marinai Il Fatto Quotidiano W",
+          "pubDate": "Tue, 11 Aug 2026 21:58:57 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "'Trump nascosto nel carrello del catering', la fuga da Ankara - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSWNEN3BsVmJObzdSV2NFSFNJMXU3TVdmbVdQN0t1X1g4a0RzbHIybVNoVjA4b3dIaFNZbGhjbk9GcEthM2xmazA5eFdEd3oyLTR3b0NOd2hXVXYtTnlhQ3otTno2Z3hTTTJkc3ExX0lyX3BQcEhfbEROemc5ZEo0UFo1cmdva3UzN0gwamJ4azBldFlneGx0YUppUDhYVVhsbEdLdTY5cEpCNzBPOWNIdjhxeDRrX2o3alA1Uy1mQUVYcW81WW9jeDFURllQZWRhRnNpVk40QW5WaTluMHhCNjllT3bSAeoBQVVfeXFMTldoTlMtcVBhMk5Jcmh6a3lKSWdfS3pPcDRjalRsZEFhVzVMVzZRSi1zOGl6bDF2SllZcVRUQjA3T0VnRXRfS3NZZHhKM1dVUk5IUDV1WWpfX2lhY1BnMW9XV3FCNlYtc0VrbWRiNVlpd3RScWpaT3dQQ19lR0VOeGFvdTNBdWM4NWROMjdGd1dBZHotREFwM19BVVVZYW1EZW1oUGJHd3ZYSm11eXBWUnE1aWUxWU52UWg1eTJIdGtEXzNybFNycTNONDZPVm9xU0lOSU1VdHZ1ZVJWUGZJQ2FUWW1RMmdYY1p3?oc=5",
+          "description": "'Trump nascosto nel carrello del catering', la fuga da Ankara ANSA Trump, volo segreto dopo vertice Nato in Turchia per minacce di attentato dall'Iran tg24.sky.it Joyce Sohyun Lee Il Foglio Trump sceso dall'Air Force One in segreto con un carrello catering Il Fatto Quotidiano Quando Trump è stato fatto scendere dall’Air Force One nascosto dentro un carrello Il Post",
+          "pubDate": "Tue, 11 Aug 2026 18:01:53 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Il petrolio sale di oltre il 2% mentre svaniscono le speranze di pace USA-Iran e persistono i rischi su Hormuz - Yahoo Finanza",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeVFjX2hOMXlqd2VnTkZzXzR5aHRpZzdZMmZnX2pWdE4tTDBpRUpEMHpJRkdtZ2lDandwWWFubFB0ejRLdXhQa3lkWUFiYWJnNjlFUXJ5LXhHWm1saUN2ZmxESmpUTlhtZ0VmYXlwd284RmRoUEE1X3I2RVJQRlVOWHJhRQ?oc=5",
+          "description": "Il petrolio sale di oltre il 2% mentre svaniscono le speranze di pace USA-Iran e persistono i rischi su Hormuz Yahoo Finanza Il petrolio chiude in rialzo a New York ma sotto 90 dollari, a 82,95 dollari ANSA Volatilità sul petrolio, borse europee sottotono rainews.it Il petrolio azzera i guadagni e vira in negativo in scia ai nuovi segnali di ottimismo dal Pakistan Borsa Italiana Wall Street: apre ",
+          "pubDate": "Tue, 11 Aug 2026 09:02:16 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra negli stretti: Usa attaccano cargo, Houthi uccidono 4 marinai - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOTVpRG5IdEJaXzZjQTZBVmZfcXJyaFNsanFkNWIxR1JTVk5WdUJiRFpBSFpYekRTNHhjcHVkTnBrY0oyRDRkXzRiMUtoajY1N2VpOXUyUFVQMVVienpVUnVMZFJYdXNmdXZ3ajI0eGE2dUM4T2NPNFNvQWNfdWdrTm5SV2dndUJzM094bHNRUFZYN1kwVG80?oc=5",
+          "description": "Guerra negli stretti: Usa attaccano cargo, Houthi uccidono 4 marinai Il Fatto Quotidiano Guerra Usa-Iran, le notizie in diretta | Elicottero Usa spara contro una nave panamense che tenta di forzato il blocco a Hormuz. Pakistan: Washington e Teheran vicine a un accordo. Houthi colpiscono una nave nel Mar Rosso corriere.it Iran, Pakistan: 'Vicini a una sorta di accordo con Stati Uniti' tg24.sky.it W",
+          "pubDate": "Tue, 11 Aug 2026 16:49:56 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Mercantile colpito nel Mar Rosso, quattro i morti. Lo Yemen accusa gli Houthi dell'attacco - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNFhkOWFZaDdkRTIwR2U4WVhXMDBJRUM0d3RYQnJvdndnci11MUtnNHJLYTNEN0U3RkRXUWxPVUk4Qms0bng0aGZfVjFfWmhodlJiZ3duQkdyS1RvUEFoMGxrYXg4bGxQb3JxaW1pWDlza0xMM2FPcDBiTU5OUUZSanM1WFlRZkp0Z1FyaWFmZUlsdUw5Rk5xN0ZoUUFYdlhWM3YtMVA3REY4ampIYW82Z1A0Wng0SlhiMDhRZ2gtX0hjMVB0WXNlcUd0czZFT3A2cTI2MGZGdC0xTENneGRV0gHkAUFVX3lxTE1wUW1uem8tbm1RT2dCU1RORElzelh0TGpBbTRHSmE0RjhxVUlnenh2SXBaQU5KZE5lVEduaGtJWm1WSFFSWDRZMnA2b2ZXWjNJRmF3SHR5cWE4RGxvTDlZOEViQldMcUxpbktUVTlMR1gzT1ZhdnphMVBQM3ZFVnJjT1RCUkstME5FdFBZSENfREcwN0RkcWtlQTA2bHo1TDVEY1pTZWVJd0NDa212RnE0M1FmUVpkNEt4RHk0ajNJWHQ1Y0R3SlpWbkhuaHlGQXNXMG42NXZkbm15V3MxemlpWVcwNw?oc=5",
+          "description": "Mercantile colpito nel Mar Rosso, quattro i morti. Lo Yemen accusa gli Houthi dell'attacco ANSA La guerra negli Stretti, 'prime vittime degli Houthi nel Mar Rosso' ANSA Houthi attaccano una nave nel Mar Rosso, sei morti. Pakistan: Usa e Iran vicini a un accordo - Media Libano: bombardamento massiccio di Israele nel sud del Paese rainews.it Yemen accusa Houthi per attacco a nave nel Mar Rosso: '6 i",
+          "pubDate": "Tue, 11 Aug 2026 11:26:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "nuovo",
+      "n_items": 10,
+      "n_sources": 6,
+      "category": "general",
+      "score": 60,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ceuta, l'allerta degli 007 italiani: moto d'acqua e settemila euro, così i migranti vanno in Spagna - Il Mattino",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeFdrdll5bGFwWUFzcHIzSUx2WklqeFZBR05ITXpPUXRiZjhRdDloa21jYnhXaWtCMFRndXpDb0ZaU3BuRjkzSzlzbW8yZW55NGRzcUxaTmNERTRUZkZ3dnBwdFVtY3FVeVoyZUU1ejI4YVRFd25oLU4yanRWd3d4SVBwUlBtdXdxZ2ZTNGhzZ2gtRjBVV3BOTEp1N1VJLXJuaHNDUVhMbTVld9IBpgFBVV95cUxQX045WnBYQ0ZScFo0TW5UVDlPMHM0RUNBZkY0c2JqZEg1cURmRHlDYVNFRWpIcHN2aWVDS0xocEV6Q3VXQXhkX2k2MG52MTI3OWZYZ3NZYXRGWFd6QVI4bzJGRWtyQzdEd0tlQzNDR3JKcDhkb3pjbW1DdXB1Q1lLMHpzWDl6UktsUWY3T2otS28zY2dJYl9uZWUtakpmdUViQTZoQmZ3?oc=5",
+          "description": "Ceuta, l'allerta degli 007 italiani: moto d'acqua e settemila euro, così i migranti vanno in Spagna Il Mattino Una folla senza indirizzo corriere.it Nuovo affondo della Spagna: “La linea di Roma su Ceuta dettata da ragioni elettorali” la Repubblica Migranti, a Ceuta “rischio terrorismo”. Meloni: \"No a immigrazione incontrollata\" tg24.sky.it Albares a migranti, 'non rischiate la vita, irregolari ve",
+          "pubDate": "Tue, 11 Aug 2026 10:21:51 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Nuovo attacco di Madrid a Roma: 'Su Ceuta logiche elettorali'",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/08/11/comitato-schengen-convocato-giovedi-a-san-macuto-per-audizione-di-piantedosi_27dc23d9-1622-47e2-b6ba-03971d6857f5.html",
+          "description": "Albares: 'Rimpatrio per gli arrivi'. Salvini: 'Il 15 vediamo se Sanchez difenderà i confini'",
+          "pubDate": "Tue, 11 Aug 2026 23:03:48 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Gli Usa annunciano un nuovo round di negoziati tra Israele e Libano a Roma",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/11/gli-usa-annunciano-un-nuovo-round-di-negoziati-tra-israele-e-libano-a-roma_7a22301a-18cc-45bb-b62f-614223302484.html",
+          "description": "A inizio settembre",
+          "pubDate": "Tue, 11 Aug 2026 18:38:06 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Ecco GPT 5.6 Cyber: risponde al 95% delle richieste avanzate di cybersecurity - DDay.it",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWmRxMHJkVE9KdE9pRFlpQzR4cmNmNTFkMlNqMmI0bEdZTi1ONUd1RF94d05CU2tmN1dGYmtaNFpWQ1ZSR3BXQ1l1WmZadUFfb19YcExtM0FZdHRESzhvUWJDd3B6VmZMMXBOM3FReUNoRjlEMEN3NVRFME9zTGZxWnFCam9hSzVwYUFWVVRqY0s0bGdqTDk1ck5qWE9PbEFlZDBjalUwRWdPZTM0OWNB?oc=5",
+          "description": "Ecco GPT 5.6 Cyber: risponde al 95% delle richieste avanzate di cybersecurity DDay.it OpenAI lancia GPT-5.6-Cyber, il modello AI per la cybersecurity avanzata Fastweb OpenAI sospende alcuni test sul modello Astra: i sistemi di sicurezza oggi in uso non bastano più corriere.it OpenAI blocca un nuovo modello: troppi pericoli. E Trump stringe i controlli sui colossi tech la Repubblica OpenAI rilascia",
+          "pubDate": "Tue, 11 Aug 2026 07:31:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Aiuti 4.0 al countdown. Dal 10/9 le precompilate, dal 6/10 le domande - italiaoggi.it",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdHlqQmdYcVp1SDhtU0lVVC1Sdno2Wmd0N3V2aUtmcjlWTXlXbjBNZ3c0MTdzb1R5dFc1M2JhdHJ1amtIQ2dhaXk5cTY4b3RMMGNSUG5WY3BCN1hFNno3UU5RRU5UWXBHWVo3ek9YVGRsclVnSGlwSXZGanJSZmhuSDhTX1VHcW12ZXU0WWtGVHZFNlEwTVNqWjBXUmwwY2EyekNObElYYm9PeFA0ekVDWF9zcUVrZ19h?oc=5",
+          "description": "Aiuti 4.0 al countdown. Dal 10/9 le precompilate, dal 6/10 le domande italiaoggi.it Investimenti sostenibili 4.0 (2026) mimit.gov.it Credito d’imposta per investimenti: più tempo per l’invio della comunicazione informazionefiscale.it Investimenti sostenibili 4.0 2026, a ottobre il nuovo sportello per le PMI del Sud Innovation Post Investimenti sostenibili, 448 milioni per la transizione Cremonaogg",
+          "pubDate": "Tue, 11 Aug 2026 00:00:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "wall",
+      "n_items": 8,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 54,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Il petrolio sale di oltre il 2% mentre svaniscono le speranze di pace USA-Iran e persistono i rischi su Hormuz - Yahoo Finanza",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeVFjX2hOMXlqd2VnTkZzXzR5aHRpZzdZMmZnX2pWdE4tTDBpRUpEMHpJRkdtZ2lDandwWWFubFB0ejRLdXhQa3lkWUFiYWJnNjlFUXJ5LXhHWm1saUN2ZmxESmpUTlhtZ0VmYXlwd284RmRoUEE1X3I2RVJQRlVOWHJhRQ?oc=5",
+          "description": "Il petrolio sale di oltre il 2% mentre svaniscono le speranze di pace USA-Iran e persistono i rischi su Hormuz Yahoo Finanza Il petrolio chiude in rialzo a New York ma sotto 90 dollari, a 82,95 dollari ANSA Volatilità sul petrolio, borse europee sottotono rainews.it Il petrolio azzera i guadagni e vira in negativo in scia ai nuovi segnali di ottimismo dal Pakistan Borsa Italiana Wall Street: apre ",
+          "pubDate": "Tue, 11 Aug 2026 09:02:16 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Live updates: Democrats Francesca Hong and David Crowley locked in tight race for Wisconsin governor - CNN",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNakUyUnprRl9EZ254QmpoSVdSeldRdUJaUEN1T0hfMURRaE5sSjFnMlRBWC1vcXg5bXNsb2Q2LVBIel80SlNvUUplMGd2c2ZQQXg3NWM0bkFxeDZOeEhEUExhbnNWcVMzZzZGQURnblFkY1NidlNwOERDbUVVeXNKSC1sNUlCT0dScC1VWg?oc=5",
+          "description": "Live updates: Democrats Francesca Hong and David Crowley locked in tight race for Wisconsin governor CNN Wisconsin Governor Primary Election 2026 Live Results: Hong, Tiffany and More NBC News Wisconsin’s razor thin margins have progressives worried Politico Trump’s ‘firewall’ against socialism in battleground state punches ticket to election Fox News Wisconsin governor primary: Democrats Crowley, ",
+          "pubDate": "Wed, 12 Aug 2026 03:46:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYU55bUVtSkMySDZUS2RPRWpBTTRRZHhucjFpaUxWM0RoV0NuMVFPNFh1T29XMkpSR1NYRm5Oc1hUc1hnWTNVOXd5T29qXzNVTWdxRWxpal9oT1VCNk1kQVNYeW9fVDBZNG1jODVJNHN3R0lMQ19KSmwtY2JNQXM1V3ptYk7SAYoBQVVfeXFMTmt2WjUtTThxd2gzZnhqcW8wejI3WWdRNDlaZGFLaVFTZXQyZ0tkLW80RW4wSXFoMDBlNTVjZ1pnNFBpQzBQZjJFY0xHQ3Q5S2p4OHdSV05QZi01eG5XcFFmOGVHWmV6MndsZ2dNNU9NLU9FVHUzMkpmaE1DTGVEcS12NXBHcl9CWlJ3?oc=5",
+          "description": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China CNBC Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now? CNBC As six of Wall Street's biggest financial institutions say 'yes' to Nvidia, company for the first time answers 'circular financing' accusations The Times of India Nvidia’s great silicon showdown The Economist NVIDIA Partners With Apollo, B",
+          "pubDate": "Tue, 11 Aug 2026 21:01:13 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: Europa positiva nel finale, Wall Street debole, Milano +0,2%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/borsa-europa-positiva-nel-finale-wall-street-debole-milano-02_0f4089d4-7089-4f9d-9f21-f4053c54ef1a.html",
+          "description": "Occhi sulla trattativa tra Iran e Oman, calano i rendimenti dei Btp",
+          "pubDate": "Tue, 11 Aug 2026 17:33:07 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Wall Street apre positiva, Dj a +0,23% e Nasdaq a +0,22%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/wall-street-apre-positiva-dj-a-023-e-nasdaq-a-022_81d8feaa-ed1e-4718-ab43-16df20e4e9f3.html",
+          "description": "In rialzo anche l'S 500 a +0,13%",
+          "pubDate": "Tue, 11 Aug 2026 15:37:54 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "google",
+      "n_items": 8,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 54,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "Eclissi del 12 agosto, tra app e curiosità degli italiani",
+          "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/08/11/eclissi-del-12-agosto-tra-app-e-curiosita-degli-italiani_b5f4bd55-3ecf-44b3-8603-0bedc7a9bf97.html",
+          "description": "Mappe interattive e click perfetto. In Italia su Google raddoppiate ricerche in 7 giorni",
+          "pubDate": "Tue, 11 Aug 2026 17:00:35 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "A giugno l'export sale dell'1,6%, +9,8% su base annua - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZGJVdExhME12UmFZWEItdUNEbTZibkg0NzJxX3R1RFZaa1hSakFfbEhlNVg3QU91M0VDMHcxSkxvNy0zVlpXeEtZemNrZHl0ZkM4ckZUVksxb3NPQjYydkhhZTBJbTdnOHRJaG5GYzBrSV9zY29HcGlNM1pZd3hXVndRTzUyQ2lkRVRGb3hHX1NYeGR1R3JOaEV0VjNKLU9qYS1iUkZNeWh6eXowMG1nTmY2UzlzaVNDc0NoZm5wRkpiUHJnUHEzVkExbTVzMWxfLVhJNTFB?oc=5",
+          "description": "A giugno l'export sale dell'1,6%, +9,8% su base annua ANSA Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Tue, 11 Aug 2026 08:10:00 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Google Wallet, arriva la paghetta digitale per i figli: come funziona e limiti di spesa - QuiFinanza",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWhEc2pEczJkMVl3bnVQaVU5MG5oVzFDaGhRU1dQekcyRGV5SVJUY1E0T2dsXzVIMmlid0pNampyX1lJb0hkbTBsV1hZMWs0SnZxdmdPdzRVSUt6WjcyT1RxXzNUd3BWOWpqaENzTUl6QmNlbkZ0b1lPWmRLRTRwQ21IN0ZwUdIBiwFBVV95cUxNbTcyaDhNM3JuSjFkTnVZN2ZRSG14ZjZ1M2g3ZzFDTFloRDczWlA1ZWxPWUpsQnJ3OHZEblpsZ2pnX3d5dlVYY1VsSXpVN3h5dVdmd3ZJMmhrREFuUEdWQUQxbmtha0xKUngxR3pDS2tLWndZM25VaC04XzkxdDFjZ0FMOUdkMl9ZOXI4?oc=5",
+          "description": "Google Wallet, arriva la paghetta digitale per i figli: come funziona e limiti di spesa QuiFinanza",
+          "pubDate": "Tue, 11 Aug 2026 05:00:08 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Authors Face Backlash For Participation In 2022 Google AI Study - Engadget",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOVR6YXd1TktyVlZZSFhiaUJodkhITmtVN0d6Yl83U3JUOUxhN0IzWTZGckl6cnk0TWVrMWtUcnJPZmdpTHRWN0cyQXk2OXpEZnVDN0ZoSERxLWZjUDNzUkxXQnJuUWd6YklWek9QUWRmbWdwc3gzRUhVR0Y4anZYV1ZfbV9Dbk1Jc0NMNHR2bWxZXzlZZnpqNVVEeU5SQQ?oc=5",
+          "description": "Authors Face Backlash For Participation In 2022 Google AI Study Engadget",
+          "pubDate": "Tue, 11 Aug 2026 18:24:38 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Google sends out $150 discount codes ahead of Pixel 11 pre-orders - 9to5Google",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14eVZ2NFZpVHctUGJhY2lIUFd4b0l5UjA3eElWZ2lLMWx4VjhGRGRzaVRVcVR2SjFBYjlsVWZKOXNLZ0wwRmp2anEyaGZSMHZ4TzNSaDBSekpKR1hrWWNkaFhPQnp4VFRGVFhyUmdON0VIaTN3aG9pMGJ3?oc=5",
+          "description": "Google sends out $150 discount codes ahead of Pixel 11 pre-orders 9to5Google What to expect from Google’s 2026 Pixel hardware launch event The Verge Made by Google 2026: Here's what to expect Mashable How Google’s Pixel 11 Pro Will Change Smartphones Forever Forbes Pixel 11 HiLight: What We Know and How It Might Work CNET",
+          "pubDate": "Wed, 12 Aug 2026 02:30:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "borsa",
+      "n_items": 11,
+      "n_sources": 4,
+      "category": "economia",
+      "score": 50,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Il petrolio sale di oltre il 2% mentre svaniscono le speranze di pace USA-Iran e persistono i rischi su Hormuz - Yahoo Finanza",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeVFjX2hOMXlqd2VnTkZzXzR5aHRpZzdZMmZnX2pWdE4tTDBpRUpEMHpJRkdtZ2lDandwWWFubFB0ejRLdXhQa3lkWUFiYWJnNjlFUXJ5LXhHWm1saUN2ZmxESmpUTlhtZ0VmYXlwd284RmRoUEE1X3I2RVJQRlVOWHJhRQ?oc=5",
+          "description": "Il petrolio sale di oltre il 2% mentre svaniscono le speranze di pace USA-Iran e persistono i rischi su Hormuz Yahoo Finanza Il petrolio chiude in rialzo a New York ma sotto 90 dollari, a 82,95 dollari ANSA Volatilità sul petrolio, borse europee sottotono rainews.it Il petrolio azzera i guadagni e vira in negativo in scia ai nuovi segnali di ottimismo dal Pakistan Borsa Italiana Wall Street: apre ",
+          "pubDate": "Tue, 11 Aug 2026 09:02:16 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Le Borse europee chiudono poco mosse mentre l'attenzione resta su Hormuz - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNmFEVkNwSlBtalN1c0EyUUFtLTVjT2VTTi1yUG5GQXZxczlPcS00Uk5CWmFlS2lucTdNTUpSRU1nUHNSZHdpVktqcklCemVDb090YndCYTRxdVM1RnR0cmhEZVhIZ2dFQWpJSTZMTnhMbHhFN2F5YkRtem05MmtVa3Izc3dSOVYybl9saTVhSW9rZ3Vhc1ZqdHJWUldIQ1NwMUxIeTN1Nks3SVBMcXE3SDU5a05INm50TTE0Z1huNGRMeVJWT2oxd1dvb2tPX29LNWZxOU02d0ozRjdNNmNRMkZpZkFNbWFCZGxVZUJQaDE?oc=5",
+          "description": "Le Borse europee chiudono poco mosse mentre l'attenzione resta su Hormuz Borsa Italiana Borse senza slancio tra incertezze Hormuz e altalena petrolio. A Milano (+0,1%) Eni in vetta Il Sole 24 ORE Borsa: Milano chiude in lieve rialzo, +0,08% ANSA Piazza Affari ferma a +0,08%, Eni e Azimut guidano il Ftse Mib SoldiOnline.it Borse europee in leggero rialzo con focus su notizie da Medio Oriente Borsa ",
+          "pubDate": "Tue, 11 Aug 2026 16:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Il caldo pesa sulle bollette: quanto costa tenere acceso il condizionatore tutto il giorno, le simulazioni - La Nazione",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY3R3YzRVeEctRjE2T0xhU2wwRkVBX2RIdVZkVTVwaHBKN19VV0NyblpmMlFUaG03SDEyNnlVNmlnd3F1WFpmZVNsRlROeDlVMGVqenNwX0F2VFFLYzFKTDZVUEt2bXgwdm1SOU1HMDFaenIxaFptQU1YZVFQQTc3RkRn?oc=5",
+          "description": "Il caldo pesa sulle bollette: quanto costa tenere acceso il condizionatore tutto il giorno, le simulazioni La Nazione Energia, picchi di consumo a causa del caldo ma il problema è il prezzo, non la produzione: Arera rafforza la vigilanza corriere.it Borsa elettrica, prezzo medio acquisto in rialzo a 186,72 euro/MWh Borsa Italiana Caldo record, ecco perché la bolletta può aumentare: il meteo decide",
+          "pubDate": "Tue, 11 Aug 2026 15:18:23 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Il paradosso energetico italiano: riserve piene, bollette ai massimi - rainews.it",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQY2xXUWs5RjdwWFd5TjFjblJmOWVWbmlMNFdpUWUySUpSeXVoOEo1WWkzbk5sOUZCRkF1QmNqaWtERmtIb1RHQVZHSUlyZ2hqU2FzOHNnRUhvTHY3XzBTUG9rRWRQdnpHWlIwRWpRY2lFOUtQOFhGLVJxWEJ1N085QTJpNnRxWWh1VDJvb0xEemN3cE1CeDVoaGo2eU5GVGhOSzlXQk1BUnF3S1o0MlJsaUlzOGJuN1llZDV4NEdycEZmdnJCZ2p3VklqWENBUVF6OGxTV2lLV1BETVQzelVqek1R0gHnAUFVX3lxTE1KcVhMV2p6NklYN2VDdmdvTXhhbUZDR2VrV3kzaGk4UGszQkYwcHU1ekdjSmRiWnJzbEpXU2ZNTEdwam1hRmxQNjY1YzIyaERIYlVmYzRuRS1wWVN3d1lpNjF3cE1HUmVnY256MkFBSEpSUHYzWWFuY213c0NrOTZQeGZGY1pDMTU5VXhYTG1kdDhxZTFqeFdvMktLaV91SkdSZ2hkWlZ3dTBnWHh3cmlWczIwN3pYYW9maHloaEoxdlRvWmFoS1BWR1VORmNhdk1aYndPMHJFcmd2WFhZUDNlWU9fbVFudw?oc=5",
+          "description": "Il paradosso energetico italiano: riserve piene, bollette ai massimi rainews.it Il gas riaggancia i 60 euro, attesa per negoziato tra Iran e Oman ANSA Natural Gas (Amsterdam) a 59,99 euro per Megawatt-Ora alle 19:30 Borsa Italiana Il gas europeo supera €61 mentre lo stallo a Hormuz riaccende i timori sull’offerta Yahoo Finanza Gas naturale in rialzo: future settembre a 61,3 euro/MWh SoldiOnline.it",
+          "pubDate": "Mon, 10 Aug 2026 15:20:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Come potrebbe cambiare EasyJet - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNalpjTkowMjFmZ1Q4S09pUzU3VXBQY0g1QVp4aW44M0Fud1ZCbUljbmlqWXpiY3V5bjQ2eXBycDdvQkkxNm15R1NQVjZzUENod1Q3UGZFMTJOc1BSMlZyc1hHdGo5SF9OTldzQkpHVDRIQjJZdURhTExiVWtveVlOWGRIeURHTkk2bkpDNmR6RQ?oc=5",
+          "description": "Come potrebbe cambiare EasyJet Il Post EasyJet, inizia l’era Apollo: trattative con Virgin sul lungo raggio Il Sole 24 ORE easyJet, Moody's pone rating sotto osservazione per possibile declassamento Borsa Italiana Come diventerà easyJet nelle mani di Apollo Italiavola & Travel – Easyjet meno low cost. I piani di Apollo: ecco cosa cambia per i passeggeri. Alleanza con Virgin la Repubblica",
+          "pubDate": "Tue, 11 Aug 2026 14:09:08 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "york",
+      "n_items": 8,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 46,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Il petrolio sale di oltre il 2% mentre svaniscono le speranze di pace USA-Iran e persistono i rischi su Hormuz - Yahoo Finanza",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeVFjX2hOMXlqd2VnTkZzXzR5aHRpZzdZMmZnX2pWdE4tTDBpRUpEMHpJRkdtZ2lDandwWWFubFB0ejRLdXhQa3lkWUFiYWJnNjlFUXJ5LXhHWm1saUN2ZmxESmpUTlhtZ0VmYXlwd284RmRoUEE1X3I2RVJQRlVOWHJhRQ?oc=5",
+          "description": "Il petrolio sale di oltre il 2% mentre svaniscono le speranze di pace USA-Iran e persistono i rischi su Hormuz Yahoo Finanza Il petrolio chiude in rialzo a New York ma sotto 90 dollari, a 82,95 dollari ANSA Volatilità sul petrolio, borse europee sottotono rainews.it Il petrolio azzera i guadagni e vira in negativo in scia ai nuovi segnali di ottimismo dal Pakistan Borsa Italiana Wall Street: apre ",
+          "pubDate": "Tue, 11 Aug 2026 09:02:16 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Primary Elections Live Updates: Key Races in Wisconsin, Minnesota and South Carolina Tonight - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObFN6ZFl1dFNXbVZUOURmNmI1MllKNk9aV0dualdfNGJ1bEloMllSbHRBaG5EcWNmUFNLVWk3eW5UXzNfQ2hkUndKQUxyTUpiV0tLVXh1SnZGSDdiWjdzM2lOZUlfTmlTWk5BQ2NKaS02UEZjQkY3Qk5NMUhEZlBZZ29udw?oc=5",
+          "description": "Primary Elections Live Updates: Key Races in Wisconsin, Minnesota and South Carolina Tonight The New York Times Minnesota Primary 2026: Live Election Results The New York Times Progressive Lt. Gov. Peggy Flanagan wins Minnesota Democratic Senate primary NBC News Live Results: Minnesota midterm primaries PBS Voters in 6 states are choosing candidates for November ABC News - Breaking News, Latest Ne",
+          "pubDate": "Wed, 12 Aug 2026 03:40:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Democratic Rep. John Larson loses his primary to opponent calling for generational change - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNHRQbXdhbUVXUmFEZzlaOUFBaEFsVjdRZ21qOTU3ci1vNTl2LVJrSWprRUgyMk8wQ0xqOThPRHc4U0E1cmE5WjFmUVVJRTdnS3FJMmdJVHVoalM0SGdQd1JEV1VIbkVxck1nTk12Z25lWVRCR1UyYjlWM2dySll5ZnRYR1YxNWpxYU5tN0F3bUQ5Vkc1cjNuNWFkVGpwWjdabGl2a0R4UUQxZ1Q4YUw4WkV2a2piRU1XSEFPTklvVGJQYzV6TlFR?oc=5",
+          "description": "Democratic Rep. John Larson loses his primary to opponent calling for generational change NBC News Connecticut Primary 2026: Live Election Results The New York Times Democratic rebellion against older politicians reaches new battleground The Washington Post Polls close and CT voters await results in high-stakes primaries CT Mirror Ned Lamont projected to win Connecticut Democratic gubernatorial pr",
+          "pubDate": "Wed, 12 Aug 2026 01:43:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Mamdani's nemesis sued to block the city's pied-à-terre tax. The city froze the judge's pause - Fortune",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbkxEN2x4NDNVUDdDSlU3WDZJaG1PajlrbmNWUUp6RDNoTUw3dkJqdXdQc3NVeW1TVFUxUzBUZzk2OWRjNDVUbmpUZjBIeFpUYnJHRnJXbjRTektGbncyU2hVRm10TmlrZG5CWnkyUndRQk5WaHkzT05CX1llcy05aEM3eDU3b21weFBNQjB1eHhXSEx0Q3ZQQmxhLXpDVld1NnN1eA?oc=5",
+          "description": "Mamdani's nemesis sued to block the city's pied-à-terre tax. The city froze the judge's pause Fortune Judge Temporarily Blocks Mamdani’s Pied-à-Terre Tax WSJ Staten Island judge overseeing Mamdani pied-à-terre case appears on disputed property roll himself amNewYork Trump says NYC pied-à-terre tax 'must be stopped,' eyes federal block CNBC How a Staten Island Lawsuit Is Challenging Mamdani’s Secon",
+          "pubDate": "Tue, 11 Aug 2026 18:53:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "University of Michigan to switch to pass/fail grades for first-semester students - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZzBuSVpoWndISjhldHIyRkV0eFp5d3pMWUp3WEpmZWRvWmhQVW5qT0xvaGktTmJya3ZQaktneVBMUUhFMGRtSjN1WTlMOTBtNVJrTUFWVXlNMDFSdFF3NHdYNVdnQ09RMkZtME05NVNNbUUxakdIQmF4bWNGTHNlNEJnQ3lYVlQ3cEJ2bWtWTFVqMEpQMm8yUG0xVQ?oc=5",
+          "description": "University of Michigan to switch to pass/fail grades for first-semester students The Guardian University of Michigan Will Ease Up on Grades for Student Mental Health The New York Times U. of Michigan’s Plan to Pass/Fail Freshmen Draws Ire — and Cheers The Chronicle of Higher Education University of Michigan Drops First-Semester Grades to ‘Curb Mental Health Crisis’ WSJ University of Michigan chang",
+          "pubDate": "Tue, 11 Aug 2026 17:31:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "perché",
+      "n_items": 7,
+      "n_sources": 6,
+      "category": "general",
+      "score": 42,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Terremoto in Colombia, il geologo: «Ecco perché è un sisma anomalo (e la terra tremerà a lungo)» - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNNGNVR0xyLWRDQVFBUmo3aVR1ZWY5b1NKUV9jR293Z0VndG1QVk9iWnlxbnJORnVDU2YzWXFhMkFVV3VhUVJZUm02eTlUVW5xYS1ZcDkwMDhEV2VCWWpDamxhdURETi1MT243Z0cxZ2EwN09Udm5rWFBoTmdSNXVhTGotc3JQMTJlVWViZGVkaUxJZFNsWW9BbUt5UkNUS1lvcW94N3d6Mm1yODRWLV9QVXNoRE5kUDBkbVI4ZEYxdXVQSlpkem9OUnZZdTl5ZlV2dWlMcUlTTmhyYWxtNFBkVFl2Wjd4QkhHVmFYYWxyZkVQZkJWMEZpSDJET2t1M0Z0NC1NLVFQYkFpY2JadmZuaS1XVTJucHlu?oc=5",
+          "description": "Terremoto in Colombia, il geologo: «Ecco perché è un sisma anomalo (e la terra tremerà a lungo)» corriere.it Leone XIV: \"Profondo dolore\" e preghiera per le vittime del terremoto in Colombia Vatican News Oltre 1,3 miliardi di dollari di aiuti internazionali alla Colombia dopo il sisma ANSA Terremoto in Colombia, 240 vittime e oltre mille feriti. Cali dispiega l’esercito contro i saccheggi la Repub",
+          "pubDate": "Tue, 11 Aug 2026 06:05:42 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Il caldo pesa sulle bollette: quanto costa tenere acceso il condizionatore tutto il giorno, le simulazioni - La Nazione",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY3R3YzRVeEctRjE2T0xhU2wwRkVBX2RIdVZkVTVwaHBKN19VV0NyblpmMlFUaG03SDEyNnlVNmlnd3F1WFpmZVNsRlROeDlVMGVqenNwX0F2VFFLYzFKTDZVUEt2bXgwdm1SOU1HMDFaenIxaFptQU1YZVFQQTc3RkRn?oc=5",
+          "description": "Il caldo pesa sulle bollette: quanto costa tenere acceso il condizionatore tutto il giorno, le simulazioni La Nazione Energia, picchi di consumo a causa del caldo ma il problema è il prezzo, non la produzione: Arera rafforza la vigilanza corriere.it Borsa elettrica, prezzo medio acquisto in rialzo a 186,72 euro/MWh Borsa Italiana Caldo record, ecco perché la bolletta può aumentare: il meteo decide",
+          "pubDate": "Tue, 11 Aug 2026 15:18:23 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Perché dividere il Wi-Fi in 2 reti separate risolve problemi che neanche sapevi di avere - SmartWorld",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS0lHNS1ybDVxc2NRX25KY2E4ckNqZGU5Q003WFRfUGZUSnUxVFRtaWhxcE1KSUc4R3o2VWxQd0JrS2xWcmtQbXBBVjZwOEk5SlNfR2dzdEJPakJtZTVOZ0xEYmR1TFpLd1NPd0VPWXlwbFBwVjBQZUNybW55TmFpeGdR?oc=5",
+          "description": "Perché dividere il Wi-Fi in 2 reti separate risolve problemi che neanche sapevi di avere SmartWorld",
+          "pubDate": "Tue, 11 Aug 2026 10:03:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Perché evitare i latticini interi potrebbe essere un errore: lo studio dell’Università di Toronto - Fanpage",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWW4xYlpIWFBxQjdLWTlRT3pob01iSDhRbFpRT2E3WURIQ0tZTG9jcmF0M2JQVjNwWHI3Vi1oZ1piX1lTc2Vka2MtNjV1emRUMWJUdVkwX3VLN2NRY0JhdU1WNkRnVDhHMGRjQzdOcjlVbnJRYVJ0Z2VfU3NCWWVucEVOYi1oelFiV09ONW5Ia0o4Q19aT243TEZnMGRpOWVkUWs3ZUE1NWNHbVkwdzR1Q212MFQ3Rjd1U18tMUNadHpaamYxT1VCUWxBTDNhMTNwMkZMRXZ3?oc=5",
+          "description": "Perché evitare i latticini interi potrebbe essere un errore: lo studio dell’Università di Toronto Fanpage",
+          "pubDate": "Tue, 11 Aug 2026 16:50:47 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Febbre di Ferragosto, sintomi e cause: perché colpisce e cosa c'entra l’influenza K - Il Messaggero",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTWtfQVg3NWl3RHFpVDE2QXJFQnRYd09rWG9IS3M4MUcxVDNNUDJFOXZwRzMxbVRCWGJkQjZhOVktUGthZ3FsQVg1eUMyc1RmNUJuOHcyY2s4VmV0b2lQSDVNNU1wbnpDaVlGcUV5UzdHYzVoYjdaQndoOGd6bHF0WWs1TkxsQjJCdllXNnNaSi1aSk5aMzAtdFZONjRhZU1nVnd30gGcAUFVX3lxTFAxeHIyM1c0MXZqX1lNOTltZkliVU5IbHMtQkJJSVo2RXBZZE1PYVMzTXQ4OF8tOGtVSGNYYlEzcmRyb2lzX1cyem1QbHFoX1A4U1hzWDUxQ2hXVWhESUVfQVhPN3B2QkNHT2wtd0FrZmJ0Ri1odXJLSl8xb2ZrOGp5S0ZRUjJsSzZ6eThnUEFudGhWcFd5RTNWeTA0ZA?oc=5",
+          "description": "Febbre di Ferragosto, sintomi e cause: perché colpisce e cosa c'entra l’influenza K Il Messaggero",
+          "pubDate": "Tue, 11 Aug 2026 22:07:18 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "hormuz",
+      "n_items": 7,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 41,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Iran, Pakistan: 'Vicini a una sorta di accordo con Stati Uniti' - tg24.sky.it",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONW1UU1pxNWRLUEMzR3E1X1BxWFo2V19MZDU3SDNNWmQyQ0h5NlNJaGxtcVNpQnZfLXhsRlp1M1RidnowVVJueHdKdXpQbUsyT2tuSHdRczhGYUZMai02b2k0cVZGcDNXeUNuNTZoLW9fSmVqMFRpb0l0NlNhREdxajVsOEF6dw?oc=5",
+          "description": "Iran, Pakistan: 'Vicini a una sorta di accordo con Stati Uniti' tg24.sky.it Guerra Usa-Iran, le notizie in diretta | Elicottero Usa spara contro una nave panamense che tenta di forzato il blocco a Hormuz. Pakistan: Washington e Teheran vicine a un accordo. Houthi colpiscono una nave nel Mar Rosso corriere.it Guerra negli stretti: Usa attaccano cargo, Houthi uccidono 4 marinai Il Fatto Quotidiano W",
+          "pubDate": "Tue, 11 Aug 2026 21:58:57 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Il petrolio sale di oltre il 2% mentre svaniscono le speranze di pace USA-Iran e persistono i rischi su Hormuz - Yahoo Finanza",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeVFjX2hOMXlqd2VnTkZzXzR5aHRpZzdZMmZnX2pWdE4tTDBpRUpEMHpJRkdtZ2lDandwWWFubFB0ejRLdXhQa3lkWUFiYWJnNjlFUXJ5LXhHWm1saUN2ZmxESmpUTlhtZ0VmYXlwd284RmRoUEE1X3I2RVJQRlVOWHJhRQ?oc=5",
+          "description": "Il petrolio sale di oltre il 2% mentre svaniscono le speranze di pace USA-Iran e persistono i rischi su Hormuz Yahoo Finanza Il petrolio chiude in rialzo a New York ma sotto 90 dollari, a 82,95 dollari ANSA Volatilità sul petrolio, borse europee sottotono rainews.it Il petrolio azzera i guadagni e vira in negativo in scia ai nuovi segnali di ottimismo dal Pakistan Borsa Italiana Wall Street: apre ",
+          "pubDate": "Tue, 11 Aug 2026 09:02:16 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra negli stretti: Usa attaccano cargo, Houthi uccidono 4 marinai - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOTVpRG5IdEJaXzZjQTZBVmZfcXJyaFNsanFkNWIxR1JTVk5WdUJiRFpBSFpYekRTNHhjcHVkTnBrY0oyRDRkXzRiMUtoajY1N2VpOXUyUFVQMVVienpVUnVMZFJYdXNmdXZ3ajI0eGE2dUM4T2NPNFNvQWNfdWdrTm5SV2dndUJzM094bHNRUFZYN1kwVG80?oc=5",
+          "description": "Guerra negli stretti: Usa attaccano cargo, Houthi uccidono 4 marinai Il Fatto Quotidiano Guerra Usa-Iran, le notizie in diretta | Elicottero Usa spara contro una nave panamense che tenta di forzato il blocco a Hormuz. Pakistan: Washington e Teheran vicine a un accordo. Houthi colpiscono una nave nel Mar Rosso corriere.it Iran, Pakistan: 'Vicini a una sorta di accordo con Stati Uniti' tg24.sky.it W",
+          "pubDate": "Tue, 11 Aug 2026 16:49:56 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Trump: 'Candidarmi nel 2028? Mi piacerebbe ma c'è una legge ferrea' e su Hormuz: 'Lo controlliamo noi'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/12/trump-candidarmi-nel-2028-mi-piacerebbe-ma-ce-una-legge-ferrea-e-su-hormuz-lo-controlliamo_2732a1ee-acc9-4285-835a-506e578886d4.html",
+          "description": "Il presidente Usa sulla fuga dal vertice Nato ad Ankara: 'Ricevo molte minacce. Credo di essere il bersaglio principale'",
+          "pubDate": "Wed, 12 Aug 2026 04:15:03 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Ministro Energia Usa, ora per Hormuz 9 milioni di barili di petrolio al giorno",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/11/ministro-energia-usa-ora-per-hormuz-9-milioni-di-barili-di-petrolio-al-giorno_342a6e6a-f6eb-4f3e-96fe-2685228452b2.html",
+          "description": "'Considerando anche gli oleodotti si arriva a 15 milioni'",
+          "pubDate": "Tue, 11 Aug 2026 21:35:19 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "colombia",
+      "n_items": 7,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 41,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Terremoto in Colombia, oltre 250 morti. Donna estratta viva da macerie dopo 30 ore. LIVE - tg24.sky.it",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1paElxZnhLbENVWHBYdjZiXzRxbmNlbXdQVzk3UFJ0MmJldUpzcnZ5UUNyRFdqNnpYVW51eHd6elFZZnd0R3RUUFFDQ1IzNjh1LUxOQTJ1LXd4Tmo2ci1EVmRXSHpYWTFtRlA3X1Z3U3o4Mm5YR2lJ?oc=5",
+          "description": "Terremoto in Colombia, oltre 250 morti. Donna estratta viva da macerie dopo 30 ore. LIVE tg24.sky.it Leone XIV: \"Profondo dolore\" e preghiera per le vittime del terremoto in Colombia Vatican News Oltre 1,3 miliardi di dollari di aiuti internazionali alla Colombia dopo il sisma ANSA Terremoto in Colombia, 240 vittime e oltre mille feriti. Cali dispiega l’esercito contro i saccheggi la Repubblica Te",
+          "pubDate": "Tue, 11 Aug 2026 21:59:56 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Terremoto in Colombia, il geologo: «Ecco perché è un sisma anomalo (e la terra tremerà a lungo)» - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNNGNVR0xyLWRDQVFBUmo3aVR1ZWY5b1NKUV9jR293Z0VndG1QVk9iWnlxbnJORnVDU2YzWXFhMkFVV3VhUVJZUm02eTlUVW5xYS1ZcDkwMDhEV2VCWWpDamxhdURETi1MT243Z0cxZ2EwN09Udm5rWFBoTmdSNXVhTGotc3JQMTJlVWViZGVkaUxJZFNsWW9BbUt5UkNUS1lvcW94N3d6Mm1yODRWLV9QVXNoRE5kUDBkbVI4ZEYxdXVQSlpkem9OUnZZdTl5ZlV2dWlMcUlTTmhyYWxtNFBkVFl2Wjd4QkhHVmFYYWxyZkVQZkJWMEZpSDJET2t1M0Z0NC1NLVFQYkFpY2JadmZuaS1XVTJucHlu?oc=5",
+          "description": "Terremoto in Colombia, il geologo: «Ecco perché è un sisma anomalo (e la terra tremerà a lungo)» corriere.it Leone XIV: \"Profondo dolore\" e preghiera per le vittime del terremoto in Colombia Vatican News Oltre 1,3 miliardi di dollari di aiuti internazionali alla Colombia dopo il sisma ANSA Terremoto in Colombia, 240 vittime e oltre mille feriti. Cali dispiega l’esercito contro i saccheggi la Repub",
+          "pubDate": "Tue, 11 Aug 2026 06:05:42 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "As search for thousands of missing pushes on, Colombia earthquake tests new president - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnk3enhDLU5PRHZPNVlfdkVRb0t5ZjFPYmExTFlGcmIzVnh3eDNWQ3loVVF6MEg4ejNZOE92YkxKc0lpNE5pcXRQYnhPRXFWV05QUnpmNE0tMXZkVVU3YndadUxkampNUWx0Q3JqdjY3aC1Wa0pYT0dwVzgyT2JpVDMwVnAteFdDT2NXTXFOLTUwR0x6X01z?oc=5",
+          "description": "As search for thousands of missing pushes on, Colombia earthquake tests new president AP News A visual guide to the Colombia earthquake edition.cnn.com Colombia quake death toll tops 250 as rescuers race to find survivors Reuters Magnitude 7.4 quake rocks western Colombia, killing at least 111 people NPR South Florida families who survived deadly earthquake in Colombia return home: \"It was really ",
+          "pubDate": "Tue, 11 Aug 2026 22:08:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Terremoto in Colombia, riaprono sei aeroporti su sette",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/12/terremoto-in-colombia-riaprono-sei-aeroporti-su-sette_5d32c315-e530-4494-9d3f-10e2512fe1b3.html",
+          "description": "Voli sospesi a Pereira, spazio aereo nazionale in totale sicurezza",
+          "pubDate": "Wed, 12 Aug 2026 03:26:13 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Terremoto in Colombia, estratta viva dalle macerie dopo 30 ore",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/11/terremoto-in-colombia-estratta-viva-dalle-macerie-dopo-30-ore_f74ba32c-4d2d-4147-9a4b-07f84208b3e7.html",
+          "description": "Giubilo a Cali per il difficile salvataggio di una donna",
+          "pubDate": "Tue, 11 Aug 2026 21:03:36 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "morti",
+      "n_items": 7,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 41,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Terremoto in Colombia, oltre 250 morti. Donna estratta viva da macerie dopo 30 ore. LIVE - tg24.sky.it",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1paElxZnhLbENVWHBYdjZiXzRxbmNlbXdQVzk3UFJ0MmJldUpzcnZ5UUNyRFdqNnpYVW51eHd6elFZZnd0R3RUUFFDQ1IzNjh1LUxOQTJ1LXd4Tmo2ci1EVmRXSHpYWTFtRlA3X1Z3U3o4Mm5YR2lJ?oc=5",
+          "description": "Terremoto in Colombia, oltre 250 morti. Donna estratta viva da macerie dopo 30 ore. LIVE tg24.sky.it Leone XIV: \"Profondo dolore\" e preghiera per le vittime del terremoto in Colombia Vatican News Oltre 1,3 miliardi di dollari di aiuti internazionali alla Colombia dopo il sisma ANSA Terremoto in Colombia, 240 vittime e oltre mille feriti. Cali dispiega l’esercito contro i saccheggi la Repubblica Te",
+          "pubDate": "Tue, 11 Aug 2026 21:59:56 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Ucraina, Zelensky: \"Zaporizhzhia colpita da missili nordcoreani, 6 morti\" - tg24.sky.it",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaUh4eE9veVh6Mmx4YTBUc0NRN0wzVmdIRkYybDJqU1JOTmlKYlRGQ0ZFbXllWjI2aEUzbWNlWVB1UVhmbTZJZWxtYTY5bW5YWnFwbHN5YXNoZEY0NGJBeEt5VWFJZHUtV3JFNXNrbk94X3duVEswazBKY3dzN0Q2Qm1LaHM3c21F?oc=5",
+          "description": "Guerra Ucraina, Zelensky: \"Zaporizhzhia colpita da missili nordcoreani, 6 morti\" tg24.sky.it Guerra Ucraina-Russia, le notizie in diretta | Attacco russo a Zaporizhzhia, i morti sono 7. Zelensky: «La Russia ha usato missili balistici nordcoreani» corriere.it Russia, a fuoco un altro hub Wildberries. Zelensky: \"Zaporizhzhia colpita da missili nordcoreani\" - Zelensky: Putin pronto a mobilitazione do",
+          "pubDate": "Tue, 11 Aug 2026 21:58:57 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Mercantile colpito nel Mar Rosso, quattro i morti. Lo Yemen accusa gli Houthi dell'attacco - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNFhkOWFZaDdkRTIwR2U4WVhXMDBJRUM0d3RYQnJvdndnci11MUtnNHJLYTNEN0U3RkRXUWxPVUk4Qms0bng0aGZfVjFfWmhodlJiZ3duQkdyS1RvUEFoMGxrYXg4bGxQb3JxaW1pWDlza0xMM2FPcDBiTU5OUUZSanM1WFlRZkp0Z1FyaWFmZUlsdUw5Rk5xN0ZoUUFYdlhWM3YtMVA3REY4ampIYW82Z1A0Wng0SlhiMDhRZ2gtX0hjMVB0WXNlcUd0czZFT3A2cTI2MGZGdC0xTENneGRV0gHkAUFVX3lxTE1wUW1uem8tbm1RT2dCU1RORElzelh0TGpBbTRHSmE0RjhxVUlnenh2SXBaQU5KZE5lVEduaGtJWm1WSFFSWDRZMnA2b2ZXWjNJRmF3SHR5cWE4RGxvTDlZOEViQldMcUxpbktUVTlMR1gzT1ZhdnphMVBQM3ZFVnJjT1RCUkstME5FdFBZSENfREcwN0RkcWtlQTA2bHo1TDVEY1pTZWVJd0NDa212RnE0M1FmUVpkNEt4RHk0ajNJWHQ1Y0R3SlpWbkhuaHlGQXNXMG42NXZkbm15V3MxemlpWVcwNw?oc=5",
+          "description": "Mercantile colpito nel Mar Rosso, quattro i morti. Lo Yemen accusa gli Houthi dell'attacco ANSA La guerra negli Stretti, 'prime vittime degli Houthi nel Mar Rosso' ANSA Houthi attaccano una nave nel Mar Rosso, sei morti. Pakistan: Usa e Iran vicini a un accordo - Media Libano: bombardamento massiccio di Israele nel sud del Paese rainews.it Yemen accusa Houthi per attacco a nave nel Mar Rosso: '6 i",
+          "pubDate": "Tue, 11 Aug 2026 11:26:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Yemen, 'sale a sei morti il bilancio dei raid nel Mar Rosso attribuito agli Houthi'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/11/yemen-sale-a-sei-morti-il-bilancio-dei-raid-nel-mar-rosso_2709b957-28f3-4427-a834-f1bb8096b28b.html",
+          "description": "'Si tratta di 4 marinai e di due militari della Marina yemenita intervenuta poco dopo'",
+          "pubDate": "Tue, 11 Aug 2026 19:31:35 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Yemen accusa Houthi per attacco a nave nel Mar Rosso, '4 i morti'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/11/yemen-accusa-houthi-per-attacco-a-nave-nel-mar-rosso-4-i-morti_eab988e6-4ed4-4e4c-b731-a919c00bcd36.html",
+          "description": "Compiuto nelle scorse ore",
+          "pubDate": "Tue, 11 Aug 2026 16:55:53 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "milano",
+      "n_items": 8,
+      "n_sources": 4,
+      "category": "economia",
+      "score": 38,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Vannacci a Milano fa le primarie a sinistra - Il Foglio",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUVxMGdKUHV6T1owbjJSN3dlb0tQQ19ua0lYV2pTUjBkOURmYlhFd2g1T004TzBFeVdxeklZSlZmTGhIMUlfY0hsT2VEc3hNOUhxWVZZTnhIenFZckNuWm9ZNklYOG44dTZHZkF6WFJnWVVQNTlnS2xuNmFCbFU2SEM4QnYtRWxUMWpoeTRPMEZTczdFQlJnREd3QVp2Q2hldEE?oc=5",
+          "description": "Vannacci a Milano fa le primarie a sinistra Il Foglio Milano, Vannacci lancia Carmelo Burgio sindaco. Nasce anche il comitato elettorale Il Sole 24 ORE Vannacciani a Milano un obiettivo politico la Repubblica Milano, centrosinistra contro Burgio: «Parlare di rastrellamenti è uno schifo». Lui: «La notte da solo e disarmato non girerei attorno alla stazione Centrale» Corriere Milano Vannacci sceglie",
+          "pubDate": "Tue, 11 Aug 2026 04:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Le Borse europee chiudono poco mosse mentre l'attenzione resta su Hormuz - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNmFEVkNwSlBtalN1c0EyUUFtLTVjT2VTTi1yUG5GQXZxczlPcS00Uk5CWmFlS2lucTdNTUpSRU1nUHNSZHdpVktqcklCemVDb090YndCYTRxdVM1RnR0cmhEZVhIZ2dFQWpJSTZMTnhMbHhFN2F5YkRtem05MmtVa3Izc3dSOVYybl9saTVhSW9rZ3Vhc1ZqdHJWUldIQ1NwMUxIeTN1Nks3SVBMcXE3SDU5a05INm50TTE0Z1huNGRMeVJWT2oxd1dvb2tPX29LNWZxOU02d0ozRjdNNmNRMkZpZkFNbWFCZGxVZUJQaDE?oc=5",
+          "description": "Le Borse europee chiudono poco mosse mentre l'attenzione resta su Hormuz Borsa Italiana Borse senza slancio tra incertezze Hormuz e altalena petrolio. A Milano (+0,1%) Eni in vetta Il Sole 24 ORE Borsa: Milano chiude in lieve rialzo, +0,08% ANSA Piazza Affari ferma a +0,08%, Eni e Azimut guidano il Ftse Mib SoldiOnline.it Borse europee in leggero rialzo con focus su notizie da Medio Oriente Borsa ",
+          "pubDate": "Tue, 11 Aug 2026 16:02:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: seduta interlocutoria Milano (+0,08%), balzo di Eni e Azimut",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/borsa-seduta-interlocutoria-milano-008-balzo-di-eni-e-azimut_95423139-3983-4b93-a85a-84a0e38fd147.html",
+          "description": "Contrastate Ferrari e Stellantis, banche in ordine sparso",
+          "pubDate": "Tue, 11 Aug 2026 18:28:45 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: Milano chiude in lieve rialzo, +0,08%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/borsa-milano-chiude-in-lieve-rialzo-008_eefad922-57ac-490c-b749-1c4c9a5d5ac6.html",
+          "description": "Indice Ftse Mib a quota 53.706 punti",
+          "pubDate": "Tue, 11 Aug 2026 17:39:47 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: Europa positiva nel finale, Wall Street debole, Milano +0,2%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/borsa-europa-positiva-nel-finale-wall-street-debole-milano-02_0f4089d4-7089-4f9d-9f21-f4053c54ef1a.html",
+          "description": "Occhi sulla trattativa tra Iran e Oman, calano i rendimenti dei Btp",
+          "pubDate": "Tue, 11 Aug 2026 17:33:07 +0200"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "sale",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Il petrolio sale di oltre il 2% mentre svaniscono le speranze di pace USA-Iran e persistono i rischi su Hormuz - Yahoo Finanza",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeVFjX2hOMXlqd2VnTkZzXzR5aHRpZzdZMmZnX2pWdE4tTDBpRUpEMHpJRkdtZ2lDandwWWFubFB0ejRLdXhQa3lkWUFiYWJnNjlFUXJ5LXhHWm1saUN2ZmxESmpUTlhtZ0VmYXlwd284RmRoUEE1X3I2RVJQRlVOWHJhRQ?oc=5",
+          "description": "Il petrolio sale di oltre il 2% mentre svaniscono le speranze di pace USA-Iran e persistono i rischi su Hormuz Yahoo Finanza Il petrolio chiude in rialzo a New York ma sotto 90 dollari, a 82,95 dollari ANSA Volatilità sul petrolio, borse europee sottotono rainews.it Il petrolio azzera i guadagni e vira in negativo in scia ai nuovi segnali di ottimismo dal Pakistan Borsa Italiana Wall Street: apre ",
+          "pubDate": "Tue, 11 Aug 2026 09:02:16 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Yemen, 'sale a sei morti il bilancio dei raid nel Mar Rosso attribuito agli Houthi'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/11/yemen-sale-a-sei-morti-il-bilancio-dei-raid-nel-mar-rosso_2709b957-28f3-4427-a834-f1bb8096b28b.html",
+          "description": "'Si tratta di 4 marinai e di due militari della Marina yemenita intervenuta poco dopo'",
+          "pubDate": "Tue, 11 Aug 2026 19:31:35 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Il bilancio delle vittime del terremoto in Colombia sale a 240",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/11/il-bilancio-delle-vittime-del-terremoto-in-colombia-sale-a-240_4ebbbe23-f5ef-47a2-9eca-d2a9ccb948ee.html",
+          "description": "Lo hanno annunciato le autorità locali",
+          "pubDate": "Tue, 11 Aug 2026 19:29:12 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "A giugno l'export sale dell'1,6%, +9,8% su base annua - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZGJVdExhME12UmFZWEItdUNEbTZibkg0NzJxX3R1RFZaa1hSakFfbEhlNVg3QU91M0VDMHcxSkxvNy0zVlpXeEtZemNrZHl0ZkM4ckZUVksxb3NPQjYydkhhZTBJbTdnOHRJaG5GYzBrSV9zY29HcGlNM1pZd3hXVndRTzUyQ2lkRVRGb3hHX1NYeGR1R3JOaEV0VjNKLU9qYS1iUkZNeWh6eXowMG1nTmY2UzlzaVNDc0NoZm5wRkpiUHJnUHEzVkExbTVzMWxfLVhJNTFB?oc=5",
+          "description": "A giugno l'export sale dell'1,6%, +9,8% su base annua ANSA Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Tue, 11 Aug 2026 08:10:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Il petrolio chiude in rialzo a New York ma sotto 90 dollari, a 82,95 dollari",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/il-petrolio-chiude-in-rialzo-a-new-york-ma-sotto-90-dollari-a-8295-dollari_820d9a6d-6914-4146-af06-dc475af4ee92.html",
+          "description": "Il Wti a +1%, il Brent sale dell'1,04% a quota 88,63",
+          "pubDate": "Tue, 11 Aug 2026 20:39:37 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "street",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Il petrolio sale di oltre il 2% mentre svaniscono le speranze di pace USA-Iran e persistono i rischi su Hormuz - Yahoo Finanza",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeVFjX2hOMXlqd2VnTkZzXzR5aHRpZzdZMmZnX2pWdE4tTDBpRUpEMHpJRkdtZ2lDandwWWFubFB0ejRLdXhQa3lkWUFiYWJnNjlFUXJ5LXhHWm1saUN2ZmxESmpUTlhtZ0VmYXlwd284RmRoUEE1X3I2RVJQRlVOWHJhRQ?oc=5",
+          "description": "Il petrolio sale di oltre il 2% mentre svaniscono le speranze di pace USA-Iran e persistono i rischi su Hormuz Yahoo Finanza Il petrolio chiude in rialzo a New York ma sotto 90 dollari, a 82,95 dollari ANSA Volatilità sul petrolio, borse europee sottotono rainews.it Il petrolio azzera i guadagni e vira in negativo in scia ai nuovi segnali di ottimismo dal Pakistan Borsa Italiana Wall Street: apre ",
+          "pubDate": "Tue, 11 Aug 2026 09:02:16 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYU55bUVtSkMySDZUS2RPRWpBTTRRZHhucjFpaUxWM0RoV0NuMVFPNFh1T29XMkpSR1NYRm5Oc1hUc1hnWTNVOXd5T29qXzNVTWdxRWxpal9oT1VCNk1kQVNYeW9fVDBZNG1jODVJNHN3R0lMQ19KSmwtY2JNQXM1V3ptYk7SAYoBQVVfeXFMTmt2WjUtTThxd2gzZnhqcW8wejI3WWdRNDlaZGFLaVFTZXQyZ0tkLW80RW4wSXFoMDBlNTVjZ1pnNFBpQzBQZjJFY0xHQ3Q5S2p4OHdSV05QZi01eG5XcFFmOGVHWmV6MndsZ2dNNU9NLU9FVHUzMkpmaE1DTGVEcS12NXBHcl9CWlJ3?oc=5",
+          "description": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China CNBC Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now? CNBC As six of Wall Street's biggest financial institutions say 'yes' to Nvidia, company for the first time answers 'circular financing' accusations The Times of India Nvidia’s great silicon showdown The Economist NVIDIA Partners With Apollo, B",
+          "pubDate": "Tue, 11 Aug 2026 21:01:13 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: Europa positiva nel finale, Wall Street debole, Milano +0,2%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/borsa-europa-positiva-nel-finale-wall-street-debole-milano-02_0f4089d4-7089-4f9d-9f21-f4053c54ef1a.html",
+          "description": "Occhi sulla trattativa tra Iran e Oman, calano i rendimenti dei Btp",
+          "pubDate": "Tue, 11 Aug 2026 17:33:07 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Wall Street apre positiva, Dj a +0,23% e Nasdaq a +0,22%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/wall-street-apre-positiva-dj-a-023-e-nasdaq-a-022_81d8feaa-ed1e-4718-ab43-16df20e4e9f3.html",
+          "description": "In rialzo anche l'S 500 a +0,13%",
+          "pubDate": "Tue, 11 Aug 2026 15:37:54 +0200"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
+          "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+          "description": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
+          "pubDate": "Tue, 11 Aug 2026 08:44:52 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "attacco",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "general",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Ucraina, Zelensky: \"Zaporizhzhia colpita da missili nordcoreani, 6 morti\" - tg24.sky.it",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaUh4eE9veVh6Mmx4YTBUc0NRN0wzVmdIRkYybDJqU1JOTmlKYlRGQ0ZFbXllWjI2aEUzbWNlWVB1UVhmbTZJZWxtYTY5bW5YWnFwbHN5YXNoZEY0NGJBeEt5VWFJZHUtV3JFNXNrbk94X3duVEswazBKY3dzN0Q2Qm1LaHM3c21F?oc=5",
+          "description": "Guerra Ucraina, Zelensky: \"Zaporizhzhia colpita da missili nordcoreani, 6 morti\" tg24.sky.it Guerra Ucraina-Russia, le notizie in diretta | Attacco russo a Zaporizhzhia, i morti sono 7. Zelensky: «La Russia ha usato missili balistici nordcoreani» corriere.it Russia, a fuoco un altro hub Wildberries. Zelensky: \"Zaporizhzhia colpita da missili nordcoreani\" - Zelensky: Putin pronto a mobilitazione do",
+          "pubDate": "Tue, 11 Aug 2026 21:58:57 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Mercantile colpito nel Mar Rosso, quattro i morti. Lo Yemen accusa gli Houthi dell'attacco - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNFhkOWFZaDdkRTIwR2U4WVhXMDBJRUM0d3RYQnJvdndnci11MUtnNHJLYTNEN0U3RkRXUWxPVUk4Qms0bng0aGZfVjFfWmhodlJiZ3duQkdyS1RvUEFoMGxrYXg4bGxQb3JxaW1pWDlza0xMM2FPcDBiTU5OUUZSanM1WFlRZkp0Z1FyaWFmZUlsdUw5Rk5xN0ZoUUFYdlhWM3YtMVA3REY4ampIYW82Z1A0Wng0SlhiMDhRZ2gtX0hjMVB0WXNlcUd0czZFT3A2cTI2MGZGdC0xTENneGRV0gHkAUFVX3lxTE1wUW1uem8tbm1RT2dCU1RORElzelh0TGpBbTRHSmE0RjhxVUlnenh2SXBaQU5KZE5lVEduaGtJWm1WSFFSWDRZMnA2b2ZXWjNJRmF3SHR5cWE4RGxvTDlZOEViQldMcUxpbktUVTlMR1gzT1ZhdnphMVBQM3ZFVnJjT1RCUkstME5FdFBZSENfREcwN0RkcWtlQTA2bHo1TDVEY1pTZWVJd0NDa212RnE0M1FmUVpkNEt4RHk0ajNJWHQ1Y0R3SlpWbkhuaHlGQXNXMG42NXZkbm15V3MxemlpWVcwNw?oc=5",
+          "description": "Mercantile colpito nel Mar Rosso, quattro i morti. Lo Yemen accusa gli Houthi dell'attacco ANSA La guerra negli Stretti, 'prime vittime degli Houthi nel Mar Rosso' ANSA Houthi attaccano una nave nel Mar Rosso, sei morti. Pakistan: Usa e Iran vicini a un accordo - Media Libano: bombardamento massiccio di Israele nel sud del Paese rainews.it Yemen accusa Houthi per attacco a nave nel Mar Rosso: '6 i",
+          "pubDate": "Tue, 11 Aug 2026 11:26:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Nuovo attacco di Madrid a Roma: 'Su Ceuta logiche elettorali'",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/08/11/comitato-schengen-convocato-giovedi-a-san-macuto-per-audizione-di-piantedosi_27dc23d9-1622-47e2-b6ba-03971d6857f5.html",
+          "description": "Albares: 'Rimpatrio per gli arrivi'. Salvini: 'Il 15 vediamo se Sanchez difenderà i confini'",
+          "pubDate": "Tue, 11 Aug 2026 23:03:48 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "'Esplosioni nel porto russo di Novorossiysk, ci sono vittime'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/12/esplosioni-nel-porto-russo-di-novorossiysk-ci-sono-vittime_cc929914-2926-43d6-ab87-c8710aa1b65f.html",
+          "description": "Media statali di Mosca: 'Le difese aeree tentano di respingere l'attacco con droni'",
+          "pubDate": "Wed, 12 Aug 2026 04:13:53 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Yemen accusa Houthi per attacco a nave nel Mar Rosso, '4 i morti'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/11/yemen-accusa-houthi-per-attacco-a-nave-nel-mar-rosso-4-i-morti_eab988e6-4ed4-4e4c-b731-a919c00bcd36.html",
+          "description": "Compiuto nelle scorse ore",
+          "pubDate": "Tue, 11 Aug 2026 16:55:53 +0200"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "chiude",
+      "n_items": 6,
+      "n_sources": 3,
+      "category": "economia",
+      "score": 24,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Il petrolio sale di oltre il 2% mentre svaniscono le speranze di pace USA-Iran e persistono i rischi su Hormuz - Yahoo Finanza",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeVFjX2hOMXlqd2VnTkZzXzR5aHRpZzdZMmZnX2pWdE4tTDBpRUpEMHpJRkdtZ2lDandwWWFubFB0ejRLdXhQa3lkWUFiYWJnNjlFUXJ5LXhHWm1saUN2ZmxESmpUTlhtZ0VmYXlwd284RmRoUEE1X3I2RVJQRlVOWHJhRQ?oc=5",
+          "description": "Il petrolio sale di oltre il 2% mentre svaniscono le speranze di pace USA-Iran e persistono i rischi su Hormuz Yahoo Finanza Il petrolio chiude in rialzo a New York ma sotto 90 dollari, a 82,95 dollari ANSA Volatilità sul petrolio, borse europee sottotono rainews.it Il petrolio azzera i guadagni e vira in negativo in scia ai nuovi segnali di ottimismo dal Pakistan Borsa Italiana Wall Street: apre ",
+          "pubDate": "Tue, 11 Aug 2026 09:02:16 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Le Borse europee chiudono poco mosse mentre l'attenzione resta su Hormuz - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNmFEVkNwSlBtalN1c0EyUUFtLTVjT2VTTi1yUG5GQXZxczlPcS00Uk5CWmFlS2lucTdNTUpSRU1nUHNSZHdpVktqcklCemVDb090YndCYTRxdVM1RnR0cmhEZVhIZ2dFQWpJSTZMTnhMbHhFN2F5YkRtem05MmtVa3Izc3dSOVYybl9saTVhSW9rZ3Vhc1ZqdHJWUldIQ1NwMUxIeTN1Nks3SVBMcXE3SDU5a05INm50TTE0Z1huNGRMeVJWT2oxd1dvb2tPX29LNWZxOU02d0ozRjdNNmNRMkZpZkFNbWFCZGxVZUJQaDE?oc=5",
+          "description": "Le Borse europee chiudono poco mosse mentre l'attenzione resta su Hormuz Borsa Italiana Borse senza slancio tra incertezze Hormuz e altalena petrolio. A Milano (+0,1%) Eni in vetta Il Sole 24 ORE Borsa: Milano chiude in lieve rialzo, +0,08% ANSA Piazza Affari ferma a +0,08%, Eni e Azimut guidano il Ftse Mib SoldiOnline.it Borse europee in leggero rialzo con focus su notizie da Medio Oriente Borsa ",
+          "pubDate": "Tue, 11 Aug 2026 16:02:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Il petrolio chiude in rialzo a New York ma sotto 90 dollari, a 82,95 dollari",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/il-petrolio-chiude-in-rialzo-a-new-york-ma-sotto-90-dollari-a-8295-dollari_820d9a6d-6914-4146-af06-dc475af4ee92.html",
+          "description": "Il Wti a +1%, il Brent sale dell'1,04% a quota 88,63",
+          "pubDate": "Tue, 11 Aug 2026 20:39:37 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Lo spread tra Btp e Bund tedeschi chiude invariato a 79,3 punti",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/lo-spread-tra-btp-e-bund-tedeschi-chiude-invariato-a-793-punti_1982b2d7-8a02-403a-be66-4a247a63c0d7.html",
+          "description": "Il rendimento annuo italiano cede 1,4 punti al 3,95%",
+          "pubDate": "Tue, 11 Aug 2026 18:09:16 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: l'Europa chiude contrastata, Parigi -0,13%, Francoforte +0,26%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/11/borsa-leuropa-chiude-contrastata-parigi-013-francoforte-026_b13ca28c-2b36-4f78-aea6-8121dbb1c1bf.html",
+          "description": "Debole Londra (-0,17%), in rialzo Madrid (+0,22%)",
+          "pubDate": "Tue, 11 Aug 2026 17:51:33 +0200"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "terremoto",
+      "n_items": 5,
+      "n_sources": 3,
+      "category": "clima",
+      "score": 21,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Terremoto in Colombia, oltre 250 morti. Donna estratta viva da macerie dopo 30 ore. LIVE - tg24.sky.it",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1paElxZnhLbENVWHBYdjZiXzRxbmNlbXdQVzk3UFJ0MmJldUpzcnZ5UUNyRFdqNnpYVW51eHd6elFZZnd0R3RUUFFDQ1IzNjh1LUxOQTJ1LXd4Tmo2ci1EVmRXSHpYWTFtRlA3X1Z3U3o4Mm5YR2lJ?oc=5",
+          "description": "Terremoto in Colombia, oltre 250 morti. Donna estratta viva da macerie dopo 30 ore. LIVE tg24.sky.it Leone XIV: \"Profondo dolore\" e preghiera per le vittime del terremoto in Colombia Vatican News Oltre 1,3 miliardi di dollari di aiuti internazionali alla Colombia dopo il sisma ANSA Terremoto in Colombia, 240 vittime e oltre mille feriti. Cali dispiega l’esercito contro i saccheggi la Repubblica Te",
+          "pubDate": "Tue, 11 Aug 2026 21:59:56 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Terremoto in Colombia, il geologo: «Ecco perché è un sisma anomalo (e la terra tremerà a lungo)» - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNNGNVR0xyLWRDQVFBUmo3aVR1ZWY5b1NKUV9jR293Z0VndG1QVk9iWnlxbnJORnVDU2YzWXFhMkFVV3VhUVJZUm02eTlUVW5xYS1ZcDkwMDhEV2VCWWpDamxhdURETi1MT243Z0cxZ2EwN09Udm5rWFBoTmdSNXVhTGotc3JQMTJlVWViZGVkaUxJZFNsWW9BbUt5UkNUS1lvcW94N3d6Mm1yODRWLV9QVXNoRE5kUDBkbVI4ZEYxdXVQSlpkem9OUnZZdTl5ZlV2dWlMcUlTTmhyYWxtNFBkVFl2Wjd4QkhHVmFYYWxyZkVQZkJWMEZpSDJET2t1M0Z0NC1NLVFQYkFpY2JadmZuaS1XVTJucHlu?oc=5",
+          "description": "Terremoto in Colombia, il geologo: «Ecco perché è un sisma anomalo (e la terra tremerà a lungo)» corriere.it Leone XIV: \"Profondo dolore\" e preghiera per le vittime del terremoto in Colombia Vatican News Oltre 1,3 miliardi di dollari di aiuti internazionali alla Colombia dopo il sisma ANSA Terremoto in Colombia, 240 vittime e oltre mille feriti. Cali dispiega l’esercito contro i saccheggi la Repub",
+          "pubDate": "Tue, 11 Aug 2026 06:05:42 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Terremoto in Colombia, riaprono sei aeroporti su sette",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/12/terremoto-in-colombia-riaprono-sei-aeroporti-su-sette_5d32c315-e530-4494-9d3f-10e2512fe1b3.html",
+          "description": "Voli sospesi a Pereira, spazio aereo nazionale in totale sicurezza",
+          "pubDate": "Wed, 12 Aug 2026 03:26:13 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Terremoto in Colombia, estratta viva dalle macerie dopo 30 ore",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/11/terremoto-in-colombia-estratta-viva-dalle-macerie-dopo-30-ore_f74ba32c-4d2d-4147-9a4b-07f84208b3e7.html",
+          "description": "Giubilo a Cali per il difficile salvataggio di una donna",
+          "pubDate": "Tue, 11 Aug 2026 21:03:36 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Il bilancio delle vittime del terremoto in Colombia sale a 240",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/11/il-bilancio-delle-vittime-del-terremoto-in-colombia-sale-a-240_4ebbbe23-f5ef-47a2-9eca-d2a9ccb948ee.html",
+          "description": "Lo hanno annunciato le autorità locali",
+          "pubDate": "Tue, 11 Aug 2026 19:29:12 +0200"
+        }
+      ],
+      "macro_area": "clima-salute"
+    },
+    {
+      "keyword": "caldo",
+      "n_items": 8,
+      "n_sources": 5,
+      "category": "clima",
+      "score": 4.6,
+      "cooldown": true,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ondata di caldo, le previsioni: fino a Ferragosto punte di 39 gradi, poi correnti più fresche e forti temporali - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPU3VpckZrZGduR0MzakRyX1lLU0VOMVlJWUpkQWhvZmRWMVc2SEJSQ2UtMzlWMWNQcW93TXZ3UjNNazBHMF9OV2ZEOU1HeWZmUVBZZ0NCU2EzMmF0ZE1na2p3NlVlQktMbzBRN0g1bWNMQnB0bFJSUjJldzNYZWZPaWNPaE9IQTJ3b0RmQlU1MUNYY0tpNWNESzgtOWh5Mi05Qm9DZU9vamhObGVxUU16TXNpLVVzMzhSaVBqZXFab0hoRDVMYkZMZkJ2TUpmMEpfbUx3NVBRYkN1ZG1WdFNzYlVZUm1NNGJTZjlITFBDZWxBY3J2SUd6elFMTHhWS2JvTGN4NVR0QTZCanZGN2o5R3VOaG5sdzVjenlsdTc5MHp4aTE0SXFJcdIBrgJBVV95cUxOTlVhZmZnZzRKZmtBRG1KSkdpWW8tNl9raFJnRG9Wc0V2TmJvUVBGSkw0X0Rjc3VhRGYtS2RtTWYzRXhCUi1MR05nT2p5WGl2emJOUVh1alA4RTV4WjVQV0pxMWp2ajZ0SXFieVQyV2dXZmJDWHdKUDk2QzdiMkY1ZlhBbW8tQnBRbWhEbW1BaVk0WjVnbnVYSE9JTnIwVkVnTWQ0Sll1cXBpdTdYY3pWY1dzbFVLZDhXalNiQjV0LWVxV1NENk9DT3BVV1hSU1lFYjB6Q0FtcEdNNEVKN0lTbEdrLVFhMDdINlhLdXpILXRVdFlYcVZYOVc4ZVFrMlpzSWtyT1pOMERyNmcwRkQycFhpbmwtU1VSQ2E1MmJMNGM5YTJlWXdzcnRKYWVVUQ?oc=5",
+          "description": "Ondata di caldo, le previsioni: fino a Ferragosto punte di 39 gradi, poi correnti più fresche e forti temporali corriere.it Caldo, afa e notti super tropicali, ma arriva la svolta: ecco quando tg24.sky.it Previsioni meteo, caldo e afa fino a domenica. Perturbazione atlantica in arrivo dal 17 agosto la Repubblica Venti giorni di afa, l'ondata di caldo più lunga dell'estate ANSA Caldo, l'afa non mol",
+          "pubDate": "Tue, 11 Aug 2026 11:55:45 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Venti giorni di afa, l'ondata di caldo più lunga dell'estate",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/ancora-una-settimana-con-il-caldo-intenso-7-8-gradi-oltre-la-media_dd2689a1-aa07-4781-aebe-7198aeeb3351.html",
+          "description": "Ancora 19 città con il bollino rosso, temperature di 7-8 gradi sopra la media",
+          "pubDate": "Tue, 11 Aug 2026 19:46:10 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Il caldo pesa sulle bollette: quanto costa tenere acceso il condizionatore tutto il giorno, le simulazioni - La Nazione",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY3R3YzRVeEctRjE2T0xhU2wwRkVBX2RIdVZkVTVwaHBKN19VV0NyblpmMlFUaG03SDEyNnlVNmlnd3F1WFpmZVNsRlROeDlVMGVqenNwX0F2VFFLYzFKTDZVUEt2bXgwdm1SOU1HMDFaenIxaFptQU1YZVFQQTc3RkRn?oc=5",
+          "description": "Il caldo pesa sulle bollette: quanto costa tenere acceso il condizionatore tutto il giorno, le simulazioni La Nazione Energia, picchi di consumo a causa del caldo ma il problema è il prezzo, non la produzione: Arera rafforza la vigilanza corriere.it Borsa elettrica, prezzo medio acquisto in rialzo a 186,72 euro/MWh Borsa Italiana Caldo record, ecco perché la bolletta può aumentare: il meteo decide",
+          "pubDate": "Tue, 11 Aug 2026 15:18:23 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Il grande caldo fa male anche alle auto: dagli pneumatici alla batteria, ecco i possibili danni - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcktuZThfaXota2I2aWc2ZzgySkoxQWhDbmItaFF3M1pKWHNnbmhMT3cxRHgwN29uVHRyN0hGTFpzeG1DZVVXTE5kX1dIZWFNUXhGbVVKT2hLRUVTYllIR3Z4M1AteDNic2liQU5rcEo1ZTNkQUQzbzdocy1EOVpGU1ZVYkJMcjRtaFk3azRqQkRWRk41cFNJYkpSZHF6aDhEV0pnWG54N29qNWpmekVRaXBiTk8xQQ?oc=5",
+          "description": "Il grande caldo fa male anche alle auto: dagli pneumatici alla batteria, ecco i possibili danni Il Sole 24 ORE Pneumatici, batterie, interni e carrozzerie: l'auto si scioglie al sole ANSA Auto e caldo estremo, l'allarme di Federcarrozzieri: possibili fino a 16mila euro di danni rainews.it L’estate rovente fa strage di gomme: officine piene Il Resto del Carlino Caldo record, i consigli per evitare ",
+          "pubDate": "Tue, 11 Aug 2026 12:45:48 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Caldo estremo, boom di accessi in pronto soccorso per disagio psichico: in Liguria +20% in tre anni - Primocanale",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUWZjNWFwWkpfeEZLeFZxbWJQcWF5UjlsSGpRcG05NmFkSVhfWWJGcmtjdkw0ZklpUzB4bVdZd1dtVGdvejA4X0d5RTN4QUVtell6eHplWXF5eTVRTE5xamU3TEZJcXpMWHM0a0lVTGpyYVZWSlI2dUxfSHI1SGV3eDFFVDlTazFmdjB1N1ZrSzhwQ21VeFZtbGFFSjVJZllyZFV3T05URQ?oc=5",
+          "description": "Caldo estremo, boom di accessi in pronto soccorso per disagio psichico: in Liguria +20% in tre anni Primocanale Caldo e stress, idratarsi e ridurre i ritmi: i consigli dell'esperto tg24.sky.it Ansia da clima, i giovani temono per il futuro RSI Eco-ansia, quando la paura per il clima diventa un problema di salute: cosa dice lo studio su 76 mila persone Mondosanità 'Il caldo mi rende nervoso', 4 con",
+          "pubDate": "Tue, 11 Aug 2026 05:05:59 GMT"
+        }
+      ],
+      "macro_area": "clima-salute"
+    }
+  ]
+}

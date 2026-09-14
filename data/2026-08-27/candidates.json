@@ -1,0 +1,918 @@
+{
+  "date": "2026-08-27",
+  "top_topics": [
+    {
+      "keyword": "italia",
+      "n_items": 25,
+      "n_sources": 9,
+      "category": "tech-ai",
+      "score": 231,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Alluvione tra Nepal e Tibet: 157 morti, 466 stranieri dispersi. Tajani: \"Due italiani coinvolti dalla frana in buone condizioni\" - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSTB0dU9aOFpLSTRfVFJZME1UbFpDckdXRHE5cEJmOEp5UmVnOGlqcUVoQ0U4VnBxVHB4OElkZlJDUlRld1FXY1FRX1VJV05vOTZLLUdwSEthSTN4MTFPNU04QXJWa2ZIeG9Pcjlad2wyUTB1SDlFRHMxd0pXeDVDQkRUdVVHZ0dTUXJYQmFhYnJESjRRUUZBeXpPb3FNMjBtQXVoWTg0VDRZUVc2dHF4R05yYjgzYkMtMUh3ZWpiakcybXNHb3c3OFllQnJUaE44TFRsZjY3T2s1Y2hUcFlvd2VLQVQ3OUplZVdBazIzcnZfZw?oc=5",
+          "description": "Alluvione tra Nepal e Tibet: 157 morti, 466 stranieri dispersi. Tajani: \"Due italiani coinvolti dalla frana in buone condizioni\" ANSA Bomba di fango fra Tibet e Nepal, almeno 160 morti e centinaia di dispersi - Cronaca di un disastro dalle cause ancora incerte RaiNews Cina, '558 persone irreperibili dopo alluvione Tibet-Nepal, 260 stranieri' ANSA Nepal, l’esperto: “Una bomba di ghiaccio caduta da ",
+          "pubDate": "Wed, 26 Aug 2026 19:57:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Usa-Iran-Cina, ora la guerra entra nella fase triangolare - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTEZFOXh1Ymcya0JwZS1MOUc5ZzY4bUJVLUIxOWZoTTgxMm1DaklsSzFsX3lVemQtaVJJOHAtT0Z4SE5NNHM2a2lVeldDTGs2Uks2LWM4bzlINXZuX0NsbG9HVmwxR1lqQ0hVUXg0WTZSQnE1ZjAyWTRrSXpYSVhJLVNIeDNpVllxcmphQWw2b1g2NG84Q3hWV3RkZ2ViU2VROTZrNllpSTA3TmkyWktlOFNadm11XzMweWVhd3BQeGFzSlRCNEQzcjVTSENwMEI5QUlua3A1ZmhNU1NwR2FnOF9vcW83cE9mcW54eU9JWEpaUHdHdEFDV2c4RzFDNGlt0gGGAkFVX3lxTE8wQWN6NlNlYWlhNlpCSVZpb2FPbUJSRldncXlOc3c3aEoxQ0h3TEJfRHJWZ0MydjVJMlVJSFVlNEMxcS1LVmpLV2xGV0hpQ1ZoanN4UktaYjg0djNGZFRVU0I1Z21JWkhJMmF6czJMdWk4dmJRQkE1cDNXTElJbVFXLUdDUkMxS0NUcnAtU2tLajJudjh2aFFmZ1hCTkJTOWU2OUtBejRQZTF1WlUxVnQxdHJIazg5aGgyMU9qV2JqZ2FXd3VhQmNTOWhzaWtqazdXazM4TWc4R3dEcWF3NzdicmlnQmZ6dWYxVzJiVUhZbFFOOVFhNURPTnUxT1Z3ZmxGZmxSWGc?oc=5",
+          "description": "Usa-Iran-Cina, ora la guerra entra nella fase triangolare Corriere della Sera Guerra Usa-Iran, le notizie in diretta | Corriere della Sera L'Iran all'ONU: \"Le sanzioni USA sono terrorismo economico\" - Un'altra petroliera colpita nello Stretto di Hormuz RaiNews 4,8 miliardi di motivi per cui Trump ha bisogno della Russia per isolare l'Iran HuffPost Italia Iran: un D-Day a metà ISPI",
+          "pubDate": "Wed, 26 Aug 2026 14:37:23 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "È morto Vittorio Frescobaldi, il marchese che contribuì al Rinascimento del vino italiano. Aveva 97 anni - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOcEtYSnZET3JjcXZ3RG85MGxYVWg4bGlaRlh0MkNOOVhrM2xaRGd0ajlZNHBGN3VuLXR5b0IzUno2aE5WYlBJbU9venVVdW5fN3U1b0FzOFZ3WEhtZXVSazhXaC1zVEdJT0UxZkc0c09MRmtOTTJRLXA0MGlzcTZMdjlmei16bmkxOHA5QzNfb2lGcGFFOHNTNTlUUUF5ZjU4blBORXA2eFNrdHBFYW9xOFVlNkFYdml3X1Q0MTRoUHJoWHFRLXgyanFNSk1NeWxYRlVhb0lHZDZRTy04aGlRNmFsNmVOZEU1Z2ZxZTZzREdKUG1vSldoSXVTSUphQUpTSFdqaW1CZkE1cklFVldORTI2TmdHZ9IBmwJBVV95cUxQT0ZLMUp5eVVKS0stVHdVLUlYZWVKYUZSSWF0dkhOZGJsQlNvT0EweFBNeDZ2TWVQbFRaLUo0OFU0LTlkc1c1M3JhNFZCWkVoYmlPOGlFU3RwM0hzYmR3WU1tdk8wWVNNanYwMXFUYjE0QXgzVUJLdTJ0b0dtc3dZQUtsN0lrTF9FTUt0czVOUF8tMVNJakRxLXpZV0hVOUlzdktvakNha2J0Q0pwY1FIbVExMUV1dFdVaXpIcGZkeDFfc2FLbVd6NThGS0tyRUZXcXpXSTJraHhaRmxHc0x4ZXgtN0FqSzF6YUgycWJ6X2ZFR1AtUklmWmFxM3hBN0xPVWhvTFlub2luLUJQRk9hNHBOYml2ckU1NkJn?oc=5",
+          "description": "È morto Vittorio Frescobaldi, il marchese che contribuì al Rinascimento del vino italiano. Aveva 97 anni Corriere della Sera Addio a Vittorio Frescobaldi, signore del vino italiano Il Sole 24 ORE CRV - Vittorio Frescobaldi. Presidente Zaia: \"Scompare uno dei grandi padri dell'enologia italiana\" ANSA È morto Vittorio Frescobaldi, l’uomo che portò il vino toscano nel mondo. Aveva 97 anni Gambero Ros",
+          "pubDate": "Wed, 26 Aug 2026 12:55:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "«Putin pronto a una nuova escalation». L’operazione Cia a Mosca è un fallimento - Domani",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlNqd3V1Qy1kX25Lb3NqYl9yVzhDUVlodng3M3FGQzJvd09jYzJSdDllQUdPY0xBMndwaVBpRFhCQUsxUEM2VnFGTVppRmM4aDF3SWJlM05NMDR4NUFRenR4c3M3dTQxQmtueUpxVWtnaEJGQVVJb2p3c3htNmlNMXlfRXdEdEJiQ0UtdWFOMVE5U3RJUmZTb1NraXlXcS1qNFpaeE4teVdhcmFJQUV6dnMtRmhrQUpu?oc=5",
+          "description": "«Putin pronto a una nuova escalation». L’operazione Cia a Mosca è un fallimento Domani Guerra Ucraina-Russia, le notizie in diretta | Mr. Cia in Russia «Ha avvertito lo zar di non attaccare i Paesi della Nato» Corriere della Sera Ratcliffe, chi è il capo della Cia e perché Trump l'ha mandato a Mosca Sky TG24 Trump-Putin: il ponte delle spie HuffPost Italia Ex agente della Cia: “I rapporti tra serv",
+          "pubDate": "Wed, 26 Aug 2026 18:29:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Il Mozambico protagonista al Meeting di Rimini con un documentario della Farnesina",
+          "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/26/il-mozambico-protagonista-al-meeting-di-rimini-con-un-documentario-della-farnesina_372cd163-96ab-4e73-bde8-091a43cb77e8.html",
+          "description": "Dedicato alla Cooperazione italiana nel Paese africano",
+          "pubDate": "Wed, 26 Aug 2026 23:29:25 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "mondo",
+      "n_items": 16,
+      "n_sources": 7,
+      "category": "general",
+      "score": 112,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "È morto Vittorio Frescobaldi, il marchese che contribuì al Rinascimento del vino italiano. Aveva 97 anni - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOcEtYSnZET3JjcXZ3RG85MGxYVWg4bGlaRlh0MkNOOVhrM2xaRGd0ajlZNHBGN3VuLXR5b0IzUno2aE5WYlBJbU9venVVdW5fN3U1b0FzOFZ3WEhtZXVSazhXaC1zVEdJT0UxZkc0c09MRmtOTTJRLXA0MGlzcTZMdjlmei16bmkxOHA5QzNfb2lGcGFFOHNTNTlUUUF5ZjU4blBORXA2eFNrdHBFYW9xOFVlNkFYdml3X1Q0MTRoUHJoWHFRLXgyanFNSk1NeWxYRlVhb0lHZDZRTy04aGlRNmFsNmVOZEU1Z2ZxZTZzREdKUG1vSldoSXVTSUphQUpTSFdqaW1CZkE1cklFVldORTI2TmdHZ9IBmwJBVV95cUxQT0ZLMUp5eVVKS0stVHdVLUlYZWVKYUZSSWF0dkhOZGJsQlNvT0EweFBNeDZ2TWVQbFRaLUo0OFU0LTlkc1c1M3JhNFZCWkVoYmlPOGlFU3RwM0hzYmR3WU1tdk8wWVNNanYwMXFUYjE0QXgzVUJLdTJ0b0dtc3dZQUtsN0lrTF9FTUt0czVOUF8tMVNJakRxLXpZV0hVOUlzdktvakNha2J0Q0pwY1FIbVExMUV1dFdVaXpIcGZkeDFfc2FLbVd6NThGS0tyRUZXcXpXSTJraHhaRmxHc0x4ZXgtN0FqSzF6YUgycWJ6X2ZFR1AtUklmWmFxM3hBN0xPVWhvTFlub2luLUJQRk9hNHBOYml2ckU1NkJn?oc=5",
+          "description": "È morto Vittorio Frescobaldi, il marchese che contribuì al Rinascimento del vino italiano. Aveva 97 anni Corriere della Sera Addio a Vittorio Frescobaldi, signore del vino italiano Il Sole 24 ORE CRV - Vittorio Frescobaldi. Presidente Zaia: \"Scompare uno dei grandi padri dell'enologia italiana\" ANSA È morto Vittorio Frescobaldi, l’uomo che portò il vino toscano nel mondo. Aveva 97 anni Gambero Ros",
+          "pubDate": "Wed, 26 Aug 2026 12:55:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Trump blocca i visti immigrati nel mondo: ecco cosa sta succedendo - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZmVrZnlCV1BrLUdUSjZGS1MyWnZvVjc4ekNncGJsNU9WWmczWGxhTWVUakNDM0daR3diTFducTlSYnFNY2MzQUc2eFRGTUZFV1Y1dFQwNmJhXzRFMHFQN0FxOVNLY0hCNW5reDZ1c1hpd3pxVjhnQmNETTFTRHpBd1pxYzBMVGRuQUk0T0R6SGpHLWk4S041VTBB?oc=5",
+          "description": "Trump blocca i visti immigrati nel mondo: ecco cosa sta succedendo Il Fatto Quotidiano Stati Uniti, sospese le richieste di visto per i migranti in tutto il mondo la Repubblica Financial Times: Trump sospende le richieste di visto per immigrati in tutto il mondo RaiNews Gli Stati Uniti hanno sospeso tutte le domande per i visti di immigrazione Il Post Stretta sugli immigrati, gli Usa sospendono le",
+          "pubDate": "Wed, 26 Aug 2026 13:53:54 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Il 'caso Ceuta' diventa terreno di scontro tra i ministri di Sánchez - AGI",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcW1rUjFpN1FPMnpyNTVwZElsMXYyUl9IUWtodWREbGlNTTROWXlxbXpXRkxJQkFLS05rM2llOENUWUhISG43bS1mZUEwRlRSeUg3MFlRTlRhVnJFRW9QTFF3dkgwNTFBRnh3ZHhTZ015YVFxZVIwWmI0WktnTUFmVHZna2duYi00OVE?oc=5",
+          "description": "Il 'caso Ceuta' diventa terreno di scontro tra i ministri di Sánchez AGI A \"Radio3 Mondo\" Ceuta, la guerra delle versioni Rai.it Ceuta nel caos, il governo si spacca: è scontro tra i ministri. E Sanchez torna in vacanza nel resort di lusso il Giornale Caos nel governo Sanchez dopo l'ondata di migranti a Ceuta: 'L'esecutivo sapeva e non è intervenuto', scontro Difesa-Interno sul rapporto degli 007 ",
+          "pubDate": "Wed, 26 Aug 2026 07:00:49 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Trump sbanca alle primarie e lancia una nuova stretta sui migranti",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/26/trump-sospende-le-richieste-di-visto-per-immigrati-in-tutto-il-mondo_5ca56ad8-845f-451f-a373-48f93e52fea2.html",
+          "description": "'Stop ai visti permanenti in tutto il mondo, 'bisogna formare i funzionari'",
+          "pubDate": "Wed, 26 Aug 2026 20:14:45 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "'Panama, anfitrione del mondo', in Parlamento la legge sul nuovo marchio Paese",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/27/panama-anfitrione-del-mondo-in-parlamento-la-legge-sul-nuovo-marchio-paese_cf9e2759-0ea8-44a0-9a6a-60baaa6f4ae3.html",
+          "description": "Il presidente Mulino blinda la strategia per i governi futuri",
+          "pubDate": "Thu, 27 Aug 2026 04:44:31 +0200"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "milano",
+      "n_items": 13,
+      "n_sources": 6,
+      "category": "economia",
+      "score": 84,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Morto il boss Domenico Papalia, portò la 'ndrangheta a Milano - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vQmlpOU90c2N5S0lvUEVxMnoxZVhzZDVMcXhPV1I0akpwWTlOajJyNkVPSWg4ZXppRS1WNWVxcUdwMDl4dUZ1dUwwMTZ1ZlM4TXMxa1pjbk4xd2RMRHJndGJYaWdvM3pOMlF3WW5R?oc=5",
+          "description": "Morto il boss Domenico Papalia, portò la 'ndrangheta a Milano Sky TG24 È morto il boss Domenico Papalia, scarcerato a luglio dopo 49 anni ANSA Morto il boss della 'ndrangheta Domenico Papalia: era il «capo delle cosche» al Nord. Dall'omicidio Mormile al coinvolgimento in sequestri, estorsioni e traffico di droga Corriere Milano Morto Domenico Papalia, il boss della ‘ndrangheta al Nord tra affari e",
+          "pubDate": "Wed, 26 Aug 2026 09:22:05 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Arrestato in Spagna Toma Taulant, il \"mago delle evasioni\". Era fuggito anche da Opera - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQmJ5SXdrWkJxSVZ2bmFkNTFkS3FjODZCZ1RxcnNueFFXbEdQcTNWNUtEUjg1Vm1iZEluZ0o0X0xDZnFGS0dYVEtJRHVReEE4Uy0zM29DdDZYUWtNcjJqMGFEWlMzNEZ5Tk9aTlNneFpXNmFKTmFXbGFoNHFFcWlLUG1kVk9IcmhQSVFaVXZBTQ?oc=5",
+          "description": "Arrestato in Spagna Toma Taulant, il \"mago delle evasioni\". Era fuggito anche da Opera Sky TG24 Arrestato a Tarragona Toma Taulant, il \"mago delle evasioni\". Scappato da 4 penitenziari RaiNews Catturato il «mago delle evasioni». A dicembre Toma Taulant era fuggito dal carcere di Opera. L'arresto in Spagna Corriere Milano Preso in Spagna Toma Taulant, il “mago delle evasioni”: era scappato dal carc",
+          "pubDate": "Wed, 26 Aug 2026 15:08:17 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Russia, il Papa invia l'arcivescovo Gallagher da Lavrov per rilanciare i negoziati: «È l'unica strada per la pace» - Corriere Roma",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb2VFTnVNOE45TTZaazd2d1RuSm5IQmpXNUloMG9ESFZJY3ZEeVk1N3JxaU44U29xVEhpX2RQWExDTkYybldrc0FOWFJfcUpIY3VLN09RdE16dWNiN01YTUs2Z29IREJTeDlZRnlGUlhMSnZxbE1TR3hURm5IMGNkWkIzZHRpb0pZZkZBN2wxbXVGaGVVUVpEckhuWE5qVnZZdS1SVWNkaWp5WmluaWEwU3EyWWx0SzY3ZTdSc1ZSRjMwMG_SAcgBQVVfeXFMT1IyZi1tazZOWE9TZmhZQjdMWWVvSFVCQWF5MjlmMTNteVhvMnVfSXBYR0pxMHRjajBfWldGT1B1Y0NkYl81NVRaSm5YSFp2R2VmMjJyeTU5STV4UmZwZlgxM0dRX3lZbFVLNGFkMGN0N3pIRFpGWFp2STdhNW5NSGl4TS1CVC1LdnhFUHdTWHlWOHF5aktQcjFhemlmVnM5cEdqOWlZb0ZjNWdMemJsMHFtYmNJcVBodzZoN3oxeXVycmdiLTA4Zy0?oc=5",
+          "description": "Russia, il Papa invia l'arcivescovo Gallagher da Lavrov per rilanciare i negoziati: «È l'unica strada per la pace» Corriere Roma Gallagher a Mosca: la guerra in Ucraina deve finire Chiesa di Milano Russia, Gallagher visita la Cattedrale ortodossa di Mosca Vatican News Lavrov tenta di portare il Vaticano dalla propria parte, ma il gioco non riesce Il Foglio Il vescovo di Kharkiv: 'La missione vatic",
+          "pubDate": "Wed, 26 Aug 2026 07:17:40 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borsa Italiana, il commento della seduta del 26 agosto 2026 - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNFRQWVp4Nlp3VnhLSFctMzdFSDF0ZV9sX1NBMEpkTzRWUXdxRlpPRnR2NFplSjFTQTFBNHRlYVFLcU9ITTZiNzdRUVdHSHNlWWJmZlRIU3hGOHRwZ19SVDJkdEVZNEFSdjM3OWZJTGU2dkxWSnplVUNQd0xYdHh1T3ppRlIxeERDS2NDWE9jY1laNDZrNUd3TjhGWWs?oc=5",
+          "description": "Borsa Italiana, il commento della seduta del 26 agosto 2026 SoldiOnline.it Seduta moderatamente positiva in Piazza Affari Borsa Italiana Borse oggi in diretta | Il Ftse Mib chiude in rialzo dello 0,3% a 52.882 punti. Buzzi e Fincantieri le migliori, cede Inwit Milano Finanza Borsa: Banche caute in Piazza Affari, il risiko non muove il mercato ANSA FTSE MIB in rialzo con il calo del petrolio che al",
+          "pubDate": "Wed, 26 Aug 2026 16:04:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse europee toniche all'indomani di Bessent e in attesa di Nvidia e segnali da Fed - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNOFk4NUZlVHAtSTJTZGJIcHptMDZSck51Ny1LRjJocm5mc0pyX2htUFlnd2hoRngtSHd0ZlhValRpdHdwbW1uZVJQdWd0VURJRWI4cm9zaU5ESS15ZThaY0ZQN1N1RnBELUx4cVNvOS1YSXBnZWlkNzZ3U1R1QlNvOEEzVGx0RmtNMVFHY1hFbWlCbS1LQlRUX0NjM3E5WkY2Nnh5ZDNTY3NDMDN1b2NwcExPVjZXRHlKcjhRbGJpdmxlVEJoZUU0a1AycnQ4bkhLRjVvaGZ6VVpiVDhlNjdKSloyTzZGZjlsaVRhREY0VDM1NVZkZXFKLTROTGZNR0paeklpWTdINVA5d00?oc=5",
+          "description": "Borse europee toniche all'indomani di Bessent e in attesa di Nvidia e segnali da Fed Borsa Italiana Borse, Milano (+0,3%) tiene sul finale. Wall Street chiude in rialzo, giù il petrolio Il Sole 24 ORE Borsa: l'Europa parte in lieve aumento, Londra +0,2% ANSA La giornata delle Borse di martedì 25 agosto | Europa contrastata, Milano regge con le banche: deboli Eni e il lusso. Greggio in calo Corrier",
+          "pubDate": "Tue, 25 Aug 2026 07:30:00 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "trump",
+      "n_items": 15,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 81,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Usa-Iran-Cina, ora la guerra entra nella fase triangolare - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTEZFOXh1Ymcya0JwZS1MOUc5ZzY4bUJVLUIxOWZoTTgxMm1DaklsSzFsX3lVemQtaVJJOHAtT0Z4SE5NNHM2a2lVeldDTGs2Uks2LWM4bzlINXZuX0NsbG9HVmwxR1lqQ0hVUXg0WTZSQnE1ZjAyWTRrSXpYSVhJLVNIeDNpVllxcmphQWw2b1g2NG84Q3hWV3RkZ2ViU2VROTZrNllpSTA3TmkyWktlOFNadm11XzMweWVhd3BQeGFzSlRCNEQzcjVTSENwMEI5QUlua3A1ZmhNU1NwR2FnOF9vcW83cE9mcW54eU9JWEpaUHdHdEFDV2c4RzFDNGlt0gGGAkFVX3lxTE8wQWN6NlNlYWlhNlpCSVZpb2FPbUJSRldncXlOc3c3aEoxQ0h3TEJfRHJWZ0MydjVJMlVJSFVlNEMxcS1LVmpLV2xGV0hpQ1ZoanN4UktaYjg0djNGZFRVU0I1Z21JWkhJMmF6czJMdWk4dmJRQkE1cDNXTElJbVFXLUdDUkMxS0NUcnAtU2tLajJudjh2aFFmZ1hCTkJTOWU2OUtBejRQZTF1WlUxVnQxdHJIazg5aGgyMU9qV2JqZ2FXd3VhQmNTOWhzaWtqazdXazM4TWc4R3dEcWF3NzdicmlnQmZ6dWYxVzJiVUhZbFFOOVFhNURPTnUxT1Z3ZmxGZmxSWGc?oc=5",
+          "description": "Usa-Iran-Cina, ora la guerra entra nella fase triangolare Corriere della Sera Guerra Usa-Iran, le notizie in diretta | Corriere della Sera L'Iran all'ONU: \"Le sanzioni USA sono terrorismo economico\" - Un'altra petroliera colpita nello Stretto di Hormuz RaiNews 4,8 miliardi di motivi per cui Trump ha bisogno della Russia per isolare l'Iran HuffPost Italia Iran: un D-Day a metà ISPI",
+          "pubDate": "Wed, 26 Aug 2026 14:37:23 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Moldova, violazione dello spazio aereo di un oggetto volante non autorizzato - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdko0WUJrNjBGdUtBclF5ZWVTZ21oeWRqNVo1cmRrRVBvaS1QREVjbkdnMTQzTWFpdnBROWFxMTgySUswOC1Pam55aHRUN3VDQkVBY3Z2Z2xCODZRbFZxRy1LQnhuRElKNTk3ZmZ6bE1ibkY2VkpKeTh4Ui1jbklUTkFZblIyd3BDVEgweS1yYXNDVVhfM0JCTkVobmgzcDluWlJmZlQ5bENtakxxTGVCSDFvQ3F1bGhLRkExZi04cWlDcG1MUG5qcFdqZFBqS04tdklxUdIBaEFVX3lxTFBoQzVld0hJNnFPT0wtR1VFMXdfVHpGZExuTk02NlU5YThEN1dIWnVINWdVcHlLdl9wRXpocWFSWlFtczNXTEhJUld6QzRpX3p5M0RvZ2c5Y2x2N2xkaTlPelljLVR2clZT?oc=5",
+          "description": "Moldova, violazione dello spazio aereo di un oggetto volante non autorizzato Tgcom24 L'inviato del Papa ancora a Mosca. Trump minimizza su visita capo CIA. Attacco in Lugansk: 9 morti - Moldova, violazione dello spazio aereo di un oggetto volante RaiNews Guerra Ucraina - Russia, le news di oggi. Drone viola spazio aereo moldavo la Repubblica",
+          "pubDate": "Wed, 26 Aug 2026 20:32:10 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "«Putin pronto a una nuova escalation». L’operazione Cia a Mosca è un fallimento - Domani",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlNqd3V1Qy1kX25Lb3NqYl9yVzhDUVlodng3M3FGQzJvd09jYzJSdDllQUdPY0xBMndwaVBpRFhCQUsxUEM2VnFGTVppRmM4aDF3SWJlM05NMDR4NUFRenR4c3M3dTQxQmtueUpxVWtnaEJGQVVJb2p3c3htNmlNMXlfRXdEdEJiQ0UtdWFOMVE5U3RJUmZTb1NraXlXcS1qNFpaeE4teVdhcmFJQUV6dnMtRmhrQUpu?oc=5",
+          "description": "«Putin pronto a una nuova escalation». L’operazione Cia a Mosca è un fallimento Domani Guerra Ucraina-Russia, le notizie in diretta | Mr. Cia in Russia «Ha avvertito lo zar di non attaccare i Paesi della Nato» Corriere della Sera Ratcliffe, chi è il capo della Cia e perché Trump l'ha mandato a Mosca Sky TG24 Trump-Putin: il ponte delle spie HuffPost Italia Ex agente della Cia: “I rapporti tra serv",
+          "pubDate": "Wed, 26 Aug 2026 18:29:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra dei dazi e sondaggi a picco: Trump rilancia lo scontro totale con il Canada - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZ3FWaGNzUXd5c3BKNlFUclJyOE5XUENneUItR3ZsVnNsZGRBSVNpUjhvYnlQVWhvNUNaRlEtUHh5X2RPRTNmN1FBcnB0VEh3dzZ6VjA0ZDF6QVNEeEZtNnFGQk9pZ3QybjJjeHI0Qm0wWmRBc2hZcnV3Q2NzU3BMUGlDV1o4VjBrLTdDWWlBbndiM1RFTEJYYVo1dkVfTmJ3ZEhsYnQ0cU1KOGUyN1JvT1U5OE5FUjd2dktOMUwtWWx1ZmN4V1g2OGJmSkFNXzBjb2U3ZnJxUDBmOHQxbjV1SnhTNm1hczlCSzdlQWtBb2l6T0czVlHSAfsBQVVfeXFMTXFpTzRsbmtSLTZmZExCNXNZQThPWkZxSjVyZmxUalJTbHBhWE95a2NRZWVXMVlidF9sVWxKb1N3d016Z3Q1dG8xTG9vQTJINzc0UU1mRkdLUFBieURvcXQzRkJzSTFlWS1ybFBHdGRCQTdjeTIzSzl6LWpiM3NlMm4zSmpSN1MxTUI2WXFVXzRscmhWYTh4aElIUmRKZXVNNGNoQzlOVk1WdjFQR2VfTVNreW90ODBrTDlFRGdMYkptUkJJVnZvNjdhTzdBNzZZOEhhNC1ZSUVSWmZxaVd4bmIzU2NuRF9HNnc0Sm54QWcySWVMaEtoVms2b0U?oc=5",
+          "description": "Guerra dei dazi e sondaggi a picco: Trump rilancia lo scontro totale con il Canada RaiNews Canada vuole avvicinarsi all'Ue: fin dove può spingersi? Yahoo Finanza Carney sarà a Strasburgo per il discorso sullo Stato dell'Unione ANSA Trump provoca il Canada: “Il lago Ontario si chiamerà lago America” La Stampa Se il Canada si stringe all’Europa negli investimenti per la difesa Il Sole 24 ORE",
+          "pubDate": "Tue, 25 Aug 2026 16:51:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Trump blocca i visti immigrati nel mondo: ecco cosa sta succedendo - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZmVrZnlCV1BrLUdUSjZGS1MyWnZvVjc4ekNncGJsNU9WWmczWGxhTWVUakNDM0daR3diTFducTlSYnFNY2MzQUc2eFRGTUZFV1Y1dFQwNmJhXzRFMHFQN0FxOVNLY0hCNW5reDZ1c1hpd3pxVjhnQmNETTFTRHpBd1pxYzBMVGRuQUk0T0R6SGpHLWk4S041VTBB?oc=5",
+          "description": "Trump blocca i visti immigrati nel mondo: ecco cosa sta succedendo Il Fatto Quotidiano Stati Uniti, sospese le richieste di visto per i migranti in tutto il mondo la Repubblica Financial Times: Trump sospende le richieste di visto per immigrati in tutto il mondo RaiNews Gli Stati Uniti hanno sospeso tutte le domande per i visti di immigrazione Il Post Stretta sugli immigrati, gli Usa sospendono le",
+          "pubDate": "Wed, 26 Aug 2026 13:53:54 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "lancia",
+      "n_items": 9,
+      "n_sources": 7,
+      "category": "tech-ai",
+      "score": 69,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra dei dazi e sondaggi a picco: Trump rilancia lo scontro totale con il Canada - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZ3FWaGNzUXd5c3BKNlFUclJyOE5XUENneUItR3ZsVnNsZGRBSVNpUjhvYnlQVWhvNUNaRlEtUHh5X2RPRTNmN1FBcnB0VEh3dzZ6VjA0ZDF6QVNEeEZtNnFGQk9pZ3QybjJjeHI0Qm0wWmRBc2hZcnV3Q2NzU3BMUGlDV1o4VjBrLTdDWWlBbndiM1RFTEJYYVo1dkVfTmJ3ZEhsYnQ0cU1KOGUyN1JvT1U5OE5FUjd2dktOMUwtWWx1ZmN4V1g2OGJmSkFNXzBjb2U3ZnJxUDBmOHQxbjV1SnhTNm1hczlCSzdlQWtBb2l6T0czVlHSAfsBQVVfeXFMTXFpTzRsbmtSLTZmZExCNXNZQThPWkZxSjVyZmxUalJTbHBhWE95a2NRZWVXMVlidF9sVWxKb1N3d016Z3Q1dG8xTG9vQTJINzc0UU1mRkdLUFBieURvcXQzRkJzSTFlWS1ybFBHdGRCQTdjeTIzSzl6LWpiM3NlMm4zSmpSN1MxTUI2WXFVXzRscmhWYTh4aElIUmRKZXVNNGNoQzlOVk1WdjFQR2VfTVNreW90ODBrTDlFRGdMYkptUkJJVnZvNjdhTzdBNzZZOEhhNC1ZSUVSWmZxaVd4bmIzU2NuRF9HNnc0Sm54QWcySWVMaEtoVms2b0U?oc=5",
+          "description": "Guerra dei dazi e sondaggi a picco: Trump rilancia lo scontro totale con il Canada RaiNews Canada vuole avvicinarsi all'Ue: fin dove può spingersi? Yahoo Finanza Carney sarà a Strasburgo per il discorso sullo Stato dell'Unione ANSA Trump provoca il Canada: “Il lago Ontario si chiamerà lago America” La Stampa Se il Canada si stringe all’Europa negli investimenti per la difesa Il Sole 24 ORE",
+          "pubDate": "Tue, 25 Aug 2026 16:51:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Russia, il Papa invia l'arcivescovo Gallagher da Lavrov per rilanciare i negoziati: «È l'unica strada per la pace» - Corriere Roma",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb2VFTnVNOE45TTZaazd2d1RuSm5IQmpXNUloMG9ESFZJY3ZEeVk1N3JxaU44U29xVEhpX2RQWExDTkYybldrc0FOWFJfcUpIY3VLN09RdE16dWNiN01YTUs2Z29IREJTeDlZRnlGUlhMSnZxbE1TR3hURm5IMGNkWkIzZHRpb0pZZkZBN2wxbXVGaGVVUVpEckhuWE5qVnZZdS1SVWNkaWp5WmluaWEwU3EyWWx0SzY3ZTdSc1ZSRjMwMG_SAcgBQVVfeXFMT1IyZi1tazZOWE9TZmhZQjdMWWVvSFVCQWF5MjlmMTNteVhvMnVfSXBYR0pxMHRjajBfWldGT1B1Y0NkYl81NVRaSm5YSFp2R2VmMjJyeTU5STV4UmZwZlgxM0dRX3lZbFVLNGFkMGN0N3pIRFpGWFp2STdhNW5NSGl4TS1CVC1LdnhFUHdTWHlWOHF5aktQcjFhemlmVnM5cEdqOWlZb0ZjNWdMemJsMHFtYmNJcVBodzZoN3oxeXVycmdiLTA4Zy0?oc=5",
+          "description": "Russia, il Papa invia l'arcivescovo Gallagher da Lavrov per rilanciare i negoziati: «È l'unica strada per la pace» Corriere Roma Gallagher a Mosca: la guerra in Ucraina deve finire Chiesa di Milano Russia, Gallagher visita la Cattedrale ortodossa di Mosca Vatican News Lavrov tenta di portare il Vaticano dalla propria parte, ma il gioco non riesce Il Foglio Il vescovo di Kharkiv: 'La missione vatic",
+          "pubDate": "Wed, 26 Aug 2026 07:17:40 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Gates lancia l'allarme sull'Ia, 'posti di lavoro a rischio'",
+          "link": "https://www.ansa.it/canale_tecnologia/notizie/cybersecurity/2026/08/26/lallarme-di-bill-gates-lintelligenza-artificiale-e-piu-pericolosa-di-quanto-si-pensi_13e8a1af-deb4-4fd3-86ba-c52a36b7dd1d.html",
+          "description": "L'idea del fondatore di Microsoft: 'Il 40% sia riservato agli umani. Ne parlerò con Xi'",
+          "pubDate": "Wed, 26 Aug 2026 19:27:43 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Trump sbanca alle primarie e lancia una nuova stretta sui migranti",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/26/trump-sospende-le-richieste-di-visto-per-immigrati-in-tutto-il-mondo_5ca56ad8-845f-451f-a373-48f93e52fea2.html",
+          "description": "'Stop ai visti permanenti in tutto il mondo, 'bisogna formare i funzionari'",
+          "pubDate": "Wed, 26 Aug 2026 20:14:45 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Confcom: dalle bollette ai trasporti, le spese obbligate mangiano il 42% dei consumi familiari - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQWs5T1J5dUFhZGM5Qk5UcDdnVmpTeHc1Zm1qNzZ3TXdFYzY3enlaWWIzUzF1WXdmUnZmV0RJczBZSlZDYndwTG4wTE1jZ3ZGSUpNMkZxSUJIajFuN29HeXBoMGUxWmtleXozclFXMmIteHhMZWRPcTNqd0NMOHFxLTZ5UkZieUp4dk1EVDlrMUhVUlM1N1l4dzN0M2h4QUo4YXRaMy1zZ2E5TUJ2MFF3R3FwU1N5YTg2c0lHX2JPMnZNNU40b2EwT1hTWjBmVlRCLTBNOXVxMWg5WUhJcDJlSHREWUE0Z0tQclhDZnRUYW5zMzRBQ1BkcXNKQXdvVVIwRC1lTTJFdw?oc=5",
+          "description": "Confcom: dalle bollette ai trasporti, le spese obbligate mangiano il 42% dei consumi familiari ANSA Spese obbligate, valgono più del 41% dei consumi familiari: affitto, bollette e cure mediche in testa Corriere della Sera Confcommercio, il 42% del reddito delle famiglie assorbito dalle spese obbligate. Energia +211% la Repubblica Sangalli, intervenire su fisco e tariffe per rilanciare i consumi AN",
+          "pubDate": "Wed, 26 Aug 2026 07:35:00 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "meta",
+      "n_items": 8,
+      "n_sources": 7,
+      "category": "tech-ai",
+      "score": 62,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Meta agrees to pay $18 billion to settle US lawsuits over children's social media addiction - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQklxUlA2VWk3Nml5YlJkaFU2djhKRHF4eVNuemxfWFFHc2dxbVVyTEhZeGxOS2tjYmRqbC05Tmc4RGhkcTltcDN1cnpHQWxGUjU3emREMkZuTDFuckRyNEJxbDNDT2pvOEtmNUhvd3o2TW00Z1R2bklRU015ZThnSW1LTkR5UU41R0tqRUlKb3ZSOHdWVVVad2lCZW1yZmN3TXhGLXFzaTU3cWt4WEdXZHprR0pFNHNWMkE?oc=5",
+          "description": "Meta agrees to pay $18 billion to settle US lawsuits over children's social media addiction Reuters Meta settles social media addiction case with California, other states for $16.7 billion CNBC Mom sues Meta over son's death, settlement reaction FOX 13 Tampa Bay 2 hours a day, no late nights: How Meta’s settlement will change teen accounts The Washington Post How to Lose $12 Billion and Still Win ",
+          "pubDate": "Wed, 26 Aug 2026 23:09:28 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Dipendenza da social, 'Meta patteggia e paga 16,7 miliardi'",
+          "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/08/26/dipendenza-da-social-meta-patteggia-e-paga-167-miliardi_2e2ed954-284d-4b8e-89b3-8d6f4e0c3843.html",
+          "description": "L'intesa raggiunta durante il processo per la causa intentata dagli stati Usa",
+          "pubDate": "Wed, 26 Aug 2026 23:19:04 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Processo Meta, accordo tra Stati Usa e l'azienda per il patteggiamento - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV2YtN190M2szdjFySUFFSm9vRTVadkw2MFEtTmFneVh6aHZqalZSLXJiS3ZrN2RXY2todDV1SGlxeUFSRXJaQ3MwckFtdjJkNjdBOVJWWUp4T3BGS0N5cnQtWDNmQWczT2FWUmlxYktTMTdyWWlubVc5YUswM20yclFyYXVQek9BZHJwcnpnYVRnSzQ?oc=5",
+          "description": "Processo Meta, accordo tra Stati Usa e l'azienda per il patteggiamento Sky TG24 Meta trova un accordo nel processo sulla dipendenza dai social: pagherà agli stati Usa fino a 18 miliardi di dollari Corriere della Sera Dipendenza da social, 'Meta patteggia e paga 16,7 miliardi' ANSA Meta accetta di modificare Facebook e Instagram per proteggere gli adolescenti (e pagare circa 18 miliardi di dollari)",
+          "pubDate": "Wed, 26 Aug 2026 08:24:55 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Meta's $18bn settlement may hasten reckoning for social media on child safety",
+          "link": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go?at_medium=RSS&at_campaign=rss",
+          "description": "Perhaps our days of doomscrolling are numbered, writes the BBC's technology editor Zoe Kleinman.",
+          "pubDate": "Wed, 26 Aug 2026 23:04:24 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
+          "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
+          "description": "The deal has been reached during a California federal court trial over claims brought by US states.",
+          "pubDate": "Wed, 26 Aug 2026 21:27:23 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "russia",
+      "n_items": 11,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 61,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Negoziati in stallo, Mosca pronta a intensificare gli attacchi sull'Ucraina - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa0pXem03X0xOMVdGMkRINlhSc1FVTTMxNV9ZdGJjMzFUME0tQUpmLTJlNkU3TFNWOF94RUJuMGNpWDVkeDRndFhmREhmYzhFY2R2NmhUQTBVSDg5MmRkMzBNSEVNdFpSclVvTmpibTE2WUMyd0FFal80UDVwSEFoNzZQbWNqR3p0c09RM1Q2anY3aW9fbldCa2pneWkzaFhVM29vNFlFVll6SXA00gFoQVVfeXFMTnFNZXMzVVlZQm51dFdjUzZWVmRlUUE1NU01UkNzNVN3Rk5kbTNnRjlUYVphamFyOWZIc0Q0LXlHLTZfU0Iwd1BxVXVsVThmeHlnTzVWd2YyQ1NYUXNrbVZsNmVuNThDQ2s?oc=5",
+          "description": "Negoziati in stallo, Mosca pronta a intensificare gli attacchi sull'Ucraina Tgcom24 Guerra Ucraina-Russia, le notizie in diretta | Bloomberg: «Putin non crede ai negoziati e prepara una nuova escalation». Media, attacco ucraino alla maxi-raffineria russa Lukoil a Nizhny Novgorod Corriere della Sera \"Putin prepara un'escalation\", Londra aggiorna i piani di difesa. Bombe su Kiev nella notte - Esplos",
+          "pubDate": "Wed, 26 Aug 2026 18:09:28 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Usa-Iran-Cina, ora la guerra entra nella fase triangolare - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTEZFOXh1Ymcya0JwZS1MOUc5ZzY4bUJVLUIxOWZoTTgxMm1DaklsSzFsX3lVemQtaVJJOHAtT0Z4SE5NNHM2a2lVeldDTGs2Uks2LWM4bzlINXZuX0NsbG9HVmwxR1lqQ0hVUXg0WTZSQnE1ZjAyWTRrSXpYSVhJLVNIeDNpVllxcmphQWw2b1g2NG84Q3hWV3RkZ2ViU2VROTZrNllpSTA3TmkyWktlOFNadm11XzMweWVhd3BQeGFzSlRCNEQzcjVTSENwMEI5QUlua3A1ZmhNU1NwR2FnOF9vcW83cE9mcW54eU9JWEpaUHdHdEFDV2c4RzFDNGlt0gGGAkFVX3lxTE8wQWN6NlNlYWlhNlpCSVZpb2FPbUJSRldncXlOc3c3aEoxQ0h3TEJfRHJWZ0MydjVJMlVJSFVlNEMxcS1LVmpLV2xGV0hpQ1ZoanN4UktaYjg0djNGZFRVU0I1Z21JWkhJMmF6czJMdWk4dmJRQkE1cDNXTElJbVFXLUdDUkMxS0NUcnAtU2tLajJudjh2aFFmZ1hCTkJTOWU2OUtBejRQZTF1WlUxVnQxdHJIazg5aGgyMU9qV2JqZ2FXd3VhQmNTOWhzaWtqazdXazM4TWc4R3dEcWF3NzdicmlnQmZ6dWYxVzJiVUhZbFFOOVFhNURPTnUxT1Z3ZmxGZmxSWGc?oc=5",
+          "description": "Usa-Iran-Cina, ora la guerra entra nella fase triangolare Corriere della Sera Guerra Usa-Iran, le notizie in diretta | Corriere della Sera L'Iran all'ONU: \"Le sanzioni USA sono terrorismo economico\" - Un'altra petroliera colpita nello Stretto di Hormuz RaiNews 4,8 miliardi di motivi per cui Trump ha bisogno della Russia per isolare l'Iran HuffPost Italia Iran: un D-Day a metà ISPI",
+          "pubDate": "Wed, 26 Aug 2026 14:37:23 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Moldova, violazione dello spazio aereo di un oggetto volante non autorizzato - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdko0WUJrNjBGdUtBclF5ZWVTZ21oeWRqNVo1cmRrRVBvaS1QREVjbkdnMTQzTWFpdnBROWFxMTgySUswOC1Pam55aHRUN3VDQkVBY3Z2Z2xCODZRbFZxRy1LQnhuRElKNTk3ZmZ6bE1ibkY2VkpKeTh4Ui1jbklUTkFZblIyd3BDVEgweS1yYXNDVVhfM0JCTkVobmgzcDluWlJmZlQ5bENtakxxTGVCSDFvQ3F1bGhLRkExZi04cWlDcG1MUG5qcFdqZFBqS04tdklxUdIBaEFVX3lxTFBoQzVld0hJNnFPT0wtR1VFMXdfVHpGZExuTk02NlU5YThEN1dIWnVINWdVcHlLdl9wRXpocWFSWlFtczNXTEhJUld6QzRpX3p5M0RvZ2c5Y2x2N2xkaTlPelljLVR2clZT?oc=5",
+          "description": "Moldova, violazione dello spazio aereo di un oggetto volante non autorizzato Tgcom24 L'inviato del Papa ancora a Mosca. Trump minimizza su visita capo CIA. Attacco in Lugansk: 9 morti - Moldova, violazione dello spazio aereo di un oggetto volante RaiNews Guerra Ucraina - Russia, le news di oggi. Drone viola spazio aereo moldavo la Repubblica",
+          "pubDate": "Wed, 26 Aug 2026 20:32:10 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "«Putin pronto a una nuova escalation». L’operazione Cia a Mosca è un fallimento - Domani",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlNqd3V1Qy1kX25Lb3NqYl9yVzhDUVlodng3M3FGQzJvd09jYzJSdDllQUdPY0xBMndwaVBpRFhCQUsxUEM2VnFGTVppRmM4aDF3SWJlM05NMDR4NUFRenR4c3M3dTQxQmtueUpxVWtnaEJGQVVJb2p3c3htNmlNMXlfRXdEdEJiQ0UtdWFOMVE5U3RJUmZTb1NraXlXcS1qNFpaeE4teVdhcmFJQUV6dnMtRmhrQUpu?oc=5",
+          "description": "«Putin pronto a una nuova escalation». L’operazione Cia a Mosca è un fallimento Domani Guerra Ucraina-Russia, le notizie in diretta | Mr. Cia in Russia «Ha avvertito lo zar di non attaccare i Paesi della Nato» Corriere della Sera Ratcliffe, chi è il capo della Cia e perché Trump l'ha mandato a Mosca Sky TG24 Trump-Putin: il ponte delle spie HuffPost Italia Ex agente della Cia: “I rapporti tra serv",
+          "pubDate": "Wed, 26 Aug 2026 18:29:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Media Usa: 'Putin prepara escalation, ritiene trattative ferme' - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWjk0MmhCd2d0M3gyTzQ1ZHZfY05jalBKOXdqYjZaeUNWLU1QekdnZjdTd2pQWmpQNWg2c3I2YVZ5eUxEU3Nxdm5RMl9JU19mUW1FVExlWTkwUzNucFU5TlpITlNrTG0zUXVXNWFZc2g4YktIMWVQWlk4dzIyUDY3cEJlc1c3MWR0?oc=5",
+          "description": "Media Usa: 'Putin prepara escalation, ritiene trattative ferme' Sky TG24 Guerra Ucraina-Russia, le notizie in diretta | Bloomberg: «Putin non crede ai negoziati e prepara una nuova escalation». Media, attacco ucraino alla maxi-raffineria russa Lukoil a Nizhny Novgorod Corriere della Sera \"Putin prepara un'escalation\", Londra aggiorna i piani di difesa. Bombe su Kiev nella notte - Esplosioni nella ",
+          "pubDate": "Wed, 26 Aug 2026 22:15:40 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "cina",
+      "n_items": 9,
+      "n_sources": 6,
+      "category": "tech-ai",
+      "score": 60,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Alluvione tra Nepal e Tibet: 157 morti, 466 stranieri dispersi. Tajani: \"Due italiani coinvolti dalla frana in buone condizioni\" - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSTB0dU9aOFpLSTRfVFJZME1UbFpDckdXRHE5cEJmOEp5UmVnOGlqcUVoQ0U4VnBxVHB4OElkZlJDUlRld1FXY1FRX1VJV05vOTZLLUdwSEthSTN4MTFPNU04QXJWa2ZIeG9Pcjlad2wyUTB1SDlFRHMxd0pXeDVDQkRUdVVHZ0dTUXJYQmFhYnJESjRRUUZBeXpPb3FNMjBtQXVoWTg0VDRZUVc2dHF4R05yYjgzYkMtMUh3ZWpiakcybXNHb3c3OFllQnJUaE44TFRsZjY3T2s1Y2hUcFlvd2VLQVQ3OUplZVdBazIzcnZfZw?oc=5",
+          "description": "Alluvione tra Nepal e Tibet: 157 morti, 466 stranieri dispersi. Tajani: \"Due italiani coinvolti dalla frana in buone condizioni\" ANSA Bomba di fango fra Tibet e Nepal, almeno 160 morti e centinaia di dispersi - Cronaca di un disastro dalle cause ancora incerte RaiNews Cina, '558 persone irreperibili dopo alluvione Tibet-Nepal, 260 stranieri' ANSA Nepal, l’esperto: “Una bomba di ghiaccio caduta da ",
+          "pubDate": "Wed, 26 Aug 2026 19:57:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Usa-Iran-Cina, ora la guerra entra nella fase triangolare - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTEZFOXh1Ymcya0JwZS1MOUc5ZzY4bUJVLUIxOWZoTTgxMm1DaklsSzFsX3lVemQtaVJJOHAtT0Z4SE5NNHM2a2lVeldDTGs2Uks2LWM4bzlINXZuX0NsbG9HVmwxR1lqQ0hVUXg0WTZSQnE1ZjAyWTRrSXpYSVhJLVNIeDNpVllxcmphQWw2b1g2NG84Q3hWV3RkZ2ViU2VROTZrNllpSTA3TmkyWktlOFNadm11XzMweWVhd3BQeGFzSlRCNEQzcjVTSENwMEI5QUlua3A1ZmhNU1NwR2FnOF9vcW83cE9mcW54eU9JWEpaUHdHdEFDV2c4RzFDNGlt0gGGAkFVX3lxTE8wQWN6NlNlYWlhNlpCSVZpb2FPbUJSRldncXlOc3c3aEoxQ0h3TEJfRHJWZ0MydjVJMlVJSFVlNEMxcS1LVmpLV2xGV0hpQ1ZoanN4UktaYjg0djNGZFRVU0I1Z21JWkhJMmF6czJMdWk4dmJRQkE1cDNXTElJbVFXLUdDUkMxS0NUcnAtU2tLajJudjh2aFFmZ1hCTkJTOWU2OUtBejRQZTF1WlUxVnQxdHJIazg5aGgyMU9qV2JqZ2FXd3VhQmNTOWhzaWtqazdXazM4TWc4R3dEcWF3NzdicmlnQmZ6dWYxVzJiVUhZbFFOOVFhNURPTnUxT1Z3ZmxGZmxSWGc?oc=5",
+          "description": "Usa-Iran-Cina, ora la guerra entra nella fase triangolare Corriere della Sera Guerra Usa-Iran, le notizie in diretta | Corriere della Sera L'Iran all'ONU: \"Le sanzioni USA sono terrorismo economico\" - Un'altra petroliera colpita nello Stretto di Hormuz RaiNews 4,8 miliardi di motivi per cui Trump ha bisogno della Russia per isolare l'Iran HuffPost Italia Iran: un D-Day a metà ISPI",
+          "pubDate": "Wed, 26 Aug 2026 14:37:23 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra dei dazi e sondaggi a picco: Trump rilancia lo scontro totale con il Canada - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZ3FWaGNzUXd5c3BKNlFUclJyOE5XUENneUItR3ZsVnNsZGRBSVNpUjhvYnlQVWhvNUNaRlEtUHh5X2RPRTNmN1FBcnB0VEh3dzZ6VjA0ZDF6QVNEeEZtNnFGQk9pZ3QybjJjeHI0Qm0wWmRBc2hZcnV3Q2NzU3BMUGlDV1o4VjBrLTdDWWlBbndiM1RFTEJYYVo1dkVfTmJ3ZEhsYnQ0cU1KOGUyN1JvT1U5OE5FUjd2dktOMUwtWWx1ZmN4V1g2OGJmSkFNXzBjb2U3ZnJxUDBmOHQxbjV1SnhTNm1hczlCSzdlQWtBb2l6T0czVlHSAfsBQVVfeXFMTXFpTzRsbmtSLTZmZExCNXNZQThPWkZxSjVyZmxUalJTbHBhWE95a2NRZWVXMVlidF9sVWxKb1N3d016Z3Q1dG8xTG9vQTJINzc0UU1mRkdLUFBieURvcXQzRkJzSTFlWS1ybFBHdGRCQTdjeTIzSzl6LWpiM3NlMm4zSmpSN1MxTUI2WXFVXzRscmhWYTh4aElIUmRKZXVNNGNoQzlOVk1WdjFQR2VfTVNreW90ODBrTDlFRGdMYkptUkJJVnZvNjdhTzdBNzZZOEhhNC1ZSUVSWmZxaVd4bmIzU2NuRF9HNnc0Sm54QWcySWVMaEtoVms2b0U?oc=5",
+          "description": "Guerra dei dazi e sondaggi a picco: Trump rilancia lo scontro totale con il Canada RaiNews Canada vuole avvicinarsi all'Ue: fin dove può spingersi? Yahoo Finanza Carney sarà a Strasburgo per il discorso sullo Stato dell'Unione ANSA Trump provoca il Canada: “Il lago Ontario si chiamerà lago America” La Stampa Se il Canada si stringe all’Europa negli investimenti per la difesa Il Sole 24 ORE",
+          "pubDate": "Tue, 25 Aug 2026 16:51:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Terrore ad Haiti, gang in azione: è strage tra i civili - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS2VqMThKS2ppRzRtbnhZSGdPN2VaclFGYVR2M255T3lHWmV5ZUxnNTJvOUNvbGJydWpGV2lQUjRCc2h5cEdFNno1dlYtamFsbkE2R3BRZU0yQlhncEhuSmo0aVgzcVN5S1FFLXNMdjlJN1BseVd5Y3UzX29GYXdzbGFxMUZpcVhwQ2dPOUV1RUlBMjRfWGZDV9IBngFBVV95cUxQdXBxSWlITFhzdFdnQ3o5ZUdyN0lVMWRHWTB2bVJETGdET25BcVlBdUNzR3VTZXg0bC04NEE1aXVwU3U1NHJyX0o5ZnhOSlhKNDB6OHo4SzFNUll0ck9LMFhmN1Qzbk4tZlFMV0ktS2lMMVpHX1ZpX09GVDRkZ18xNkZLM3lTRnVCemRWanVVRDV2Z0VaS1RxRk9NOEY4QQ?oc=5",
+          "description": "Terrore ad Haiti, gang in azione: è strage tra i civili la Repubblica Haiti, la strage delle bande armate vicino a Port-au-Prince Vatican News Carneficina vicino Port-au-Prince: 47 morti, catturati ostaggi dopo notte di terrore RaiNews Haiti, massacro in una chiesa vicino a Port-au-Prince: almeno 47 morti e decine di feriti Corriere della Sera AMERICA/HAITI - Massacro a Kenscoff: almeno 47 vittime",
+          "pubDate": "Tue, 25 Aug 2026 23:00:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Cina, '558 persone irreperibili dopo alluvione Tibet-Nepal, 260 stranieri'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/27/cina-558-persone-irreperibili-dopo-alluvione-tibet-nepal-260-stranieri_2b004265-d905-4f7e-a5e3-3c594a1b69e6.html",
+          "description": "Per Kathmandu irraggiungibili 468 turisti. Non si può stabilire se i bilanci sono distinti",
+          "pubDate": "Thu, 27 Aug 2026 05:40:18 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "social",
+      "n_items": 7,
+      "n_sources": 7,
+      "category": "tech-ai",
+      "score": 55,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Meta agrees to pay $18 billion to settle US lawsuits over children's social media addiction - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQklxUlA2VWk3Nml5YlJkaFU2djhKRHF4eVNuemxfWFFHc2dxbVVyTEhZeGxOS2tjYmRqbC05Tmc4RGhkcTltcDN1cnpHQWxGUjU3emREMkZuTDFuckRyNEJxbDNDT2pvOEtmNUhvd3o2TW00Z1R2bklRU015ZThnSW1LTkR5UU41R0tqRUlKb3ZSOHdWVVVad2lCZW1yZmN3TXhGLXFzaTU3cWt4WEdXZHprR0pFNHNWMkE?oc=5",
+          "description": "Meta agrees to pay $18 billion to settle US lawsuits over children's social media addiction Reuters Meta settles social media addiction case with California, other states for $16.7 billion CNBC Mom sues Meta over son's death, settlement reaction FOX 13 Tampa Bay 2 hours a day, no late nights: How Meta’s settlement will change teen accounts The Washington Post How to Lose $12 Billion and Still Win ",
+          "pubDate": "Wed, 26 Aug 2026 23:09:28 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Dipendenza da social, 'Meta patteggia e paga 16,7 miliardi'",
+          "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/08/26/dipendenza-da-social-meta-patteggia-e-paga-167-miliardi_2e2ed954-284d-4b8e-89b3-8d6f4e0c3843.html",
+          "description": "L'intesa raggiunta durante il processo per la causa intentata dagli stati Usa",
+          "pubDate": "Wed, 26 Aug 2026 23:19:04 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Il pilota-influencer, 'ho una malattia rara ma non ho paura di morire'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/27/il-pilota-influencer-ho-una-malattia-rara-ma-non-ho-paura-di-morire_6b373b17-e99f-4208-8df2-3adb340fd7dd.html",
+          "description": "Il racconto online del brasiliano Sousa, sui social conta 3,7 milioni di follower",
+          "pubDate": "Thu, 27 Aug 2026 01:35:08 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Processo Meta, accordo tra Stati Usa e l'azienda per il patteggiamento - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV2YtN190M2szdjFySUFFSm9vRTVadkw2MFEtTmFneVh6aHZqalZSLXJiS3ZrN2RXY2todDV1SGlxeUFSRXJaQ3MwckFtdjJkNjdBOVJWWUp4T3BGS0N5cnQtWDNmQWczT2FWUmlxYktTMTdyWWlubVc5YUswM20yclFyYXVQek9BZHJwcnpnYVRnSzQ?oc=5",
+          "description": "Processo Meta, accordo tra Stati Usa e l'azienda per il patteggiamento Sky TG24 Meta trova un accordo nel processo sulla dipendenza dai social: pagherà agli stati Usa fino a 18 miliardi di dollari Corriere della Sera Dipendenza da social, 'Meta patteggia e paga 16,7 miliardi' ANSA Meta accetta di modificare Facebook e Instagram per proteggere gli adolescenti (e pagare circa 18 miliardi di dollari)",
+          "pubDate": "Wed, 26 Aug 2026 08:24:55 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Meta's $18bn settlement may hasten reckoning for social media on child safety",
+          "link": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go?at_medium=RSS&at_campaign=rss",
+          "description": "Perhaps our days of doomscrolling are numbered, writes the BBC's technology editor Zoe Kleinman.",
+          "pubDate": "Wed, 26 Aug 2026 23:04:24 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "rischio",
+      "n_items": 9,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 51,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "Gates lancia l'allarme sull'Ia, 'posti di lavoro a rischio'",
+          "link": "https://www.ansa.it/canale_tecnologia/notizie/cybersecurity/2026/08/26/lallarme-di-bill-gates-lintelligenza-artificiale-e-piu-pericolosa-di-quanto-si-pensi_13e8a1af-deb4-4fd3-86ba-c52a36b7dd1d.html",
+          "description": "L'idea del fondatore di Microsoft: 'Il 40% sia riservato agli umani. Ne parlerò con Xi'",
+          "pubDate": "Wed, 26 Aug 2026 19:27:43 +0200"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Gates lancia l'allarme sull'Ia, 'posti di lavoro a rischio' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOa2pYeXRqYjlhNGxVU3pIcThCdFNLZWotX2lLcnpqYlJXM19SMzRkcnRGZzNHUzUtb3A5Rk5IWUQwZXFrMFdrd1JpVU1tLUFMZXFJcnphZzVKQTFSNmhGdU9Sbks2NlZLMEhuRHlnNGxSRWstYmJYMk94ZWNDLXlEcDJVMW9KWl9iWWVnbG5KaEE4RUw3TUFFUFNwMkdmUmxERVJtdHZ5aDRuQWZ2YWs1MldhRVp1QlRaRFBoZW1XTmlIN2tUcTROOHpoQVhFWUZLc2xLODVOd1NRU3RLUzJVOTd3cHBNTzlYRDJwdzFDbm5ILUgtWVMyN2c3VERyMWR6VFZGSFVHeVFReWVWTFVBTlUzNlNrNnhLNFY4RV9GTW1zN0U?oc=5",
+          "description": "Gates lancia l'allarme sull'Ia, 'posti di lavoro a rischio' ANSA",
+          "pubDate": "Wed, 26 Aug 2026 13:27:48 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'allarme dei big, 'rischio estinzione con l'IA, è come le pandemie'",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/lallarme-dei-big-rischio-estinzione-con-ia-e-come-pandemie_3afde5e5-7bcf-464e-b3aa-aee6577a9b23.html",
+          "description": "Nyt riporta lettera di 350 leader industria, anche ceo OpenAI",
+          "pubDate": "Tue, 30 May 2023 14:12:41 +0200"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Caldo estremo: le città a maggior rischio fino a venerdi 28 agosto - MeteoLive",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNDEydmxjV0FEbENSaERXTW91elg4UDZOVFJVTThtaFBYeklhcjJ6bXlZeGZKOG4wUXVfdEJqUWRVcXd2N2EtWFl2UTFsQ3pGMUFsUG5JYl94UDJRNlBwMzBnczhMOUFLdXd2cXFuSWc3YnlHODl3Tkh3aVBoYVd2RHdZWWV3c0pRVGN6WEFDMVFxdkQxWlJqUXhrc2hwV0kxYlNzRQ?oc=5",
+          "description": "Caldo estremo: le città a maggior rischio fino a venerdi 28 agosto MeteoLive",
+          "pubDate": "Wed, 26 Aug 2026 12:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Mummie in vendita sul web: come muffe e sostanze tossiche (antiche) possono mettere a rischio chi le compra - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPTFpDNDRwUl9fcG5Hb3d3LXlBLTJsMG5YcnRXdmNtWUNNNWZpU3dlVlM2WGx6VFFvdko4WTZMYXR5aWxWMWFuYW9ueW9BaFBpdUt6dW9NRExSQ1R4OVpvYV9Od0pYRDFINWtCM3hobzdZVm9DRklDeHhNdzJTbE1pT3JfNFFldWVrWnpnYmkySGtRZU8tQ1hDNHR3OFMxMFdNdUw2X1hSVHJ2LW5kelhYajFMa1FGTXBrakVJbjE3WnpoT0Z5VWh3c3ktdXlZTGRqN0xlcVRYYWh5Rk1KTWt3Qlg2N0dzU3hSRnloWjZWNEl4eEY5Mk82MFJ5QWxlRGZRT0YyNVVqWTRtdVZFZ0IxLXVpQUJESzBrcVNB0gGgAkFVX3lxTE1jRWZ1N1lybzBjQ05pcEtEa2JLS3pfQ1ZzZDltOXFIWksyRW9Gc1ZqbDdsbVJ1N0NIdXg5Wm9jdUJDVkkxNmd4eGVmeWZfTHZTWGFDQnM1RGZaSmFzX1hBS0tzTXBtMDF4d21LOHV6N08yMVlibkZCYnBDUC10SkkzSE1yMXgyX0czN0RZR3ZoMkNHei16R19MbklaX3pnRXBnRHJDS25PdWtET2ZaU3lDUVoyTEpONktUdi1rNTBVNVpVSGtRaE1yNEtneEdGcHA0NDBxbW9lcHNKR3ZuN1RTd2p1MnlnTjU0Qk5fTW1zVmpjT2t5TVMtSXNUbkQxVW56TUtlZ2xHYzc4Ulh1elQtdjZVczFfWXdGZU92a3FjTQ?oc=5",
+          "description": "Mummie in vendita sul web: come muffe e sostanze tossiche (antiche) possono mettere a rischio chi le compra Corriere della Sera",
+          "pubDate": "Wed, 26 Aug 2026 04:40:07 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "guerra",
+      "n_items": 11,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "score": 50,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Negoziati in stallo, Mosca pronta a intensificare gli attacchi sull'Ucraina - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa0pXem03X0xOMVdGMkRINlhSc1FVTTMxNV9ZdGJjMzFUME0tQUpmLTJlNkU3TFNWOF94RUJuMGNpWDVkeDRndFhmREhmYzhFY2R2NmhUQTBVSDg5MmRkMzBNSEVNdFpSclVvTmpibTE2WUMyd0FFal80UDVwSEFoNzZQbWNqR3p0c09RM1Q2anY3aW9fbldCa2pneWkzaFhVM29vNFlFVll6SXA00gFoQVVfeXFMTnFNZXMzVVlZQm51dFdjUzZWVmRlUUE1NU01UkNzNVN3Rk5kbTNnRjlUYVphamFyOWZIc0Q0LXlHLTZfU0Iwd1BxVXVsVThmeHlnTzVWd2YyQ1NYUXNrbVZsNmVuNThDQ2s?oc=5",
+          "description": "Negoziati in stallo, Mosca pronta a intensificare gli attacchi sull'Ucraina Tgcom24 Guerra Ucraina-Russia, le notizie in diretta | Bloomberg: «Putin non crede ai negoziati e prepara una nuova escalation». Media, attacco ucraino alla maxi-raffineria russa Lukoil a Nizhny Novgorod Corriere della Sera \"Putin prepara un'escalation\", Londra aggiorna i piani di difesa. Bombe su Kiev nella notte - Esplos",
+          "pubDate": "Wed, 26 Aug 2026 18:09:28 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Usa-Iran-Cina, ora la guerra entra nella fase triangolare - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTEZFOXh1Ymcya0JwZS1MOUc5ZzY4bUJVLUIxOWZoTTgxMm1DaklsSzFsX3lVemQtaVJJOHAtT0Z4SE5NNHM2a2lVeldDTGs2Uks2LWM4bzlINXZuX0NsbG9HVmwxR1lqQ0hVUXg0WTZSQnE1ZjAyWTRrSXpYSVhJLVNIeDNpVllxcmphQWw2b1g2NG84Q3hWV3RkZ2ViU2VROTZrNllpSTA3TmkyWktlOFNadm11XzMweWVhd3BQeGFzSlRCNEQzcjVTSENwMEI5QUlua3A1ZmhNU1NwR2FnOF9vcW83cE9mcW54eU9JWEpaUHdHdEFDV2c4RzFDNGlt0gGGAkFVX3lxTE8wQWN6NlNlYWlhNlpCSVZpb2FPbUJSRldncXlOc3c3aEoxQ0h3TEJfRHJWZ0MydjVJMlVJSFVlNEMxcS1LVmpLV2xGV0hpQ1ZoanN4UktaYjg0djNGZFRVU0I1Z21JWkhJMmF6czJMdWk4dmJRQkE1cDNXTElJbVFXLUdDUkMxS0NUcnAtU2tLajJudjh2aFFmZ1hCTkJTOWU2OUtBejRQZTF1WlUxVnQxdHJIazg5aGgyMU9qV2JqZ2FXd3VhQmNTOWhzaWtqazdXazM4TWc4R3dEcWF3NzdicmlnQmZ6dWYxVzJiVUhZbFFOOVFhNURPTnUxT1Z3ZmxGZmxSWGc?oc=5",
+          "description": "Usa-Iran-Cina, ora la guerra entra nella fase triangolare Corriere della Sera Guerra Usa-Iran, le notizie in diretta | Corriere della Sera L'Iran all'ONU: \"Le sanzioni USA sono terrorismo economico\" - Un'altra petroliera colpita nello Stretto di Hormuz RaiNews 4,8 miliardi di motivi per cui Trump ha bisogno della Russia per isolare l'Iran HuffPost Italia Iran: un D-Day a metà ISPI",
+          "pubDate": "Wed, 26 Aug 2026 14:37:23 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Moldova, violazione dello spazio aereo di un oggetto volante non autorizzato - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdko0WUJrNjBGdUtBclF5ZWVTZ21oeWRqNVo1cmRrRVBvaS1QREVjbkdnMTQzTWFpdnBROWFxMTgySUswOC1Pam55aHRUN3VDQkVBY3Z2Z2xCODZRbFZxRy1LQnhuRElKNTk3ZmZ6bE1ibkY2VkpKeTh4Ui1jbklUTkFZblIyd3BDVEgweS1yYXNDVVhfM0JCTkVobmgzcDluWlJmZlQ5bENtakxxTGVCSDFvQ3F1bGhLRkExZi04cWlDcG1MUG5qcFdqZFBqS04tdklxUdIBaEFVX3lxTFBoQzVld0hJNnFPT0wtR1VFMXdfVHpGZExuTk02NlU5YThEN1dIWnVINWdVcHlLdl9wRXpocWFSWlFtczNXTEhJUld6QzRpX3p5M0RvZ2c5Y2x2N2xkaTlPelljLVR2clZT?oc=5",
+          "description": "Moldova, violazione dello spazio aereo di un oggetto volante non autorizzato Tgcom24 L'inviato del Papa ancora a Mosca. Trump minimizza su visita capo CIA. Attacco in Lugansk: 9 morti - Moldova, violazione dello spazio aereo di un oggetto volante RaiNews Guerra Ucraina - Russia, le news di oggi. Drone viola spazio aereo moldavo la Repubblica",
+          "pubDate": "Wed, 26 Aug 2026 20:32:10 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "«Putin pronto a una nuova escalation». L’operazione Cia a Mosca è un fallimento - Domani",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlNqd3V1Qy1kX25Lb3NqYl9yVzhDUVlodng3M3FGQzJvd09jYzJSdDllQUdPY0xBMndwaVBpRFhCQUsxUEM2VnFGTVppRmM4aDF3SWJlM05NMDR4NUFRenR4c3M3dTQxQmtueUpxVWtnaEJGQVVJb2p3c3htNmlNMXlfRXdEdEJiQ0UtdWFOMVE5U3RJUmZTb1NraXlXcS1qNFpaeE4teVdhcmFJQUV6dnMtRmhrQUpu?oc=5",
+          "description": "«Putin pronto a una nuova escalation». L’operazione Cia a Mosca è un fallimento Domani Guerra Ucraina-Russia, le notizie in diretta | Mr. Cia in Russia «Ha avvertito lo zar di non attaccare i Paesi della Nato» Corriere della Sera Ratcliffe, chi è il capo della Cia e perché Trump l'ha mandato a Mosca Sky TG24 Trump-Putin: il ponte delle spie HuffPost Italia Ex agente della Cia: “I rapporti tra serv",
+          "pubDate": "Wed, 26 Aug 2026 18:29:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra dei dazi e sondaggi a picco: Trump rilancia lo scontro totale con il Canada - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZ3FWaGNzUXd5c3BKNlFUclJyOE5XUENneUItR3ZsVnNsZGRBSVNpUjhvYnlQVWhvNUNaRlEtUHh5X2RPRTNmN1FBcnB0VEh3dzZ6VjA0ZDF6QVNEeEZtNnFGQk9pZ3QybjJjeHI0Qm0wWmRBc2hZcnV3Q2NzU3BMUGlDV1o4VjBrLTdDWWlBbndiM1RFTEJYYVo1dkVfTmJ3ZEhsYnQ0cU1KOGUyN1JvT1U5OE5FUjd2dktOMUwtWWx1ZmN4V1g2OGJmSkFNXzBjb2U3ZnJxUDBmOHQxbjV1SnhTNm1hczlCSzdlQWtBb2l6T0czVlHSAfsBQVVfeXFMTXFpTzRsbmtSLTZmZExCNXNZQThPWkZxSjVyZmxUalJTbHBhWE95a2NRZWVXMVlidF9sVWxKb1N3d016Z3Q1dG8xTG9vQTJINzc0UU1mRkdLUFBieURvcXQzRkJzSTFlWS1ybFBHdGRCQTdjeTIzSzl6LWpiM3NlMm4zSmpSN1MxTUI2WXFVXzRscmhWYTh4aElIUmRKZXVNNGNoQzlOVk1WdjFQR2VfTVNreW90ODBrTDlFRGdMYkptUkJJVnZvNjdhTzdBNzZZOEhhNC1ZSUVSWmZxaVd4bmIzU2NuRF9HNnc0Sm54QWcySWVMaEtoVms2b0U?oc=5",
+          "description": "Guerra dei dazi e sondaggi a picco: Trump rilancia lo scontro totale con il Canada RaiNews Canada vuole avvicinarsi all'Ue: fin dove può spingersi? Yahoo Finanza Carney sarà a Strasburgo per il discorso sullo Stato dell'Unione ANSA Trump provoca il Canada: “Il lago Ontario si chiamerà lago America” La Stampa Se il Canada si stringe all’Europa negli investimenti per la difesa Il Sole 24 ORE",
+          "pubDate": "Tue, 25 Aug 2026 16:51:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "after",
+      "n_items": 11,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "score": 50,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "More than 150 dead after crushing floodwaters wipe out villages on Nepal-China border - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVMxckk4ZEFnYk1CNWNNb2dNeXFhbXloT1dCa0dtQ2xCWTUwWTNqWXhyS2IxdXZyZW5mbXlMSmhfTi1FclBhcG9NTDRCc2JOOUV1aWNPWnl2NW1OTTM0X1gtcm4tSjNuNHJGdHNIMVcxM05qZFQ5emtCTTE2ZU1YR0hTVVU3dw?oc=5",
+          "description": "More than 150 dead after crushing floodwaters wipe out villages on Nepal-China border CNN Live updates: Massive flash flood on Nepal-Tibet border leaves hundreds missing, including U.S. tourists NBC News Flash flood on Nepal-Tibet border kills more than 160, with hundreds of tourists missing BBC More than 550 missing in Tibet after floods that left hundreds also missing in Nepal AP News What Fuele",
+          "pubDate": "Thu, 27 Aug 2026 03:55:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "French intelligence chief warns of more ‘violent, hostile action’ after Leipzig drone attack - politico.eu",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOEt5aGlqNDRzUHRoLXlmODBkTUFCQ3VoSGk2YktnWmtaZThINThOaDRqYjRrRlpEa0xWQjllR2dfOUVxVHg0WGFqUGxvVVRiUDl4M1dPdTBWcDJuWDBjY0x0MmN5a29rTmhwV3FTSjJNV0pNaXBkN2dFdzc5eFptMEl4Uld3dzlVeXNTUGVWcy1xU2twR0dNd2Y5b2hwZG1FdHdQSkJEVnI3QjN0c3VUTGlJeVVSMXNTUGtVMkxITm5SMzg?oc=5",
+          "description": "French intelligence chief warns of more ‘violent, hostile action’ after Leipzig drone attack politico.eu Explosive drone at German airport linked to Russian military intelligence, US intel source says ABC News - Breaking News, Latest News and Videos Europe eyes Russia in attacks on weapons and cargo. But Germany treads lightly. The Washington Post French security chief sees new threats after Leipz",
+          "pubDate": "Wed, 26 Aug 2026 17:44:00 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
+          "link": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&at_campaign=rss",
+          "description": "The justice department has also asked for Trump's name to be put back on the building after it was removed in June following a court order.",
+          "pubDate": "Wed, 26 Aug 2026 15:42:45 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "At least one dead after car crashes into crowd in northern France",
+          "link": "https://www.bbc.co.uk/news/articles/cqxvrl744nyo?at_medium=RSS&at_campaign=rss",
+          "description": "One suspect was arrested after the incident in Caen, police said, following a reported fight at a nearby bar.",
+          "pubDate": "Thu, 27 Aug 2026 02:42:17 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Parrot eggs hatch after suspected Thai smuggler arrested at South African airport",
+          "link": "https://www.bbc.co.uk/news/articles/ceq8n04q0gxo?at_medium=RSS&at_campaign=rss",
+          "description": "A 50-year-old Thai suspect was arrested with the eggs in a \"homemade incubator\" carried as hand luggage.",
+          "pubDate": "Wed, 26 Aug 2026 19:19:46 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "settembre",
+      "n_items": 7,
+      "n_sources": 6,
+      "category": "energia",
+      "score": 48,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Carburanti, prorogato al 5 settembre taglio accise sul gasolio - AGI",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb0FrUjRoQUt3OHNjbnRxRW5MRWozRXo2Y24yenY5dzFmSkRYMFBITGs1SEhES09RcVVJdHdqOTdQU29nWTBCckQ3RDhTQjQ4c3p3cF9vM2g4MmpEZVhaRXVqdzN5VWlaOXNCU1lhR2UxZU8yQV9WUnFabU9ETjd2aXIzT2IzWm9BMGowVXV4X1h3bnfSAZgBQVVfeXFMT3JwOXlWT1kyX1l2N3pGUGhTVUdTMEd1T0ZIQzRRN2pTbDQyTTVqLVdRZDB2WjUxSzBLMndzMjMtdDNjS2xYUmFsMkxlZTJtbGlmLV9XMnVFLXpjTFdERUlpbmtQS0dKNlNaZnVoWTg0TGs5T2VrSWwydmg5ZTZsZ2ZYeTdrcFNiUTliUjdSR01JdW9XRHRiME4?oc=5",
+          "description": "Carburanti, prorogato al 5 settembre taglio accise sul gasolio AGI Consiglio dei ministri, sì alla proroga del taglio delle accise fino al 5 settembre RaiNews Accise, proroga del governo. “Sconto fino al 5 settembre” I fondi dai big dell’energia La Stampa Decreto carburanti, taglio delle accise sul gasolio fino al 5 settembre. Poi 'sostegni selettivi sulla base del reddito' ANSA I timori di una cr",
+          "pubDate": "Wed, 26 Aug 2026 18:00:44 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Diramata l'allerta per \"Ondate di calore\": sarà in vigore per ben 4 giorni - CasertaNews",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQXBYNHJwbnpEcmlxbVNkWkNnSnNDRVh5UWlQTi1JTXJZejdnMXkyVFB0eTUycm5mbndEN1dWQmRucENrNGZ3eFhLSEZ0UU16Y1lHVkZMU1hSUlhSRXNNSUdHRFpNVjBYVVhwMlkyeGM0TjdCZlJmSC16Ql8zQ0xaQkRkNA?oc=5",
+          "description": "Diramata l'allerta per \"Ondate di calore\": sarà in vigore per ben 4 giorni CasertaNews Sud, il colpo di coda di un'estate bollente: quattro giorni di fuoco Il Mattino Avviso di criticità per \"Ondate di calore\" valido dalle 8.00 di giovedì 27 agosto, fino alle 20.00 di domenica 30 agosto Gazzetta di Benevento Meteo Napoli, nuova fiammata africana: il caldo non molla fino a settembre Grandenapoli.it",
+          "pubDate": "Wed, 26 Aug 2026 10:19:41 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Decreto carburanti, taglio delle accise sul gasolio fino al 5 settembre. Poi 'sostegni selettivi sulla base del reddito'",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/decreto-carburanti-taglio-delle-accise-sul-gasolio-fino-al-5-settembre.-poi_175d5d3a-cfee-4f2c-9b49-daf2c2dfc20f.html",
+          "description": "'Il governo valuterà le prossime misure durante gli ultimi giorni di sconto sulle accise'",
+          "pubDate": "Wed, 26 Aug 2026 20:56:49 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Taglio delle accise prorogato fino al 5 settembre",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/taglio-delle-accise-prorogato-fino-al-5-settembre_e3aeedee-c38a-4580-b712-934d16313967.html",
+          "description": "Ok del cdm al nuovo decreto. Il costo si aggira sui 130 milioni di euro",
+          "pubDate": "Wed, 26 Aug 2026 19:16:44 +0200"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Come cambia la scuola da settembre 2026: le novità per punti. Rivoluzione in Matematica - Quotidiano Nazionale",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc25QeGg4OGZlME9nZEVsbDlHQ0RIdXBjVEw1bEFXLWVNQXdtbzJPX1ItTWRwYkJNQW83X203NkZkZ2V1Q3lEYzVBbjM1di01Tk5jVDZhRDNiZDR1VGYwTVh0WVBCbEpsaTB1WE9RcXROdGtUbllnaDg1TUdfUFl4SWMwVnFMdkto?oc=5",
+          "description": "Come cambia la scuola da settembre 2026: le novità per punti. Rivoluzione in Matematica Quotidiano Nazionale",
+          "pubDate": "Tue, 25 Aug 2026 13:50:18 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "nvidia",
+      "n_items": 8,
+      "n_sources": 6,
+      "category": "general",
+      "score": 48,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-mondo",
+          "title": "I ricavi di Nvidia sopra le attese, 'Ia è al suo punto di svolta'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/26/i-ricavi-di-nvidia-sopra-le-attese-ia-e-al-suo-punto-di-svolta_0470ab69-a70c-48aa-a24e-8edf81d9152c.html",
+          "description": "Nonostante i risultati positivi, i titoli sono però in calo a Wall Street",
+          "pubDate": "Wed, 26 Aug 2026 22:41:22 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Gli utili del Q2 di Nvidia innescano un'inversione di NVDA del 4%, la maledizione del selloff è spezzata? - Yahoo Finanza",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRzc4U01NMDB4NnZSeTNIYVBMMnBJZTJTS2VDajRkX25teWZoSmJKWlZ1Y3ZaVlYtQjZVRGFsRHNrSE9fYk9wdVFJMVVILVdEb0tsNjhVcFBrTjJBSHNnb0dpYVdvbWNzcWpVQkZoMk81SkplR25tNWZVajg4Y1M0eWNtVQ?oc=5",
+          "description": "Gli utili del Q2 di Nvidia innescano un'inversione di NVDA del 4%, la maledizione del selloff è spezzata? Yahoo Finanza Verso la trimestrale Nvidia: le azioni sono sottovalutate? Morningstar Nvidia non frena: record per ricavi e utili. Ma Wall Street rimane fredda la Repubblica Jim Cramer indica una ‘giornata monumentale’, i risultati di NVIDIA muoveranno i mercati? Yahoo Finanza Nvidia, un altro ",
+          "pubDate": "Wed, 26 Aug 2026 20:24:22 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Petrolio e gas in calo, Europa contrastata, attesa per Nvidia - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOTRzSHJYNFVkM0dUTUpVOTFYSXVDcURaczhWNGYxZnVRTFNrRmgxLUQxc1pjSF9Qc2VUMGJjb2FCUUw1SHNPNG1nOUZHWldBVGxkZzV4LWV0Wm1Qbmo0REdhRl9UeG1tQmZtQWVmcHdyZllJdXFXdEx3RGJ4NlZ4THpMc25fS3NNY2U5emphYXdVNDMzX3Y1RDBVR2lRMWlKYXFHNU1OTVJWQWduTGpHbHRqdURENHV1dDU3NGM0LUZ3SDR3N1lna3lTaDdvTllHeWJleXo2Rm_SAd4BQVVfeXFMTXdvUHZ0TGl6WEFFckQwZ3BIU2xma1JEX2xuZVJKUE5DTTlZYjFSZk5qX0NnRXpnbmx0MjBuc1p2YUppdDRxUUVRby0weG5zdng1Q3dWZ2pmdnJ6RHN0ZGFVS01CXzYyUnJ5RmVHVkdpdUN2dWZCM3JQVWtNOERna2ZYYmpjc1JLc3BKbm9OejhMUEJYc0pNSVZfbTBaWGlRX256VjNnSUx0aTJxTFNhSTEtNUlZd0twWjJ0aDMzZUxhbF9FYUctd1JoUFhDaXJTWml2WnV6RTJjUEVydmNn?oc=5",
+          "description": "Petrolio e gas in calo, Europa contrastata, attesa per Nvidia RaiNews Le Borse di oggi 26 agosto. Attesa per Nvidia, Wall Street apre incerta la Repubblica Borsa: Europa frena sul finale, azzerati i guadagni aspettando Jackson Hole ANSA Wall Street resta al palo in attesa di Nvidia e dopo PIL e PCE Borsa Italiana S&P 500 scende lievemente nonostante i risultati positivi di NVIDIA e il PCE core sta",
+          "pubDate": "Wed, 26 Aug 2026 07:25:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse europee toniche all'indomani di Bessent e in attesa di Nvidia e segnali da Fed - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNOFk4NUZlVHAtSTJTZGJIcHptMDZSck51Ny1LRjJocm5mc0pyX2htUFlnd2hoRngtSHd0ZlhValRpdHdwbW1uZVJQdWd0VURJRWI4cm9zaU5ESS15ZThaY0ZQN1N1RnBELUx4cVNvOS1YSXBnZWlkNzZ3U1R1QlNvOEEzVGx0RmtNMVFHY1hFbWlCbS1LQlRUX0NjM3E5WkY2Nnh5ZDNTY3NDMDN1b2NwcExPVjZXRHlKcjhRbGJpdmxlVEJoZUU0a1AycnQ4bkhLRjVvaGZ6VVpiVDhlNjdKSloyTzZGZjlsaVRhREY0VDM1NVZkZXFKLTROTGZNR0paeklpWTdINVA5d00?oc=5",
+          "description": "Borse europee toniche all'indomani di Bessent e in attesa di Nvidia e segnali da Fed Borsa Italiana Borse, Milano (+0,3%) tiene sul finale. Wall Street chiude in rialzo, giù il petrolio Il Sole 24 ORE Borsa: l'Europa parte in lieve aumento, Londra +0,2% ANSA La giornata delle Borse di martedì 25 agosto | Europa contrastata, Milano regge con le banche: deboli Eni e il lusso. Greggio in calo Corrier",
+          "pubDate": "Tue, 25 Aug 2026 07:30:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Non si ferma il boom dell'Ia, Nvidia fa il pieno di ricavi e utile",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/08/26/non-si-ferma-il-boom-dellia-nvidia-fa-il-pieno-di-ricavi-e-utile_7711a3d1-1710-4794-a6b2-fcef035c6ab8.html",
+          "description": "Ricavi raddoppiati, oltre le attese per il 15mo trimestre. Utile sfiora i 60 miliardi",
+          "pubDate": "Wed, 26 Aug 2026 23:18:11 +0200"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "agosto",
+      "n_items": 9,
+      "n_sources": 4,
+      "category": "economia",
+      "score": 42,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Diramata l'allerta per \"Ondate di calore\": sarà in vigore per ben 4 giorni - CasertaNews",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQXBYNHJwbnpEcmlxbVNkWkNnSnNDRVh5UWlQTi1JTXJZejdnMXkyVFB0eTUycm5mbndEN1dWQmRucENrNGZ3eFhLSEZ0UU16Y1lHVkZMU1hSUlhSRXNNSUdHRFpNVjBYVVhwMlkyeGM0TjdCZlJmSC16Ql8zQ0xaQkRkNA?oc=5",
+          "description": "Diramata l'allerta per \"Ondate di calore\": sarà in vigore per ben 4 giorni CasertaNews Sud, il colpo di coda di un'estate bollente: quattro giorni di fuoco Il Mattino Avviso di criticità per \"Ondate di calore\" valido dalle 8.00 di giovedì 27 agosto, fino alle 20.00 di domenica 30 agosto Gazzetta di Benevento Meteo Napoli, nuova fiammata africana: il caldo non molla fino a settembre Grandenapoli.it",
+          "pubDate": "Wed, 26 Aug 2026 10:19:41 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borsa Italiana, il commento della seduta del 26 agosto 2026 - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNFRQWVp4Nlp3VnhLSFctMzdFSDF0ZV9sX1NBMEpkTzRWUXdxRlpPRnR2NFplSjFTQTFBNHRlYVFLcU9ITTZiNzdRUVdHSHNlWWJmZlRIU3hGOHRwZ19SVDJkdEVZNEFSdjM3OWZJTGU2dkxWSnplVUNQd0xYdHh1T3ppRlIxeERDS2NDWE9jY1laNDZrNUd3TjhGWWs?oc=5",
+          "description": "Borsa Italiana, il commento della seduta del 26 agosto 2026 SoldiOnline.it Seduta moderatamente positiva in Piazza Affari Borsa Italiana Borse oggi in diretta | Il Ftse Mib chiude in rialzo dello 0,3% a 52.882 punti. Buzzi e Fincantieri le migliori, cede Inwit Milano Finanza Borsa: Banche caute in Piazza Affari, il risiko non muove il mercato ANSA FTSE MIB in rialzo con il calo del petrolio che al",
+          "pubDate": "Wed, 26 Aug 2026 16:04:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Petrolio e gas in calo, Europa contrastata, attesa per Nvidia - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOTRzSHJYNFVkM0dUTUpVOTFYSXVDcURaczhWNGYxZnVRTFNrRmgxLUQxc1pjSF9Qc2VUMGJjb2FCUUw1SHNPNG1nOUZHWldBVGxkZzV4LWV0Wm1Qbmo0REdhRl9UeG1tQmZtQWVmcHdyZllJdXFXdEx3RGJ4NlZ4THpMc25fS3NNY2U5emphYXdVNDMzX3Y1RDBVR2lRMWlKYXFHNU1OTVJWQWduTGpHbHRqdURENHV1dDU3NGM0LUZ3SDR3N1lna3lTaDdvTllHeWJleXo2Rm_SAd4BQVVfeXFMTXdvUHZ0TGl6WEFFckQwZ3BIU2xma1JEX2xuZVJKUE5DTTlZYjFSZk5qX0NnRXpnbmx0MjBuc1p2YUppdDRxUUVRby0weG5zdng1Q3dWZ2pmdnJ6RHN0ZGFVS01CXzYyUnJ5RmVHVkdpdUN2dWZCM3JQVWtNOERna2ZYYmpjc1JLc3BKbm9OejhMUEJYc0pNSVZfbTBaWGlRX256VjNnSUx0aTJxTFNhSTEtNUlZd0twWjJ0aDMzZUxhbF9FYUctd1JoUFhDaXJTWml2WnV6RTJjUEVydmNn?oc=5",
+          "description": "Petrolio e gas in calo, Europa contrastata, attesa per Nvidia RaiNews Le Borse di oggi 26 agosto. Attesa per Nvidia, Wall Street apre incerta la Repubblica Borsa: Europa frena sul finale, azzerati i guadagni aspettando Jackson Hole ANSA Wall Street resta al palo in attesa di Nvidia e dopo PIL e PCE Borsa Italiana S&P 500 scende lievemente nonostante i risultati positivi di NVIDIA e il PCE core sta",
+          "pubDate": "Wed, 26 Aug 2026 07:25:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Btp short term ottobre 2028 (prima tranche), rendimento oltre il 3% - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeE5YYmRyM1VIamJZUGYybFRxT0Jfb0xna2dFMWdSSnlocFpnajZuTWlOTkNaaUg5N2tGeHJuT2FLSW1tLUZrUElMNFZ2T081NGQzNzg2QnNVd0I4cWZ2WERTZlgyQ1BJMS1xQXI3Nnd2c1l1MUhOUEtiN0gtMEdIVVdOeGd1VENINFRYVHhfN1RpX0ZFbk1NN0xtTmZTbG5JelFONnlpZUFsZWZaZ1hBdWhSczE4dXJlSUF0QWVCQ1FOZw?oc=5",
+          "description": "Btp short term ottobre 2028 (prima tranche), rendimento oltre il 3% SoldiOnline.it Due Btp in asta il 28 agosto 2026. Le caratteristiche SoldiOnline.it Oro: il rally è ripartito, ma conviene ancora comprare? www.altroconsumo.it MEF, il 28 agosto all'asta BTP fino a 6,5 miliardi e CCTeu per massimi 2 miliardi Borsa Italiana Treasury: places 3 billion in short-term BTp bonds, yield of 3.02 per cent ",
+          "pubDate": "Wed, 26 Aug 2026 13:23:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse europee toniche all'indomani di Bessent e in attesa di Nvidia e segnali da Fed - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNOFk4NUZlVHAtSTJTZGJIcHptMDZSck51Ny1LRjJocm5mc0pyX2htUFlnd2hoRngtSHd0ZlhValRpdHdwbW1uZVJQdWd0VURJRWI4cm9zaU5ESS15ZThaY0ZQN1N1RnBELUx4cVNvOS1YSXBnZWlkNzZ3U1R1QlNvOEEzVGx0RmtNMVFHY1hFbWlCbS1LQlRUX0NjM3E5WkY2Nnh5ZDNTY3NDMDN1b2NwcExPVjZXRHlKcjhRbGJpdmxlVEJoZUU0a1AycnQ4bkhLRjVvaGZ6VVpiVDhlNjdKSloyTzZGZjlsaVRhREY0VDM1NVZkZXFKLTROTGZNR0paeklpWTdINVA5d00?oc=5",
+          "description": "Borse europee toniche all'indomani di Bessent e in attesa di Nvidia e segnali da Fed Borsa Italiana Borse, Milano (+0,3%) tiene sul finale. Wall Street chiude in rialzo, giù il petrolio Il Sole 24 ORE Borsa: l'Europa parte in lieve aumento, Londra +0,2% ANSA La giornata delle Borse di martedì 25 agosto | Europa contrastata, Milano regge con le banche: deboli Eni e il lusso. Greggio in calo Corrier",
+          "pubDate": "Tue, 25 Aug 2026 07:30:00 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "morti",
+      "n_items": 7,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 41,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Alluvione tra Nepal e Tibet: 157 morti, 466 stranieri dispersi. Tajani: \"Due italiani coinvolti dalla frana in buone condizioni\" - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSTB0dU9aOFpLSTRfVFJZME1UbFpDckdXRHE5cEJmOEp5UmVnOGlqcUVoQ0U4VnBxVHB4OElkZlJDUlRld1FXY1FRX1VJV05vOTZLLUdwSEthSTN4MTFPNU04QXJWa2ZIeG9Pcjlad2wyUTB1SDlFRHMxd0pXeDVDQkRUdVVHZ0dTUXJYQmFhYnJESjRRUUZBeXpPb3FNMjBtQXVoWTg0VDRZUVc2dHF4R05yYjgzYkMtMUh3ZWpiakcybXNHb3c3OFllQnJUaE44TFRsZjY3T2s1Y2hUcFlvd2VLQVQ3OUplZVdBazIzcnZfZw?oc=5",
+          "description": "Alluvione tra Nepal e Tibet: 157 morti, 466 stranieri dispersi. Tajani: \"Due italiani coinvolti dalla frana in buone condizioni\" ANSA Bomba di fango fra Tibet e Nepal, almeno 160 morti e centinaia di dispersi - Cronaca di un disastro dalle cause ancora incerte RaiNews Cina, '558 persone irreperibili dopo alluvione Tibet-Nepal, 260 stranieri' ANSA Nepal, l’esperto: “Una bomba di ghiaccio caduta da ",
+          "pubDate": "Wed, 26 Aug 2026 19:57:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Moldova, violazione dello spazio aereo di un oggetto volante non autorizzato - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdko0WUJrNjBGdUtBclF5ZWVTZ21oeWRqNVo1cmRrRVBvaS1QREVjbkdnMTQzTWFpdnBROWFxMTgySUswOC1Pam55aHRUN3VDQkVBY3Z2Z2xCODZRbFZxRy1LQnhuRElKNTk3ZmZ6bE1ibkY2VkpKeTh4Ui1jbklUTkFZblIyd3BDVEgweS1yYXNDVVhfM0JCTkVobmgzcDluWlJmZlQ5bENtakxxTGVCSDFvQ3F1bGhLRkExZi04cWlDcG1MUG5qcFdqZFBqS04tdklxUdIBaEFVX3lxTFBoQzVld0hJNnFPT0wtR1VFMXdfVHpGZExuTk02NlU5YThEN1dIWnVINWdVcHlLdl9wRXpocWFSWlFtczNXTEhJUld6QzRpX3p5M0RvZ2c5Y2x2N2xkaTlPelljLVR2clZT?oc=5",
+          "description": "Moldova, violazione dello spazio aereo di un oggetto volante non autorizzato Tgcom24 L'inviato del Papa ancora a Mosca. Trump minimizza su visita capo CIA. Attacco in Lugansk: 9 morti - Moldova, violazione dello spazio aereo di un oggetto volante RaiNews Guerra Ucraina - Russia, le news di oggi. Drone viola spazio aereo moldavo la Repubblica",
+          "pubDate": "Wed, 26 Aug 2026 20:32:10 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Terrore ad Haiti, gang in azione: è strage tra i civili - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS2VqMThKS2ppRzRtbnhZSGdPN2VaclFGYVR2M255T3lHWmV5ZUxnNTJvOUNvbGJydWpGV2lQUjRCc2h5cEdFNno1dlYtamFsbkE2R3BRZU0yQlhncEhuSmo0aVgzcVN5S1FFLXNMdjlJN1BseVd5Y3UzX29GYXdzbGFxMUZpcVhwQ2dPOUV1RUlBMjRfWGZDV9IBngFBVV95cUxQdXBxSWlITFhzdFdnQ3o5ZUdyN0lVMWRHWTB2bVJETGdET25BcVlBdUNzR3VTZXg0bC04NEE1aXVwU3U1NHJyX0o5ZnhOSlhKNDB6OHo4SzFNUll0ck9LMFhmN1Qzbk4tZlFMV0ktS2lMMVpHX1ZpX09GVDRkZ18xNkZLM3lTRnVCemRWanVVRDV2Z0VaS1RxRk9NOEY4QQ?oc=5",
+          "description": "Terrore ad Haiti, gang in azione: è strage tra i civili la Repubblica Haiti, la strage delle bande armate vicino a Port-au-Prince Vatican News Carneficina vicino Port-au-Prince: 47 morti, catturati ostaggi dopo notte di terrore RaiNews Haiti, massacro in una chiesa vicino a Port-au-Prince: almeno 47 morti e decine di feriti Corriere della Sera AMERICA/HAITI - Massacro a Kenscoff: almeno 47 vittime",
+          "pubDate": "Tue, 25 Aug 2026 23:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Raid ucraini in Russia, due morti e un ferito - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ2NUTmZhdE54ZjBqSS1oSWFIWk1GUkNPNHNKTmU3VWhCZnBTMTV3QkVORWx3Qm1PX1BNTUxSR0hZUmlYajVkWWpZRE1PUVlldmVKekRNaTQ3TkNLY2FUdTRuNEtmQjFjV0VlWUN1ZUpMRjVzS0x3UWdidWQwOVc0MkRYNFZFZVlXOHNCbEl2TTNrX056NnZiRHhhV0dZRDc4WXFvZ19zT1NnNGVTMHVudTU3Z01QT0pHN1YzVU5yYWV6T2VRQ0RpYWhoNkZqN2J3eU95Tg?oc=5",
+          "description": "Raid ucraini in Russia, due morti e un ferito ANSA Media, 'Putin prepara escalation, ritiene trattative per pace a punto morto' ANSA Mosca e Kiev si colpiscono: raffineria russa e centrale di Kherson nel mirino Il Fatto Quotidiano Russia, salta in aria la grande raffineria della Lukoil a 800 chilometri dal confine il manifesto Ucraina-Russia, escalation di attacchi strategici: droni colpiscono cas",
+          "pubDate": "Wed, 26 Aug 2026 03:01:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Scatta l'allerta malaria all'aeroporto di Francoforte, due morti",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/26/allarme-malaria-a-francoforte-morto-un-dipendente-dellaeroporto_4b71d5bb-2513-483d-aec7-43bd040d518b.html",
+          "description": "Le vittime erano dipendenti dello scalo, altri 4 i contagi. Roma alza i controlli, 'rischi bassi'",
+          "pubDate": "Wed, 26 Aug 2026 19:51:06 +0200"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "media",
+      "n_items": 7,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 41,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Negoziati in stallo, Mosca pronta a intensificare gli attacchi sull'Ucraina - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa0pXem03X0xOMVdGMkRINlhSc1FVTTMxNV9ZdGJjMzFUME0tQUpmLTJlNkU3TFNWOF94RUJuMGNpWDVkeDRndFhmREhmYzhFY2R2NmhUQTBVSDg5MmRkMzBNSEVNdFpSclVvTmpibTE2WUMyd0FFal80UDVwSEFoNzZQbWNqR3p0c09RM1Q2anY3aW9fbldCa2pneWkzaFhVM29vNFlFVll6SXA00gFoQVVfeXFMTnFNZXMzVVlZQm51dFdjUzZWVmRlUUE1NU01UkNzNVN3Rk5kbTNnRjlUYVphamFyOWZIc0Q0LXlHLTZfU0Iwd1BxVXVsVThmeHlnTzVWd2YyQ1NYUXNrbVZsNmVuNThDQ2s?oc=5",
+          "description": "Negoziati in stallo, Mosca pronta a intensificare gli attacchi sull'Ucraina Tgcom24 Guerra Ucraina-Russia, le notizie in diretta | Bloomberg: «Putin non crede ai negoziati e prepara una nuova escalation». Media, attacco ucraino alla maxi-raffineria russa Lukoil a Nizhny Novgorod Corriere della Sera \"Putin prepara un'escalation\", Londra aggiorna i piani di difesa. Bombe su Kiev nella notte - Esplos",
+          "pubDate": "Wed, 26 Aug 2026 18:09:28 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Media Usa: 'Putin prepara escalation, ritiene trattative ferme' - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWjk0MmhCd2d0M3gyTzQ1ZHZfY05jalBKOXdqYjZaeUNWLU1QekdnZjdTd2pQWmpQNWg2c3I2YVZ5eUxEU3Nxdm5RMl9JU19mUW1FVExlWTkwUzNucFU5TlpITlNrTG0zUXVXNWFZc2g4YktIMWVQWlk4dzIyUDY3cEJlc1c3MWR0?oc=5",
+          "description": "Media Usa: 'Putin prepara escalation, ritiene trattative ferme' Sky TG24 Guerra Ucraina-Russia, le notizie in diretta | Bloomberg: «Putin non crede ai negoziati e prepara una nuova escalation». Media, attacco ucraino alla maxi-raffineria russa Lukoil a Nizhny Novgorod Corriere della Sera \"Putin prepara un'escalation\", Londra aggiorna i piani di difesa. Bombe su Kiev nella notte - Esplosioni nella ",
+          "pubDate": "Wed, 26 Aug 2026 22:15:40 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Raid ucraini in Russia, due morti e un ferito - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ2NUTmZhdE54ZjBqSS1oSWFIWk1GUkNPNHNKTmU3VWhCZnBTMTV3QkVORWx3Qm1PX1BNTUxSR0hZUmlYajVkWWpZRE1PUVlldmVKekRNaTQ3TkNLY2FUdTRuNEtmQjFjV0VlWUN1ZUpMRjVzS0x3UWdidWQwOVc0MkRYNFZFZVlXOHNCbEl2TTNrX056NnZiRHhhV0dZRDc4WXFvZ19zT1NnNGVTMHVudTU3Z01QT0pHN1YzVU5yYWV6T2VRQ0RpYWhoNkZqN2J3eU95Tg?oc=5",
+          "description": "Raid ucraini in Russia, due morti e un ferito ANSA Media, 'Putin prepara escalation, ritiene trattative per pace a punto morto' ANSA Mosca e Kiev si colpiscono: raffineria russa e centrale di Kherson nel mirino Il Fatto Quotidiano Russia, salta in aria la grande raffineria della Lukoil a 800 chilometri dal confine il manifesto Ucraina-Russia, escalation di attacchi strategici: droni colpiscono cas",
+          "pubDate": "Wed, 26 Aug 2026 03:01:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Qatar PM to visit Tehran to pursue mediation efforts - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdWtVN3R2dUFBREVJWjhxV1pXUEs4WUx1Ry1ReVRLQzZhS0ZBaEl1NlZ3T2cxcTdEU1Q1RnZqTC1aNWlUVjRpc3VpdTRtaTdub2RiQW5BamhkMGM2VUZjWlV4YnpkM0Q1ZS1YcVBwR2cxNlVXWjlCcUhHRDQ3VWtMWEt3Q0N5U2hQTlJETmRSeXFWUWltWktCYVNKLVo1enNRTGc?oc=5",
+          "description": "Qatar PM to visit Tehran to pursue mediation efforts Reuters Iran war live: Qatar PM to visit Tehran; Trump ‘not in a hurry’ over talks Al Jazeera Qatari PM to visit Tehran tomorrow, foreign ministry says The Times of Israel Qatari Foreign Ministry spokesperson: The new US sanctions on Iran are unilateral and there is no decision regarding supporting them news.cgtn.com Qatar is trying to reopen th",
+          "pubDate": "Wed, 26 Aug 2026 23:15:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Meta agrees to pay $18 billion to settle US lawsuits over children's social media addiction - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQklxUlA2VWk3Nml5YlJkaFU2djhKRHF4eVNuemxfWFFHc2dxbVVyTEhZeGxOS2tjYmRqbC05Tmc4RGhkcTltcDN1cnpHQWxGUjU3emREMkZuTDFuckRyNEJxbDNDT2pvOEtmNUhvd3o2TW00Z1R2bklRU015ZThnSW1LTkR5UU41R0tqRUlKb3ZSOHdWVVVad2lCZW1yZmN3TXhGLXFzaTU3cWt4WEdXZHprR0pFNHNWMkE?oc=5",
+          "description": "Meta agrees to pay $18 billion to settle US lawsuits over children's social media addiction Reuters Meta settles social media addiction case with California, other states for $16.7 billion CNBC Mom sues Meta over son's death, settlement reaction FOX 13 Tampa Bay 2 hours a day, no late nights: How Meta’s settlement will change teen accounts The Washington Post How to Lose $12 Billion and Still Win ",
+          "pubDate": "Wed, 26 Aug 2026 23:09:28 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "caldo",
+      "n_items": 6,
+      "n_sources": 4,
+      "category": "clima",
+      "score": 30,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Diramata l'allerta per \"Ondate di calore\": sarà in vigore per ben 4 giorni - CasertaNews",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQXBYNHJwbnpEcmlxbVNkWkNnSnNDRVh5UWlQTi1JTXJZejdnMXkyVFB0eTUycm5mbndEN1dWQmRucENrNGZ3eFhLSEZ0UU16Y1lHVkZMU1hSUlhSRXNNSUdHRFpNVjBYVVhwMlkyeGM0TjdCZlJmSC16Ql8zQ0xaQkRkNA?oc=5",
+          "description": "Diramata l'allerta per \"Ondate di calore\": sarà in vigore per ben 4 giorni CasertaNews Sud, il colpo di coda di un'estate bollente: quattro giorni di fuoco Il Mattino Avviso di criticità per \"Ondate di calore\" valido dalle 8.00 di giovedì 27 agosto, fino alle 20.00 di domenica 30 agosto Gazzetta di Benevento Meteo Napoli, nuova fiammata africana: il caldo non molla fino a settembre Grandenapoli.it",
+          "pubDate": "Wed, 26 Aug 2026 10:19:41 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Caldo estremo ed emergenze sanitarie: 33 disturbi insospettabili - Focus.it",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSzU0V1pHdjZuMjY0OFhjYnhvYlZUZEUxV205ZmtBV2h1ZWtIV2NXNi1UVkFLMk1pMllsOEw1WUtsRzFUbDgxbF8xT01xWHJ0b0szYjNESWJlTnZZakFPVFNab002N3c2dGhRcGc3bmRSenpJRXcwa0Zma2xCclVuTzFVMncxNE5nVk9QVzVmVFpIQURBaTVUR2swVjZUWHE4TlplQkdBRWxaSnFrNThQWENqd0M5cVpqQVlaVEZJXzI0cEZtRDN1N2RxdHcxa1FiWVRvTHp3?oc=5",
+          "description": "Caldo estremo ed emergenze sanitarie: 33 disturbi insospettabili Focus.it",
+          "pubDate": "Wed, 26 Aug 2026 06:03:29 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Caldo estremo: le città a maggior rischio fino a venerdi 28 agosto - MeteoLive",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNDEydmxjV0FEbENSaERXTW91elg4UDZOVFJVTThtaFBYeklhcjJ6bXlZeGZKOG4wUXVfdEJqUWRVcXd2N2EtWFl2UTFsQ3pGMUFsUG5JYl94UDJRNlBwMzBnczhMOUFLdXd2cXFuSWc3YnlHODl3Tkh3aVBoYVd2RHdZWWV3c0pRVGN6WEFDMVFxdkQxWlJqUXhrc2hwV0kxYlNzRQ?oc=5",
+          "description": "Caldo estremo: le città a maggior rischio fino a venerdi 28 agosto MeteoLive",
+          "pubDate": "Wed, 26 Aug 2026 12:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Mercoledi 26: caldo insopportabile su queste regioni - MeteoLive",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ0hwRFhvR045MGpndWVIQWZHZHdKbm5vNlk1MGcta0hORHhtMTdhZkpJcHV0WHk4SkpHOHluY3VpQnFVYzNPZlp6bWJmVVRveGZfY3Y4RGlDY01qM1FwcEJKczV6VEUyQURNenhseHlleG9hcURuTUxSLWtOMWhtVkdRVF9mOVc2dUZXbmVrQTYyUQ?oc=5",
+          "description": "Mercoledi 26: caldo insopportabile su queste regioni MeteoLive",
+          "pubDate": "Wed, 26 Aug 2026 09:24:00 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Non solo disidratazione, il caldo estremo è collegato a oltre 30 diagnosi diverse - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPalRDcEZjd2lwUlB6TEJ1WUNKLWdJNUpReHF2V0NpbEp4cEVNUmZWSXZUcVhqNjFiQ295SG9iRXpHd2xnUGdyak1HOVJFR1o2cnk4SlNRc3hRMWpMWjJXMkNvM3JrWjVJVzBwZDJMYTdTb2xvSXhkajlzSmhJM2g3dW1tRjNtT2h1Mnh2RGNlYjNDbUQwMHh3LWtTYVNtWVpQNi15RUxPRFRnWnVEeXVlaktpX094Z9IBuwFBVV95cUxQdFpkUkMzcHNYVWY4bWthaFVaQkY4Sjh5VzVHbHZHZ1FqNWhNNWM5bGZERndJem93dXFjMEM5RGItQnB6LUxqMFR0SVhsdjlFY3R6MWpsOTk0b2FqVS1sQ2Q1QXJZek9Wa0xXZFdpVkItV2dyWEM1TGZ3LUVJcUh0TmctQXpZNEZITGUtYmVfOE8tTnpLVW9pOXhBX2dEVU1na0pXMW1pTXNVSFRCOVV3cTZPSl9sNlB3aFRB?oc=5",
+          "description": "Non solo disidratazione, il caldo estremo è collegato a oltre 30 diagnosi diverse la Repubblica Caldo estremo ed emergenze sanitarie: 33 disturbi insospettabili Focus.it I bambini più esposti degli anziani allo stress da caldo umido Tgcom24 Caldo, i bambini lo soffrono più degli anziani Giornale di Sicilia Caldo torrido: i bambini i più esposti, a rischio la loro infanzia (e il loro futuro) la Rep",
+          "pubDate": "Wed, 26 Aug 2026 18:01:00 GMT"
+        }
+      ],
+      "macro_area": "clima-salute"
+    },
+    {
+      "keyword": "allerta",
+      "n_items": 4,
+      "n_sources": 4,
+      "category": "clima",
+      "score": 22,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Diramata l'allerta per \"Ondate di calore\": sarà in vigore per ben 4 giorni - CasertaNews",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQXBYNHJwbnpEcmlxbVNkWkNnSnNDRVh5UWlQTi1JTXJZejdnMXkyVFB0eTUycm5mbndEN1dWQmRucENrNGZ3eFhLSEZ0UU16Y1lHVkZMU1hSUlhSRXNNSUdHRFpNVjBYVVhwMlkyeGM0TjdCZlJmSC16Ql8zQ0xaQkRkNA?oc=5",
+          "description": "Diramata l'allerta per \"Ondate di calore\": sarà in vigore per ben 4 giorni CasertaNews Sud, il colpo di coda di un'estate bollente: quattro giorni di fuoco Il Mattino Avviso di criticità per \"Ondate di calore\" valido dalle 8.00 di giovedì 27 agosto, fino alle 20.00 di domenica 30 agosto Gazzetta di Benevento Meteo Napoli, nuova fiammata africana: il caldo non molla fino a settembre Grandenapoli.it",
+          "pubDate": "Wed, 26 Aug 2026 10:19:41 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Germania, il terzo drone all'aeroporto di Lipsia e l'ordigno non detonato sulle ali di un cargo: allerta guerra ibrida russa in Europa - Il Messaggero",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUlhMVG5PUXlTdmxYNktLLXZGc3RkcVVReE82cEVlNkY2OGVIU2RsbUdIWmFRd3BZeFlsMkJ2c0hFNmdmU0oyTUlUcEsxRC1GampKbDc4TFp4R3NTQ3FvN1M0X2gzOXJHSHNQT003bC1WcFZsUlNFZTlUTzA0Wjd1RnkxRU1oZ3BrMl9na0xVekpEaFJ1ZFd0M0ZaOA?oc=5",
+          "description": "Germania, il terzo drone all'aeroporto di Lipsia e l'ordigno non detonato sulle ali di un cargo: allerta guerra ibrida russa in Europa Il Messaggero Germania nel mirino, spunta un terzo drone armato a Lipsia ANSA Lipsia, scoperto terzo drone esplosivo: “Era un piano per uccidere all’aeroporto” la Repubblica Germania, maggioranza riunita: sul tavolo difesa, economia e clima Euronews.com È stato tro",
+          "pubDate": "Tue, 25 Aug 2026 19:10:41 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Scatta l'allerta malaria all'aeroporto di Francoforte, due morti",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/08/26/allarme-malaria-a-francoforte-morto-un-dipendente-dellaeroporto_4b71d5bb-2513-483d-aec7-43bd040d518b.html",
+          "description": "Le vittime erano dipendenti dello scalo, altri 4 i contagi. Roma alza i controlli, 'rischi bassi'",
+          "pubDate": "Wed, 26 Aug 2026 19:51:06 +0200"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'IA può portare all'estinzione, l'allerta di decine di ricercatori",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/-lia-puo-portare-allestinzione-lallerta-di-decine-di-ricercatori-_f2907c59-c053-4af7-b511-410cbb0bc59b.html",
+          "description": "Tra i firmatari gli ad di OpenAI e Google Deepmind, ci sono anche italiani tra cui l'esperto di tecnologie dell'informazione Luca Simoncini",
+          "pubDate": "Tue, 30 May 2023 17:55:51 +0200"
+        }
+      ],
+      "macro_area": "clima-salute"
+    },
+    {
+      "keyword": "mondosanità",
+      "n_items": 9,
+      "n_sources": 2,
+      "category": "general",
+      "score": 18,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-science",
+          "title": "Meno ore di luce, i segnali delle giornate che si accorciano - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSVF3ZjVnUlpZbk54cVU5ZkhES1loWXRia2dUYlhKRHduRmFBUVBHTkxTMXMwbW40UHUyU09yZzAxN012a3JYd2Z3LXI4NzB0V1QzLXFKTW9IbE1qM1pfS3Q1WnliblVtQW92c1lhVlk3YVdCdHJaOXh6UWhTVGJEMjlZeC14cDhraUNOY3lLX2V2UTlLSlYyeUJxX0FQZVctalZuX1dnNUlLSUNMTXNISUNhVk1uUnRrZE9n?oc=5",
+          "description": "Meno ore di luce, i segnali delle giornate che si accorciano Mondosanità",
+          "pubDate": "Wed, 26 Aug 2026 13:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Uomini e donne invecchiano allo stesso modo? La risposta è nascosta nel sangue - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVHpmXzlBOHNwMFduNldBSUNSak03Rk14bzg1NnJDMnZwNWE3dERvMWFrX29ZR29DYUZrTGk2b0lmZzZwY1ZMMmJVZzhRcUppenhXc3ZyWkFuQ0xPN0dKemM3S1M2NkEyR1VkSG42LXJTSzhPbjJHNEhHQ2g3OGZJZFZzZHp5WUFEY0hCYVJpa2FUQ1FGQlIzZlpXSzhLQXVib2t3TEZxT3BKQXkzUVAybVBHSWw2aFdDVndtV2RUcm5aWHk4UmJTV2p0WTE4bnlvd3ZV?oc=5",
+          "description": "Uomini e donne invecchiano allo stesso modo? La risposta è nascosta nel sangue Mondosanità",
+          "pubDate": "Wed, 26 Aug 2026 07:30:00 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Tumore del pancreas metastatico, Fda approva daraxonrasib: raddoppia sopravvivenza rispetto alla chemioterapia - pharmastar.it",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRXJkUkp6bGJKUnluaEdRemowUzVIREM2SnF6SWdvMkdNNjZJb1hsZUJsWlU0cXRMRXNfdmpoQmw4c3htbWR1WnVld0k5c2JaVDdqTTU3Y2VSUWZ3VEVoQ1dZMmI5VUVUdUtjdS11b2Q3ZGFBNmVIc3ZnTlBWZnRFdThjV2VHQnR4bmVpMGlqc0NuNGJRdTkxclBMMHFLVlpqZnRQQ01jTTFIaGV3T2ZvdHJQOXJZRzVTZ2tORURPSEVkSlZab0MtMmJqbW83Q1JMbmlXbWlUVk8yZDhkLXMta01fbw?oc=5",
+          "description": "Tumore del pancreas metastatico, Fda approva daraxonrasib: raddoppia sopravvivenza rispetto alla chemioterapia pharmastar.it Cancro al pancreas, via libera a nuovo farmaco in Usa: raddoppia la sopravvivenza dei pazienti Adnkronos Tumore del pancreas, la FDA rompe il muro di RAS Mondosanità Oppenheimer alza il target su Revolution Medicines dopo approvazione FDA Investing.com Tumore al pancreas: nu",
+          "pubDate": "Wed, 26 Aug 2026 15:46:01 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Tua figlia usa creme e sieri come un’adulta? I social possono spingerla a usarne il 40% in più - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMFRfVHAxakVacVh3TlNfSzZua1RkN0luVThmRGQwcXhxVWd4bjZhbUVzLW1WNHdST0hzX2xYT1ZEN0dKcXlaZjBOb0RKNEFjTDJCRnhTWG55T3dKY3JRWUtKSlQ4QlVHNDZMUzRDVHU2T2FjMVQwM3l4R3B3WUVOaFRLMktzWEtiN1ljOTNFck5YZy1kblpFSHI3VngydHZibmZlTW9aY1ZRNjNrdVpGNE5xb2FDZ01oY2I4US1WbWxXSTQzRTRzc0xCVGRDbFBfWExMejlJNGtUUQ?oc=5",
+          "description": "Tua figlia usa creme e sieri come un’adulta? I social possono spingerla a usarne il 40% in più Mondosanità Tutti matti per la “skin care” La Stampa Cosmeticoressia, nella nuova ossessione dei giovanissimi per i cosmetici contano (soprattutto) i social Tgcom24 Adolescenti e cosmetici, l’effetto social e le insidie per la salute lapresse.it",
+          "pubDate": "Wed, 26 Aug 2026 14:30:00 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Avocado, cosa succede al corpo se ne mangiamo uno al giorno - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdWN0b2VaZ3NoVWt2SWtsQjNlVGx1OGhnUU9wejdfd1Q5R0N1X3VSMXY5SzhLT0ZtSGhQelgwdkQyX0R5NmgxSFY2a0JCYlBhdkszTm5aTzFtMjVXeGZJZ1c5OU9acFB6UUZJZ2Vqc1NubHR2bnFZZ3dJS3lQNGwwNHdESi1UYXJjQV9VVEZubG9VZWFSWjdpVnUteHVOcmdERWNialVCdFN3UTcyUWc?oc=5",
+          "description": "Avocado, cosa succede al corpo se ne mangiamo uno al giorno Mondosanità \"L'olio di avocado sta cambiando le regole del gioco\" FreshPlaza",
+          "pubDate": "Wed, 26 Aug 2026 17:00:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    }
+  ]
+}

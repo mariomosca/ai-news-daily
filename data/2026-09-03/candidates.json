@@ -1,0 +1,925 @@
+{
+  "date": "2026-09-03",
+  "top_topics": [
+    {
+      "keyword": "nato",
+      "n_items": 15,
+      "n_sources": 9,
+      "category": "geopolitica",
+      "score": 141,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Tensioni UE-Russia. Kallas: \"Visti limitati per i russi\". Medvedev minaccia Berlino - IL PUNTO - Attacco a Lipsia, pista russa e polemica sui visti: spunta un documento rilasciato dall'Italia - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdG5Cc0tSQXpYZG5ZTkZzWl9OdFJZUkkyTjI1M0tJTmNsbm5Pa25OM0FvbnI5UTBZbzNIZVZmbW43MTlBUTV3ZER0X0JFRlV5VFZ1WGRTUm1wRFZOR3pMeTFuNm9SYUdjaU1aRFJEeXp0MWxIeWtVdEVHTThNOFpZQlczOHRVZjNuOWg5Rk51LVZpT1ZHR1Qzb3JteElRaTk5Nk4zZ3paNzVvQm9FcmU1R2tqZXd5QzFwQ0FaUEdTbEl4d0FSbXhQUktCOU0wYzM4M1RxTWtWdE1uNXJfZWdNQ0tqS09ycGpiRU1XYmNtb09IcWRZSWN1Sk9zUlJhYzRCck1fdXR30gGLAkFVX3lxTE15dlpkY2t2SUROYXZwTXlLX2ZCN0lXVDZaRktQOFpzc3NJU0J5eXZwY0hfVnRCYW5QWV9HTDBBOE5QYVV4X3JxTzB0a2ppSGJ0YjJYNktxVGk3dHlZUXVGalFpSmJ1Vm9GQjZsRU1jcGpwaVdhZm5yTzZ0dE1JUERLQVhUNzhkX2dlejV3T3lfY3luYlcwQ2x2OVpIMG1Fa0tiajQzVTB0OHpzWDlOUzZrWGNnOTJyUUpGVmdZRXB1Ym52b1lZVmFwZDMzVjBPU0JfeXZDRDdQdGF6N1dsY0NDUnhZRkdiaTVBdUJMMjNFMndubHN1UlpsMEhHZE1lS1UwYllZWm9kMnVzcw?oc=5",
+          "description": "Tensioni UE-Russia. Kallas: \"Visti limitati per i russi\". Medvedev minaccia Berlino - IL PUNTO - Attacco a Lipsia, pista russa e polemica sui visti: spunta un documento rilasciato dall'Italia RaiNews L’Ue e la Nato: altre minacce e nuove sanzioni anti-Cremlino Il Fatto Quotidiano Ue, il 9 settembre riunione su rinnovo sanzioni a 3mila persone e entità russe ANSA Guerra ibrida, Tajani: \"Possibili t",
+          "pubDate": "Thu, 03 Sep 2026 02:44:26 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Dopo l'accusa tedesca a Mosca per il drone di Lipsia, von der Leyen usa finalmente la parola attacco all'Europa - Il Foglio",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVWoycTlHUTFaYXRGeklVamZBYS1oMjF5b2VMcW1KM3lJWXBIT1hORkh0elBUdlJyS0ZMX1BhYzh6ZzFLTW9hdE96M0g0UFZKcmlZSXd4VkFjd2wyZ2dTbWlRd0pBb2VXbHlBY1BDU1lnZ09tUWF0U09TYVI0a2xqdUt5bktORkctS0RUMlE5VXprVkpXQlNZOXhVTFc0N1Y4aXZtaVJxcnctaDhTcVhBa0VabDN6akZJUExEbEx0U1VxMzl0QmpKLTRjaExCVWFNMXRjQmFWUkNNR0h2LWUwT3RRd2tISlFpM282Nkpwc1JQczNwMkE?oc=5",
+          "description": "Dopo l'accusa tedesca a Mosca per il drone di Lipsia, von der Leyen usa finalmente la parola attacco all'Europa Il Foglio Von der Leyen vede Rutte, 'Ue e Nato uniti, alziamo la pressione su Mosca' ANSA L'Europa sfida Putin e serra i ranghi, l'ira di von der Leyen: «Faremo più pressione» Corriere della Sera La polizia tedesca ha individuato due sospettati per il tentativo di sabotaggio con droni al",
+          "pubDate": "Wed, 02 Sep 2026 11:59:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "L’Europa e la Nato unite studiano la ritorsione: “Diamo a Kiev i beni russi” - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNTd6c3RlVzB3OEkwYnlvQnZTa1B3bG5QUlVjdzZHbm1fM2k0MU1KazdXUVgyQnE4Z2hIQk9FS0FuZWF1M3BFZUlrQzFGcG5WSnpMdHZEWTlyT1o0Q2l3RjdhZjIzTEFWSlBfV0J0OURvb2JwVFljQldjY1N1WGZpc091Y3RvR0NPUDVwLWt2ekdaMjhNdTFqdm02eThyMlFRUWpjb2wwVEdBbzRQTjE5M3VfQWY5VktMQnRBSlRkUUlzemIteEtjS1h6Ukc2N0nSAdQBQVVfeXFMTmxoOWxKaE9MWVB5SU1qQ2hIV2pxa3lGb3l5RFZIem9GbUU1bHNOajhwYUtJWmtUTmNaTTBNUmg3WkluTWZINzNpd3VoNTZVMC1SQ0gzRUtaX2ZtY08wT1FqNGRocldkc00tZnJLOFFjQjZKYzVCeHhEUEtxU09vWHZFdTZFYm5WSjQydFJaN2t4TThRVjgxNklVOWRZc01KMjZlRHZFbTRENmFiYkFsR3Bad0w4aURCNVdSTFlDSUk5WGdqOFBxc3VuMzhDTkNNWDRtZGY?oc=5",
+          "description": "L’Europa e la Nato unite studiano la ritorsione: “Diamo a Kiev i beni russi” la Repubblica Kallas: 'Attacchi ibridi una svegliata'. Tajani: 'Valutiamo l'uso degli asset russi ma possibili problemi giuridici'. ANSA Beni congelati per gli ucraini, ora la Ue torna alla carica. Rutte: “La Nato non si divide” la Repubblica Spunta ipotesi di trasferire gli asset russi da Euroclear a uno strumento Ue La ",
+          "pubDate": "Tue, 01 Sep 2026 23:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra ibrida della Russia contro l’Europa, cos’è e quali sono i più recenti casi sospetti - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nYURVTS1VSzFSTlFnM1JXWEQ4T0hiOFE3bnFYUjVmLVlCU21xdWZUYzVxajRaM2RQcmhROEpoN0Q0Ylljak10RTFUUFU0empEUWhLb2RKbElPaHVCbDF3YWVqeDNLQk1B?oc=5",
+          "description": "Guerra ibrida della Russia contro l’Europa, cos’è e quali sono i più recenti casi sospetti Sky TG24 Von der Leyen vede Rutte, 'Ue e Nato uniti, alziamo la pressione su Mosca' ANSA La polizia tedesca ha individuato due sospettati per il tentativo di sabotaggio con droni all'aeroporto di Lipsia Il Post Ombre russe. Dopo Lipsia, Italia esposta.. Tajani preoccupato, Salvini neanche un po' (di G. Uccie",
+          "pubDate": "Wed, 02 Sep 2026 17:10:28 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Droni nello spazio aereo dell'Estonia, si alzano i caccia Nato - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaVphbkhrSUo4OVpySnZhLXQtdktXYnRlWU1hMzNDZFRkZWVzQWFtcXprQzVPZVYzZjZza2hHR25sRV9waXpBdzhkdkRYQWtJWU8tc3JKNmd6NVVySW9wSXhjSEVPTTVKWWF6NFBnTjQyZ3V1bjFSa1gzTHp5aDhZX2ZGc0JtX2N6cVhYZHpOVC1rNTRhbFhQcHZKR0ZjZk51SHlrSGVqZ2VGTU5Qd3VJ?oc=5",
+          "description": "Droni nello spazio aereo dell'Estonia, si alzano i caccia Nato Tgcom24 Settima notte di attacchi, le bombe russe su Kiev e Odessa ANSA Altra notte di attacchi incrociati fra Russia e Ucraina: 7 morti a Kiev, colpito il porto russo di Ust-Luga TGLA7 “Atti ostili pure qui in Estonia: Putin vuole che molliamo l’Ucraina, non cadiamo nella trappola” la Repubblica I danni provocati da un missile russo a",
+          "pubDate": "Tue, 01 Sep 2026 11:01:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "trump",
+      "n_items": 13,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 84,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Iran, raid Usa su 100 obiettivi. Trump: \"Pronti a lanciare un nuovo attacco\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Id0gtdk5saE96QmVFTlFyWWRzeVJuZU5iZXNmZ1lRbjdVWF9TRE0xSkZFWVZrTnFrMkRGWmRDdTVVWEJhYi1kR1VzdlBDeDdhZnZ2anJPU1E4OUo4UUtzOWV2UTgxblNfMlB4Z3BkZndZWmhHdTZwRjZ2TQ?oc=5",
+          "description": "Guerra Iran, raid Usa su 100 obiettivi. Trump: \"Pronti a lanciare un nuovo attacco\" Sky TG24 Ci sono ancora mine iraniane nello stretto di Hormuz? Il Post Nuova ondata di attacchi Usa in Iran. Ancora fermi i negoziati vaticannews.va L'Iran colpisce basi Usa in Iraq, Bahrein, Kuwait e negli Emirati ANSA Media, 'nessuna vittima americana negli attacchi dell'Iran' ANSA",
+          "pubDate": "Wed, 02 Sep 2026 22:00:25 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Trump insiste: “Controlliamo lo Stretto di Hormuz, ribattezzarlo con il mio nome” - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSWZJaVJmMFJaUFl1Q0JyNjlPeGxkUkxtbmdJbTVIeDFnNXFndGxzajdPNXFyQTBKYjFMQlZqNDd5LXQtVTBveVFsTnRxQ1hjZUh3ZFNaN0F1UmxsckVMbU9jMThfNkFqNXJUM2ZUTF82Nm5tSkRnNmdhSFF3NjM5NllfMDBsV0lwTlhLcmw4Umx5bHhI?oc=5",
+          "description": "Trump insiste: “Controlliamo lo Stretto di Hormuz, ribattezzarlo con il mio nome” Il Fatto Quotidiano Guerra Iran, raid Usa su 100 obiettivi. Trump: \"Pronti a lanciare un nuovo attacco\" Sky TG24 Ci sono ancora mine iraniane nello stretto di Hormuz? Il Post Nuova ondata di attacchi Usa in Iran. Ancora fermi i negoziati vaticannews.va L'Iran colpisce basi Usa in Iraq, Bahrein, Kuwait e negli Emirati",
+          "pubDate": "Wed, 02 Sep 2026 16:40:59 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "The US is gobbling up Venezuelan oil, but will it lower fuel prices? - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPck9WRVQ5V29GS3NrTFFWM3pVZG4wbXJxSkdZUFhCeEZLZGdMdE01WHkxUTk3dmZ5bktRZ2kwa25GT3VSWkRqNGtUWDdYREFNMUFyVGV0T3FxdVh1TWNtUnBpdk9VR0JhWEI0MnBzRVJjeC00RmJ0UU1HM0V5TURSeU5IbzRhU0E2R3Fmb0VmWDk5VXlFSEY1eTdkWHBDcDZ6cnJpUUdxcVZ2Z9IBrwFBVV95cUxOdTFFN1hjY3MwV3VBdWgteVU3TzhTdEFnSkkyUzlQYmhmaXJiTEwySzdETkFIMGtxLTVURm1XRFhtSWxwTW9WUFFiMUNLYU9YVzZQZUlqeHdrNm50dDAtZWlBbVhBRFRIVUJrYUliclN2cTdkdGw0Qm1yR3gwTkhTOFo1bW9VQ1hhckI3YnhGZXJNa0s3YXl4WExPcGtOU3lESE00NS1qd0pnR2FETkVn?oc=5",
+          "description": "The US is gobbling up Venezuelan oil, but will it lower fuel prices? Al Jazeera Opinion | The cronies in Caracas win over Washington The Washington Post Why Trump’s Venezuela Oil Grab Is No Quick Fix for Gas Prices WSJ ‘Direct hit’: China dealt blow as US-backed firm takes over Venezuelan oilfields South China Morning Post Chevron plans to double oil production in Venezuela with $7 billion investm",
+          "pubDate": "Wed, 02 Sep 2026 11:49:37 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Pentagon chaos deepens after Dan Driscoll quits in clash with Pete Hegseth - Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcnBGTFk1d1dxelY4OGtZb0dCd0xmYnFJNmx5cmhGR0tSMDlieEV5Wm5pamxwVTljZXVDNWtJYXpnLXlWQ1JSejZPYzR2NlVZUkZTZFNNSVc2RUFjTmV4cFBOWl9lTzZoWV9rRlhpS1JsM3o2T2VyNkRidVl3YlhDWmlMcjc?oc=5",
+          "description": "Pentagon chaos deepens after Dan Driscoll quits in clash with Pete Hegseth Financial Times Trump encouraged Army secretary to stay in job The Washington Post Here are the military and civilian leaders who've been fired, forced out or resigned since Hegseth became defense secretary CBS News Army Secretary Dan Driscoll Lauds Hegseth As Pentagon Refutes Reports Of Leadership Gap Forbes Dan Driscoll’s",
+          "pubDate": "Wed, 02 Sep 2026 20:51:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "US launches ‘large and powerful’ new strikes at Iran - politico.com",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95dHc4bnpkQTk0SWVXNFYwNGJQSVBwVnJLTy1zM0dtSWdPM1BrVUVYRTUyNDFUWHFERUZOTl9IcmZfcmtMR3hlbkxMcGx2RnBfQzlPcEY5bng5NkNlRWdBSkhxU044YnpxWUFXZA?oc=5",
+          "description": "US launches ‘large and powerful’ new strikes at Iran politico.com Iran retaliates after US strikes, defying Trump’s warning it could be hit ‘much harder’ CNN Iran war escalation raises concern over civilian death toll Reuters In Small Iranian Town, a U.S. Attack Turns a Wedding Into a Tragedy The New York Times What do we know about the fatal US bombing of a wedding in Iran’s Sirik? Al Jazeera",
+          "pubDate": "Tue, 01 Sep 2026 17:43:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "nuova",
+      "n_items": 14,
+      "n_sources": 6,
+      "category": "general",
+      "score": 84,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Iran, raid Usa su 100 obiettivi. Trump: \"Pronti a lanciare un nuovo attacco\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Id0gtdk5saE96QmVFTlFyWWRzeVJuZU5iZXNmZ1lRbjdVWF9TRE0xSkZFWVZrTnFrMkRGWmRDdTVVWEJhYi1kR1VzdlBDeDdhZnZ2anJPU1E4OUo4UUtzOWV2UTgxblNfMlB4Z3BkZndZWmhHdTZwRjZ2TQ?oc=5",
+          "description": "Guerra Iran, raid Usa su 100 obiettivi. Trump: \"Pronti a lanciare un nuovo attacco\" Sky TG24 Ci sono ancora mine iraniane nello stretto di Hormuz? Il Post Nuova ondata di attacchi Usa in Iran. Ancora fermi i negoziati vaticannews.va L'Iran colpisce basi Usa in Iraq, Bahrein, Kuwait e negli Emirati ANSA Media, 'nessuna vittima americana negli attacchi dell'Iran' ANSA",
+          "pubDate": "Wed, 02 Sep 2026 22:00:25 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Trump insiste: “Controlliamo lo Stretto di Hormuz, ribattezzarlo con il mio nome” - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSWZJaVJmMFJaUFl1Q0JyNjlPeGxkUkxtbmdJbTVIeDFnNXFndGxzajdPNXFyQTBKYjFMQlZqNDd5LXQtVTBveVFsTnRxQ1hjZUh3ZFNaN0F1UmxsckVMbU9jMThfNkFqNXJUM2ZUTF82Nm5tSkRnNmdhSFF3NjM5NllfMDBsV0lwTlhLcmw4Umx5bHhI?oc=5",
+          "description": "Trump insiste: “Controlliamo lo Stretto di Hormuz, ribattezzarlo con il mio nome” Il Fatto Quotidiano Guerra Iran, raid Usa su 100 obiettivi. Trump: \"Pronti a lanciare un nuovo attacco\" Sky TG24 Ci sono ancora mine iraniane nello stretto di Hormuz? Il Post Nuova ondata di attacchi Usa in Iran. Ancora fermi i negoziati vaticannews.va L'Iran colpisce basi Usa in Iraq, Bahrein, Kuwait e negli Emirati",
+          "pubDate": "Wed, 02 Sep 2026 16:40:59 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "In Guinea-Bissau è stata approvata una nuova Costituzione che amplia i poteri del presidente - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWUx1MXloRl9CMGlIS1FyblVBRUwxU0dYVFg0X3pqR2VyVUt3SjVkak5TYUtXc3ZhNHEzQm5SRFVRSXVDTGZMdVVQcFFQU1BENVpXVHQ2czNqaTQzeWZnQU5DZXNseDNNalh3aHFNUmVVbVNxM3V2U3JOOGQxMURLbU9tZ3hhWkwzR3lYMmVrcWppWlh5Q1Rkam5ISG1uUVAybGFYWV9kRjYyOWMtU3EyNVdsd1l1QQ?oc=5",
+          "description": "In Guinea-Bissau è stata approvata una nuova Costituzione che amplia i poteri del presidente Il Post Guinea-Bissau: appello al “boicottaggio totale” contro il referendum Nigrizia",
+          "pubDate": "Wed, 02 Sep 2026 11:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Sabato 5 settembre chiusure temporanee sulla Statale 36 per la parata delle moto Guzzi - leccotoday.it",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRTNrcjROSUtadVdLa1VJZ3FONUd0Mmc3S3BYOUt4S2YtRkFTZ0JWbnM5M0hVTmpiZ055NS1JcjI1MTRHTjFSY3l5aFhvTkRFOVZRVHc2T0VON1RwQ2FxcTRXVjJIOWFqWDNobUNYeE5YQjdHdmlwenpHRDdzUUM1bFhXakdkNjA1MGduRjFiZUhDeXVIWFJkV3N4SQ?oc=5",
+          "description": "Sabato 5 settembre chiusure temporanee sulla Statale 36 per la parata delle moto Guzzi leccotoday.it Antonio Rossi: “Moto Guzzi è storia di famiglia, salirci sui monti è un’emozione” la Repubblica Piaggio inaugura la nuova casa di Moto Guzzi firmata Lynn ANSA Moto Guzzi prepara la grande festa: a settembre partono le Giornate Mondiali 2026 Corriere della Sera Moto Guzzi svela la nuova fabbrica del",
+          "pubDate": "Wed, 02 Sep 2026 14:45:12 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "La guerra di Hormuz infiamma i prezzi e avvicina una nuova stretta Bce - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNU3ByWTBna1ZzaWpTMG1tU3kyVjNqNElyM2x2LVM0cHlydTJUSVFoSzJxcElvNzRtM3RyNVVLRVRkVEVaSFZYZ2t2cHZNeVRfYV9keFZ1b3FxZmNSdUhvVGxMUXB3X1pOV3c0dTY5LVM1YzlRM3pTenhxVDI5VXBOYkcycDhnMFVLRkkxTzhROHU0WC1sSThBU3dTSzR6ZW11YkJzN2twU2tMQk9NVU9KZVRWR1l4dTRXdzZRWHFNeW9nN1NyNk11QUpjdzNsMXBQQnJRcnlPTDlIczVhTWxubURGR2R5S280Ql9UaVItVnJkd3N6MFBMd9IB_gFBVV95cUxOcHNvMVJ4QmdDNDBQRWgybS1MRVFyQVBLNkwwMmRQdzRSRHhVMFczbzlLSWVzbDlZSE9sdlJJa0hNSGZDU0gwR2txX3ZHcWNBLTFTdG9qX2dmbVFnUDBMQVQxYVMwcTlWMDc0QUFPVDgtemZIcU5sc0h0ZjMta0pKbEdkUUN6el9nc3JDWHpDTTlSeGRFVVd3TDZZRkdCQm5wOUg5eVBkbDM5VEliV2djMkpyVGIyam1UMU1JUXNXNzU1R0tVbEtnOXNNaW14QTJSWlBNdVhtVXFtTGs5alFLU0Fpbzc4UmlQQmx1Sll2dzhiRC1fWHFkYzZjQ09TUQ?oc=5",
+          "description": "La guerra di Hormuz infiamma i prezzi e avvicina una nuova stretta Bce ANSA Bce verso nuovo rialzo dei tassi: lo shock energetico spinge l'inflazione al 3,3% Euronews.com Nagel (Bundesbank), verso rialzo tassi Bce a settembre, cautela sul dopo ANSA E21: stima flash, tasso inflazione agosto in rialzo a 3,3% (RCO) Il Sole 24 ORE Makhlouf (BCE), preoccupato per inflazione sopra il 3%, decisione sui t",
+          "pubDate": "Tue, 01 Sep 2026 16:40:10 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "russi",
+      "n_items": 12,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 78,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Tensioni UE-Russia. Kallas: \"Visti limitati per i russi\". Medvedev minaccia Berlino - IL PUNTO - Attacco a Lipsia, pista russa e polemica sui visti: spunta un documento rilasciato dall'Italia - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdG5Cc0tSQXpYZG5ZTkZzWl9OdFJZUkkyTjI1M0tJTmNsbm5Pa25OM0FvbnI5UTBZbzNIZVZmbW43MTlBUTV3ZER0X0JFRlV5VFZ1WGRTUm1wRFZOR3pMeTFuNm9SYUdjaU1aRFJEeXp0MWxIeWtVdEVHTThNOFpZQlczOHRVZjNuOWg5Rk51LVZpT1ZHR1Qzb3JteElRaTk5Nk4zZ3paNzVvQm9FcmU1R2tqZXd5QzFwQ0FaUEdTbEl4d0FSbXhQUktCOU0wYzM4M1RxTWtWdE1uNXJfZWdNQ0tqS09ycGpiRU1XYmNtb09IcWRZSWN1Sk9zUlJhYzRCck1fdXR30gGLAkFVX3lxTE15dlpkY2t2SUROYXZwTXlLX2ZCN0lXVDZaRktQOFpzc3NJU0J5eXZwY0hfVnRCYW5QWV9HTDBBOE5QYVV4X3JxTzB0a2ppSGJ0YjJYNktxVGk3dHlZUXVGalFpSmJ1Vm9GQjZsRU1jcGpwaVdhZm5yTzZ0dE1JUERLQVhUNzhkX2dlejV3T3lfY3luYlcwQ2x2OVpIMG1Fa0tiajQzVTB0OHpzWDlOUzZrWGNnOTJyUUpGVmdZRXB1Ym52b1lZVmFwZDMzVjBPU0JfeXZDRDdQdGF6N1dsY0NDUnhZRkdiaTVBdUJMMjNFMndubHN1UlpsMEhHZE1lS1UwYllZWm9kMnVzcw?oc=5",
+          "description": "Tensioni UE-Russia. Kallas: \"Visti limitati per i russi\". Medvedev minaccia Berlino - IL PUNTO - Attacco a Lipsia, pista russa e polemica sui visti: spunta un documento rilasciato dall'Italia RaiNews L’Ue e la Nato: altre minacce e nuove sanzioni anti-Cremlino Il Fatto Quotidiano Ue, il 9 settembre riunione su rinnovo sanzioni a 3mila persone e entità russe ANSA Guerra ibrida, Tajani: \"Possibili t",
+          "pubDate": "Thu, 03 Sep 2026 02:44:26 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "L’Europa e la Nato unite studiano la ritorsione: “Diamo a Kiev i beni russi” - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNTd6c3RlVzB3OEkwYnlvQnZTa1B3bG5QUlVjdzZHbm1fM2k0MU1KazdXUVgyQnE4Z2hIQk9FS0FuZWF1M3BFZUlrQzFGcG5WSnpMdHZEWTlyT1o0Q2l3RjdhZjIzTEFWSlBfV0J0OURvb2JwVFljQldjY1N1WGZpc091Y3RvR0NPUDVwLWt2ekdaMjhNdTFqdm02eThyMlFRUWpjb2wwVEdBbzRQTjE5M3VfQWY5VktMQnRBSlRkUUlzemIteEtjS1h6Ukc2N0nSAdQBQVVfeXFMTmxoOWxKaE9MWVB5SU1qQ2hIV2pxa3lGb3l5RFZIem9GbUU1bHNOajhwYUtJWmtUTmNaTTBNUmg3WkluTWZINzNpd3VoNTZVMC1SQ0gzRUtaX2ZtY08wT1FqNGRocldkc00tZnJLOFFjQjZKYzVCeHhEUEtxU09vWHZFdTZFYm5WSjQydFJaN2t4TThRVjgxNklVOWRZc01KMjZlRHZFbTRENmFiYkFsR3Bad0w4aURCNVdSTFlDSUk5WGdqOFBxc3VuMzhDTkNNWDRtZGY?oc=5",
+          "description": "L’Europa e la Nato unite studiano la ritorsione: “Diamo a Kiev i beni russi” la Repubblica Kallas: 'Attacchi ibridi una svegliata'. Tajani: 'Valutiamo l'uso degli asset russi ma possibili problemi giuridici'. ANSA Beni congelati per gli ucraini, ora la Ue torna alla carica. Rutte: “La Nato non si divide” la Repubblica Spunta ipotesi di trasferire gli asset russi da Euroclear a uno strumento Ue La ",
+          "pubDate": "Tue, 01 Sep 2026 23:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra ibrida della Russia contro l’Europa, cos’è e quali sono i più recenti casi sospetti - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nYURVTS1VSzFSTlFnM1JXWEQ4T0hiOFE3bnFYUjVmLVlCU21xdWZUYzVxajRaM2RQcmhROEpoN0Q0Ylljak10RTFUUFU0empEUWhLb2RKbElPaHVCbDF3YWVqeDNLQk1B?oc=5",
+          "description": "Guerra ibrida della Russia contro l’Europa, cos’è e quali sono i più recenti casi sospetti Sky TG24 Von der Leyen vede Rutte, 'Ue e Nato uniti, alziamo la pressione su Mosca' ANSA La polizia tedesca ha individuato due sospettati per il tentativo di sabotaggio con droni all'aeroporto di Lipsia Il Post Ombre russe. Dopo Lipsia, Italia esposta.. Tajani preoccupato, Salvini neanche un po' (di G. Uccie",
+          "pubDate": "Wed, 02 Sep 2026 17:10:28 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "L’avvertimento di Kyjiv | Zelensky vuole chiudere i cieli russi con i droni - Linkiesta.it",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeVdkdElMQ1EteEJPMVg5WXpjX01zMkZRUkRpSjdOcWFfdGxxUDJmN2hxdzlWUlI2OVNLZ0RrVkl2bVNoNklvamJLU0Y5NWozXzlaYVBBZDZDSlZ4U3d2SF81RlZtZElUVDNxMmpZQXczSE8wNlp0cExDaGRoNURBVlNuZ05OSXpfNklj?oc=5",
+          "description": "L’avvertimento di Kyjiv | Zelensky vuole chiudere i cieli russi con i droni Linkiesta.it Ucraina avverte le compagnie aeree: \"Lo spazio aereo russo non è sicuro\" Euronews.com Putin, 'minacce di Zelensky ai voli civili sono terrorismo di Stato' ANSA Guerra Ucraina - Russia. Zelensky avverte le compagnie aeree: “Finiti i giorni sicuri nei cieli russi”. Putin: “Terrorismo di Stato” la Repubblica Zele",
+          "pubDate": "Wed, 02 Sep 2026 05:07:45 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "L’islanda, i troll russi e il benessere psicologico - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNWhiUTFfWk8yak5ZeS11dHVPS0x4eUNackJDZWxWRWxPeWYzc2Y4b0VQWU10cWMtTkt5MXBGRlI1ME1MbDBGV0xKSDc1U25qY242OUpfbWNQUkhNdVpwZGVqTDNYTUkzMEg4SkFtWkx2VjdRTG4yVzZIZWNOdFNrQWdUVlQxNGNBd201REJHRGpxTHpBNmlLXzRUZEN3ZU56aEtQeWc1NGxDSUl1QjRxQXJuMWNhWlNDU3lPRVJUcw?oc=5",
+          "description": "L’islanda, i troll russi e il benessere psicologico Il Fatto Quotidiano Perché gli islandesi hanno detto no all’Unione europea - Pierre Haski Internazionale Non solo Islanda, tutti i referendum sull’UE e i loro esiti (vittorie e sconfitte tra paure e presunte convenienze) Eunews Islanda, voto \"No\" all'Ue: cosa significa per la politica di allargamento Euronews.com L'Islanda è nel club Europa, che ",
+          "pubDate": "Tue, 01 Sep 2026 22:01:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "europa",
+      "n_items": 12,
+      "n_sources": 5,
+      "category": "economia",
+      "score": 66,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Dopo l'accusa tedesca a Mosca per il drone di Lipsia, von der Leyen usa finalmente la parola attacco all'Europa - Il Foglio",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVWoycTlHUTFaYXRGeklVamZBYS1oMjF5b2VMcW1KM3lJWXBIT1hORkh0elBUdlJyS0ZMX1BhYzh6ZzFLTW9hdE96M0g0UFZKcmlZSXd4VkFjd2wyZ2dTbWlRd0pBb2VXbHlBY1BDU1lnZ09tUWF0U09TYVI0a2xqdUt5bktORkctS0RUMlE5VXprVkpXQlNZOXhVTFc0N1Y4aXZtaVJxcnctaDhTcVhBa0VabDN6akZJUExEbEx0U1VxMzl0QmpKLTRjaExCVWFNMXRjQmFWUkNNR0h2LWUwT3RRd2tISlFpM282Nkpwc1JQczNwMkE?oc=5",
+          "description": "Dopo l'accusa tedesca a Mosca per il drone di Lipsia, von der Leyen usa finalmente la parola attacco all'Europa Il Foglio Von der Leyen vede Rutte, 'Ue e Nato uniti, alziamo la pressione su Mosca' ANSA L'Europa sfida Putin e serra i ranghi, l'ira di von der Leyen: «Faremo più pressione» Corriere della Sera La polizia tedesca ha individuato due sospettati per il tentativo di sabotaggio con droni al",
+          "pubDate": "Wed, 02 Sep 2026 11:59:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "L’Europa e la Nato unite studiano la ritorsione: “Diamo a Kiev i beni russi” - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNTd6c3RlVzB3OEkwYnlvQnZTa1B3bG5QUlVjdzZHbm1fM2k0MU1KazdXUVgyQnE4Z2hIQk9FS0FuZWF1M3BFZUlrQzFGcG5WSnpMdHZEWTlyT1o0Q2l3RjdhZjIzTEFWSlBfV0J0OURvb2JwVFljQldjY1N1WGZpc091Y3RvR0NPUDVwLWt2ekdaMjhNdTFqdm02eThyMlFRUWpjb2wwVEdBbzRQTjE5M3VfQWY5VktMQnRBSlRkUUlzemIteEtjS1h6Ukc2N0nSAdQBQVVfeXFMTmxoOWxKaE9MWVB5SU1qQ2hIV2pxa3lGb3l5RFZIem9GbUU1bHNOajhwYUtJWmtUTmNaTTBNUmg3WkluTWZINzNpd3VoNTZVMC1SQ0gzRUtaX2ZtY08wT1FqNGRocldkc00tZnJLOFFjQjZKYzVCeHhEUEtxU09vWHZFdTZFYm5WSjQydFJaN2t4TThRVjgxNklVOWRZc01KMjZlRHZFbTRENmFiYkFsR3Bad0w4aURCNVdSTFlDSUk5WGdqOFBxc3VuMzhDTkNNWDRtZGY?oc=5",
+          "description": "L’Europa e la Nato unite studiano la ritorsione: “Diamo a Kiev i beni russi” la Repubblica Kallas: 'Attacchi ibridi una svegliata'. Tajani: 'Valutiamo l'uso degli asset russi ma possibili problemi giuridici'. ANSA Beni congelati per gli ucraini, ora la Ue torna alla carica. Rutte: “La Nato non si divide” la Repubblica Spunta ipotesi di trasferire gli asset russi da Euroclear a uno strumento Ue La ",
+          "pubDate": "Tue, 01 Sep 2026 23:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "L'Olanda sposta 86 tonnellate d'oro dal Nordamerica a Londra: «Dobbiamo esser pronti a crisi geopolitiche» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNMWlRengtOG9Zd3NndFRRV1d4N3V4ZzhLSm1oVHByOHM5VnhxbVFEemd3TVZ5VnhhTWJORWk4NVp1c2I4aWJGWFdtLTZXeDBMcXhQSWh2M1BJaEJNRDZZbzFabUFud1c3eTV6R3I2OUN5c3NqMlZNdE1qLTVMc043NmNPS2JRUzZBQWtIcjRmc0ttcFVsdGd1NVdVMGY4VkRSWjZROHZvaklQTWZ1VTVSclhJWDF2SXVNSnlpYnBwNWFSS1BjT1NrcDhxOHh1bUpYb0MtbGVVbXhHcHpKQnpnWW5tVHJ5MklnQnowdlZpQnc3SzhwQ0twV2NNRGRpYmI3TWV5azRoNWNueWE1X1hyVi04U2lrbmpaLWJnaFFmeWM0QW5sbXpFQXFENNIBsAJBVV95cUxNVzdQWnpGOUozckNkRkMzTEFkN2Q1Slc5QnZTS1pjZDBuWEJUdHFiay1nS3U1cGpmMWU4dUp3VUEzaVhwVDlGSl8xeUpGd1ZNSFNib0RwLTZXaFlHNzZnUTBMbVBFMm9PVE04WnFIdTZ4RGlnVmR0Zk1sSjJQRkZDM2MzSGV5TlZUZVlfYW1HelVtOG5FREtKbjFJSjJhckVfQTNSOHNFVUU5Z1pLaGlIdEpWSEx0VWs2Rm1HWEtRMk93RFRZLWxmckk0OG9pdGYyamJvMjJJVkItdngzTS1FNkFUZC1YbzdSbzBCS2N6MDBScC1KaGRCY19lbzlsWlVTdmhtWmFhdkRGVjhDbWlnczZqc1AxVmp1Yzd6bE9KVXB0OXlpVzVqeGV3WG0yS2pV?oc=5",
+          "description": "L'Olanda sposta 86 tonnellate d'oro dal Nordamerica a Londra: «Dobbiamo esser pronti a crisi geopolitiche» Corriere della Sera L’Olanda sposta l’oro dagli Usa a causa dell’instabilità geopolitica. Nuovo caso in Europa dopo quello della Banca di Francia Milano Finanza Banca centrale olandese sposta oro da Usa e Canada a Uk per 'instabilità geopolitiche' ANSA Perché la banca centrale olandese sposta",
+          "pubDate": "Wed, 02 Sep 2026 15:16:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra ibrida della Russia contro l’Europa, cos’è e quali sono i più recenti casi sospetti - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nYURVTS1VSzFSTlFnM1JXWEQ4T0hiOFE3bnFYUjVmLVlCU21xdWZUYzVxajRaM2RQcmhROEpoN0Q0Ylljak10RTFUUFU0empEUWhLb2RKbElPaHVCbDF3YWVqeDNLQk1B?oc=5",
+          "description": "Guerra ibrida della Russia contro l’Europa, cos’è e quali sono i più recenti casi sospetti Sky TG24 Von der Leyen vede Rutte, 'Ue e Nato uniti, alziamo la pressione su Mosca' ANSA La polizia tedesca ha individuato due sospettati per il tentativo di sabotaggio con droni all'aeroporto di Lipsia Il Post Ombre russe. Dopo Lipsia, Italia esposta.. Tajani preoccupato, Salvini neanche un po' (di G. Uccie",
+          "pubDate": "Wed, 02 Sep 2026 17:10:28 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "L’islanda, i troll russi e il benessere psicologico - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNWhiUTFfWk8yak5ZeS11dHVPS0x4eUNackJDZWxWRWxPeWYzc2Y4b0VQWU10cWMtTkt5MXBGRlI1ME1MbDBGV0xKSDc1U25qY242OUpfbWNQUkhNdVpwZGVqTDNYTUkzMEg4SkFtWkx2VjdRTG4yVzZIZWNOdFNrQWdUVlQxNGNBd201REJHRGpxTHpBNmlLXzRUZEN3ZU56aEtQeWc1NGxDSUl1QjRxQXJuMWNhWlNDU3lPRVJUcw?oc=5",
+          "description": "L’islanda, i troll russi e il benessere psicologico Il Fatto Quotidiano Perché gli islandesi hanno detto no all’Unione europea - Pierre Haski Internazionale Non solo Islanda, tutti i referendum sull’UE e i loro esiti (vittorie e sconfitte tra paure e presunte convenienze) Eunews Islanda, voto \"No\" all'Ue: cosa significa per la politica di allargamento Euronews.com L'Islanda è nel club Europa, che ",
+          "pubDate": "Tue, 01 Sep 2026 22:01:00 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "report",
+      "n_items": 9,
+      "n_sources": 7,
+      "category": "general",
+      "score": 63,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Si riapre il dialogo sul futuro di Report, Presutti si sfila - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdVFRdWZvVFVCNjNzQVRfSUhjcHpvbDBFaWNPdjdqMkx4LVI0dDQ5N2pyc0VfZkRYcW1Ua0ZlS3BvRUIwckcxbW1UTHY1MzgyV1F0VXJsV1kwTFN6dktRMHFtbHJwTXhJNThnQVRsNkxRcW5VbGhpWGVwU2NVUWFnb2JNMV9wb3FVNnRVZW9VWXlDWDk1UEF2c1FERHRXTGM5OHN6OF9sMUN1Q3BiU0pXSUVSbk1RNHc5WEZEYnZXd25feFdCbWg3VUZEVWViUnNUd2J3SE5IVEYzcjRjR2RuNWJkZURYOWFYTzF3VTZmNV9YTUdZMm9iV3k4NNIBgAJBVV95cUxNeVIzbENFelNGMmh0VlR2cEZhMU1Qc196dEszNjJxQ0lDNlQ1bWdVaVFEb0dvMUNkelpzVGp4TFpOaFJVU2Jtb2dQbGkwWnlmaUZSYndZMHZpa00xZmdSYlNmNVhTOVRVd1NnckxiZlZKdktvckp1c0x2OE9FVFloVm1aTGdrWWNYVHNpMExmQThxeTl1STRnOGUxWU5MZEl4WndJaGFfTGFqVjJwZTY3b0tDX0ZqTG5CZEtwT0hYQzFaM0RaOHlHRlJsNF9KSWVyakI2WE1DeGpfbGFiSmJYeUZ2d1hxUnM2UEp2UWpwYUVMZEQ4cGtQbVVMM0NGUFl6?oc=5",
+          "description": "Si riapre il dialogo sul futuro di Report, Presutti si sfila ANSA Report, Giulia Presutti rinuncia alla conduzione: «Passo indietro per aiutare la trasmissione». La redazione: c'è un canale con la Rai Corriere Roma Giulia Presutti ha rinunciato a condurre Report al posto di Sigfrido Ranucci Il Post Report, inviati dopo incontro in Rai: \"Vogliamo andare in onda l'8 novembre\" Il Fatto Quotidiano Rep",
+          "pubDate": "Wed, 02 Sep 2026 20:15:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Pentagon chaos deepens after Dan Driscoll quits in clash with Pete Hegseth - Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcnBGTFk1d1dxelY4OGtZb0dCd0xmYnFJNmx5cmhGR0tSMDlieEV5Wm5pamxwVTljZXVDNWtJYXpnLXlWQ1JSejZPYzR2NlVZUkZTZFNNSVc2RUFjTmV4cFBOWl9lTzZoWV9rRlhpS1JsM3o2T2VyNkRidVl3YlhDWmlMcjc?oc=5",
+          "description": "Pentagon chaos deepens after Dan Driscoll quits in clash with Pete Hegseth Financial Times Trump encouraged Army secretary to stay in job The Washington Post Here are the military and civilian leaders who've been fired, forced out or resigned since Hegseth became defense secretary CBS News Army Secretary Dan Driscoll Lauds Hegseth As Pentagon Refutes Reports Of Leadership Gap Forbes Dan Driscoll’s",
+          "pubDate": "Wed, 02 Sep 2026 20:51:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Si riapre il dialogo sul futuro di Report, Presutti si sfila",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/09/02/report-giulia-presutti-faccio-un-passo-indietro-rinuncio-alla-conduzione_2d069cda-7b90-4b41-b725-b2f3c00a7fc3.html",
+          "description": "\"Rinuncio per amore del programma\". Corsini si prende 24 ore di tempo",
+          "pubDate": "Wed, 2 Sep 2026 22:15:00 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+          "description": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
+          "pubDate": "Wed, 02 Sep 2026 17:33:45 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+          "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+          "description": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.",
+          "pubDate": "Wed, 02 Sep 2026 15:33:19 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "milano",
+      "n_items": 10,
+      "n_sources": 5,
+      "category": "economia",
+      "score": 56,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Schlein prende tempo. Ma la partita milanese è diventata un caso - Domani",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa2J4cG42UTgtbG5Hdk5pOGEyeC1PUy1SY1NfYVdxTVZvWFVSY0RDcEsyTW5qSGhPekxJbTZ4c2dBRjIzMUtZMS1pNXJpRUxYMTY2X1hVODl6eUlqR1I4MHJSbUFjYW1oMzlNOHhWUy1fNEFRcDNfdTdBNFFFdmhLTnNvSUpmOFRiLWpIOTNhdE1nNnNjS3B6N1diTFF3M1Y1WWViWjVnQWF5RzNnbnpzQ3FHTkhyOEpPb2ZvMA?oc=5",
+          "description": "Schlein prende tempo. Ma la partita milanese è diventata un caso Domani Blog | Calabresi candidato a Milano, perché farebbe bene a misurarsi con le primarie Il Fatto Quotidiano Calabresi è in campo. E ora le primarie? Con lui l’ex capo staff di Pisapia Il Foglio Primarie, partita aperta: Calabresi è in campo, gli sfidanti si preparano, tace il Pd la Repubblica Calabresi in campo a Milano: Schlein ",
+          "pubDate": "Wed, 02 Sep 2026 18:25:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "L'Olanda sposta 86 tonnellate d'oro dal Nordamerica a Londra: «Dobbiamo esser pronti a crisi geopolitiche» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNMWlRengtOG9Zd3NndFRRV1d4N3V4ZzhLSm1oVHByOHM5VnhxbVFEemd3TVZ5VnhhTWJORWk4NVp1c2I4aWJGWFdtLTZXeDBMcXhQSWh2M1BJaEJNRDZZbzFabUFud1c3eTV6R3I2OUN5c3NqMlZNdE1qLTVMc043NmNPS2JRUzZBQWtIcjRmc0ttcFVsdGd1NVdVMGY4VkRSWjZROHZvaklQTWZ1VTVSclhJWDF2SXVNSnlpYnBwNWFSS1BjT1NrcDhxOHh1bUpYb0MtbGVVbXhHcHpKQnpnWW5tVHJ5MklnQnowdlZpQnc3SzhwQ0twV2NNRGRpYmI3TWV5azRoNWNueWE1X1hyVi04U2lrbmpaLWJnaFFmeWM0QW5sbXpFQXFENNIBsAJBVV95cUxNVzdQWnpGOUozckNkRkMzTEFkN2Q1Slc5QnZTS1pjZDBuWEJUdHFiay1nS3U1cGpmMWU4dUp3VUEzaVhwVDlGSl8xeUpGd1ZNSFNib0RwLTZXaFlHNzZnUTBMbVBFMm9PVE04WnFIdTZ4RGlnVmR0Zk1sSjJQRkZDM2MzSGV5TlZUZVlfYW1HelVtOG5FREtKbjFJSjJhckVfQTNSOHNFVUU5Z1pLaGlIdEpWSEx0VWs2Rm1HWEtRMk93RFRZLWxmckk0OG9pdGYyamJvMjJJVkItdngzTS1FNkFUZC1YbzdSbzBCS2N6MDBScC1KaGRCY19lbzlsWlVTdmhtWmFhdkRGVjhDbWlnczZqc1AxVmp1Yzd6bE9KVXB0OXlpVzVqeGV3WG0yS2pV?oc=5",
+          "description": "L'Olanda sposta 86 tonnellate d'oro dal Nordamerica a Londra: «Dobbiamo esser pronti a crisi geopolitiche» Corriere della Sera L’Olanda sposta l’oro dagli Usa a causa dell’instabilità geopolitica. Nuovo caso in Europa dopo quello della Banca di Francia Milano Finanza Banca centrale olandese sposta oro da Usa e Canada a Uk per 'instabilità geopolitiche' ANSA Perché la banca centrale olandese sposta",
+          "pubDate": "Wed, 02 Sep 2026 15:16:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Limita le perdite Piazza Affari - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT0VfVElYUUR2UlZQSTRqdkxaWG8tLWlPYWtka01Ubm9OS0ZJY0JudG1kUkRFaE5GTG9RU0VWaWF3MmQtX1VaZmF4UURvemEyR284NjJzTktmQk5PM3VZNm1OckYtMU5KNFFKTzZhNzc5V3RzNWNqclNRcE9uWjhjU2ltUFNfQUhXVkVJNWloZXJHa1FaS05XR2xISHJWbUZRRU13N2x1bmZLZTdmbDRXXzJHWVhqVnpWWlhLVVR0ZnFuYUpL?oc=5",
+          "description": "Limita le perdite Piazza Affari Borsa Italiana L'Europa chiude in rosso sui rialzi dei prezzi di petrolio e gas RaiNews Le Borse di oggi, 2 settembre. Mercati ancora sotto pressione, Asia in rosso la Repubblica Borsa: Europa chiude in calo, tengono banche e sanità ANSA Borse oggi in diretta | Il Ftse Mib chiude in calo dello 0,2% col tonfo di Lottomatica. Stm in cima al listino Milano Finanza",
+          "pubDate": "Wed, 02 Sep 2026 14:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Titoli sotto la lente a Piazza Affari - Lottomatica, Fincantieri, Leonardo - websim.it",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVEZkSEpRX0pIeWl5dzVOOEUxaldNeFRIczN3TTl3enNKSm1NWEJsZlVUXzFudGhKRVVFbThteV9Wc0dhOHpKUFphdlgyMnVnRnBqV09VQzg3RFNsbHRpTGgzZGtFZkJPMUxiamtyRy0wbE55cVVoYldKMFotZEtheklyRGVDVklKSk53dHUxeFBLaXF0STBxOEdPU3lfWlZvQjB4T0k5NFJMVmFfeXQyMm5kV2ZpZmNTTXNV?oc=5",
+          "description": "Titoli sotto la lente a Piazza Affari - Lottomatica, Fincantieri, Leonardo websim.it Lottomatica e CIRSA firmano un accordo di fusione vincolante: tutti gli studi coinvolti Il Sole 24 ORE Chiusura in rosso per le Borse europee, a Milano tonfo di Lottomatica dopo fusione con Cirsa Borsa Italiana Gaming, Lottomatica (-11,2%) rileva Cirsa: nasce il secondo operatore globale quotato. Perché il titolo ",
+          "pubDate": "Wed, 02 Sep 2026 06:42:24 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: Milano e l'Europa nervose, timori per l'inflazione",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/02/borsa-milano-e-leuropa-nervose-timori-per-linflazione_eb737448-b445-499e-b950-13db63268fec.html",
+          "description": "A Piazza Affari soffrono anche le banche. Corrono St, Amplifon ed Eni",
+          "pubDate": "Wed, 2 Sep 2026 18:43:50 +0200"
+        }
+      ],
+      "macro_area": "economia"
+    },
+    {
+      "keyword": "caso",
+      "n_items": 9,
+      "n_sources": 6,
+      "category": "general",
+      "score": 54,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Schlein prende tempo. Ma la partita milanese è diventata un caso - Domani",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa2J4cG42UTgtbG5Hdk5pOGEyeC1PUy1SY1NfYVdxTVZvWFVSY0RDcEsyTW5qSGhPekxJbTZ4c2dBRjIzMUtZMS1pNXJpRUxYMTY2X1hVODl6eUlqR1I4MHJSbUFjYW1oMzlNOHhWUy1fNEFRcDNfdTdBNFFFdmhLTnNvSUpmOFRiLWpIOTNhdE1nNnNjS3B6N1diTFF3M1Y1WWViWjVnQWF5RzNnbnpzQ3FHTkhyOEpPb2ZvMA?oc=5",
+          "description": "Schlein prende tempo. Ma la partita milanese è diventata un caso Domani Blog | Calabresi candidato a Milano, perché farebbe bene a misurarsi con le primarie Il Fatto Quotidiano Calabresi è in campo. E ora le primarie? Con lui l’ex capo staff di Pisapia Il Foglio Primarie, partita aperta: Calabresi è in campo, gli sfidanti si preparano, tace il Pd la Repubblica Calabresi in campo a Milano: Schlein ",
+          "pubDate": "Wed, 02 Sep 2026 18:25:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "L'Olanda sposta 86 tonnellate d'oro dal Nordamerica a Londra: «Dobbiamo esser pronti a crisi geopolitiche» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNMWlRengtOG9Zd3NndFRRV1d4N3V4ZzhLSm1oVHByOHM5VnhxbVFEemd3TVZ5VnhhTWJORWk4NVp1c2I4aWJGWFdtLTZXeDBMcXhQSWh2M1BJaEJNRDZZbzFabUFud1c3eTV6R3I2OUN5c3NqMlZNdE1qLTVMc043NmNPS2JRUzZBQWtIcjRmc0ttcFVsdGd1NVdVMGY4VkRSWjZROHZvaklQTWZ1VTVSclhJWDF2SXVNSnlpYnBwNWFSS1BjT1NrcDhxOHh1bUpYb0MtbGVVbXhHcHpKQnpnWW5tVHJ5MklnQnowdlZpQnc3SzhwQ0twV2NNRGRpYmI3TWV5azRoNWNueWE1X1hyVi04U2lrbmpaLWJnaFFmeWM0QW5sbXpFQXFENNIBsAJBVV95cUxNVzdQWnpGOUozckNkRkMzTEFkN2Q1Slc5QnZTS1pjZDBuWEJUdHFiay1nS3U1cGpmMWU4dUp3VUEzaVhwVDlGSl8xeUpGd1ZNSFNib0RwLTZXaFlHNzZnUTBMbVBFMm9PVE04WnFIdTZ4RGlnVmR0Zk1sSjJQRkZDM2MzSGV5TlZUZVlfYW1HelVtOG5FREtKbjFJSjJhckVfQTNSOHNFVUU5Z1pLaGlIdEpWSEx0VWs2Rm1HWEtRMk93RFRZLWxmckk0OG9pdGYyamJvMjJJVkItdngzTS1FNkFUZC1YbzdSbzBCS2N6MDBScC1KaGRCY19lbzlsWlVTdmhtWmFhdkRGVjhDbWlnczZqc1AxVmp1Yzd6bE9KVXB0OXlpVzVqeGV3WG0yS2pV?oc=5",
+          "description": "L'Olanda sposta 86 tonnellate d'oro dal Nordamerica a Londra: «Dobbiamo esser pronti a crisi geopolitiche» Corriere della Sera L’Olanda sposta l’oro dagli Usa a causa dell’instabilità geopolitica. Nuovo caso in Europa dopo quello della Banca di Francia Milano Finanza Banca centrale olandese sposta oro da Usa e Canada a Uk per 'instabilità geopolitiche' ANSA Perché la banca centrale olandese sposta",
+          "pubDate": "Wed, 02 Sep 2026 15:16:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Accoltella l'ex e fugge con il figlio, preso dopo sette ore",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/02/accoltella-lex-moglie-e-fugge-con-il-figlio-preso-dopo-7-ore-di-ricerche_eae1051e-d754-45e9-a3bd-38d5dcbefc34.html",
+          "description": "Per i medici i colpi non l'hanno uccisa solo per caso. Strage di famiglia, domani le autopsie",
+          "pubDate": "Wed, 2 Sep 2026 20:05:38 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Sudafrica scagiona l'ambasciatore in India sul caso Gupta",
+          "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/02/sudafrica-scagiona-lambasciatore-in-india-sul-caso-gupta_b12ed485-238a-447a-a691-cf6403a49be8.html",
+          "description": "Diplomatico sotto inchiesta per foto con Zuma e figura chiave in scandali di corruzione",
+          "pubDate": "Wed, 2 Sep 2026 18:35:40 +0200"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Caso di Dengue a Terni, è la quarta segnalazione in Umbria: le zone interessate - TerniToday",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMTBYZDgxbEV5ekJkaV92SVJFVHU5YmxzSmdIMmwxZXJyZ0puWE1aaVIxbFVRc0xRaVFoalRjbE5PZ2tQVkk1TktneTVPWjZHcm1fMThtdVpPOGdnMW5IQnJVZ3VTTE5XckJmemo4RVpCcHpZX05XSWlmRFY0ZEMtYi1FZjg?oc=5",
+          "description": "Caso di Dengue a Terni, è la quarta segnalazione in Umbria: le zone interessate TerniToday Dengue a Terni, nuovo caso dopo un viaggio: scatta il piano di disinfestazione UmbriaJournal Probabile caso di Dengue, disposta la disinfestazione Umbria TV",
+          "pubDate": "Wed, 02 Sep 2026 09:29:39 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "rischio",
+      "n_items": 8,
+      "n_sources": 6,
+      "category": "clima",
+      "score": 54,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Oltre mille morti in Nepal e Tibet, almeno 4.400 i dispersi - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRk5KSTZpZDJ6bDBZYzNyYnVVQWs1VFlNZk40THJqcHRQVHF2cnA5akg1VFVBS2NRWllTN2NETGVTaF9qa0pUVkY0TVBDeWMxdWJjT0tXb29SVFJhU1pIYTRkd2RLaGlxUXRFZ3dCenVjcTllUVB1WmdUdmZvSzN5ZHN1WE9UVDV1WHJmYV9RbDJZak5teDlPbEw3V0oxYnNNUDNlb0duRmJ6dlk2bHhHQ0VzWEJTc3lZQkhNVEZEUjVTLThJcFlweFBVVExxVnhDZ29zanh6SkRXcU1OT3NYM2RYc2XSAeoBQVVfeXFMUC1zQVdqWUxlOUV0UktnWUFvZGZ2bmJnVDJtZzUtd3RzYXQtWXZRM1MycVgyUGVkMjF1ZEEybndtbFNmUHJseWNnaHJkWElYWUl5T1U5T1lmSnhjX2drVGVPRzFHdG5FclB4dml2RC1JWi1neE1wTWliQUtjdDFweXp3SThPRkNxbE1Gb3hMb1BVTUdXS19EaEdJSkJTdmQ1TWNtLUdOd1p6WUY3WGtSX0ZPdkhPby1VTGltWFRiOHZabkdJSlFwd1dNOEhpNlh6ek9PYmNuQ2tlOFQ4TUJ1bjA2bTN5VHVxTXZB?oc=5",
+          "description": "Oltre mille morti in Nepal e Tibet, almeno 4.400 i dispersi ANSA Da Ghemme al Nepal: “Dobbiamo aiutare i superstiti della frana” La Stampa Nepal: dopo l'alluvione, cresce il disagio psicologico tra i bambini savethechildren.it Disastro in Nepal, i ghiacciai himalaiani più sensibili all’aumento delle temperature ANSA Nepal, il bilancio dei morti supera quota mille. Migliaia di bambini a rischio mal",
+          "pubDate": "Tue, 01 Sep 2026 15:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "OpenAI lancia Astra, il primo modello IA a rischio 'critical' - AGI",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nZmcyNlZqdmVLV3JaRlRacDZzRE1kbVJzMzFac0dUYXVJY0dKVWdxTG1pLTNrN3MyaXpqZ0NldDEwN1FpY3pXUFdfTTJSRTRNVHNwRUtnU1l2emw1bjZJMXRzWktrR3ZFcW1zcEtkQzh0WjJ3ODE0MXAzNUw?oc=5",
+          "description": "OpenAI lancia Astra, il primo modello IA a rischio 'critical' AGI OpenAI pianifica di rilasciare il primo modello che soddisfa la sua soglia ‘critica' di cybersicurezza Yahoo Finanza Il significato dell’attacco a Hugging Face per la cybersecurity la Repubblica Astra mostra il lato pericoloso dell’AI: perché OpenAI limita il suo nuovo modello Agenda Digitale Gli agenti di OpenAI non hanno cospirato",
+          "pubDate": "Wed, 02 Sep 2026 07:02:20 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Ets, il nodo delle minori tutele per i settori a rischio delocalizzazione",
+          "link": "https://www.ilsole24ore.com/art/ets-nodo-minori-tutele-i-settori-rischio-delocalizzazione-AJgZxz0",
+          "description": "Anche i sindacati in allerta per la revisione dell’Emission Trading System (Ets), il sistema europeo di scambio di quote di emissione di gas a effetto serra, che l’Ue ha avviato...",
+          "pubDate": "Wed, 2 Sep 2026 18:05:32 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'allarme dei big, 'rischio estinzione con l'IA, è come le pandemie'",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/lallarme-dei-big-rischio-estinzione-con-ia-e-come-pandemie_3afde5e5-7bcf-464e-b3aa-aee6577a9b23.html",
+          "description": "Nyt riporta lettera di 350 leader industria, anche ceo OpenAI",
+          "pubDate": "Tue, 30 May 2023 14:12:41 +0200"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Vaccini e rischio autismo: la ricerca del 1998, l'abnorme conflitto di interessi e l'errore intuitivo. Da dove nasce la falsa credenza - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUVZGQ2xZNDB2RzZjVmE4MWdYZzRjMWdDSnVQcHpOSUYtY0Fsd1YtSlN4bXIwNHA0am5vbUlYVXV1alJvbENLeG8yczF4UUhnMXJCdEdsRXhERmxXYno3Sk8xMDUxYXNlQnB3OU5oT2JzZmpoTDBxV1ZFRC12WXk3ekVSV181SUFWUFVMSEhwaTZHU3d5MkxMY3lmN2xsQmlMcUx2VnVBWTFfSUQyUWtfRkpaajNvQl9RZU5icDd6M3p0bnpPWGVuSkh3dm0tZ0MxUko0ZWlZbExwdEZ0MlFDbXNVdUZoMThhYi1RY0VTU1JucjJDQ1HSAfsBQVVfeXFMTlhTWlgyVTMtbndZdmlUb25mWURhV0Z3X1ZQUlFlY2dQa0ZObFB6bVpmTlNJMjFGQmtwSGFoWHh2TXI5bzlwa2k0Z2Y3UHJ1TW1qRDd2bDZHQ1hIWEotTFBra2RRWTFrSUd6WlB6SEZwRHlZZUpLT3ZhZE9LSGRRZjdtSE9MV2gxNkFKRm1FcDk5a1U0TEQ3bVdxb0N2VGN1QUtGZ3l0anh3bnNCZkYyaGYyWFB1QWt2bHJ0U2kyaGRzOFJfNjI4QXZJRkkwS3Q0MGV1RTN5RkdpWm8tSHBQQzcxU3VtcG9ydlpLc1NlS2dMb2FYY0tVRlpCNkk?oc=5",
+          "description": "Vaccini e rischio autismo: la ricerca del 1998, l'abnorme conflitto di interessi e l'errore intuitivo. Da dove nasce la falsa credenza Corriere della Sera Difterite: copertura vaccinale nel 2025 stabile e appena sotto la soglia del 95%. Ma ben 13 Regioni non raggiungono il target. Male Sicilia e Bolzano Quotidiano Sanità Difterite a Palermo, l’autopsia conferma la grave infezione: il caso che riac",
+          "pubDate": "Fri, 28 Aug 2026 09:22:10 GMT"
+        }
+      ],
+      "macro_area": "clima-salute"
+    },
+    {
+      "keyword": "pronti",
+      "n_items": 7,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 48,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Iran, raid Usa su 100 obiettivi. Trump: \"Pronti a lanciare un nuovo attacco\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Id0gtdk5saE96QmVFTlFyWWRzeVJuZU5iZXNmZ1lRbjdVWF9TRE0xSkZFWVZrTnFrMkRGWmRDdTVVWEJhYi1kR1VzdlBDeDdhZnZ2anJPU1E4OUo4UUtzOWV2UTgxblNfMlB4Z3BkZndZWmhHdTZwRjZ2TQ?oc=5",
+          "description": "Guerra Iran, raid Usa su 100 obiettivi. Trump: \"Pronti a lanciare un nuovo attacco\" Sky TG24 Ci sono ancora mine iraniane nello stretto di Hormuz? Il Post Nuova ondata di attacchi Usa in Iran. Ancora fermi i negoziati vaticannews.va L'Iran colpisce basi Usa in Iraq, Bahrein, Kuwait e negli Emirati ANSA Media, 'nessuna vittima americana negli attacchi dell'Iran' ANSA",
+          "pubDate": "Wed, 02 Sep 2026 22:00:25 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "L'Olanda sposta 86 tonnellate d'oro dal Nordamerica a Londra: «Dobbiamo esser pronti a crisi geopolitiche» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNMWlRengtOG9Zd3NndFRRV1d4N3V4ZzhLSm1oVHByOHM5VnhxbVFEemd3TVZ5VnhhTWJORWk4NVp1c2I4aWJGWFdtLTZXeDBMcXhQSWh2M1BJaEJNRDZZbzFabUFud1c3eTV6R3I2OUN5c3NqMlZNdE1qLTVMc043NmNPS2JRUzZBQWtIcjRmc0ttcFVsdGd1NVdVMGY4VkRSWjZROHZvaklQTWZ1VTVSclhJWDF2SXVNSnlpYnBwNWFSS1BjT1NrcDhxOHh1bUpYb0MtbGVVbXhHcHpKQnpnWW5tVHJ5MklnQnowdlZpQnc3SzhwQ0twV2NNRGRpYmI3TWV5azRoNWNueWE1X1hyVi04U2lrbmpaLWJnaFFmeWM0QW5sbXpFQXFENNIBsAJBVV95cUxNVzdQWnpGOUozckNkRkMzTEFkN2Q1Slc5QnZTS1pjZDBuWEJUdHFiay1nS3U1cGpmMWU4dUp3VUEzaVhwVDlGSl8xeUpGd1ZNSFNib0RwLTZXaFlHNzZnUTBMbVBFMm9PVE04WnFIdTZ4RGlnVmR0Zk1sSjJQRkZDM2MzSGV5TlZUZVlfYW1HelVtOG5FREtKbjFJSjJhckVfQTNSOHNFVUU5Z1pLaGlIdEpWSEx0VWs2Rm1HWEtRMk93RFRZLWxmckk0OG9pdGYyamJvMjJJVkItdngzTS1FNkFUZC1YbzdSbzBCS2N6MDBScC1KaGRCY19lbzlsWlVTdmhtWmFhdkRGVjhDbWlnczZqc1AxVmp1Yzd6bE9KVXB0OXlpVzVqeGV3WG0yS2pV?oc=5",
+          "description": "L'Olanda sposta 86 tonnellate d'oro dal Nordamerica a Londra: «Dobbiamo esser pronti a crisi geopolitiche» Corriere della Sera L’Olanda sposta l’oro dagli Usa a causa dell’instabilità geopolitica. Nuovo caso in Europa dopo quello della Banca di Francia Milano Finanza Banca centrale olandese sposta oro da Usa e Canada a Uk per 'instabilità geopolitiche' ANSA Perché la banca centrale olandese sposta",
+          "pubDate": "Wed, 02 Sep 2026 15:16:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Trump insiste: “Controlliamo lo Stretto di Hormuz, ribattezzarlo con il mio nome” - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSWZJaVJmMFJaUFl1Q0JyNjlPeGxkUkxtbmdJbTVIeDFnNXFndGxzajdPNXFyQTBKYjFMQlZqNDd5LXQtVTBveVFsTnRxQ1hjZUh3ZFNaN0F1UmxsckVMbU9jMThfNkFqNXJUM2ZUTF82Nm5tSkRnNmdhSFF3NjM5NllfMDBsV0lwTlhLcmw4Umx5bHhI?oc=5",
+          "description": "Trump insiste: “Controlliamo lo Stretto di Hormuz, ribattezzarlo con il mio nome” Il Fatto Quotidiano Guerra Iran, raid Usa su 100 obiettivi. Trump: \"Pronti a lanciare un nuovo attacco\" Sky TG24 Ci sono ancora mine iraniane nello stretto di Hormuz? Il Post Nuova ondata di attacchi Usa in Iran. Ancora fermi i negoziati vaticannews.va L'Iran colpisce basi Usa in Iraq, Bahrein, Kuwait e negli Emirati",
+          "pubDate": "Wed, 02 Sep 2026 16:40:59 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "++ Vannacci, 'siamo l'interlocutore naturale dell'alleanza di centrodestra' ++",
+          "link": "https://www.ansa.it/sito/notizie/flash/2026/09/02/-vannacci-siamo-linterlocutore-naturale-dellalleanza-di-centrodestra-_a9b82c5a-d8e2-47ea-b7df-7085e15fbc30.html",
+          "description": "'Pronti a discutere con tutti, senza negoziare principi e valori'",
+          "pubDate": "Wed, 2 Sep 2026 23:03:59 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Delcy Rodriguez, 'elezioni in Venezuela quando saremo pronti'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/02/delcy-rodriguez-elezioni-in-venezuela-quando-saremo-pronti_4137fea8-5dca-463e-b1c7-b5b71ca4e71a.html",
+          "description": "'Lavoro senza tregua per creare le condizioni, ma non sono io a fissare la data'",
+          "pubDate": "Wed, 2 Sep 2026 22:16:28 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "hormuz",
+      "n_items": 7,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "score": 48,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Iran, raid Usa su 100 obiettivi. Trump: \"Pronti a lanciare un nuovo attacco\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Id0gtdk5saE96QmVFTlFyWWRzeVJuZU5iZXNmZ1lRbjdVWF9TRE0xSkZFWVZrTnFrMkRGWmRDdTVVWEJhYi1kR1VzdlBDeDdhZnZ2anJPU1E4OUo4UUtzOWV2UTgxblNfMlB4Z3BkZndZWmhHdTZwRjZ2TQ?oc=5",
+          "description": "Guerra Iran, raid Usa su 100 obiettivi. Trump: \"Pronti a lanciare un nuovo attacco\" Sky TG24 Ci sono ancora mine iraniane nello stretto di Hormuz? Il Post Nuova ondata di attacchi Usa in Iran. Ancora fermi i negoziati vaticannews.va L'Iran colpisce basi Usa in Iraq, Bahrein, Kuwait e negli Emirati ANSA Media, 'nessuna vittima americana negli attacchi dell'Iran' ANSA",
+          "pubDate": "Wed, 02 Sep 2026 22:00:25 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Hormuz, due petroliere in fiamme dopo aver urtato mine marine. Teheran: «Erano su rotta non autorizzata» - Il Messaggero",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWm9EUHE1Tm8wN1htbndITmJwZFlXeS1BMGJDTDh0cjRTbEZhcy1abTh1OGJzdUExVkJHQktvLTJGY0l5c3RPNS1nbU9tbWxQS0VPZFVSUXBaYlVQcDVUQ2Q5NHpXOTVBNEJ1ZDBONXpfejJGdlNCM2xPeS1qQTZIOXpJN0lPZUVrSXdjYlln0gGTAUFVX3lxTE1FMHJDNDJJYjhSazFOZktZVElwalpGWkZhY1NsaUs0Zkk3TVBTZWR0VHVQUzZPb3BPYTFKcVJ5TEVpeHEzcm80ZHpWT1hHNVl2VUN3cVZsS3J6bDFmdFpKMGFUYWN5YmNXVFdPaHB2M1QtQVFFX2NsSVh3VWRSdm1xUkhvT09JazUyaUZnY0N3MDhhZw?oc=5",
+          "description": "Hormuz, due petroliere in fiamme dopo aver urtato mine marine. Teheran: «Erano su rotta non autorizzata» Il Messaggero Teheran: due petroliere a fuoco dopo aver urtato mine a Hormuz ANSA Iran, riprendono gli attacchi nel Golfo. Due petroliere in fiamme a Hormuz Domani Stretto di Hormuz, una petroliera colpita da tre proiettili non identificati Italpress Petroliera colpita da tre proiettili nello S",
+          "pubDate": "Wed, 02 Sep 2026 10:08:16 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Trump insiste: “Controlliamo lo Stretto di Hormuz, ribattezzarlo con il mio nome” - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSWZJaVJmMFJaUFl1Q0JyNjlPeGxkUkxtbmdJbTVIeDFnNXFndGxzajdPNXFyQTBKYjFMQlZqNDd5LXQtVTBveVFsTnRxQ1hjZUh3ZFNaN0F1UmxsckVMbU9jMThfNkFqNXJUM2ZUTF82Nm5tSkRnNmdhSFF3NjM5NllfMDBsV0lwTlhLcmw4Umx5bHhI?oc=5",
+          "description": "Trump insiste: “Controlliamo lo Stretto di Hormuz, ribattezzarlo con il mio nome” Il Fatto Quotidiano Guerra Iran, raid Usa su 100 obiettivi. Trump: \"Pronti a lanciare un nuovo attacco\" Sky TG24 Ci sono ancora mine iraniane nello stretto di Hormuz? Il Post Nuova ondata di attacchi Usa in Iran. Ancora fermi i negoziati vaticannews.va L'Iran colpisce basi Usa in Iraq, Bahrein, Kuwait e negli Emirati",
+          "pubDate": "Wed, 02 Sep 2026 16:40:59 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWNZNEl1T053MU40MzNHT1cxYjdxQmxrTnk0LVZxSS05QjBXbW14VHBaNzNCT04xMHdNOENSQUdsM0xVVWp4eFBSN0tGUklDa0ZNLXhWNDMyVmVSZDlOdUFFZl9STm43dF85aS1mMkFGNWZSOFlZUzdBdHp0X0w5RzVPNlBBazItU2h4OUpZZXNGbXNsdUZ6UmlWZVhHenVUOWN5ekNaRTVlVFk0VzR6d1doSdIBuAFBVV95cUxNaDR3dzN5TlY0ZHdjckxjandwejNzcXZsNFBvUEttUXpGSHhwMFJOaEpELVEzS0gyV2pOWW12YzlnZm1YOFNIaURlWlZBYnFrQWhPblhMTXlmMWFmQi1jZ1FERV9PWkVhaVk2Wk5lVVRPZXJqNGpSNWdPc0NySFBmT0Y3ZnYtUFlIWm5raXZrbzM4UHhEWlVXUGNZWW9kWm9qWkFjX1UyVjBxMHhtVWtRUTE5QTFXR2ZR?oc=5",
+          "description": "Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz Al Jazeera Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says BBC Two tankers carrying Saudi oil attacked in Strait of Hormuz Reuters Oil supertankers hit in Strait of Hormuz Financial Times Hormuz Traffic Craters to Four Ships as Iran-U.S. Strikes Escalate Crude Oil Prices Today | OilPrice.com",
+          "pubDate": "Wed, 02 Sep 2026 19:28:05 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Trump, 'Hormuz sotto controllo Usa, lo ribattezziamo Stretto di Trump?'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/02/trump-hormuz-sotto-controllo-usa-lo-ribattezziamo-stretto-di-trump_1b8cdf40-7408-4a5f-88d4-fcfe98d67b69.html",
+          "description": "La provocazione del presidente su Truth",
+          "pubDate": "Wed, 2 Sep 2026 17:34:25 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "lipsia",
+      "n_items": 7,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 41,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Tensioni UE-Russia. Kallas: \"Visti limitati per i russi\". Medvedev minaccia Berlino - IL PUNTO - Attacco a Lipsia, pista russa e polemica sui visti: spunta un documento rilasciato dall'Italia - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdG5Cc0tSQXpYZG5ZTkZzWl9OdFJZUkkyTjI1M0tJTmNsbm5Pa25OM0FvbnI5UTBZbzNIZVZmbW43MTlBUTV3ZER0X0JFRlV5VFZ1WGRTUm1wRFZOR3pMeTFuNm9SYUdjaU1aRFJEeXp0MWxIeWtVdEVHTThNOFpZQlczOHRVZjNuOWg5Rk51LVZpT1ZHR1Qzb3JteElRaTk5Nk4zZ3paNzVvQm9FcmU1R2tqZXd5QzFwQ0FaUEdTbEl4d0FSbXhQUktCOU0wYzM4M1RxTWtWdE1uNXJfZWdNQ0tqS09ycGpiRU1XYmNtb09IcWRZSWN1Sk9zUlJhYzRCck1fdXR30gGLAkFVX3lxTE15dlpkY2t2SUROYXZwTXlLX2ZCN0lXVDZaRktQOFpzc3NJU0J5eXZwY0hfVnRCYW5QWV9HTDBBOE5QYVV4X3JxTzB0a2ppSGJ0YjJYNktxVGk3dHlZUXVGalFpSmJ1Vm9GQjZsRU1jcGpwaVdhZm5yTzZ0dE1JUERLQVhUNzhkX2dlejV3T3lfY3luYlcwQ2x2OVpIMG1Fa0tiajQzVTB0OHpzWDlOUzZrWGNnOTJyUUpGVmdZRXB1Ym52b1lZVmFwZDMzVjBPU0JfeXZDRDdQdGF6N1dsY0NDUnhZRkdiaTVBdUJMMjNFMndubHN1UlpsMEhHZE1lS1UwYllZWm9kMnVzcw?oc=5",
+          "description": "Tensioni UE-Russia. Kallas: \"Visti limitati per i russi\". Medvedev minaccia Berlino - IL PUNTO - Attacco a Lipsia, pista russa e polemica sui visti: spunta un documento rilasciato dall'Italia RaiNews L’Ue e la Nato: altre minacce e nuove sanzioni anti-Cremlino Il Fatto Quotidiano Ue, il 9 settembre riunione su rinnovo sanzioni a 3mila persone e entità russe ANSA Guerra ibrida, Tajani: \"Possibili t",
+          "pubDate": "Thu, 03 Sep 2026 02:44:26 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Dopo l'accusa tedesca a Mosca per il drone di Lipsia, von der Leyen usa finalmente la parola attacco all'Europa - Il Foglio",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVWoycTlHUTFaYXRGeklVamZBYS1oMjF5b2VMcW1KM3lJWXBIT1hORkh0elBUdlJyS0ZMX1BhYzh6ZzFLTW9hdE96M0g0UFZKcmlZSXd4VkFjd2wyZ2dTbWlRd0pBb2VXbHlBY1BDU1lnZ09tUWF0U09TYVI0a2xqdUt5bktORkctS0RUMlE5VXprVkpXQlNZOXhVTFc0N1Y4aXZtaVJxcnctaDhTcVhBa0VabDN6akZJUExEbEx0U1VxMzl0QmpKLTRjaExCVWFNMXRjQmFWUkNNR0h2LWUwT3RRd2tISlFpM282Nkpwc1JQczNwMkE?oc=5",
+          "description": "Dopo l'accusa tedesca a Mosca per il drone di Lipsia, von der Leyen usa finalmente la parola attacco all'Europa Il Foglio Von der Leyen vede Rutte, 'Ue e Nato uniti, alziamo la pressione su Mosca' ANSA L'Europa sfida Putin e serra i ranghi, l'ira di von der Leyen: «Faremo più pressione» Corriere della Sera La polizia tedesca ha individuato due sospettati per il tentativo di sabotaggio con droni al",
+          "pubDate": "Wed, 02 Sep 2026 11:59:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra ibrida della Russia contro l’Europa, cos’è e quali sono i più recenti casi sospetti - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nYURVTS1VSzFSTlFnM1JXWEQ4T0hiOFE3bnFYUjVmLVlCU21xdWZUYzVxajRaM2RQcmhROEpoN0Q0Ylljak10RTFUUFU0empEUWhLb2RKbElPaHVCbDF3YWVqeDNLQk1B?oc=5",
+          "description": "Guerra ibrida della Russia contro l’Europa, cos’è e quali sono i più recenti casi sospetti Sky TG24 Von der Leyen vede Rutte, 'Ue e Nato uniti, alziamo la pressione su Mosca' ANSA La polizia tedesca ha individuato due sospettati per il tentativo di sabotaggio con droni all'aeroporto di Lipsia Il Post Ombre russe. Dopo Lipsia, Italia esposta.. Tajani preoccupato, Salvini neanche un po' (di G. Uccie",
+          "pubDate": "Wed, 02 Sep 2026 17:10:28 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "In Sassonia-Anhalt l’Afd punta a far dimenticare il nazismo: “Basta con arte e memoria” - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWC0zNlUwNVM1eHl4Q3h3RjhzZWxraTUxQXNJOC1qWVNWdlZLcDZkM19TbzQtc1ZURHdxeXM3T1ZPUUsxeVdMc011XzNDdWU2cmpsZlFuRFgxMThhUGNrMEdGazJ0aEVCWVB2YW92dERmOGFNcDNuRWRDRUlnTFFQc2VNQmRDZmJfdjRKdUJxTC16Y2RHMmRCMTJmcC1ZZnNoTTduenBnbmRGc3dXa2xOMW1vaW9IcTM4NmlwbXhPZTNwZHVrRnlmT2JzNHFMSEZMaUd0eW5wbVg0OF9BS0xr0gHkAUFVX3lxTE5FQVNtZ0J4ZG1YRjZQc0pERXJueXI0UG13bGszbkMwQS13ZU9uaXY3TkpvNHVNWkFYMEpnV0RRXy1EMzQwRlNlMDFBZU13YjYweFNyT2tTQmRIdlZObVltNUZIa1JYSVFnUkUxMnFpN0xZODVsNXJ3OXBpVUpHN1RJMzBZOWFNU1BFMDdxMkJoT3JPTVN6eFM4NGZCWlNxdHBZazFOcW5wOVl3alYyWTZKU29aLWVXdXJuVkF1RjRQZDFvS1NDS2lKV09CS2lfTk16ZWJmU1hwcHJ0cTNVRmVqY0lyMQ?oc=5",
+          "description": "In Sassonia-Anhalt l’Afd punta a far dimenticare il nazismo: “Basta con arte e memoria” la Repubblica Otto e Cinquanta - La Sassonia - Anhalt al voto: l'AfD, il muro tagliafuoco e l'accusa a Mosca per Lipsia Radio Radicale Il piano nascosto di Afd, primarie inevitabili, elogio del ballottaggio, l'incognita climatica, la Serbia e Zelensky Corriere della Sera Il governatore della Sassonia: “Mai l’al",
+          "pubDate": "Tue, 01 Sep 2026 23:00:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Due sospettati per Lipsia: 'Uno con il visto italiano' e i danesi denunciano sabotaggi russi",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/02/il-sospettato-bielorusso-per-lattacco-a-lipsia-aveva-il-visto-italiano_c58fa686-d9a5-41d4-9c67-52c0b3ea5bb0.html",
+          "description": "Tajani: 'Faremo accertamenti'. L'Ue punta alla stretta sugli ingressi russi",
+          "pubDate": "Wed, 2 Sep 2026 22:38:14 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "attacco",
+      "n_items": 7,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "score": 41,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Tensioni UE-Russia. Kallas: \"Visti limitati per i russi\". Medvedev minaccia Berlino - IL PUNTO - Attacco a Lipsia, pista russa e polemica sui visti: spunta un documento rilasciato dall'Italia - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdG5Cc0tSQXpYZG5ZTkZzWl9OdFJZUkkyTjI1M0tJTmNsbm5Pa25OM0FvbnI5UTBZbzNIZVZmbW43MTlBUTV3ZER0X0JFRlV5VFZ1WGRTUm1wRFZOR3pMeTFuNm9SYUdjaU1aRFJEeXp0MWxIeWtVdEVHTThNOFpZQlczOHRVZjNuOWg5Rk51LVZpT1ZHR1Qzb3JteElRaTk5Nk4zZ3paNzVvQm9FcmU1R2tqZXd5QzFwQ0FaUEdTbEl4d0FSbXhQUktCOU0wYzM4M1RxTWtWdE1uNXJfZWdNQ0tqS09ycGpiRU1XYmNtb09IcWRZSWN1Sk9zUlJhYzRCck1fdXR30gGLAkFVX3lxTE15dlpkY2t2SUROYXZwTXlLX2ZCN0lXVDZaRktQOFpzc3NJU0J5eXZwY0hfVnRCYW5QWV9HTDBBOE5QYVV4X3JxTzB0a2ppSGJ0YjJYNktxVGk3dHlZUXVGalFpSmJ1Vm9GQjZsRU1jcGpwaVdhZm5yTzZ0dE1JUERLQVhUNzhkX2dlejV3T3lfY3luYlcwQ2x2OVpIMG1Fa0tiajQzVTB0OHpzWDlOUzZrWGNnOTJyUUpGVmdZRXB1Ym52b1lZVmFwZDMzVjBPU0JfeXZDRDdQdGF6N1dsY0NDUnhZRkdiaTVBdUJMMjNFMndubHN1UlpsMEhHZE1lS1UwYllZWm9kMnVzcw?oc=5",
+          "description": "Tensioni UE-Russia. Kallas: \"Visti limitati per i russi\". Medvedev minaccia Berlino - IL PUNTO - Attacco a Lipsia, pista russa e polemica sui visti: spunta un documento rilasciato dall'Italia RaiNews L’Ue e la Nato: altre minacce e nuove sanzioni anti-Cremlino Il Fatto Quotidiano Ue, il 9 settembre riunione su rinnovo sanzioni a 3mila persone e entità russe ANSA Guerra ibrida, Tajani: \"Possibili t",
+          "pubDate": "Thu, 03 Sep 2026 02:44:26 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Dopo l'accusa tedesca a Mosca per il drone di Lipsia, von der Leyen usa finalmente la parola attacco all'Europa - Il Foglio",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVWoycTlHUTFaYXRGeklVamZBYS1oMjF5b2VMcW1KM3lJWXBIT1hORkh0elBUdlJyS0ZMX1BhYzh6ZzFLTW9hdE96M0g0UFZKcmlZSXd4VkFjd2wyZ2dTbWlRd0pBb2VXbHlBY1BDU1lnZ09tUWF0U09TYVI0a2xqdUt5bktORkctS0RUMlE5VXprVkpXQlNZOXhVTFc0N1Y4aXZtaVJxcnctaDhTcVhBa0VabDN6akZJUExEbEx0U1VxMzl0QmpKLTRjaExCVWFNMXRjQmFWUkNNR0h2LWUwT3RRd2tISlFpM282Nkpwc1JQczNwMkE?oc=5",
+          "description": "Dopo l'accusa tedesca a Mosca per il drone di Lipsia, von der Leyen usa finalmente la parola attacco all'Europa Il Foglio Von der Leyen vede Rutte, 'Ue e Nato uniti, alziamo la pressione su Mosca' ANSA L'Europa sfida Putin e serra i ranghi, l'ira di von der Leyen: «Faremo più pressione» Corriere della Sera La polizia tedesca ha individuato due sospettati per il tentativo di sabotaggio con droni al",
+          "pubDate": "Wed, 02 Sep 2026 11:59:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Iran, raid Usa su 100 obiettivi. Trump: \"Pronti a lanciare un nuovo attacco\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Id0gtdk5saE96QmVFTlFyWWRzeVJuZU5iZXNmZ1lRbjdVWF9TRE0xSkZFWVZrTnFrMkRGWmRDdTVVWEJhYi1kR1VzdlBDeDdhZnZ2anJPU1E4OUo4UUtzOWV2UTgxblNfMlB4Z3BkZndZWmhHdTZwRjZ2TQ?oc=5",
+          "description": "Guerra Iran, raid Usa su 100 obiettivi. Trump: \"Pronti a lanciare un nuovo attacco\" Sky TG24 Ci sono ancora mine iraniane nello stretto di Hormuz? Il Post Nuova ondata di attacchi Usa in Iran. Ancora fermi i negoziati vaticannews.va L'Iran colpisce basi Usa in Iraq, Bahrein, Kuwait e negli Emirati ANSA Media, 'nessuna vittima americana negli attacchi dell'Iran' ANSA",
+          "pubDate": "Wed, 02 Sep 2026 22:00:25 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Trump insiste: “Controlliamo lo Stretto di Hormuz, ribattezzarlo con il mio nome” - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSWZJaVJmMFJaUFl1Q0JyNjlPeGxkUkxtbmdJbTVIeDFnNXFndGxzajdPNXFyQTBKYjFMQlZqNDd5LXQtVTBveVFsTnRxQ1hjZUh3ZFNaN0F1UmxsckVMbU9jMThfNkFqNXJUM2ZUTF82Nm5tSkRnNmdhSFF3NjM5NllfMDBsV0lwTlhLcmw4Umx5bHhI?oc=5",
+          "description": "Trump insiste: “Controlliamo lo Stretto di Hormuz, ribattezzarlo con il mio nome” Il Fatto Quotidiano Guerra Iran, raid Usa su 100 obiettivi. Trump: \"Pronti a lanciare un nuovo attacco\" Sky TG24 Ci sono ancora mine iraniane nello stretto di Hormuz? Il Post Nuova ondata di attacchi Usa in Iran. Ancora fermi i negoziati vaticannews.va L'Iran colpisce basi Usa in Iraq, Bahrein, Kuwait e negli Emirati",
+          "pubDate": "Wed, 02 Sep 2026 16:40:59 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "OpenAI lancia Astra, il primo modello IA a rischio 'critical' - AGI",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nZmcyNlZqdmVLV3JaRlRacDZzRE1kbVJzMzFac0dUYXVJY0dKVWdxTG1pLTNrN3MyaXpqZ0NldDEwN1FpY3pXUFdfTTJSRTRNVHNwRUtnU1l2emw1bjZJMXRzWktrR3ZFcW1zcEtkQzh0WjJ3ODE0MXAzNUw?oc=5",
+          "description": "OpenAI lancia Astra, il primo modello IA a rischio 'critical' AGI OpenAI pianifica di rilasciare il primo modello che soddisfa la sua soglia ‘critica' di cybersicurezza Yahoo Finanza Il significato dell’attacco a Hugging Face per la cybersecurity la Repubblica Astra mostra il lato pericoloso dell’AI: perché OpenAI limita il suo nuovo modello Agenda Digitale Gli agenti di OpenAI non hanno cospirato",
+          "pubDate": "Wed, 02 Sep 2026 07:02:20 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "says",
+      "n_items": 10,
+      "n_sources": 4,
+      "category": "general",
+      "score": 40,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Clancy jurors tell judge they're still deadlocked on fifth day of deliberations - WBUR",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa09mN1daa042ZFI0bXFGbWZrQlhsWV83YzFPaGxYLWcwZkllN1ZoTlNoX3Fab1h6ZGQ1NVZybXZuN3RHWU5VRkZEVDVQOS1QNHhpWVF2Y0FtZTc2Ni13NUF1SlZYdllyU0pkQ2NGY25MaldiRGdISUNyQVNwbkpFejRnSVR0TUlBUEpqbFZ2Y3pHR05WZTZBN0FB?oc=5",
+          "description": "Clancy jurors tell judge they're still deadlocked on fifth day of deliberations WBUR How Lindsay Clancy’s Murder Trial Shattered the Lives of Her Parents, In-Laws and Ex-Husband Patrick People.com Lindsay Clancy jury says it's still deadlocked, judge gives 'dynamite instruction' USA Today What is the Tuey-Rodriguez instruction, aka 'dynamite charge,' given in Lindsay Clancy's trial? WCVB If the Li",
+          "pubDate": "Wed, 02 Sep 2026 22:19:20 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWNZNEl1T053MU40MzNHT1cxYjdxQmxrTnk0LVZxSS05QjBXbW14VHBaNzNCT04xMHdNOENSQUdsM0xVVWp4eFBSN0tGUklDa0ZNLXhWNDMyVmVSZDlOdUFFZl9STm43dF85aS1mMkFGNWZSOFlZUzdBdHp0X0w5RzVPNlBBazItU2h4OUpZZXNGbXNsdUZ6UmlWZVhHenVUOWN5ekNaRTVlVFk0VzR6d1doSdIBuAFBVV95cUxNaDR3dzN5TlY0ZHdjckxjandwejNzcXZsNFBvUEttUXpGSHhwMFJOaEpELVEzS0gyV2pOWW12YzlnZm1YOFNIaURlWlZBYnFrQWhPblhMTXlmMWFmQi1jZ1FERV9PWkVhaVk2Wk5lVVRPZXJqNGpSNWdPc0NySFBmT0Y3ZnYtUFlIWm5raXZrbzM4UHhEWlVXUGNZWW9kWm9qWkFjX1UyVjBxMHhtVWtRUTE5QTFXR2ZR?oc=5",
+          "description": "Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz Al Jazeera Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says BBC Two tankers carrying Saudi oil attacked in Strait of Hormuz Reuters Oil supertankers hit in Strait of Hormuz Financial Times Hormuz Traffic Craters to Four Ships as Iran-U.S. Strikes Escalate Crude Oil Prices Today | OilPrice.com",
+          "pubDate": "Wed, 02 Sep 2026 19:28:05 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+          "description": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
+          "pubDate": "Wed, 02 Sep 2026 17:33:45 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+          "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+          "description": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.",
+          "pubDate": "Wed, 02 Sep 2026 15:33:19 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+          "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+          "description": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
+          "pubDate": "Wed, 02 Sep 2026 16:12:43 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "russia",
+      "n_items": 8,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "score": 38,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Tensioni UE-Russia. Kallas: \"Visti limitati per i russi\". Medvedev minaccia Berlino - IL PUNTO - Attacco a Lipsia, pista russa e polemica sui visti: spunta un documento rilasciato dall'Italia - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdG5Cc0tSQXpYZG5ZTkZzWl9OdFJZUkkyTjI1M0tJTmNsbm5Pa25OM0FvbnI5UTBZbzNIZVZmbW43MTlBUTV3ZER0X0JFRlV5VFZ1WGRTUm1wRFZOR3pMeTFuNm9SYUdjaU1aRFJEeXp0MWxIeWtVdEVHTThNOFpZQlczOHRVZjNuOWg5Rk51LVZpT1ZHR1Qzb3JteElRaTk5Nk4zZ3paNzVvQm9FcmU1R2tqZXd5QzFwQ0FaUEdTbEl4d0FSbXhQUktCOU0wYzM4M1RxTWtWdE1uNXJfZWdNQ0tqS09ycGpiRU1XYmNtb09IcWRZSWN1Sk9zUlJhYzRCck1fdXR30gGLAkFVX3lxTE15dlpkY2t2SUROYXZwTXlLX2ZCN0lXVDZaRktQOFpzc3NJU0J5eXZwY0hfVnRCYW5QWV9HTDBBOE5QYVV4X3JxTzB0a2ppSGJ0YjJYNktxVGk3dHlZUXVGalFpSmJ1Vm9GQjZsRU1jcGpwaVdhZm5yTzZ0dE1JUERLQVhUNzhkX2dlejV3T3lfY3luYlcwQ2x2OVpIMG1Fa0tiajQzVTB0OHpzWDlOUzZrWGNnOTJyUUpGVmdZRXB1Ym52b1lZVmFwZDMzVjBPU0JfeXZDRDdQdGF6N1dsY0NDUnhZRkdiaTVBdUJMMjNFMndubHN1UlpsMEhHZE1lS1UwYllZWm9kMnVzcw?oc=5",
+          "description": "Tensioni UE-Russia. Kallas: \"Visti limitati per i russi\". Medvedev minaccia Berlino - IL PUNTO - Attacco a Lipsia, pista russa e polemica sui visti: spunta un documento rilasciato dall'Italia RaiNews L’Ue e la Nato: altre minacce e nuove sanzioni anti-Cremlino Il Fatto Quotidiano Ue, il 9 settembre riunione su rinnovo sanzioni a 3mila persone e entità russe ANSA Guerra ibrida, Tajani: \"Possibili t",
+          "pubDate": "Thu, 03 Sep 2026 02:44:26 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra ibrida della Russia contro l’Europa, cos’è e quali sono i più recenti casi sospetti - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nYURVTS1VSzFSTlFnM1JXWEQ4T0hiOFE3bnFYUjVmLVlCU21xdWZUYzVxajRaM2RQcmhROEpoN0Q0Ylljak10RTFUUFU0empEUWhLb2RKbElPaHVCbDF3YWVqeDNLQk1B?oc=5",
+          "description": "Guerra ibrida della Russia contro l’Europa, cos’è e quali sono i più recenti casi sospetti Sky TG24 Von der Leyen vede Rutte, 'Ue e Nato uniti, alziamo la pressione su Mosca' ANSA La polizia tedesca ha individuato due sospettati per il tentativo di sabotaggio con droni all'aeroporto di Lipsia Il Post Ombre russe. Dopo Lipsia, Italia esposta.. Tajani preoccupato, Salvini neanche un po' (di G. Uccie",
+          "pubDate": "Wed, 02 Sep 2026 17:10:28 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "L’avvertimento di Kyjiv | Zelensky vuole chiudere i cieli russi con i droni - Linkiesta.it",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeVdkdElMQ1EteEJPMVg5WXpjX01zMkZRUkRpSjdOcWFfdGxxUDJmN2hxdzlWUlI2OVNLZ0RrVkl2bVNoNklvamJLU0Y5NWozXzlaYVBBZDZDSlZ4U3d2SF81RlZtZElUVDNxMmpZQXczSE8wNlp0cExDaGRoNURBVlNuZ05OSXpfNklj?oc=5",
+          "description": "L’avvertimento di Kyjiv | Zelensky vuole chiudere i cieli russi con i droni Linkiesta.it Ucraina avverte le compagnie aeree: \"Lo spazio aereo russo non è sicuro\" Euronews.com Putin, 'minacce di Zelensky ai voli civili sono terrorismo di Stato' ANSA Guerra Ucraina - Russia. Zelensky avverte le compagnie aeree: “Finiti i giorni sicuri nei cieli russi”. Putin: “Terrorismo di Stato” la Repubblica Zele",
+          "pubDate": "Wed, 02 Sep 2026 05:07:45 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Droni nello spazio aereo dell'Estonia, si alzano i caccia Nato - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaVphbkhrSUo4OVpySnZhLXQtdktXYnRlWU1hMzNDZFRkZWVzQWFtcXprQzVPZVYzZjZza2hHR25sRV9waXpBdzhkdkRYQWtJWU8tc3JKNmd6NVVySW9wSXhjSEVPTTVKWWF6NFBnTjQyZ3V1bjFSa1gzTHp5aDhZX2ZGc0JtX2N6cVhYZHpOVC1rNTRhbFhQcHZKR0ZjZk51SHlrSGVqZ2VGTU5Qd3VJ?oc=5",
+          "description": "Droni nello spazio aereo dell'Estonia, si alzano i caccia Nato Tgcom24 Settima notte di attacchi, le bombe russe su Kiev e Odessa ANSA Altra notte di attacchi incrociati fra Russia e Ucraina: 7 morti a Kiev, colpito il porto russo di Ust-Luga TGLA7 “Atti ostili pure qui in Estonia: Putin vuole che molliamo l’Ucraina, non cadiamo nella trappola” la Repubblica I danni provocati da un missile russo a",
+          "pubDate": "Tue, 01 Sep 2026 11:01:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "007 Danimarca, la Russia pianifica sabotaggi alle nostre industrie",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/02/007-danimarca-la-russia-pianifica-sabotaggi-alle-nostre-industrie_69795d41-a241-4ace-8d04-cbda482aa992.html",
+          "description": "Lo riporta l'emittente di servizio pubblico",
+          "pubDate": "Wed, 2 Sep 2026 22:15:14 +0200"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "guerra",
+      "n_items": 8,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "score": 38,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Tensioni UE-Russia. Kallas: \"Visti limitati per i russi\". Medvedev minaccia Berlino - IL PUNTO - Attacco a Lipsia, pista russa e polemica sui visti: spunta un documento rilasciato dall'Italia - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdG5Cc0tSQXpYZG5ZTkZzWl9OdFJZUkkyTjI1M0tJTmNsbm5Pa25OM0FvbnI5UTBZbzNIZVZmbW43MTlBUTV3ZER0X0JFRlV5VFZ1WGRTUm1wRFZOR3pMeTFuNm9SYUdjaU1aRFJEeXp0MWxIeWtVdEVHTThNOFpZQlczOHRVZjNuOWg5Rk51LVZpT1ZHR1Qzb3JteElRaTk5Nk4zZ3paNzVvQm9FcmU1R2tqZXd5QzFwQ0FaUEdTbEl4d0FSbXhQUktCOU0wYzM4M1RxTWtWdE1uNXJfZWdNQ0tqS09ycGpiRU1XYmNtb09IcWRZSWN1Sk9zUlJhYzRCck1fdXR30gGLAkFVX3lxTE15dlpkY2t2SUROYXZwTXlLX2ZCN0lXVDZaRktQOFpzc3NJU0J5eXZwY0hfVnRCYW5QWV9HTDBBOE5QYVV4X3JxTzB0a2ppSGJ0YjJYNktxVGk3dHlZUXVGalFpSmJ1Vm9GQjZsRU1jcGpwaVdhZm5yTzZ0dE1JUERLQVhUNzhkX2dlejV3T3lfY3luYlcwQ2x2OVpIMG1Fa0tiajQzVTB0OHpzWDlOUzZrWGNnOTJyUUpGVmdZRXB1Ym52b1lZVmFwZDMzVjBPU0JfeXZDRDdQdGF6N1dsY0NDUnhZRkdiaTVBdUJMMjNFMndubHN1UlpsMEhHZE1lS1UwYllZWm9kMnVzcw?oc=5",
+          "description": "Tensioni UE-Russia. Kallas: \"Visti limitati per i russi\". Medvedev minaccia Berlino - IL PUNTO - Attacco a Lipsia, pista russa e polemica sui visti: spunta un documento rilasciato dall'Italia RaiNews L’Ue e la Nato: altre minacce e nuove sanzioni anti-Cremlino Il Fatto Quotidiano Ue, il 9 settembre riunione su rinnovo sanzioni a 3mila persone e entità russe ANSA Guerra ibrida, Tajani: \"Possibili t",
+          "pubDate": "Thu, 03 Sep 2026 02:44:26 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Iran, raid Usa su 100 obiettivi. Trump: \"Pronti a lanciare un nuovo attacco\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Id0gtdk5saE96QmVFTlFyWWRzeVJuZU5iZXNmZ1lRbjdVWF9TRE0xSkZFWVZrTnFrMkRGWmRDdTVVWEJhYi1kR1VzdlBDeDdhZnZ2anJPU1E4OUo4UUtzOWV2UTgxblNfMlB4Z3BkZndZWmhHdTZwRjZ2TQ?oc=5",
+          "description": "Guerra Iran, raid Usa su 100 obiettivi. Trump: \"Pronti a lanciare un nuovo attacco\" Sky TG24 Ci sono ancora mine iraniane nello stretto di Hormuz? Il Post Nuova ondata di attacchi Usa in Iran. Ancora fermi i negoziati vaticannews.va L'Iran colpisce basi Usa in Iraq, Bahrein, Kuwait e negli Emirati ANSA Media, 'nessuna vittima americana negli attacchi dell'Iran' ANSA",
+          "pubDate": "Wed, 02 Sep 2026 22:00:25 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Trovato morto in casa a Macerata Andrea Angeli, funzionario dell'Onu. Salvò l'ultima italiana rimasta nella Sarajevo in guerra - Corriere Adriatico",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU0M3bnJxRjZaRTlDRnpkdjlQV3J6T2t0aWZlLVZBN28xbktlbVY0dlhQcFdiSkZRT0tNSzFyYUZKdEM1blQ0Y3dUZDlBVVY0cnpfV1dPalNubjFLRmpfNW53ZUxqSVlCSmo0bmhheGdMdXlKTzQ3SGVHYldXNWt3dWJFanY5UExRNnFiWlNKUEhDODQzM25rMTRrQjLSAaIBQVVfeXFMT044cjVhRGNHVE1yWUJNb01sNDFQYTBFZnZRM3czVmhUdzFjaHdUTWlXQ1FSYko1cDhPcXgwS2VOR09xSUV2aHdESDh1N3pkd1NfNkNiZTJ5OUxJcjNmMjFjU1JDYjZTcUVYNEh0TWpXQ3BVWjZuNEJyakFORzhuT1J6emFETjdzajVDZ0xUeURFVmxRMldhTVVnM051dHlWT29n?oc=5",
+          "description": "Trovato morto in casa a Macerata Andrea Angeli, funzionario dell'Onu. Salvò l'ultima italiana rimasta nella Sarajevo in guerra Corriere Adriatico Andrea Angeli trovato morto in casa, il peacekeeper maceratese aveva 69 anni Cronache Maceratesi",
+          "pubDate": "Wed, 02 Sep 2026 19:58:54 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra ibrida della Russia contro l’Europa, cos’è e quali sono i più recenti casi sospetti - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nYURVTS1VSzFSTlFnM1JXWEQ4T0hiOFE3bnFYUjVmLVlCU21xdWZUYzVxajRaM2RQcmhROEpoN0Q0Ylljak10RTFUUFU0empEUWhLb2RKbElPaHVCbDF3YWVqeDNLQk1B?oc=5",
+          "description": "Guerra ibrida della Russia contro l’Europa, cos’è e quali sono i più recenti casi sospetti Sky TG24 Von der Leyen vede Rutte, 'Ue e Nato uniti, alziamo la pressione su Mosca' ANSA La polizia tedesca ha individuato due sospettati per il tentativo di sabotaggio con droni all'aeroporto di Lipsia Il Post Ombre russe. Dopo Lipsia, Italia esposta.. Tajani preoccupato, Salvini neanche un po' (di G. Uccie",
+          "pubDate": "Wed, 02 Sep 2026 17:10:28 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Trump insiste: “Controlliamo lo Stretto di Hormuz, ribattezzarlo con il mio nome” - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSWZJaVJmMFJaUFl1Q0JyNjlPeGxkUkxtbmdJbTVIeDFnNXFndGxzajdPNXFyQTBKYjFMQlZqNDd5LXQtVTBveVFsTnRxQ1hjZUh3ZFNaN0F1UmxsckVMbU9jMThfNkFqNXJUM2ZUTF82Nm5tSkRnNmdhSFF3NjM5NllfMDBsV0lwTlhLcmw4Umx5bHhI?oc=5",
+          "description": "Trump insiste: “Controlliamo lo Stretto di Hormuz, ribattezzarlo con il mio nome” Il Fatto Quotidiano Guerra Iran, raid Usa su 100 obiettivi. Trump: \"Pronti a lanciare un nuovo attacco\" Sky TG24 Ci sono ancora mine iraniane nello stretto di Hormuz? Il Post Nuova ondata di attacchi Usa in Iran. Ancora fermi i negoziati vaticannews.va L'Iran colpisce basi Usa in Iraq, Bahrein, Kuwait e negli Emirati",
+          "pubDate": "Wed, 02 Sep 2026 16:40:59 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "after",
+      "n_items": 10,
+      "n_sources": 3,
+      "category": "geopolitica",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Pentagon chaos deepens after Dan Driscoll quits in clash with Pete Hegseth - Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcnBGTFk1d1dxelY4OGtZb0dCd0xmYnFJNmx5cmhGR0tSMDlieEV5Wm5pamxwVTljZXVDNWtJYXpnLXlWQ1JSejZPYzR2NlVZUkZTZFNNSVc2RUFjTmV4cFBOWl9lTzZoWV9rRlhpS1JsM3o2T2VyNkRidVl3YlhDWmlMcjc?oc=5",
+          "description": "Pentagon chaos deepens after Dan Driscoll quits in clash with Pete Hegseth Financial Times Trump encouraged Army secretary to stay in job The Washington Post Here are the military and civilian leaders who've been fired, forced out or resigned since Hegseth became defense secretary CBS News Army Secretary Dan Driscoll Lauds Hegseth As Pentagon Refutes Reports Of Leadership Gap Forbes Dan Driscoll’s",
+          "pubDate": "Wed, 02 Sep 2026 20:51:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "US launches ‘large and powerful’ new strikes at Iran - politico.com",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95dHc4bnpkQTk0SWVXNFYwNGJQSVBwVnJLTy1zM0dtSWdPM1BrVUVYRTUyNDFUWHFERUZOTl9IcmZfcmtMR3hlbkxMcGx2RnBfQzlPcEY5bng5NkNlRWdBSkhxU044YnpxWUFXZA?oc=5",
+          "description": "US launches ‘large and powerful’ new strikes at Iran politico.com Iran retaliates after US strikes, defying Trump’s warning it could be hit ‘much harder’ CNN Iran war escalation raises concern over civilian death toll Reuters In Small Iranian Town, a U.S. Attack Turns a Wedding Into a Tragedy The New York Times What do we know about the fatal US bombing of a wedding in Iran’s Sirik? Al Jazeera",
+          "pubDate": "Tue, 01 Sep 2026 17:43:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "‘It’s a fever dream right now’: sailors of USS Abraham Lincoln voice joy after arriving in Thailand - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2g5WUtoS3BOOW9vR1U5U1NRSjdzMHhrd09mN0NDeDA5QTZ6ekY4SVMwYW1DeEFDRkdvcXVwb1FnV0ZBUG5YZ1M0MklBOG9tZHp5cTdHVDdxbWRUbGNzQXNLSG0xTDNsSzJ6N0JDMEloUGNGakI0SnFlbFZ3N3NTYkRLRHBmbWs1M3c4TEFUNkN4M1NNcEViWGxKeUdjZE1wTTk3WkladUJnR1ViOUctQ1BOdw?oc=5",
+          "description": "‘It’s a fever dream right now’: sailors of USS Abraham Lincoln voice joy after arriving in Thailand The Guardian U.S.S. Abraham Lincoln Docks in Thailand, Giving Weary Crew a Break The New York Times After 286 days at sea, US aircraft carrier visits Thailand for 'well-deserved' R&R Reuters USS Abraham Lincoln arrives in Thailand after extended Iran deployment NBC News Crew from USS Abraham Lincoln",
+          "pubDate": "Thu, 03 Sep 2026 01:30:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV1pMU2x2b2pNQTVaOEdac1h3TTV6dlpLUlIya0RLQy1XaXZjMUxseWpxeFRXdFNqNlU1NmxHa0lEOGdBREZSZEpKT0RWRlY3WHN4RTZHdWRFV1VJLUtCX3F3dTl4TlhvMk9GX2lNU1l0RWJGNUg2NFR5VktpaU5Fakk4QXRJbTVnWms5aUxLdS1zSEZ2emM0Yjd1SQ?oc=5",
+          "description": "Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order The Guardian Trump’s Lake Ontario push forces tech to pick a side politico.com Lake Ontario is now Lake America. Residents of Trump-voting Ontario have thoughts. The Washington Post Map Apps Are Handling Trump’s Renaming of Lake Ontario to Lake America Differently The New York Times Apple changes Lake Ontario name to ",
+          "pubDate": "Wed, 02 Sep 2026 19:06:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Jury in Malta acquits businessman in killing of investigative journalist - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlVmQUxKbFNXVXhYNWQwOEJkbVFZSnEtSk5RMkZfbUZacmd2UmNiSXpJdURkVlhOeDdHSER5R2tEYUIyYmxhck1xZ3dNeXROR1V1c0xSY2E1QmxuU3R3SDlSbTBnQk1BT21tWGduY2phVGxfMEswUDhQMEFWYzNTV29LVmZfSVlJdHdTX21PRy0yR1FqTmgtM25GTE56b0otM2YzclhVY0l0dGVRR0N5VlRaZw?oc=5",
+          "description": "Jury in Malta acquits businessman in killing of investigative journalist AP News Daphne Caruana Galizia: Maltese tycoon acquitted of orchestrating journalist's murder BBC Maltese tycoon found not guilty of involvement in Daphne Caruana Galizia murder The Guardian Malta: Businessman acquitted of journalist's murder dw.com The killing of Maltese journalist Daphne Caruana Galizia and its aftermath Re",
+          "pubDate": "Wed, 02 Sep 2026 22:45:00 GMT"
+        }
+      ],
+      "macro_area": "geopolitica"
+    },
+    {
+      "keyword": "casa",
+      "n_items": 6,
+      "n_sources": 6,
+      "category": "general",
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trovato morto in casa a Macerata Andrea Angeli, funzionario dell'Onu. Salvò l'ultima italiana rimasta nella Sarajevo in guerra - Corriere Adriatico",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU0M3bnJxRjZaRTlDRnpkdjlQV3J6T2t0aWZlLVZBN28xbktlbVY0dlhQcFdiSkZRT0tNSzFyYUZKdEM1blQ0Y3dUZDlBVVY0cnpfV1dPalNubjFLRmpfNW53ZUxqSVlCSmo0bmhheGdMdXlKTzQ3SGVHYldXNWt3dWJFanY5UExRNnFiWlNKUEhDODQzM25rMTRrQjLSAaIBQVVfeXFMT044cjVhRGNHVE1yWUJNb01sNDFQYTBFZnZRM3czVmhUdzFjaHdUTWlXQ1FSYko1cDhPcXgwS2VOR09xSUV2aHdESDh1N3pkd1NfNkNiZTJ5OUxJcjNmMjFjU1JDYjZTcUVYNEh0TWpXQ3BVWjZuNEJyakFORzhuT1J6emFETjdzajVDZ0xUeURFVmxRMldhTVVnM051dHlWT29n?oc=5",
+          "description": "Trovato morto in casa a Macerata Andrea Angeli, funzionario dell'Onu. Salvò l'ultima italiana rimasta nella Sarajevo in guerra Corriere Adriatico Andrea Angeli trovato morto in casa, il peacekeeper maceratese aveva 69 anni Cronache Maceratesi",
+          "pubDate": "Wed, 02 Sep 2026 19:58:54 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "New York, fulmine colpisce uomo appena fuori casa: le immagini della scossa",
+          "link": "https://www.ansa.it/sito/videogallery/mondo/2026/09/02/new-york-fulmine-colpisce-uomo-appena-fuori-casa-le-immagini-della_506c3974-223c-4e67-a434-b001b2c89416.html",
+          "description": "Dopo essere crollato a terra, Thomas Fahmy è tornato illeso nella sua abitazione a Staten Island",
+          "pubDate": "Wed, 2 Sep 2026 17:24:13 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Messico, ucciso il musicista Jonathan Meléndez dei Camilo Séptimo. Strage in casa",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/02/messico-ucciso-il-musicista-jonathan-melendez-dei-camilo-septimo.-strage-in-casa_5becd8d5-8ecc-4ed9-9a9e-fe504243d542.html",
+          "description": "Massacrate anche la moglie incinta di 4 mesi, la figlia di 3 anni e una domestica 21enne",
+          "pubDate": "Wed, 2 Sep 2026 23:02:40 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Sabato 5 settembre chiusure temporanee sulla Statale 36 per la parata delle moto Guzzi - leccotoday.it",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRTNrcjROSUtadVdLa1VJZ3FONUd0Mmc3S3BYOUt4S2YtRkFTZ0JWbnM5M0hVTmpiZ055NS1JcjI1MTRHTjFSY3l5aFhvTkRFOVZRVHc2T0VON1RwQ2FxcTRXVjJIOWFqWDNobUNYeE5YQjdHdmlwenpHRDdzUUM1bFhXakdkNjA1MGduRjFiZUhDeXVIWFJkV3N4SQ?oc=5",
+          "description": "Sabato 5 settembre chiusure temporanee sulla Statale 36 per la parata delle moto Guzzi leccotoday.it Antonio Rossi: “Moto Guzzi è storia di famiglia, salirci sui monti è un’emozione” la Repubblica Piaggio inaugura la nuova casa di Moto Guzzi firmata Lynn ANSA Moto Guzzi prepara la grande festa: a settembre partono le Giornate Mondiali 2026 Corriere della Sera Moto Guzzi svela la nuova fabbrica del",
+          "pubDate": "Wed, 02 Sep 2026 14:45:12 GMT"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Trovato morto 24enne vittima 10 giorni fa di un'aggressione omofoba - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQa3NEaTR5YmVjd2pnWldCalY0aWFmQUZpelhlZE9FTWFxWlpLbWJsdHpqR0x1cXpGS0ZDbDJxMVhqejFKaWZfZ3plTGYxV3RFbUxlY01BcTlXTUxlUGRBWTBXazRHWTZ5dTBVRFZGb1dBLVZjNXpKclZnODQwc19ocE82NThsS09JY284ZVcwRm43QUJSWEJ1aWtlSEFSMlBFRG9UY3FmUHZWZmNGU2VFOVQ4bl9YN3VXbWNvdmdCME1DMlNaRncwNDE0VjFicHo5Mll0VF9rZ2RyS29wRUs1VHZHTWhua0t3bUhUUUhEUFZHZw?oc=5",
+          "description": "Trovato morto 24enne vittima 10 giorni fa di un'aggressione omofoba ANSA Vigevano, trovato morto il 24enne che era stato aggredito e gettato nel Naviglio RaiNews Vigevano, trovato morto il 24enne che dieci giorni fa era stato vittima di un'aggressione omofoba e gettato nel Naviglio Corriere Milano Pavia, trovato morto in casa il 24enne che pochi giorni fa aveva subito un'aggressione omofoba Adnkro",
+          "pubDate": "Wed, 02 Sep 2026 11:56:00 GMT"
+        }
+      ],
+      "macro_area": "societa-diritti"
+    },
+    {
+      "keyword": "scuola",
+      "n_items": 5,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "score": 31,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Famiglia nel bosco: la scuola lontana, le visite \"complicate\" dei tre figli ai genitori, tutti i nodi del provvedimento del tribunale - Corriere Roma",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQTERNWVlYRkxRcmlNVy1yNHp5QTU1ZUNZLWVBWTRjRTlRdXQxV0JxXzFMRzhYRy1Sbjl2Z3lFM0paRFhvSGoyVFJGOHk3NFRLV29tTFgwN1FDTVd6WEpNLVNSbnA3RDdEeGtmVTJFSWN3SXI3b2s4anB4aWxoNmoyWUU4WFUwbm4zNXNDQURJT1dBTFVCNTlMYTZwLVZoc29Odlpqb09XTzNPd2I3aTB3bExOZ0pINUR6UG45aTY4QTdzTDc4LTR1dElTMm03NU4xc3pXaG9GelBNUzVFYndYdF8tU0xiZDA4RG5CTlJoLUdFN3JjUFJ1a0wzWmh6VzdZSHU3MHNvRmNLVnVsYVRSLTFkdWlraDVWVW83TVFWNVNVVUJ6LWprbFVxX2dac25HRzVZMk16VUNWSU5PNS1Wa1otS1Baa0ZleWkzZdIB0gJBVV95cUxOVFc4dG9JRjV3VkJ2VUFDOTdHcm1vdUJLaWViUkgzOW5fdWFoNDEwMm4wb2ZqMXlWbFJIOV95eUs5SWFTa1kweDNOS1BSTVNVYjViRS1FLV9ldEV6YWtPYjlMdlhVZl9HNnphWC1wRk5xTFdZb2dBWjdZOGFpMVBZa1d3dEJocXVubmtlZHlXVERIcmdOZWhoVExPUHhvMXpjcU1CVTBCWnp4Q1d1Y2dGeHhuOXFjaUI1b2ZjYmZpeFNlWU1nRkc2S3dGSUFSSE16MWxhRFJJQmNEYXNWd2lkcjdsQkNYclo4TEJTaWJsMFc4SGxIT1Y0SzViSzRGd2JEM2p0NVJuWHhDTy1HZFVNbkpnTGZxdU10bE5PWG5SaktZS19mQVMtOFJaTVJzaEg4Wnc3ZHJwazRETU12NXVJOVJWYmhQem16LVRPaUtyM2V1dw?oc=5",
+          "description": "Famiglia nel bosco: la scuola lontana, le visite \"complicate\" dei tre figli ai genitori, tutti i nodi del provvedimento del tribunale Corriere Roma Famiglia del bosco, percorso a tappe per il ritorno dei bimbi ANSA Di nuovo insieme, ma non subito. La rabbia della famiglia nel bosco: “Ricorso in Appello” la Repubblica Le cinque cose che abbiamo imparato dalla vicenda della famiglia nel bosco Avveni",
+          "pubDate": "Wed, 02 Sep 2026 16:08:33 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Bagni per disabili, al Sud poco più di 1 scuola su 2 è adeguata",
+          "link": "https://www.ansa.it/canale_legalita_scuola/speciali/back-to-school/2026/09/02/bagni-per-disabili-al-sud-poco-piu-di-1-scuola-su-2-e-adeguata_54dfcfcb-6237-4b30-a846-86c52b45b673.html",
+          "description": "L'indagine di Tuttoscuola: \"Al Sud solo il 36,5% degli edifici è dotato di ascensori\"",
+          "pubDate": "Wed, 2 Sep 2026 19:18:10 +0200"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "«Su allarme caro scuola numeri gonfiati»",
+          "link": "https://www.ilsole24ore.com/art/su-allarme-caro-scuola-numeri-gonfiati-AJ77aj1",
+          "description": "Caro scuola: è botta e risposta tra associazioni dei consumatori e cartolai. Le prime hanno lanciato l’allarme rincari con stime del Codacons che fissano un budget massimo di 1.300 euro...",
+          "pubDate": "Thu, 3 Sep 2026 04:02:01 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Ritorno a scuola, scattano le verifiche dell'Ulss sui bimbi non vaccinati - Il Giornale di Vicenza",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbU5LRms0aFRtdmRyYmZucnhPcVVDLWdKenFScEhWblpwVmhvcnJPR2ZXb1UySXpoaWxXWGQ2cjYzVll1dzJMM2N2ZnVVVW13cVd4bTFtcno1eUhyWF9BczZhXzVUNFp6MHdiWGV6Um1QWEg0QUtUa3BrSmpLVGx2cTk0UHl1OWp4M0ZJVUNJVDVBczNFdWJ5bmdodnRkRl9WRVNDN2QybFY0eW9kbmlicmMwNnNCZW1ZOC1FUGVFQTFHeHZNd1djWUhvd9IB0AFBVV95cUxOT1pxeEh6SmwxejNaRThENmcxb0pWNTdLUkw3U1AwX0MtTVNFVU92YnlqNG5PaXl0STVCeUI0S3BJYXR6bEwwZnhjSDVTYzNnQUEwME00UVBuRzk3MjlRWEJfNjRsT1QyWkIwRW9CbksxWHRmNlRoMklGV0FOWnV6X0VXOHdsMkgtdGZGUllUV3htbjc0ZXdJWThaN0FtNERTQVlrVk9MeThyaEV6Nk9xbkt5YUFGSjNhVnhKYmVmd0wxbkhPQWhETDlVZU5wLXA3?oc=5",
+          "description": "Ritorno a scuola, scattano le verifiche dell'Ulss sui bimbi non vaccinati Il Giornale di Vicenza L'alleanza per proteggere i più piccoli: Agrigento lancia la “caccia” ai vaccini dimenticati AgrigentoNotizie Vaccini pediatrici, Caruso riunisce le Asp: “Interventi mirati nelle aree più critiche” ilSicilia.it Vaccinazioni, l’Asp di Agrigento rafforza la collaborazione con i pediatri e coinvolge le sc",
+          "pubDate": "Wed, 02 Sep 2026 03:09:15 GMT"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "L’apertura della scuola in tutta Italia coincide con la sesta ondata di calore: “Posticipatela” - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZC1Ld095REpFODhEekYzNHJwekVzWGpCWHc5OFVUZWZpbGI5d29kTERyQVJ4dnhwRzhNSUVOLV9fejBhNjdyR0NnRjVXWVYxaWxQclJ0ZVNPUnUwWkFJVVQ1dmZ3NjdyLXljaWVxTzBBSDdsYVNSMDhOMlZJX19PZWJiMVBaY0tNM2ZGY3NMLXhyS1ZuUy1BMzJHZnNEUjNCVWExZ29sRGHSAa4BQVVfeXFMTVNEQ1hGSXFJcEU2V0ZLWmJzQ2MwdGVxYkFOVURzMVQzSjM3ZFdzTUJKUXZmNUJDUGtOQ2ZUWlN0VnZBVURGQzNrVktIY3lDeTZFV1NWWWZ6RlNLdGttdkk3ejlFNmFxZzNHa1lIZ1VaWXZYOS1KZHpuQVBPelM0M2tXajEycUdUc1dlakNGNU5MaE01YkYxLURmUk96ZTZlOXlsUVM1QTVhNk1leVR3?oc=5",
+          "description": "L’apertura della scuola in tutta Italia coincide con la sesta ondata di calore: “Posticipatela” la Repubblica Scuola: promesse di Valditara su raffrescamento si riducono a 57 euro per classe FLC CGIL Rischio classi roventi, spostare l'inizio della scuola ANSA Posticipare le lezioni per il caldo? Più facile a dirsi che a farsi Il Sole 24 ORE Emergenza caldo a scuola, sindaco del Foggiano scrive a D",
+          "pubDate": "Wed, 02 Sep 2026 10:55:03 GMT"
+        }
+      ],
+      "macro_area": "tech-ai"
+    },
+    {
+      "keyword": "borsa",
+      "n_items": 11,
+      "n_sources": 2,
+      "category": "economia",
+      "score": 28,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Limita le perdite Piazza Affari - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT0VfVElYUUR2UlZQSTRqdkxaWG8tLWlPYWtka01Ubm9OS0ZJY0JudG1kUkRFaE5GTG9RU0VWaWF3MmQtX1VaZmF4UURvemEyR284NjJzTktmQk5PM3VZNm1OckYtMU5KNFFKTzZhNzc5V3RzNWNqclNRcE9uWjhjU2ltUFNfQUhXVkVJNWloZXJHa1FaS05XR2xISHJWbUZRRU13N2x1bmZLZTdmbDRXXzJHWVhqVnpWWlhLVVR0ZnFuYUpL?oc=5",
+          "description": "Limita le perdite Piazza Affari Borsa Italiana L'Europa chiude in rosso sui rialzi dei prezzi di petrolio e gas RaiNews Le Borse di oggi, 2 settembre. Mercati ancora sotto pressione, Asia in rosso la Repubblica Borsa: Europa chiude in calo, tengono banche e sanità ANSA Borse oggi in diretta | Il Ftse Mib chiude in calo dello 0,2% col tonfo di Lottomatica. Stm in cima al listino Milano Finanza",
+          "pubDate": "Wed, 02 Sep 2026 14:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Prezzi dei carburanti: perché viaggiare oggi costa meno che una volta - alVolante",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdThDd0l5b2dMZ0tLNm96Y0pkVWpFaUhWY0JhTG5zb0pFMnY3blNPck15RFY2WFpCMkFJX04zSEtET09DbEZLMklUanJjMnhpbEtvbExYUk5SY3pNUTZwMzhlY0Voa2tCczdCanpaS1UtMEh3V3hoN2ZnSUVOVEN3b3VQeHBremhEc29wcW9YblE4UFlfLTNxR3d6ZDVJVE9pR0VDU3VaRjBwM3l4QWg4Uw?oc=5",
+          "description": "Prezzi dei carburanti: perché viaggiare oggi costa meno che una volta alVolante Prezzi dei carburanti ancora in rialzo, benzina self a 2,027 euro ANSA Benzina, prezzi oltre i 2,1 euro: in autostrada nuovo record Mimit Borsa Italiana Carburanti, non si arresta spirale prezzi alla pompa con Brent oltre 95 dollari la Repubblica Prezzi di benzina e diesel ancora in aumento a settembre, quanto costa un",
+          "pubDate": "Tue, 01 Sep 2026 07:03:22 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Titoli sotto la lente a Piazza Affari - Lottomatica, Fincantieri, Leonardo - websim.it",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVEZkSEpRX0pIeWl5dzVOOEUxaldNeFRIczN3TTl3enNKSm1NWEJsZlVUXzFudGhKRVVFbThteV9Wc0dhOHpKUFphdlgyMnVnRnBqV09VQzg3RFNsbHRpTGgzZGtFZkJPMUxiamtyRy0wbE55cVVoYldKMFotZEtheklyRGVDVklKSk53dHUxeFBLaXF0STBxOEdPU3lfWlZvQjB4T0k5NFJMVmFfeXQyMm5kV2ZpZmNTTXNV?oc=5",
+          "description": "Titoli sotto la lente a Piazza Affari - Lottomatica, Fincantieri, Leonardo websim.it Lottomatica e CIRSA firmano un accordo di fusione vincolante: tutti gli studi coinvolti Il Sole 24 ORE Chiusura in rosso per le Borse europee, a Milano tonfo di Lottomatica dopo fusione con Cirsa Borsa Italiana Gaming, Lottomatica (-11,2%) rileva Cirsa: nasce il secondo operatore globale quotato. Perché il titolo ",
+          "pubDate": "Wed, 02 Sep 2026 06:42:24 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Mercato auto agosto 2026, ancora in crescita: +3,2%. La top ten delle più vendute | Quattroruote.it - quattroruote.it",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRnE1NVFBbE1rTE13MU5HWm4tLWQ3SW1aWVlyVHRVVmYwaFBZZkRvd0xuSXZ5bnZqTDVRYWdvb3BzcmMxR0REeXZQU1RQUktETFFGWUR1dExMTk5CN3BnSzdEbEZTV243a1FrQmJHeFB2dTd5Z0VnUDg5YmpJSklzQU9CcmkyUlQt0gGOAUFVX3lxTE5xUmNsMTQzQkJrWWRJV2xvdW0yOU8zNnNHYUVkbjVualJ3aVJpUXBiVFhWNk1mcGxKOXR3d1g5NEh0SDVVUXZGNHhvQTEyWmhta3NuYUZiR1pYdHphMGVzd1BXRmI3d09OS1RENEdwend4dk9IUnpKZ0Y4RHhDNEVVVlRMRklTaU5DbUNLSGc?oc=5",
+          "description": "Mercato auto agosto 2026, ancora in crescita: +3,2%. La top ten delle più vendute | Quattroruote.it quattroruote.it Le 10 auto elettriche più vendute ad agosto: tante sorprese e poche conferme la Repubblica Il mercato dell'auto cresce del 3,15% in agosto, Stellantis il doppio ANSA Auto, immatricolazioni ad agosto +3,15% Borsa Italiana Auto nuove, agosto 2026 chiude a +3,2%: exploit delle ibride pl",
+          "pubDate": "Tue, 01 Sep 2026 17:08:02 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Giorgia Meloni, a 2 giorni dal record storico altra mazzata per Schlein e Conte: ecco il report | Libero Quotidiano.it - Libero Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZmhhaFdVR2JXMVlYWnp5c2hiMEl5X0NEV0E5R3BCWHZ6c3hiSDFIU2hqbFNSdzZ3bjRadVBhZXdCOVZ6ajh3NThvbVhnWnh6TFJyUU13X21sRDRfcnZ0X3MtZzV3SVJka205aVRDVklHZDVhdHhzQi1UT095NS1zMnJiSVFXMzlGN2NncktLeVJVM2ZxU1haMURKM3c5TUZhS29oLUFCNXJFbG14WFBnYmpCYnFrVVhFM0pmNVJNUnXSAcQBQVVfeXFMT19MT0ZBSWdlQ2R1SGN5a09YV2pKQVVScGdISWkyaVlnTEkzeVNPbV9oOExDZUowaEh0Vzh4UTVISjNjOWgweU5MTGJVTW80XzVrejFGWThGUDRLcFZOR2VMZ2xJZXBQNnVMbC1hR1RXZ2x1MXNfLWcyTDRxbUZVdjZDRFNNWWdMc09XVnA5ZVBJMnFUZ19CWlE3TjFlZkNYX05naGVKSlA5QUYxODVQaEU3dDJOc3NNd2lJRXAyTEpCNnpLSA?oc=5",
+          "description": "Giorgia Meloni, a 2 giorni dal record storico altra mazzata per Schlein e Conte: ecco il report | Libero Quotidiano.it Libero Quotidiano Istat, PIL confermato in crescita dello 0,2% nel 2° trimestre Borsa Italiana GDP: Istat confirms a quarter-on-quarter increase of 0.2 per cent and a year-on-year increase of 1 per cent in the second quarter Il Sole 24 ORE Pil +0,2% e inflazione al 3,3%: bene i co",
+          "pubDate": "Tue, 01 Sep 2026 22:31:06 GMT"
+        }
+      ],
+      "macro_area": "economia"
+    }
+  ]
+}
