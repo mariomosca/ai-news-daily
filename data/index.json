@@ -1,5 +1,25 @@
 [
  {
+  "date": "2026-09-15",
+  "label": "Social e minori: perché vietare l'età non basta se l'algoritmo resta lo stesso",
+  "category": "diritti",
+  "macro_area": "societa-diritti",
+  "target_area": "societa-diritti",
+  "angle": "zoom-out-sistemico",
+  "structure": null,
+  "origin_keyword": "diritti sociali minori piattaforme",
+  "origin_date": "2026-09-14",
+  "story_sim": 0.448,
+  "opening_retry": false,
+  "word_count": 1003,
+  "mode": "voice-only-nobed",
+  "rating": null,
+  "rationale": "Il dibattito su divieti d'età ai minori è solo la punta di un pattern ricorrente: si regola l'accesso, mai il meccanismo (algoritmo, notifiche, design compulsivo) che genera il problema — uno zoom-out che ridimensiona la battaglia sui divieti mostrando il vero terreno di scontro, l'architettura delle piattaforme. Angolo fresco, mai usato nei giorni recenti, ed evita di ripetere segui-il-potere di ieri.",
+  "has_script": true,
+  "has_choice": true,
+  "has_candidates": true
+ },
+ {
   "date": "2026-09-14",
   "label": "Poste Italiane prende TIM: lo Stato torna padrone delle telecomunicazioni",
   "category": "economia",

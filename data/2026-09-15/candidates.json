@@ -1,0 +1,586 @@
+{
+  "date": "2026-09-15",
+  "top_topics": [
+    {
+      "keyword": "petrolio saudita attacchi houthi prezzo",
+      "label": "Attacchi Houthi al petrolio saudita: prezzi rischiano di salire oltre 110 dollari",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "energia",
+      "macro_area": "clima-salute",
+      "richness": 4,
+      "score": 46,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Meno petrolio saudita dopo gli attacchi scatta l’allarme rincari - repubblica.it",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaklSaElQeW00VklrV1gwRkdtY0tNOUotZlctQmhOT2tZeDY1Zkw1YlA3Q1dtYUVhLVdqOFZ3ZTI1VmdWenZuLWZxWnlOTGNtYXJqTkpqS0prcVBrZ2V2VFRKM2VKLXlTa1lZVHZRUU5VN1JYVmxUeGpUVjBzY1JvZHhsa1QzRFlmMHFrb2JOa1g1LXpHcl9VMFoxcDkzbG9vc1ZCV2RzeDhCbXd10gGyAUFVX3lxTE0yRXdERnBrb1BhWFQwRmplZVQ5c2dVWkFaeVdxNHQweW1EblBjWDVNSnEtS29Qd0VhRjlIRGxERXIxM1dvenFhNUJMNWZBT2FvN3puOHNOQnhkTnlCVlZwbEdzdXRXazhDdWJPeTVVRDd3dUY4YjlPcFI1U1ZPNjJjOVI0M2RianZqa3RJNDJwYm95T3g0MUh0M3pnN3ZNeEQ3eUlHa0l4VjhkeklCdWVOQ3c?oc=5",
+          "description": "Meno petrolio saudita dopo gli attacchi scatta l’allarme rincari repubblica.it Le cose da sapere sull’attacco all’oleodotto Est-Ovest Il Post Golfo, sempre più un vicolo cieco ISPI L’ultima tentazione dei sauditi: un accordo con l’odiato Iran Domani Se l'Arabia Saudita non riattiverà l'oleodotto attaccato dell'Iraq verrà a mancare il 4% del petrolio globale HuffPost Italia",
+          "pubDate": "Sun, 13 Sep 2026 23:00:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTlTdWlFZF9mNl9uX3pCWHd0QXVWb0dEaXlGaXhLa3l4ek9PbWFhRG02VXJDMW1BT3FxUkp3MzZtdEd2ZHQ4cUswbkpfX1ZnVkxuQ3pValFrY1BTRHlyZjdaLXJqTW1VcXhzajBuSUFIbXdxamdqOTcxeFp2MERjcU9lQWVXaHhETnJweXZRdWp6UWNHQUxjdWc2NA?oc=5",
+          "description": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow AP News Saudi Arabia Faces ‘Worst-Case Scenario’ After Iran’s Attacks and Trump’s Rebuffs The New York Times Oil prices rise after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz CNBC Why Saudi Arabia’s East-West pipeline matters for global oil Al Jazeera Oil prices rise as Saudi pi",
+          "pubDate": "Tue, 15 Sep 2026 01:30:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Arabia Saudita, 13 civili feriti nei raid Houthi di ieri sul sud del Paese",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/15/arabia-saudita-13-civili-feriti-nei-raid-houthi-di-ieri-sul-sud_3ac064ca-19f1-4aba-bc3b-9bbe337caff1.html",
+          "description": "Riad: colpite le città di Khamis Mushait, Abha e Taif",
+          "pubDate": "Tue, 15 Sep 2026 04:55:50 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Davide Tabarelli: \"Andate a fare benzina: i prezzi saliranno parecchio\" - HuffPost Italia",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLUwzNTAxNWFQY2lTdVJPSVBHdUk0V3Z6N09jVDFXVm1JTmJNVkJJblFicU13TUgxdURuR3Y4aVVVeHJjNTU4LU9GOHVldW5HVDByZmlQQ3k4M0JkeVN0R1IxSnFwWEVmbjhwX3lJQWFuMnh0YXA2R0Z2Z0lNSDRmc3FOejhhWkJhYllmOXpINk9KcmtFUmNaZXFRNVlQenF4ZGxpbWlSNkRkMEZybFdhdWI2S1ZUVkxXemlJbXdfWlBjcjVOYktERzZQX2pwbkotcGFGT3Q4OA?oc=5",
+          "description": "Davide Tabarelli: \"Andate a fare benzina: i prezzi saliranno parecchio\" HuffPost Italia Effetto Iran: volano il petrolio e il gas. Alta tensione sui titoli di Stato americani La Stampa Stop a oleodotto saudita e rischi intelligenza artificiale, vola il prezzo del petrolio Sky TG24 Il petrolio riduce la corsa, Brent a 105,7 dollari ANSA Il mondo a pezzi. Intervista a Paolo Guerrieri. (14.09.2026) R",
+          "pubDate": "Mon, 14 Sep 2026 16:49:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse e petrolio 14 settembre | Europa chiude in calo (Milano -1,7%), timori per l'Ai. Greggio verso i 110 dollari al barile, gas ai massimi storici - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOV1JhUHVnNjRHQ0VkZHF0NFZVV3J5UzBWQm5kN2gwYlUxeUFWNFhBWkFCNVVLUjJGME54Vm9OM1pBc2VvbUNtNnhlbVppS2ZHbVdjSFdtOUwyMDdMRERGcVZRNl9xVGd4SFRmVks3ODd5M3lSd0FmYy0xbnpxYlRTX194LS1ZSW9LU29DWktYRThvaFhzUldUMlhHWmxHRHBNSDV2MzNfRTNIem1LNmhQYV9UbnFfQThOd2xnQWFUTXViLVNadHhMaFAzZGgwU2FtSVpOX21lQy1qTkhjZXFGVGdkRlBqVEFlbF9rMnQtdzg5UEw4ZVRxeDhQUzR5TldjcG5QNDRwcjhDNklqekoycDA2T3Vtc250SWphN0ViU0R4dTVuQ0JFWk5FWWbSAbICQVVfeXFMTU9UVnBxTXpoY01kcWp0Y2N1NEI2N3BFMEN6MFRvZHFuX3lNZkNSTktTY05NRkVSYWFLakc5a24zZDVNMm80VjdteVZzN0w2UkNzLTNKRzJtOFc2YXVoR29mMGpnSTFiVVJiQV9YYnFGcnozRVQ1SE54TWdjU3I4Uzdqam9GRTBycDNuajZCSERlZkotS21yc2hoaktJM3UtV2hOZUQ0ZXdQSVQzU1U5LTZsRERxb1oxQ0tOWHFTc0IzUEJJbUExUW9NYml4NlhrYkdfYnUxaXVkVmk1RXZ6SmN6d3BOMTBwR3JwalJ4bnJjckNJREQzRW96bEp3QmNka2lCN0tvcGZYdHJRVGJYTXhDQW1iVVJZemlULVl3MVVIODhuRWFzSWtNUnV5WGNqbTZ3?oc=5",
+          "description": "Borse e petrolio 14 settembre | Europa chiude in calo (Milano -1,7%), timori per l'Ai. Greggio verso i 110 dollari al barile, gas ai massimi storici corriere.it Il mondo senza bypass. Dal tubo saudita all’AI, saltano le protezioni per i mercati (e per Trump) HuffPost Italia Big Tech perde colpi, il petrolio sale ancora e le Borse si spaventano repubblica.it Greggio oltre 107 dollari al barile, Pia",
+          "pubDate": "Mon, 14 Sep 2026 16:26:35 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Il petrolio riduce la corsa, Brent a 105,7 dollari",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/il-petrolio-riduce-la-corsa-brent-a-1057-dollari_6d1faa42-6364-4f01-aead-f78f229bed24.html",
+          "description": "Il Wti americano guadagna l'1,5% a 101,5 dollari",
+          "pubDate": "Mon, 14 Sep 2026 19:58:13 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "ai regulation usa congress debate",
+      "label": "Regolazione IA negli Usa: stallo politico tra Trump contrario e Congress diviso",
+      "n_items": 4,
+      "n_sources": 3,
+      "category": "tech-policy",
+      "macro_area": "tech-ai",
+      "richness": 3,
+      "score": 24,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "'Bernie Sanders e Steve Bannon insieme per un'IA a favore dell'uomo' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZTE4Wml2OUpUb3cwaDFZUl8zQWZiRkdNcnM0R3JoRDk4cllLenBIbi1GaXpPNTFjcXE1UUVFY2dOX1gwUHpycGNqOVc3U2dER214eXN6RGZ3cW1fRFBhLVBPMWNTdTQ2eTB2TGFyMDdXejFuSTZ6X0gtcHMyYzQzaXlnTy1QVWRYTzdaLVNDd0pCZzh1RXA3bUN1d0FIZS11QW80dXNfV2taMDkzaXpqTGFDaU84UGxqZDV5QzFpa29DZGRiS185NjdUSC1GLU5WaVQ5X2IwRlZsSUxoZTY4WmExbnA3XzN5Z0Q0eNIB8gFBVV95cUxNem9NdmxLYTVzVkVxMWZQWkVoMEppakFsOFFfeUhzMEUxcURiMGlBWkhRcGZkYTVBeWQzMFFFenc2LUxBcV9qMHVHVjIyX3JOemNDbGhlOF9NSlJ3UWFzZEJYSnhkODY3ZEVsZWhVU1d6cUN6dHRnSVhBTjVYM3pCNlYzaWpISkx0QjVpSjlzQjVnd21hU3Nsc1dBN3BfeWRyY2pUMnNhdGJPeTB0TWh0SFlBcVJERkp3d0txYXBYWDRSamVqcGtIYkNtME5kX3FDZkhnOUZDbUFYOVJkVDl3eW5jSmJ1dExCeXA1dFFuLXdqQQ?oc=5",
+          "description": "'Bernie Sanders e Steve Bannon insieme per un'IA a favore dell'uomo' ANSA Trump: 'Io unico argine che serve all'IA'. La Cina frena, 'basta allarmismi' ANSA Incubo AGI (Intelligenza artificiale generale): può davvero sfuggirci di mano? Focus.it C’è da fidarsi dell’appello sulla sicurezza delle AI? Il Post Ai, non regaliamo il nostro potere a una macchina La Stampa",
+          "pubDate": "Mon, 14 Sep 2026 14:08:55 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Hakeem Jeffries: Congress must act ‘immediately’ to rein in AI - Politico",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVkl5UW02RDZQSXhuSzRCNTBWZHhlejlNdlJhZnBpeHBXZ0JJZF9kYTFtdDZjMlhuZFFiSEp3b2xQWGpNa0lDaVl0eHBTSXByakdkNWc2dDZwcnEwd1lfWWg2ci0yV1JBam9vOVluTFJTbnl1ay1vZ0xMejh3c1libEFzVUNHa0NqV1hqYmprNVhjQ0k?oc=5",
+          "description": "Hakeem Jeffries: Congress must act ‘immediately’ to rein in AI Politico AI regulation faces political deadlock as calls grow for Congress to act BBC Thune sees role for Congress on AI — Trump does not Axios Why the midterms and China fears will complicate action in Washington to regulate AI Yahoo Finance Dire warnings about AI shock Congress, but action is unlikely before the election NBC News",
+          "pubDate": "Mon, 14 Sep 2026 20:20:12 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "AI regulation faces political deadlock as calls grow for Congress to act",
+          "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
+          "description": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
+          "pubDate": "Tue, 15 Sep 2026 02:50:36 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+          "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+          "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
+          "pubDate": "Sun, 13 Sep 2026 18:49:37 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "trump tregua energetica ucraina",
+      "label": "Trump annuncia accordo su attacchi infrastrutture energetiche tra Mosca e Kiev",
+      "n_items": 3,
+      "n_sources": 3,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 21,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump: \"Mosca e Kiev non attaccheranno obiettivi energetici\". Ma l'accordo ancora non c'è - Il figlio di Trump conferma: \"L'oligarca russo Kremlev pagò il mio matrimonio alle Bahamas\" - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUU1vdjdMdjhfWEhBdFkzNmJ1VkhjOGo3M19xNDBEeGJDZkM5VVpwRVRBdng4RGZZX0hMVmFNV3U0dElWVWFaOURELVg5V0U1OUpLbFVjd29GN05xSFRRcW9yeTkwU0NRdEJ6QWM1M0tJRG1wSDJHYjJoWjBDUmJZRjVRVGhQMEQxS1FtSnhUUnctdW44ZGx4VGhKTTc3SFRNVGpDVWZsOW5qdmpLMElZeks2dTJ3TUZfTE9NOEpsX2lOeTlsYmpqVUhwc0tPbzZoMUR0TVE1aDdpc1I2TlJsLWdfbVhIdTdrRUlJc0lsaTR4OUd0dzZ0OHA1TkZIc09XQ25aNlNlRTTSAY4CQVVfeXFMTUtPMHJBODhleU1sRVBtaFRMRzA4SWdMUVFtRlZKUHh4OExtVzJuaWNaMVVJWjMyT19MMVJSMDVCd1dlZGhzVmJrR0ZoMFRTaHpTV3JTVG1pVzFSREhUVzVJOGMxZlpyZ0I4a3pvNnRSM2o2dmpodGl3ZFZPa0FaREI3ZFJtd0NDSzRsNk45MFlJYnJwQ18wak1Nb1FRbkRHNVpJQ1QzTWVIMl8tcDRXSzBqX01wdUpPRHJLWFQ3MnUwb041VU1YZzNYYWFsOHUzVXJMVVVQMV9PRWdMN2s4aVUtUFVSVldsSVk2ZEY4eFVHSDFyQWFKV19ZQk5FeGZiMUFkRUJ5bUFqaUV6QmdB?oc=5",
+          "description": "Trump: \"Mosca e Kiev non attaccheranno obiettivi energetici\". Ma l'accordo ancora non c'è - Il figlio di Trump conferma: \"L'oligarca russo Kremlev pagò il mio matrimonio alle Bahamas\" RaiNews Trump annuncia la tregua energetica Mosca-Kiev ma Zelensky chiede garanzie ANSA Guerra Ucraina-Russia, le notizie in diretta | Trump: «Accordo tra Mosca e Kiev per fermare i raid su obiettivi energetici». Zel",
+          "pubDate": "Tue, 15 Sep 2026 01:41:12 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Ukraine will support energy ceasefire if US ensures Moscow's intent, Zelenskiy says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOVNFQ1g2OHVHZ2dKdEVraENQbDVtV0xnTDBmUzNqaEd6YmJiSG9EWE43V2ZCWEdzUlBOVjVPTGRmdi1uajU1c1VrdXNuQlVPS2c1am9TNzJzMEo4bERnUnlfMEdUNjZjaWc0QmRsR1E1TEotekZyUWZuZ052QXowT2tuUFlOcWE1dzVNMDhVOERueXZ5ZG9RNVFLdVN2N3N5dVVGRXlsV3NrQmwwM1V0MTlR?oc=5",
+          "description": "Ukraine will support energy ceasefire if US ensures Moscow's intent, Zelenskiy says Reuters See more headlines & perspectives on Google News",
+          "pubDate": "Mon, 14 Sep 2026 20:21:34 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Caccia della Nato abbattono drone sulla Lituania, Trump annuncia la tregua energetica Mosca-Kiev",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/14/trump-annuncia-la-tregua-energetica-mosca-kiev-ma-zelensky-chiede-garanzie_81a3a2db-65e5-4216-bb1a-89c432d3eb63.html",
+          "description": "Il Financial Times: 'Un accordo è in discussione ma Putin è riluttante'. Il tycoon teme per le midterm: 'Il caro diesel è causato da questo conflitto, non dall'Iran'",
+          "pubDate": "Tue, 15 Sep 2026 05:32:44 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "drone russo confine polonia",
+      "label": "Droni russi sfiorano treno europei al confine: avvertimento di Putin",
+      "n_items": 3,
+      "n_sources": 3,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 21,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Fabrizio Saggio, l'italiano sul treno che ha preceduto quello colpito dai russi in Ucraina. Il racconto al suo staff: «Sapevano chi viaggiava e dove. Il messaggio è: possiamo colpirvi» - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcDhYcG9YUko5ZUNhUEFrZkF1c1oyTG1FRndTVldKb3B2UnRTZmRIZDJuc0k0Zm1MM1lvNnhueVZZRGVRUUJUMlhuTGV4MU9YWEI1RFFBeEktaXdHTS1YS1JPRFRWejZaMVYzdlpxdS13TENxVjhpNmhmTHppMV9raXM5ajJ2QUF0a2VoSEI4MXpWdDdkYjlNeElzanNoekVQQnRIVkZwU0FaYVNXUW5lYTk4c1N6Zm1WVnNVcDhRckZQYVJvM1NlbUxBRlN6bWlNVVJuNG5wMWJXd9IB3wFBVV95cUxQSk43LUhkQktQWUlfbHpKbHAtaDM1cFRDT3otQ1lXamUwLW12NVp2cU1MQlpaTm1QejRNVVJ6UXhtM1E1YW5TY0Q5TjBPZGhMdkNMcUpTQ3FoLWFqODVWc3NSRzM0M1RBNjRDSEMwN1ZUQ2VJT0Q2SS1RTWs2cjVuM0xZRk1qMUtZZzA0V0VJU2ZJd0djTmhsT2tJdWtveGdtNXFGdUpzQm5aOHFXejgzYVgtQ1U2QUNPVGhJeDRWYjBMTTZPa1lBNkVhZGhJRTZScWZFZ21jNEx2WUVFWFVR?oc=5",
+          "description": "Fabrizio Saggio, l'italiano sul treno che ha preceduto quello colpito dai russi in Ucraina. Il racconto al suo staff: «Sapevano chi viaggiava e dove. Il messaggio è: possiamo colpirvi» corriere.it Kallas: 'Il raid al treno ucraino voleva spaventare l'Occidente'. Merz: 'La pace è a rischio in Europa' ANSA Attacco russo al treno dei diplomatici, Rutte: “Putin agisce per disperazione” repubblica.it K",
+          "pubDate": "Mon, 14 Sep 2026 07:39:43 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "I droni russi sfiorano il treno degli europei al confine con la Polonia: “Avvertimento di Putin” - repubblica.it",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRjBkUGNSWnozRkI3bHhiLWpjd01vWm0wTnI5ZVN1Rk95QWFlcUM3aW5ES3kwRXg1bmk4UzNVMkFNX2JoUi0tZm1HWlJCR1FQVWdSdFdkX1JTXzRqWG1MR1BLMEdGaXJoUmtoUWo1cGl1Y05LcmdCUnBlZWVNMEFEVFl6ODBBQ2I3OF93NElqUHZsOW5Ma21lZVp5dXpKRkJrN2xaRDVTS0NLU0FGUEo2ZHZsRTZRMkZjaFo2WnJ6OTlfc1FlNTNBbDZmYjBjcVhENnkzQ9IB2gFBVV95cUxONEVrdmZrNFNQV0o4cTZtem1nNEdqMXpkRDE2YWFzR2lXSEcwckptN1R3OURqdmFsZ2JCalluSmRIejh6TU9DUXZ5aFlZOWpkRGhBZ0FFNXhTUDlGbjQwNThhMlFBZGlHSndpWEdHaW44MHlFMk9zLWQyZ0htM2hCNkpEa1l1X0xyRGN4MnpVaFUwLUk2MXhvSmgzdTNsN19ZZkhiWkFCbDNTMXk1bUdEakhRVko5NkVtRUpORmxZRzVlY2lJd0p5Ry1ic0V0ZnFnLWJYaEgzcTN5QQ?oc=5",
+          "description": "I droni russi sfiorano il treno degli europei al confine con la Polonia: “Avvertimento di Putin” repubblica.it Kallas: 'Il raid al treno ucraino voleva spaventare l'Occidente'. Merz: 'La pace è a rischio in Europa' ANSA Attacco russo al treno dei diplomatici, Rutte: “Putin agisce per disperazione” repubblica.it Kaczynski: «L'Europa è nel mirino di Mosca. La Polonia è pronta a una reazione congiunt",
+          "pubDate": "Sun, 13 Sep 2026 23:00:00 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Treno ucraino colpito da un drone al confine con la Polonia, evacuati su un altro convoglio Johnson e Petraeus. Kiev: «I barbari russi sono alle vostre porte» - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMFJpRFUyV2ladlhVUVMzNWc1ZGFGTmZHRTNvUDFLbWJ5eTE3YV92WnFpRW5iVWZSV3Z4QU5PbGY1NE9kX1RCMkxDeml3MTRrcHZ5OW5XNTN3UnAyY1hGSC04SFpOalM0TVNoQ3E4SE82VnIxV3pKZ2U1SXFCM3dOSFF5SVVDc2QtSGs3YUdrbHJnSktKTHZSdVFQT2JaUm42NkVDanZxZ2p6ZUdaeWlfV2NZY0F1U1hQd2RuY0V1U3c1cUtn0gHKAUFVX3lxTFBtU1VnMHFyYlk5SzNLa29hOFR2QjJIQ29lcXd0bXFJRDY3QklFNnFocGRuQkxXdkRkNkZxNk55YjItQ0RTTDNlWTl5eVc0cHFHSmNldzZQWDNXU0tNVnI1U3FjSkRTMm9NZHZESDRxM19SZmJCTkE1NmN6aHRMVlJSRUl2d1VPT0xiVzNxWkZ1NmtrTTJ5dkZuUGFFLWlKUldGc0tZR3YtVVZTTHJhRmJsUXM4dThrWXBvSGxzd0hlMGhFUXRpMjREYVE?oc=5",
+          "description": "Treno ucraino colpito da un drone al confine con la Polonia, evacuati su un altro convoglio Johnson e Petraeus. Kiev: «I barbari russi sono alle vostre porte» corriere.it",
+          "pubDate": "Mon, 14 Sep 2026 05:36:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "trump mail-in ballot corte suprema",
+      "label": "Corte Suprema Usa blocca restrizioni Trump su voti per posta",
+      "n_items": 4,
+      "n_sources": 3,
+      "category": "general",
+      "macro_area": "geopolitica",
+      "richness": 2,
+      "score": 20,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Live Updates: Supreme Court Rejects Trump’s Restrictions on Voting by Mail - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02M3JnSloyUUV1dWVJcFB2Z2ZCM05zYU9saEZMUnBTcHJTZE5mMzcwSXgxYXhTVWpIVXdlQWkxMnp3cEdDSU5FeWVUZGZpaVZqOGc0Q1l6UEFhUEd4eDdyWHdhcThCdGhPRnNacjhUQXZMS0toX1NQQlM2eWhpNTg?oc=5",
+          "description": "Live Updates: Supreme Court Rejects Trump’s Restrictions on Voting by Mail The New York Times The Supreme Court Recognizes the Danger of Trump’s Election Plan The Atlantic Why the Supreme Court blocked Trump and the Postal Service from restricting mail-in voting for the midterms The Conversation Supreme Court blocks sweeping mail ballot restrictions for midterm elections The Washington Post Suprem",
+          "pubDate": "Tue, 15 Sep 2026 02:22:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "La Corte suprema Usa boccia le restrizioni di Trump sul voto per posta",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/15/la-corte-suprema-usa-boccia-le-restrizioni-di-trump-sul-voto-per-posta_9ae19008-2341-497d-a86c-bce065c72162.html",
+          "description": "'Incostituzionale acquisizione di potere'",
+          "pubDate": "Tue, 15 Sep 2026 02:00:20 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "La Corte suprema boccia le restrizioni di Trump sul voto per posta",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/15/la-corte-suprema-boccia-le-restrizioni-di-trump-sul-voto-per-posta_10780754-26a5-4754-85fd-5a65b8d1839b.html",
+          "description": "Stop anche alla nuova norma per limitare visti a studenti e giornalisti stranieri",
+          "pubDate": "Tue, 15 Sep 2026 05:37:52 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
+          "link": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
+          "description": "The Trump administration had asked the court to lift a federal judge's temporary block on new rules for mail-in ballots.",
+          "pubDate": "Tue, 15 Sep 2026 01:15:15 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "unicredit commerzbank orcel berlino",
+      "label": "UniCredit-Commerzbank: Orcel incontra Klingbeil, Berlino frena ma non chiude",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "UniCredit - Orcel incontra Klingbeil per il dossier Commerzbank - Websim",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTThFUmJyOHlzdlI0VlJDc0J2cjhPaEliLU1CZG1nRC1QRXMxMWFzYkxGdDJqNlpZWEk1bUJSWTBQcHJjNTI1ajZMMG51Q1g1VW5XM0xXbkpIUlR0VkpScGs0YTRteXRpTTBpT2VaU19TcUVLUzZqT21XTlU2dUZ2cy0tSVNPZVFNd2tqTE5yajFyM2h1cF9yRUZlNjZqTGdHNDVn?oc=5",
+          "description": "UniCredit - Orcel incontra Klingbeil per il dossier Commerzbank Websim I paletti di Berlino su Commerzbank, Unicredit tratta repubblica.it Orcel, grato a ministro Klingbeil, colloquio proficuo e costruttivo ANSA Su Hvb-Commerz Unicredit è pronta a cedere su sede e borsa di quotazione Milano Finanza Min. Finanze tedesco parlerà di lavoro, credito a Pmi, Francoforte con Ceo UniCredit Da Reuters Inve",
+          "pubDate": "Mon, 14 Sep 2026 07:45:07 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Orcel, grato a ministro Klingbeil, colloquio proficuo e costruttivo",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/orcel-grato-a-ministro-klingbeil-colloquio-proficuo-e-costruttivo_3f91720f-e355-43fa-b223-835058096d7b.html",
+          "description": "'Entrambe le parti riflettano per procedere nell'interesse di tutti'",
+          "pubDate": "Mon, 14 Sep 2026 18:54:18 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "ai rischi estinzione leader industria",
+      "label": "350 leader industria tech avvertono: IA pericolosa come pandemie, rischia estinzione",
+      "n_items": 2,
+      "n_sources": 1,
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 3,
+      "score": 14,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'IA può portare all'estinzione, l'allerta di decine di ricercatori",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/-lia-puo-portare-allestinzione-lallerta-di-decine-di-ricercatori-_f2907c59-c053-4af7-b511-410cbb0bc59b.html",
+          "description": "Tra i firmatari gli ad di OpenAI e Google Deepmind, ci sono anche italiani tra cui l'esperto di tecnologie dell'informazione Luca Simoncini",
+          "pubDate": "Tue, 30 May 2023 17:55:51 +0200"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'allarme dei big, 'rischio estinzione con l'IA, è come le pandemie'",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/lallarme-dei-big-rischio-estinzione-con-ia-e-come-pandemie_3afde5e5-7bcf-464e-b3aa-aee6577a9b23.html",
+          "description": "Nyt riporta lettera di 350 leader industria, anche ceo OpenAI",
+          "pubDate": "Tue, 30 May 2023 14:12:41 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "medici famiglia sciopero 15-16 settembre",
+      "label": "Medici di base in sciopero 15-16 settembre: protesta su carichi orari",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "lavoro",
+      "macro_area": "societa-diritti",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Medici di famiglia in sciopero il 15 e 16 settembre: ecco perché - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZGRvZHM5UklVV2ZSamF2SEJFTlJZX3FMbkZJRzBOQ3FQUEZidTZwNUpSOHNBSDBLbGhyR0ZLVy11RU9RUkI3dWNEM0oyQTRlOERhdjloN3o5ejV2bjJfb1JLRUtiWGdjWTd5SXVmd3lCaTRHWUZQbl9tQzhZd2VaS1FYTE45M2N6cDN6cl9QcFFUSUNLeHIycUNzNA?oc=5",
+          "description": "Medici di famiglia in sciopero il 15 e 16 settembre: ecco perché Il Fatto Quotidiano Medici di famiglia in sciopero il 15 e 16 settembre. Smi: “Difendere dignità professionale e diritto alla salute” Quotidiano Sanità I medici di base in sciopero per due giorni: possibili disagi per i pazienti a Roma e nel Lazio RomaToday Sciopero generale Mmg: attivata la Continuità assistenziale Ufficio Stampa de",
+          "pubDate": "Mon, 14 Sep 2026 14:34:39 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Il 15 e 16 settembre sciopero dei medici di base, manifestazioni in diverse città",
+          "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/09/14/il-15-e-16-settembre-sciopero-dei-medici-di-base-manifestazioni-in-diverse-citta_badb5f05-a763-4627-99ad-69bae39ecc76.html",
+          "description": "La mobilitazione promossa dallo Smi contro il debito orario nelle case di comunità e il ruolo unico in medicina generale",
+          "pubDate": "Mon, 14 Sep 2026 11:56:17 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "emma bonino morte funerale stato",
+      "label": "Camera ardente Emma Bonino: bandiera Europa, funerale di Stato al Campidoglio",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "general",
+      "macro_area": "societa-diritti",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "La camera ardente di Emma Bonino, una bandiera dell’Europa sul feretro. “Era un esempio per tanti, di destra e sinistra” - Quotidiano Nazionale",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SSXcta1dXMm1IS2V2N3FrM3Y1UnBXZDFKYm5ycnRLYWFGbWxwQkx4ck84LThwYm93MXpQWkk4X21zdG1sLV84TXlRQS0wbDJOQXZQY0xHaHBJTUVmR0dfR1dXT0FRdTdmUjhsbkNJbERUTnM?oc=5",
+          "description": "La camera ardente di Emma Bonino, una bandiera dell’Europa sul feretro. “Era un esempio per tanti, di destra e sinistra” Quotidiano Nazionale Istituzioni e cittadini si preparano per l'ultimo saluto a Bonino in Campidoglio ANSA Veglia laica per Emma Bonino in Campidoglio: le rose rosse alzate al cielo, il saluto degli amici, l'omaggio di Saviano. Elly Schlein: «Ha aperto una breccia, dobbiamo alla",
+          "pubDate": "Sun, 13 Sep 2026 13:37:08 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Istituzioni e cittadini si preparano per l'ultimo saluto a Bonino in Campidoglio",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/09/14/istituzioni-e-cittadini-si-preparano-per-lultimo-saluto-a-bonino-in-campidoglio_5abbe410-3452-4273-bd6d-907dab231d91.html",
+          "description": "Mattarella e Meloni ai funerali di Stato laici. Tajani: 'Emma una combattente'",
+          "pubDate": "Mon, 14 Sep 2026 19:19:33 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "elezioni svezia centrosinistra ultradestra",
+      "label": "Svezia: centrosinistra in vantaggio ma ultradestra cala per prima volta",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Il centrosinistra in vantaggio in Svezia, ma è incognita per il governo - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbGwyUmZlMmo5VEoyd0ZKaEt0dDk4ZWZmLXZraXVaMjhRb0x3NEQxbUVMLUtnTWk2RktPb25Tc2p6V1FBcks1QV9vY2p6Vk5kQXlodjE2MTA4MHlWajN0U0hSSUg3ZWVrYlA3VDlEeEdxQVcwemxaR0JiNmJWVGlfUFpFejI5bzRfbzd4ODk4YlVOekdIX2hpemVVWEhWNk02TlRpam1zcm9tdFptS1M0QUFXbXQ3NWJPQnlKeWtneEZTSjhhZW9qRW9aT3dfUTBZbExUQ0RvY0tQZzdzeVJjWE5SYTZFXzc2VXphTWNfXzZiWV9FRzJGRnY3R2hFUdIBgwJBVV95cUxQQUg5Nm0tMjkwajl6R29KaWNEV2pFSHk3ZTNBTzdTX0RRdklHalUtMmRlaE1JZVhHekFXa3VBYUFOSXFPczhvZWJ6U09nWWZXNWRXSGRfcS1abllFVzFrMHJmTWZFZjVyQUNVYm9IbV91cEpOUGZWZWJGX0tOb1plSFdyRTBINzN2YXd1UDk0Y0JSVURrdFNpU0hydWo2dlhHZExtX00tMXY1UllGQ1ZhVUJVRllWeXF0SnZ5aE1fenI5N2Z3OGpOY1U2VDlvZjA3WExXZDk2RzVENmVXaklMMVVQYXQwUFBaMzNTYzNFaXRHNUVTRGNCR0llTnc4dnl5ZXRR?oc=5",
+          "description": "Il centrosinistra in vantaggio in Svezia, ma è incognita per il governo ANSA Testa a testa in Svezia, a metà dello spoglio si riduce la forchetta fra i due blocchi ANSA Svezia, il monopolio perduto sull'immigrazione. E per la prima volta l'ultradestra cala corriere.it Lazar: “L’estrema destra si può battere. Ma le paure dei cittadini non possono essere ignorate” repubblica.it Cosa ha frenato il pr",
+          "pubDate": "Mon, 14 Sep 2026 16:40:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Svezia, il monopolio perduto sull'immigrazione. E per la prima volta l'ultradestra cala - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZVhXZmVRTEt5b0J4UFotcUlVV0ZFT256d0xyX0NZd1BycHB6TWJoTENQQ0NGaWFFdW1hRU1Zd0NvYzkzSGtHLXRXTFVPaHpMZVh1d21ybUh5Z0pmdjFzdVpZX25kdFVKN3RBOEQzdFBIaFFFYTVTNlFGNkJzb2xZUXg1NlhlWlVldDdVZ2pWbF9ia1ZWNFZZS2dDbWxvRjJobGxEOXZ5M1ZoanlqQkMyZmV6TVk1ZUgtbnFXOWlUNXJNTDRnUG5ZTGhjcUVWYU5xSkxSZGV2NEtza0Ytbk9zaFRhcUFUakNVU2xnelctaVA5WUlXRXNGSGc2YXNhMW1HeGl3WHNB0gGLAkFVX3lxTE9SaTdwb1pISi1kYndZcjFkbXF6RDIxR0t1MS1kUTd5VzFpUUtpT2J0bnlJa2NIVC1MSnM3ekR0Umx2N0EtTWdFQVdzNFNrbGhWYjU5aWNPTklsVEpvUE05cXp1d1F6Tl9uSW5xcHNrQUpMNV9XYzNxb3IxeEdaMThENkxMWTZIa040TDRjVUVjSVRaM0hPaDBzRS1xbVljQy1rUENXUWN5M1lZVURQbTA3NTNiUDE4VlVtaHYwRW8wY2s1b05mV19WTlBZNG9ZTV9ZWXg0dEhkQzZiTmpYMjdxQ2lKY3A3enBRajA0TldUeTM0OWhERzVkc0xDTmI0dEdZUlZ4X3E3NTM5SQ?oc=5",
+          "description": "Svezia, il monopolio perduto sull'immigrazione. E per la prima volta l'ultradestra cala corriere.it Testa a testa in Svezia, a metà dello spoglio si riduce la forchetta fra i due blocchi ANSA Lazar: “L’estrema destra si può battere. Ma le paure dei cittadini non possono essere ignorate” repubblica.it Cosa ha frenato il pronosticato successo della sinistra in Svezia? Sky TG24 Le elezioni politiche ",
+          "pubDate": "Mon, 14 Sep 2026 20:14:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "canada carney ue accordo trump",
+      "label": "Canada punta a statuto associato Ue dopo rottura commerciale con Trump",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Wsj: Carney punta a fare del Canada un «membro associato Ue» dopo la rottura con Trump - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNanBzaE0yNFBtRm9abkM2dVE3LThIemhsY2o1VWk5RjZqdldpY2ZvbENrWUtyemRWWjFCUndDWHM4VVQ1OWcybXBrMVVEcWFfMG9maW9tVV9QSTlsTFNJWU9lV2lOei12SS1ja1huckJfRUlDaElqSU5sN2hndFlxbW92aG1sMzlHRGJvZXlwQlRiZURhUlp0QllpX1M2dU9iaDJXNlpR?oc=5",
+          "description": "Wsj: Carney punta a fare del Canada un «membro associato Ue» dopo la rottura con Trump Il Sole 24 ORE Canada “membro associato” alla Ue, la sfida di Carney alla Casa Bianca repubblica.it Dall’Erasmus agli investimenti congiunti: Ue e Canada lavorano a una storica alleanza La Stampa L\"audace iniziativa di Mark Carney per rendere il Canada un membro associato dell\"Ue Milano Finanza Nuova sede in Can",
+          "pubDate": "Sun, 13 Sep 2026 19:48:24 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Carney gambles on the world's biggest investors betting on Canada",
+          "link": "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o?at_medium=RSS&at_campaign=rss",
+          "description": "In the midst of a trade war with the US, the prime minister leveraged his connections in global finance to invite some of the world's biggest investors to Canada.",
+          "pubDate": "Mon, 14 Sep 2026 19:29:12 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "usa iran confronto aiea nucleare",
+      "label": "Scontro Usa-Iran al vertice Aiea: Teheran denuncia esclusione",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Scontro Usa-Iran al vertice dell'Aiea. Teheran attacca, 'ci hanno escluso' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMzNJRzVKMTluM3JBQU9qOGNtUF9XSEQyeGltd2xQREI0Vi1pU0M1OWZDU1NXamVmQk0wQXBMcnpyTVhKdEhhWk1UMnluNXdzVWdweU1qaUZlb3NrZmlOQ09EZHFEdTFHd1UyTVFvLW83bnZTQTJBZUJPU29DRUlZRWZsQjg2QXpob0VHRDVrMHctMG40Z1BIbHBLeUV1OXpyQ1NQZHhTWjhGRG9NM3p5T0lRQjd3Z1p2NzlfWUhjMy1veDNnY09tQ1FJQkFGNzR3bkJoVGVRQTZELXZkZXFLN2dEbld5Nmx6VTBHdmlVMmlXLTR40gH6AUFVX3lxTE81NDFyOExmOUNJMlpOTGJJdTFiYXlCTHlOU3hrSWVCNi1uRDdzeWhPT1pSeFladHpDd0RsQjlLUnhSTjM2Nkw1dGZCaWlhOXZld0ZRaHRLTkxBZlNUbW9uYzlIbFk0NjVJTTNJM1N1VmRiQVhxSURmbEJhY0VnaVA1aDF2UEFveWhKbXdkTGU1Q0p2S2lFcERpTlBQZkJRbGg2TzNITkRlTkd1eGpjTVVjVERTYzgxTkdiWnZiMEFydTdSYjM0TFJTRDRJdkcwbEE0SERnSU5tUHhWTFB0S1ZmRWNYSHFDbmtrenZIY1RMMFNJdGMzbzhOQmc?oc=5",
+          "description": "Scontro Usa-Iran al vertice dell'Aiea. Teheran attacca, 'ci hanno escluso' ANSA Guerra in Iran.Teheran: “Blocco capo nucleare dal vertice Aiea crea precedente”. Usa: “È sanzionato” repubblica.it Guerra Iran, Usa pronti a riprendere i colloqui sul nucleare. Media: escluso capo agenzia nucleare di Teheran da vertice Aiea Il Messaggero Media Iran, Usa hanno escluso il capo agenzia nucleare di Teheran",
+          "pubDate": "Mon, 14 Sep 2026 18:35:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Civili feriti in Arabia dai raid Houti, scontro Usa-Iran al vertice Aiea",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/14/scontro-usa-iran-al-vertice-dellaiea.-teheran-attacca-ci-hanno-escluso_81742225-921b-4776-8d91-926f15b02e28.html",
+          "description": "Washington: 'Il capo dell'agenzia iraniana sanzionato'",
+          "pubDate": "Tue, 15 Sep 2026 05:38:54 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "trump jr matrimonio oligarca russo",
+      "label": "Matrimonio Trump Jr sponsorizzato da oligarca russo amico di Putin",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "general",
+      "macro_area": "geopolitica",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Trump Jr. wedding celebrations were sponsored by powerful Russian businessman - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSVgtaUNadFRLTHlqUzd5bFRITWdFNXNMWENUSUpPdHJhSGkwVUtQYWJNVVhYZFhfMmFaSG1ueVJZR3hmWDFmak9EUHNXNlZZeWNKdi1DRWxyTjlTdjlQaFRIbTNla0ZYODdtODAwT1ZmQmgtVDh1ZGY2RGNiTFVxVmFiQ2ROaks4czlPSWJ5NTdjVWpRMHE0VlhfeE13dDc5ODFNd2ZocGFiSHJqbVRwLXVEcXpoajQ?oc=5",
+          "description": "Trump Jr. wedding celebrations were sponsored by powerful Russian businessman The Washington Post Donald Trump Jr.’s Bahamas Wedding Was Secretly Bankrolled by Russian Oligarch Close to Putin ProPublica Top Oversight Democrat wants answers on Russian oligarch’s role in Trump Jr.’s wedding yahoo.com Donald Trump Jr.’s wife defends wedding gift from Russian oligarch The Hill Trump Jr.’s Wife Says Ru",
+          "pubDate": "Tue, 15 Sep 2026 01:04:43 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Donald Trump Jr and Bettina Trump say Putin ally paid for some wedding festivities as a 'gift'",
+          "link": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o?at_medium=RSS&at_campaign=rss",
+          "description": "An Instagram post from the couple said two nights of their wedding festivities in the Bahamas were partially funded by Umar Kremlev.",
+          "pubDate": "Mon, 14 Sep 2026 22:56:44 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "xi jinping brics ia opensource",
+      "label": "Xi Jinping lancia Brics AI Open Source Zone per cooperazione alternativa",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Xi Jinping lancia la Brics AI Open source zone e rafforza la cooperazione alternativa all’Occidente - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbDAyRWMzOGV3Y0JzcDB1eEc3OHVwMUNpaGw2S29lSURmUG9QNlFaQ3ZkZGhyU2NoYmF1TldxWF92SDV5YWNNTkFKdGZMRjhiREQxcFVTLVdoMHBzamlBa1ZiUWFiYzNRc3RHeDMyVEJxal9uUG1MblFTVW82X1lOMm5mRkFuV0sxSC1yOWJzOF9GS0F4THpKUktPUUtqNHdwQU9KX1d3UTdETG1uWnhSTGRkcUlhZDZlUVVvRTYzUHNmX0RWT0VYMTJYSQ?oc=5",
+          "description": "Xi Jinping lancia la Brics AI Open source zone e rafforza la cooperazione alternativa all’Occidente Il Sole 24 ORE Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Sun, 13 Sep 2026 12:29:34 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "social media minori divieti piattaforme",
+      "label": "Social e minori: divieti non bastano, serve cambiare architettura piattaforme",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "diritti",
+      "macro_area": "societa-diritti",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Social e minori, i divieti non bastano: «Adesso bisogna avere il coraggio di cambiare le piattaforme» - Avvenire",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeTQxWmFfRXZBNGYtSG5jbUttRllVSjZNWTJNS2hpbDhhcEg1ZzF2bnBLeVF6TlNWQ0VkOUxGVlVpNkEzWGQ5UmJIVEUwUjRhOGF5aTI2ZU9UWmxXcXBXam1yaURMalRVeU02MXNQYjltNllMR1d6aHhrN2ZCRnphTGY2X3J4TElYc2tDTXpFNUFvS2dsTTdhWkZwamhhQUlaUlJ5bm9nNzRRdnRENzN1TmNOMXRxTWZENkVwTlUxb2VXbU9NQXc?oc=5",
+          "description": "Social e minori, i divieti non bastano: «Adesso bisogna avere il coraggio di cambiare le piattaforme» Avvenire Francia, Macron ci riprova: proposta nuova versione della legge per limitare social agli under 15 repubblica.it Il governo francese ha presentato una nuova versione della legge per vietare i social ai minori di 15 anni, che era stata dichiarata incostituzionale Il Post Smartphone e minori",
+          "pubDate": "Sun, 13 Sep 2026 17:00:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "west nile brindisino casi",
+      "label": "West Nile nel Brindisino: cinque casi confermati, scatta disinfestazione",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "salute",
+      "macro_area": "clima-salute",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-health",
+          "title": "West Nile, cinque casi nel Brindisino: disinfestazione anche a Carovigno - BrindisiReport",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcmlaMUd4b3pEWVNZa3hYV2I4VlJHSVZMeUtsajc5LUNpM1N4WFBZNnNaN2ZzT1hvMWVUUnVZekxIdkJ6NUxZb05TM2RCQmFpOXRlTTVzQnNHUF9yZHBZblhERDQ1UmhTMGdEYm1kX3dZeFpIZ285QnpxcVdjSldxeXV0bTduMXZhYnh2LWJTWERFd2k1NDlJ?oc=5",
+          "description": "West Nile, cinque casi nel Brindisino: disinfestazione anche a Carovigno BrindisiReport West Nile, allerta nel Brindisino: salgono a cinque i casi accertati, due donne ricoverate La Gazzetta del Mezzogiorno Paura per la febbre West Nile, allarme zanzare: sono già cinque i casi in provincia di Brindisi Quotidiano Di Puglia Allerta West Nile: rafforzate le misure di prevenzione nel Brindisino Telera",
+          "pubDate": "Mon, 14 Sep 2026 18:13:01 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "morbillo donna morte 40 anni",
+      "label": "Morbillo: muore donna 40 anni, quasi 700 contagi in Italia",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "salute",
+      "macro_area": "clima-salute",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-health",
+          "title": "Morbillo, muore una donna di 40 anni: quasi 700 contagi e 124 ricoveri - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONTZMWl96V3YzRHY4dGlRdGVORG10VUZQdnlxeUZ4a005RE5HS1N0ZlhDMXFnX2EtUVBLdDZ6dXBua1ZJUVVuMVgzdXZCaEp0MkdXNkhjaFM4WEZoVlZZWnFrYURGRmNYUDdOZmZ3YXpkM1hjTzdWNllXUnNCT0N6MVdpLW1INGY1ZGxpRXltQ0tlSDNsb2N5M0YxUUFqTDFSejhWdVN2bER1TU1YYkEzazc3MDRwM3JrYWEzclFYbGhITTV4UHc?oc=5",
+          "description": "Morbillo, muore una donna di 40 anni: quasi 700 contagi e 124 ricoveri Mondosanità Kennedy e le morti per morbillo negli USA butac.it",
+          "pubDate": "Mon, 14 Sep 2026 13:30:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "groenlandia presenza artica ue",
+      "label": "Ue rafforza presenza in Artico, 12 Stati dichiarano posizione su Groenlandia",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Groenlandia, la dichiarazione di 12 Paesi Ue: «L'Europa rafforzi la sua presenza nell'Artico, da Mosca la minaccia più grande». Nell'area la competizione tra Usa e Cina - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZkxyYm1iWm1hUGg5NUZHR1ZBMDZzV3ZFbUJZTVA2NjVqUW50M2NnMmh6WUFLMzk1Nmh5S1lmRWN6WGJrcmU2VkMyMzd2U2ZxYW5kdldsQ1ppMHFZUFBTRVg5bmZRU0w1d0tUWVVGZGNLVlo1OFZwOUhvUFlNZ2NYLU42Wlc0Q0Q5SXRKNzk1U3lHWUt3OFdfM1A4bG01ZjQ5YnR1SDlMdnJzRFlZcHFaRTBoVTdtMlZzcVBXQzNpQ1VLeGtPeHV1OFNqZ9IB0AFBVV95cUxOYlJjRTBUNFYycmtwS21sMkROV0plTVZSZzhtYXRzY0tXYmx1QUk1LVRlSjBvejBEVURxMTV1bkVRMlB1ZENDVTd2dGIzay1Ma09HMU5CTmtNVko5UGN3RzBKQ01adFMxTlRMam5HY3NUOVB6YUNhSDYxdFI0WEZseXBwMFVWekVGXzljZlpwQXZidDBabGdheE8wVHcyc0hmZGl2TjhOdUxONVh2bG1aWDZkU2hBQXV3d3oyR29zTGdlVDY1c3VVdTJ3VFBaRGp2?oc=5",
+          "description": "Groenlandia, la dichiarazione di 12 Paesi Ue: «L'Europa rafforzi la sua presenza nell'Artico, da Mosca la minaccia più grande». Nell'area la competizione tra Usa e Cina corriere.it Costa: 'L'Artico è regione strategica per tutta l'Ue, sicurezza in gioco' ANSA Kallas \"Geopolitica e clima ci spingono ad avere più rompighiaccio nell'Artico\" laprovinciacr.it Artico, 12 paesi a Ue:\"rafforzi presenza\" R",
+          "pubDate": "Mon, 14 Sep 2026 19:48:32 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "le pen elezioni francia 2027",
+      "label": "Marine Le Pen annuncia corsa all'Eliseo con programma populista",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "La corsa di Le Pen all'Eliseo parte nel segno del populismo: «I francesi vengono prima» - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNWnczU2dFOEJCMVhySGRRYmExSGRaUTdGZGRrOUFKdGhCOG5RTzdSSU1FR0VMT3p0NWJfYm9fY1N1bHVVZUNENzFIcWpCZmh6cnJMRnc1eTFSRVB2Z0QxTUZPLUllZXJaSkdNRF90cmZyN1R5aXpqWXMzOHc1SS1GYlNDcDIzNUpqYkNURTgwWXN4VHVmcWVQUEZDMU5HcnB6TmpTYmRfbkI1UDM1WElVQ2xiOC04M2ROWUxjZndoNmlhZ0s3Z1N1c2NZYmlkWmdydVd1S190RUttN2tObEVzYk5xVTlMdGFtMm01TU5rb0oyc0xjUGx5ZVJWTjU0eEdsaDQyeNIBigJBVV95cUxOQWRmTVo4dzRRUGJtTTN2ZFlXM0ZzX2dFc0t2eTdPdE8yRnVCYnl2N0xxZ256NkxKWUxqSnNMR1RlRS1hRU5pbkgxQ1hzajR4UVhTcUN3MHg3Q19DZElzbGVXSVJJUWtsYkJoSnBZWG5xUmtwbWVKMEtydXhCZDdkUUZKNm53UjFjZ1I4TG4yXzZFOW03LWQ3TllOQUo3V0t6X1pEa1NjbnVjeXVMS2E0TzBFeGNOT3FuTktyYVZrcE1uVWJYSG4xRF84ekRHakRXemFpaWZVNmZpcEFXTzFPNXBUZUxWUHA1dlJqNnQyTW5COGZWcjN4eXRZbUNuWmpPQW9YUEdGOVFVZw?oc=5",
+          "description": "La corsa di Le Pen all'Eliseo parte nel segno del populismo: «I francesi vengono prima» corriere.it Francia, primo comizio di Le Pen la destra francese ritrova la sua “padrona” repubblica.it Le Pen lancia la corsa all'Eliseo: \"Prima i francesi\" Il Fatto Quotidiano Marine Le Pen a Hénin-Beaumont: un comizio per far dimenticare le polemiche Euronews.com Marine Le Pen, 'le presidenziali sono una batt",
+          "pubDate": "Mon, 14 Sep 2026 08:48:01 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "ai abusi russia cina claude",
+      "label": "Anthropic denuncia: Cina e Russia sfruttano Claude per armi e propaganda",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-tech",
+          "title": "AI e guerra: ecco come Cina e Russia sfruttano Claude per armi e propaganda, gli abusi denunciati da Anthropic - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQXzBQWVdoRUI0SFdBYzV1Z0x6alNDS0wyYnZ2U2V1cGFSMmh3UHZSamh2WnlIeDc3cG4yX0xyM2I5Wk45emFqQk9JQlMtUXRqRHIyYTVtbmwwRXBGWllsbUJHRGNpZTM5LTBsYjlEUHFTR3VKTGlZV2dySkNCcF9ucTRhUDFocjZiYXh4Y0hpbkxhMW56R0FJSlJaNl95R2hhUm1qQ1kxTHdfWkpTcHdRRmVTc0tuZENkU2dn0gHAAUFVX3lxTE52VUpURXNzQ2tqcExLRTd3dG9IVFBPcmNMMVlWSHhjOHctSEloM28xV2Q1TG9GaGJ1ZHhQTGJpQmRMTEdmMXl3d20tMjZjaTdJMHlYVHFvV0FDU2MxcEVGMnhuZzE3NlI1cTlVcnA2RU15SUtRSnA4NEZINElrcUhBWVpLbmZuY290eElPXzVDbXAxSnJrc1pQdEpkTS1kOVdlZXZ6T1hvbWVXTzhITEt3UHR6OGpFU2VyRWhBSXZjeg?oc=5",
+          "description": "AI e guerra: ecco come Cina e Russia sfruttano Claude per armi e propaganda, gli abusi denunciati da Anthropic corriere.it",
+          "pubDate": "Mon, 14 Sep 2026 04:59:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    }
+  ]
+}

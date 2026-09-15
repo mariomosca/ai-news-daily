@@ -2,715 +2,610 @@
   "date": "2026-09-14",
   "top_topics": [
     {
-      "keyword": "trump ia sviluppo freno",
-      "label": "Trump contro rallentamento IA, Anthropic allarma sui rischi",
-      "n_items": 14,
+      "keyword": "ai rallentamento sviluppo anthropic",
+      "label": "Amodei (Anthropic): rallentare sviluppo IA per rischi seri",
+      "n_items": 13,
       "n_sources": 8,
       "category": "tech-ai",
       "macro_area": "tech-ai",
       "richness": 5,
-      "score": 132,
+      "score": 124,
       "cooldown": false,
       "items": [
         {
           "source": "google-news-it-top",
-          "title": "\"Sui rischi dell'IA vi hanno mentito\". La dura accusa del Ceo di Anthropic - AGI",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUnhvekpWcWVRV2xmeDBrZVZld3c2MURfVU1qR2VYSV92bDRjbW9LQno3M0l5Z0hJbEdkanVwM3dlX2UyMktPcnRGYjBsQ2JGdHAyLUl2Y1B1SEpEU2g4bHJqVm1RdjB5V0k4QjhJdC1MS3RxT3JiNEhzX3d4RlRzMWtxZTk?oc=5",
-          "description": "\"Sui rischi dell'IA vi hanno mentito\". La dura accusa del Ceo di Anthropic AGI Trump contro il freno all'IA, 'in azione forze negative' ANSA Chi controlla la corsa dell'intelligenza artificiale? Corriere della Sera La rivolta dei dipendenti che ha frenato Big Tech: “Rischiamo l’apocalisse” la Repubblica Ora i capi delle aziende di AI vogliono rallentare Il Post",
-          "pubDate": "Sun, 13 Sep 2026 20:44:38 GMT"
+          "title": "Trump: 'Contro l'IA c'è cospirazione, unico argine che serve è un presidente forte' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQcEtaeUdnNzAtNnFUdjFzY3cyLXB0MDR1VXhXTmhDSnZvNUhsQURQXzdrN3doc2dlTUdEem9yYjNqZzZZNHFxT0tqaGZUcURNT19EODBFQVl2N1F5YW9ua2NWMVJKZkUzcWEwZURvQ3FqYjF0UUN4Q0s1dHZxV1RHQVVqNERRcTVQNVRXbkRGZDhxOHBsb3VBYWp5V3RTMjhtTjRUWXhPS01QbFZWaEZHeV9BUHRCVUFKdVlReTM1VktkaFRlU3pHVDVIMjhrU045enFSeXVnc1FDWXdJSXBMY1FBZkI1Y1FpMTRxM2V1X1RxWVhHSXlCb19Pdk5nRlFkM2gzNGZ4LThoSTNLRXfSAZMCQVVfeXFMUDhRaXZfaHY5OWltR2cwem4weDg2UXBIZktNZ2dndlVWSzNfUy1CblA2Q3BOaFJxUjhBOHpiaUdDby1sWmp5RXotTXYwd2YxVW5Db3lQeUQxa1ZJV2x5TGpuek52b3gzTWVnNnd6dFVzelV1Vy1HM1ZxUnd2WXQ2UmlGdUVxdERNR2hUT0hteXA1WHBrTjQ5X0xHOW0yUnRJeU5oejNfTEo4WjVGWmtpYzZvSTlYWlVEQlZUZmNqc0MwRjQ0dlhQU2pCVmRCTTRXd0JwUFlCWXM3QnRjY2REWlZMTzRhbjdYWmloMG16NmRJNnZ3bmhUSVRHa2gwRWFLQ01UR2ROQ0E4cXhoMXZabFBmbWc?oc=5",
+          "description": "Trump: 'Contro l'IA c'è cospirazione, unico argine che serve è un presidente forte' ANSA Altman (OpenAi): 'Due modi per cui potrebbe andare molto male con l'IA' ANSA Sicurezza o partita di potere? Cosa c'è (davvero) dietro alla frenata dei giganti della SiIicon Valley sull'IA Avvenire IA, anche l’Onu chiede un intervento: “Può colpire al cuore le democrazie” la Repubblica Intelligenza artificiale,",
+          "pubDate": "Mon, 14 Sep 2026 14:30:00 GMT"
         },
         {
           "source": "google-news-en-top",
-          "title": "Trump resists AI slowdown as the political tide turns - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUC1sNlREa2ZpZmZkaklBb3dodW5GQV95czZiNVJCYXlhNlQxQXdpQ0pEWU5vZ3FsUVVEMzh0eUt1UVN0LXNvM2U5N0wtNVVkclVPbmRYZHBzanliXzhJMXZaUGp6MGthbWNoVUg2T3VSeFlIeVdNOFpwbmdrNkJZcENKd3ptaTVvakRlSDJWNUlMa1lOSG1MQkhzeHdVMXBYTVQ3ZHRRUXUwbkktZVAwRGFZZERhZk5rSEJudzhR?oc=5",
-          "description": "Trump resists AI slowdown as the political tide turns The Washington Post AI and the end of humanity? OK, ‘doomer’ says one Trump official CNN Trump downplays calls for AI slowdown NPR Trump Brushes Off AI Doomsaying to Guard US Lead Over China Bloomberg.com Trump downplays AI risks after dire expert warnings and calls to slow development down bbc.com",
-          "pubDate": "Mon, 14 Sep 2026 02:03:03 GMT"
+          "title": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM01tVUxzRUtNUHM5YmNCSmlMcVZ0VmJrQU5nWmsySTJXZFNnWEhZajZxTmFOLW8ybTd0Z0lxVEZQSlJLVjV1djJROUFleXBmeHRLeDlpTkowNkZTbDZrSGJPVXBRZ2k1MUJZYlR4VThnSUhTNkl6eWhlTTBZS012UnV0a3kyaVlU0gGOAUFVX3lxTE54dzQxUXo4aFdlV2NKVnY1aHczRlZOTDRnaWVxTHFRUEhqUXhCS25Nd2hYYlY4bFh2WFlaTGRJbVdLTzNGajl5Y2FNSWVUSnBrbzJobTllT1M2Z1VxUTFweFZjVmNaNU9pMnRVZ3lsMkNiWmgwUHpYby1mNEI5TlNEdDliRUc0VUgxQnM4aWc?oc=5",
+          "description": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei CNBC Trump says AI doesn’t need guardrails, only a ‘high IQ’ president NBC News AI Bosses Risk Clash With Wall Street and Trump Over Safety bloomberg.com Trump says he is only ‘guardrail’ needed to control AI as top Republicans join him in dismissing concerns – live theguardian.com Trump dismisses push for AI regulation de",
+          "pubDate": "Mon, 14 Sep 2026 14:09:03 GMT"
         },
         {
           "source": "google-news-en-top",
-          "title": "Top Lawmakers Agree A.I.’s Risks Are Rising but Say They Have No Quick Fix - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3NTenhlaVBsazZZaUR4TlFZSzl0VzY4aXZqa3BrZHRoQ3N6a3JpR3BpQW5Nc3kzUk5hV1Eydk10SlVLUDRvMDMxRHQ2TlBUVlUxUmp0ZGZzbzlySEIzZ2tWcG1JTzZrMHVLLWdqb2E5ei14d0MzY1FlQmxWSHYzWGF2bkFrRjRkX0ZPUV9LMA?oc=5",
-          "description": "Top Lawmakers Agree A.I.’s Risks Are Rising but Say They Have No Quick Fix The New York Times America’s Great AI Freakout Has Begun WSJ Washington scrambles to meet calls for AI guardrails while the window to act closes cnbc.com Tech companies must be primarily responsible for AI safety, Mike Johnson says Politico House Democratic Leader Jeffries calls on lawmakers to 'act urgently' on AI ABC News",
-          "pubDate": "Sun, 13 Sep 2026 20:49:16 GMT"
+          "title": "Dire warnings about AI shock Congress, but action is unlikely before the election - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON05rZXlwTktkLW5IQXUyZWZOWUt6MmZCWVRrb0dwSHdCcDY3X2ZORlBkdVdha0E0YXdmVElCSF8tRExNZEhQNUFzclhFLW1uUktVRDVRRUpoU1h0M291eWFNZ1NWbzNoMHU1eG05Rm1iaG9CNGZBYTFhX2pDZHl3ZW9kVFRKd3dvQjB0bGM5R2lOTUUxUEtGSW9sdG9reER3SWxyUnBZaHc?oc=5",
+          "description": "Dire warnings about AI shock Congress, but action is unlikely before the election NBC News As Fears of A.I. Catastrophe Magnify, Washington Stirs, but Mostly Slumbers The New York Times As AI rhetoric heats up, Congress stalls on action CBS News A fateful turning point for humanity and AI could redefine American politics CNN Schumer calls for classified briefing on danger posed by AI The Hill",
+          "pubDate": "Mon, 14 Sep 2026 09:00:40 GMT"
         },
         {
           "source": "google-news-en-top",
-          "title": "What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkpFQmZuWTRETkFIUVk1OE40VWt4UFVmNTlMV0YtcEVyWHZXTld2VnMweUV2Sk9pT1lqRVZnQlczbkE4dC0yOXdSMjFOZmZsVDI1YTdKb3RwamYxZFpFSi1xVWROak5BQlh4Zm9RcjMtek9uTFp4SG9Gd2RLZWdSZC0wLTk4STNKX3FUY09qQQ?oc=5",
-          "description": "What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown The New York Times Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears WSJ Some in Silicon Valley Are Questioning the Calls for an A.I. Slowdown The New York Times We Must Pace the Frontier darioamodei.com MU, SNDK, INTC, AMD: Chip Stocks Slide After Anthropic Calls For AI Industry Slowdown Yahoo Finance",
-          "pubDate": "Mon, 14 Sep 2026 01:04:20 GMT"
+          "title": "Tech stocks fall after calls for AI development to slow down - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aLW1RbW8xM1pIOUN4cHJQdDZ0Q3BCVGlxZUxRVTQyRzYwaWd4czdEME5vOTJZZ0I0cDFydmQxdXlxV3ZjQVdvc3hDNmFHd1NWSlJockRn?oc=5",
+          "description": "Tech stocks fall after calls for AI development to slow down BBC We Must Pace the Frontier darioamodei.com AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning Yahoo Finance AI safety fears, rising oil prices, a big season for prediction markets and more in Morning Squawk CNBC New warnings about the risks of AI to humanity revive a long-running debate Dallas News",
+          "pubDate": "Mon, 14 Sep 2026 13:57:03 GMT"
         },
         {
           "source": "ansa-homepage",
-          "title": "Trump contro il freno all'IA, 'in azione forze negative'",
-          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/13/trump-contro-il-freno-allia-in-azione-forze-negative-_3334a155-424f-4620-987f-e26b24d0c667.html",
-          "description": "Allarme di Anthropic: 'In 6-12 mesi può controllare Internet'. Altman rinvia l'Ipo di OpenAi",
-          "pubDate": "Sun, 13 Sep 2026 21:05:24 +0200"
+          "title": "Trump: 'Contro l'IA c'è cospirazione, unico argine che serve è un presidente forte'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/14/trump-contro-lia-ce-cospirazione-unico-argine-che-serve-e-un-presidente-forte_83bd1a9d-174d-4eb0-b6dd-c9f27b91c818.html",
+          "description": "Il tycoon critica Dario Amodei di Anthropic: 'Fa l'angioletto perfetto'. Vance: 'Le big dell'IA che chiedono regole al governo mi sembrano un cavallo di Troia'. Obama spinge i dem a un piano sull'IA: 'Se fossi candidato sarebbe la mia priorità'",
+          "pubDate": "Mon, 14 Sep 2026 17:50:36 +0200"
         },
         {
-          "source": "bbc-world",
-          "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-          "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-          "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
-          "pubDate": "Sun, 13 Sep 2026 18:49:37 GMT"
+          "source": "ansa-mondo",
+          "title": "Trump, 'gli Usa in vantaggio sull'Ia, non uccidete la gallina dalle uova d'oro'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/14/trump-gli-usa-in-vantaggio-sullia-non-uccidete-la-gallina-dalle-uova_e79a8b41-254d-47fe-bfbd-021d27b4143a.html",
+          "description": "Lo ha scritto il presidente Usa sul suo social Truth",
+          "pubDate": "Mon, 14 Sep 2026 17:35:58 +0200"
         },
         {
-          "source": "bbc-world",
-          "title": "Questions mount over what an AI 'slowdown' would look like",
-          "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-          "description": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
-          "pubDate": "Sun, 13 Sep 2026 18:20:22 GMT"
+          "source": "google-news-it-business",
+          "title": "AI, l’economista: \"La bolla c’è, ma investirci è razionale\" - quotidiano.net",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlZ0tDMTl6MlhVSTRtMDRoWHZIdnVSS0J4Z24td292T3pqR1A3QW1MZW1XekxjcnhuSF9mQ2w0VUVRNkVmQkExT2NaQUdncmdVM3Zvd0xOOGZMak4wdms4dkxvekZXdEN5T0sxS3VndHlOVDdHUThoVmNn?oc=5",
+          "description": "AI, l’economista: \"La bolla c’è, ma investirci è razionale\" quotidiano.net Il monito di Basilea sull’inflazione: mercati al bivio tra rendimenti e frenata tech La Stampa Le due linee VareseNews I bond per l’IA faranno concorrenza ai BTP e agli altri titoli di Stato? Morningstar Se la bolla dell’AI scoppia, ecco cosa rischiano i mercati Investing.com",
+          "pubDate": "Mon, 14 Sep 2026 04:14:24 GMT"
         },
         {
-          "source": "bbc-world",
-          "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-          "description": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
-          "pubDate": "Sun, 13 Sep 2026 09:05:10 GMT"
+          "source": "bbc-business",
+          "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+          "description": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+          "pubDate": "Sun, 13 Sep 2026 14:53:40 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "houthi attacchi petrolio golfo",
-      "label": "Houthi attaccano oleodotto saudita e navi, petrolio oltre 108 dollari",
-      "n_items": 6,
-      "n_sources": 6,
+      "keyword": "petrolio saudita oleodotto droni",
+      "label": "Attacco droni a oleodotto saudita, petrolio verso 110 dollari",
+      "n_items": 5,
+      "n_sources": 3,
       "category": "energia",
-      "macro_area": "economia",
+      "macro_area": "clima-salute",
       "richness": 4,
-      "score": 52,
+      "score": 31,
       "cooldown": false,
       "items": [
         {
           "source": "google-news-it-top",
-          "title": "La milizia filo-sciita silenziosa e tenace che vuole il Mar Rosso, chi sono gli Houthi - RaiNews",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdlBwbGF0dzlaR1oxU2ItMXJzZWllVVNZcVBBV1R2QWJFbXJRNXJtSEd0Ykl5a0RJRjAwX0JhY2lDTnhlV3JFSzhfTHVmRXRERC1jcFhyUS1ndy14YWg2d3dmQTRMYkhFMkhDX3VPaFJFc0Y5Tlk2QVpCNEc4b0VZLWtlZ1BfTUpqeTlKdnhGNHFaTmhDaXN1eENBZGU4ZUlkeFBHTlVpYzQyZnFCcjZyeE5KNFBfLWw5cTRiM2lxZklpb0tjeGgtMkdqRDVrQjhLem10MkRaelB4aHhfVEdTamE5Vl95aDBoYjlDVzBzaEw1c29WTmlzVk95MmPSAYICQVVfeXFMTTJ2R29pS0FZVnFxRnhESDhScm5hdlAtdkRrb0FlWDBwYWlWbnJabnprY05ERWtTQUlYNlZCZDRtdUpVLV9TVV9oQ0VYLXZuS3B6djFXYmVwMUpmbklCNnBvNjV1bTFwSjRxTFpFWl9ubEx4MklUaExfcFhFTXhmc3RDclphYUUtbE1RNnhDazZFQzZXMlEzNUVmU2owLUJUV3BIQXVLUXZiOXI5bjYwUUNPSHZTdVdpM2pzRS1IYWdJSS1PQVg0S0pKc3hJajI3WHlPV2hlUzJaMXd6NVpmcDE2cS1zTWp2TlFQaklwc0xISkxMaTZVLUREUW1iMmtKSWZn?oc=5",
-          "description": "La milizia filo-sciita silenziosa e tenace che vuole il Mar Rosso, chi sono gli Houthi RaiNews Nuovi attacchi Houthi, 'colpita una base militare saudita' ANSA Che posto è lo stretto di Bab el Mandeb Il Post Yemen, il conflitto nel conflitto ISPI Lo stato delle nostre scuole, gli effetti delle guerre sull’ambiente e le nuove regole sulle etichette dei prodotti green Il Sole 24 ORE",
-          "pubDate": "Sun, 13 Sep 2026 14:09:00 GMT"
+          "title": "Borse in diretta, petrolio oggi 14 settembre | Lo stop all'oleodotto saudita manda alle stelle il barile, gas ai massimi storici: la giornata (nera) dei mercati - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOV1JhUHVnNjRHQ0VkZHF0NFZVV3J5UzBWQm5kN2gwYlUxeUFWNFhBWkFCNVVLUjJGME54Vm9OM1pBc2VvbUNtNnhlbVppS2ZHbVdjSFdtOUwyMDdMRERGcVZRNl9xVGd4SFRmVks3ODd5M3lSd0FmYy0xbnpxYlRTX194LS1ZSW9LU29DWktYRThvaFhzUldUMlhHWmxHRHBNSDV2MzNfRTNIem1LNmhQYV9UbnFfQThOd2xnQWFUTXViLVNadHhMaFAzZGgwU2FtSVpOX21lQy1qTkhjZXFGVGdkRlBqVEFlbF9rMnQtdzg5UEw4ZVRxeDhQUzR5TldjcG5QNDRwcjhDNklqekoycDA2T3Vtc250SWphN0ViU0R4dTVuQ0JFWk5FWWbSAbICQVVfeXFMTU9UVnBxTXpoY01kcWp0Y2N1NEI2N3BFMEN6MFRvZHFuX3lNZkNSTktTY05NRkVSYWFLakc5a24zZDVNMm80VjdteVZzN0w2UkNzLTNKRzJtOFc2YXVoR29mMGpnSTFiVVJiQV9YYnFGcnozRVQ1SE54TWdjU3I4Uzdqam9GRTBycDNuajZCSERlZkotS21yc2hoaktJM3UtV2hOZUQ0ZXdQSVQzU1U5LTZsRERxb1oxQ0tOWHFTc0IzUEJJbUExUW9NYml4NlhrYkdfYnUxaXVkVmk1RXZ6SmN6d3BOMTBwR3JwalJ4bnJjckNJREQzRW96bEp3QmNka2lCN0tvcGZYdHJRVGJYTXhDQW1iVVJZemlULVl3MVVIODhuRWFzSWtNUnV5WGNqbTZ3?oc=5",
+          "description": "Borse in diretta, petrolio oggi 14 settembre | Lo stop all'oleodotto saudita manda alle stelle il barile, gas ai massimi storici: la giornata (nera) dei mercati Corriere della Sera Petrolio e gas ai massimi per lo stop all’oleodotto saudita. Giù le Borse La Stampa Oleodotto saudita chiuso per gli attacchi Houthi, vola il prezzo del petrolio - Il prezzo del petrolio continua a correre, Brent oltre ",
+          "pubDate": "Mon, 14 Sep 2026 13:18:00 GMT"
         },
         {
-          "source": "google-news-it-world",
-          "title": "Attacchi Houthi sull'oleodotto saudita, il petrolio schizza oltre i 108 dollari al barile - Petrolio sempre più caro, il Brent oltre i 108 dollari al barile - RaiNews",
-          "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNZE1OS3NERm1GbTNodE13LXdBeTdtYnpyeTZOaEx6NjI1RHlWSmFOOG92NnBIOC1zaXJXLW1ZM1ZBVTRsN0lnQ1Y1WTVlU1Z4SGZIdFNXbVNNQnY5RElHR1ZUbHpyeW5JZWNqMTFlRWhES0VmVUxwU0pySzJYVzl0WUlDVmRoNU9Dc0dPLW5SSUFXLURSaS11N09INEU4OGVjLVNxUmEtMFBuWE9uby0xakVJRS0zMjhXNENYSjNRZDQ2NU5TVkhqcjlSRExJY0VwdzF3R1YtZzltd2p6YklYVmJHSi0wQWNmRE10VjEzQTJ6a2EtVTlzNEEycER5RkVmTnNPYWpvWnJiTUEtam9qZzVDLW9CSkdydTBhV2p6Z2txZkZLeVVWc1NWUXFUajZvSW9hVUlpWdIBvAJBVV95cUxPeWcwTHk5dEpGM01VWHpDOVRIbGJ2WFprUHVGalpVcUR6M29ZU3dKb29SRldPazVpaXNtMFp3dGdYVG5ONFhKejNzVFdxajhfQWRFY1J1NkZGS3BZNUxlSlp0MzlzX1FZTnNQc3c2R2VyWFhXSTNrWGRMVDdxbVRzTXNhNUZES0dBNzhDSUJtTzd2OFFPbDBsVWlsdVNrWWxDeGg0QVpTaWdELWNEd3k1ZnFoRkxYbmVIMWRidHJRYm1abnEybm5DOWM0S0dmWjJ0LU1VMS11MUJ2TnFlQVdBSDFvdlF4RUQ5MDg2X2RTLTI3dWtqYnk5bF9faGhnV2pzbUVwOTQ5VTY5WFhjdERhREhjc3NPOG0yRjRzZkVyZ3RkdUw2eEFsQVVkMzF0SWdFeHd0a2c0Y2EzRzUx?oc=5",
-          "description": "Attacchi Houthi sull'oleodotto saudita, il petrolio schizza oltre i 108 dollari al barile - Petrolio sempre più caro, il Brent oltre i 108 dollari al barile RaiNews L'Arabia Saudita nell'angolo «abbandonata» da Trump: tutte le fragilità del regno che per mezzo secolo ha garantito stabilità al mercato del petrolio Corriere della Sera Meno petrolio saudita dopo gli attacchi scatta l’allarme rincari ",
-          "pubDate": "Mon, 14 Sep 2026 02:05:24 GMT"
-        },
-        {
-          "source": "ansa-homepage",
-          "title": "Nuovi attacchi Houthi, 'colpita una base militare saudita'",
-          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/13/nuovi-attacchi-houthi-colpita-una-base-militare-saudita.-raid-su-una_fcbcc1e8-e0d9-4591-93d1-a010cfe58a1f.html",
-          "description": "Raid su nave iraniana a Hormuz. Con lo stop all'oleodotto di Riad, a rischio il 4% del greggio globale",
-          "pubDate": "Sun, 13 Sep 2026 20:48:41 +0200"
-        },
-        {
-          "source": "ansa-mondo",
-          "title": "Il Messico torna a sussidiare il diesel al 100%",
-          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/14/il-messico-torna-a-sussidiare-il-diesel-al-100_fd7bdc90-60e8-4ba4-9771-3dd65500024b.html",
-          "description": "Prezzi record negli Usa e tensioni in Medio Oriente agitano i mercati",
-          "pubDate": "Mon, 14 Sep 2026 05:10:53 +0200"
+          "source": "google-news-en-top",
+          "title": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTlTdWlFZF9mNl9uX3pCWHd0QXVWb0dEaXlGaXhLa3l4ek9PbWFhRG02VXJDMW1BT3FxUkp3MzZtdEd2ZHQ4cUswbkpfX1ZnVkxuQ3pValFrY1BTRHlyZjdaLXJqTW1VcXhzajBuSUFIbXdxamdqOTcxeFp2MERjcU9lQWVXaHhETnJweXZRdWp6UWNHQUxjdWc2NA?oc=5",
+          "description": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow AP News Saudi Arabia Faces ‘Worst-Case Scenario’ After Iran’s Attacks and Trump’s Rebuffs The New York Times Strikes close key Saudi oil pipeline as Trump says Houthis ‘asked US not to bomb’ The Telegraph Satellite images show extent of damage to Saudi Arabia’s oil pipeline that bypasses Strait of Hormuz CN",
+          "pubDate": "Mon, 14 Sep 2026 14:57:00 GMT"
         },
         {
           "source": "ansa-economia",
-          "title": "'Lo stop all'oleodotto saudita minaccia una perdita del 4% dell'offerta globale di petrolio'",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/13/lo-stop-alloleodotto-saudita-minaccia-una-perdita-del-4-dellofferta-globale-di-petrolio_4955ac72-336a-4426-b29d-eca685350f42.html",
-          "description": "Le scorte di Riad dureranno pochi giorni",
-          "pubDate": "Sun, 13 Sep 2026 17:12:32 +0200"
+          "title": "Il petrolio in rialzo a New York a 104,14 dollari",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/il-petrolio-in-rialzo-a-new-york-a-10414-dollari_c80abd3b-042c-4eff-b4de-2b1c83045745.html",
+          "description": "Quotazioni salgono del 4,13%",
+          "pubDate": "Mon, 14 Sep 2026 15:07:06 +0200"
         },
         {
-          "source": "google-news-it-tech",
-          "title": "Yemen, gli Houthi hanno tentato di usare Claude per sviluppare software per missili - Tgcom24",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcmtFQ2JndDZEVE9PLVZNOGV0VGNQQ01qY3FxdHMzVkIycDBXT0hsTEwxVlRjVklaQnVrSU5UcG5JOG1vTGt1SkxXMXk5S2xQQVJyNGJJYjVwWmItXzZwb0xPdEEwMXhxLTBhY2p3ZFVHQnUyRk5GQjl1eEZDMnliZVdpM1hucTBkZmRFVkNScWM0VmwxSlVR0gFoQVVfeXFMTWJGaVNUdzJKSkZUUVlDbjlGaEY1TFdFRlNSZHRhXzMxbHVfLWFMWDNiVHk0eVowS1VnOFJ0U0x1ekcxZGwyTncySlI5YzhWV2p2aUZxdEFkOUw3Xy1Xd2RtZ2p1QjRDN1E?oc=5",
-          "description": "Yemen, gli Houthi hanno tentato di usare Claude per sviluppare software per missili Tgcom24",
-          "pubDate": "Sun, 13 Sep 2026 09:32:51 GMT"
+          "source": "ansa-economia",
+          "title": "Borsa: l'Europa in rosso guarda al Medio Oriente, Brent verso 110 dollari",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/borsa-leuropa-in-rosso-guarda-al-medio-oriente-brent-verso-110-dollari_d9c8746a-5ee3-4124-9d18-6fa3e98cfe2f.html",
+          "description": "Piazza Affari (-1,5%) maglia nera in Europa. Lo spread tra Btp e Bund a 88 punti",
+          "pubDate": "Mon, 14 Sep 2026 14:16:24 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Petrolio e gas senza freni, il Brent oltre 107 dollari",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/petrolio-e-gas-senza-freni-il-brent-oltre-107-dollari_2a42bad3-f99a-4f69-96c3-b754bcfcfadd.html",
+          "description": "Il Wti a 102 dollari. Il metano sale del 5% a 83,56 euro",
+          "pubDate": "Mon, 14 Sep 2026 12:28:43 +0200"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "ucraina russia raid treno polonia",
-      "label": "Raid russo su treno al confine Ukraine-Polonia, allarme diplomatici",
-      "n_items": 6,
-      "n_sources": 5,
-      "category": "general",
-      "macro_area": "geopolitica",
-      "richness": 4,
-      "score": 46,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-top",
-          "title": "Attacco russo al confine tra Ucraina e Polonia: gli aggiornamenti - Tgcom24",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSWxZU3lDQ3UwMXdWSmVfZU13ZXhxcWF6ZV9iYWdwU0lDUThNaUZybElBLUE3MUY0YVZUQVhzQ0ZXcHNEZUsxZ1RQSi1BZzJ3WlhvdTJDMzRJbVREckN4dkRPSFdicmVGQlFPaEhaLUVsQjJTMnVhcktERTFlSlRDeFkxWHIzc052MF9JSmJCcXVwdVlGTGlOVG5SY3d4T0Q4RUVVRUgxRmtveU5YZ0xZRQ?oc=5",
-          "description": "Attacco russo al confine tra Ucraina e Polonia: gli aggiornamenti Tgcom24 Raid russo vicino alla Polonia, 'nel mirino un treno per Varsavia' ANSA Guerra Ucraina-Russia, le notizie in diretta | Raid di Mosca al confine con la Polonia, colpiti un treno e una stazione di servizio. Fermato il convoglio su cui viaggiavano Boris Johnson e diplomatici europei, tra loro un italiano Corriere della Sera I d",
-          "pubDate": "Sun, 13 Sep 2026 20:31:00 GMT"
-        },
-        {
-          "source": "google-news-it-world",
-          "title": "Guerra Ucraina-Russia, le notizie in diretta | Raid di Mosca al confine con la Polonia, colpiti un treno e una stazione di servizio. Fermato il convoglio su cui viaggiavano Boris Johnson e diplomatici europei, tra loro un italiano - Corriere della Sera",
-          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQOWVDNk42UVc4M2MyaHpUNWpPVmlYcEtHWTFSX3lCX0oyaW9PQWhjM0pyZDBocnhmREdxb0VkZkJlcXh0Wld5bUhIcXB6RTROWGg4YW80Umx5RG5qVUE4eVl1TWkxVlkyWW11d2ZLejJHeGpBeVhGd29Nak1YVlRwNGw3cTY1eEFFNXdPSFhLNGgtZFdTeTIxcVNsSHdLRGJQZ0g4c0xwU2JuVGphb21IanVNUTkwNUJfOUtfNzFZVnVPWHZnWkNSZjJ6MzI1aDhUclRhaHBWWTZyUDlZYkdrMVAzZURtVWxMRE5LVUE5ZXJzNTVud0dTTlJxNi04NEJtbXk3YmE0a2lDQ3hrT1VJU0pVQdIBmAJBVV95cUxQWGZObDlvZVdWY0JZZURESGpvUDNQb3F5QjhwbFB1WkF0ZHdSdkdXSF84Q0tPdGlXMk1ONG0yTWh4ZnZkNmFuYi1kQl9TZlBneGZXdm0tZEU1ay0wQ0VYRnp3SHBlNS1kLXpWTUZfenlJQlR3QUZKZEJpaERtUnpzTm1oN3IzcEtnY1d0d3RUNzNsWlFBdmtQbHUtWmJfRk1NNVU1TXZwLVdpOFRVX0VxenEtdG5iOXQ3TWxXeTdaajRLTklGdWxUZzRBT1Q3NVlySzdJZ19hVjdtODVMUTZBNDdUX1pzd2wzTGI5YUJfN2trb1RpWlJPc1RRTFU2SDRyOXM1c3NkWVBxWFBEZm9wVDF2MVI1Zjkw?oc=5",
-          "description": "Guerra Ucraina-Russia, le notizie in diretta | Raid di Mosca al confine con la Polonia, colpiti un treno e una stazione di servizio. Fermato il convoglio su cui viaggiavano Boris Johnson e diplomatici europei, tra loro un italiano Corriere della Sera Visualizza altri titoli e punti di vista su Google News",
-          "pubDate": "Sun, 13 Sep 2026 18:59:00 GMT"
-        },
-        {
-          "source": "google-news-en-top",
-          "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station - bbc.com",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56MUFXcDBJY3RjNktKU2pYREZQRmJnWExKSHJiQk5SSTR5UmsxbEx1ZFUzWUkteHNXU2xFRzhrQS1zdm1lN0MxdElzNVg0bnhjQ3FzMGtpNkkzUQ?oc=5",
-          "description": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station bbc.com Train carrying Boris Johnson and ex-CIA chief may have been targeted in Russian strike, officials say The Guardian Russia hits Ukrainian train shortly after Boris Johnson leaves station aljazeera.com Russian Strikes on Ukraine Hits Near David Petraeus, ex-C.I.A. Chief The New York Times Russia ",
-          "pubDate": "Sun, 13 Sep 2026 19:14:21 GMT"
-        },
-        {
-          "source": "ansa-homepage",
-          "title": "Raid russo vicino alla Polonia, 'nel mirino un treno per Varsavia'",
-          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/13/attacco-russo-al-confine-con-la-polonia-fermato-un-treno-con-consiglieri-di-sicurezza_dbc566df-ea39-4fa7-8f16-24d21a994204.html",
-          "description": "Paura per i diplomatici europei. Trump frena Zelensky: 'Stop agli attacchi sulle raffinerie'",
-          "pubDate": "Sun, 13 Sep 2026 20:46:21 +0200"
-        },
-        {
-          "source": "ansa-mondo",
-          "title": "Fonti italiane, fermato e non evacuato il treno su cui viaggiava Fabrizio Saggio",
-          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/13/fonti-italiane-fermato-e-non-evacuato-il-treno-su-cui-viaggiava-fabrizio-saggio_2958a8db-5347-4667-acf8-7debd4736d3e.html",
-          "description": "Il consigliere sicurezza nazionale era sul convoglio diretto dall'Ucraina verso la Polonia",
-          "pubDate": "Sun, 13 Sep 2026 19:35:48 +0200"
-        },
-        {
-          "source": "ansa-mondo",
-          "title": "Tusk, 'l'escalation delle azioni russe sta diventando realtà'",
-          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/13/tusk-lescalation-delle-azioni-russe-sta-diventando-realta_7ca5cb64-ddda-40da-b6c6-46a4199bd296.html",
-          "description": "Premier polacco: 'Non escludiamo che possa estendersi anche al nostro territorio'",
-          "pubDate": "Sun, 13 Sep 2026 19:36:19 +0200"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "iran usa tensioni guerra",
-      "label": "Tensioni Iran-Usa: nave iraniana colpita, negoziati rinviati",
-      "n_items": 6,
-      "n_sources": 5,
-      "category": "general",
-      "macro_area": "geopolitica",
-      "richness": 4,
-      "score": 46,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-top",
-          "title": "Le notizie sulla guerra Usa-Iran di domenica 13 settembre - Corriere della Sera",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVkhUUWU2UGh6TS16UzlkXzgwZUhpNllDU2N5VmdHSmJlWDhCb0gwZlA4ZWhEWFRuVndNV1RBdFMwb2tWaFZETDZtYVQzdDlqd0hQV3RFV3pxdnRIeW1PUDU0bl9KNGRXNGFTMnlvRmhlVVlLT25saHRyODRjZVktY1JwMkZEbmVCZ2h5TnE1bw?oc=5",
-          "description": "Le notizie sulla guerra Usa-Iran di domenica 13 settembre Corriere della Sera Che faccia ha Hamas nell'inchiesta di Haaretz Il Foglio «Netanyahu ha paura: l’inchiesta sul 7 ottobre può sconfiggerlo» ilmanifesto.it \"Netanyahu fu avvertito dagli Emirati dell'attacco che Hamas stava preparando per il 7 ottobre\" RaiNews Netanyahu e il 7 ottobre: avvertimenti ignorati e guerra permanente come strategia",
-          "pubDate": "Sun, 13 Sep 2026 15:18:44 GMT"
-        },
-        {
-          "source": "google-news-it-world",
-          "title": "Guerra Iran, oggi diretta: colpito mercantile iraniano a Hormuz - Tgcom24",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUXpuOG1VSjNFa1FNR056Y2YxSVMxZGdIYTEtVnRaem1tal9aVEs0dk9PTjNqSFhkQjlTVUJaMlVnbkxCaDk3a01zdlVMODZ3Mko1UlZoQUdDVVZZYUJoVWdrRW51bFlhQXlOV3J2REl5U2UtNDVKMUJ6bkxxTFJ3bjZLR1FFUHNzcWc0WGJpbGMtUmtTYXRsYkNmOGd6c3o5S1VhNkt2Z2FocDQ0a3ZONlR3?oc=5",
-          "description": "Guerra Iran, oggi diretta: colpito mercantile iraniano a Hormuz Tgcom24 Le dichiarazioni di Trump sulla guerra tra USA e Iran che potrebbe finire dopo le elezioni di midterm: collegamento con Mariano Giustino da Ankara Radio Radicale Trump alla frutta. \"Il prezzo del petrolio crollerà dopo le elezioni di Midterm\" HuffPost Italia Vance non crede più a ciò che gli raccontano della guerra con l’Iran ",
-          "pubDate": "Sun, 13 Sep 2026 20:45:00 GMT"
-        },
-        {
-          "source": "google-news-en-top",
-          "title": "Hormuz Meeting With Iran and Gulf Nations Delayed, Oman Says - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWG16MGlLTHpTd3B2dWZfai1GVzJJQ2QxVHdVN3lMcl9oZ1o2eEZYNUJfeE1TTm9yVGRTZ1ZGcUJSR1BsOEhycHZUVmh6ZnU3bEdUallFRWJnUnBGY1ZqM2w3bzZFUTh0Q3d1UUJacVZVVGZYeHpIUFB4Y3UxYVJvWUlUYU5jbm1jVjBMQTBOZlVzdkNSWVBzdkdnNFJxNHZqMnh5VnlwanJRT1pOXzBzYWhR?oc=5",
-          "description": "Hormuz Meeting With Iran and Gulf Nations Delayed, Oman Says Bloomberg.com Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed aljazeera.com Diplomacy stumbles as meeting on Hormuz between Iran and Gulf states is postponed The Times of Israel Diplomacy stumbles with postponement of meeting on Strait of Hormuz proposal Reuters Meeting Between Iran, Arab States Postponed as Mideas",
-          "pubDate": "Sun, 13 Sep 2026 20:04:23 GMT"
-        },
-        {
-          "source": "google-news-en-top",
-          "title": "Iranian cargo ship is struck, and talks between Tehran and its neighbors are postponed - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMG04XzJlaFg3N0hjVGVucURCODFNSFJKYkdZaHY0aWZxMWJCXzlPY1pGOUNrWHRhWkc3NnJXQms3X1ZxaHBxOTBHTUZVNUFWWXBJV0hLcG9PaEg0Nm9VaTQxbVNfallyV0ZhVzlfMGpqaWMwLTV2ZmYwRGZYNm9EUzFLMnMzZkREbzRlR1JqR0tBd1Fs?oc=5",
-          "description": "Iranian cargo ship is struck, and talks between Tehran and its neighbors are postponed apnews.com Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive cnbc.com Iranian cargo vessel struck near Qeshm Island as Oman delays Tehran-Gulf talks France 24 Iran says 1 killed on commercial ship in Strait of Hormuz; Houthis target Saudi Arabia Fox News New attac",
-          "pubDate": "Mon, 14 Sep 2026 01:17:00 GMT"
-        },
-        {
-          "source": "ansa-mondo",
-          "title": "Oman, 'annullato incontro previsto per domani tra i Paesi del Golfo e l'Iran'",
-          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/13/oman-annullato-incontro-previsto-per-domani-tra-i-paesi-del-golfo_a205a6e5-850d-4f04-8cb0-86fc26966948.html",
-          "description": "'Rimaniamo impegnati a favorire un dialogo che supporti la stabilità e una cooperazione'",
-          "pubDate": "Sun, 13 Sep 2026 21:32:06 +0200"
-        },
-        {
-          "source": "bbc-world",
-          "title": "Iran war reshapes Brics ties but also exposes divisions",
-          "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-          "description": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
-          "pubDate": "Sun, 13 Sep 2026 11:23:42 GMT"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "svezia elezioni centrosinistra",
-      "label": "Svezia: centrosinistra avanti di un seggio, ultradestra in calo",
-      "n_items": 6,
-      "n_sources": 4,
-      "category": "general",
-      "macro_area": "geopolitica",
-      "richness": 3,
-      "score": 36,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-top",
-          "title": "Svezia, centrosinistra avanti di un seggio, ultradestra in calo. Rebus governo - ilsole24ore.com",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdW5neDJjSkc1X3k2TGtnUldjeFhXb1Q0ZVFzZ29yNUc4c2lGM0s0SWhYVkRQSnVJZWM3cV8zNnVkclZDaWVqaXR1Szl5TGwzRXlHTEJRZlMxamZyS2tLYV9iUTVtNG05LUozUjJRLUs0QzA0QlhuYWZXZnJLazZOcGdXR18zSV9LSmpZZ0FVYjVhdm1ScGFZYVZIaDhZUQ?oc=5",
-          "description": "Svezia, centrosinistra avanti di un seggio, ultradestra in calo. Rebus governo ilsole24ore.com Testa a testa in Svezia, a metà dello spoglio si riduce la forchetta fra i due blocchi ANSA Elezioni in Svezia, sfida all'ultima scheda. Ma l'estrema destra perde voti Corriere della Sera Il paradosso svedese. Il Pil sale, gli immigrati calano e l'estrema destra è a un passo dal potere HuffPost Italia Al",
-          "pubDate": "Mon, 14 Sep 2026 00:11:52 GMT"
-        },
-        {
-          "source": "ansa-homepage",
-          "title": "Testa a testa in Svezia, a metà dello spoglio si riduce la forchetta fra i due blocchi",
-          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/13/testa-a-testa-in-svezia-a-meta-dello-spoglio-si-riduce-la-forchetta-fra-i-due_67ebcf47-ae70-4098-a85e-39d37a0324f1.html",
-          "description": "Il centrosinistra in vantaggio di un solo seggio. Esito finale ancora incerto, secondo la proiezione della tv pubblica svedese Svt. Arretra l'ultradestra",
-          "pubDate": "Sun, 13 Sep 2026 23:51:27 +0200"
-        },
-        {
-          "source": "ansa-mondo",
-          "title": "Leader opposizione Svezia, 'pronti a governare, attendiamo risultato finale'",
-          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/14/leader-opposizione-svezia-pronti-a-governare-attendiamo-risultato-finale_942638ca-fb04-40e7-92c3-260c835b1f24.html",
-          "description": "Andersson: 'Noi socialdemocratici sempre pronti ad assumerci le nostre responsabilità'",
-          "pubDate": "Mon, 14 Sep 2026 00:31:44 +0200"
-        },
-        {
-          "source": "ansa-mondo",
-          "title": "Svezia, a metà dello spoglio si riduce la forchetta fra i due blocchi",
-          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/13/svezia-a-meta-dello-spoglio-si-riduce-la-forchetta-fra-i-due-blocchi_8dbb4843-cdb4-4ea5-a58f-68138efee51e.html",
-          "description": "Centrosinistra in vantaggio di un solo seggio. Esito finale ancora incerto",
-          "pubDate": "Sun, 13 Sep 2026 22:54:01 +0200"
-        },
-        {
-          "source": "ansa-mondo",
-          "title": "Il centrosinistra di Andersson in testa in Svezia, arretra l'ultradestra",
-          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/13/il-centrosinistra-di-andersson-in-testa-in-svezia-arretra-lultradestra_ee3df416-e3b1-4af8-b988-f714c52fd9fd.html",
-          "description": "Secondo i primi exit poll la coalizione a guida socialdemocratica è al 51,3%",
-          "pubDate": "Sun, 13 Sep 2026 20:15:02 +0200"
-        },
-        {
-          "source": "bbc-world",
-          "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
-          "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-          "description": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
-          "pubDate": "Mon, 14 Sep 2026 01:58:59 GMT"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "governo italia ecobonus 65%",
-      "label": "Governo italiano innalza ecobonus al 65% per infissi e climatizzatori",
+      "keyword": "svezia elezioni governo",
+      "label": "Elezioni Svezia: sinistra avanti ma stallo sulla formazione governo",
       "n_items": 4,
       "n_sources": 4,
-      "category": "economia",
-      "macro_area": "economia",
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
       "richness": 3,
       "score": 28,
       "cooldown": false,
       "items": [
         {
+          "source": "google-news-it-top",
+          "title": "Elezioni in Svezia, l'estrema destra perde voti ma è stallo sul governo - Europa Today",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV2JSTmR6dU0zNmZ6cG04WUhCSTBDb01YZVBnaFZlcmhBS0tEcFNSN1pSR2EzYWxjYWJWTEgyVktTYUF0WVF0UHJnUkN2eWJFUEItV1ZvLVR6bXJQU0ZJaTJobHFSYzRiZXNJYXk4MW5pOWpMQ01LdmRtTThIWVh6bw?oc=5",
+          "description": "Elezioni in Svezia, l'estrema destra perde voti ma è stallo sul governo Europa Today Svezia, anche i socialdemocratici scelgono la linea dura sui migranti Il Fatto Quotidiano Come l’immigrazione ha influenzato le elezioni svedesi Internazionale Svezia, testa a testa al voto politico Tv2000 Il centrosinistra in vantaggio in Svezia, ma è incognita per il governo ANSA",
+          "pubDate": "Mon, 14 Sep 2026 04:08:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Svezia, anche i socialdemocratici scelgono la linea dura sui migranti - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQXFCY3hsSl9UYlFxQmRGMXNYeWxpRlBfdmVWZlFEdlhJeWE3aDhuRS1yaFY3MW9hQnZFcVluNExjOUtseTYzVTlEbkdxWmprMDVLQlphOTRYZVlLQVI1RGVPUlBNa0ZmdFN1azAtbnlvV1Fpal9zRFZCX2ZacllZTDJyVkVSS0x2dFhsbmJiSXdNRHB3c09zT3hFb1dGZmVVT0NsMk1oaHZDcXJI?oc=5",
+          "description": "Svezia, anche i socialdemocratici scelgono la linea dura sui migranti Il Fatto Quotidiano Come l’immigrazione ha influenzato le elezioni svedesi - Annalisa Camilli Internazionale Svezia, testa a testa al voto politico Tv2000 Il centrosinistra in vantaggio in Svezia, ma è incognita per il governo ANSA In Svezia s'è fermata la marcia della destra radicale: cosa succede adesso Avvenire",
+          "pubDate": "Mon, 14 Sep 2026 11:39:17 GMT"
+        },
+        {
           "source": "ansa-homepage",
-          "title": "Il governo punta su ceto medio e giovani, l'ecobonus sale al 65%",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/13/il-governo-punta-su-ceto-medio-e-giovani-lecobonus-sale-al-65_e126b138-8e64-45fd-a13e-94588b25e07e.html",
-          "description": "Verso il riordino di contributi e bonus benzina. Paletti di Giorgetti sul debito",
-          "pubDate": "Sun, 13 Sep 2026 21:14:23 +0200"
+          "title": "Il centrosinistra in vantaggio in Svezia, ma è incognita per il governo",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/14/il-centrosinistra-in-vantaggio-in-svezia-ma-e-incognita-per-il-governo_942638ca-fb04-40e7-92c3-260c835b1f24.html",
+          "description": "Con lo scrutino al 94% l'opposizione è su di tre seggi",
+          "pubDate": "Mon, 14 Sep 2026 17:17:56 +0200"
         },
         {
-          "source": "google-news-it-business",
-          "title": "Il governo punta su ceto medio e giovani, l'ecobonus sale al 65% - ANSA",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbWVPRlNjY2VDUk4xLXJQa241OU5iMzQzb2c1QTlBX1M2V0p6N1J2QUl6QThESksyQWVfUGVqQWFMZjFpemlRZngtSTRwUm55MzY4d2pOczBiN1lxc0RxZy1Yc21iSkk5TEZQZEJWWjFqN2VHbHFiN3NfcVdZMUd5MW52LXdidzBIUXhpNkdPQ3JDN3k1QjNWYjBkUlFNb1lpSXZtSUpkaGdYWUJLdU5aUTViZE1NNDJ2SlhFdzdpUldyU0hyMkhUSENjQ1czY1FqN0NvYnZjMEVnYVUtMmo3NmRabnMwWHlfQ243TtIB8gFBVV95cUxNak9EbFp4VUZqTFZ4MHU4UkptZV9SaFFsWnpUOF96bEVtM3FMNmxIYkNaRmd1V1k0b1BxdkZfaU5ibWxZdVVPbmhyU0FCNm01bXpHZDM4QVV3RFI2ZmtoYXBvZmUzdkstSjA4eEpYQ3o4NWhjd1p3WjlGQ3pNOG9sbVZNc3EtQkE2WFdVR2FsSlRQbGdRTHdEanZLVUVXeF9HRGdCNGpaQlBlSEt1UVUyNVIwdUlEenNtV3FlWGhTS2RSX3lVamRWbFJKMk4zdmhTN0Z1ZVc0b1JWSzEyNEc1dWFCSU1OSFRaa3ZDQl81M1Fldw?oc=5",
-          "description": "Il governo punta su ceto medio e giovani, l'ecobonus sale al 65% ANSA Ecobonus al 65% per ridurre i consumi energetici: il governo valuta il ritorno dello sconto, i lavori e le modalità Corriere della Sera Bonus ristrutturazioni: ultima chiamata per il 50%. Che cosa cambia dal 2027 Cose di Casa Ecobonus al 65%, il piano del governo per la manovra: detrazioni più alte per la prima casa. Gli interve",
-          "pubDate": "Sun, 13 Sep 2026 19:14:00 GMT"
-        },
-        {
-          "source": "ansa-economia",
-          "title": "Il governo studia nuovo ecobonus al 65% per infissi e condizionatori",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/13/il-governo-studia-nuovo-ecobonus-al-65-per-infissi-e-condizionatori_85047a3a-8a90-4fbf-993d-e0a519b312ec.html",
-          "description": "Il Sole24 ore, misura nell'ambito della flessibilità di bilancio",
-          "pubDate": "Sun, 13 Sep 2026 17:49:35 +0200"
-        },
-        {
-          "source": "google-news-it-tech",
-          "title": "Ecobonus al 65% per ridurre i consumi energetici: il governo valuta il ritorno dello sconto, i lavori e le modalità - Corriere della Sera",
-          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOd1pKRmtEOWVqSjlPaUZxeExzV1gwUk1rMkJyQWp0MUE0Y3A0QjlTT0dFdVNjSUE1QlNUVHd2Z3J1NWI5VlQ2ckItbnpydGE2ZFAzMXgyTW5acmg1eXNJVUtjNHF4cjZCcWRwYlhCdFVrMGpHcnZURUg4ajR0cjJrUFA5alViYVVEMnBVVVNqbTRZOTdBQTVoczc5bm1lbExYQ3lyaHNuNExiTDZyc1ExS2Exa1F3Q25aQWM5dGpHX3M3bUp1aVd5QUVzZlp2aTloVnR2QnZ5R29VZUZEcXNYTVJzckpSRXc4cllEeUIxQUI0ZWUtVFZfWlZ4cXFNVW9ZZTVVZTgzdmVPak5HVVFUQnQ0cFpiXy1ubFFiWkxabVlLTk9CX0JiX2E4TGs5aS1Fa3BZ0gG4AkFVX3lxTE4zM3NiSzRCcGJHMUJkNjkwbTNYaEFscVdBdGQzSmhZUEh4dmh0Ykxka1RVQXh4b2d3NWxDbkRyMWhoZk1lbWhvWC14NjkxZnZyTldmaTZhaC1iZjAyWTc5bG0waHMxekpHNVUyc1pZZGgzT1UwLVpfVWpmUTFtb2xzYlhpeDVtSEFaS3lmcHVSR2hIdkk2NTFXUW1OdFdsYXI5MzE5NkpacHMzWXhLOEgwemwtdmFXRnN2b1VRX3lEZWtfcWNyV2J5WUJJeHN0dF9aVkdpMFJMVjhCREM0ZW9SZWFXZVFlQmlSMi05LUtVLXFmNGVjUUZldUxxTWw0VUMwTFBDTTA2czM1UEpBdGVrWmFZTUZQc01hQmNUa19GNEJLTDhwLTNsSWVPdzJJYjR1OUNRMUJzaQ?oc=5",
-          "description": "Ecobonus al 65% per ridurre i consumi energetici: il governo valuta il ritorno dello sconto, i lavori e le modalità Corriere della Sera",
-          "pubDate": "Sun, 13 Sep 2026 08:14:00 GMT"
+          "source": "bbc-world",
+          "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+          "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+          "description": "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes.",
+          "pubDate": "Mon, 14 Sep 2026 08:36:09 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "brics xi ia open source",
-      "label": "Xi Jinping lancia IA open source 'inclusiva' ai Brics",
+      "keyword": "ucraina russia treno confine",
+      "label": "Russia attacca treno ucraino al confine con Polonia, coinvolti Johnson e Petraeus",
       "n_items": 3,
       "n_sources": 3,
-      "category": "tech-ai",
-      "macro_area": "tech-ai",
-      "richness": 3,
-      "score": 21,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 4,
+      "score": 25,
       "cooldown": false,
       "items": [
         {
           "source": "google-news-it-top",
-          "title": "Xi lancia l'Ia open source 'aperto e inclusivo' per i Brics - ANSA",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ0hLRldBTUtocHJzR21QaVZHSk0xVFpLb1BwYWhwRF83VE9Uak03cU9MOHJvZ2pXdUpQNTFUcDBKWmdzS3dKeEo4bDVmQlM3X3VsMXhJbndob1JhcjM5MXNXX25adEFhZ25uTlZNdXlENlNFdUNBanJXZnBDRVRvck5KSDZodkNlU3BDc2QwVVBQclJFSmNOM0toSHhRLXN5bzgxb3BsRjNfdTNNLTk1UEJKTHFJYm51SnF5eUlDOFBKZEdBd0dYTFVLdDF3SjF2aDdSTzkzTDRObFRXQWR5V3ZR0gHnAUFVX3lxTFBvX3Z3LUZCTVFnQV9BbUFTS2N3UlhrS0xjRC1INmMxaU1EbC1JLXhFQldOanlkdzlEbEFSTlFTYWE2dktQUmh1Q0c5LVUzRVR4cDJNOGFqVjZyME9rUXU3WDdUWFhOWE13TjJOZnl4R1F0NkRqdnJJaW1FbjdkLUIyU2dITllBWGlmRGd3eWJCNWVOZFJkc1BiOTI1RUQwU05NSldKZGNhYWNYUzRKTjByc1lqM2k2ckNhMmNjcHdPTUdYam9ZbXFGNUlwWHhFV0xpbTh3MW5FTVB5NFBZS3hKb1pYR01UOA?oc=5",
-          "description": "Xi lancia l'Ia open source 'aperto e inclusivo' per i Brics ANSA Xi Jinping lancia la Brics AI Open source zone e rafforza la cooperazione alternativa all’Occidente ilsole24ore.com Ai Brics Cuba chiede la piena adesione al gruppo ANSA I Brics avvertono gli Stati Uniti: “Stop a dazi e bombardamenti” la Repubblica Una delle poche cose notevoli alla riunione dei BRICS Il Post",
-          "pubDate": "Sun, 13 Sep 2026 18:18:00 GMT"
+          "title": "Guerra Ucraina-Russia, le notizie in diretta | Kallas (Ue): «L'attacco al treno al confine tra Ucraina e Polonia messaggio per spaventare l'Occidente». Merz: pace a rischio in Europa - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNQnZtYm05eFRsNm9iMFZsdnlkZ21USXdKOWRVXy05MlpCUG1NNWMyQ3FDUkljYVVVX19pSkc3b1FjV0UyZ09jbEFVZlpzQmFrU1FLejhxNjFpekRrampxLVRrS29kUTBPeHI3VUlKbHJyc3REakhNa3pNTWZrbWdodUVzeHVRb0pfdnphUEE1NmRLMGNsSERIdmxvRmotdWhCQnMxT0ZDRnVNRFAyblBjd1h5VjR6M25kQ1BLUlNFZXN5dkxRaUdtQnA4M3FQUXlLbDhjWTBHMURGQmhsak5RUFFYZ19NWVhLd2VkWUlWaUl5a015ZmF3TXo3SnBuZkEwMlBpcXFrNDRfWUdVYzRtdnpKd0MtMkVhb09QeFh30gGjAkFVX3lxTE9mTUlBSWNOMEstWThhaldSaDAtdGdUbFRyUS14c1Q0UUNILXo1M3o5YmVwbVI4NnBvUVRicktnMlRIN2Z1akhJdzJkaU5VOE1oY3hwYWc5cVhjdENxZWJkRXNQU2p4NEt5d3VDTGEyZG1UcGQ4YVVKb3UwSHo1OUJnMk9vTmJKNV9mU3JrZlpPamE0dHZ0M0xOanZLZ0NOTFdmTXpkT1puMkZlUXpwTHdDR25YUHZZMzE5ejh5a0ttUFdKV3Q1eUp5LXZ6ZzU2ZjFVQTNFY2tpcTJDVEJFRVhJa0U5UzBjS3h2WFdJUUYzb3UxeTIwT3BodUFjcDhkblE2cGVKcHdWN2hLUnVGRExVU0lVZDdrb0NuempvV2pYeGlsVQ?oc=5",
+          "description": "Guerra Ucraina-Russia, le notizie in diretta | Kallas (Ue): «L'attacco al treno al confine tra Ucraina e Polonia messaggio per spaventare l'Occidente». Merz: pace a rischio in Europa Corriere della Sera Kallas: 'Il raid al treno ucraino voleva spaventare l'Occidente'. Merz: 'La pace è a rischio in Europa' ANSA Kaczynski: «L'Europa è nel mirino di Mosca. La Polonia è pronta a una reazione congiunta",
+          "pubDate": "Mon, 14 Sep 2026 15:48:58 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Ucraina-Russia, le notizie in diretta | Raid di Mosca al confine con la Polonia, colpiti un treno e una stazione di servizio. Kallas: l'attacco russo al treno un messaggio per spaventarci - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNQnZtYm05eFRsNm9iMFZsdnlkZ21USXdKOWRVXy05MlpCUG1NNWMyQ3FDUkljYVVVX19pSkc3b1FjV0UyZ09jbEFVZlpzQmFrU1FLejhxNjFpekRrampxLVRrS29kUTBPeHI3VUlKbHJyc3REakhNa3pNTWZrbWdodUVzeHVRb0pfdnphUEE1NmRLMGNsSERIdmxvRmotdWhCQnMxT0ZDRnVNRFAyblBjd1h5VjR6M25kQ1BLUlNFZXN5dkxRaUdtQnA4M3FQUXlLbDhjWTBHMURGQmhsak5RUFFYZ19NWVhLd2VkWUlWaUl5a015ZmF3TXo3SnBuZkEwMlBpcXFrNDRfWUdVYzRtdnpKd0MtMkVhb09QeFh30gGjAkFVX3lxTE9mTUlBSWNOMEstWThhaldSaDAtdGdUbFRyUS14c1Q0UUNILXo1M3o5YmVwbVI4NnBvUVRicktnMlRIN2Z1akhJdzJkaU5VOE1oY3hwYWc5cVhjdENxZWJkRXNQU2p4NEt5d3VDTGEyZG1UcGQ4YVVKb3UwSHo1OUJnMk9vTmJKNV9mU3JrZlpPamE0dHZ0M0xOanZLZ0NOTFdmTXpkT1puMkZlUXpwTHdDR25YUHZZMzE5ejh5a0ttUFdKV3Q1eUp5LXZ6ZzU2ZjFVQTNFY2tpcTJDVEJFRVhJa0U5UzBjS3h2WFdJUUYzb3UxeTIwT3BodUFjcDhkblE2cGVKcHdWN2hLUnVGRExVU0lVZDdrb0NuempvV2pYeGlsVQ?oc=5",
+          "description": "Guerra Ucraina-Russia, le notizie in diretta | Raid di Mosca al confine con la Polonia, colpiti un treno e una stazione di servizio. Kallas: l'attacco russo al treno un messaggio per spaventarci Corriere della Sera Kallas: 'Il raid al treno ucraino voleva spaventare l'Occidente'. Merz: 'La pace è a rischio in Europa' ANSA Kaczynski: «L'Europa è nel mirino di Mosca. La Polonia è pronta a una reazio",
+          "pubDate": "Mon, 14 Sep 2026 15:48:58 GMT"
         },
         {
           "source": "google-news-en-top",
-          "title": "BRICS summit 2026: What are the key takeaways? - aljazeera.com",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOHdIU3AyUEhvMjljZ1ZvWmZMdHN3OWRUVmtXZnk3d2VEQ2I3Y0RwUzU3TlVtSV9sYjViU0V6TnFHX25CanpzMFFXZFFnM1RseDZITVFEN1FaYzljUjYtU1lJSUliU3VZR1JyMm82aDVvQ1JLM1BIa1BiNHo3eUpsdUpzeWdwczd1OHdrQmV30gGTAUFVX3lxTE80QVRsbWJlZkpHbTJUSGV6MzlMeUN0QWc1SHYtQVNKOWxzODQyTDNURlp1amZHN2dFeE16dG0yWGQycG9XLTE1bnZBc0M5RHVua2R1elRqaVFrQS1qRUxELWp3ZFlCVkhoY2VNVGVJUlZaVHQ1UmFtZVpLZll2cnNBUXlKSEhWRlp4MWwtLWNCV0k2UQ?oc=5",
-          "description": "BRICS summit 2026: What are the key takeaways? aljazeera.com Brics summit 2026 Delhi: Iran war reshapes ties but exposes divides bbc.com At BRICS, India's Modi warns geopolitical tensions and supply chain shocks threaten global stability apnews.com BRICS adopts joint declaration, urges 'maximum restraint' in Mideast Reuters The Iran war reveals the limits of BRICS aljazeera.com",
-          "pubDate": "Sun, 13 Sep 2026 13:11:20 GMT"
-        },
-        {
-          "source": "bbc-world",
-          "title": "Iran war reshapes Brics ties but also exposes divisions",
-          "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-          "description": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
-          "pubDate": "Sun, 13 Sep 2026 11:23:42 GMT"
+          "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56MUFXcDBJY3RjNktKU2pYREZQRmJnWExKSHJiQk5SSTR5UmsxbEx1ZFUzWUkteHNXU2xFRzhrQS1zdm1lN0MxdElzNVg0bnhjQ3FzMGtpNkkzUQ?oc=5",
+          "description": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station BBC Russia’s drone strike near Ukraine-Poland border puts NATO neighbors on edge CNN The War Room newsletter: Russia is hunting Ukraine’s trains The Economist Russian Offensive Campaign Assessment, September 13, 2026 Institute for the Study of War Russian Strike on Train Station Near Ukraine-Poland Bor",
+          "pubDate": "Mon, 14 Sep 2026 12:18:13 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "trump irlanda unita dazi",
-      "label": "Trump sostiene Irlanda unita e rimuove dazi su whiskey",
+      "keyword": "borse europa petrolio chip",
+      "label": "Borse europee in calo, Milano -1,5%, pressione petrolio e semiconduttori",
+      "n_items": 4,
+      "n_sources": 2,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 4,
+      "score": 24,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Pressione sulla Borsa di Milano, che perde terreno insieme alle altre Borse europee - Borsa Italiana",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbVE4M0Jtb2lONDVmUEozYkhyVDJIVUYtZ2w4TVJVempqZVBRZFZ5bVVYRzAtdnVURE11OEJURTRjeDlMTVlpTWVHRi05Sk52b2tMOG5TT2Fya09VLXlhaFNBd3VFSGZZWkZOeGtvZWJyb1dMS3JOU05QbjZ0RWF0LURqdnZDWFhWdDVUQXJkS2wyRWFSb1R3LWtLbk9DUzItLWN0OERnQmZ2b0pwQUxZOFdlSFBDVVNDSWlaS1VOMDdJSU9lRHhCQkpDUF91b3lNWUlUX2hDV3lmaTBxbWpxb1RpSUZ3anRBQnQ5LTZRQWR2YXNSYlBOYzZUbW5mZw?oc=5",
+          "description": "Pressione sulla Borsa di Milano, che perde terreno insieme alle altre Borse europee Borsa Italiana Prezzi gas e petrolio ai massimi, Borse europee in rosso: cosa sta succedendo Sky TG24 Borse europee miste, calano i tecnologici in attesa delle decisioni delle banche centrali: DAX, CAC, FTSE100 Yahoo Finanza Borse europee in rosso e petrolio verso 110 dollari: cosa sta succedendo SoldiOnline.it Bor",
+          "pubDate": "Mon, 14 Sep 2026 14:00:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Wall Street apre in calo, Dj -0,27%, Nasdaq -1,28%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/wall-street-apre-in-calo-dj-027-nasdaq-128_a6162dd8-a201-4b7f-ad5a-9a70cc74e439.html",
+          "description": "S 500 perde lo 0,77%",
+          "pubDate": "Mon, 14 Sep 2026 15:39:48 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: l'Europa in rosso guarda al Medio Oriente, Brent verso 110 dollari",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/borsa-leuropa-in-rosso-guarda-al-medio-oriente-brent-verso-110-dollari_d9c8746a-5ee3-4124-9d18-6fa3e98cfe2f.html",
+          "description": "Piazza Affari (-1,5%) maglia nera in Europa. Lo spread tra Btp e Bund a 88 punti",
+          "pubDate": "Mon, 14 Sep 2026 14:16:24 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: l'Europa in calo con petrolio e chip, Milano -1,2%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/borsa-leuropa-in-calo-con-petrolio-e-chip-milano-12_d5b3eb45-7ad7-41e9-9416-a15d98378ad6.html",
+          "description": "A Piazza Affari scivolano Stm e Prysmian, corre Campari",
+          "pubDate": "Mon, 14 Sep 2026 13:41:50 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "iran houthi mar rosso",
+      "label": "Milizie Houthi conquistano isole nel Mar Rosso, tensioni con Usa",
       "n_items": 3,
       "n_sources": 3,
-      "category": "general",
+      "category": "geopolitica",
       "macro_area": "geopolitica",
       "richness": 3,
       "score": 21,
       "cooldown": false,
       "items": [
         {
-          "source": "google-news-it-world",
-          "title": "Il Regno trema per le parole di Trump: summit Scozia, Galles e Irlanda del Nord per l’indipendenza - la Repubblica",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbVV3QThrSnRzYTlqQ0NiT1p3RDdLbTJSY1RMdlExZWNUOUxBTS1BdlRXelhEYy04UzVualpvcWJPa2tKNUoxTi1RLWJLb3RBSVZjMXg0S2lRWm9fOHY5NDFxYTlCYlJvX3pIN2tRSUw1bnFRSmN5cmItb0ZaOWJCTU8wYlNDekpjd0RSQTV1UElEVVQ4VnMzZzVsdWNJSUpNcVVOR3A4M2R3VUVjLVVBVG5RWXNQNFBjejVCZXpHTUNBWHlY0gHKAUFVX3lxTE12dGx0Q3dyakhuNFd3UElJNWFSQTZmSHZxZlZxTlZ5RmQ1NHdLTFFzLWJHX2VwQWxYQmdMLThiaW9jTU9VblQtNHZVZl9xNHZKTXFMSy1KSGFwU0VlcVlyYmZZdlQ3cHBJQTFGNV9jV2ExV0pHWkFBbnUyOGtVM2NPMUdBbXdwUW0xWE5vX0w0elhnRUdrNFUtOVhOLVExWGsyZHJfT0JFdjhWN090RWdPR2xsc1hjX29fZW1HRVJ4RHhBMnM2cm1PTUE?oc=5",
-          "description": "Il Regno trema per le parole di Trump: summit Scozia, Galles e Irlanda del Nord per l’indipendenza la Repubblica Trump sogna Irlanda \"unita\", perché è divisa e come potrebbe riunirsi Sky TG24 L'altra Brexit. Scozia, Galles e Irlanda del nord al lavoro per la fine del Regno Unito HuffPost Italia Trump a Dublino: «Vorrei un'Irlanda unita, accadrà prima o poi» Corriere della Sera Trump vuole l'Irland",
-          "pubDate": "Sun, 13 Sep 2026 10:44:30 GMT"
+          "source": "google-news-it-top",
+          "title": "Guerra Iran Usa, media: Houthi conquistano altre isole nel sud Mar Rosso. LIVE - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1c3pHX1liWWNlNm5OMEttY2VFcmFxU3B0WmxEa2lQeEQyTjN5dDh0c2Y4dnRES0o3djVCb2U1UWp6aWdySFJOTlpTUEs3N0pxd0pITWpWTVVSQVFLbGJIbUdnZ1lmY3RBdXNkZVFBb2NYMG95cTAtejdoQQ?oc=5",
+          "description": "Guerra Iran Usa, media: Houthi conquistano altre isole nel sud Mar Rosso. LIVE Sky TG24 La milizia filo-sciita silenziosa e tenace che vuole il Mar Rosso, chi sono gli Houthi rainews.it Von der Leyen condanna attacchi degli Houthi a Riad, 'lavoriamo per stabilità' ANSA Che succede intorno a questi DUE stretti in Medio Oriente ilpost.it Guerra in Medio Oriente - 14 settembre Il Sole 24 ORE",
+          "pubDate": "Mon, 14 Sep 2026 13:50:17 GMT"
         },
         {
           "source": "google-news-en-top",
-          "title": "Why Trump's united Ireland stance hit such a nerve - Axios",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1naDV0SklkbzhsVUJJVEpKZFMzdmhIOUdRVVVRMzNKWjN5Szd5cl9wOWRkNGpfYzJxR2ljbFR2eXlQWVpJTzVydWtnb2ZMbGgyZ2lVN25ZcUVXLTNnSEZNSUswR3NVNjFVa0tCNkJyU2tfLUE?oc=5",
-          "description": "Why Trump's united Ireland stance hit such a nerve Axios Trump's backing for a united Ireland has reignited a divisive political issue. Here's what to know apnews.com Donald Trump continues two-day visit of Ireland Yahoo For Trump, a Golf Trip to Ireland Tees Up a Reunification Controversy WSJ Trump reiterates support for united Ireland, says won't talk about Scotland 'yet' Reuters",
-          "pubDate": "Sun, 13 Sep 2026 21:49:50 GMT"
+          "title": "Iran War Updates: Oil prices jump to near 4-month high as Oman-Iran talks on Strait of Hormuz postponed - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXp0eWtpUmdlTkZzTzBhcTRLYkpaSE1vWEFIY09xR3JjcFhYRVhoMlVjcmJYVWdROU9WZENBNEt5NXVncjBmaXA4R1FVRExBOGNVSlVxV0FZYzl1Q3RnNGVrdEpncWFqNVZBQ2gzZnYwbF9Sa1g2Z2R4Y2Q1RHpVbTNB?oc=5",
+          "description": "Iran War Updates: Oil prices jump to near 4-month high as Oman-Iran talks on Strait of Hormuz postponed CBS News Gulf states call off meeting with Iran; Houthis launch new attack on Saudi Reuters Iran-Gulf talks without US participation on reopening the Strait of Hormuz postponed, Omani official says CNN Meeting Between Iran and Arab States Postponed as Mideast Diplomacy Stalls The New York Times ",
+          "pubDate": "Mon, 14 Sep 2026 15:29:00 GMT"
         },
         {
-          "source": "bbc-world",
-          "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-          "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-          "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
-          "pubDate": "Sun, 13 Sep 2026 19:34:36 GMT"
+          "source": "ansa-mondo",
+          "title": "Von der Leyen condanna attacchi degli Houthi a Riad, 'lavoriamo per stabilità'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/14/von-der-leyen-condanna-attacchi-degli-houthi-a-riad-lavoriamo-per_1c2f58fa-9ed7-48aa-bb99-ca1d1419e7cd.html",
+          "description": "'Collaboriamo con i partner del Golfo su libera navigazione a Hormuz'",
+          "pubDate": "Mon, 14 Sep 2026 17:05:16 +0200"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "mercati borse calo tassi petrolio",
-      "label": "Borse mondiali in calo, rendimenti e prezzi petrolio in rialzo",
-      "n_items": 4,
+      "keyword": "ilva taranto sciopero blocco",
+      "label": "Ex Ilva Taranto: sciopero 24 ore e blocco strade, rischio 2.500 licenziamenti",
+      "n_items": 3,
+      "n_sources": 2,
+      "category": "lavoro",
+      "macro_area": "economia",
+      "richness": 3,
+      "score": 18,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "Ex Ilva: protesta dell'indotto, sciopero di 24 ore e blocco delle strade",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/14/ex-ilva-protesta-indotto-sciopero-di-24-ore-e-blocco-strade_a1e3deb6-72dc-4910-b9a1-6f2311b16cb3.html",
+          "description": "La decisione dopo l'assemblea davanti alla portineria imprese di Taranto",
+          "pubDate": "Mon, 14 Sep 2026 11:26:21 +0200"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Ex Ilva, sciopero di 24 ore e blocco delle strade",
+          "link": "https://www.ilsole24ore.com/art/ex-ilva-sciopero-24-ore-e-blocco-strade-AJ1shYCB",
+          "description": "A Taranto parte una nuova agitazione per il rischio licenziamento di 2.500 operai. Domani incontro a Palazzo Chigi",
+          "pubDate": "Mon, 14 Sep 2026 07:23:00 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Ex Ilva Taranto: piano governativo a fasi per gestire lo stop all’area a caldo e le ripercussioni occupazionali",
+          "link": "https://www.ilsole24ore.com/art/ex-ilva-taranto-piano-governativo-fasi-gestire-stop-all-area-caldo-e-ripercussioni-occupazionali-AJE5fPBB",
+          "description": "Ora che la Corte d’Appello di Milano ha confermato , con un’ordinanza emessa l’11 settembre, che l’area a caldo dell’ex Ilva di Taranto dovrà fermarsi entro fine ottobre perché...",
+          "pubDate": "Sat, 12 Sep 2026 10:52:32 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "btp rendimenti spread tasso",
+      "label": "BTP al 4,38% massimi 2 anni, spread allargato a 88 punti",
+      "n_items": 2,
       "n_sources": 2,
       "category": "economia",
       "macro_area": "economia",
       "richness": 3,
-      "score": 20,
+      "score": 16,
       "cooldown": false,
       "items": [
         {
           "source": "google-news-it-business",
-          "title": "3 giorni di perdite, il Dow, l’S&P e il Nasdaq scendono mentre aumentano i rendimenti e il prezzo del petrolio - Yahoo Finanza",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05RXJRTGZMWVpCTWhERFYyQUx0aFR4VHdtTFRLRHNBcllyNlpkVUpBZXJwTFJla1VPQ3lRbmxmSDdNWWotWFBqTFJ0cDd1b0hydFpPVW00N0xNdENiSHZ4MXpHT1lHLWxzeVotRElZY1ZYbkstbDZQOUc1TG5JemM?oc=5",
-          "description": "3 giorni di perdite, il Dow, l’S&P e il Nasdaq scendono mentre aumentano i rendimenti e il prezzo del petrolio Yahoo Finanza Continua la corsa del petrolio. E salgono i rendimenti: decennale Usa verso il 5% La Stampa Torna l’èra del petrolio: sfida tra gli appetiti Usa e i “verdi” Opec e Cina Il Fatto Quotidiano Gli Houthi a Bab el-Mandeb, vola il greggio. Ecco perché il conto più salato è per Ria",
-          "pubDate": "Wed, 09 Sep 2026 23:46:00 GMT"
-        },
-        {
-          "source": "google-news-it-business",
-          "title": "BCE, IL GIOCO CHE SI NASCONDE DIETRO I TASSI | Guerra e inflazione, un conto troppo alto per l’Italia - IlSussidiario.net",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa0xIOGFsR3V6ZDlTc0NvMERONmJyNDJVeVlJS19QdjBPSUtvOGRrbmEwelVCckxYUUx1NnVnMnR4b01zT1FrVHVtYXZpR1diTHI0STAwcTlnckJleEtUWVVBcHcyTHZYc0lkZU5YTXA2NnMyVUkyYWF0azRrS0pRSnFvREt2YVJ4bTQ1aVhtenh5bm9xRG9PU0ozM01tQkRXQTl6cVFDSFhjMnJ4UmlyTnJGbU96aEVkTU9HSFpyRkVqTkdrWFo0OVJFUjVjbUtLeGtGOHdrWdIB3AFBVV95cUxPRlptZEVCSmQwRHlIbFFxcUtEZFI2dXlwMzhVUVp5ZlRFOGY3Uld1THQzODE1TTRxaFJ5Z2twejh6U1pldk1rb0NBeG1QOWYzYlcwb2hDUUpKZnIzUUItLWNBdWhCSVlmTDBGR1p4elluRERYZFFNOENvQ2pqWk1SOUFRajRTb3UwMlFNeFFlaEgtRlJqMVBxTHU3ZXN5blBFclVlWGtXZVNDQzZOUWI5TjEyTHRmQTdOZG4wcDdvNWlrMk53cEREcldRQUdFRzNpY1Y5N0FqYW1BSmVy?oc=5",
-          "description": "BCE, IL GIOCO CHE SI NASCONDE DIETRO I TASSI | Guerra e inflazione, un conto troppo alto per l’Italia IlSussidiario.net Rendimenti dei titoli di Stato europei ai massimi da anni mentre il sell-off globale continua Yahoo Finanza Aumento rate prestiti fino a 200 euro: come abbassare la rata mensile Facile.it Come aumenta la rata del mutuo dopo il rialzo dei tassi della Bce: le simulazioni. Fino a 21",
-          "pubDate": "Sun, 13 Sep 2026 04:00:50 GMT"
-        },
-        {
-          "source": "google-news-it-business",
-          "title": "L’agenda settimanale. La Fed apre le danze sul rialzo dei tassi, la Bank of Japan la segue a ruota - la Repubblica",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSVZfa1hFYU95MEJVd0UxOVpxVDZPcFplbTJTQWJrRjViQ2NxaG5jMzhCMmpHZ2NNT0dNU1d4X3d4ZXltVzVTeG4tU1J2dzZ4QzExSVN0U3o1VGhyLTNxNFlsSy1uaktCbzdYSUxLUFFMQ09ZS3RmTUF3REl4R1BkM1gtUnlJUEsydEJ4enc2SmRUZUtYU2pPLVZiWm9kOU0yNnBVSXR4cGotTjVSZ2E5MkhmcXNFV1hGQ3huaHdxRXM2bXE4NFpaNkVIZ2R6bU1SV0JhdnFkbjRBRmFRbjFwSk9IRS15TWFLRXVsTGdJQQ?oc=5",
-          "description": "L’agenda settimanale. La Fed apre le danze sul rialzo dei tassi, la Bank of Japan la segue a ruota la Repubblica L’inflazione Usa resta alta: monta la pressione sulla Fed Il Sole 24 ORE Il gallone a 6 dollari e il Treasury al 5%. I numeri che fanno traballare Trump HuffPost Italia Borsa: Punta al rialzo il Dow Jones, in aumento dell'1,15% alle 19:30 Borsa Italiana Wall Street apre in rialzo, Dj +1",
-          "pubDate": "Sun, 13 Sep 2026 12:00:00 GMT"
+          "title": "Btp al 4,38% ai massimi da 2 anni: cosa sta succedendo ai bond - SoldiOnline.it",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUWpwWDRlY2tEbmZkS3JaNXU0RXp1SVNrSWp2OE5LRndYakFCX0RzYnBMNFlhV2FRSVB6cGdBRE9rb3l1MHljWTJqSFZ6S196OU11c3U4MWJxaVk3aDhsTFRnQ2ZmeVJTX2QxZWZ2RlpUdEJvRDFVa25IRWpXYUUxUVZBMTFaUzRwN3ZfWE02Z2J0MTZJalp2ZDhCSFlZQUxwUXMzdG5NYTU0Sl9YRGdZTFhfdVU?oc=5",
+          "description": "Btp al 4,38% ai massimi da 2 anni: cosa sta succedendo ai bond SoldiOnline.it Titoli di Stato e bond, crollano i prezzi (ma salgono i rendimenti): come guadagnare tra Btp, Bund, Treasury e le obbligazioni di Big Tech Corriere della Sera T-Bond: rendimento decennale tocca il 5%, prima volta dal 2023 Il Sole 24 ORE Usa, Treasury decennale tocca il 5%: massimo dal 2023 ANSA Il Segretario Bessent user",
+          "pubDate": "Mon, 14 Sep 2026 11:00:00 GMT"
         },
         {
           "source": "ansa-economia",
-          "title": "Borsa: Tokyo, apertura in calo (-0,62%)",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/borsa-tokyo-apertura-in-calo-062_143374f6-dc1f-4598-bce2-38c345c02c73.html",
-          "description": "Risalgono i prezzi del petrolio, nuovi timori per bolla Ia",
-          "pubDate": "Mon, 14 Sep 2026 02:20:24 +0200"
+          "title": "Prosegue l'aumento dei rendimenti globali, Btp sale al 4,38%. Si allarga spread Francia",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/prosegue-aumento-rendimenti-globali-btp-sale-al-438.-si-allarga-spread-francia_cc5698ad-b82b-4508-9dc3-ee37bc78456a.html",
+          "description": "Il decennale italiano torna ai livelli due anni fa. Il nodo tassi e inflazione",
+          "pubDate": "Mon, 14 Sep 2026 13:41:48 +0200"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "poste tim acquisizione controllo",
-      "label": "Poste supera 66,6% Tim e acquisisce pieno controllo",
+      "keyword": "ia regolamentazione obama",
+      "label": "Obama: IA serve governo globale, non accelerazionista né catastrofista",
       "n_items": 2,
+      "n_sources": 2,
+      "category": "tech-policy",
+      "macro_area": "tech-ai",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Barack Obama sull'intelligenza artificiale: «Se non governata può essere pericolosa» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOQ2NCR1hQak9IckptNTVnZG9nOUtVeGo3YkxtVmg1R3c4U3FLSVU3RGV2aWJkWm5waWNOTjQtYWV3bEdYN29MM0pNbnhaQ21fLURQUThSVk9ZSHVwMDdwSkp0OWFfLTNiYzFSeWtyWmRzOXZYZmlzb3dDc1QzRHhFQ21YQVh3YUJGV0VGMFVuUGx3aVF0c1ZEM1VldlVpTXJXWUgxRlJIWnNiWE4ta1hsSkRKV0VoV0dQZzNWNnRrWUduZ3J4UGdieWNVN2E5X24xc19zSG1ZT3VOUG1RRGdwWnU5Rm1kMGNvZGFwOW5Kc1QzZXFILWZNZEJ5TjRVVWxq0gGGAkFVX3lxTE5CYlZNNW1na185RUlWbnl4NjQzMG1oc0Y4RGp6TVFST0t4S3htOTAyVzN3V05zc2dFZUdpVy1ib3Bwd05qWlFrcTF3WHBQcVRtcjJJNnJ6cjhYakYxdDVhd0lvd1pGVV9uall3NjZtRFgzTDBIOFlrc0hYMWJsTWR2Z3hTWnZzNEZkMlNLUDM3bjFKeXNKNGtCeWNveDdIZTU0NEdWMzhnOTNqeDg4cU1GSjhST2JqbEtCSFJMRWtvN1NBWVVCRl85WWJsSlB2WTQ3SlBfY2VCUEZHbkVqVWM4N2dTNzNwWTBnUGtMZnJGdzBkOUFCbnVHWUIxS1ZNRFpHZkdTU0E?oc=5",
+          "description": "Barack Obama sull'intelligenza artificiale: «Se non governata può essere pericolosa» Corriere della Sera Obama spinge i dem a un piano sull'IA, 'se fossi candidato sarebbe la mia priorità' ANSA IA, l'allarme di Obama: \"Se non ne assumiamo il controllo, è pericolosa\". E chiede ai Dem di metterla al centro dell'agenda Affaritaliani",
+          "pubDate": "Mon, 14 Sep 2026 14:21:56 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Obama spinge i dem a un piano sull'IA, 'se fossi candidato sarebbe la mia priorità'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/14/obama-spinge-i-dem-a-un-piano-sullia-se-fossi-candidato-sarebbe-la-mia-priorita_770f2eb6-5ab4-414d-bea4-2263b1315f5a.html",
+          "description": "Non si definisce né accelerazionista né catastrofista",
+          "pubDate": "Mon, 14 Sep 2026 17:02:08 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "fed tassi probabilita aumento",
+      "label": "Mercati prezzano altri rialzi Fed e Bce, Nasdaq in calo",
+      "n_items": 3,
       "n_sources": 1,
       "category": "economia",
       "macro_area": "economia",
       "richness": 3,
-      "score": 14,
+      "score": 15,
       "cooldown": false,
       "items": [
         {
-          "source": "google-news-it-business",
-          "title": "Poste supera il 66,6% di Tim e prende il pieno controllo della compagnia telefonica. Boom di adesioni all'opas - Corriere della Sera",
-          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPVG0yb2VMQUlVZDBpaXlfcUEzYzlGMXhpY0JsVHVxRnJDSkVsWDBJdThLb0loSzdsZnE2clhfR3U0V3pfNmR4S21wMS1MSWVaNjRCR05XQWZWYTBlWkZpTGlrNDczVmtPcTluaTVtQnRnNzVpZmZzVk1PZUxHVEJCckZaRFBxbEdRcjV5MG53RGNJNUZyYlRXSUtiWEtUZVUxZzIwNTc5TkVlUnNGcmw0RVZDNjNUWDhIckNzX1ZYMDc5RFAzTW41aFU1NXNVMHVxV0l6VG1TSTZxNUs5bk1aQURDQ1Fob2Z3cHdjald4a3VOeUpWSlhLMG9seFNaZUNZa3AtVUlvZXB6bmZFVEFOa3QzbXN5NVlqVnoxcnlCTVpTSGlhdVpYblJ1U1B0WVdRVUHSAbcCQVVfeXFMTlVZXzBWT0RoS0o2NGV4X2hoVHVQdmRxRFpnNm9jR1k4bHhYTzBmMG5ubjJhU2wzNHBRamlvQTNTampzQjZMcGU4ZEtXcW9PdnpZRndNMDY4UERCZ2N5QjB1d0NDSkRGS1JEQngyXzVnX1pzVWRucFh4WC1MR01PSmZkYk5INzVDaHlmVEJqUTBueWFBQnBHR0g4cmN3RXl0MzlPaTFjWGF0aEd3NEpMa3dyME96V1lnLTQxQXpfM2dRTnNsOHZ5amtNM3gyMUZRbjhUdEo5QTFDbzRxRkZfZEw2LTVnRWgtMFl3YkVFRm5YMEZ2VjJqR25YNXlrVG9zWUhqRl9ybnBVS18xcjlDc2xwdkY0NmlHeGFkamFwREZRc0F2LTdIVFZXZjE2T0xkXzhlcERuTTg?oc=5",
-          "description": "Poste supera il 66,6% di Tim e prende il pieno controllo della compagnia telefonica. Boom di adesioni all'opas Corriere della Sera Poste sale al 66,63% di Tim, sprint finale dell’Opas. Dal 21 settembre la finestra per i ritardatari la Repubblica Poste al 66,63% di Tim, adesioni al 58,2297% dell'offerta ANSA Tim: Labriola, in opas accelerazione in ultimi giorni, parola al mercato Il Sole 24 ORE Opa",
-          "pubDate": "Fri, 11 Sep 2026 17:19:00 GMT"
+          "source": "ansa-economia",
+          "title": "I mercati ora prezzano quattro altri rialzi dei tassi Bce",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/i-mercati-ora-prezzano-quattro-altri-rialzi-dei-tassi-bce_159b4a36-05bb-4db5-8b58-ef613b60f2aa.html",
+          "description": "Cinque dalla Bank of England. Pioggia di vendite sui titoli di Stato",
+          "pubDate": "Mon, 14 Sep 2026 16:59:32 +0200"
         },
         {
-          "source": "google-news-it-business",
-          "title": "Lovaglio: il governo riconosce il valore di Mps. Noi uniamo, non dividiamo - ilsole24ore.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX2Zvcy10NEgyQ2p6eDEzVUhFZ2c3UjM2b1FfbzRPTVQzdXlpeVI1MWVORVdWcXNQcjJfRWxkNk9mR2hJSWx5a2dySkR5RS1JX0w5TE53TEY0V214cG95R0ZtV0o3b0xkS05idE9vYWhYMl8wRnNKMkE4UlpEaEVtRGo0NVNSSWR3WHNobTBkRFRhZHFmdGViMFg5OHFoYWRjdzNUUURn?oc=5",
-          "description": "Lovaglio: il governo riconosce il valore di Mps. Noi uniamo, non dividiamo ilsole24ore.com Mps, corsa per il sì in assemblea di Delfin e dei fondi del mercato la Repubblica Mps scopre le carte per la doppia Ops su Banca Generali e Banco Bpm: depositato il prospetto Corriere della Sera MPS, Meloni: questione riguarda il mercato, il governo attualmente non ha un ruolo Borsa Italiana Aumento capitale",
-          "pubDate": "Sun, 13 Sep 2026 09:38:20 GMT"
+          "source": "ansa-economia",
+          "title": "Nvidia in calo a Wall Street con l'allarme sull'IA, perde il 3,88%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/nvidia-in-calo-a-wall-street-con-lallarme-sullia-perde-il-388_e571bba7-3a69-4eb9-b457-7dc40ec207d6.html",
+          "description": "",
+          "pubDate": "Mon, 14 Sep 2026 15:40:49 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Wall Street apre in calo, Dj -0,27%, Nasdaq -1,28%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/14/wall-street-apre-in-calo-dj-027-nasdaq-128_a6162dd8-a201-4b7f-ad5a-9a70cc74e439.html",
+          "description": "S 500 perde lo 0,77%",
+          "pubDate": "Mon, 14 Sep 2026 15:39:48 +0200"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "dengue toscana cluster zanzare",
-      "label": "Toscana: cluster Dengue più grande, allarme Bassetti su prevenzione",
+      "keyword": "ia cina guerra russo abuso",
+      "label": "Cina e Russia sfruttano AI Claude per armamenti e propaganda",
       "n_items": 1,
       "n_sources": 1,
-      "category": "salute",
-      "macro_area": "clima-salute",
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
       "richness": 3,
       "score": 13,
       "cooldown": false,
       "items": [
         {
-          "source": "google-news-it-health",
-          "title": "“Zanzare, rischio sempre più grave”. In Toscana il cluster di Dengue più grande, Bassetti: “Serve una prevenzione vera” - La Nazione",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX3BEQ3BKRjhTaXVYMzdtVUFTYVp3TndScTBfNHJNZnNzSDJrWXluQWppaEF2QXJkVDFJOTFhUDlqZnNLVGxsM1RiQURLSmI4bUtJZ3U5SC1KeW5tRDU5QlZPSXFtY2IzaWxuYW9ZX3M1cmpmQVZWbUFaZkhMRmxUS0FUM1pYblBLQm84aVFFeFJTb0tHenFUOTZERkl6d0ZuVi1VbjY1TFFoTm15S0JtWVgtcXlkZXBTYUpBNkhHc3B0clQzMjd4Y2xBZ00tUFVNMU1zU3lBU3dHY0xGb0FxaDlhaHI?oc=5",
-          "description": "“Zanzare, rischio sempre più grave”. In Toscana il cluster di Dengue più grande, Bassetti: “Serve una prevenzione vera” La Nazione Disinfestazione per un caso di Dengue | Comune di Pontassieve Dengue, situazione costantemente monitorata: maggior parte dei casi in via di guarigione Toscana Notizie Dengue in Toscana, l'infettivologo: «A Piombino focolaio sotto controllo ma la zona resta a rischio» –",
-          "pubDate": "Sun, 13 Sep 2026 16:58:42 GMT"
+          "source": "google-news-it-tech",
+          "title": "AI e guerra: ecco come Cina e Russia sfruttano Claude per armi e propaganda, gli abusi denunciati da Anthropic - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQXzBQWVdoRUI0SFdBYzV1Z0x6alNDS0wyYnZ2U2V1cGFSMmh3UHZSamh2WnlIeDc3cG4yX0xyM2I5Wk45emFqQk9JQlMtUXRqRHIyYTVtbmwwRXBGWllsbUJHRGNpZTM5LTBsYjlEUHFTR3VKTGlZV2dySkNCcF9ucTRhUDFocjZiYXh4Y0hpbkxhMW56R0FJSlJaNl95R2hhUm1qQ1kxTHdfWkpTcHdRRmVTc0tuZENkU2dn0gHAAUFVX3lxTE52VUpURXNzQ2tqcExLRTd3dG9IVFBPcmNMMVlWSHhjOHctSEloM28xV2Q1TG9GaGJ1ZHhQTGJpQmRMTEdmMXl3d20tMjZjaTdJMHlYVHFvV0FDU2MxcEVGMnhuZzE3NlI1cTlVcnA2RU15SUtRSnA4NEZINElrcUhBWVpLbmZuY290eElPXzVDbXAxSnJrc1pQdEpkTS1kOVdlZXZ6T1hvbWVXTzhITEt3UHR6OGpFU2VyRWhBSXZjeg?oc=5",
+          "description": "AI e guerra: ecco come Cina e Russia sfruttano Claude per armi e propaganda, gli abusi denunciati da Anthropic Corriere della Sera",
+          "pubDate": "Mon, 14 Sep 2026 04:59:00 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "schlein pd primarie voto",
-      "label": "Schlein sfida Pd: 'Vinciamo primarie e al voto prima possibile'",
-      "n_items": 2,
-      "n_sources": 2,
-      "category": "general",
+      "keyword": "diritti sociali minori piattaforme",
+      "label": "Social e minori: i divieti non bastano, ripensare le piattaforme",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "diritti",
+      "macro_area": "societa-diritti",
+      "richness": 3,
+      "score": 13,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Social e minori, i divieti non bastano: «Adesso bisogna avere il coraggio di cambiare le piattaforme» - Avvenire",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeTQxWmFfRXZBNGYtSG5jbUttRllVSjZNWTJNS2hpbDhhcEg1ZzF2bnBLeVF6TlNWQ0VkOUxGVlVpNkEzWGQ5UmJIVEUwUjRhOGF5aTI2ZU9UWmxXcXBXam1yaURMalRVeU02MXNQYjltNllMR1d6aHhrN2ZCRnphTGY2X3J4TElYc2tDTXpFNUFvS2dsTTdhWkZwamhhQUlaUlJ5bm9nNzRRdnRENzN1TmNOMXRxTWZENkVwTlUxb2VXbU9NQXc?oc=5",
+          "description": "Social e minori, i divieti non bastano: «Adesso bisogna avere il coraggio di cambiare le piattaforme» Avvenire Francia, Macron: nuova proposta per il divieto dei social agli under 15 sottoposta all'Ue Sky TG24 Il governo francese ha presentato una nuova versione della legge per vietare i social ai minori di 15 anni, dichiarata incostituzionale ilpost.it Giovedì la Commissione Ue presenterà le misu",
+          "pubDate": "Sun, 13 Sep 2026 17:00:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "russia perdite soldati reclutamento",
+      "label": "Russia perde 6.000 soldati al mese, più dei nuovi reclutati",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 13,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "I morti non tornano | La Russia perde 6.000 soldati al mese più di quanti ne recluti - Linkiesta.it",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ocUlQQ2lfRDQ3VC1NVGtJUjJPS09sS041cFc0QV9uWGh1WGdiLUZYWmxGYV9jalR0REJiSzNmaGZRdWVBRDBDT1ZpM1RENFFNd3lIWU5KYTdySEZVbTZvOV91MHhYaXd0SUxjZHVRMA?oc=5",
+          "description": "I morti non tornano | La Russia perde 6.000 soldati al mese più di quanti ne recluti Linkiesta.it “I generali russi hanno chiesto altri 800mila soldati”. I dilemmi di Putin e una guerra che non può interrompere quotidiano.net Russia. Tra propaganda e realtà: il divario tra il racconto della guerra e ciò che si vede sul campo Notizie Geopolitiche RESILIENZA RUSSA: DIMENTICATEVI I CANNONI L'Opinione",
+          "pubDate": "Mon, 14 Sep 2026 02:49:41 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "turchia lgbtq+ raid polizia",
+      "label": "Turchia: raid polizia su bar gay e attivisti LGBTQ+",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "diritti",
       "macro_area": "societa-diritti",
       "richness": 2,
-      "score": 12,
+      "score": 9,
       "cooldown": false,
       "items": [
         {
-          "source": "google-news-it-top",
-          "title": "La sfida di Schlein: 'Vinciamo le primarie e al voto prima possibile' - ANSA",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNSGhTVjlkVXl5a21PeVpJWjBkOUpkSEN4QmlKOGZHUk1oa0tkbVhpcTVXVGdNTl9Ob3RfTkNNUTdmV2ZOSlJjZVBlRkUxNlBQam5Bc1c1Nmd3WFoxcXg3WGU2azZuUUVSa2JwUG0tWFlGU1FBNmFab2VlQk5lRXBPYzVhV09lWDhCUFpCOTJhVHQzbU9HVlM0ZF9HeFBtbkpMd09SZlFFb1NCYmltcUMxYmtFWW5VMGpFUFAxWUk0RE9qR2VkY2xNUGV6UUpZeWRmSTZKSzUtQTFILWFPVjZCQ2RKX0RkT2lCRUN0c2ZKYjZqcEYzU3U3VEFhUDFOclktMk5FLXJRVC12d9IBjwJBVV95cUxOV0dyNmFtam9HQXhtRTAtWE5LSEpZX0pmNFVxYXlCazdZa2UtZi1vblo2Xzc4dFRCMDdrYThwc1FDeHRqc3JUeHZpRldpZDZqRGR2dHROT25FZkZIc1d6ZjI1SWM3VkVhTTF1c3B2a3N0YUMwMEMzNEx0d3M3RkpUTk1oNlc1X2hIRTFNV292ZlktcmZHcC1ISnNqYjA3NUhxZXM5RnZPVF95RXJ0NkhqQmp6WXZHb1JzV3U4anlFazdZcHlaRGh6cjQ2WEM3Xy1HcUFoeTR2MmtXNU1SWTFNczZGdy0yNEhmZWZnZHhEWDRGclB5RXdlTGxCTHhPN3lTcGtxTzRtYS14dVU5NURn?oc=5",
-          "description": "La sfida di Schlein: 'Vinciamo le primarie e al voto prima possibile' ANSA Schlein alla festa del Pd: “Pronti a vincere le primarie Elezioni? Prima possibile” la Repubblica Il centrosinistra stringe sul programma, Schlein: \"Salario minimo, sanità, appoggio all'Ucraina\" RaiNews Schlein: «Vinceremo le primarie, prima il programma e poi gli alleati. Il nostro sostegno all'Ucraina non cambierà. Le urn",
-          "pubDate": "Sun, 13 Sep 2026 19:35:00 GMT"
-        },
+          "source": "bbc-world",
+          "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+          "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
+          "description": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
+          "pubDate": "Sun, 13 Sep 2026 14:25:56 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "medici base sciopero 15 16 settembre",
+      "label": "Sciopero medici di base 15-16 settembre contro debito orario",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "lavoro",
+      "macro_area": "societa-diritti",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
         {
           "source": "ansa-homepage",
-          "title": "La sfida di Schlein: 'Vinciamo le primarie e al voto prima possibile'",
-          "link": "https://www.ansa.it/sito/notizie/politica/2026/09/13/schlein-noi-pronti-per-il-voto-prima-e-meglio-e.-se-faremo-le-primarie-le-vinceremo_e7972103-a0cf-45f2-a74a-72157aa676f0.html",
-          "description": "I messaggi a Conte, 'il sostegno all'Ucraina continua'. E sulle alleanze, non restringere",
-          "pubDate": "Sun, 13 Sep 2026 21:35:02 +0200"
+          "title": "Il 15 e 16 settembre sciopero dei medici di base, manifestazioni in diverse città",
+          "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/09/14/il-15-e-16-settembre-sciopero-dei-medici-di-base-manifestazioni-in-diverse-citta_badb5f05-a763-4627-99ad-69bae39ecc76.html",
+          "description": "La mobilitazione promossa dallo Smi contro il debito orario nelle case di comunità e il ruolo unico in medicina generale",
+          "pubDate": "Mon, 14 Sep 2026 11:56:17 +0200"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "moscow india china ucraina pace",
-      "label": "Mosca: Modi e Xi offrono contributi per pace in Ucraina",
-      "n_items": 2,
-      "n_sources": 2,
-      "category": "general",
+      "keyword": "ia clinici frodi studi",
+      "label": "IA usata per imbrogliare negli studi clinici",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "salute",
+      "macro_area": "clima-salute",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-tech",
+          "title": "Così l'Intelligenza artificiale è usata per imbrogliare negli studi clinici - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSlphMWlFS1NmVnljQU1ObFd6N21VcnpqV3VTeU1FUzdwWC1JNlBra2I4X1F4WjE1RWtRVUh2NUlyRTIxak9ITTVXbzcxTzc0OHRQVE5oVFJMRk9EVTJHZFpFQ2o4a1BTWE1ZWUdzdTJrZklBRHdJTWwtdHZzNS0xRFBobEdzak9lR29QTi1FM0dmRW9adkcyM2wtS1hlaEctMldoUDRUS21fc1NzSklMc1Z2elhHLXp5WmpUdm43YV9OeTBHYUpHa1YwSmdDdTJyZ2pSVUlTeEJlWnVlbFhQc3FGaTRYNUwzZzNMSklGT3VRdW1WYUVyLW9nTlrSAYICQVVfeXFMT1UzYUJQN2FVM2IzRFhvQl9KdFgxcEpqVGxodmZ1WUZzWUFEUWZHVmc5RDFKd2xJUjhVeGxMUlRUR1R2bHFxNkNZLUZ5V1FFQjluNVFSaUJaeEpSVjZFNVF0dHlOUzNZVjVQN1VTRkYxdVd0TEM1cEpOY0RHVzNHQXJHOEpIVjJGOVpKX05ja21tTnhya181WllpRlVlY0oyQWNIbGZBSFg0QVh2bjlQOHpxMkRLOVZydTJ1V3dZX0I3VDJmT0hmQ0E0Ml9OcVZhbjNETGlGMFkyaEtqeW1oRDEzU3N1NVl6RFZuSS1SM2xOcHJPVTZaR0pLYWl5VnNwdVpn?oc=5",
+          "description": "Così l'Intelligenza artificiale è usata per imbrogliare negli studi clinici Corriere della Sera",
+          "pubDate": "Mon, 14 Sep 2026 04:57:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "ucraina corruzione procuratore",
+      "label": "Dimissioni procuratore generale ucraino per scandalo corruzione",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "geopolitica",
       "macro_area": "geopolitica",
       "richness": 2,
-      "score": 12,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "In Ucraina si è dimesso il procuratore generale per uno scandalo di corruzione che coinvolgeva un membro del suo ufficio - ilpost.it",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQem1mUWJQNmc4RmIzQlZHQWMwdHFGRjBOMzZSVVpHZGUtYU1YN2ZvOGtIc1ByUXdzY3RYbF9OSUo5TjQ5ZDltTXJhekRrUEhPaHZkWWphRGZoNDhBSC1LT29JX3RrdktJWHNybzhQMDdZVGZaa0lDM1NfYlhVUQ?oc=5",
+          "description": "In Ucraina si è dimesso il procuratore generale per uno scandalo di corruzione che coinvolgeva un membro del suo ufficio ilpost.it Kravchenko accusa il capo della Nabu e vola all'estero Il Fatto Quotidiano Ucraina. Scontro tra procura e NABU, Kravchenko accusa il capo dell’Anticorruzione Notizie Geopolitiche Si dimette il Procuratore generale. Nuovo scandalo criminale a Kiev il manifesto Terremoto",
+          "pubDate": "Tue, 08 Sep 2026 11:01:43 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "artico europa 12 paesi",
+      "label": "12 Paesi europei chiedono Ue di rafforzare presenza nell'Artico",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 2,
+      "score": 9,
       "cooldown": false,
       "items": [
         {
           "source": "google-news-it-top",
-          "title": "Mosca, 'Modi e Xi hanno offerto di contribuire per porre fine a guerra in Ucraina' - ANSA",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPdTQxVDR2aTU3dlM4NDNsN21rSy11d0ZzVF8wX29WWTJWaV9JemZNRlhiVHh6STJBWGNLU3pIc1NhNmdRZm42MUpUMzc2NmM1Yzg0eGhsWkRDSDNVeThPVklmOUJuR0JIMDUyT2NCY0RZd1VHZzRQM1lhejg1blpGdWU2V2dWdXJSc0w4S3NoQ0YyTi0wS2hENWpsdDJ5RUdLSGpzOE9JRFVaUjVfVkdwSjl2QU85bWRGR1hVaGRzQTg3RU9sakNSLXh0N1Z5QkxRbU9XUk40NnZPa21wQ2VtNEQycHRGSjEyNVJnNjdDRGJJb2RqTmxsRmpCRkdiSGhjVjRv?oc=5",
-          "description": "Mosca, 'Modi e Xi hanno offerto di contribuire per porre fine a guerra in Ucraina' ANSA Il rilancio di Mosca sull'Ucraina: «Xi e Modi mediatori». Ma della guerra i Brics non parlano neppure Corriere della Sera Mosca: India e Cina aiutano per la pace RaiNews Vertice dei Brics, Xi e Modi si offrono di mediare sull'Ucraina La Stampa Modi e Xi si sono offerti di mediare in Ucraina. Putin: \"Accogliamo ",
-          "pubDate": "Sun, 13 Sep 2026 07:40:00 GMT"
-        },
-        {
-          "source": "google-news-it-world",
-          "title": "Guerra in Ucraina: vertice trilaterale Russia-Usa-Kiev possibile a ottobre - Il Fatto Quotidiano",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR2FLc1cxcU0tRktTVGZHeVkzTjlrak0ySUxvTGYtSFJDTjdHYnhhMUJoUG9fdkVvU3k1RFFOZnVkU2lNc2RIZWtUTDAtanNjcy1nMDBzVm5qZGdoTmRPb3dGTmotTC1zZEZLcFlLRTNzajNlMXY2dXZvWHZnWFdTZVBzSEdFVVotaWFvejZSdThLbHl5YUg0WDE3UkI4ZjNWWnJCV2VTZVVMdHc?oc=5",
-          "description": "Guerra in Ucraina: vertice trilaterale Russia-Usa-Kiev possibile a ottobre Il Fatto Quotidiano Trump, 'Zelensky smetta di colpire le raffinerie russe' ANSA Trump in Irlanda accusa l'Ucraina di far salire i prezzi dell'energia Euronews.com",
-          "pubDate": "Sun, 13 Sep 2026 11:31:04 GMT"
+          "title": "12 Paesi europei esortano l'Ue a rafforzare la presenza nell'Artico - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSzhaeTNBcjg0bEotRUZjclYxOTB0bjhENjNMbEpnR25Ibnl5QXNfWDJoYU45eTNZam4xQS1PUlRSWmRVYk8yWjA0RlZUbTBGcTViRGlNN0dUSEZMejNkcXBrX21jUkMyWmNCQjhKeW45clBQbDRyQi1mU29QUXFUdXBfSE8zOUFyRTFhZWpHdkw1R3BOWGxycVdTT1U1bzktT1A0bXBvbk5BSTRSVmhBN0MzVVU4a1RTdjFsVDE1ZFlGOURDZnJrT3pheXdOcnVJZi1BbXJRZTh1dF9NUG1lNVNKOFNtM3lBd0FEN3gzdDk?oc=5",
+          "description": "12 Paesi europei esortano l'Ue a rafforzare la presenza nell'Artico ANSA Artico, 12 paesi a Ue:\"rafforzi presenza\" rainews.it Artico, l’Ue punta a una flotta di rompighiaccio per esplorare nuove rotte. La nuova strategia tra sicurezza e materie prime quotidiano.net In Finlandia l'Ue cerca la sua strategia sull'Artico AGI Vertice sull'Artico, i leader Ue: \"Rafforzare la presenza nell'area\" | Merz: ",
+          "pubDate": "Mon, 14 Sep 2026 12:14:00 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "fed bank japan tassi rialzo",
-      "label": "Fed prepara rialzo tassi, Bank of Japan segue a ruota",
-      "n_items": 2,
-      "n_sources": 2,
-      "category": "economia",
-      "macro_area": "economia",
-      "richness": 2,
-      "score": 12,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-business",
-          "title": "L’agenda settimanale. La Fed apre le danze sul rialzo dei tassi, la Bank of Japan la segue a ruota - la Repubblica",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSVZfa1hFYU95MEJVd0UxOVpxVDZPcFplbTJTQWJrRjViQ2NxaG5jMzhCMmpHZ2NNT0dNU1d4X3d4ZXltVzVTeG4tU1J2dzZ4QzExSVN0U3o1VGhyLTNxNFlsSy1uaktCbzdYSUxLUFFMQ09ZS3RmTUF3REl4R1BkM1gtUnlJUEsydEJ4enc2SmRUZUtYU2pPLVZiWm9kOU0yNnBVSXR4cGotTjVSZ2E5MkhmcXNFV1hGQ3huaHdxRXM2bXE4NFpaNkVIZ2R6bU1SV0JhdnFkbjRBRmFRbjFwSk9IRS15TWFLRXVsTGdJQQ?oc=5",
-          "description": "L’agenda settimanale. La Fed apre le danze sul rialzo dei tassi, la Bank of Japan la segue a ruota la Repubblica L’inflazione Usa resta alta: monta la pressione sulla Fed Il Sole 24 ORE Il gallone a 6 dollari e il Treasury al 5%. I numeri che fanno traballare Trump HuffPost Italia Borsa: Punta al rialzo il Dow Jones, in aumento dell'1,15% alle 19:30 Borsa Italiana Wall Street apre in rialzo, Dj +1",
-          "pubDate": "Sun, 13 Sep 2026 12:00:00 GMT"
-        },
-        {
-          "source": "ansa-economia",
-          "title": "Giorgetti, con aumento tassi importante tenere sotto controllo debito",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/13/giorgetti-con-aumento-tassi-importante-tenere-sotto-controllo-debito_215ee19e-43c9-48dc-ad10-e668ddbde819.html",
-          "description": "Ministro, serve fiducia mercato e risparmiatori",
-          "pubDate": "Sun, 13 Sep 2026 10:45:03 +0200"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "scozia galles irlanda nord indipendenza",
-      "label": "Regno Unito: summit autonomie dopo dichiarazioni Trump su Irlanda",
-      "n_items": 2,
-      "n_sources": 2,
-      "category": "general",
+      "keyword": "iran nucleare aiea esclusione",
+      "label": "Usa escludono capo agenzia nucleare Iran da vertice Aiea",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "geopolitica",
       "macro_area": "geopolitica",
       "richness": 2,
-      "score": 12,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-world",
-          "title": "Il Regno trema per le parole di Trump: summit Scozia, Galles e Irlanda del Nord per l’indipendenza - la Repubblica",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbVV3QThrSnRzYTlqQ0NiT1p3RDdLbTJSY1RMdlExZWNUOUxBTS1BdlRXelhEYy04UzVualpvcWJPa2tKNUoxTi1RLWJLb3RBSVZjMXg0S2lRWm9fOHY5NDFxYTlCYlJvX3pIN2tRSUw1bnFRSmN5cmItb0ZaOWJCTU8wYlNDekpjd0RSQTV1UElEVVQ4VnMzZzVsdWNJSUpNcVVOR3A4M2R3VUVjLVVBVG5RWXNQNFBjejVCZXpHTUNBWHlY0gHKAUFVX3lxTE12dGx0Q3dyakhuNFd3UElJNWFSQTZmSHZxZlZxTlZ5RmQ1NHdLTFFzLWJHX2VwQWxYQmdMLThiaW9jTU9VblQtNHZVZl9xNHZKTXFMSy1KSGFwU0VlcVlyYmZZdlQ3cHBJQTFGNV9jV2ExV0pHWkFBbnUyOGtVM2NPMUdBbXdwUW0xWE5vX0w0elhnRUdrNFUtOVhOLVExWGsyZHJfT0JFdjhWN090RWdPR2xsc1hjX29fZW1HRVJ4RHhBMnM2cm1PTUE?oc=5",
-          "description": "Il Regno trema per le parole di Trump: summit Scozia, Galles e Irlanda del Nord per l’indipendenza la Repubblica Trump sogna Irlanda \"unita\", perché è divisa e come potrebbe riunirsi Sky TG24 L'altra Brexit. Scozia, Galles e Irlanda del nord al lavoro per la fine del Regno Unito HuffPost Italia Trump a Dublino: «Vorrei un'Irlanda unita, accadrà prima o poi» Corriere della Sera Trump vuole l'Irland",
-          "pubDate": "Sun, 13 Sep 2026 10:44:30 GMT"
-        },
-        {
-          "source": "google-news-en-top",
-          "title": "Why Trump's united Ireland stance hit such a nerve - Axios",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1naDV0SklkbzhsVUJJVEpKZFMzdmhIOUdRVVVRMzNKWjN5Szd5cl9wOWRkNGpfYzJxR2ljbFR2eXlQWVpJTzVydWtnb2ZMbGgyZ2lVN25ZcUVXLTNnSEZNSUswR3NVNjFVa0tCNkJyU2tfLUE?oc=5",
-          "description": "Why Trump's united Ireland stance hit such a nerve Axios Trump's backing for a united Ireland has reignited a divisive political issue. Here's what to know apnews.com Donald Trump continues two-day visit of Ireland Yahoo For Trump, a Golf Trip to Ireland Tees Up a Reunification Controversy WSJ Trump reiterates support for united Ireland, says won't talk about Scotland 'yet' Reuters",
-          "pubDate": "Sun, 13 Sep 2026 21:49:50 GMT"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "influenza 2026-2027 forme gravi",
-      "label": "Influenza 2026-27: rischio forme più gravi, nuovo ceppo H3N2",
-      "n_items": 1,
-      "n_sources": 1,
-      "category": "salute",
-      "macro_area": "clima-salute",
-      "richness": 2,
-      "score": 9,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-health",
-          "title": "Influenza 2026-2027, Matteo Bassetti: «Rischio forme più gravi dello scorso anno: ecco come sarà». I nuovi ceppi e i vaccini aggiornati - Leggo.it",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOUWZ2MkZJX0ozM2NWUXFJRC1RX010Z3c5eGFWNUhSTERWdDBMemJHblcxNDV3NktBN0tNRmhlWEVQb1FTaFRYVUtldWhLSnh3ZGNKeXVrMURHWjlTa3dXZXpNNXlaUXRNMk8tSmJkQXFiNmROT1VoU21QX09HeUZkeDlhTURZb1BGb3ZFYmNwRklBenM3Y1Vwc1dPNm1JZmRQNG1hcFlzS1BLVFA5S0lrS281TVlobVNwQUotR040aUdaLTVRbWt4UURvSkJnRUV0RU1aNjA2YVFkalVfelcwbXBwemRmNWQ3WU51RDlPVHVTbXNJSzFkY1ExMjYzRlQxd3RHMXZyWWxrQWVjSURBbnBOc2JaaGZqUmZWVHVLcXViYjDSAZACQVVfeXFMTmdtdUZ0RzhDdFlXb2VSMXNsOUZwWk90RTJlSGNCVkcxRTNPU2ZYZVVOODRCZ0RvaE4yMlNsMzd1a2huQnhHNnlpLW9nZjJjbGtDZVRORUVmZkw1eFBlR0htRExzRFJyX3c0dmZhYU9XYzJna0lsYmpRN1RGM05KTzZKOFdrVmswU3RRT2hfVkJCTVBxX2V5V3d3dXhhbzBnOWQ5cjVFcC1DV0k5QXl0UEp2SjZWdjlMR00wRXRtbnk3dld6dXRRWUdnTktPRVN1YWRYeHQwODVXSHdBelk5VDdkWEtZVDRHYWVxZm0wYjF4bmxkVnlaSlIxLWpQT3pVSVlObzdWQVZ3NWV3Mi1ISnI?oc=5",
-          "description": "Influenza 2026-2027, Matteo Bassetti: «Rischio forme più gravi dello scorso anno: ecco come sarà». I nuovi ceppi e i vaccini aggiornati Leggo.it Visualizza altri titoli e punti di vista su Google News",
-          "pubDate": "Thu, 10 Sep 2026 16:05:38 GMT"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "parkinson scrittura piccola segnale",
-      "label": "Parkinson: micrografia spia precoce oltre disordini motori",
-      "n_items": 1,
-      "n_sources": 1,
-      "category": "salute",
-      "macro_area": "clima-salute",
-      "richness": 2,
-      "score": 9,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-science",
-          "title": "Parkinson, la scrittura diventa sempre più piccola: il segnale che non riguarda soltanto il movimento - Mondosanità",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcF9aX1lZOTdrWmRPd3ZrYjRUXzRkTWlKNUcybEJlOEdmSERiOTlOVkRSX0ZRbzcydHhsNDcxOXdTcU40UlBrSkdLLWt0NlRLUWRwUWZ2Z0dldmVVTHVnQ2ZCekdfM0dVVVFoWTNBd1VVcHE4TGpkSk1VcWNCT2M0ZHUtMUZfaDV3MDVtamJ3WUNscXlKeTdwOVl3Tm5sSmhMU0lwdW41YUg1cENLajVWcEU3aVRrRmFkZDBGbXhYRjFxaTB1UGxoMWljX3F3Y29mcVI0WXg5SzNyc05Sb25hdklOYlZvM3Y1dEJSQUlxdWk?oc=5",
-          "description": "Parkinson, la scrittura diventa sempre più piccola: il segnale che non riguarda soltanto il movimento Mondosanità",
-          "pubDate": "Sun, 13 Sep 2026 14:30:00 GMT"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "canada usa eu commercio",
-      "label": "Canada fallite trattative con Trump, punta ad accordo con Ue",
-      "n_items": 1,
-      "n_sources": 1,
-      "category": "economia",
-      "macro_area": "economia",
-      "richness": 2,
       "score": 9,
       "cooldown": false,
       "items": [
         {
           "source": "google-news-it-world",
-          "title": "Fallite le trattative commerciali con Trump, il Canada si butta a ovest e punta a un super accordo con l'Ue - Il Fatto Quotidiano",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOR3gzbHFqU1k0bEkzX3Y3cG9nVC1CdDI2N2loRHlSZkVONmFLRFI5cGo4aEk0QkMxbkRNUkhMbXFaMTF3NFEyY09RSkdIWXlNTnBpblp2N3o5dGZ1UzFrZDNKUl90bE5LdGM0TnFIT3lweXBrSUZBWkFMRzkwV25hb05jcjZEZVFGdDRjMmhWd29iRDNGOU5iZ25zUngxa0pHaUtuNVZnWEpMVGFnZ0hDX0tiX2paeldzbnJuRzM4T2ZBTTJ1cmJHM3N3UU1jY2habG1kWHNoQlN0QTdfUUZpT3Z4OG5IcUxkV1oxUWdIYw?oc=5",
-          "description": "Fallite le trattative commerciali con Trump, il Canada si butta a ovest e punta a un super accordo con l'Ue Il Fatto Quotidiano Wsj: Carney punta a fare del Canada un «membro associato Ue» dopo la rottura con Trump ilsole24ore.com Dalla difesa ai commerci il senso del flirt tra Ue e Canada la Repubblica >>>ANSA/ 'Il Canada membro associato dell'Ue', la mossa anti-Trump di Carney - Altre news - Ans",
-          "pubDate": "Sun, 13 Sep 2026 09:55:31 GMT"
+          "title": "Media iraniani: 'Gli Stati Uniti hanno escluso il capo dell'agenzia nucleare di Teheran dal vertice Aiea' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONTh5aTlPTVdzZ1ZEUjU2ODlUSFFMYzQ2TkRIZTFCd29zMDdHbUFpcUpSaHRnYXRKSnlxOE1JUWItbURWcldkUXNZdks4QjhQWmd4YUZKODNSVGxiTmQ2bUdGUkQ1VHcydzZNcDVQM1BmeDFmVWh2T19xUHBSbXVmcEFGT21SMk1nam84VTRoSjZKTWxXa2Q2THVaNmZINENiZFFSZ3ZNc0hLbDhaLXFrWXNKU2ZWcVhoVk9WbFpleVR6am1EcUowTlZLTFhLZ0ZpdFV0UDRCeDVTYWM2OVg0NjM3cWZSQ3l4WTVJV3Y0dkZaRWfSAfgBQVVfeXFMUEZlaW9pTVFObHluaVN2RGVDVTlybHY2YmdSWHM5c2h6ZU05QXNmS1RGc3Q1TTRKMWVBZnNVWkI4Z2REMUpmX1RYa19VQUhZYS1tbkM5UGhaRF94ZFdjT2ZBMUhDN0dmc1kzUmpFU3JzT2w3NXJKZWVGOWhtN3NUMUltcDl2azRvWTRteEpUR1ozN0kxbFhUYXE1YlRlV2tpSklQek50MXEzdkRhWnZuYlJQSU9nR0FoUXgxNl9fMzlBU05kbXF6MGRYQl9nWFczZXF0YUdteU5tUzJXb253Zi0zWkFmbWVVaUt0eEU2RmJKTEZleDEtcjA?oc=5",
+          "description": "Media iraniani: 'Gli Stati Uniti hanno escluso il capo dell'agenzia nucleare di Teheran dal vertice Aiea' ANSA Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Mon, 14 Sep 2026 14:35:28 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "autismo profili clinici biologici",
-      "label": "Autismo: ricerca individua quattro profili clinici e biologici",
-      "n_items": 1,
-      "n_sources": 1,
-      "category": "salute",
-      "macro_area": "clima-salute",
-      "richness": 2,
-      "score": 9,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-health",
-          "title": "Autismo, non esiste uno “specchio rotto”: la nuova ricerca individua quattro profili clinici e biologici - Mondosanità",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYWQ1cEt0QzBQeEhjelB1ZFM4c01hSFNjYnR2UUM0QzJaNDZGWThZR0ZrclpTeFlIdEJxZGJvZ1ctMUJlQUlocGJ3YmItQ1NyaWFLTDJ4WGdhME0xODc3S0dzWERqSXM3LUc3Y2xVc3hTRlJUWjc3ZlFJSWluaGpoTVhQVWd4Yjk2VjFKemw2MnZBYkUzZHhsVXdDRlBoQkxhMG5nQWdtX1VzZzZxRGNPbTFIYmV1VHhwY2liSDRKaVJWSEpzelZvSG5JWk4xdkJfYmwwT09YS3VJRDNCd2t6T1Jjckc5SzlqMFRQcjN2RmEtZw?oc=5",
-          "description": "Autismo, non esiste uno “specchio rotto”: la nuova ricerca individua quattro profili clinici e biologici Mondosanità ADHD, non finisce con l’infanzia: cambia faccia mentre invecchiamo Mondosanità",
-          "pubDate": "Sun, 13 Sep 2026 09:15:00 GMT"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "clima parigi londra tokyo piani",
-      "label": "Piani climatici 2027: Parigi, Londra, Tokyo, Roma vs caldo",
+      "keyword": "clima el nino autunno inverno",
+      "label": "El Niño stravolge autunno-inverno: previsioni e conseguenze Italia",
       "n_items": 1,
       "n_sources": 1,
       "category": "clima",
       "macro_area": "clima-salute",
-      "richness": 2,
-      "score": 0.9,
+      "richness": 3,
+      "score": 1.3,
       "cooldown": true,
       "items": [
         {
           "source": "google-news-it-science",
-          "title": "Clima. Parigi, Londra Tokyo e Roma: i piani climatici del 2027 per fronteggiare il caldo - RaiNews",
-          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNdUdYY2NkYUJ1UDg0dlFNT2U4ckd0TUxyNnJrd0l5Tm54OW9KVFBNckw4X2ZQSmhmTVlHV3dIcDRqQjdoNlJDcllUal8tdmNOSEtLRW5qRGhVZlNESzNoZ2taOHRMT2hmS0l0Wk9wWllTMXVJMWZFSUZjYmU4SHNvMXJoTzFxVmFPT0x6U1NYMF9BdXhtamwyUm1pZ2NRUzdsbWF2UjgwcTZmaG14NGRkZ19WNlFacUtDY1VPS2RUSk5tRE9WSzlPbGJNb2g4ZkVRejhqZi12eUN0cnZwMjdDYU9nNlk3UkdDR1NkaGFXS25NUDZTT1liUGdUNXJidjNURUtHV3N1d1oyblFQTXRnNzc5T0FIYzBWQ3Etb1JXcWtTQdIBpwJBVV95cUxOQXM4OGxORWVRT29jTlkzZVBaUV9aZThYOHA3a0pLMUxZSVlSSDg4bjRaSEZfR25lelhMdFd1dnNxWHM4THRKcE1ZNUR5YklSRXlnRjVlS3duQWVuelBsR3JwYVJfU0ZCZUNWLXRwek44eVpuVjRzNlRzWlpaXzlURkJzSWRXTDRFd3k0OWpybm1YZzdBS09Pd1JZcVdad3J2RFdqdnQxeEZBbFNUWTE1dTh1Rnp0MU9iZ1pjcjRFdUlIRUllb3EwZENUeUtkTlF2dW9pa2tqUVFaVlhMOE5vWng0NWlzc21WVDVwVEN2VFpfYWdiN1N5V3ZRLS1SZ3hlem1kQnZxVzVEOVRBX2xlWXQycDNKc2RpU2c3VXhOYld6eEZnSU9B?oc=5",
-          "description": "Clima. Parigi, Londra Tokyo e Roma: i piani climatici del 2027 per fronteggiare il caldo RaiNews",
-          "pubDate": "Sun, 13 Sep 2026 07:06:00 GMT"
+          "title": "El Niño stravolge l’autunno e l’inverno nel pianeta: ecco le previsioni e le conseguenze sull’Italia - La Stampa",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSUgxTV9aRFNCSkxLNERHN0dtbmR0eFJCUldZSlhnWTVJbURyS1FJVThnNENjbnRqaXdyeXcyT0taY2JqNDVwam96M2lDQXlWMXBTbVVWQTNHSjNaY0NCajF5Tl8tS1JnVWg4a3FYMEMzcjA2eWlqTkI4LU1iZDFEdTRnOWttTm5TY2Z0REp2eHpDMVV1R2MyYnhucm13VWxWUEI4dlV1WjlUZzFSRXfSAbMBQVVfeXFMT3EyaVBDTklGcEJ5cmR5bFZjVlhyTDVsNkw2SkJlWWZkV1NJM0tkcWRUY3JRYmJoN01VaUhtRDdWQVVWZUJUS21BM2FyUkRvNFNhRkVkMy1fZGdtZFp2aXRsbVpyX0pNanhJanliMnhQUnp4ckJJSjNTT2tpbFAwU1pZRnZzSHI0OUlHLV9TZG5NRnBxTGVtSXptbUhWTl9obUx2ZlpYSG1VT2hYX05pR3FxUTQ?oc=5",
+          "description": "El Niño stravolge l’autunno e l’inverno nel pianeta: ecco le previsioni e le conseguenze sull’Italia La Stampa",
+          "pubDate": "Sun, 13 Sep 2026 23:00:00 GMT"
         }
       ],
       "clustering": "claude"

@@ -1,0 +1,28 @@
+{
+  "topic_label": "Social e minori: perché vietare l'età non basta se l'algoritmo resta lo stesso",
+  "query": "social minori piattaforme architettura design",
+  "category": "diritti",
+  "category_claude": "societa-diritti",
+  "macro_area": "societa-diritti",
+  "target_area": "societa-diritti",
+  "origin_keyword": "diritti sociali minori piattaforme",
+  "origin_date": "2026-09-14",
+  "story_sim": 0.448,
+  "story_vs_date": "2026-09-10",
+  "angle": "zoom-out-sistemico",
+  "angle_directive": "Lo zoom-out sistemico: la notizia e' la punta di un pattern piu' grande (democrazia, Europa, un meccanismo che si ripete). Non un fatto isolato.",
+  "genre": "prospettiva",
+  "target_words": 950,
+  "hot_topic": false,
+  "richness": 3,
+  "label_cluster": "Social e minori: i divieti non bastano, ripensare le piattaforme",
+  "cover_metaphor": "a locked door in a wall made of glass",
+  "curator_rationale": "Il dibattito su divieti d'età ai minori è solo la punta di un pattern ricorrente: si regola l'accesso, mai il meccanismo (algoritmo, notifiche, design compulsivo) che genera il problema — uno zoom-out che ridimensiona la battaglia sui divieti mostrando il vero terreno di scontro, l'architettura delle piattaforme. Angolo fresco, mai usato nei giorni recenti, ed evita di ripetere segui-il-potere di ieri.",
+  "articles": [
+    {
+      "title": "Social e minori, i divieti non bastano: «Adesso bisogna avere il coraggio di cambiare le piattaforme»",
+      "source": "google-news-it-world",
+      "summary": "Social e minori, i divieti non bastano: «Adesso bisogna avere il coraggio di cambiare le piattaforme» Avvenire Francia, Macron: nuova proposta per il divieto dei social agli under 15 sottoposta all'Ue Sky TG24 Il governo francese ha presentato una nuova versione della legge per vietare i social ai minori di 15 anni, dichiarata incostituzionale ilpost.it Giovedì la Commissione Ue presenterà le misu"
+    }
+  ]
+}
