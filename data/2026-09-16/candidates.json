@@ -1,0 +1,677 @@
+{
+  "date": "2026-09-16",
+  "top_topics": [
+    {
+      "keyword": "ia regolamentazione sicurezza rischi",
+      "label": "IA e apocalisse: ricercatori, CEO OpenAI e Deepmind avvertono su rischi di estinzione",
+      "n_items": 7,
+      "n_sources": 3,
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 4,
+      "score": 37,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "Esperto, sull'IA impedire che una gara tra potenze trasformi il mondo in pista senza freni",
+          "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/09/15/esperto-sullia-impedire-che-una-gara-tra-potenze-trasformi-il-mondo_4743710f-64e0-45d0-bfdd-137f08d967d2.html",
+          "description": "Noci (PoliMi): \"Operazione ridimensionamento può nascondere paura di perdere denaro\"",
+          "pubDate": "Tue, 15 Sep 2026 15:54:51 +0200"
+        },
+        {
+          "source": "bbc-business",
+          "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+          "description": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+          "pubDate": "Wed, 16 Sep 2026 00:59:20 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+          "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+          "description": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+          "pubDate": "Tue, 15 Sep 2026 08:49:31 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+          "description": "US President Donald Trump dismisses calls to slow the development of AI, saying that claims of it \"taking over the World\" are a \"HOAX\".",
+          "pubDate": "Tue, 15 Sep 2026 00:32:21 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "AI regulation faces political deadlock as calls grow for Congress to act",
+          "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
+          "description": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
+          "pubDate": "Tue, 15 Sep 2026 02:50:36 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'IA può portare all'estinzione, l'allerta di decine di ricercatori",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/-lia-puo-portare-allestinzione-lallerta-di-decine-di-ricercatori-_f2907c59-c053-4af7-b511-410cbb0bc59b.html",
+          "description": "Tra i firmatari gli ad di OpenAI e Google Deepmind, ci sono anche italiani tra cui l'esperto di tecnologie dell'informazione Luca Simoncini",
+          "pubDate": "Tue, 30 May 2023 17:55:51 +0200"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'allarme dei big, 'rischio estinzione con l'IA, è come le pandemie'",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/lallarme-dei-big-rischio-estinzione-con-ia-e-come-pandemie_3afde5e5-7bcf-464e-b3aa-aee6577a9b23.html",
+          "description": "Nyt riporta lettera di 350 leader industria, anche ceo OpenAI",
+          "pubDate": "Tue, 30 May 2023 14:12:41 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "ucraina attacchi russia droni",
+      "label": "Tensioni sul Baltico: jet italiano abbatte drone russo, Italia nella guerra ibrida",
+      "n_items": 5,
+      "n_sources": 4,
+      "category": "general",
+      "macro_area": "geopolitica",
+      "richness": 4,
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Ucraina, caccia italiano abbatte drone su Lituania. Crosetto: Probabile russo - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOclJGNFg1SFE2RVNIVDdDNzF0QnlkSUhFRVE3RE5IS0hMZ2tHTmRUNEE3WjBfS2FIT2NjUkZKdW5sYWFnblNyb2tNanpSVWdYTFF4bldGU2RjN2g0OWlYaVEwYmk2TVNFLWN2RngtblN4cmVqMTlHcnZTWkx5ZE5UR1JvMmlTUEVH?oc=5",
+          "description": "Guerra Ucraina, caccia italiano abbatte drone su Lituania. Crosetto: Probabile russo Sky TG24 Tensione sul Baltico, jet italiani abbattono un drone russo ANSA Due caccia italiani abbattono un drone in Lituania, Crosetto a Vilnius: \"Provenienza incerta\" - Tajani: \"La guerra ibrida russa vuole condizionare il voto in Europa\" RaiNews Droni in Lituania, difesa e servizi intravedono la mano del Cremlin",
+          "pubDate": "Tue, 15 Sep 2026 21:59:26 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Ucraina, cosa sappiamo sull'attacco russo al treno Kiev - Varsavia - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSXl2bXJNLWw5d2tRQmxocXUzalk2TkNHYW5Jc0N4SHdocGYxdlQtUlJZTFVKSFRXcklFRGVFUUIxRk5oY3VxTWY1UUtxQU9mdWY5M2NYUVlicF9LczhUd3VFY21yRGhISFZaVWRUSW5TSUtKblp6RTFQWk9kQ3RscFBodGtXcjl1c1VyRnhibw?oc=5",
+          "description": "Guerra Ucraina, cosa sappiamo sull'attacco russo al treno Kiev - Varsavia Sky TG24 Attacco russo al treno dei diplomatici, Rutte: “Putin agisce per disperazione” la Repubblica Mosca diffonde video di un nuovo attacco alla frontiera con la Polonia ANSA Il prezzo dell’impunità di Putin Il Foglio Ucraina, l’Ue risponde al raid russo: “Attacco per spaventare l’Occidente” La Stampa",
+          "pubDate": "Mon, 14 Sep 2026 09:17:50 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Nato jets down drone that entered Lithuanian airspace",
+          "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
+          "description": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
+          "pubDate": "Tue, 15 Sep 2026 09:07:35 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Tensione sul Baltico, jet italiani abbattono un drone russo - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPbTg1UDl1VjBUeDFydGRwYW56Q2t3UWI1WlAwa1N0SnFzbFhacEJKM1FFRzR0X2hERGxVaWhfQkU3dDdVbFBmVVRFcldOWktjTmYtakxRb2pJWG82clNoS0Z5NlB3ZF9IcEhrR3laSWpIZ2M4anJySmRxVmhDLUxwWHFZZ3ppOHNUelJxVWt5VnFoMFB4TXVFa25IWVlPQWhLdUZJNFdKM09rNHU4SVRFLWZlNlgzclZDLV9tcmEzemVieUExaXdFT2pQX0lJZ3BNblhSOVdmWDVxRmtyTExpaFl0bTZpV2xkSEgyWFVrT0NSNWFhc1Nlb2djQ2hSMWdvRVFzVDNHYk05anRIenlaTHJR0gGXAkFVX3lxTE80RG1lbEVxc3ZRTW5pRmNfQlJaWFJpQVk3SEVkNl9MTi1sbUlKbzFZYlJVZWFGTFlSNjNpTTRCeXFvN29xengtd2FwVkhfd1ZLWDQzLWlFUkQzZVhQZzBuOU42ZXBRNnZEd2dZMnpXeGRRb3BKX3RQU29nUWV1enNrZUI2a2dZeEhWQ3BLNF8tVlVtejZYcXFFSEh4RHFwMWg3VVVaU3dJWFRJNnY2ZkJnV0hBYmVQVUxISzRfcVFCMk9kWFk4TFpVMmNrZDA3U0VlTElxMHcwRXNSblBWRi1yalN2U0RfN0F2RTRFZExiUnVPSGk3OG5zQloxOHBjWmk3d1dzd09zQ0sxSXhyQjlqaVNmbU1vZw?oc=5",
+          "description": "Tensione sul Baltico, jet italiani abbattono un drone russo ANSA",
+          "pubDate": "Tue, 15 Sep 2026 18:16:00 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Guerra Ucraina, Bild: drone precipita vicino base esercito tedesco. Nave russa lancia razzi e sfiora elicottero danese - Il Messaggero",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbERPdngwX2UyazhKWDRvQVdJZXZHbnFLYm9GSFNsLVo0eHJ3RkJZTXBESUxZSEpRSEV1c0dWbXFWMXhoNGUxcHdZSWNLU1B4TzJQOW9tTmNfdVBhX2NBUC02UnYycTVVT1U5TzJvVHhISDRvYlphX1dZUjc4VEZDaFE1R0otR1p1azVTYTY4cw?oc=5",
+          "description": "Guerra Ucraina, Bild: drone precipita vicino base esercito tedesco. Nave russa lancia razzi e sfiora elicottero danese Il Messaggero",
+          "pubDate": "Tue, 15 Sep 2026 15:10:32 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "guerra iran usa camera voti",
+      "label": "Camera Usa approva per la terza volta la fine della guerra in Iran: limite a Trump",
+      "n_items": 5,
+      "n_sources": 4,
+      "category": "general",
+      "macro_area": "geopolitica",
+      "richness": 4,
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "House bucks Iran war before midterms - Politico",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVzlaa3pRQ3B1UmNaWm4zOXk1ckFLSU9vSnllc09FWXU4VFBZZVB1bXJFZEVnQ012bFA2dUxUMnZsVWFuUkxYQXdQbzlJcmUyNWRwdnZobEJvdVdpNWNwSy03OW5vc21wVXozUU9KTTVCdUlWcUhCXy04bkFJMGJiWUZBUG0wZllBRmluZ3E4UUgycUdVbF9XdFMwUl9hNlM5RlFV?oc=5",
+          "description": "House bucks Iran war before midterms Politico House votes to limit Trump’s Iran war powers for the third time CNN House Directs Trump to Halt War With Iran or Secure Congress’s Approval The New York Times House votes to limit Trump's power to strike Iran for 3rd time, as 7 Republicans defect CBS News House passes Iran war powers resolution The Hill",
+          "pubDate": "Wed, 16 Sep 2026 02:59:42 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war - NPR",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzeHV1VUx0NUc0WWZGQ1NLZ1BTWU40R0pWdTdBWWRDelF0Tjd1T09sZFZUS05fR2U5QWdoMDNOSzJzUzhIYThIUG5wNkhYMFBNVWVGVzNXYm5yOW1VTFB6V2ltWWVKSXVaMXlvUGZvWWVHVGplNWRSRm5n?oc=5",
+          "description": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war NPR Thomas Massie pushes surprise impeachment vote of Pete Hegseth CNN Republican Thomas Massie proposes impeaching Pete Hegseth over Iran war The Guardian Republican Congressman Introduces Articles of Impeachment Against Defense Secretary Pete Hegseth Time Magazine House to Vote on Impeaching Hegseth Under Maneuver by",
+          "pubDate": "Tue, 15 Sep 2026 17:35:14 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Usa, Camera approva nuova misura che impone a Trump la fine della guerra in Iran",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/16/usa-camera-approva-nuova-misura-che-impone-a-trump-la-fine-della_2e9c6940-64d5-444a-93a4-333dc3bf1746.html",
+          "description": "Gelo di Teheran sui colloqui. Il Pentagono ammette: 'Le armi scarseggiano'",
+          "pubDate": "Wed, 16 Sep 2026 05:35:20 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "La Camera americana approva una misura che impone a Trump la fine della guerra in Iran",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/16/la-camera-americana-approva-una-misura-che-impone-a-trump-la-fine-della_53bd6d8c-0d1a-43ae-a8c5-8544adac84d0.html",
+          "description": "E' la terza risoluzione in questo senso",
+          "pubDate": "Wed, 16 Sep 2026 05:42:16 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+          "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+          "description": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
+          "pubDate": "Tue, 15 Sep 2026 20:34:12 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "houthi arabia saudita raid civili",
+      "label": "Raid Houthi su Riad: 13 civili feriti, crisi energetica e petrolio a 130 dollari",
+      "n_items": 5,
+      "n_sources": 3,
+      "category": "energia",
+      "macro_area": "economia",
+      "richness": 4,
+      "score": 31,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Iran, Arabia Saudita: 13 civili feriti in raid Houthi. Riad: \"Risponderemo\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGSmJtWlFLZWRnc1NEOTNlVi1seDFHRThaMGFFaW9EMXFnWF9VTnlpWVVhcDdYOHZ3RDY1UDBnMlluRTlnWXhVSzd2T2tlRTJNdFRJelQwYVJvU3RRcVBzdjQzc2swdlJvWF9kbWlvOHpESm1PSFVCT0FHUQ?oc=5",
+          "description": "Guerra Iran, Arabia Saudita: 13 civili feriti in raid Houthi. Riad: \"Risponderemo\" Sky TG24 Raid Houthi: l'arsenale e la strategia. Così la milizia sostenuta dall'Iran minaccia Riad e il Mar Rosso Corriere della Sera Funerali di Stato per Emma Bonino Il Sole 24 ORE Yemen, il bilancio pesante di 12 anni di guerra: 250mila vittime e 19 milioni di sfollati la Repubblica La presa di Bab el-Mandeb, vis",
+          "pubDate": "Tue, 15 Sep 2026 21:07:47 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Il Congresso USA: \"La guerra all'Iran è già costata 38 miliardi di dollari\" - Petrolio ancora in salita, il Brent a 108,50 dollari al barile - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNR1phVDFJVEtSYmVJRWtYM0QyUGU2dE9IdTZLZEJiRWFJQXlYS1k3ajNzN195ZDZvT1BVWTVYNXRrZlJUV2NGMnpmMHVCQjlfak5IQ2JEMnZkbnNCYmJkMGNBVjBRZTRjLXZnMGZiTjFQa0FRclBDeEVJdGJlN3pMdnJERlJlY2F1WEh1UEYwdTh5dkVYUUV0TXBPZVQ4amdTMkxiRTdhdDN1TGpqVXFRVUt3ZEtTTHlaZjNkYnNHNENvOGxCOEhKbHFqczZOYkplZGc0ZUx5V3JmS0tmUjl0Nk9BcXY2NThTQjV6ZTNQU0J6U3VUVEZtLXBHZC3SAYICQVVfeXFMUGR6TmFzcjNycHJ5SzFnbjJJR2x0TS1DZ2xycGlqRk5ueWNmOWY3N3NObHBPUHhTd3o1cmRFTzUtWjgwek5JeURrU3BJem9Xd1VUUnJaa3Bwd3dnREpUOEVncEFWWjNST0VfcnJBek15QjVUYVQyQkU3ZHBPSlozTlYwY0l0MGhJVW5WR3RoVEZSVWF0RUdTLUFWNFRMYkJOeWRrUUlvVFhEM1psbHVwNEZtVk9YSXlfX28yRGJmSW91RXk1bDJlX2ZFZTZaei1XM19jaHljMkVNTW0wQzRrczBRbG1PRm5xbFVQMlBma3pkRlhwTEJodDIwdjNBQnBZU2ZR?oc=5",
+          "description": "Il Congresso USA: \"La guerra all'Iran è già costata 38 miliardi di dollari\" - Petrolio ancora in salita, il Brent a 108,50 dollari al barile RaiNews Il Pentagono smentisce Trump: mancano le munizioni dopo la guerra in Iran Il Fatto Quotidiano Guerra in Iran, le news. Vance: “Conflitto entrerà in una nuova fase in un paio di mesi” la Repubblica Gelo di Teheran sui colloqui. Il Pentagono ammette: “L",
+          "pubDate": "Wed, 16 Sep 2026 02:01:14 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Some physical oil cargoes top $130 a barrel, nearing April's record, on Saudi disruptions - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUXd2QmNxLUwzMURZZkotelUyMGFuU2RtSHluS0ZuV2JyLXNRWF9uMUlVZU1jQW5pZ3hLQ3BiLU5oQzhxTm41cDZvLVFfN2Z4N1B6Yjh4VGxzMUcxSl9WbjBoR2hiZkgxUnFjazlHMUNyVDJaOTJlZ0JKOHN1SER3YzJnbi10emhqWmFJVjEtZEV3Q0ZRcnJkaG1DZFJHNERYa18xWVJJVS1tVGVoOS1HVEd0QzBDdFlNWk9oNWpUc0YyamFqSEtISkc3Mk4?oc=5",
+          "description": "Some physical oil cargoes top $130 a barrel, nearing April's record, on Saudi disruptions Reuters Saudi Arabia Faces ‘Worst-Case Scenario’ After Iran’s Attacks and Trump’s Rebuffs The New York Times Saudi pipeline closure is a brief interruption that will last days, U.S. Energy secretary tells CNBC CNBC Saudi Arabia faces hard choices as Houthis gain in Yemen DW.com MBS and Saudi Arabia Face Crisi",
+          "pubDate": "Tue, 15 Sep 2026 18:53:43 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Saudi-led coalition intercepts Houthi drone headed for Mecca - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc3hnUDMtSVdfWld4TnBza2xjVGdDSkp5djhtdWFBYkZWRElFN3BJZV9yODcycm9icVpFcVc1M0tvTGlsMEVTRVRxcnNjS244RDFlUzFFWkRpcDNaRkxnWnVqb2V3cFVKR1VabTJhemJtQzhoaFpzZExZQ3lrT1VGN1FuTUxqUXU1Z1dqSEZxSnZjeEl2Wnl1QmdR0gGfAUFVX3lxTE9GcXhlZlZqdDg0WE15WFM1dnJZSEVxTFd6ZmNwMFR4cDJ4bEFoMzV1d0FpUnJWWXpicXRaTF8ySU8tai1kS1Q5bC11Q3RVY1NNczNlRlA4WlJNTUhrd2d3c3FjLWJ5bHBZeE1CNFB0cnRrN0cwVlVnM3laRHVoa1hiOTIyR3lCbTRJT1c4dFN6QVJ5ZkxTSzBCbU04ZUx5SQ?oc=5",
+          "description": "Saudi-led coalition intercepts Houthi drone headed for Mecca Al Jazeera Iran war live: Saudi coalition intercepts, destroys drone headed for Mecca Al Jazeera Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca The Guardian Saudi says Houthis target Mecca, warn of 'red line' Yahoo Live Updates: Latest from Israel, Iran, and the Middle East The Jerusalem Post",
+          "pubDate": "Wed, 16 Sep 2026 02:02:57 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Il petrolio vola in chiusura a New York: +4,41% - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUV9Nb1dmbUU2bWRsZW9vM0JtOFFLT3NtZVZ5YXJnUlFoTmdRV3dSb2VFNFM0V0oyRmFmdHZoZU1yWUZsREU1czlnNC1XRmxTMndvQ2F0dDFzS3Z1WXIwUGVOMG40M2J4cU5QRkpEdk1WN25LVFpXY3E0T0RGcVhFSVpDTXA2dkI3YjBIWGhvUGVLN1A2OUh0NmE4Y2JpZHlOdkhfYnBMQjdSRS11V2dN0gFoQVVfeXFMTktIbHhzLWZCb1BxM3MxYlFCdHRfSkhSMVBhWDBmNGloOHQzdGp2Y2dXbDd1dDRzTGRYRXRtLUt6azVidEhtSFZmTU14S1lBOXYxdGxrZlZSS09lQVJaakN5NkJ0anBrYU8?oc=5",
+          "description": "Il petrolio vola in chiusura a New York: +4,41% Tgcom24 La Mecca nel mirino degli Houthi. E Riad non dà garanzie sulle forniture di petrolio all’Europa la Repubblica Davide Tabarelli: \"Andate a fare benzina: i prezzi saliranno parecchio\" HuffPost Italia Petrolio, fiammata a 110 dollari al barile. Spinta all'inflazione, su i tassi Corriere della Sera Petrolio, nuovi attacchi in Arabia Saudita: timo",
+          "pubDate": "Tue, 15 Sep 2026 20:07:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "russia omicidi servizi intelligence usa europa",
+      "label": "Usa accusano Mosca: intelligence russa pianifica omicidi mirati in America e Europa",
+      "n_items": 3,
+      "n_sources": 3,
+      "category": "general",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 21,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Usa: 'I servizi d'intelligence russi pianificano omicidi mirati in America ed Europa' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNYTg4NEZNbC1tSlU2bHo0VldFcUFiNzl2NDc0RTZzX3RNN0pxRXNnUFVTcDBRdE5QRFRmSEtjRXk5ZGdtRFdHdUNmczlHdEdLTUlyZ01vOGJHSDFrTE1xTXJDVUhZajBjcmZDUHg4NUxIc1prZUhteW54ajlhQllMUjI0SndrWElLN2hnOTczUmtHMFVhQzJxeWloOHhEYm5BemliRjBZY0JQVHotTUhNT3NqLTllY29uZjVkdHJobmJDNjNBb0tiNGlZU1piOGhLV2ZmS1pCQjVURVBMdjNhbVBqYXc3cjVyWVJ1c1dCMWg2MF9iZU1MTDFSNHo0bUluVXpj0gGIAkFVX3lxTE5Td214dGx2eXdpZXpQQmRBcVltOC1EVFpJQUs3Ui12S0JNU1NUSWl3SUU1amNGd2pQWTBVT3BmTkgwRnMwcXNDaDB6MkdBT3ZBZ1psLTVEUVRyNGVxRlNCMG5hMlFqNnlFU2haX0FWUDBEMVU0em1vWnc0Zjh2WE5UTXhXazhubFBTXy1JNWU4VWh6a29ONExKTzVVS25JN1lBR21DYXY1MjJUNlJQQVdCdjduTjRmNXZPekRWeS1OeWR3enpKcHViaFZBYi1hMzAxQTdPUkJzalhhSnRiLWZ2XzJLbGF5YUxZVHdXSDZpQVRvek5YU0JZQmNrcC1zWTBMOFBnMzZVRA?oc=5",
+          "description": "Usa: 'I servizi d'intelligence russi pianificano omicidi mirati in America ed Europa' ANSA Guerra Ucraina-Russia, le notizie in diretta | Gli Usa: «Mosca pianifica omicidi mirati anche in America e nei paesi europei che sostengono Kiev. Piani sventati dall'Fbi» Corriere della Sera RUSSIA. Obama, ‘Putin deve decidersi’: o lascia l’Ucraina, o nuove sanzioni Notizie Geopolitiche L'Fbi: \"La Russia pia",
+          "pubDate": "Wed, 16 Sep 2026 03:06:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Ucraina-Russia, le notizie in diretta | Gli Usa: «Mosca pianifica omicidi mirati anche in America e nei paesi europei che sostengono Kiev. Piani sventati dall'Fbi» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPdndwbXFjYmdvUTJmWmZ0c2l2Q0IwSV9leGtMM0F1SzBrTDFTeHdCSlJ3OF80QUJxcFhXN2p2dm5BSlpQaWdsTHBROVZfTXcwXzYzT09FV0dYY25aakd4NlFBb0RzcUxwLVZrVVV2eG9aUTh0a0tYTlV3b2NubWo0Tm1qSWpoTU5NbEcxMGxqa0NlUzJiODZpVlNRXzA1M0lLMVBtQUdBVndQakVUOVVMUGpTNHFUcE8xTTZ6TExUTURCQU90THpsek9acU1nNEZCQWo0aGJXdGRiM2w2eVQxYzhNLXpjNmNPeFd3RUJwc1hwMGRWWExSdXh1OHZlREx5N0xHRnRlSzI0dElfZGdNY09QdGdqd0xH0gGeAkFVX3lxTE5CS3RzeUh2aE1MWkVxeVhDTGtReXA0emN4cXhGYWd6cGxjdXVyM1d6RjhqSHBGWW9zeUU3cnU4ekU3WGlCWkJlOWVRdDB5VjROZmFkSjg3a3AzbTRoeWRhTHJuMFRpRktFczhqT3pCWUpIX0RuNkx1NllxR3I2M3A2YWMxWVg0Y1V3c21UTjdmakN1WEItRE83VWFKUE1hczdrLWQ5WFFLalktUVlQVjA1c05wVlJTRXN3Q0xjUl9pdF9aa3JCNllDa1RkSEk2Qkt5V3lCd2l2OTE5WFpEWmtyUVhqbWNaMEVjY052SFBTZlpTcEkyRkNtMGUyUXdpSER1RnJJc3kyeWhYazNyQmMtZ0pvNVFSakNMalZiSEE?oc=5",
+          "description": "Guerra Ucraina-Russia, le notizie in diretta | Gli Usa: «Mosca pianifica omicidi mirati anche in America e nei paesi europei che sostengono Kiev. Piani sventati dall'Fbi» Corriere della Sera RUSSIA. Obama, ‘Putin deve decidersi’: o lascia l’Ucraina, o nuove sanzioni Notizie Geopolitiche L'Fbi: \"La Russia pianifica di uccidere chi sostiene l'Ucraina negli Stati Uniti e in Europa\" today.it Usa: 'I s",
+          "pubDate": "Wed, 16 Sep 2026 03:34:43 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Usa: 'I servizi d'intelligence russi pianificano omicidi mirati in America ed Europa'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/16/usa-i-servizi-dintelligence-russi-pianificano-omicidi-mirati-in-america-ed-europa_63ccfeef-bec5-4021-8f41-80d16098fb25.html",
+          "description": "'Nei paesi allineati con Kiev', incriminate cinque persone latitanti",
+          "pubDate": "Wed, 16 Sep 2026 05:30:03 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "legge elettorale stabilicum senato",
+      "label": "Senato approva la riforma elettorale «Stabilicum»: 113 sì, opposizioni insorgono",
+      "n_items": 3,
+      "n_sources": 3,
+      "category": "general",
+      "macro_area": "societa-diritti",
+      "richness": 3,
+      "score": 21,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Via libera del Senato allo \"Stabilicum\": 113 sì, le opposizioni insorgono - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWE9XQlZjakUyQl9sTjc4WlVKXzlITHNrWXVvYV9iZnFvNDJOZzVUZ3Bxb0xSeTg4TF9kQWZUdFl5ZXh5emRpV3VndnRDOWVlTkN3ZWJlYnpzU3hYNDJDUXV1c1lMZjZmeEh1T29vY2pqdzh3TmxxbTFldElfa0llRjY1SE9LamNzWFJrMTlkWUhRRVBianNWYVBEVUdWM3k0b0N5aUNIRXVFV2RVR2pEZzhLWWJUcGRad0hVMm1NUWh5czJQNUhBT1Z6LWVMbUtxeW5VdUhxQlRwWDJJM2xzQVVEUURHd9IB6wFBVV95cUxNTVhkNHA0RnhwVVU1RFNBVnJlR0IzaDZnV0o1WUF5UmdKOVpkQUpXZ2ZUb3FYYmpxRWszSkRQbWFIbmo2UVA0WlJGWlJuNmptLWJEeTQ5QUpZVFZjUGFNZVVoNW05UWlLSGxNaDRUbEZMYk9xejl2Nk5ZeDhmSnh4X0hIckhEOGR4aG1XNy1UamQ0NE5pMmdlZDZ2cGg4dnJOWHFOdzRsMVVaMmxRS2t1elBkZkhsel83M3Q2RlFuc1Y3eFhPRy1xNGtCWFFWNUllamZlWHI2dXVkQzhxM3VLYjhxTmRnb0t3UVBr?oc=5",
+          "description": "Via libera del Senato allo \"Stabilicum\": 113 sì, le opposizioni insorgono RaiNews “Alla Camera rischio crisi”, dubbi nel governo su fiducia a Melonellum. La Russa: pareggio possibile la Repubblica Boccia: «Meloni e il centrodestra temono di perdere, ma con questo sistema elettorale allontanano gli elettori» Corriere della Sera Legge elettorale, via libera del Senato. Protesta in Aula delle opposiz",
+          "pubDate": "Tue, 15 Sep 2026 16:01:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Via libera del Senato alla legge elettorale, è scontro in Aula",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/09/15/via-libera-del-senato-alla-legge-elettorale-ora-torna-alla_4cbd1ef1-7d19-4d50-85aa-c9859de9677b.html",
+          "description": "Proteste e cartelli del campo largo: 'No alla legge truffa'. Non scontata la fiducia alla Camera",
+          "pubDate": "Tue, 15 Sep 2026 19:31:13 +0200"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Legge elettorale, premio di maggioranza, liste e soglie: che cosa cambia con lo «Stabilicum» - Corriere Roma",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWi1QcHVVZVMwdlpaUGF6ZWJsTERsa204ODB6bkdIa2tHMnhkdkEySEtUbEFrc19CNTMtc1A4TW9FaHpRbmdCRXBhUUV0WlB5c3lDcDRjUHBZaEMzTHJ1ci1VWEZaMzlWV0xiS205RGNRZ3lhUG9mbEJqcXZjUnRobGoydjNnNmVKckpfQ0ZSWi1CRW55cTEzUWQ1d0NRU1BFbWNHNE5iMW5JNXVNTEQ5NHRvaWRSTkNCakJIUlJwak5feE9WTWZXYlFKMDBQeU9zdmtkRVptUVFoOV9MVl9RQlNn0gHnAUFVX3lxTE8wUDZIamhZdXFWa01EVGVJUUxGRDY1UjB5akN3NjdBTGpfWllvU1p4U282ZGg4bWtraVJJMW4yQnRISjM3b0VmNWFCckRNLW54NmxFLU50TTQ5bXJjNS1mSDZWc0hoSTNsVnRoVUtOalpVLUN1eTNVVHc1Z25lQzVwQjU4ZVJuYVc3bk9wdmJqSy1GZnJBRkdTY2V2Wms0UU52VURTZjlCUHFOY2xFZnV0VTN3MFlpVF8yaDlEUmg5NGc4QTN6TGZzNXBDWUtPTXdfNkg3STFyY0laQTZCRWlIbzJwcFNUcw?oc=5",
+          "description": "Legge elettorale, premio di maggioranza, liste e soglie: che cosa cambia con lo «Stabilicum» Corriere Roma “Alla Camera rischio crisi”, dubbi nel governo su fiducia a Melonellum. La Russa: pareggio possibile la Repubblica Boccia: «Meloni e il centrodestra temono di perdere, ma con questo sistema elettorale allontanano gli elettori» Corriere della Sera Legge elettorale, via libera del Senato. Prote",
+          "pubDate": "Tue, 15 Sep 2026 20:39:05 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "usa armi spazio russia cina gelo",
+      "label": "Usa ammette armi nello spazio: tensione con Russia e Cina per corsa militare orbitale",
+      "n_items": 3,
+      "n_sources": 3,
+      "category": "general",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 21,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Usa: \"Abbiamo armi schierate nello spazio\". Gelo Russia e Cina - AGI",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSUQ4bGwyaWdVZ0U4VVJnZHJkWTQ0ZUg5emVvZzM0Wl81RVRfa0NVYXNzcnhENDROQnpHYVNQV2loc3FZaHdBQl9FM1VRU3djUVVKUk1nWEJoU3U1MU02UElIcVVzNDFralFCZnpFUmNrdzdydzlTbXduZHFxWFBVWFNhQ2dCZw?oc=5",
+          "description": "Usa: \"Abbiamo armi schierate nello spazio\". Gelo Russia e Cina AGI Gli Usa hanno ammesso per la prima volta di avere schierato armi nello spazio: «Sono pronte all'uso». Ira di Cina e Russia Corriere della Sera Trump lancia le Guerre Stellari, armi nello spazio contro Mosca e Pechino ANSA Tornano le Guerre Stellari, gli USA: \"Abbiamo armi spaziali in orbita\" RaiNews Usa: “Per la prima volta abbiamo",
+          "pubDate": "Tue, 15 Sep 2026 16:27:53 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "US acknowledges for the first time that it has deployed weapons in space - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaTA1b21Gd0FmOUU2Z0pROU1nZGlhTlgwZmJ3eHBTWjZzRUh0bmd1UC1xdFpGLVdWTjFJOS1RMzBFbFdIREVqbUNZOWJTb0NyaUUtSEc5MGVSbTNHQWlmY3owNHhXUENhamZYZ2I1aFBqUDhoanh3bTBPb29ReURHRENFRW10QW5xOVpF?oc=5",
+          "description": "US acknowledges for the first time that it has deployed weapons in space AP News See more headlines & perspectives on Google News",
+          "pubDate": "Wed, 16 Sep 2026 01:42:00 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "What weapon could the US have put into space?",
+          "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
+          "description": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
+          "pubDate": "Tue, 15 Sep 2026 14:23:14 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "schengen italia blocco spagna migranti",
+      "label": "Schengen: Italia proroga blocco con Spagna, Madrid protesta. Tensione su migrazioni",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "diritti",
+      "macro_area": "societa-diritti",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "Roma proroga il blocco di Schengen, Madrid attacca Meloni e Tajani",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/15/litalia-proroga-di-altri-15-giorni-il-blocco-di-schengen-con-la-spagna_cea01180-76fc-45d4-bad1-ae2182b8f3c0.html",
+          "description": "'Non sono all'altezza'. La replica: 'Reazione fuori luogo'. 'Sorpresa' italiana per gli attacchi personali",
+          "pubDate": "Tue, 15 Sep 2026 20:56:20 +0200"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Schengen, l'Italia proroga di 15 giorni il blocco con la Spagna. Madrid: \"Inutile e vergognoso\" - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPOW5SU1VWSDBLaXVxcl9tX3BGN1pEVkRIMTg5cGNPamozRXJKU2xlbGp4dXZ0TVN3WUVuOE82dkpRd1JFQlF4S3otMGh2dEF1YnpwQ0hlaDhJM0oxU0hrXzNrekZ6dVpGS3pFaXRPSlhkM0hHMzF1LWdCSDNGMmNQQUhrTzd6ZjRjLXFMZGVHTGVNRFJpQVdVb0JkYjk0azdKVmpTblZKQzFJamdSc3Fjald2YU5Pc0c0M1g4dUtwV3JtTGZPRDM5ZXNMV0wxTGZ2ZXY2cGRBSXl4MlVhYUtiQVl0Z1lLXzc1M1JTcDB2OFRiSk5rSFRwWF9IMU1pSzM2bnfSAYcCQVVfeXFMTmRHeUI5anltQUFtZ1Q3YUxibHBzaDJLbzhDSzV2UTVEN2Fvb2ExX1VHY2R4cnZJaEQzTWdNMVVqWlVLX2Ixa0FXOFlydWlmZF9OMTl1bGx5azg1QkNHVGMweUp4RV9Vb0hYai1vTEpUZ2VWMTNMYkk4Z01Sb0txUjhDMDI3RkMyYW8xbklFYTFWa2gyZkNjN25WRnlQTWNHMUFGcUNHeXlDUV9rN0hZRkVxUHJmUVBXUlJNaEc3QnVpN2ljb2FWWHZMbTdTZnhtdGFKSUxFanlyVExPS1ZGSXh5ZFZ0YVl2cW5WcW9rcWlRaDMzQmNjb0t6eDVxYjhpajFDd0ZTYm8?oc=5",
+          "description": "Schengen, l'Italia proroga di 15 giorni il blocco con la Spagna. Madrid: \"Inutile e vergognoso\" RaiNews Italia prolunga i controlli con la Spagna: la dura reazione di Madrid Il Fatto Quotidiano L’Italia ha prorogato ancora i controlli di frontiera con la Spagna Il Post Rischio basso, cautela altissima. Per il governo la Spagna è ancora un pericolo: prorogata la sospensione di Schengen HuffPost Ita",
+          "pubDate": "Tue, 15 Sep 2026 20:05:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "emma bonino funerali europeista",
+      "label": "Emma Bonino: ultimo addio della statista che difese i deboli. Presenti Mattarella e Meloni",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "general",
+      "macro_area": "societa-diritti",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "L'ultimo addio a Emma con il ricordo della sua lezione europeista",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/09/15/laddio-a-emma-bonino-prodi-la-difesa-dei-deboli-e-sempre-stata-la-sua_75b7482d-4b3a-446e-9d1a-c39d82a561f7.html",
+          "description": "Interventi di Prodi e Letta: 'La difesa dei deboli la sua stella polare'. Presenti Mattarella e Meloni",
+          "pubDate": "Tue, 15 Sep 2026 19:54:51 +0200"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Emma Bonino, ai funerali l'ultimo abbraccio di amici e politici. Le parole della sorella Domenica, le lacrime di Magi, i ricordi di Prodi: «Discuteva, discuteva, discuteva...» - Corriere Roma",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNEZKYldCdDFLRFRhaGxWcUc2ekc3TDJwSG5EYjdndTJuYkRJT2ZKT3U4SXdENGtMaDBOODZXQnlpT3JreTRVLV8taUFCZXdGZDBwRHFWNTRsT1NXQkRzTHZOVVlWMllLSmtUa3JPenBUaXkxREFhVHFqR3NOZDNFZktiNEpiQUx2SFB6X2UyV0ZtVTNfN0s2aGFEQ2ttZER2NHFtd0tSQVAwRGJWQzNUT2N1Y2pTd2tKTmRGb1pJU19NaWpIa3JRWDF3ZFhnRGtkZXlqRzRuYVU0bkNvZUhRUUJnS0RrOERE0gHuAUFVX3lxTE9yajVkWUl2YUJma1MtS0N5bUdfdkVGMS0yOE0zSUl2ejVtaUNuTTl4amF5Wk1MMloyVllTdWF4Mm1iR0cyX1JwTWpzczV3ZWpTdVlnYlkxR2N5Z1dWY1I0aHpHcUxMbGUzLVBKbXZJQkdZZnpQRHRmTWRkdFB5MUhNVlZzMnFKX01KLUpUMWFtb0NqSGdHd0VOUlA3UzBRQTNHT281TjQta3ZRLUtZZTNoaThaMjVoV2Nkay1FQnFRVUl3aHN4RkJjQVdQdG5VYzZJVVhjb1IydzgtVmNmX1VMX1k1b2I2UVNSRzRabVE?oc=5",
+          "description": "Emma Bonino, ai funerali l'ultimo abbraccio di amici e politici. Le parole della sorella Domenica, le lacrime di Magi, i ricordi di Prodi: «Discuteva, discuteva, discuteva...» Corriere Roma La lezione europeista di Bonino nel ricordo di Prodi e Letta. Gelo di Meloni la Repubblica L'ultimo addio a Emma con il ricordo della sua lezione europeista ANSA Il Presidente Mattarella alle Esequie di Stato d",
+          "pubDate": "Tue, 15 Sep 2026 15:50:55 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "petrolio prezzi record carburanti",
+      "label": "Crisi carburanti: benzina a 2,12 euro, gasolio a 2,3. Petrolio vola oltre 130 dollari",
+      "n_items": 3,
+      "n_sources": 1,
+      "category": "energia",
+      "macro_area": "economia",
+      "richness": 3,
+      "score": 15,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Benzina, nuovo record a 2,12 euro al litro: 2,3 per il gasolio - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zQjMtRFJRb1VUSnQ1Wmc2Uk9DejFVV094LWd4LThFSlI2aXNFaGhoRGw1dTczWXhwU2JVeGh6clNsTXlzdlYxbmItZUJIUy1aZG9VdHg0X1ZqYm5kRkxZbHlULVo0UTVHYUdmVUR4NDU5TnVSQkE?oc=5",
+          "description": "Benzina, nuovo record a 2,12 euro al litro: 2,3 per il gasolio Sky TG24 Carburanti: prezzi ancora su, faro sui tagli al bollo auto Il Sole 24 ORE Il caro carburante si riflette già sui conti del trasporto locale: primi aumenti a Venezia Corriere del Veneto Il gasolio non era mai costato così tanto, la benzina ci va vicina Il Post Unc, in un giorno +1 euro per pieno diesel in autostrada ANSA",
+          "pubDate": "Tue, 15 Sep 2026 10:16:12 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Il petrolio vola in chiusura a New York: +4,41% - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUV9Nb1dmbUU2bWRsZW9vM0JtOFFLT3NtZVZ5YXJnUlFoTmdRV3dSb2VFNFM0V0oyRmFmdHZoZU1yWUZsREU1czlnNC1XRmxTMndvQ2F0dDFzS3Z1WXIwUGVOMG40M2J4cU5QRkpEdk1WN25LVFpXY3E0T0RGcVhFSVpDTXA2dkI3YjBIWGhvUGVLN1A2OUh0NmE4Y2JpZHlOdkhfYnBMQjdSRS11V2dN0gFoQVVfeXFMTktIbHhzLWZCb1BxM3MxYlFCdHRfSkhSMVBhWDBmNGloOHQzdGp2Y2dXbDd1dDRzTGRYRXRtLUt6azVidEhtSFZmTU14S1lBOXYxdGxrZlZSS09lQVJaakN5NkJ0anBrYU8?oc=5",
+          "description": "Il petrolio vola in chiusura a New York: +4,41% Tgcom24 La Mecca nel mirino degli Houthi. E Riad non dà garanzie sulle forniture di petrolio all’Europa la Repubblica Davide Tabarelli: \"Andate a fare benzina: i prezzi saliranno parecchio\" HuffPost Italia Petrolio, fiammata a 110 dollari al barile. Spinta all'inflazione, su i tassi Corriere della Sera Petrolio, nuovi attacchi in Arabia Saudita: timo",
+          "pubDate": "Tue, 15 Sep 2026 20:07:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Borse, Wall Street in calo. Il petrolio vola in chiusura a New York - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVm1yNHV4MUlwZUV6R19ydUVBLWszOUkteC00MXlmbzh2LWpKUHlRQ2tQRkU5Uk8tTjZmNUhISmluQ3FyNHNrQ1V4MVZSX1ljNU1tZVkyZDFqcXRuRWowazllel92QnFRSDVpeHdEOWx0RmVDWjRuX0tLNHgtUEkwSGpYbmZGYlg0Q0huM2oxbWpqdVItYmc?oc=5",
+          "description": "Borse, Wall Street in calo. Il petrolio vola in chiusura a New York Il Sole 24 ORE Borsa: Rosso per il Dow Jones, in calo dello 0,87% alle 19:30 Borsa Italiana Wall Street apre in calo, Dj -0,27%, Nasdaq -1,28% ANSA MARKET DRIVER: futures Ws in calo, tensioni sui fronti AI e M.Oriente Milano Finanza Future USA in calo prima della riunione Fed mentre salgono petrolio e rendimenti Treasury: Dow Jone",
+          "pubDate": "Tue, 15 Sep 2026 13:47:06 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "intesa mps opas antitrust",
+      "label": "Antitrust apre istruttoria su Opas Intesa-Mps: possibili effetti sulla concorrenza",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "L’Antitrust avvia un’istruttoria per valutare l’Opas di Intesa Sanpaolo su Mps - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeHN4YjdQR2RZSTlOMXByeDFRVndPZVNRb0lpWk1wT2lDXzJZazdNYi02NHJNSDB4MVFZbDNHQW92MlhKU0hUY01FckM2YUlxdXpVWGF0ZVR2eXduRl9nbkVVSk1ad2pzTFRpa1VlQXBhUklRRGJfVXotUTlac1B4dWpZQ1lTSG0xbXdFVzVBUEotcTVIbXFScDkyTXNKTVU?oc=5",
+          "description": "L’Antitrust avvia un’istruttoria per valutare l’Opas di Intesa Sanpaolo su Mps Il Sole 24 ORE Mps-Intesa, l'Antitrust apre l'istruttoria. La battaglia tra le banche: «Offerte irrevocabili», «Noi andiamo avanti» Corriere della Sera Banco Bpm prende tempo sull’offerta di Mps. Le perplessità di Crédit Agricole la Repubblica Intesa, Gros-Pietro: su MPS, proseguiamo su nostro binario, finora molto bene",
+          "pubDate": "Tue, 15 Sep 2026 19:10:27 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "L'Antitrust avvia un'istruttoria per valutare l'opas di Intesa su Mps",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/15/antitrust-avvia-istruttoria-per-valutare-lopas-di-intesa-su-mps_c264e376-8de8-479a-b508-2ca3e158f73d.html",
+          "description": "Per verificare i possibili effetti sulla concorrenza",
+          "pubDate": "Tue, 15 Sep 2026 18:41:34 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "trump ia dati nvidia huang evento",
+      "label": "Trump telefona Ceo Nvidia durante evento IA: alleanza tech-politica sotto i riflettori",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump telefona al ceo di Nvidia Huang durante un evento sulla AI - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoM3lWamVibTVyWE9wMWJlYTBzVzBSV3hYOTA2d29DeTZSTlF3U3NQRnFabHhoamY1ZlBjbmhRRUh3Q3NiNVBGVE5DVWdINFJ0VXRGaUtSOTN4MXFSQnpMeW5NRVE2dFM2RE1PTDk3WEFWbDFsejRj?oc=5",
+          "description": "Trump telefona al ceo di Nvidia Huang durante un evento sulla AI Sky TG24 IA, il professore: \"La vera apocalisse è lo scoppio della bolla\" Il Fatto Quotidiano Le aziende di intelligenza artificiale hanno speso troppo per fermarsi Internazionale La grande sfida per l'AI Corriere della Sera Sanders&Bannon, la strana coppia mette in guardia dai rischi dell’Ia la Repubblica",
+          "pubDate": "Tue, 15 Sep 2026 13:33:21 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump Defended A.I. Data Centers on Truth Social, and Commenters Clapped Back - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPalk5OTBNM0ViSURONjkzYlViSURsR1Z6MVkwaHc1U1V3UjFVX29jSTZGVGJlTjlzQm1MaTQ1UFdPamlnZlZWLU5ZSUIzQVpkemh1Mnc0UGF3UWZ3T2Q1UnYzZl9tS1hQdzJqcGFLek1ZM2I5WXpza3o4T05uOGVqOG9abjBaQnRySHA0T3p0TQ?oc=5",
+          "description": "Trump Defended A.I. Data Centers on Truth Social, and Commenters Clapped Back The New York Times CNBC Daily Open: Is AI safe? Industry leaders and Trump disagree CNBC Bipartisan, big tech push for AI regulation comes as Trump claims 'hoax' Fox News Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit NBC News Trump’s Position on AI Makes No Sense The Atlantic",
+          "pubDate": "Wed, 16 Sep 2026 01:20:59 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "revolut hacker dati clienti polizia",
+      "label": "Truffa Revolut: hacker clonano Pec polizia, rubano dati clienti. Postale indaga",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "tech-policy",
+      "macro_area": "tech-ai",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Truffa a Revolut, hacker clonano Pec della polizia e ottengono dati di clienti: indaga la Postale - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMkVlLUNXb050NndBTzVycXNsODdjMk1wNVg2WGpKSVBENG5MX3lWeEVHSkU0bUVhYmpSS0hhV0RtMFFOYlRXM0VkeFMzVmxHOTQxNHlsaU9CTHRscHg0SHN6alFxQk1xNnpEUlpyUE41SUwzdENHNHJpUTlyQVV4SmVQODJLbEFMQnktTGp4bWJ2cTJscEFHd0EwZ1B3dXg4bGxkRElhemJyTW80dXgtYy0xZVV0TGxCcVdNOVRyU0VCYzNVczZxeUlRcThOMlFEZF9pYS1tOUdCdzFMbEE0Qjh4eWFoRFFsWnM3THpmaFNoZUlEdDI0dXBFQmxVZXVqeTFuY3Z0NNIBjAJBVV95cUxOaUJMUnJQU3ZEREZjektXQVgySFZBd1VKWlN2UlVkd2VWN2ZHUl9nbzBtdW1oYnphQm1Gb2NlWlJBVHNEVlRRQUt5aGp6aVpHMDRjdWJZSTREdTNnd0YxRW80TU01bGhkSkxPZDU5Tkc0aWFCSmtDSGJGak1qS3JiSkFUcFpKVC1Rc3FtemxTTGs3S1U0X2Z6YnJJMTRJOC1ERjB5TEdSLTRDNGhqa0Q2VlB4X1U1aFktYk5QeVN4c1VFWU1fekZIMWZqand6bTFCa3ZrRFRrUTgxTk9EcTU5alZ1YVRmeVE2ZF9TZDh0bkoteHFOek02VUNNSmNwcG5wbTJUNUpXV3pjekxE?oc=5",
+          "description": "Truffa a Revolut, hacker clonano Pec della polizia e ottengono dati di clienti: indaga la Postale RaiNews Revolut, i dati dei clienti consegnati agli hacker: «La richiesta è partita da una Pec compromessa prefettura di Reggio Calabria» Corriere della Sera Revolut ha consegnato i dati di centinaia di clienti a criminali informatici Il Post Revolut, l’attacco con la vera mail governativa: perché l’i",
+          "pubDate": "Tue, 15 Sep 2026 16:28:00 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Revolut ha consegnato i dati di centinaia di clienti a criminali informatici - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWdtTGlPWmxSTDNnUUNUNVpGS0JKemdEcUhXb1NxbWdzZEt1NFZUSkVaY1dGMWZwZkFaTVNnVUY3RG0xclB3WnZLR3lOaFotNFZYRDdCRTB5TEs2LWl4WmQ3Vkh6Z3hNOFZYajY3ankzSmN3SWNkc1hkcnRGSHRCbDRxTnRhY2JUTFc4?oc=5",
+          "description": "Revolut ha consegnato i dati di centinaia di clienti a criminali informatici Il Post",
+          "pubDate": "Tue, 15 Sep 2026 13:25:45 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "etna ceneri aeroporto catania chiuso",
+      "label": "Etna erutta: aeroporto Catania chiuso per ceneri vulcaniche, traffico deviato",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "general",
+      "macro_area": "clima-salute",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "bbc-world",
+          "title": "Ash from Mount Etna grounds flights at Sicily airport",
+          "link": "https://www.bbc.co.uk/news/articles/cq5ym3rdmkzjo?at_medium=RSS&at_campaign=rss",
+          "description": "All flights are suspended from one of Italy's busiest airports until Tuesday night.",
+          "pubDate": "Tue, 15 Sep 2026 14:35:04 GMT"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Aeroporto di Catania: chiuso fino alle 10 di martedì 15 settembre per le ceneri dell'Etna - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOQzFOa1dlT0RleUdueHMyaW51MmppTzJJaW9UYTNUYjJNMTlCZFJnY0RXRm5IdVlDUzVEenBrVk5JdXcxQkJxSzU1UXFsWDRSREh0LVVsak9LdDVoQ0NLVFZrUnpHZjJhTEtvelBfWEh2WDFtM1BMQ3NmMHQ0X2JYdmQ1WFptMzZRWHNxTEZkZDVFSTZKdkY3LUZRaXdVLWdJYlVBeF83TTlFRXhVMDFhaS1kYnhXXzlhb2VxN2FtR2RvcC1LLXgtNW9VSExLYkhQemFxRVhDWF9DVWNRTVA4X0hIX0ZVVlZkWHNPOG1URVFHVm1LUlBVWmJ3TVVJcFVPWlJEcWFuMXctLWF5eXZsWFY0X1FWM0ltVVRYVEx4dWtWSEtoZnQyZy1WY9IBsAJBVV95cUxOZ1RFQ1lQZGk1bWZQbXZEZWRSZktVUWc1b3l2b2xPRXNKdmM4cGNIaUVPVXgyUUJUc3hrYjJjZEdaZ00xTUR0RTJmdlZodTY0UWtKTERVNC16dFBNZ2xNVVMtNURwZndVQnIyQ3kyMC03Q2RDMjdPOVI0VWdpS2VQbEdCTzAwRFRXVjFtc3lPbDN0SnkzQ0UtSmdsN0ljMXZJcFJ4MzNzWVRFTTVUSzUxc0FHU0VNUktTa3JneFg5WGR4Sks2TXluUjlyMnZlSDA4VlIzN2hvWUtLZUpkaTNWQXdpSTZGSGpHVVZFTlBScUVERElBUkxDS3NHbnlFYkdPRXA3TXgtTEhYNkF3RDdxc2N2azVYaExjTjg3NENsR0ZjSXB6T3d2WWxlNVFGU3U1?oc=5",
+          "description": "Aeroporto di Catania: chiuso fino alle 10 di martedì 15 settembre per le ceneri dell'Etna Corriere della Sera AGGIORNAMENTO ETNA – 15 settembre, ore 19:00 Aeroporto Internazionale di Catania La cenere dall'Etna blocca l'aeroporto di Catania, voli sospesi fino alle 22 ANSA Etna, si abbassa il livello di allerta: emissione di cenere debole CataniaToday L'Etna blocca ancora Catania: voli sospesi fino",
+          "pubDate": "Mon, 14 Sep 2026 18:10:40 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "kennedy center chiusura trump",
+      "label": "Kennedy Center chiude per lite su finanziamenti: scontro Trump-board",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "general",
+      "macro_area": "societa-diritti",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Il board del Kennedy Center ne decreta la chiusura immediata - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORjRaczNGQnVqVmlQRkRYT3BTd1NtMVpTWFNzRnhodXpoVHk0UEFYeVEtS0ZhU3U2dDN0NDlJc0dLZS1Zd2JBbU83UG9IUnZnWVFZNkJJX1Z1S0h0bXFJbC1uU1V3WlY5eEJNdjRDRGpOeERfOXE4UktOUzkyLWxUd2ZLSC1NTGNONlJuRjJjM3NQVnFvNGhqVDdweDdGWmxHbG5ranZuS0Vadk1La29wRzNSM0o5bXBvV0dwRV9icTdaNU1NRExuSU9MY3BSRkxSSTRqcXhWNjhvSHo0dlFKSXdUeWNJaFBnbnc?oc=5",
+          "description": "Il board del Kennedy Center ne decreta la chiusura immediata ANSA Kennedy Center verso lo shutdown: il board vota la chiusura immediata dopo il no al nome di Trump RaiNews Il Kennedy Center chiude. La minaccia di Trump: “Ristrutturazione solo se c’è il mio nome” la Repubblica Il consiglio di amministrazione del Kennedy Center ha votato di nuovo per chiudere il centro per due anni Il Post Jonathan ",
+          "pubDate": "Tue, 15 Sep 2026 18:43:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Kennedy Center closes as Trump threatens to stop repairs over naming fight - washingtonpost.com",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeHVPaEZmclozVGxtVzlVZnZfUnJvUjN1ZGhhR05CR0VlaXlFWmtmQjRMcTR4OGlfQXJQN002QXQ3TTQ5ZzBZbjY4S0dlVG1OVnFxaXgzZ3pxd0JCdzFndkl4LUtza3RlMVNPWkZXYktFWmxTVUxKMUhObnAwQ3J0a25PUGxHOUlrdW1QWUxXdGQtamxHQlNNbkVlWnpvdDdDOGxWTQ?oc=5",
+          "description": "Kennedy Center closes as Trump threatens to stop repairs over naming fight washingtonpost.com Trump’s handpicked Kennedy Center board votes to immediately close venue for renovations NBC News Board votes to 'immediately' close Kennedy Center as judge says Trump's name cannot be added WUSA9 Beatty reveals heated discussion with Trump over Kennedy Center The Hill Trump \"threw a tantrum\" after losing",
+          "pubDate": "Wed, 16 Sep 2026 01:43:29 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "olanda ferrovie sabotaggi rotaie",
+      "label": "Sabotaggi sulle ferrovie olandesi: suspetti attacchi infrastrutture durante tensioni geopolitiche",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "general",
+      "macro_area": "geopolitica",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Sabotaggi sulle rotaie, in tilt le ferrovie olandesi - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWmxvNW50WFZnNVFkdUJVYW95SG1KcFdNaUctYVc5QWRQUXVuTWF2X0JxZWhYRVFUaEgwRDVCcHZpVUkwd09wV19wLWxfS1B2NlRUTW5fSjhzVE9ndl96VXNTaGtVSnliSl84aVdlc0NJSDVUOTFlSkxxaGpsSU1LZW5VRUkzSTRWenozQXVONjBXWWFvcUFpOHE0RnZzdVhObTU4RnpWb1czaGVkYVZkWVVzYmpOVjZLNVRIRHp3eEJ2eVNBSWZmS0syTHVOT1NKNnZYZlg0OXfSAd4BQVVfeXFMTWdHQWVYQVFEWXRnYllEd1MzNmhjYlRBd1o1dnNlU2cyaHlEWVkzRlVLaUVrdE9famw5eHB0cG1MVjlOUElZTUxDQTNMQTBrcU9QNlB0VGZWUFk1MGRwUlN2cFM2alMyWHlVUk5NMk51cTA4b0V1aUk2NXFmMnV1c05DMllwWUVBSTNXWXl1a3lDaVF6TlRuM2hYZHlmWFdSalpHWUljVkR2UW52UkVRVzFnblFNdXFEaDJTX0xfdEZscHZyaW4wdl90cHg3QWxpX1RHNUh4YmRGR3hGUDVn?oc=5",
+          "description": "Sabotaggi sulle rotaie, in tilt le ferrovie olandesi Corriere della Sera In buona parte dei Paesi Bassi il traffico ferroviario è stato fermato per alcune ore a causa di un sospetto sabotaggio Il Post >ANSA-BOX/ Allarme in Olanda, sabotaggio sulla rete ferroviaria ANSA Olanda, treni fermi: sabotate le ferrovie in trenta punti Il Fatto Quotidiano 'Sabotaggio sulla rete ferroviaria olandese', indaga",
+          "pubDate": "Tue, 15 Sep 2026 12:47:10 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Suspected sabotage causes major Netherlands rail disruption",
+          "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+          "description": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
+          "pubDate": "Tue, 15 Sep 2026 16:55:04 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "ue mobilità lavoratori digitali titoli",
+      "label": "UE accelera su mobilità lavoratori: titoli e previdenza digitali, qualifiche in 5 settimane",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "lavoro",
+      "macro_area": "economia",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Ue accelera su mobilità lavoratori, arrivano titoli e previdenza digitali - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNTNPckY4ZmdZckxCb0pvZmQ5a3FhN05Oa29VQVo5eXRwcERNWHFWQnBCLU1penRDYXNZSHhXeWctaHY3em1raWpoclFTUktzN2dRZi1xYmpZeGRGQkdRVzBTc2ZPSmJieXF3VEpzVlRvSkdZNmxpODl0RUVaQW1qSUUteXlvQTRidG4tZDJUVWNDN2hsZUQ1bWRXVW9Cam5KU1ZMN3REcjA3NVJUYm1qOUVrQm9aWk4xNlN2UFFwOFRab1kxbnBtWmhhMjdERng5YTVEbEFOUVRGdi1wNFF4UWxCVGxvbFBQbGtxWHY5M2g0a3JfX0stMHhn?oc=5",
+          "description": "Ue accelera su mobilità lavoratori, arrivano titoli e previdenza digitali ANSA Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Tue, 15 Sep 2026 14:09:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Ue accelera su mobilità lavoratori, arrivano titoli e previdenza digitali",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/15/ue-accelera-su-mobilita-lavoratori-arrivano-titoli-e-previdenza-digitali_112ea70b-3764-473b-b91c-a506ed846fc8.html",
+          "description": "Qualifiche anche in sole 5 settimane. 14 milioni europei vivono in altro Paese Ue",
+          "pubDate": "Tue, 15 Sep 2026 16:10:41 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "export italia luglio crescita auto cina",
+      "label": "Export italiano cresce: +4,7% a luglio, boom di auto vendute in Cina",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Export avanti (+4,7%) anche a luglio. Boom di acquisti di auto dalla Cina - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVHhMUjhPYk5oX1A1TkpXUWdFNTdHV3BONVVfaWxPNGgzYUJ1ZUlGeUI2S096YUFmdEtBZ0o5QUd0UkNkSERCM3JDdEZEUWxjamRFTF90cVpRODFSRDEyZTNHVER0UDltQzVhaDBTRHlJbWNRTzI3VHFjR0VSOVVmT1pDVXM4TUpWaGp1RDduRk1GWTVDMlpfQ1Ridm9kSFBy?oc=5",
+          "description": "Export avanti (+4,7%) anche a luglio. Boom di acquisti di auto dalla Cina Il Sole 24 ORE Bilancia commerciale globale Italia in luglio Borsa Italiana Istat, a luglio export rallenta, +0,3% mese, +4,7% anno ANSA Italia, surplus commercio estero si amplia a luglio, export in crescita - Istat Da Reuters Investing.com Istat: export italiano in crescita del 4,6% nei primi sette mesi, sale l'avanzo comm",
+          "pubDate": "Tue, 15 Sep 2026 08:37:22 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Export avanti (+4,7%) anche a luglio. Boom di acquisti di auto dalla Cina",
+          "link": "https://www.ilsole24ore.com/art/istat-bilancia-commerciale-luglio-surplus-sale-82-miliardi-AJwEJgDB",
+          "description": "Dopo lo scatto di giugno (+9,8%), nel mese di luglio il made in Italy cresce ancora, con un progresso del 4,7%, più ampio nei paesi extra-Ue (+6,6%) rispetto allo’Europa (+2,7%). ...",
+          "pubDate": "Tue, 15 Sep 2026 08:14:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "west nile oristano decessi sardegna",
+      "label": "West Nile virus: quarto decesso a Oristano. Epidemia in corso in Sardegna",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "salute",
+      "macro_area": "clima-salute",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-health",
+          "title": "West Nile, un altro decesso a Oristano: è il quarto da inizio anno - L'Unione Sarda.it - L'Unione Sarda.it",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR2Y0V1VUTDF1ZnJlWnVkTlg0aV9kWjZTazJvTF9RemxnT2d1d1lFc2RVX0FLeklrRGIwM3NGRVhOaWU5b1MxcFlTYU1pNGlodHhDMWthc3d5T19mWkREUEt6ODV1Z3RhcEFhLVdwS1BvdFM0RW9wWTY2UWIwTzVzb1VrdEoyM1EzNjZFbzJZQUJuaVVMekdiTnlQR3ljLV9Oem9IUlhWNEdXWG9nQWtIWjJGQ04wRHFGX08wX1FkV2ota3RhWm5IYlhUSFlhQdIB1gFBVV95cUxOdGJsb0lLVVFVbm5SSDRPUG93ZUpZaGpKa21Lc1Fzc2g4aWRnVkJsS0NTRFdmVzBQZWRSdThBX3lDZ2FUTWxHbHRkUE9sTXN5R1NTT3RoRnVHVmQtSTZiLUVXUFBweGUyVmJjQzNaSEdlX3BxYmFqcVdVS3NKaFlZMlJsRExacWlzcGY0dk44UWFFUWNvbjQtNVZ6UEljVTNwNkpKbGh4ZU0xd2liR1VXVVd0WjB1cFZuRURJVVpoR0pWRjR1ZUNMMkt5Z0c5bWlGTGF4RUR3?oc=5",
+          "description": "West Nile, un altro decesso a Oristano: è il quarto da inizio anno - L'Unione Sarda.it L'Unione Sarda.it Febbre del Nilo occidentale, quarto decesso nell'Oristanese ANSA Febbre del Nilo, quarto decesso nell'Oristanese RaiNews West Nile a Oristano, morta un’altra persona: è la quarta vittima del virus nella provincia OglioPoNews La Febbre del Nilo ora fa davvero paura in Sardegna: c’è una quarta vi",
+          "pubDate": "Tue, 15 Sep 2026 09:14:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "spread btp bund rendimenti aumentano",
+      "label": "Spread sale a 88 punti: rendimenti BTP-Bund ai massimi da novembre 2023",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-economia",
+          "title": "Lo spread Btp-Bund sale a 88, i rendimenti aggiornano i massimi",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/15/lo-spread-btp-bund-sale-a-88-i-rendimenti-aggiornano-i-massimi_0a6f1bab-bd6e-41ed-b096-885a291dff95.html",
+          "description": "Il decennale al 4,417%, il trentennale supera il 5%: mai così in alto da novembre 2023",
+          "pubDate": "Tue, 15 Sep 2026 18:13:55 +0200"
+        }
+      ],
+      "clustering": "claude"
+    }
+  ]
+}

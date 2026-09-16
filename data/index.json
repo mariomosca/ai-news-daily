@@ -1,5 +1,25 @@
 [
  {
+  "date": "2026-09-16",
+  "label": "Sanders e Bannon sullo stesso palco: quando l'IA fa paura anche ai nemici giurati",
+  "category": "tech-policy",
+  "macro_area": "tech-ai",
+  "target_area": "tech-ai",
+  "angle": "paradosso",
+  "structure": null,
+  "origin_keyword": "intelligenza artificiale regolamentazione rischi existenziali",
+  "origin_date": "2026-09-15",
+  "story_sim": 0.369,
+  "opening_retry": false,
+  "word_count": 1089,
+  "mode": "voice-only-nobed",
+  "rating": null,
+  "rationale": "Il paradosso di due estremi ideologici (socialista e populista di destra) che si trovano d'accordo solo sull'IA è la mossa-firma di Mia e non è ancora stato usato di recente; è più fresco del solito filone 'ricercatori avvertono estinzione' che satura da giorni con lo stesso angolo, e permette di mappare le fazioni (chi vuole rallentare, chi accelerare, chi ci guadagna) senza ripetere segui-i-soldi o zoom-out già usati ieri e l'altro ieri.",
+  "has_script": true,
+  "has_choice": true,
+  "has_candidates": true
+ },
+ {
   "date": "2026-09-15",
   "label": "Social e minori: perché vietare l'età non basta se l'algoritmo resta lo stesso",
   "category": "diritti",

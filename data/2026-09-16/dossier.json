@@ -1,0 +1,53 @@
+{
+  "topic_label": "Sanders e Bannon sullo stesso palco: quando l'IA fa paura anche ai nemici giurati",
+  "query": "Sanders Bannon intelligenza artificiale rischi alleanza trasversale",
+  "category": "tech-policy",
+  "category_claude": "tech-ai",
+  "macro_area": "tech-ai",
+  "target_area": "tech-ai",
+  "origin_keyword": "intelligenza artificiale regolamentazione rischi existenziali",
+  "origin_date": "2026-09-15",
+  "story_sim": 0.369,
+  "story_vs_date": "2026-09-10",
+  "angle": "paradosso",
+  "angle_directive": "Il paradosso al centro: la contraddizione, il 'ma/eppure/pero'. La cosa che sembra una ma e' l'opposto. E' la mossa-firma di Mia.",
+  "genre": "rassegna-di-posizioni",
+  "target_words": 1050,
+  "hot_topic": false,
+  "richness": 4,
+  "label_cluster": "Sanders e Bannon uniti contro rischi IA, 350 leader avvertono estinzione",
+  "cover_metaphor": "two opposite magnets pulled together by an invisible force",
+  "curator_rationale": "Il paradosso di due estremi ideologici (socialista e populista di destra) che si trovano d'accordo solo sull'IA è la mossa-firma di Mia e non è ancora stato usato di recente; è più fresco del solito filone 'ricercatori avvertono estinzione' che satura da giorni con lo stesso angolo, e permette di mappare le fazioni (chi vuole rallentare, chi accelerare, chi ci guadagna) senza ripetere segui-i-soldi o zoom-out già usati ieri e l'altro ieri.",
+  "articles": [
+    {
+      "title": "L'Ai unisce gli estremi Usa: Sanders e Bannon insieme contro i rischi dell'intelligenza artificiale",
+      "source": "google-news-it-top",
+      "summary": "L'Ai unisce gli estremi Usa: Sanders e Bannon insieme contro i rischi dell'intelligenza artificiale Corriere della Sera L'Intelligenza artificiale come la nuova bomba atomica? Cos'è l'Rsi e perché è il punto chiave nel disarmo dell'IA Corriere della Sera Trump telefona al ceo di Nvidia Huang durante un evento sulla AI Sky TG24 C’è da fidarsi dell’appello sulla sicurezza delle AI? ilpost.it AI, l’a"
+    },
+    {
+      "title": "Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI",
+      "source": "google-news-en-top",
+      "summary": "Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI NPR Casar urges AI whistleblowers to ‘speak the truth’ as worst-case predictions mount Politico Live updates: Bernie Sanders and Steve Bannon to join AI skeptics at ‘Pro-Human’ conference NBC News Bernie Sanders Proposes Banning Superintelligent AI and Imprisoning Developers for 20 Years Futurism Sanders and Bannon to call for"
+    },
+    {
+      "title": "Tech CEOs call for AI regulation. Trump and Congress are not rushing to act",
+      "source": "google-news-en-top",
+      "summary": "Tech CEOs call for AI regulation. Trump and Congress are not rushing to act AP News See more headlines & perspectives on Google News"
+    },
+    {
+      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+      "source": "bbc-world",
+      "summary": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory."
+    },
+    {
+      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+      "source": "bbc-business",
+      "summary": "US President Donald Trump dismisses calls to slow the development of AI, saying that claims of it \"taking over the World\" are a \"HOAX\"."
+    },
+    {
+      "title": "L'IA può portare all'estinzione, l'allerta di decine di ricercatori",
+      "source": "ansa-tecnologia",
+      "summary": "Tra i firmatari gli ad di OpenAI e Google Deepmind, ci sono anche italiani tra cui l'esperto di tecnologie dell'informazione Luca Simoncini"
+    }
+  ]
+}
