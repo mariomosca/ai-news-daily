@@ -1,5 +1,25 @@
 [
  {
+  "date": "2026-09-17",
+  "label": "Il morbillo che l'America aveva già sconfitto: perché torna proprio ora",
+  "category": "salute",
+  "macro_area": "clima-salute",
+  "target_area": "clima-salute",
+  "angle": "precedente-storico",
+  "structure": null,
+  "origin_keyword": "morbillo usa donna morte vaccini",
+  "origin_date": "2026-09-17",
+  "story_sim": 0.558,
+  "opening_retry": false,
+  "word_count": 969,
+  "mode": "voice-only-nobed",
+  "rating": null,
+  "rationale": "Gli USA avevano dichiarato il morbillo eliminato nel 2000: il precedente storico illumina il paradosso di oggi, una malattia sconfitta che torna per l'erosione della copertura vaccinale, ed è la lente giusta per capire cosa può succedere ora anche altrove, Italia inclusa. Angolo fresco (precedente-storico) mai usato negli ultimi giorni, diverso da 'paradosso' e 'zoom-out' già saturati.",
+  "has_script": true,
+  "has_choice": true,
+  "has_candidates": true
+ },
+ {
   "date": "2026-09-16",
   "label": "Sanders e Bannon sullo stesso palco: quando l'IA fa paura anche ai nemici giurati",
   "category": "tech-policy",

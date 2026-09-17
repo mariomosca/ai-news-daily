@@ -1,0 +1,28 @@
+{
+  "topic_label": "Il morbillo che l'America aveva già sconfitto: perché torna proprio ora",
+  "query": "morbillo eliminazione usa vaccini ritorno",
+  "category": "salute",
+  "category_claude": "clima-salute",
+  "macro_area": "clima-salute",
+  "target_area": "clima-salute",
+  "origin_keyword": "morbillo usa donna morte vaccini",
+  "origin_date": "2026-09-17",
+  "story_sim": 0.558,
+  "story_vs_date": "2026-09-03",
+  "angle": "precedente-storico",
+  "angle_directive": "Il precedente storico: questa scena l'abbiamo gia' vista. Un caso analogo del passato che illumina e ridimensiona l'oggi.",
+  "genre": "prospettiva",
+  "target_words": 950,
+  "hot_topic": true,
+  "richness": 3,
+  "label_cluster": "Morbillo negli Usa: muore donna 40 anni, quasi 700 contagi",
+  "cover_metaphor": "a cracked glass shield letting light back in",
+  "curator_rationale": "Gli USA avevano dichiarato il morbillo eliminato nel 2000: il precedente storico illumina il paradosso di oggi, una malattia sconfitta che torna per l'erosione della copertura vaccinale, ed è la lente giusta per capire cosa può succedere ora anche altrove, Italia inclusa. Angolo fresco (precedente-storico) mai usato negli ultimi giorni, diverso da 'paradosso' e 'zoom-out' già saturati.",
+  "articles": [
+    {
+      "title": "Morbillo, muore una donna di 40 anni: quasi 700 contagi e 124 ricoveri",
+      "source": "google-news-it-health",
+      "summary": "Morbillo, muore una donna di 40 anni: quasi 700 contagi e 124 ricoveri Mondosanità Morbillo negli Usa: quattro morti in Pennsylvania e quasi 700 casi. L’ultima vittima è un 18enne non vaccinato Il Messaggero Allerta morbillo negli Usa, quarto morto in Pennsylvania: è un 18enne non vaccinato cremonaoggi.it"
+    }
+  ]
+}
