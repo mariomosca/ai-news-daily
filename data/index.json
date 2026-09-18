@@ -1,5 +1,25 @@
 [
  {
+  "date": "2026-09-18",
+  "label": "Canada nell'UE: la nuova alleanza che riscrive gli equilibri con Trump",
+  "category": "geopolitica",
+  "macro_area": "geopolitica",
+  "target_area": "geopolitica",
+  "angle": "segui-il-potere",
+  "structure": null,
+  "origin_keyword": "canada ue membro associato",
+  "origin_date": "2026-09-18",
+  "story_sim": 0.476,
+  "opening_retry": false,
+  "word_count": 1038,
+  "mode": "voice-only-nobed",
+  "rating": null,
+  "rationale": "Il Canada che si lega all'UE come membro associato è un riposizionamento di potere geopolitico reale (non solo simbolico) che ridisegna chi conta nel blocco occidentale mentre Trump perde presa sui suoi vicini: angolo 'segui il potere' fresco rispetto ai giorni scorsi, e la notizia ha materiale sufficiente (dazi minacciati, possibile effetto domino con Australia e Nuova Zelanda) per uno spiegone su cosa succede ORA, non solo cronaca del fatto già noto.",
+  "has_script": true,
+  "has_choice": true,
+  "has_candidates": true
+ },
+ {
   "date": "2026-09-17",
   "label": "Il morbillo che l'America aveva già sconfitto: perché torna proprio ora",
   "category": "salute",

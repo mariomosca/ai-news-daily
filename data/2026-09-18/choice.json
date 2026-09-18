@@ -1,0 +1,2700 @@
+{
+  "date": "2026-09-18",
+  "target_area": "geopolitica",
+  "areas": {
+    "staleness": {
+      "geopolitica": null,
+      "economia": 3,
+      "tech-ai": 1,
+      "societa-diritti": 2,
+      "clima-salute": 0
+    },
+    "total_freq": {
+      "clima-salute": 51,
+      "tech-ai": 6,
+      "societa-diritti": 5,
+      "economia": 2,
+      "geopolitica": 19
+    },
+    "saturated": [],
+    "disabled": [],
+    "fresh_candidates": {
+      "geopolitica": 6,
+      "economia": 3,
+      "tech-ai": 2,
+      "societa-diritti": 3,
+      "clima-salute": 2
+    },
+    "ranked": [
+      "geopolitica",
+      "economia",
+      "societa-diritti",
+      "tech-ai",
+      "clima-salute"
+    ]
+  },
+  "recent_macro": [
+    {
+      "date": "2026-09-17",
+      "macro": "clima-salute"
+    },
+    {
+      "date": "2026-09-16",
+      "macro": "tech-ai"
+    },
+    {
+      "date": "2026-09-15",
+      "macro": "societa-diritti"
+    },
+    {
+      "date": "2026-09-14",
+      "macro": "economia"
+    }
+  ],
+  "told_stories": [
+    {
+      "date": "2026-09-17",
+      "label": "Il morbillo che l'America aveva già sconfitto: perché torna proprio ora"
+    },
+    {
+      "date": "2026-09-16",
+      "label": "Sanders e Bannon sullo stesso palco: quando l'IA fa paura anche ai nemici giurati"
+    },
+    {
+      "date": "2026-09-15",
+      "label": "Social e minori: perché vietare l'età non basta se l'algoritmo resta lo stesso"
+    },
+    {
+      "date": "2026-09-14",
+      "label": "Poste Italiane prende TIM: lo Stato torna padrone delle telecomunicazioni"
+    },
+    {
+      "date": "2026-09-11",
+      "label": "La Groenlandia all'Europa: il ghiaccio che si scioglie diventa geopolitica"
+    },
+    {
+      "date": "2026-09-10",
+      "label": "La Groenlandia che scioglie i conti europei: ghiaccio, geopolitica e carburante"
+    },
+    {
+      "date": "2026-09-09",
+      "label": "Caldo e rientro a scuola: chi decide quando è troppo caldo per imparare?"
+    },
+    {
+      "date": "2026-09-08",
+      "label": "Il virus del Nilo torna: il caldo ci ha consegnato una nuova normalità infettiva"
+    },
+    {
+      "date": "2026-09-04",
+      "label": "Virus del Nilo: il caldo accelera i contagi, e noi non lo sappiamo ancora"
+    }
+  ],
+  "dedup_excluded": [
+    {
+      "keyword": "west nile virus italia casi",
+      "macro": "clima-salute",
+      "origin_date": "2026-09-18",
+      "sim": 0.613,
+      "vs_date": "2026-09-08",
+      "vs_label": "Il virus del Nilo torna: il caldo ci ha consegnato una nuova normalità infettiva"
+    },
+    {
+      "keyword": "groenlandia antartide ghiaccio perdita",
+      "macro": "clima-salute",
+      "origin_date": "2026-09-18",
+      "sim": 0.747,
+      "vs_date": "2026-09-10",
+      "vs_label": "La Groenlandia che scioglie i conti europei: ghiaccio, geopolitica e carburante"
+    },
+    {
+      "keyword": "leucemia pediatrica immunoterapia chemio",
+      "macro": "clima-salute",
+      "origin_date": "2026-09-18",
+      "sim": 0.629,
+      "vs_date": "2026-09-17",
+      "vs_label": "Il morbillo che l'America aveva già sconfitto: perché torna proprio ora"
+    },
+    {
+      "keyword": "von der leyen social minori 13 anni",
+      "macro": "tech-ai",
+      "origin_date": "2026-09-18",
+      "sim": 0.672,
+      "vs_date": "2026-09-15",
+      "vs_label": "Social e minori: perché vietare l'età non basta se l'algoritmo resta lo stesso"
+    },
+    {
+      "keyword": "groenlandia antartide ghiaccio perso 11300 miliardi",
+      "macro": "clima-salute",
+      "origin_date": "2026-09-17",
+      "sim": 0.741,
+      "vs_date": "2026-09-10",
+      "vs_label": "La Groenlandia che scioglie i conti europei: ghiaccio, geopolitica e carburante"
+    },
+    {
+      "keyword": "kids act social under 13",
+      "macro": "societa-diritti",
+      "origin_date": "2026-09-17",
+      "sim": 0.669,
+      "vs_date": "2026-09-15",
+      "vs_label": "Social e minori: perché vietare l'età non basta se l'algoritmo resta lo stesso"
+    },
+    {
+      "keyword": "intelligenza artificiale rischi estinzione",
+      "macro": "tech-ai",
+      "origin_date": "2026-09-16",
+      "sim": 0.61,
+      "vs_date": "2026-09-16",
+      "vs_label": "Sanders e Bannon sullo stesso palco: quando l'IA fa paura anche ai nemici giurati"
+    },
+    {
+      "keyword": "morbillo morti epidemia usa",
+      "macro": "clima-salute",
+      "origin_date": "2026-09-16",
+      "sim": 0.818,
+      "vs_date": "2026-09-17",
+      "vs_label": "Il morbillo che l'America aveva già sconfitto: perché torna proprio ora"
+    },
+    {
+      "keyword": "intelligenza artificiale regolamentazione rischi existenziali",
+      "macro": "tech-ai",
+      "origin_date": "2026-09-15",
+      "sim": 0.841,
+      "vs_date": "2026-09-16",
+      "vs_label": "Sanders e Bannon sullo stesso palco: quando l'IA fa paura anche ai nemici giurati"
+    },
+    {
+      "keyword": "west nile virus italia morti",
+      "macro": "clima-salute",
+      "origin_date": "2026-09-15",
+      "sim": 0.612,
+      "vs_date": "2026-09-08",
+      "vs_label": "Il virus del Nilo torna: il caldo ci ha consegnato una nuova normalità infettiva"
+    },
+    {
+      "keyword": "groenlandia 12 paesi pace europa",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-15",
+      "sim": 0.695,
+      "vs_date": "2026-09-11",
+      "vs_label": "La Groenlandia all'Europa: il ghiaccio che si scioglie diventa geopolitica"
+    },
+    {
+      "keyword": "ai rallentamento sviluppo anthropic",
+      "macro": "tech-ai",
+      "origin_date": "2026-09-14",
+      "sim": 0.618,
+      "vs_date": "2026-09-16",
+      "vs_label": "Sanders e Bannon sullo stesso palco: quando l'IA fa paura anche ai nemici giurati"
+    },
+    {
+      "keyword": "ia regolamentazione obama",
+      "macro": "tech-ai",
+      "origin_date": "2026-09-14",
+      "sim": 0.651,
+      "vs_date": "2026-09-16",
+      "vs_label": "Sanders e Bannon sullo stesso palco: quando l'IA fa paura anche ai nemici giurati"
+    },
+    {
+      "keyword": "diritti sociali minori piattaforme",
+      "macro": "societa-diritti",
+      "origin_date": "2026-09-14",
+      "sim": 0.738,
+      "vs_date": "2026-09-15",
+      "vs_label": "Social e minori: perché vietare l'età non basta se l'algoritmo resta lo stesso"
+    },
+    {
+      "keyword": "artico europa 12 paesi",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-14",
+      "sim": 0.632,
+      "vs_date": "2026-09-11",
+      "vs_label": "La Groenlandia all'Europa: il ghiaccio che si scioglie diventa geopolitica"
+    },
+    {
+      "keyword": "poste italiane tim opas 66%",
+      "macro": "economia",
+      "origin_date": "2026-09-13",
+      "sim": 0.748,
+      "vs_date": "2026-09-14",
+      "vs_label": "Poste Italiane prende TIM: lo Stato torna padrone delle telecomunicazioni"
+    },
+    {
+      "keyword": "poste italiane tim opas",
+      "macro": "economia",
+      "origin_date": "2026-09-12",
+      "sim": 0.808,
+      "vs_date": "2026-09-14",
+      "vs_label": "Poste Italiane prende TIM: lo Stato torna padrone delle telecomunicazioni"
+    }
+  ],
+  "blocked": [],
+  "config": {
+    "dedup_hard_threshold": 0.6,
+    "dedup_soft_threshold": 0.5,
+    "dedup_lookback_days": 14,
+    "saturation_window": 5,
+    "saturation_cap": 3,
+    "archive_days": 7,
+    "disabled_areas": [],
+    "area_weights": {},
+    "blocked_keywords": [],
+    "forced_topic": null
+  },
+  "dry_run": false,
+  "candidates": [
+    {
+      "index": 1,
+      "keyword": "fed tassi trump inflazione",
+      "category": "economia",
+      "macro": "economia",
+      "origin_date": "2026-09-18",
+      "days_ago": 0,
+      "score": 41,
+      "n_items": 5,
+      "story_sim": 0.328,
+      "story_vs_date": "2026-09-16",
+      "story_near": false,
+      "titles": [
+        "Trump attacca la Fed dopo il rialzo dei tassi: «Il costo del denaro? Dovrebbe essere all'1%»",
+        "What the Fed's interest rate hike reveals about Warsh, Trump and inflation",
+        "Bank of Japan alza i tassi all'1,25%, ai massimi dal 1995"
+      ]
+    },
+    {
+      "index": 2,
+      "keyword": "canada ue membro associato",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-18",
+      "days_ago": 0,
+      "score": 40,
+      "n_items": 6,
+      "story_sim": 0.476,
+      "story_vs_date": "2026-09-10",
+      "story_near": false,
+      "titles": [
+        "Australia e Nuova Zelanda potrebbero seguire il Canada come membri associati dell'UE, dice Metsola",
+        "Europa, von der Leyen: niente social per i minori di 13 anni. Canada primo membro associato Ue",
+        "Carney: 'Canada e Ue saranno un faro per le democrazie'. L'ira di Trump"
+      ]
+    },
+    {
+      "index": 3,
+      "keyword": "openai comportamenti ai preoccupanti",
+      "category": "tech-ai",
+      "macro": "tech-ai",
+      "origin_date": "2026-09-18",
+      "days_ago": 0,
+      "score": 32,
+      "n_items": 4,
+      "story_sim": 0.383,
+      "story_vs_date": "2026-09-16",
+      "story_near": false,
+      "titles": [
+        "OpenAi, sei nuovi casi di comportamenti imprevisti o preoccupanti di modelli Ai",
+        "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
+        "Openai, \"sei nuovi casi di comportamento preoccupante dei modelli IA\""
+      ]
+    },
+    {
+      "index": 4,
+      "keyword": "jet russi lituania spazio aereo",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-18",
+      "days_ago": 0,
+      "score": 28,
+      "n_items": 4,
+      "story_sim": 0.485,
+      "story_vs_date": "2026-09-11",
+      "story_near": false,
+      "titles": [
+        "Jet russi violano lo spazio aereo lituano, eurofighter italiani in volo",
+        "Guerra Ucraina-Russia, le notizie in diretta | Jet russi entrano nello spazio aereo della Lituania, caccia italiani in v",
+        "Jet militari russi violano spazio aereo Lituania, intervengono i caccia italiani"
+      ]
+    },
+    {
+      "index": 5,
+      "keyword": "iran trump guerra mezzo oriente",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-18",
+      "days_ago": 0,
+      "score": 28,
+      "n_items": 4,
+      "story_sim": 0.375,
+      "story_vs_date": "2026-09-11",
+      "story_near": false,
+      "titles": [
+        "Iran, Trump: \"Verso momento cruciale, devo prendere decisione importante\" | Crosetto: \"Navi italiane passeranno da Bab e",
+        "Iran War Updates: U.N. panel cites possible U.S. war crimes as Trump again says Iran wants a deal",
+        "UN experts say grounds to believe US committed war crimes in Iran strikes"
+      ]
+    },
+    {
+      "index": 6,
+      "keyword": "bollo auto sospeso governo meloni",
+      "category": "economia",
+      "macro": "economia",
+      "origin_date": "2026-09-18",
+      "days_ago": 0,
+      "score": 20,
+      "n_items": 4,
+      "story_sim": 0.434,
+      "story_vs_date": "2026-09-04",
+      "story_near": false,
+      "titles": [
+        "Bollo auto sospeso, lo scippo di Meloni ha mandato in tilt Forza Italia. E Tajani dà l'ordine ai suoi: \"Dite è roba nost",
+        "Decreto bollo auto in Gazzetta, 1,698 miliardi da economie su Pnrr",
+        "Stop al bollo auto, ecco i modelli esenti"
+      ]
+    },
+    {
+      "index": 7,
+      "keyword": "italia navi bab el mandeb",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-18",
+      "days_ago": 0,
+      "score": 18,
+      "n_items": 3,
+      "story_sim": 0.348,
+      "story_vs_date": "2026-09-11",
+      "story_near": false,
+      "titles": [
+        "Il piano di Crosetto, 'navi italiane a Bab el-Mandeb senza aspettare l'Ue'",
+        "Iran, Trump: \"Verso momento cruciale, devo prendere decisione importante\" | Crosetto: \"Navi italiane passeranno da Bab e",
+        "Il piano di Crosetto, 'navi italiane a Bab el-Mandeb senza aspettare l'Ue'"
+      ]
+    },
+    {
+      "index": 8,
+      "keyword": "rabbino aggressione odio religioso",
+      "category": "diritti",
+      "macro": "societa-diritti",
+      "origin_date": "2026-09-18",
+      "days_ago": 0,
+      "score": 16,
+      "n_items": 2,
+      "story_sim": 0.374,
+      "story_vs_date": "2026-09-04",
+      "story_near": false,
+      "titles": [
+        "Il giudice: 'L'aggressione al rabbino violenta e dettata da odio religioso'",
+        "Il giudice: 'L'aggressione al rabbino violenta e dettata da odio religioso'"
+      ]
+    },
+    {
+      "index": 9,
+      "keyword": "ospedali bambino gesu ranking mondiale",
+      "category": "salute",
+      "macro": "clima-salute",
+      "origin_date": "2026-09-18",
+      "days_ago": 0,
+      "score": 16,
+      "n_items": 2,
+      "story_sim": 0.347,
+      "story_vs_date": "2026-09-14",
+      "story_near": false,
+      "titles": [
+        "Ospedali, Bambino Gesù quarto al mondo in pediatra. Anche Gemelli, Besta e Rizzoli nelle top ten",
+        "Il Policlinico Gemelli e il Bambino Gesù nella classifica Newsweek dei migliori ospedali"
+      ]
+    },
+    {
+      "index": 10,
+      "keyword": "elezioni russia putin duma",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-18",
+      "days_ago": 0,
+      "score": 16,
+      "n_items": 2,
+      "story_sim": 0.385,
+      "story_vs_date": "2026-09-11",
+      "story_near": false,
+      "titles": [
+        "Putin chiama i russi alle urne: 'Nessuno riuscirà a dividerci'",
+        "Russians go to polls against backdrop of Ukraine war and Putin’s tightening grip"
+      ]
+    },
+    {
+      "index": 11,
+      "keyword": "donne violenza femminicidi mattarella",
+      "category": "diritti",
+      "macro": "societa-diritti",
+      "origin_date": "2026-09-18",
+      "days_ago": 0,
+      "score": 14,
+      "n_items": 2,
+      "story_sim": 0.445,
+      "story_vs_date": "2026-09-17",
+      "story_near": false,
+      "titles": [
+        "La Stanza rosa in pronto soccorso, rifugio delle donne vittime di violenza",
+        "L'allarme di Mattarella sui femminicidi. 'E' emergenza, serve anche la scuola'"
+      ]
+    },
+    {
+      "index": 12,
+      "keyword": "auto ibride cina dazi ue",
+      "category": "economia",
+      "macro": "economia",
+      "origin_date": "2026-09-18",
+      "days_ago": 0,
+      "score": 13,
+      "n_items": 1,
+      "story_sim": 0.283,
+      "story_vs_date": "2026-09-10",
+      "story_near": false,
+      "titles": [
+        "Auto ibride, la Ue chiede alla Cina di imporre un tetto all'export: «Devono dimezzarsi». E minaccia dazi"
+      ]
+    },
+    {
+      "index": 13,
+      "keyword": "ebola congo kinshasa prevenzione",
+      "category": "salute",
+      "macro": "clima-salute",
+      "origin_date": "2026-09-18",
+      "days_ago": 0,
+      "score": 13,
+      "n_items": 1,
+      "story_sim": 0.568,
+      "story_vs_date": "2026-09-10",
+      "story_near": true,
+      "titles": [
+        "Ebola avanza in Congo. E Kinshasa si prepara: la vera difesa comincia prima del primo caso"
+      ]
+    },
+    {
+      "index": 14,
+      "keyword": "svezia elezioni kristersson dimissioni",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-18",
+      "days_ago": 0,
+      "score": 12,
+      "n_items": 2,
+      "story_sim": 0.39,
+      "story_vs_date": "2026-09-14",
+      "story_near": false,
+      "titles": [
+        "Elezioni Svezia, centrosinistra vince di misura: si dimette premier Kristersson",
+        "Swedish PM Kristersson resigns after election loss"
+      ]
+    },
+    {
+      "index": 15,
+      "keyword": "migranti certificati falsi cpr",
+      "category": "diritti",
+      "macro": "societa-diritti",
+      "origin_date": "2026-09-18",
+      "days_ago": 0,
+      "score": 9,
+      "n_items": 1,
+      "story_sim": 0.229,
+      "story_vs_date": "2026-09-04",
+      "story_near": false,
+      "titles": [
+        "Falsi certificati medici ai migranti : «Non li mando al Cpr, mi radino pure»"
+      ]
+    },
+    {
+      "index": 16,
+      "keyword": "ai estinzione umana rischi",
+      "category": "tech-ai",
+      "macro": "tech-ai",
+      "origin_date": "2026-09-18",
+      "days_ago": 0,
+      "score": 2.4,
+      "n_items": 4,
+      "story_sim": 0.572,
+      "story_vs_date": "2026-09-16",
+      "story_near": true,
+      "titles": [
+        "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+        "L'IA può portare all'estinzione, l'allerta di decine di ricercatori",
+        "L'allarme dei big, 'rischio estinzione con l'IA, è come le pandemie'"
+      ]
+    },
+    {
+      "index": 17,
+      "keyword": "canada ue associate member trump",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-17",
+      "days_ago": 1,
+      "score": 32,
+      "n_items": 4,
+      "story_sim": 0.459,
+      "story_vs_date": "2026-09-11",
+      "story_near": false,
+      "titles": [
+        "L'alleanza Canada-Ue fa infuriare Trump. Carney a Strasburgo: \"Più forti insieme\"",
+        "Carney embraces EU associate membership proposal as Trump pushes Canada closer to Europe",
+        "Costa, 'Ue partner affidabile, costruiamo rapporto più stretto con il Canada'"
+      ]
+    },
+    {
+      "index": 18,
+      "keyword": "ucraina drone nave civile mar nero",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-17",
+      "days_ago": 1,
+      "score": 32,
+      "n_items": 4,
+      "story_sim": 0.388,
+      "story_vs_date": "2026-09-04",
+      "story_near": false,
+      "titles": [
+        "Ucraina: drone russo colpisce nave civile nel Mar Nero, morto il capitano",
+        "Kiev: “Mosca ha colpito nave civile nel Mar Nero, morto capitano” LIVE",
+        "Kiev: 'Un drone russo colpisce nave civile nel Mar Nero, morto il capitano'"
+      ]
+    },
+    {
+      "index": 19,
+      "keyword": "fed tassi interesse rialzo 2027",
+      "category": "economia",
+      "macro": "economia",
+      "origin_date": "2026-09-17",
+      "days_ago": 1,
+      "score": 32,
+      "n_items": 4,
+      "story_sim": 0.313,
+      "story_vs_date": "2026-09-16",
+      "story_near": false,
+      "titles": [
+        "La Fed alza i tassi di interesse, ma prevediamo tagli nel 2027",
+        "US interest rates raised for first time in three years",
+        "Fed, perché sui tassi si prepara lo scontro tra Trump e Warsh e cosa significherebbe il denaro più costoso"
+      ]
+    },
+    {
+      "index": 20,
+      "keyword": "openai modelli comportamento anomalo",
+      "category": "tech-ai",
+      "macro": "tech-ai",
+      "origin_date": "2026-09-17",
+      "days_ago": 1,
+      "score": 32,
+      "n_items": 4,
+      "story_sim": 0.365,
+      "story_vs_date": "2026-09-08",
+      "story_near": false,
+      "titles": [
+        "OpenAI models go rogue in 6 new cases",
+        "OpenAI: 'Sei nuovi casi di comportamento preoccupante dei modelli IA'",
+        "OpenAi, sei nuovi casi di comportamenti imprevisti o preoccupanti di modelli Ai"
+      ]
+    },
+    {
+      "index": 21,
+      "keyword": "iran scuola bombardamento crimine guerra",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-17",
+      "days_ago": 1,
+      "score": 21,
+      "n_items": 3,
+      "story_sim": 0.32,
+      "story_vs_date": "2026-09-10",
+      "story_near": false,
+      "titles": [
+        "Iran, l’Onu: “Gli Usa hanno bombardato intenzionalmente la scuola di Minab, è un crimine di guerra”",
+        "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
+        "Photos show widespread damage at US sites from Iranian attacks"
+      ]
+    },
+    {
+      "index": 22,
+      "keyword": "svezia elezioni andersson centro-sinistra",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-17",
+      "days_ago": 1,
+      "score": 21,
+      "n_items": 3,
+      "story_sim": 0.391,
+      "story_vs_date": "2026-09-14",
+      "story_near": false,
+      "titles": [
+        "Il centro-sinistra vince di misura in Svezia. A Andersson il compito arduo di formare il governo",
+        "Swedish PM Ulf Kristersson resigns after election loss",
+        "Swedish PM Kristersson resigns after election loss"
+      ]
+    },
+    {
+      "index": 23,
+      "keyword": "ia ricercatori estinzione rischio",
+      "category": "tech-ai",
+      "macro": "tech-ai",
+      "origin_date": "2026-09-17",
+      "days_ago": 1,
+      "score": 18,
+      "n_items": 3,
+      "story_sim": 0.563,
+      "story_vs_date": "2026-09-16",
+      "story_near": true,
+      "titles": [
+        "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+        "L'IA può portare all'estinzione, l'allerta di decine di ricercatori",
+        "L'allarme dei big, 'rischio estinzione con l'IA, è come le pandemie'"
+      ]
+    },
+    {
+      "index": 24,
+      "keyword": "influenza vaccino ottobre campagna",
+      "category": "salute",
+      "macro": "clima-salute",
+      "origin_date": "2026-09-17",
+      "days_ago": 1,
+      "score": 18,
+      "n_items": 3,
+      "story_sim": 0.529,
+      "story_vs_date": "2026-09-17",
+      "story_near": true,
+      "titles": [
+        "Influenza, a ottobre al via la campagna con 9 vaccini aggiornati",
+        "L'autunno (e l'influenza) alle porte, presto al via la campagna vaccinale",
+        "Influenza 2026, il virologo Fabrizio Pregliasco: «Quella vera ha un esordio brusco, con febbre oltre i 38 gradi, almeno "
+      ]
+    },
+    {
+      "index": 25,
+      "keyword": "bollo auto abolito strutturale",
+      "category": "economia",
+      "macro": "economia",
+      "origin_date": "2026-09-17",
+      "days_ago": 1,
+      "score": 16,
+      "n_items": 2,
+      "story_sim": 0.371,
+      "story_vs_date": "2026-09-09",
+      "story_near": false,
+      "titles": [
+        "Meloni: 'Il bollo abolito non solo per il 2027, la misura è strutturale'. Le stime dei consumatori",
+        "Meloni: 'Il bollo abolito non solo per il 2027, la misura è strutturale'. Le stime dei consumatori"
+      ]
+    },
+    {
+      "index": 26,
+      "keyword": "revolut hacker riscatto dati",
+      "category": "tech-policy",
+      "macro": "tech-ai",
+      "origin_date": "2026-09-17",
+      "days_ago": 1,
+      "score": 16,
+      "n_items": 2,
+      "story_sim": 0.478,
+      "story_vs_date": "2026-09-14",
+      "story_near": false,
+      "titles": [
+        "Hacker contro Revolut: chiesto un riscatto milionario entro 24 ore",
+        "Revolut, gli hacker 'abbiamo i dati della polizia italiana'"
+      ]
+    },
+    {
+      "index": 27,
+      "keyword": "russia elezioni duma guerra ucraina",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-17",
+      "days_ago": 1,
+      "score": 16,
+      "n_items": 2,
+      "story_sim": 0.322,
+      "story_vs_date": "2026-09-11",
+      "story_near": false,
+      "titles": [
+        "Russia, prime elezioni Duma da guerra in Ucraina: partiti candidati e scenario politico",
+        "Putin chiama i russi alle urne: 'Nessuno riuscirà a dividerci'"
+      ]
+    },
+    {
+      "index": 28,
+      "keyword": "yemen profughi gibuti mar rosso",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-17",
+      "days_ago": 1,
+      "score": 13,
+      "n_items": 1,
+      "story_sim": 0.303,
+      "story_vs_date": "2026-09-08",
+      "story_near": false,
+      "titles": [
+        "Yemen in fiamme, Gibuti invasa: la crisi dei profughi che spaventa il Mar Rosso"
+      ]
+    },
+    {
+      "index": 29,
+      "keyword": "valditara busta proiettile minacce",
+      "category": "general",
+      "macro": "societa-diritti",
+      "origin_date": "2026-09-17",
+      "days_ago": 1,
+      "score": 12,
+      "n_items": 2,
+      "story_sim": 0.426,
+      "story_vs_date": "2026-09-04",
+      "story_near": false,
+      "titles": [
+        "Busta con proiettile e minacce al ministro Valditara. Tajani: \"Se qualcuno pensa di fermarci così si sbaglia\"",
+        "Busta con proiettile e lettera con minacce al ministro Valditara"
+      ]
+    },
+    {
+      "index": 30,
+      "keyword": "prezzi case appartamenti istat +4%",
+      "category": "economia",
+      "macro": "economia",
+      "origin_date": "2026-09-17",
+      "days_ago": 1,
+      "score": 12,
+      "n_items": 2,
+      "story_sim": 0.412,
+      "story_vs_date": "2026-09-14",
+      "story_near": false,
+      "titles": [
+        "Istat: prezzi delle case salgono +4% nel II trimestre, a Torino +8,5%",
+        "Rallenta la corsa dei prezzi delle abitazioni, +4% nel secondo trimestre 2026"
+      ]
+    },
+    {
+      "index": 31,
+      "keyword": "antisemitismo rabbino milano aggressione",
+      "category": "diritti",
+      "macro": "societa-diritti",
+      "origin_date": "2026-09-17",
+      "days_ago": 1,
+      "score": 9,
+      "n_items": 1,
+      "story_sim": 0.522,
+      "story_vs_date": "2026-09-04",
+      "story_near": true,
+      "titles": [
+        "Rabbino aggredito a Milano,\"Meghnagi: \"Sono episodi di antisemitismo preoccupanti\""
+      ]
+    },
+    {
+      "index": 32,
+      "keyword": "gaza palazzo crolla vittime",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-17",
+      "days_ago": 1,
+      "score": 9,
+      "n_items": 1,
+      "story_sim": 0.428,
+      "story_vs_date": "2026-09-08",
+      "story_near": false,
+      "titles": [
+        "Crolla un palazzo a Gaza, almeno 20 morti e 60 dispersi"
+      ]
+    },
+    {
+      "index": 33,
+      "keyword": "thaçi kosovo condanna 25 anni",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-17",
+      "days_ago": 1,
+      "score": 9,
+      "n_items": 1,
+      "story_sim": 0.313,
+      "story_vs_date": "2026-09-15",
+      "story_near": false,
+      "titles": [
+        "Thaçi condannato a 25 anni: il Kosovo insorge dopo la sentenza"
+      ]
+    },
+    {
+      "index": 34,
+      "keyword": "gaza palazzo crolla morti",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-16",
+      "days_ago": 2,
+      "score": 37,
+      "n_items": 5,
+      "story_sim": 0.489,
+      "story_vs_date": "2026-09-08",
+      "story_near": false,
+      "titles": [
+        "Crolla un palazzo a Gaza, almeno 20 morti e 60 dispersi",
+        "Gaza, crolla una palazzina danneggiata dai bombardamenti israeliani: almeno 21 i morti",
+        "War-damaged Gaza building collapses, killing 20 people sheltering inside"
+      ]
+    },
+    {
+      "index": 35,
+      "keyword": "ex ilva cig licenziamenti",
+      "category": "lavoro",
+      "macro": "economia",
+      "origin_date": "2026-09-16",
+      "days_ago": 2,
+      "score": 36,
+      "n_items": 5,
+      "story_sim": 0.402,
+      "story_vs_date": "2026-09-15",
+      "story_near": false,
+      "titles": [
+        "Ex Ilva, impegno del governo per modello di cig diverso da quella per cessazione",
+        "Ex Ilva, nessun decreto oggi in cdm, la Cassazione fissa l'udienza il 20 ottobre",
+        "Imprese indotto, sospendiamo i licenziamenti ex Ilva"
+      ]
+    },
+    {
+      "index": 36,
+      "keyword": "kosovo thaci condanna guerra",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-16",
+      "days_ago": 2,
+      "score": 28,
+      "n_items": 4,
+      "story_sim": 0.288,
+      "story_vs_date": "2026-09-10",
+      "story_near": false,
+      "titles": [
+        "A Pristina manifestanti tentano assalto a sede Ue dopo la condanna a Thaci, respinti",
+        "A Hague court convicts Kosovo’s former President Thaci of war crimes and sentences him to 25 years",
+        "Thaci condannato a 25 anni per crimini di guerra in Kosovo. I sostenitori tentano l'assalto alla sede Ue a Pristina"
+      ]
+    },
+    {
+      "index": 37,
+      "keyword": "houthi mecca arabia saudita",
+      "category": "energia",
+      "macro": "economia",
+      "origin_date": "2026-09-16",
+      "days_ago": 2,
+      "score": 24,
+      "n_items": 4,
+      "story_sim": 0.252,
+      "story_vs_date": "2026-09-17",
+      "story_near": false,
+      "titles": [
+        "Saudi Pipeline Attack Risks ‘Disastrous’ Loss of Millions of Barrels of Oil",
+        "Saudi Arabia calls an attempted Mecca attack a 'red line' as Houthis deny they did it",
+        "Saudi Arabia says it shot down Houthi drone south of Mecca"
+      ]
+    },
+    {
+      "index": 38,
+      "keyword": "russia elezioni duma putin",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-16",
+      "days_ago": 2,
+      "score": 21,
+      "n_items": 3,
+      "story_sim": 0.361,
+      "story_vs_date": "2026-09-11",
+      "story_near": false,
+      "titles": [
+        "La Russia al voto 'senza scelta'. Le prime elezioni in tempo di guerra",
+        "In wartime Russia, veterans who fought in Ukraine are running for parliament",
+        "Putin chiama i russi alle urne, 'nessuno riuscirà a dividerci'"
+      ]
+    },
+    {
+      "index": 39,
+      "keyword": "bollo auto abolizione",
+      "category": "economia",
+      "macro": "economia",
+      "origin_date": "2026-09-16",
+      "days_ago": 2,
+      "score": 21,
+      "n_items": 3,
+      "story_sim": 0.351,
+      "story_vs_date": "2026-09-15",
+      "story_near": false,
+      "titles": [
+        "Il governo abolisce il bollo per auto di piccola e media potenza e per tutte le moto. Meloni: «Via una delle tasse più o",
+        "Il Cdm approva il decreto, via il bollo sulle auto piccole e medie e sui motocicli e taglio delle accise fino al 5 ottob",
+        "Bozza dl, esenzione bollo nel 2027 per auto fino a 80kw"
+      ]
+    },
+    {
+      "index": 40,
+      "keyword": "russia omicidi pianificati fbi",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-16",
+      "days_ago": 2,
+      "score": 21,
+      "n_items": 3,
+      "story_sim": 0.456,
+      "story_vs_date": "2026-09-10",
+      "story_near": false,
+      "titles": [
+        "Drone russo su minibus 5 morti. Fbi: \"Russia pianifica omicidi in Usa ed Europa\". Mosca smentisce",
+        "Usa: 'Gli 007 russi pianificano omicidi mirati in America ed Europa'. Il Cremlino non commenta",
+        "US accuses Russia of trying to kill Ukrainian allies overseas"
+      ]
+    },
+    {
+      "index": 41,
+      "keyword": "fed tassi rialzo economia",
+      "category": "economia",
+      "macro": "economia",
+      "origin_date": "2026-09-16",
+      "days_ago": 2,
+      "score": 21,
+      "n_items": 3,
+      "story_sim": 0.288,
+      "story_vs_date": "2026-09-16",
+      "story_near": false,
+      "titles": [
+        "Fed meeting live updates: Rate hike expected for the first time in three years",
+        "Tom Lee prevede un rialzo dei tassi Fed oggi, anticipa un forte rally delle azioni",
+        "Wall Street apre in rialzo in attesa della Fed, Dj +0,10%, Nasdaq +0,45%"
+      ]
+    },
+    {
+      "index": 42,
+      "keyword": "ai aziende adozione italia",
+      "category": "tech-ai",
+      "macro": "tech-ai",
+      "origin_date": "2026-09-16",
+      "days_ago": 2,
+      "score": 20,
+      "n_items": 4,
+      "story_sim": 0.551,
+      "story_vs_date": "2026-09-16",
+      "story_near": true,
+      "titles": [
+        "La guerra per il freno dell’AI: Zuckerberg respinge la proposta di Amodei (di A. Sarno)",
+        "«L’Ai? Una grande chance per Pmi e sistema Italia»",
+        "LinkedIn sdogana l’Agente intelligente italiano per reclutare nuove leve"
+      ]
+    },
+    {
+      "index": 43,
+      "keyword": "ucraina zelensky raid bus drone",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-16",
+      "days_ago": 2,
+      "score": 20,
+      "n_items": 4,
+      "story_sim": 0.407,
+      "story_vs_date": "2026-09-11",
+      "story_near": false,
+      "titles": [
+        "Zelensky, 'raid su autobus solo un altro atto di brutalità'",
+        "Ucraina, Zelensky: \"Mosca ha preso di mira mio aereo anche a ritorno da Norvegia\". LIVE",
+        "Ucraina, Putin chiama i russi alle urne: «Nessuno riuscirà mai a dividerci». Drone russo contro bus a Nikopol: 5 morti"
+      ]
+    },
+    {
+      "index": 44,
+      "keyword": "nato fighter drone lituania",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-16",
+      "days_ago": 2,
+      "score": 16,
+      "n_items": 2,
+      "story_sim": 0.428,
+      "story_vs_date": "2026-09-10",
+      "story_near": false,
+      "titles": [
+        "Come i due caccia italiani hanno abbattuto il drone in Lituania: l'allarme dalla Germania, il decollo dei jet e la distr",
+        "NATO jets shoot down drone in Lithuania as Russia continues to provoke Europe"
+      ]
+    },
+    {
+      "index": 45,
+      "keyword": "teletrasporto quantistico immagine",
+      "category": "tech-ai",
+      "macro": "tech-ai",
+      "origin_date": "2026-09-16",
+      "days_ago": 2,
+      "score": 12,
+      "n_items": 2,
+      "story_sim": 0.27,
+      "story_vs_date": "2026-09-14",
+      "story_near": false,
+      "titles": [
+        "Primo teletrasporto quantistico di un'immagine, su 100 canali simultaneamente",
+        "Primo teletrasporto quantistico di un'immagine"
+      ]
+    },
+    {
+      "index": 46,
+      "keyword": "diabete pandemia prevenzione",
+      "category": "salute",
+      "macro": "clima-salute",
+      "origin_date": "2026-09-16",
+      "days_ago": 2,
+      "score": 12,
+      "n_items": 2,
+      "story_sim": 0.555,
+      "story_vs_date": "2026-09-17",
+      "story_near": true,
+      "titles": [
+        "In Sardegna la prima legge in Italia sulla tutela dei minori col diabete",
+        "Il diabete è una pandemia, ma si può agire prima: 26mila pazienti curati in Asst Sette Laghi"
+      ]
+    },
+    {
+      "index": 47,
+      "keyword": "ue ultranazionalisti unita",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-16",
+      "days_ago": 2,
+      "score": 12,
+      "n_items": 2,
+      "story_sim": 0.432,
+      "story_vs_date": "2026-09-10",
+      "story_near": false,
+      "titles": [
+        "Von der Leyen su stato dell'Unione: \"Ultranazionalisti e interferenze vogliono frantumare l'unità\"",
+        "Von der Leyen: 'Vogliono frantumare l'Ue, lottiamo per la nostra Europa'"
+      ]
+    },
+    {
+      "index": 48,
+      "keyword": "inflazione energia agosto agosto",
+      "category": "economia",
+      "macro": "economia",
+      "origin_date": "2026-09-16",
+      "days_ago": 2,
+      "score": 12,
+      "n_items": 2,
+      "story_sim": 0.394,
+      "story_vs_date": "2026-09-10",
+      "story_near": false,
+      "titles": [
+        "Istat, energia spinge l'inflazione: quali sono gli aumenti maggiori",
+        "Istat, l’energia spinge l’inflazione di agosto al 3,3%. Frena il carrello della spesa"
+      ]
+    },
+    {
+      "index": 49,
+      "keyword": "clima estate emergenze von der leyen",
+      "category": "clima",
+      "macro": "clima-salute",
+      "origin_date": "2026-09-16",
+      "days_ago": 2,
+      "score": 10,
+      "n_items": 2,
+      "story_sim": 0.497,
+      "story_vs_date": "2026-09-08",
+      "story_near": false,
+      "titles": [
+        "Von der Leyen ora rincorre le emergenze climatiche. \"È stata l'estate della verità\": l'ammissione tra promesse e contrad",
+        "Von der Leyen, 'Ceuta è Europa, nuovo strumento ad hoc su emergenza migranti'"
+      ]
+    },
+    {
+      "index": 50,
+      "keyword": "intesa sanpaolo mps opas",
+      "category": "economia",
+      "macro": "economia",
+      "origin_date": "2026-09-16",
+      "days_ago": 2,
+      "score": 9,
+      "n_items": 1,
+      "story_sim": 0.325,
+      "story_vs_date": "2026-09-14",
+      "story_near": false,
+      "titles": [
+        "L’Ivass dà il via libera a Intesa Sanpaolo nell’Opas su Mps"
+      ]
+    },
+    {
+      "index": 51,
+      "keyword": "drone abbattuto lituania nato",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-15",
+      "days_ago": 3,
+      "score": 41,
+      "n_items": 5,
+      "story_sim": 0.526,
+      "story_vs_date": "2026-09-04",
+      "story_near": true,
+      "titles": [
+        "Caccia italiani abbattono un drone sopra la Lituania. 'Fregata russa lancia due bengala e sfiora un elicottero danese'",
+        "Ucraina, caccia italiano abbatte drone su Lituania. Crosetto: \"Probabilmente russo\". LIVE",
+        "Caccia italiani abbattono un drone sopra la Lituania. Mosca: 'Se la Polonia attacca, annientata in 2/3 giorni'"
+      ]
+    },
+    {
+      "index": 52,
+      "keyword": "emma bonino addio funerale politica",
+      "category": "general",
+      "macro": "societa-diritti",
+      "origin_date": "2026-09-15",
+      "days_ago": 3,
+      "score": 24,
+      "n_items": 4,
+      "story_sim": 0.342,
+      "story_vs_date": "2026-09-04",
+      "story_near": false,
+      "titles": [
+        "Il coraggio di contare | Bonino, e le donne che non hanno paura di disturbare",
+        "Gabriella Querino ritrovata senza vita dopo l'incidente tra taxi e barchino a Venezia, il sindaco: «Oggi si spegne anche",
+        "L'addio a Emma Bonino, Prodi: 'La difesa dei deboli è sempre stata la sua stella polare'"
+      ]
+    },
+    {
+      "index": 53,
+      "keyword": "unicredit commerzbank banco bpm acquisizione",
+      "category": "economia",
+      "macro": "economia",
+      "origin_date": "2026-09-15",
+      "days_ago": 3,
+      "score": 22,
+      "n_items": 3,
+      "story_sim": 0.352,
+      "story_vs_date": "2026-09-14",
+      "story_near": false,
+      "titles": [
+        "Mps-Intesa, botta e risposta: «La doppia offerta su Banco Bpm e Banca Generali è irrevocabile». «Noi andiamo avanti»",
+        "UniCredit-Commerzbank, Orcel dopo l’incontro a Berlino: cosa succede ora",
+        "Gros-Pietro, 'offerte Mps irrevocabili? Noi proseguiamo sul nostro binario'"
+      ]
+    },
+    {
+      "index": 54,
+      "keyword": "ucraina tregua energetica trump zelensky",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-15",
+      "days_ago": 3,
+      "score": 21,
+      "n_items": 3,
+      "story_sim": 0.475,
+      "story_vs_date": "2026-09-11",
+      "story_near": false,
+      "titles": [
+        "Trump annuncia la tregua degli obiettivi energetici tra Mosca e Kiev. Zelensky: “La rispettiamo”",
+        "Ukraine and Russia Deny Trump’s Claims of an Energy Truce",
+        "Cremlino, 'buona idea' da Trump di sospendere gli attacchi alle raffinerie"
+      ]
+    },
+    {
+      "index": 55,
+      "keyword": "sabotaggio ferrovie olanda danimarca russia",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-15",
+      "days_ago": 3,
+      "score": 21,
+      "n_items": 3,
+      "story_sim": 0.377,
+      "story_vs_date": "2026-09-14",
+      "story_near": false,
+      "titles": [
+        "Sabotaggi sulle rotaie, in tilt le ferrovie olandesi",
+        "'Sabotaggio sulla rete ferroviaria olandese', indagano gli 007",
+        "Suspected sabotage causes major Netherlands rail disruption"
+      ]
+    },
+    {
+      "index": 56,
+      "keyword": "usa spazio armi militari cina",
+      "category": "tech-policy",
+      "macro": "tech-ai",
+      "origin_date": "2026-09-15",
+      "days_ago": 3,
+      "score": 21,
+      "n_items": 3,
+      "story_sim": 0.384,
+      "story_vs_date": "2026-09-11",
+      "story_near": false,
+      "titles": [
+        "Usa: “Per la prima volta abbiamo armi nello spazio”. Scontro con la Cina: “Smettete di prepararvi alla guerra”",
+        "US confirms for first time it has deployed weapons in space",
+        "What weapon could the US have put into space?"
+      ]
+    },
+    {
+      "index": 57,
+      "keyword": "legge elettorale italia senato rosatellum stabilicum",
+      "category": "general",
+      "macro": "societa-diritti",
+      "origin_date": "2026-09-15",
+      "days_ago": 3,
+      "score": 21,
+      "n_items": 3,
+      "story_sim": 0.419,
+      "story_vs_date": "2026-09-14",
+      "story_near": false,
+      "titles": [
+        "Legge elettorale, le simulazioni di YouTrend con Rosatellum e Stabilicum: ecco cosa cambia",
+        "Via libera del Senato alla legge elettorale, ora torna alla Camera",
+        "Legge elettorale, via libera del Senato con 113 sì. Le opposizioni protestano in Aula: «Legge truffa"
+      ]
+    },
+    {
+      "index": 58,
+      "keyword": "schengen italia spagna terrorismo",
+      "category": "general",
+      "macro": "societa-diritti",
+      "origin_date": "2026-09-15",
+      "days_ago": 3,
+      "score": 20,
+      "n_items": 4,
+      "story_sim": 0.542,
+      "story_vs_date": "2026-09-10",
+      "story_near": true,
+      "titles": [
+        "L'Italia proroga di altri 15 giorni il blocco di Schengen con la Spagna",
+        "L'Italia proroga di altri 15 giorni il blocco di Schengen con la Spagna, Madrid risponde",
+        "Tajani, 'nessun pregiudizio con la Spagna, solo sicurezza'"
+      ]
+    },
+    {
+      "index": 59,
+      "keyword": "benzina carburanti record prezzo diesel",
+      "category": "economia",
+      "macro": "economia",
+      "origin_date": "2026-09-15",
+      "days_ago": 3,
+      "score": 16,
+      "n_items": 2,
+      "story_sim": 0.264,
+      "story_vs_date": "2026-09-11",
+      "story_near": false,
+      "titles": [
+        "Benzina, nuovo record a 2,12 euro al litro: 2,3 per il gasolio",
+        "Petrol and diesel prices hit highest since 2022"
+      ]
+    },
+    {
+      "index": 60,
+      "keyword": "export italia luglio crescita 4.7",
+      "category": "economia",
+      "macro": "economia",
+      "origin_date": "2026-09-15",
+      "days_ago": 3,
+      "score": 16,
+      "n_items": 2,
+      "story_sim": 0.438,
+      "story_vs_date": "2026-09-14",
+      "story_near": false,
+      "titles": [
+        "Export avanti (+4,7%) anche a luglio. Boom di acquisti di auto dalla Cina",
+        "Export avanti (+4,7%) anche a luglio. Boom di acquisti di auto dalla Cina"
+      ]
+    },
+    {
+      "index": 61,
+      "keyword": "iran usa negoziati dialogo",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-15",
+      "days_ago": 3,
+      "score": 16,
+      "n_items": 2,
+      "story_sim": 0.365,
+      "story_vs_date": "2026-09-11",
+      "story_near": false,
+      "titles": [
+        "L'Iran: 'Nessuna trattativa con gli Usa'. Il Pentagono smentisce Trump: 'Carenza di munizioni'",
+        "L'Iran: 'Nessuna trattativa con gli Usa'. Il Pentagono smentisce Trump: 'Carenza di munizioni'"
+      ]
+    },
+    {
+      "index": 62,
+      "keyword": "revolut dati clienti hacker frode",
+      "category": "tech-ai",
+      "macro": "tech-ai",
+      "origin_date": "2026-09-15",
+      "days_ago": 3,
+      "score": 12,
+      "n_items": 2,
+      "story_sim": 0.513,
+      "story_vs_date": "2026-09-14",
+      "story_near": true,
+      "titles": [
+        "Revolut consegna i dati di 700 clienti ai truffatori. La pista italiana",
+        "Revolut, i dati dei clienti consegnati agli hacker: la richiesta è partita dalla Pec di una istituzione italiana"
+      ]
+    },
+    {
+      "index": 63,
+      "keyword": "etna eruzione catania aeroporto voli",
+      "category": "clima",
+      "macro": "clima-salute",
+      "origin_date": "2026-09-15",
+      "days_ago": 3,
+      "score": 12,
+      "n_items": 2,
+      "story_sim": 0.23,
+      "story_vs_date": "2026-09-14",
+      "story_near": false,
+      "titles": [
+        "Eruzione Etna, voli sospesi fino alle 14:30 all'aeroporto di Catania",
+        "Ash from Mount Etna grounds flights at Sicily airport"
+      ]
+    },
+    {
+      "index": 64,
+      "keyword": "houthi arabia saudita raid civili",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-15",
+      "days_ago": 3,
+      "score": 12,
+      "n_items": 2,
+      "story_sim": 0.25,
+      "story_vs_date": "2026-09-08",
+      "story_near": false,
+      "titles": [
+        "Guerra Iran, Arabia Saudita: 13 civili feriti in raid Houthi. Riad: \"Risponderemo\". LIVE",
+        "Saudi Arabia: Satellite image reveals major damage that shut crucial oil pipeline"
+      ]
+    },
+    {
+      "index": 65,
+      "keyword": "influenza 2026 bassetti stagione grave",
+      "category": "salute",
+      "macro": "clima-salute",
+      "origin_date": "2026-09-15",
+      "days_ago": 3,
+      "score": 10,
+      "n_items": 2,
+      "story_sim": 0.415,
+      "story_vs_date": "2026-09-09",
+      "story_near": false,
+      "titles": [
+        "Influenza, stagione in anticipo? Già diversi casi di polmonite, Andreoni: «Sbalzi termici e ritorno dalle vacanze, così ",
+        "Influenza 2026-2027, Matteo Bassetti: «Rischio forme più gravi dello scorso anno: ecco come sarà». I nuovi ceppi e i vac"
+      ]
+    },
+    {
+      "index": 66,
+      "keyword": "polonia minaccia russia annientamento",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-15",
+      "days_ago": 3,
+      "score": 10,
+      "n_items": 2,
+      "story_sim": 0.597,
+      "story_vs_date": "2026-09-11",
+      "story_near": true,
+      "titles": [
+        "Consigliere Putin: «Se la Polonia ci attacca, sarà annientata in 2-3 giorni»",
+        "'La pace in Europa è a rischio, ma non ci faremo intimidire'"
+      ]
+    },
+    {
+      "index": 67,
+      "keyword": "brasil lula ballottaggio bolsonaro sondaggi",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-15",
+      "days_ago": 3,
+      "score": 10,
+      "n_items": 2,
+      "story_sim": 0.343,
+      "story_vs_date": "2026-09-16",
+      "story_near": false,
+      "titles": [
+        "Elezioni in Brasile, Lula rallenta ancora e Flavio Bolsonaro è più vicino",
+        "Lula andrà all'Onu nella fase finale della campagna elettorale"
+      ]
+    },
+    {
+      "index": 68,
+      "keyword": "petrolio saudita oleodotto droni",
+      "category": "energia",
+      "macro": "economia",
+      "origin_date": "2026-09-14",
+      "days_ago": 4,
+      "score": 31,
+      "n_items": 5,
+      "story_sim": 0.373,
+      "story_vs_date": "2026-09-11",
+      "story_near": false,
+      "titles": [
+        "Borse in diretta, petrolio oggi 14 settembre | Lo stop all'oleodotto saudita manda alle stelle il barile, gas ai massimi",
+        "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow",
+        "Il petrolio in rialzo a New York a 104,14 dollari"
+      ]
+    },
+    {
+      "index": 69,
+      "keyword": "svezia elezioni governo",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-14",
+      "days_ago": 4,
+      "score": 28,
+      "n_items": 4,
+      "story_sim": 0.557,
+      "story_vs_date": "2026-09-10",
+      "story_near": true,
+      "titles": [
+        "Elezioni in Svezia, l'estrema destra perde voti ma è stallo sul governo",
+        "Svezia, anche i socialdemocratici scelgono la linea dura sui migranti",
+        "Il centrosinistra in vantaggio in Svezia, ma è incognita per il governo"
+      ]
+    },
+    {
+      "index": 70,
+      "keyword": "ucraina russia treno confine",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-14",
+      "days_ago": 4,
+      "score": 25,
+      "n_items": 3,
+      "story_sim": 0.387,
+      "story_vs_date": "2026-09-11",
+      "story_near": false,
+      "titles": [
+        "Guerra Ucraina-Russia, le notizie in diretta | Kallas (Ue): «L'attacco al treno al confine tra Ucraina e Polonia messagg",
+        "Guerra Ucraina-Russia, le notizie in diretta | Raid di Mosca al confine con la Polonia, colpiti un treno e una stazione ",
+        "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station"
+      ]
+    },
+    {
+      "index": 71,
+      "keyword": "borse europa petrolio chip",
+      "category": "economia",
+      "macro": "economia",
+      "origin_date": "2026-09-14",
+      "days_ago": 4,
+      "score": 24,
+      "n_items": 4,
+      "story_sim": 0.473,
+      "story_vs_date": "2026-09-10",
+      "story_near": false,
+      "titles": [
+        "Pressione sulla Borsa di Milano, che perde terreno insieme alle altre Borse europee",
+        "Wall Street apre in calo, Dj -0,27%, Nasdaq -1,28%",
+        "Borsa: l'Europa in rosso guarda al Medio Oriente, Brent verso 110 dollari"
+      ]
+    },
+    {
+      "index": 72,
+      "keyword": "iran houthi mar rosso",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-14",
+      "days_ago": 4,
+      "score": 21,
+      "n_items": 3,
+      "story_sim": 0.396,
+      "story_vs_date": "2026-09-11",
+      "story_near": false,
+      "titles": [
+        "Guerra Iran Usa, media: Houthi conquistano altre isole nel sud Mar Rosso. LIVE",
+        "Iran War Updates: Oil prices jump to near 4-month high as Oman-Iran talks on Strait of Hormuz postponed",
+        "Von der Leyen condanna attacchi degli Houthi a Riad, 'lavoriamo per stabilità'"
+      ]
+    },
+    {
+      "index": 73,
+      "keyword": "ilva taranto sciopero blocco",
+      "category": "lavoro",
+      "macro": "economia",
+      "origin_date": "2026-09-14",
+      "days_ago": 4,
+      "score": 18,
+      "n_items": 3,
+      "story_sim": 0.458,
+      "story_vs_date": "2026-09-14",
+      "story_near": false,
+      "titles": [
+        "Ex Ilva: protesta dell'indotto, sciopero di 24 ore e blocco delle strade",
+        "Ex Ilva, sciopero di 24 ore e blocco delle strade",
+        "Ex Ilva Taranto: piano governativo a fasi per gestire lo stop all’area a caldo e le ripercussioni occupazionali"
+      ]
+    },
+    {
+      "index": 74,
+      "keyword": "btp rendimenti spread tasso",
+      "category": "economia",
+      "macro": "economia",
+      "origin_date": "2026-09-14",
+      "days_ago": 4,
+      "score": 16,
+      "n_items": 2,
+      "story_sim": 0.403,
+      "story_vs_date": "2026-09-14",
+      "story_near": false,
+      "titles": [
+        "Btp al 4,38% ai massimi da 2 anni: cosa sta succedendo ai bond",
+        "Prosegue l'aumento dei rendimenti globali, Btp sale al 4,38%. Si allarga spread Francia"
+      ]
+    },
+    {
+      "index": 75,
+      "keyword": "fed tassi probabilita aumento",
+      "category": "economia",
+      "macro": "economia",
+      "origin_date": "2026-09-14",
+      "days_ago": 4,
+      "score": 15,
+      "n_items": 3,
+      "story_sim": 0.422,
+      "story_vs_date": "2026-09-14",
+      "story_near": false,
+      "titles": [
+        "I mercati ora prezzano quattro altri rialzi dei tassi Bce",
+        "Nvidia in calo a Wall Street con l'allarme sull'IA, perde il 3,88%",
+        "Wall Street apre in calo, Dj -0,27%, Nasdaq -1,28%"
+      ]
+    },
+    {
+      "index": 76,
+      "keyword": "ia cina guerra russo abuso",
+      "category": "tech-ai",
+      "macro": "tech-ai",
+      "origin_date": "2026-09-14",
+      "days_ago": 4,
+      "score": 13,
+      "n_items": 1,
+      "story_sim": 0.455,
+      "story_vs_date": "2026-09-16",
+      "story_near": false,
+      "titles": [
+        "AI e guerra: ecco come Cina e Russia sfruttano Claude per armi e propaganda, gli abusi denunciati da Anthropic"
+      ]
+    },
+    {
+      "index": 77,
+      "keyword": "russia perdite soldati reclutamento",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-14",
+      "days_ago": 4,
+      "score": 13,
+      "n_items": 1,
+      "story_sim": 0.41,
+      "story_vs_date": "2026-09-10",
+      "story_near": false,
+      "titles": [
+        "I morti non tornano | La Russia perde 6.000 soldati al mese più di quanti ne recluti"
+      ]
+    },
+    {
+      "index": 78,
+      "keyword": "turchia lgbtq+ raid polizia",
+      "category": "diritti",
+      "macro": "societa-diritti",
+      "origin_date": "2026-09-14",
+      "days_ago": 4,
+      "score": 9,
+      "n_items": 1,
+      "story_sim": 0.238,
+      "story_vs_date": "2026-09-15",
+      "story_near": false,
+      "titles": [
+        "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists"
+      ]
+    },
+    {
+      "index": 79,
+      "keyword": "medici base sciopero 15 16 settembre",
+      "category": "lavoro",
+      "macro": "economia",
+      "origin_date": "2026-09-14",
+      "days_ago": 4,
+      "score": 9,
+      "n_items": 1,
+      "story_sim": 0.324,
+      "story_vs_date": "2026-09-17",
+      "story_near": false,
+      "titles": [
+        "Il 15 e 16 settembre sciopero dei medici di base, manifestazioni in diverse città"
+      ]
+    },
+    {
+      "index": 80,
+      "keyword": "ia clinici frodi studi",
+      "category": "salute",
+      "macro": "clima-salute",
+      "origin_date": "2026-09-14",
+      "days_ago": 4,
+      "score": 9,
+      "n_items": 1,
+      "story_sim": 0.431,
+      "story_vs_date": "2026-09-16",
+      "story_near": false,
+      "titles": [
+        "Così l'Intelligenza artificiale è usata per imbrogliare negli studi clinici"
+      ]
+    },
+    {
+      "index": 81,
+      "keyword": "ucraina corruzione procuratore",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-14",
+      "days_ago": 4,
+      "score": 9,
+      "n_items": 1,
+      "story_sim": 0.203,
+      "story_vs_date": "2026-09-14",
+      "story_near": false,
+      "titles": [
+        "In Ucraina si è dimesso il procuratore generale per uno scandalo di corruzione che coinvolgeva un membro del suo ufficio"
+      ]
+    },
+    {
+      "index": 82,
+      "keyword": "iran nucleare aiea esclusione",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-14",
+      "days_ago": 4,
+      "score": 9,
+      "n_items": 1,
+      "story_sim": 0.286,
+      "story_vs_date": "2026-09-11",
+      "story_near": false,
+      "titles": [
+        "Media iraniani: 'Gli Stati Uniti hanno escluso il capo dell'agenzia nucleare di Teheran dal vertice Aiea'"
+      ]
+    },
+    {
+      "index": 83,
+      "keyword": "clima el nino autunno inverno",
+      "category": "clima",
+      "macro": "clima-salute",
+      "origin_date": "2026-09-14",
+      "days_ago": 4,
+      "score": 1.3,
+      "n_items": 1,
+      "story_sim": 0.439,
+      "story_vs_date": "2026-09-10",
+      "story_near": false,
+      "titles": [
+        "El Niño stravolge l’autunno e l’inverno nel pianeta: ecco le previsioni e le conseguenze sull’Italia"
+      ]
+    },
+    {
+      "index": 84,
+      "keyword": "houthi arabia saudita attacchi",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-13",
+      "days_ago": 5,
+      "score": 79,
+      "n_items": 9,
+      "story_sim": 0.261,
+      "story_vs_date": "2026-09-10",
+      "story_near": false,
+      "titles": [
+        "Iran, Houthi attaccano il sud dell’Arabia Saudita. Smentito contatto con gli Usa",
+        "Houthi, 'colpita una base militare saudita con missili balistici e droni'",
+        "L'Arabia Saudita: \"Oleodotto Est-Ovest colpito da droni provenienti dall'Iraq\" | Pezeshkian: \"Non ci piegheremo agli Usa"
+      ]
+    },
+    {
+      "index": 85,
+      "keyword": "anthropic ia rallentare sviluppo",
+      "category": "tech-ai",
+      "macro": "tech-ai",
+      "origin_date": "2026-09-13",
+      "days_ago": 5,
+      "score": 72,
+      "n_items": 8,
+      "story_sim": 0.496,
+      "story_vs_date": "2026-09-16",
+      "story_near": false,
+      "titles": [
+        "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+        "Anthropic: 'Senza misure di sicurezza l'IA potrebbe controllare Internet in 6-12 mesi'",
+        "Musk e Altman, 'Anthropic ha ragione su rallentamento sviluppo IA'"
+      ]
+    },
+    {
+      "index": 86,
+      "keyword": "zelensky putin g20 miami",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-13",
+      "days_ago": 5,
+      "score": 44,
+      "n_items": 7,
+      "story_sim": 0.447,
+      "story_vs_date": "2026-09-11",
+      "story_near": false,
+      "titles": [
+        "Zelensky invita Putin al G20. Il Cremlino replica: «Venga a Mosca». Le mosse Usa in vista del vertice di Miami",
+        "Guerra Ucraina-Russia, le notizie in diretta | Zelensky propone di incontrare Putin al G20 di Miami a dicembre. Il Creml",
+        "Guerra Ucraina"
+      ]
+    },
+    {
+      "index": 87,
+      "keyword": "ex ilva taranto area caldo",
+      "category": "energia",
+      "macro": "economia",
+      "origin_date": "2026-09-13",
+      "days_ago": 5,
+      "score": 31,
+      "n_items": 5,
+      "story_sim": 0.46,
+      "story_vs_date": "2026-09-14",
+      "story_near": false,
+      "titles": [
+        "Ex Ilva, \"fuoriuscita materiale schiumoso verso i canali\"",
+        "Ex Ilva Taranto: piano governativo a fasi per gestire lo stop all’area a caldo e le ripercussioni occupazionali",
+        "Produzione avanti adagio in Lombardia"
+      ]
+    },
+    {
+      "index": 88,
+      "keyword": "indonesia nave dispersa mare giava",
+      "category": "general",
+      "macro": "societa-diritti",
+      "origin_date": "2026-09-13",
+      "days_ago": 5,
+      "score": 28,
+      "n_items": 4,
+      "story_sim": 0.291,
+      "story_vs_date": "2026-09-08",
+      "story_near": false,
+      "titles": [
+        "Dispersa nel Mare di Giava una nave con 241 persone a bordo: soccorsi in corsa contro il tempo",
+        "Alla deriva nel Mare di Giava una nave con 241 persone a bordo: 102 tratti in salvo, una vittima",
+        "Rescuers searching for 140 people from Indonesia passenger ship, official says"
+      ]
+    },
+    {
+      "index": 89,
+      "keyword": "carburanti benzina diesel rincari",
+      "category": "economia",
+      "macro": "economia",
+      "origin_date": "2026-09-13",
+      "days_ago": 5,
+      "score": 24,
+      "n_items": 4,
+      "story_sim": 0.593,
+      "story_vs_date": "2026-09-10",
+      "story_near": true,
+      "titles": [
+        "Carburanti, corsa senza fine. La benzina a 2,1 euro, diesel a 2,208. Ecco i rincari in 30 anni",
+        "Caro carburanti, le ipotesi di aiuti allo studio del governo",
+        "Il Cdm approva il decreto, taglio delle accise prorogato di una settimana"
+      ]
+    },
+    {
+      "index": 90,
+      "keyword": "trump irlanda unificazione",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-13",
+      "days_ago": 5,
+      "score": 21,
+      "n_items": 3,
+      "story_sim": 0.349,
+      "story_vs_date": "2026-09-11",
+      "story_near": false,
+      "titles": [
+        "Trump in visita a Dublino: “L’Irlanda tornerà a essere unita: sarà bellissimo”",
+        "Trump endorses Irish reunification, breaking with decades of U.S. policy",
+        "Trump's comments on a united Ireland may have targeted audience across the Atlantic"
+      ]
+    },
+    {
+      "index": 91,
+      "keyword": "inflazione usa prezzi 3,4%",
+      "category": "economia",
+      "macro": "economia",
+      "origin_date": "2026-09-13",
+      "days_ago": 5,
+      "score": 18,
+      "n_items": 3,
+      "story_sim": 0.332,
+      "story_vs_date": "2026-09-14",
+      "story_near": false,
+      "titles": [
+        "Il gallone a 6 dollari e il Treasury al 5%. I numeri che fanno traballare Trump",
+        "US prices remain high as fuel costs squeeze household budgets",
+        "Interest rates could rise again across the world – here's why"
+      ]
+    },
+    {
+      "index": 92,
+      "keyword": "diritti donne violenza invisibilità",
+      "category": "diritti",
+      "macro": "societa-diritti",
+      "origin_date": "2026-09-13",
+      "days_ago": 5,
+      "score": 15,
+      "n_items": 3,
+      "story_sim": 0.334,
+      "story_vs_date": "2026-09-08",
+      "story_near": false,
+      "titles": [
+        "Mostra del cinema di Venezia, Leone d'oro a 'Woman Unknown' la rivincita delle donne",
+        "Il Leone d'oro per il miglior film va a Woman Unknown",
+        "Mostra del cinema di Venezia: Woman Unknown, un film sull'invisibilità delle donne"
+      ]
+    },
+    {
+      "index": 93,
+      "keyword": "robot umanoidi fabbrica veneto",
+      "category": "tech-ai",
+      "macro": "tech-ai",
+      "origin_date": "2026-09-13",
+      "days_ago": 5,
+      "score": 14,
+      "n_items": 2,
+      "story_sim": 0.477,
+      "story_vs_date": "2026-09-16",
+      "story_near": false,
+      "titles": [
+        "Il futuro di Seco ha la forma di un robot umanoide. E l’azienda alza il target dei ricavi",
+        "I robot umanoidi in fabbrica: la rivoluzione parte dal Veneto"
+      ]
+    },
+    {
+      "index": 94,
+      "keyword": "afghanistan donna deportata terrorismo",
+      "category": "diritti",
+      "macro": "societa-diritti",
+      "origin_date": "2026-09-13",
+      "days_ago": 5,
+      "score": 12,
+      "n_items": 2,
+      "story_sim": 0.285,
+      "story_vs_date": "2026-09-17",
+      "story_near": false,
+      "titles": [
+        "Afghan woman deported from US in first use of 'alien terrorist' court",
+        "Afghan woman deported from US in first use of 'alien terrorist' court"
+      ]
+    },
+    {
+      "index": 95,
+      "keyword": "osteoporosi ossa invecchiamento",
+      "category": "salute",
+      "macro": "clima-salute",
+      "origin_date": "2026-09-13",
+      "days_ago": 5,
+      "score": 12,
+      "n_items": 2,
+      "story_sim": 0.371,
+      "story_vs_date": "2026-09-17",
+      "story_near": false,
+      "titles": [
+        "Osteoporosi, scoperto il freno naturale che limita le cellule che consumano l’osso",
+        "Pesi, corsa o yoga: qual è l’esercizio migliore per proteggere le ossa dopo i 50 anni?"
+      ]
+    },
+    {
+      "index": 96,
+      "keyword": "uragani atlantico el nino",
+      "category": "clima",
+      "macro": "clima-salute",
+      "origin_date": "2026-09-13",
+      "days_ago": 5,
+      "score": 12,
+      "n_items": 2,
+      "story_sim": 0.286,
+      "story_vs_date": "2026-09-08",
+      "story_near": false,
+      "titles": [
+        "Where have all the Atlantic hurricanes gone? El Nino might bring record slow storm season",
+        "El Niño frena gli uragani nell’Atlantico, ecco cosa sta succedendo"
+      ]
+    },
+    {
+      "index": 97,
+      "keyword": "svezia elezioni ultradestra",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-13",
+      "days_ago": 5,
+      "score": 12,
+      "n_items": 2,
+      "story_sim": 0.372,
+      "story_vs_date": "2026-09-14",
+      "story_near": false,
+      "titles": [
+        "Elezioni in Svezia, oggi il voto per il nuovo governo. Incognita ultradestra",
+        "Sweden election: Far right eyes power for 1st time"
+      ]
+    },
+    {
+      "index": 98,
+      "keyword": "zamperla giostre sessant anni",
+      "category": "economia",
+      "macro": "economia",
+      "origin_date": "2026-09-13",
+      "days_ago": 5,
+      "score": 12,
+      "n_items": 2,
+      "story_sim": 0.452,
+      "story_vs_date": "2026-09-08",
+      "story_near": false,
+      "titles": [
+        "Compie 60 anni Zamperla, leader mondiale nelle attrazioni da parco",
+        "Progetti speciali e nuove giostre, Zamperla punta ai 130 milioni di fatturato"
+      ]
+    },
+    {
+      "index": 99,
+      "keyword": "openai ipo 2027",
+      "category": "tech-ai",
+      "macro": "tech-ai",
+      "origin_date": "2026-09-13",
+      "days_ago": 5,
+      "score": 9,
+      "n_items": 1,
+      "story_sim": 0.293,
+      "story_vs_date": "2026-09-15",
+      "story_near": false,
+      "titles": [
+        "Altman: 'Ipo OpenAI nel 2027, ci concentreremo sulla sicurezza'"
+      ]
+    },
+    {
+      "index": 100,
+      "keyword": "venezuela oppositore maduro diritti",
+      "category": "diritti",
+      "macro": "societa-diritti",
+      "origin_date": "2026-09-13",
+      "days_ago": 5,
+      "score": 9,
+      "n_items": 1,
+      "story_sim": 0.336,
+      "story_vs_date": "2026-09-08",
+      "story_near": false,
+      "titles": [
+        "Lorent Saleh, oppositore di Maduro: «Il destino del Venezuela è nelle nostre mani. Io in cella per quattro anni senza pr"
+      ]
+    },
+    {
+      "index": 101,
+      "keyword": "west nile italia 590 casi",
+      "category": "salute",
+      "macro": "clima-salute",
+      "origin_date": "2026-09-13",
+      "days_ago": 5,
+      "score": 9,
+      "n_items": 1,
+      "story_sim": 0.432,
+      "story_vs_date": "2026-09-08",
+      "story_near": false,
+      "titles": [
+        "Febbre del Nilo, 1.285 casi in Europa di cui 590 in Italia: ecco dove"
+      ]
+    },
+    {
+      "index": 102,
+      "keyword": "occupazione italia record istat",
+      "category": "lavoro",
+      "macro": "economia",
+      "origin_date": "2026-09-13",
+      "days_ago": 5,
+      "score": 9,
+      "n_items": 1,
+      "story_sim": 0.514,
+      "story_vs_date": "2026-09-14",
+      "story_near": true,
+      "titles": [
+        "Mai così tanti gli occupati in Italia. I dati dell'Istat"
+      ]
+    },
+    {
+      "index": 103,
+      "keyword": "ai rischio estinzione ricercatori",
+      "category": "tech-ai",
+      "macro": "tech-ai",
+      "origin_date": "2026-09-12",
+      "days_ago": 6,
+      "score": 46,
+      "n_items": 6,
+      "story_sim": 0.551,
+      "story_vs_date": "2026-09-16",
+      "story_near": true,
+      "titles": [
+        "Ai, tutti gli allarmi sui rischi di sviluppo incontrollato",
+        "Why the AI race has its creators fearing human extinction",
+        "Il Nobel Geoffrey Hinton: “Stop allo sviluppo dell’IA. Come in Terminator potrebbe eliminarci”"
+      ]
+    },
+    {
+      "index": 104,
+      "keyword": "houthi mar rosso petrolio",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-12",
+      "days_ago": 6,
+      "score": 28,
+      "n_items": 4,
+      "story_sim": 0.298,
+      "story_vs_date": "2026-09-11",
+      "story_near": false,
+      "titles": [
+        "Iran, Houthi controllano Mar Rosso. Attaccato oleodotto saudita. LIVE",
+        "Oil routes in peril as attacks shut Saudi pipeline and Houthis threaten key waterway",
+        "‘A f***-up of epic proportions’: Blame game begins after Iran-backed Houthis’ lightning advance down Red Sea coast"
+      ]
+    },
+    {
+      "index": 105,
+      "keyword": "treno deraglia francia sabotaggio",
+      "category": "general",
+      "macro": "societa-diritti",
+      "origin_date": "2026-09-12",
+      "days_ago": 6,
+      "score": 28,
+      "n_items": 4,
+      "story_sim": 0.332,
+      "story_vs_date": "2026-09-04",
+      "story_near": false,
+      "titles": [
+        "Treno deraglia in Francia, la polizia privilegia la pista del sabotaggio",
+        "Treno deraglia in Francia, la polizia privilegia la pista del sabotaggio",
+        "Treno deragliato in Francia, la polizia privilegia la pista del sabotaggio"
+      ]
+    },
+    {
+      "index": 106,
+      "keyword": "emma bonino addio ricordo 78 anni",
+      "category": "diritti",
+      "macro": "societa-diritti",
+      "origin_date": "2026-09-12",
+      "days_ago": 6,
+      "score": 24,
+      "n_items": 4,
+      "story_sim": 0.377,
+      "story_vs_date": "2026-09-04",
+      "story_near": false,
+      "titles": [
+        "Mario Monti: «Ho ammirato Emma Bonino per il suo coraggio. Ballammo il valzer, era lei che trascinava»",
+        "Bonino in un'intervista con l'ANSA nel maggio 2018: \"La legge 194 positiva, ma va migliorata\"",
+        "Addio a Emma Bonino: rose e cioccolatini, quella visita a sorpresa di Papa Francesco"
+      ]
+    },
+    {
+      "index": 107,
+      "keyword": "ucraina attacchi infrastrutture energetiche",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-12",
+      "days_ago": 6,
+      "score": 21,
+      "n_items": 3,
+      "story_sim": 0.549,
+      "story_vs_date": "2026-09-11",
+      "story_near": true,
+      "titles": [
+        "Kiev e l'incubo di un inverno al gelo, Zelensky: «Restituiremo ai russi gli attacchi ai siti energetici»",
+        "Ucraina, altri 6,1 miliardi per la difesa aerea di Kiev: “Dobbiamo produrre 10 milioni di droni FPV l’anno come Mosca”",
+        "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC"
+      ]
+    },
+    {
+      "index": 108,
+      "keyword": "denise cosco suicidio madre lea garofalo",
+      "category": "diritti",
+      "macro": "societa-diritti",
+      "origin_date": "2026-09-12",
+      "days_ago": 6,
+      "score": 21,
+      "n_items": 3,
+      "story_sim": 0.461,
+      "story_vs_date": "2026-09-17",
+      "story_near": false,
+      "titles": [
+        "La scelta di Denise, suicida 17 anni dopo l’omicidio della madre Lea Garofalo",
+        "Tragic death of woman who testified against father in notorious mafia murder of mother",
+        "Denise Cosco, l'appello di don Ciotti: \"Sia seppellita insieme alla madre Lea Garofalo al cimitero Monumentale di Milano"
+      ]
+    },
+    {
+      "index": 109,
+      "keyword": "carburanti benzina gasolio prezzi",
+      "category": "energia",
+      "macro": "economia",
+      "origin_date": "2026-09-12",
+      "days_ago": 6,
+      "score": 20,
+      "n_items": 4,
+      "story_sim": 0.53,
+      "story_vs_date": "2026-09-10",
+      "story_near": true,
+      "titles": [
+        "Carburanti verso i 2,5 euro al litro, il costo \"invisibile\" delle raffinerie chiuse: così l'Italia si è messa nei guai",
+        "Meloni: 'In arrivo aiuti mirati contro il caro carburanti a chi ha più bisogno'",
+        "Prezzi dei carburanti ancora in rialzo,  il gasolio a 2,208 euro"
+      ]
+    },
+    {
+      "index": 110,
+      "keyword": "apple iphone 18 lancio nuovo",
+      "category": "tech-ai",
+      "macro": "tech-ai",
+      "origin_date": "2026-09-12",
+      "days_ago": 6,
+      "score": 18,
+      "n_items": 3,
+      "story_sim": 0.315,
+      "story_vs_date": "2026-09-16",
+      "story_near": false,
+      "titles": [
+        "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
+        "Apple on wide Android foldables beating iPhone Duo; ‘they got the aspect ratio’",
+        "India gets one of world's steepest iPhone price hikes"
+      ]
+    },
+    {
+      "index": 111,
+      "keyword": "brics summit india dichiarazione",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-12",
+      "days_ago": 6,
+      "score": 16,
+      "n_items": 2,
+      "story_sim": 0.427,
+      "story_vs_date": "2026-09-10",
+      "story_near": false,
+      "titles": [
+        "Al via il vertice della coalizione BRICS che approva dichiarazione contro guerre unilaterali",
+        "BRICS leaders meet in India as wars and US tensions test the bloc"
+      ]
+    },
+    {
+      "index": 112,
+      "keyword": "dengue chikungunya milano disinfestazione",
+      "category": "salute",
+      "macro": "clima-salute",
+      "origin_date": "2026-09-12",
+      "days_ago": 6,
+      "score": 14,
+      "n_items": 2,
+      "story_sim": 0.464,
+      "story_vs_date": "2026-09-08",
+      "story_near": false,
+      "titles": [
+        "Caso di dengue fa scattare il sistema di disinfestazione straordinario contro le zanzare: come proteggersi",
+        "Caso di Chikungunya a Milano, paziente in isolamento a casa: disinfestazione tra via Meda e Tibaldi"
+      ]
+    },
+    {
+      "index": 113,
+      "keyword": "italia economia sorpassi pil export",
+      "category": "economia",
+      "macro": "economia",
+      "origin_date": "2026-09-12",
+      "days_ago": 6,
+      "score": 13,
+      "n_items": 1,
+      "story_sim": 0.506,
+      "story_vs_date": "2026-09-14",
+      "story_near": true,
+      "titles": [
+        "I cinque sorpassi dell’Italia: dal Pil pro capite all'export e allo spread sotto la Francia"
+      ]
+    },
+    {
+      "index": 114,
+      "keyword": "west nile italia 590 casi europa",
+      "category": "salute",
+      "macro": "clima-salute",
+      "origin_date": "2026-09-12",
+      "days_ago": 6,
+      "score": 13,
+      "n_items": 1,
+      "story_sim": 0.512,
+      "story_vs_date": "2026-09-08",
+      "story_near": true,
+      "titles": [
+        "Febbre del Nilo, 1.285 casi in Europa di cui 590 in Italia: ecco dove"
+      ]
+    },
+    {
+      "index": 115,
+      "keyword": "ericsson genova licenziamenti 131",
+      "category": "lavoro",
+      "macro": "economia",
+      "origin_date": "2026-09-12",
+      "days_ago": 6,
+      "score": 12,
+      "n_items": 2,
+      "story_sim": 0.567,
+      "story_vs_date": "2026-09-14",
+      "story_near": true,
+      "titles": [
+        "Ericsson annuncia 131 licenziamenti a Genova",
+        "Ericsson cala la scure a Genova, partiti 131 licenziamenti: “Dismissione totale dell'Ottica entro fine anno”"
+      ]
+    },
+    {
+      "index": 116,
+      "keyword": "app io wallet documenti digitali",
+      "category": "tech-policy",
+      "macro": "tech-ai",
+      "origin_date": "2026-09-12",
+      "days_ago": 6,
+      "score": 9,
+      "n_items": 1,
+      "story_sim": 0.268,
+      "story_vs_date": "2026-09-14",
+      "story_near": false,
+      "titles": [
+        "App IO, il Wallet si amplia: arrivano Isee, tessera elettorale e titoli di studio"
+      ]
+    },
+    {
+      "index": 117,
+      "keyword": "putin truppe europee kiev",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-12",
+      "days_ago": 6,
+      "score": 9,
+      "n_items": 1,
+      "story_sim": 0.386,
+      "story_vs_date": "2026-09-11",
+      "story_near": false,
+      "titles": [
+        "Guerra Ucraina Russia, Putin: \"Mandare truppe europee a Kiev è come guerra a Mosca\""
+      ]
+    },
+    {
+      "index": 118,
+      "keyword": "corea del nord missile giappone",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-12",
+      "days_ago": 6,
+      "score": 9,
+      "n_items": 1,
+      "story_sim": 0.279,
+      "story_vs_date": "2026-09-11",
+      "story_near": false,
+      "titles": [
+        "Seul: \"La Corea del Nord ha lanciato un missile non identificato verso il mar del Giappone\""
+      ]
+    },
+    {
+      "index": 119,
+      "keyword": "svezia elezioni britannici espulsione",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-12",
+      "days_ago": 6,
+      "score": 9,
+      "n_items": 1,
+      "story_sim": 0.346,
+      "story_vs_date": "2026-09-10",
+      "story_near": false,
+      "titles": [
+        "La Svezia va alle urne. E si divide anche sull'espulsione dei britannici"
+      ]
+    },
+    {
+      "index": 120,
+      "keyword": "occupazione italia istat record",
+      "category": "lavoro",
+      "macro": "economia",
+      "origin_date": "2026-09-12",
+      "days_ago": 6,
+      "score": 9,
+      "n_items": 1,
+      "story_sim": 0.572,
+      "story_vs_date": "2026-09-14",
+      "story_near": true,
+      "titles": [
+        "Istat, nel secondo trimestre tasso di occupazione record al 63,1%"
+      ]
+    },
+    {
+      "index": 121,
+      "keyword": "trump",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-11",
+      "days_ago": 7,
+      "score": 84,
+      "n_items": 13,
+      "story_sim": 0.338,
+      "story_vs_date": "2026-09-16",
+      "story_near": false,
+      "titles": [
+        "Trump si appisola al Pentagono alla cerimonia per l'11 Settembre, virale sui social",
+        "Guerra Iran USA, Funzionario Yemen: \"Sei missili hanno colpito il porto di Mocha\". LIVE",
+        "Trump chiude il congresso di Dallas e lancia JD Vance verso il 2028: «Se non votate, andate al diavolo"
+      ]
+    },
+    {
+      "index": 122,
+      "keyword": "york",
+      "category": "general",
+      "macro": "societa-diritti",
+      "origin_date": "2026-09-11",
+      "days_ago": 7,
+      "score": 70,
+      "n_items": 14,
+      "story_sim": 0.405,
+      "story_vs_date": "2026-09-16",
+      "story_near": false,
+      "titles": [
+        "Trump si appisola al Pentagono alla cerimonia per l'11 Settembre, virale sui social",
+        "11 settembre, l’attacco agli Usa 25 anni dopo. Trump: \"Non dimentichiamo e per questo lottiamo\"",
+        "'We will never, ever forget,' Trump says as US marks 25th anniversary of 9/11"
+      ]
+    },
+    {
+      "index": 123,
+      "keyword": "vita",
+      "category": "general",
+      "macro": "societa-diritti",
+      "origin_date": "2026-09-11",
+      "days_ago": 7,
+      "score": 66,
+      "n_items": 11,
+      "story_sim": 0.41,
+      "story_vs_date": "2026-09-17",
+      "story_near": false,
+      "titles": [
+        "Addio a Emma Bonino, una vita in prima linea per i diritti",
+        "La scelta di Denise, suicida 17 anni dopo l’omicidio della madre Lea Garofalo",
+        "Il Papa: la Chiesa non è fuori dal mondo, dia speranza negli scenari inquietanti di oggi"
+      ]
+    },
+    {
+      "index": 124,
+      "keyword": "iran",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-11",
+      "days_ago": 7,
+      "score": 48,
+      "n_items": 7,
+      "story_sim": 0.352,
+      "story_vs_date": "2026-09-11",
+      "story_near": false,
+      "titles": [
+        "Guerra Iran USA, Funzionario Yemen: \"Sei missili hanno colpito il porto di Mocha\". LIVE",
+        "Prove di pace nel Golfo Persico. Cade il petrolio, risalgono le borse",
+        "Live Updates: Diesel hits record $6 a gallon as, reports say, Houthis take key territory along Red Sea"
+      ]
+    },
+    {
+      "index": 125,
+      "keyword": "apple",
+      "category": "general",
+      "macro": "societa-diritti",
+      "origin_date": "2026-09-11",
+      "days_ago": 7,
+      "score": 44,
+      "n_items": 11,
+      "story_sim": 0.314,
+      "story_vs_date": "2026-09-14",
+      "story_near": false,
+      "titles": [
+        "Interest rates could rise again across the world – here's why",
+        "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
+        "Apple, il 18 settembre sciopero nei negozi italiani: lo stop nel giorno del lancio del nuovo iPhone"
+      ]
+    },
+    {
+      "index": 126,
+      "keyword": "borsa",
+      "category": "economia",
+      "macro": "economia",
+      "origin_date": "2026-09-11",
+      "days_ago": 7,
+      "score": 39,
+      "n_items": 11,
+      "story_sim": 0.384,
+      "story_vs_date": "2026-09-14",
+      "story_near": false,
+      "titles": [
+        "I rendimenti obbligazionari dell’eurozona verso il quinto rialzo settimanale dopo l’aumento dei tassi BCE",
+        "Il gallone a 6 dollari e il Treasury al 5%. I numeri che fanno traballare Trump",
+        "Istat, nel secondo trimestre tasso di occupazione record al 63,1%"
+      ]
+    },
+    {
+      "index": 127,
+      "keyword": "guerra",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-11",
+      "days_ago": 7,
+      "score": 38,
+      "n_items": 8,
+      "story_sim": 0.426,
+      "story_vs_date": "2026-09-04",
+      "story_near": false,
+      "titles": [
+        "Migranti, la guerra di Giorgia Meloni: \"In Italia le regole si rispettano\"",
+        "Guerra Iran USA, Funzionario Yemen: \"Sei missili hanno colpito il porto di Mocha\". LIVE",
+        "Ucraina, altri 6,1 miliardi per la difesa aerea di Kiev: “Dobbiamo produrre 10 milioni di droni FPV l’anno come Mosca”"
+      ]
+    },
+    {
+      "index": 128,
+      "keyword": "vince",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-11",
+      "days_ago": 7,
+      "score": 38,
+      "n_items": 8,
+      "story_sim": 0.502,
+      "story_vs_date": "2026-09-10",
+      "story_near": true,
+      "titles": [
+        "Superenalotto, combinazione da 223 milioni di euro: vince un “6” giocato a La Valletta Brianza",
+        "Trump si appisola al Pentagono alla cerimonia per l'11 Settembre, virale sui social",
+        "Morto un operaio di 34 anni precipitato nel vuoto in un oleificio"
+      ]
+    },
+    {
+      "index": 129,
+      "keyword": "petrolio",
+      "category": "economia",
+      "macro": "economia",
+      "origin_date": "2026-09-11",
+      "days_ago": 7,
+      "score": 34,
+      "n_items": 7,
+      "story_sim": 0.52,
+      "story_vs_date": "2026-09-10",
+      "story_near": true,
+      "titles": [
+        "Prove di pace nel Golfo Persico. Cade il petrolio, risalgono le borse",
+        "Il Suriname si appoggia anche al Venezuela per lo sfruttamento del petrolio",
+        "Chiusura in denaro per l'Europa, Milano maglia rosa guidata da Avio"
+      ]
+    },
+    {
+      "index": 130,
+      "keyword": "yemen",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-11",
+      "days_ago": 7,
+      "score": 34,
+      "n_items": 7,
+      "story_sim": 0.273,
+      "story_vs_date": "2026-09-11",
+      "story_near": false,
+      "titles": [
+        "Guerra Iran USA, Funzionario Yemen: \"Sei missili hanno colpito il porto di Mocha\". LIVE",
+        "Live Updates: Diesel hits record $6 a gallon as, reports say, Houthis take key territory along Red Sea",
+        "Funzionario Yemen, 'sei missili hanno colpito il porto di Mocha'"
+      ]
+    },
+    {
+      "index": 131,
+      "keyword": "iphone",
+      "category": "general",
+      "macro": "societa-diritti",
+      "origin_date": "2026-09-11",
+      "days_ago": 7,
+      "score": 32,
+      "n_items": 8,
+      "story_sim": 0.38,
+      "story_vs_date": "2026-09-16",
+      "story_near": false,
+      "titles": [
+        "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
+        "Apple, il 18 settembre sciopero nei negozi italiani: lo stop nel giorno del lancio del nuovo iPhone",
+        "Arrivano i nuovi iPhone Duo e 18 Pro: i nostri commenti a caldo | Video"
+      ]
+    },
+    {
+      "index": 132,
+      "keyword": "chiude",
+      "category": "economia",
+      "macro": "economia",
+      "origin_date": "2026-09-11",
+      "days_ago": 7,
+      "score": 30,
+      "n_items": 6,
+      "story_sim": 0.329,
+      "story_vs_date": "2026-09-16",
+      "story_near": false,
+      "titles": [
+        "Trump chiude il congresso di Dallas e lancia JD Vance verso il 2028: «Se non votate, andate al diavolo",
+        "Trump si appisola al Pentagono alla cerimonia per l'11 Settembre, virale sui social",
+        "Chiusura in denaro per l'Europa, Milano maglia rosa guidata da Avio"
+      ]
+    },
+    {
+      "index": 133,
+      "keyword": "tgcom24",
+      "category": "tech-ai",
+      "macro": "tech-ai",
+      "origin_date": "2026-09-11",
+      "days_ago": 7,
+      "score": 30,
+      "n_items": 6,
+      "story_sim": 0.48,
+      "story_vs_date": "2026-09-14",
+      "story_near": false,
+      "titles": [
+        "Intesa Sanpaolo, il Ceo Carlo Messina: \"Con Mps e Mediobanca 13.100 nuove assunzioni entro il 2029\"",
+        "I Muse cambiano nome sui social dopo il lancio dell'omonima IA di Meta",
+        "Robot costruiti dai robot: Xpeng lancia l'umanoide Iron (che non è un T-800)"
+      ]
+    },
+    {
+      "index": 134,
+      "keyword": "emma",
+      "category": "diritti",
+      "macro": "societa-diritti",
+      "origin_date": "2026-09-11",
+      "days_ago": 7,
+      "score": 27,
+      "n_items": 7,
+      "story_sim": 0.369,
+      "story_vs_date": "2026-09-04",
+      "story_near": false,
+      "titles": [
+        "Addio a Emma Bonino, una vita in prima linea per i diritti",
+        "Addio a Emma Bonino: rose e cioccolatini, quella visita a sorpresa di Papa Francesco",
+        "Addio a Emma Bonino, una vita di battaglie politiche e impegno"
+      ]
+    },
+    {
+      "index": 135,
+      "keyword": "rialzo",
+      "category": "economia",
+      "macro": "economia",
+      "origin_date": "2026-09-11",
+      "days_ago": 7,
+      "score": 27,
+      "n_items": 7,
+      "story_sim": 0.411,
+      "story_vs_date": "2026-09-14",
+      "story_near": false,
+      "titles": [
+        "I rendimenti obbligazionari dell’eurozona verso il quinto rialzo settimanale dopo l’aumento dei tassi BCE",
+        "Il gallone a 6 dollari e il Treasury al 5%. I numeri che fanno traballare Trump",
+        "Chiusura in denaro per l'Europa, Milano maglia rosa guidata da Avio"
+      ]
+    },
+    {
+      "index": 136,
+      "keyword": "colpito",
+      "category": "geopolitica",
+      "macro": "geopolitica",
+      "origin_date": "2026-09-11",
+      "days_ago": 7,
+      "score": 26,
+      "n_items": 5,
+      "story_sim": 0.423,
+      "story_vs_date": "2026-09-11",
+      "story_near": false,
+      "titles": [
+        "Guerra Iran USA, Funzionario Yemen: \"Sei missili hanno colpito il porto di Mocha\". LIVE",
+        "Russia, 'colpito hub logistico del marketplace Ozon a Saratov'",
+        "Cos'è il microcitoma polmonare, il tumore che aveva colpito Emma Bonino"
+      ]
+    },
+    {
+      "index": 137,
+      "keyword": "mondosanità",
+      "category": "general",
+      "macro": "societa-diritti",
+      "origin_date": "2026-09-11",
+      "days_ago": 7,
+      "score": 24,
+      "n_items": 12,
+      "story_sim": 0.513,
+      "story_vs_date": "2026-09-17",
+      "story_near": true,
+      "titles": [
+        "Osteoporosi, scoperto il freno naturale che limita le cellule che consumano l’osso",
+        "Preeclampsia, quali valori del sangue possono segnalare una complicanza al cervello",
+        "Tumore al seno, gli ormoni tiroidei possono anticipare la prognosi? Lo studio su 2.000 pazienti"
+      ]
+    },
+    {
+      "index": 138,
+      "keyword": "anthropic",
+      "category": "tech-ai",
+      "macro": "tech-ai",
+      "origin_date": "2026-09-11",
+      "days_ago": 7,
+      "score": 22,
+      "n_items": 4,
+      "story_sim": 0.538,
+      "story_vs_date": "2026-09-16",
+      "story_near": true,
+      "titles": [
+        "Anthropic ha bloccato i tentativi di alcuni scienziati di usare l'Ai per realizzare armi biologiche",
+        "Anthropic blocks possible attempt to use AI to make biological weapons",
+        "IA e futuro: Anthropic prevede crescita record ma anche più disuguaglianze mai viste"
+      ]
+    },
+    {
+      "index": 139,
+      "keyword": "ilva",
+      "category": "lavoro",
+      "macro": "economia",
+      "origin_date": "2026-09-11",
+      "days_ago": 7,
+      "score": 22,
+      "n_items": 4,
+      "story_sim": 0.389,
+      "story_vs_date": "2026-09-14",
+      "story_near": false,
+      "titles": [
+        "Ex Ilva Taranto, i giudici confermano il blocco dell'area a caldo: le ultime news",
+        "Confermato blocco dell'area a caldo ex Ilva, riprendono i licenziamenti",
+        "Ex Ilva, 'il diritto alla salute prevale sull'attività di impresa'"
+      ]
+    },
+    {
+      "index": 140,
+      "keyword": "social",
+      "category": "tech-ai",
+      "macro": "tech-ai",
+      "origin_date": "2026-09-11",
+      "days_ago": 7,
+      "score": 15,
+      "n_items": 3,
+      "story_sim": 0.481,
+      "story_vs_date": "2026-09-16",
+      "story_near": false,
+      "titles": [
+        "Trump si appisola al Pentagono alla cerimonia per l'11 Settembre, virale sui social",
+        "Trump si appisola al Pentagono alla cerimonia per l'11 Settembre, virale sui social",
+        "I Muse cambiano nome sui social dopo il lancio dell'omonima IA di Meta"
+      ]
+    }
+  ],
+  "choice": {
+    "topic_label": "Canada nell'UE: la nuova alleanza che riscrive gli equilibri con Trump",
+    "query": "Canada membro associato UE Trump dazi Carney",
+    "category": "geopolitica",
+    "category_claude": "geopolitica",
+    "macro_area": "geopolitica",
+    "target_area": "geopolitica",
+    "origin_keyword": "canada ue membro associato",
+    "origin_date": "2026-09-18",
+    "story_sim": 0.476,
+    "story_vs_date": "2026-09-10",
+    "angle": "segui-il-potere",
+    "angle_directive": "Segui il potere: chi decide, chi controlla, chi si crede sopra le regole. La concentrazione di potere (politico, mediatico, tech, economico).",
+    "genre": "prospettiva",
+    "target_words": 1050,
+    "hot_topic": false,
+    "richness": 4,
+    "label_cluster": "Canada diventa primo membro associato Ue, Trump minaccia dazi",
+    "cover_metaphor": "two hands reaching across an ocean while a third hand slams a door",
+    "curator_rationale": "Il Canada che si lega all'UE come membro associato è un riposizionamento di potere geopolitico reale (non solo simbolico) che ridisegna chi conta nel blocco occidentale mentre Trump perde presa sui suoi vicini: angolo 'segui il potere' fresco rispetto ai giorni scorsi, e la notizia ha materiale sufficiente (dazi minacciati, possibile effetto domino con Australia e Nuova Zelanda) per uno spiegone su cosa succede ORA, non solo cronaca del fatto già noto."
+  },
+  "chosen_index": 2,
+  "curator": "claude"
+}

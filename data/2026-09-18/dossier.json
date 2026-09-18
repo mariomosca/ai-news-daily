@@ -1,0 +1,53 @@
+{
+  "topic_label": "Canada nell'UE: la nuova alleanza che riscrive gli equilibri con Trump",
+  "query": "Canada membro associato UE Trump dazi Carney",
+  "category": "geopolitica",
+  "category_claude": "geopolitica",
+  "macro_area": "geopolitica",
+  "target_area": "geopolitica",
+  "origin_keyword": "canada ue membro associato",
+  "origin_date": "2026-09-18",
+  "story_sim": 0.476,
+  "story_vs_date": "2026-09-10",
+  "angle": "segui-il-potere",
+  "angle_directive": "Segui il potere: chi decide, chi controlla, chi si crede sopra le regole. La concentrazione di potere (politico, mediatico, tech, economico).",
+  "genre": "prospettiva",
+  "target_words": 1050,
+  "hot_topic": false,
+  "richness": 4,
+  "label_cluster": "Canada diventa primo membro associato Ue, Trump minaccia dazi",
+  "cover_metaphor": "two hands reaching across an ocean while a third hand slams a door",
+  "curator_rationale": "Il Canada che si lega all'UE come membro associato è un riposizionamento di potere geopolitico reale (non solo simbolico) che ridisegna chi conta nel blocco occidentale mentre Trump perde presa sui suoi vicini: angolo 'segui il potere' fresco rispetto ai giorni scorsi, e la notizia ha materiale sufficiente (dazi minacciati, possibile effetto domino con Australia e Nuova Zelanda) per uno spiegone su cosa succede ORA, non solo cronaca del fatto già noto.",
+  "articles": [
+    {
+      "title": "Australia e Nuova Zelanda potrebbero seguire il Canada come membri associati dell'UE, dice Metsola",
+      "source": "google-news-it-world",
+      "summary": "Australia e Nuova Zelanda potrebbero seguire il Canada come membri associati dell'UE, dice Metsola Euronews.com Carney: 'Canada e Ue saranno un faro per le democrazie'. L'ira di Trump ANSA Carney a Trump: «Nessuno può dirci con chi dobbiamo allearci. Noi e la Ue simili per affinità Il Sole 24 ORE Così lontani così vicini: tutte le sfide dell’alleanza Canada- Ue la Repubblica Carney all’Europarlame"
+    },
+    {
+      "title": "Europa, von der Leyen: niente social per i minori di 13 anni. Canada primo membro associato Ue",
+      "source": "google-news-it-world",
+      "summary": "Europa, von der Leyen: niente social per i minori di 13 anni. Canada primo membro associato Ue Il Sole 24 ORE Lo Stato dell’Unione: i punti chiave ISPI I tanti sogni di Ursula e la mossa col Canada L'Eco di Bergamo Von der Leyen, L’Europa delle buone intenzioni La Stampa Commissione Ue: \"L’IA deve aiutare i medici, non sostituirli\". Dalla mammografia allo screening del tumore al seno, la sfida del"
+    },
+    {
+      "title": "Carney: 'Canada e Ue saranno un faro per le democrazie'. L'ira di Trump",
+      "source": "ansa-homepage",
+      "summary": "Il premier al Pe: 'Più forti insieme'. Il tycoon all'Europa: 'Dazi molto pesanti'"
+    },
+    {
+      "title": "Canada welcomes EU proposal to become 'associate member'",
+      "source": "bbc-world",
+      "summary": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\"."
+    },
+    {
+      "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
+      "source": "bbc-business",
+      "summary": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes the BBC's Katya Adler."
+    },
+    {
+      "title": "EU chief backs plan for Canada to become 'associate member'",
+      "source": "bbc-business",
+      "summary": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal."
+    }
+  ]
+}

@@ -1,0 +1,656 @@
+{
+  "date": "2026-09-18",
+  "top_topics": [
+    {
+      "keyword": "fed tassi trump inflazione",
+      "label": "Fed alza tassi nonostante opposizione Trump, scontro su politica monetaria",
+      "n_items": 5,
+      "n_sources": 5,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 4,
+      "score": 41,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump attacca la Fed dopo il rialzo dei tassi: «Il costo del denaro? Dovrebbe essere all'1%» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOdWU0bzY3QXdyNUVtemluNEZLWXUtakF1YzA0b3N6aTV1Zk02ZUh0UzV5cUlVSzVJRHl0YlVKQlJ4V3BDeDdhSHk4dzVEdlU4dkZHNVA5UmFLUVpaNjJ0d2hLbHdJZGlkcGZ3cmpiaUJld25vVnpyOHpTaTBoNFV0Q2lHZTJVeG1rYkhhbVRVWXN6NEhnT29WbE1ITTBlYWhuNnVmOTE1cXR3d0pVN1NMZS1lU3JRUkkza05ZZG1CT0VoQURqZTAyc0hzWWZqdFdfWnp3dXZ0TVI2eGdpSlFLLVpTbTFCcVFUQ2NNTWRoc2NoNDRwSVV0dThPWEYwODhiZGhuTHlPcUw4dERoVmlGX1NBakxjZ9IBmwJBVV95cUxQYmJPamRyZURXMFZVaVg1cGpid2ljSHE3RWxoendHaHljWUhNOHpjMGk1V3l5bXJzQmlpQ3gwRXJnRG5kVlVJcWpsYXRpdzV6VExEWUpuWS1Dc0xPOGZfV2xZMlp1M3BLb1pHalJxX1N5SlRvclpHN1ZDQmlZcjkzdHNGVEw4UXp1bzhGQ2ZBbEdRUnRIYjRiQkN2SlNkNTdTT1ZxbC0wTENUYVNhelFBYTZveERlYlVrR1diUER2c1I3UHQ4ZEhSVWM4NEFPWDUzY1o2cGhCZVUtRHBhdlBlQWFGUVJKMkZuRkxQNGtYdDE1NWQ3LWxCTGZTandkbFh5U0tBVC10Vks1V1E3Rm5YakZ1QWVka3FMU1FJ?oc=5",
+          "description": "Trump attacca la Fed dopo il rialzo dei tassi: «Il costo del denaro? Dovrebbe essere all'1%» Corriere della Sera Dopo la BCE, anche la FED alza i tassi: cosa succede alla rata del tuo mutuo? MutuiOnline.it La diretta da Wall Street | Borse Usa chiudono in rialzo: Dow Jones +0,62%, S&P 500 +1,13% e Nasdaq +1,69% Milano Finanza Per la Fed l'inflazione resta elevata: perciò la Federal Reserve vede ta",
+          "pubDate": "Thu, 17 Sep 2026 05:55:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "What the Fed's interest rate hike reveals about Warsh, Trump and inflation - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2VV9UQmpBQ3FGMkc5T0hkeEs2SVZvZnQ1RDhicVlpYW9DOExfRC1yNExuMnhpdjdjdmR3UGowekxSYU9mRUdPSlc4YzNUTV9ZNEhucXJiMHlLcVFENjVxU0JQcWNhVC0xR3FwUkNaUVExblk?oc=5",
+          "description": "What the Fed's interest rate hike reveals about Warsh, Trump and inflation CBS News The Fed was bullied into hiking rates. Now it hopes it didn’t royally screw up CNN Home sellers may have to 'take a hit' as rates rise, real estate experts say foxbusiness.com U.S. Markets Sell Off After Fed’s Warsh Says Inflation Is Still ‘Too High’ WSJ Here’s what a Fed rate hike means for your mortgage, car loan",
+          "pubDate": "Thu, 17 Sep 2026 18:12:31 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Bank of Japan alza i tassi all'1,25%, ai massimi dal 1995",
+          "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/18/bank-of-japan-alza-i-tassi-all125-ai-massimi-dal-1995_5bb9fc03-5c37-4f91-86b5-9da7a55cd7b5.html",
+          "description": "L'istituto centrale risponde a inflazione, yen debole e pressioni Usa",
+          "pubDate": "Fri, 18 Sep 2026 05:06:37 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "US interest rates raised for first time in three years",
+          "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+          "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+          "pubDate": "Thu, 17 Sep 2026 00:40:17 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "L'effetto farfalla di Warsh. La Fed obbliga Tokyo (e le aziende zombie) a fare i conti. Con il debito - HuffPost Italia",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZFZuRU04TjdXNlNZVVEyQTZwdUhqS0JOeWtKbXVsOE1qZzhPVzQyMkppaTQ2enY1S25ybWhZUExZX21BbkdiZzB5NmJzOE1FZi1ibFhrZE9nYjcxczdaQkVMODJKMnFFQmV1QkxOR1pfWkxMQ0FBd2FiRmZ4R1RUZmZCeEtVUkQ4VDZMT0xKNXgwaG53ZklaNFZ3?oc=5",
+          "description": "L'effetto farfalla di Warsh. La Fed obbliga Tokyo (e le aziende zombie) a fare i conti. Con il debito HuffPost Italia Bank of Japan alza i tassi all'1,25%, ai massimi dal 1995 ANSA Bank of Japan alza i tassi all'1,25%, ai massimi del 1995 RaiNews Il Giappone sta cambiando idea sull’inflazione? Il Post La Bank of Japan alza i tassi all’1,25%, il livello più alto da 31 anni Il Sole 24 ORE",
+          "pubDate": "Thu, 17 Sep 2026 14:58:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "canada ue membro associato",
+      "label": "Canada diventa primo membro associato Ue, Trump minaccia dazi",
+      "n_items": 6,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 4,
+      "score": 40,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Australia e Nuova Zelanda potrebbero seguire il Canada come membri associati dell'UE, dice Metsola - Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ0ZHZW96OW9TRXduMjhJTlB4eW5Jazh5QUhaZk8tUkJiMUw2WnFuM2lHdEp6WWF0Q20tTjU2OERBTG41cVp4b3VOWHdyQUhzM0M0REVYYzNkc0FkdTNQZEFMbWFrbzNOVzRvcHEtR2xxYWdsNlFyUjhJOVd4X25sNzY5RklVTTRtSjEwQzBFSTA4NXlZblhFMkZiRWUxX1RJS0xmalJvTHpRaTZsNC03dHBHU3hoNmk1eUNFZUROV1V6clZweGdaMEs3aVBUMTN6?oc=5",
+          "description": "Australia e Nuova Zelanda potrebbero seguire il Canada come membri associati dell'UE, dice Metsola Euronews.com Carney: 'Canada e Ue saranno un faro per le democrazie'. L'ira di Trump ANSA Carney a Trump: «Nessuno può dirci con chi dobbiamo allearci. Noi e la Ue simili per affinità Il Sole 24 ORE Così lontani così vicini: tutte le sfide dell’alleanza Canada- Ue la Repubblica Carney all’Europarlame",
+          "pubDate": "Thu, 17 Sep 2026 09:37:48 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Europa, von der Leyen: niente social per i minori di 13 anni. Canada primo membro associato Ue - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYVFrcm0tekFkNmVMSTB5aUlKQ3poNGdKNHpuRThQM1dJWTZMZ2xNMGxIZnpodjlkampQemRhU3JaX2dPLXpVaU01UDRMdHNVeUhBU05La1A2bjBWNUZHN2EwaXlzRkdZY2FHdmEwTWU5TENwUFB3c0tMMzZ2TWRHS2hWSGZhRHpiQllpQkdQQW5vYnVZdlEzNnFVQ0hzeHpZU1ZNZmVWSE4xLU4wLTRiY0lWblpfQ2VNS2pZZWxHbS16Qmc?oc=5",
+          "description": "Europa, von der Leyen: niente social per i minori di 13 anni. Canada primo membro associato Ue Il Sole 24 ORE Lo Stato dell’Unione: i punti chiave ISPI I tanti sogni di Ursula e la mossa col Canada L'Eco di Bergamo Von der Leyen, L’Europa delle buone intenzioni La Stampa Commissione Ue: \"L’IA deve aiutare i medici, non sostituirli\". Dalla mammografia allo screening del tumore al seno, la sfida del",
+          "pubDate": "Wed, 16 Sep 2026 21:26:35 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Carney: 'Canada e Ue saranno un faro per le democrazie'. L'ira di Trump",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/17/carney-a-trump-un-canada-piu-forte-e-piu-efficace-anche-per-gli_fc66790e-61e5-468e-ae5c-96bb183b32e4.html",
+          "description": "Il premier al Pe: 'Più forti insieme'. Il tycoon all'Europa: 'Dazi molto pesanti'",
+          "pubDate": "Thu, 17 Sep 2026 19:28:53 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Canada welcomes EU proposal to become 'associate member'",
+          "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
+          "description": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
+          "pubDate": "Thu, 17 Sep 2026 12:27:18 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
+          "link": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
+          "description": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes the BBC's Katya Adler.",
+          "pubDate": "Thu, 17 Sep 2026 16:59:43 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "EU chief backs plan for Canada to become 'associate member'",
+          "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+          "description": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
+          "pubDate": "Thu, 17 Sep 2026 00:32:05 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "openai comportamenti ai preoccupanti",
+      "label": "OpenAI rivela sei casi di comportamenti anomali nei modelli IA",
+      "n_items": 4,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 4,
+      "score": 32,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "OpenAi, sei nuovi casi di comportamenti imprevisti o preoccupanti di modelli Ai - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWV9qeE1jRi1oRXp2YmlTdElITUpkSDNMb0h2NGVrZFN4VEFMT3lGc3lCVHVoV0Fha1NNQlRPUUVmckJBLTF4emRVUTdXYlZzeUJnSnh3X1VBd3E5TjVFbFh6R091ZU13bUJDa0o5cmtiZVAwbW5rQWxCMFVKb3pQQ0hfeXh4YXNuNWlyeHlQaExTbWR1UkJnNFdubjVqX1dRWEtZc1p5V2d3T0FLbkR2MHFJUQ?oc=5",
+          "description": "OpenAi, sei nuovi casi di comportamenti imprevisti o preoccupanti di modelli Ai Il Sole 24 ORE Cosa è, cosa fa e chi finanzia METR, l’organizzazione che misura le capacità dei modelli IA la Repubblica Ci sono altri casi in cui le AI di OpenAI hanno fatto di testa loro Il Post Senza rete | La sicurezza degli agenti IA dipende dai poteri concessi più che dalle intenzioni Linkiesta.it OpenAI, nuovi s",
+          "pubDate": "Thu, 17 Sep 2026 05:57:07 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
+          "link": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
+          "description": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
+          "pubDate": "Thu, 17 Sep 2026 03:09:21 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Openai, \"sei nuovi casi di comportamento preoccupante dei modelli IA\" - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONzVLTDh5TDV6RG14NGVBQVktcFBkeHppTFYzQ0hCa0R2ZDJJLWR4UXByc0lDMXRramY3bGJZejRacW5NMzB5bE1mdG84ZEdVa1VMeHRDa3RiaGNWazZCdVFjQ3VYMmdrcldvNW5IZEhMSGlfeW5HRW1NdFZDNk5HVG90aEU3a0VWZ1N3OUhOOW00SnJWNXNvVW83LV9FNDFrNnhJeWVRazMyM0U5aGRMWjVGYmZXWVVNU1AwbjFUZ0Y0QzFrM2ZSLTRTa0p1TEF5SzJIVWJ3ZjA2aGxDT1FjM29B0gHnAUFVX3lxTE5GWFNQZWpNTm9MVldoWE1KeVpqMWFacHRucUFSYUlZQzNHOTNPcWlvSHA4S0lZNGszbHIxMXN3ZHBiOVNKM1dZYzR2SlNuSlZGWmI4STk5YkxHTkY1V2pubTFYcTlJWE9NV09ubFh3dGFXOWRSVF9lT1ZMVHZVTVF1UEE2NzBySWdxcmNwUlJKZU9yS1lfSkgtcG0waUNpNE8zMHFObTdKRjRUc2xuZDhpcG81LTFEU3pUZXMzdlJJVWdPN29jLVF3OTJBOHY3ZE5XSzBnMGVSSThOQ0diMUhRRkwtTEZKcw?oc=5",
+          "description": "Openai, \"sei nuovi casi di comportamento preoccupante dei modelli IA\" RaiNews",
+          "pubDate": "Thu, 17 Sep 2026 02:12:07 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'allarme dei big, 'rischio estinzione con l'IA, è come le pandemie'",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/lallarme-dei-big-rischio-estinzione-con-ia-e-come-pandemie_3afde5e5-7bcf-464e-b3aa-aee6577a9b23.html",
+          "description": "Nyt riporta lettera di 350 leader industria, anche ceo OpenAI",
+          "pubDate": "Tue, 30 May 2023 14:12:41 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "jet russi lituania spazio aereo",
+      "label": "Jet russi violano spazio aereo Lituania, caccia italiani intervengono",
+      "n_items": 4,
+      "n_sources": 3,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 4,
+      "score": 28,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Jet russi violano lo spazio aereo lituano, eurofighter italiani in volo - La Lituania ha un piano di evacuazione verso la Polonia in caso di attacco - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdDNqb3RBZFBWX01pQndsS1Zvd2hKNWRzMU5hWFB2THFCMnZiTU83NHlENTAwYldCRlBPbFVBQnloRC1jTGJ5aE80QkRRY1QxdDdScEVVdnJoVVlqYkRhOWlqUjdSa1d2dE5mZlZPaTFYRktsZjlnYVZoSWVQSF9XNEtFOE5RY01qZnkyUXE5NFQ4Y3VZWjB4cDYzOW5QRkhCR0EwV3VKN1dkQzBPejd2Vmd4R3A3dFotVzF3Yy1pZzHSAcYBQVVfeXFMUEJRbmRqLTFIbTRkNkU4T1VsWllyYW40bmgxUE1QOW11RnN5TWc1TmxfZWhURUl6M0RHS3VpZFNrQWNEYlI0V2cySFNUQzlPMGU0cS0zWkR6SmpZRjBzWGtWZGdoT3Q0dzRJV0NDbmhLdTRNVkJtZ290ajN4Zzlxbm0wY2ZpV2F6RC1tSjhYMUsxVWRTYkhSNjZWUGZUNGhIMmhhZnhnVVVFWmhpc2JvdTdZR2E4VHdlN00xa09rRzg3U25xMDB3?oc=5",
+          "description": "Jet russi violano lo spazio aereo lituano, eurofighter italiani in volo - La Lituania ha un piano di evacuazione verso la Polonia in caso di attacco RaiNews Caccia italiani contro jet russi, Meloni: 'Putin provoca, non rispondiamo' ANSA Guerra Ucraina, jet russi violano cieli Lituania: caccia italiani li scortano fuori Sky TG24 Un episodio che dovrebbe cancellare le ambiguità Corriere della Sera J",
+          "pubDate": "Thu, 17 Sep 2026 21:23:12 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Ucraina-Russia, le notizie in diretta | Jet russi entrano nello spazio aereo della Lituania, caccia italiani in volo. Kiev: «Ci prepariamo a incontro Trump-Zelensky a margine dell'Onu» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNel91OHo3cG5JOUoyMXN6ZERrdkczYkM1ZGxRZ01PR245bHhPZ05rR1BOdGRkSTR6blJJNkktcm1NcVF1M1dwbWZFUGQySkNsVzE3ZEF2QThjNWZIX2NWdjB5eTB3RUZTaUNjVUR0dFZRNXhyWUtrXzRtRjlfVzUwbG5rS3BNRW50dC1nYTdMRThEWXNMOV9rb2NwR3BsbnVzZEl6dFFjTy1TakdLamlVMS16bGpOUm1PUzZGNk5vWHpFTWl2MVpsOHlmRGVyUmJzM2ZqZkp3dzNraHo4VHFRQ1BlMkxvb2RaVzc2U0tfVHZ2RFR4VU40WTYyNDNfeUx3b2JuTk9DaFJuLXcxU3VHT081ejhHNmxDYmRKOXFB0gGjAkFVX3lxTE5FUmVQWmgzRGZidkFUZmVlR0d4V05SNVB2WXNJUV9YejdBVjVZaFZPNzVwajEzVmJtbTcxbFFEanZPR1prT19ybXpFTVItUzJ6NnV6c2Y1SnEycGQ4RlRlc0JNaWRNVjFPT1o0VmRXSFlicW5EY080cWw2bW82cVJkMmVvOVV6VHhHbzFPTEVyUk8xLWVnTmx3SDZ0N3l3QVVWZzA3cmVDRmRzdXJFM0ZINVNVb2p2Xy1iUVFkY1lvS0VNaDgxbktGQ1FNZVBDUDdwcXhUYlFrc3lBTHpjMFZyckY4QnNiTzg2bkFoUGZoVUxidmwxOU05cTRBODJjR1RQRDJsdzlnSmRFRGRaZkhoNHdqNE5oeGF5SW9LUGNJZmFsSQ?oc=5",
+          "description": "Guerra Ucraina-Russia, le notizie in diretta | Jet russi entrano nello spazio aereo della Lituania, caccia italiani in volo. Kiev: «Ci prepariamo a incontro Trump-Zelensky a margine dell'Onu» Corriere della Sera Guerra Ucraina-Russia, le notizie di giovedì 17 settembre Corriere della Sera Guerra Ucraina - Russia, le news di oggi la Repubblica Von der Leyen, 'domani altri 3,3 miliardi per aiuti mil",
+          "pubDate": "Thu, 17 Sep 2026 23:09:04 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Jet militari russi violano spazio aereo Lituania, intervengono i caccia italiani - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdW9PODBvQ3dlakdJekJjSm0ydm5LNkpQWDZoRS1jeWZWV2U2d21LMTVNOHdRUFlURHFRa3hfWGFmTlprMDFORDFfd185WkVhS0tnUTVWUkt2Y1hCcEQwQkF1X1BGblZ4RG15RFgyQm1wS19tU0pQREp3cElOWDdDYXlibnFFWUp3OUV0QXd1dmJYMmgwa2oxY0R1MEZhUzNYbWNBMmNGUTB3WUk?oc=5",
+          "description": "Jet militari russi violano spazio aereo Lituania, intervengono i caccia italiani Il Sole 24 ORE Jet russi violano lo spazio aereo lituano, eurofighter italiani in volo - La Lituania ha un piano di evacuazione verso la Polonia in caso di attacco RaiNews Caccia italiani contro jet russi, Meloni: 'Putin provoca, non rispondiamo' ANSA Guerra Ucraina, jet russi violano cieli Lituania: caccia italiani l",
+          "pubDate": "Thu, 17 Sep 2026 19:12:25 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Caccia italiani contro jet russi, Meloni: 'Putin provoca, non rispondiamo'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/17/jet-militari-russi-violano-spazio-aereo-lituania-caccia-italiani-in-volo_db794caf-bb8a-4ee2-8e35-012df8bf0d43.html",
+          "description": "Mosca viola lo spazio aereo della Lituania. La premier a Oslo: 'Per Kiev serve un inviato, l'Europa parli a una voce sola'",
+          "pubDate": "Thu, 17 Sep 2026 21:07:05 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "iran trump guerra mezzo oriente",
+      "label": "Trump verso decisione cruciale su Iran mentre ONU cita crimini guerra",
+      "n_items": 4,
+      "n_sources": 3,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 4,
+      "score": 28,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Iran, Trump: \"Verso momento cruciale, devo prendere decisione importante\" | Crosetto: \"Navi italiane passeranno da Bab el-Mandeb, senza attendere Ue\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdlhpNm1WTVlMZ3RJWHkxOGE3QU9IUWhxMUY3LWhYbk16cVM1bGd4aXU3TFFIV0JsMlROS05PVThZWXotbmtrRFF4dVJ6MEJYbTJfNkhKVmwxYmQ2aG8xT0ktLXJQaE41RWdxNnFGY1pwdnRydnd6X0VzMFYwWENuVTBFbGxoZ2l0N1YzRzB6RGk0bXNoM3pUcjhYaXZvZ0VqVU5Ka1B2MmZJMTBkVm1pUGx2SdIBaEFVX3lxTE1rNWNmN254VURnM3ZmcVA3ZzZHVHpMSzBST1V6dS1FdnVjRHAtanNvNkVEOFFKM1ZJaG9Zb1FOeXNGN29jTHFlUnFGWXdkS3Ftdm5yMWdlQ3JLTWNzakdQa0Y4YWcwdi12?oc=5",
+          "description": "Iran, Trump: \"Verso momento cruciale, devo prendere decisione importante\" | Crosetto: \"Navi italiane passeranno da Bab el-Mandeb, senza attendere Ue\" Tgcom24 Guerra in Iran, news. Trump: “Verso un momento cruciale in Iran, sto decidendo se annientarli o meno” la Repubblica Trump vedrà i paesi del Golfo, 'devo decidere sull'Iran' ANSA Trump e i paesi del Golfo. Il vertice di New York per disegnare ",
+          "pubDate": "Thu, 17 Sep 2026 21:58:57 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Iran War Updates: U.N. panel cites possible U.S. war crimes as Trump again says Iran wants a deal - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX1BBTlc5TExUejVoamFsdlRBYU43UGczT1FQaThEWVNkWkg1YXV4X2ZUR0N0MXFGNGgyRlhGdjRoSE14NXRVdy1CNkhGQmZIblhHRVMzYjdNSGtwbENWTHFuV1FVRFpuaUZMZjVMQzFuZEhnbk1TNmlILWhHTWtieWYxVzkzdw?oc=5",
+          "description": "Iran War Updates: U.N. panel cites possible U.S. war crimes as Trump again says Iran wants a deal CBS News UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report cnbc.com US likely committed war crimes in Iran strikes that killed over 150: UN The Times of India U.S. Strike on Iranian School May Have Been War Crime, U.N. Report Says The New York Times UN experts say ",
+          "pubDate": "Fri, 18 Sep 2026 01:02:00 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+          "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+          "description": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
+          "pubDate": "Thu, 17 Sep 2026 20:34:30 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+          "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
+          "description": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
+          "pubDate": "Thu, 17 Sep 2026 21:41:19 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "bollo auto sospeso governo meloni",
+      "label": "Governo sospende bollo auto, lite interna Forza Italia-Meloni",
+      "n_items": 4,
+      "n_sources": 2,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 3,
+      "score": 20,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Bollo auto sospeso, lo scippo di Meloni ha mandato in tilt Forza Italia. E Tajani dà l'ordine ai suoi: \"Dite è roba nostra nel segno di Berlusconi\" - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQU3h3aUZPd2dHNVJsM3o5RklPQlU5eEJNaGxKTi0xbl9RZ19rSHo4THlnVGU3cnF6c2tVMXBza05QTmxLUDFKS2pxYkpvam9LbmJXSmRiTEhaYnRYU1pFaS1KUm81TGtuaVBPM043YWlsUmo2dERibGNRLVdSVlhvWHJnQWsxRjB0VmNCOXhXQVdjX2xCQ0pnLVpqTkl4TWNrVGtHYmFiNXgxWjBYMUtOVFljelRWOVRSRHlOTlIwSFBpaWFQWHl5NFB0UlNjMXl4aGxudHgzbHYzcmdQWXlrUXRZeTNLQUJWOVZmSXJTVUVxN3BoMmM4bTNSN3ZhelNldWxyUnhWaTFYanVGLVRVbWRVOFRta0NqYkNZODh1MA?oc=5",
+          "description": "Bollo auto sospeso, lo scippo di Meloni ha mandato in tilt Forza Italia. E Tajani dà l'ordine ai suoi: \"Dite è roba nostra nel segno di Berlusconi\" Il Fatto Quotidiano Bollo auto 2027: ecco i 95 modelli esenti, scarica la lista completa di Quattroruote | Quattroruote.it Quattroruote Esenzione del bollo auto: cosa sapere, a chi spetta e dove fare attenzione Il Sole 24 ORE Bollo auto, tutti i modell",
+          "pubDate": "Thu, 17 Sep 2026 14:53:24 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Decreto bollo auto in Gazzetta, 1,698 miliardi da economie su Pnrr",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/decreto-bollo-auto-in-gazzetta-1698-miliardi-da-economie-su-pnrr_d71d0d4a-174c-4ba1-838f-f2f301cb3e49.html",
+          "description": "Valgono 200 milioni nel 2026, 1.460 milioni nel 2027, 38 milioni nel 2028",
+          "pubDate": "Thu, 17 Sep 2026 22:43:00 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Stop al bollo auto, ecco i modelli esenti",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/stop-al-bollo-auto-ecco-i-modelli-esenti_b08edbee-80f7-4e57-abc3-496e0466dda6.html",
+          "description": "Ma rimangono da chiarire alcuni punti per stilare una lista definitiva",
+          "pubDate": "Thu, 17 Sep 2026 19:40:40 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Osnato (FdI), proporrò estendere stop bollo auto a famiglie numerose",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/osnato-fdi-proporro-estendere-stop-bollo-auto-a-famiglie-numerose_a87ff3ba-5f93-4f9f-bc5b-0f0f50a05045.html",
+          "description": "In Parlamento aumentare potenza per nuclei con più di 3 figli",
+          "pubDate": "Thu, 17 Sep 2026 18:01:41 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "italia navi bab el mandeb",
+      "label": "Italia pronta a inviare navi a Bab el-Mandeb senza aspettare l'Ue",
+      "n_items": 3,
+      "n_sources": 2,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 18,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Il piano di Crosetto, 'navi italiane a Bab el-Mandeb senza aspettare l'Ue' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMFg4Ql90T2M4Z18teFk4MDRBTTJ4TWc5WHh3Wjg3Sk1BSldDX1ZlT2ozZmNjM09kaFdvM0ViRUVvczR5U3RSeTNTQUZGQzYtV0JUS05WYmNlRDJ0ekx6b1IwbERFTm1VVEIwMmhUbjhyS3ZralF4T19XMk5tTkQ5bGVVUmliSjZXU09TZlEwOGdKdHNhVHJQVllrNXg3cXhGYURBU25ZRTh2WV9WVmFfaVlUTlBlUi1XcEFhSEpuNXZ3Wm10QU5hcmppQ19kSXMyWnRRRmVIZVZqVDl0STl4Q01sa251elVEdXZiNFdJQXdkWlZVRjJaQWFBWjJsM1HSAYQCQVVfeXFMUDJWdUYyYU9aQUdIOXZKNUgzRzdyczg3eVkySXUzUFlHNnMyQ3RwRTVlOEd3ZEg5SzdGSzYxWTVyWVYxQjZKQ2FzSkt1X0hBUGlOc3FwWEN6NUlUQzNqS1NvZVFEV2tVZThwTmRIWkhIZUFSeUY3aUR1b0hpTGduRVp1QVI0RnpiT1JFZ1hrQU1aUkRvQnlzNWwxUm5pSS10ZDM1a3EtZ2FhRzh2b3gyMHMxVUl5TWUxZ0poZG1hcG0tdU1oTG94RHBaRDZjbXJIWVh1a1lhd2R3LUNmNms4NkdEdFZSRzdpQWRrS1pyU3Y1VllYUWdNd2xodG9sN0hGZWt0bV8?oc=5",
+          "description": "Il piano di Crosetto, 'navi italiane a Bab el-Mandeb senza aspettare l'Ue' ANSA L'Italia pronta a inviare la Marina a Bab el-Mandeb senza Ue - Aggiornamento del 18 Settembre delle ore 03:27 RaiNews Guerra Iran, Crosetto: 'Nostre navi a Bab el-Mandeb senza attesa Ue' Sky TG24 Il Ministro Crosetto al Forum “Risorsa Mare” Ministero della Difesa Mar Rosso, il piano di Crosetto per scortare le navi ita",
+          "pubDate": "Thu, 17 Sep 2026 20:19:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Iran, Trump: \"Verso momento cruciale, devo prendere decisione importante\" | Crosetto: \"Navi italiane passeranno da Bab el-Mandeb, senza attendere Ue\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdlhpNm1WTVlMZ3RJWHkxOGE3QU9IUWhxMUY3LWhYbk16cVM1bGd4aXU3TFFIV0JsMlROS05PVThZWXotbmtrRFF4dVJ6MEJYbTJfNkhKVmwxYmQ2aG8xT0ktLXJQaE41RWdxNnFGY1pwdnRydnd6X0VzMFYwWENuVTBFbGxoZ2l0N1YzRzB6RGk0bXNoM3pUcjhYaXZvZ0VqVU5Ka1B2MmZJMTBkVm1pUGx2SdIBaEFVX3lxTE1rNWNmN254VURnM3ZmcVA3ZzZHVHpMSzBST1V6dS1FdnVjRHAtanNvNkVEOFFKM1ZJaG9Zb1FOeXNGN29jTHFlUnFGWXdkS3Ftdm5yMWdlQ3JLTWNzakdQa0Y4YWcwdi12?oc=5",
+          "description": "Iran, Trump: \"Verso momento cruciale, devo prendere decisione importante\" | Crosetto: \"Navi italiane passeranno da Bab el-Mandeb, senza attendere Ue\" Tgcom24 Guerra in Iran, news. Trump: “Verso un momento cruciale in Iran, sto decidendo se annientarli o meno” la Repubblica Trump vedrà i paesi del Golfo, 'devo decidere sull'Iran' ANSA Trump e i paesi del Golfo. Il vertice di New York per disegnare ",
+          "pubDate": "Thu, 17 Sep 2026 21:58:57 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Il piano di Crosetto, 'navi italiane a Bab el-Mandeb senza aspettare l'Ue'",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/09/17/crosetto-navi-militari-italiane-a-bab-el-mandeb-per-ripristino-dei-traffici_5b0db8d7-6df3-4d2b-838c-9d5eca2fce0e.html",
+          "description": "Il ministro della Difesa: 'Ci attiveremo per farle passare. Ma decideremo altri invii con Governo e Parlamento'",
+          "pubDate": "Thu, 17 Sep 2026 22:19:13 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "rabbino aggressione odio religioso",
+      "label": "Giudice: aggressione rabbino violenta e dettata da odio religioso",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "diritti",
+      "macro_area": "societa-diritti",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Il giudice: 'L'aggressione al rabbino violenta e dettata da odio religioso' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNT004OVFuWGUycDVkS25aSmE4SWRSZUt3WVlwTnZfS0dqVy1TNVl2QW91OXN1Yk91bVVEbzJYVXZPSFFMeTdMSEJxbnVWaHljM0U5dVFCS1J5STRKdEZ5bUNFTURZNHJSX3pTbUxaWkVaSkxpcGxNSUJtLWQtbjIyODJFMVVZVFc1NmxnanE0T0g4WGFmNWFsaTF5eXVoSTJKME9GZmQxaTd4VGpLbzlZMS12OFkzdGh3ZlhCTFVreFlRZ3FidmIzS3l4NTdkc09IQmtrZ1NCQWJYaEt6TmNCMG9GcFRkRGpkT3ZRWUVsbkw2d0I0R3ozWtIB_gFBVV95cUxQRHAyU1RBREc4c3lOY3k5cEpkc0xCM1Vrb2pJWTRjSTNaTlUwTDAwWGYtQnhTYklrRGtSQ05vUXJ6MjgybkhqNHhHem5oanJZR1N6QUgyRkw3WklSY2hKcDFlYlpCcUd2OGh2MVp4cGhQTWVMSFNTU2cwdk8xUDBoZk5nalo1OVk2RFlyVFNUdF9GWHp6TFBFLWpWMTlUYUFPZFVDZklBSm9Mb0VIQTdqQy1ZSUI5WlZfRWJKTEVYMWthRDJqTEtEcUNGMU5qNnEwNzhWUFlqTkRDWU4weHpkdGdhaWJ4Zmx0by1VeENjdk1EX0ljZThqQnFQX0xSZw?oc=5",
+          "description": "Il giudice: 'L'aggressione al rabbino violenta e dettata da odio religioso' ANSA Rav Tzemach Mizrachi, l'ebreo aggredito a Milano: «Prima di me, avevano tirato una scarpa a un altro rabbino. Non cambierò abitudini, ma i miei figli non girano soli» Corriere Milano Rabbino aggredito a Milano: \"Nessuna violenza, era solo uno scherzo\" Il Fatto Quotidiano A Milano un rabbino ha denunciato di essere sta",
+          "pubDate": "Thu, 17 Sep 2026 18:27:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Il giudice: 'L'aggressione al rabbino violenta e dettata da odio religioso'",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/17/il-giudice-laggressione-al-rabbino-violenta-e-dettata-da-odio-religioso_73a2b425-fbae-4767-a945-6e173ee23f83.html",
+          "description": "'Un calcio e gesti di scherno', obbligo di firma a 20enne. Fratello, 'non siamo razzisti'",
+          "pubDate": "Thu, 17 Sep 2026 20:27:52 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "ospedali bambino gesu ranking mondiale",
+      "label": "Bambino Gesù quarto al mondo in pediatria, Italia nella top ten ospedaliera",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "salute",
+      "macro_area": "clima-salute",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ospedali, Bambino Gesù quarto al mondo in pediatra. Anche Gemelli, Besta e Rizzoli nelle top ten - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRm5udGlfVThvMmw5NDFLcVBGSUZiZEI0bmo4cDZwNWhaT3YwdFlxTUVKdGh6cGZ5QlhiUERoRTlISWFTSTI0ZVE3Y1pSYm5mQmVpSlBrZnJFRUFqOThtaFZpR3k0Vm5aVDRXTkQ3dUNwRDM2dFJuTFNNMDVLbnEtdTNGQ21uQV9YZTNlSjZFTGVpdVZUV3FtY0lVeFZuUEM1OGNpWC16REE4amJxNTU1YS13TQ?oc=5",
+          "description": "Ospedali, Bambino Gesù quarto al mondo in pediatra. Anche Gemelli, Besta e Rizzoli nelle top ten Il Sole 24 ORE Gli ospedali italiani migliori al mondo per specialità nella classifica del settimanale Newsweek. 3 tra i primi 10 Corriere della Sera Policlinico Gemelli sempre più in alto tra le eccellenze mondiali secondo il ranking di Newsweek-Statista Policlinico Universitario Agostino Gemelli IRCC",
+          "pubDate": "Thu, 17 Sep 2026 19:59:30 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Il Policlinico Gemelli e il Bambino Gesù nella classifica Newsweek dei migliori ospedali",
+          "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/09/17/policlinico-gemelli-nella-classifica-newsweek-dei-migliori-ospedali_e64aeb9b-261c-4291-90cb-5b525fde93bf.html",
+          "description": "Ai primi posti in pediatria, oncologia e ostetricia. I più numerosi da Lombardia e Lazio",
+          "pubDate": "Thu, 17 Sep 2026 20:45:35 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "elezioni russia putin duma",
+      "label": "Putin chiama i russi alle urne con elezioni Duma durante guerra Ucraina",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Putin chiama i russi alle urne: 'Nessuno riuscirà a dividerci' - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcWtWWnZZV0c2ak9WSTFFNXFqZFFZWUhqMkxCZ3RCU2p4bGhEZHh4RkhlVHNGMThIOV9ERlF6NjBDa0FvZ2ZXZjk4dWV2RlBuTzhMdHpLLXFLNWZwV1JCWmxSWTdNWE1hSVdyQUJxcXlPTXREUG5Fa003MGRtdVhCc3ZMVjE2R1Rz?oc=5",
+          "description": "Putin chiama i russi alle urne: 'Nessuno riuscirà a dividerci' Sky TG24 Russia, al via le elezioni per la Duma (dal risultato già scritto). Partiti esclusi, slogan strampalati e una promessa: «Chi viene da noi con la spada non si aspetti clemenza» Corriere della Sera Il dissidente: “La protesta cresce e ora Putin teme i voti contro la guerra” la Repubblica Putin chiama i russi al voto: \"Dalle urne",
+          "pubDate": "Thu, 17 Sep 2026 05:28:13 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Russians go to polls against backdrop of Ukraine war and Putin’s tightening grip - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeG00cEdVc0hWQTVqaFpTd24wdVZtWG9TdGpHR1duZEg5bzJTWmhqSlVzSE1ZLXhkWnpPOEIzWTBzZm85VkZKb0VOZmdqNFJ4MWdsM0UxNW4xaE9zOE80LXNiTVEzdHJaeFlMaU1naWNkQm1IOTJ1RktmdklmLUcydm9OSWl0R25tT29n?oc=5",
+          "description": "Russians go to polls against backdrop of Ukraine war and Putin’s tightening grip The Guardian Russia holds parliamentary election in shadow of war against Ukraine Yahoo Russian Offensive Campaign Assessment, September 16, 2026 Institute for the Study of War Here’s what to know about Russia’s parliamentary vote and its main parties AP News Russia’s Election Result Won’t Be a Shock. What Comes Next ",
+          "pubDate": "Fri, 18 Sep 2026 02:00:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "donne violenza femminicidi mattarella",
+      "label": "Mattarella: femminicidi emergenza nazionale, serve prevenzione in scuole",
+      "n_items": 2,
+      "n_sources": 1,
+      "category": "diritti",
+      "macro_area": "societa-diritti",
+      "richness": 3,
+      "score": 14,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "La Stanza rosa in pronto soccorso, rifugio delle donne vittime di violenza",
+          "link": "https://www.ansa.it/donne/notizie/2026/09/17/la-stanza-rosa-in-pronto-soccorso-rifugio-delle-donne-vittime-di-violenza_4f2a2077-bc1b-41c4-b3a7-0686a0f35718.html",
+          "description": "Esperienza pilota a Grosseto fa scuola. Solo in Toscana 35.500 accessi in 13 anni",
+          "pubDate": "Thu, 17 Sep 2026 15:57:27 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "L'allarme di Mattarella sui femminicidi. 'E' emergenza, serve anche la scuola'",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/09/17/mattarella-la-violenza-sulle-donne-e-unemergenza-di-prima-importanza_20749101-950c-454c-a73b-91f099673319.html",
+          "description": "Visita alla Stanza rosa di Grosseto. \"Prevenire è un impegno della Repubblica\"",
+          "pubDate": "Thu, 17 Sep 2026 21:37:51 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "auto ibride cina dazi ue",
+      "label": "Ue chiede a Cina tetto export auto ibride, minaccia dazi commerciali",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 3,
+      "score": 13,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Auto ibride, la Ue chiede alla Cina di imporre un tetto all'export: «Devono dimezzarsi». E minaccia dazi - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOdk42bTZ4b3ZKZjF1Wktnc19mR21qWVg2S3pRTFlMcEQ3Y3JNVHN0OW05Y2FpNzBXTHNLZGlrZmd3S0M4ZGFERWo0U3NFQlc2SGpKcm41TWw2ZzlXVVBmQk9ON1hlY1JCYjJOZzhlcTFjdFVjd3hETVJZUGZ2WUFJRVRFcXlnZlNSNkJmNG4zMVdzSVh4MjRVSk8wZ3QwSElBREl5Tmdwc19SMkVwRjdlQzJyVVd0alNpZXN1RTZjUEE0V2JpTG15VVZoNUFiRUYzdTA2WFlueU9wOWZhQ2FqZ2ROQjgyd0t6SUxvUk8xNWtBemhWVm05SkYtaGd0M1o5SHYtVFVwTG05RUVBcDF2OXdyLS1BN1c0SWU0NlN2V2RNWm9Zd0HSAasCQVVfeXFMT2VTblFHZ1U4eWlCeGo1Tkh6d2hBUWRQUFlfTDlENFpPNWk4NWVDR3lRdlNjbnQ5VnhfRnMtVjV2dXpfalg1eFA1TUo5MTdEMnR4TUpWMXB4ZXJ6blZRTTlwRVJVeEptb3k4bUZOUWJNVzVoMUhRLVhXRUgxU29VTE1yUU83cTFqWm9ZdTBSY3BkbGRFNVFKblpCV245Z0RvMTFlTXBET0I5Nlc5NU9DTWNQMXNDN1FpN1l6WnpHcDl4R3R4MlhRWE5kS0oxeTRYX3FqdnFlVnd1UmUxWW56bExxN1V3LTJieDNlcVRjQm9wcFBGSDFsMFdGYTV4UnlXcjExenlsay0wdU85TEhMbFFIWERuTEV1RW5pdnVtVk5CS0ZqamZici1faVE?oc=5",
+          "description": "Auto ibride, la Ue chiede alla Cina di imporre un tetto all'export: «Devono dimezzarsi». E minaccia dazi Corriere della Sera Stop alle auto ibride dalla Cina. L'Ue chiede di limitare volontariamente le esportazioni la Repubblica Ue: 'Con Pechino confronto su export cinese, accesso al mercato e terre rare' ANSA Cina in rosso, l’Ue chiede a Pechino di dimezzare l’export di auto Milano Finanza Materi",
+          "pubDate": "Thu, 17 Sep 2026 06:45:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "west nile virus italia casi",
+      "label": "West Nile: casi superano quota 90, zone critiche Roma e Lazio",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "salute",
+      "macro_area": "clima-salute",
+      "richness": 3,
+      "score": 13,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-health",
+          "title": "West Nile, i casi superano quota 90: le zone più colpite dal virus a Roma e in tutto il Lazio - RomaToday",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEtUY3BCb2U0a2w3UlB0VkY3NzV6ckZTakpFMHFHdzRfRTJWVEdkYnVtcWdCa2prUmZQMG1vRkVLYkxTeTdZeTVhcVJlclBmeUFqQmotSU9oSktwOU9FOXllay1hRUhMS3FUWWpQYk9XS1JLOVIyWHBxMUNsYlBSSEZnSWNQcU02ZG5SOUtpX1d3Yml0enp3?oc=5",
+          "description": "West Nile, i casi superano quota 90: le zone più colpite dal virus a Roma e in tutto il Lazio RomaToday West Nile, in Italia crescono casi e decessi: la mappa dei contagi Sky TG24 West Nile, nel Lazio 93 casi: Roma tra le aree più colpite RaiNews West Nile, settimo caso nel piacentino. 66 i contagi in Emilia Romagna piacenzasera.it West Nile in Italia, la geografia di un virus da quasi 600 casi la",
+          "pubDate": "Thu, 17 Sep 2026 09:18:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "ebola congo kinshasa prevenzione",
+      "label": "Ebola avanza in Congo: Kinshasa si prepara, vera difesa prima del caso",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "salute",
+      "macro_area": "clima-salute",
+      "richness": 3,
+      "score": 13,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-health",
+          "title": "Ebola avanza in Congo. E Kinshasa si prepara: la vera difesa comincia prima del primo caso - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV05sY3Mtc3BVNWkybFZIWGpUVW9yTF9RM0FtTC1OellrUWVOYTBJZTdjNEVldFJ3cnU4MmRvOUdYT09RdVAtemlkOHlfZm9fbTNlUVU0dDdYdkpmbHYwMThFaVNwTm9INkN5WjFYdnVXbE1QUjlxVnZMMWNvaTlPSXlTemxsUm9KOTh0V29IZXNUdnNGNGtzbzZ0YmJnTkFGUXpXeUhyRjJDVVJyNTFBa1VSUnhWbVAzYU9jaUUydTRIZkNCdWtaOHF6amJ2b3ZwVE1Rc3JR?oc=5",
+          "description": "Ebola avanza in Congo. E Kinshasa si prepara: la vera difesa comincia prima del primo caso Mondosanità Oms: Ebola, pandemie e sicurezza delle cure. Tedros: “Il mondo non è ancora sufficientemente preparato” Quotidiano Sanità Emergenza Ebola in Congo, per una risposta efficace «servono soldi e continuità» il manifesto Ebola in Congo, segnali di rallentamento. Ma per l’Oms è \"troppo presto per parla",
+          "pubDate": "Thu, 17 Sep 2026 15:45:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "groenlandia antartide ghiaccio perdita",
+      "label": "Ultimi 50 anni: Groenlandia e Antartide perdono 11,3 trilioni tonnellate ghiaccio",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "clima",
+      "macro_area": "clima-salute",
+      "richness": 3,
+      "score": 13,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-science",
+          "title": "Negli ultimi cinquant’anni, la Groenlandia e l’Antartide hanno perso 11,3 mila miliardi di tonnellate di ghiaccio - Le Scienze",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPbzMtemFDTGxzY3JoYy1CcHZ4R0YxbGZyVE1HQjBFR2hmTi1kN2ZoVnV4d2V6UWVER3BhOTFJdjdPVE9udVVWcWJlODdYZ01XYUZldzQyMmdsT1lnOElHSFdEYmdjbXhmSFU0dGFKWUNGMGVyd3htdnpJSVBfaVRwT01PTmtQYnBEVExGSFY2QjlteFVqOURzSlItZW10LTdvTXpnQ3FGSFI0Y1RxNVAtSHZIRW1pZTZNVENVcFJzTDU5ZW5RMGpqQmZ6V2hKMGJRTFdDd0VVdGl0VFZuNHY4SmZUd2RiUENLbjJIaS0wOVhEVUVrSDA0X05ZbDViQ29RZG90X2pTaW9JRFNq?oc=5",
+          "description": "Negli ultimi cinquant’anni, la Groenlandia e l’Antartide hanno perso 11,3 mila miliardi di tonnellate di ghiaccio Le Scienze",
+          "pubDate": "Wed, 16 Sep 2026 14:49:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "leucemia pediatrica immunoterapia chemio",
+      "label": "Immunoterapia sostituisce chemio in leucemia: ricadute dimezzate",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "salute",
+      "macro_area": "clima-salute",
+      "richness": 3,
+      "score": 13,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-health",
+          "title": "Leucemia pediatrica, l’immunoterapia sostituisce due cicli di chemio: ricadute quasi dimezzate - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZGVtV3Q4NEFOOGJYOWdyQU1VYnJMSlFOUlRWSi1qX0FjLWR4UjJQZmpEMHNTdDhSdHRwempZa1pBUUtnbFBoaUF1elJKaDB2Um9aZFp1SDJ3U01vejVIRFV5aEY0UVBCTnloVjhaRFo4cFRBbURPdVZiTzR2bmZLanNiTTF6NVU4VWVmTEJJLThJdk5MZVU2UkxwSEM0dXZCNWdtaTFjSHRzSjNTekk2MzlqeFpUZV9WTkRuMm50dHVVMkNqeXBsWS1pQ1pnN2VCX0k4MEc0WU8xdFpXLTNxM0gxYVZqQQ?oc=5",
+          "description": "Leucemia pediatrica, l’immunoterapia sostituisce due cicli di chemio: ricadute quasi dimezzate Mondosanità Leucemia linfoblastica, con l’immunoterapia guarigione fino all’80% dei casi la Repubblica Leucemia pediatrica ad alto rischio, l’immunoterapia dimezza le recidive. Lo studio che ha coinvolto l’Italia Quotidiano Sanità Leucemia nei bambini, con innovazione terapeutica guarigione in 80% dei ca",
+          "pubDate": "Thu, 17 Sep 2026 16:15:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "svezia elezioni kristersson dimissioni",
+      "label": "Svezia: centrosinistra vince, premier Kristersson si dimette",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Elezioni Svezia, centrosinistra vince di misura: si dimette premier Kristersson - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wYlllNFU5eDZacHpyZFZ2NElhVzZUYVZDa1VEaWZ1bW91VFRoREszdDBnU0FfQW5rVjJySHBOSFJCckZlUFpfTmVsbzgyUVhNT3YxZmh4cVRnbDNpcWpDNkJQVk1EbWdwUGtFd0trQQ?oc=5",
+          "description": "Elezioni Svezia, centrosinistra vince di misura: si dimette premier Kristersson Sky TG24 I socialdemocratici svedesi devono cambiare strategia - Cas Mudde Internazionale Il centro-sinistra vince di misura in Svezia. A Andersson il compito arduo di formare il governo RaiNews Il centrosinistra in vantaggio in Svezia, ma è incognita per il governo ANSA Elezioni in Svezia, il centrosinistra vince di u",
+          "pubDate": "Thu, 17 Sep 2026 12:37:50 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Swedish PM Kristersson resigns after election loss",
+          "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
+          "description": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
+          "pubDate": "Thu, 17 Sep 2026 12:41:05 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "migranti certificati falsi cpr",
+      "label": "Scandalo certificati medici falsi ai migranti per evitare Cpr",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "diritti",
+      "macro_area": "societa-diritti",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-nation",
+          "title": "Falsi certificati medici ai migranti : «Non li mando al Cpr, mi radino pure» - La Verità",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ1BtcDZiVG9vMXhrSmxVcEo0NWI2Z0puTnRVWERvMksxeDFzRk1LY1Q3dTBiZms5QWFNRjJmVUJfNUJrSm5uUmRiQXFydjhjQ09kQ1R6NkViUU5QSlpyWTRCbXFDZzAzYk9KYXh2cDhsVm5vT0xmaE5ndlNrRWJKTEtuR0dUUkE0U3N1SUwwOA?oc=5",
+          "description": "Falsi certificati medici ai migranti : «Non li mando al Cpr, mi radino pure» La Verità Certificati anti-Cpr, 4 medici indagati per associazione a delinquere. Salvini: “Vanno radiati dall’albo”. Il legale Anselmo: “Procedura terribile, colpa della Procura” Il Resto del Carlino CPR, Anelli (FNOMCeO): “I medici non sono ausiliari delle politiche di sicurezza: il loro dovere è curare. Si rispettino l’",
+          "pubDate": "Thu, 17 Sep 2026 04:55:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "ai estinzione umana rischi",
+      "label": "350 leader industria firmano lettera: IA rischio estinzione come pandemie",
+      "n_items": 4,
+      "n_sources": 3,
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 3,
+      "score": 2.4,
+      "cooldown": true,
+      "items": [
+        {
+          "source": "bbc-world",
+          "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+          "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+          "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+          "pubDate": "Thu, 17 Sep 2026 08:22:12 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'IA può portare all'estinzione, l'allerta di decine di ricercatori",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/-lia-puo-portare-allestinzione-lallerta-di-decine-di-ricercatori-_f2907c59-c053-4af7-b511-410cbb0bc59b.html",
+          "description": "Tra i firmatari gli ad di OpenAI e Google Deepmind, ci sono anche italiani tra cui l'esperto di tecnologie dell'informazione Luca Simoncini",
+          "pubDate": "Tue, 30 May 2023 17:55:51 +0200"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'allarme dei big, 'rischio estinzione con l'IA, è come le pandemie'",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/lallarme-dei-big-rischio-estinzione-con-ia-e-come-pandemie_3afde5e5-7bcf-464e-b3aa-aee6577a9b23.html",
+          "description": "Nyt riporta lettera di 350 leader industria, anche ceo OpenAI",
+          "pubDate": "Tue, 30 May 2023 14:12:41 +0200"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "L'appello di Re Carlo contro i rischi dell'IA divide il mondo tech e la politica - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQ0l0dW8yeEc1bUxSSk15cmg1ZDRDWDlaX2dfR3NKREU0ZjFIYXEyWlp0N3haUk5DTWVmcFhfVk53MUVHRmRMQ045d0wyaVk3dF9VQzR1TVg5bm53eU11aHd6eXRyeXBQT1JZcHhndWdtdUtXTE9aQ09yclVUd2hmYzU4dU5jaWUzOTNxQnBnUDl2V2IyX3d1d1p6V1BpNVViUFBOdjVLQm45cDBOR3doNnVSYlM0amUxUFRiWXZ6NmdrR3BQRGdURVNlYzRJS09iNUhVSmF2R3NtMVU3TzJoYlRxVVJhZUxJanZ0XzFUb2lKZ9IB9wFBVV95cUxNNDVwRmxZVjNUY0xYNGhHSlhpM0lqYnNiVTVEWHRyRXNTRElzVFk1WDhwOENtTkR4VlRXOXE3eTVmaTQtQkFCaTlKdFgyU3JJRW9GRlZkNWl1RG5JbDJJUUVPWF9iSHBmNE0zWUhyX3lfWFRXSVAzTEo1djR2eS1yd1FlaVUwRFREUlZQTVV1NHNqWktmd1dYSHZYN2hwWlRIc3lIcExyZTFiY3hzSU1XdDBSVWV3NTllQVZieEhWRGc1TDVhaDktbDY0R3VlaWgzUjB0VUlrc3c1WFBEUktJaGx1NlVabndiWHNwV0huSDlKUlJMdGIw?oc=5",
+          "description": "L'appello di Re Carlo contro i rischi dell'IA divide il mondo tech e la politica RaiNews",
+          "pubDate": "Thu, 17 Sep 2026 16:32:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "von der leyen social minori 13 anni",
+      "label": "Von der Leyen: nessun social per minori di 13 anni, nuove regole Ue",
+      "n_items": 3,
+      "n_sources": 3,
+      "category": "tech-policy",
+      "macro_area": "tech-ai",
+      "richness": 3,
+      "score": 2.1,
+      "cooldown": true,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Europa, von der Leyen: niente social per i minori di 13 anni. Canada primo membro associato Ue - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYVFrcm0tekFkNmVMSTB5aUlKQ3poNGdKNHpuRThQM1dJWTZMZ2xNMGxIZnpodjlkampQemRhU3JaX2dPLXpVaU01UDRMdHNVeUhBU05La1A2bjBWNUZHN2EwaXlzRkdZY2FHdmEwTWU5TENwUFB3c0tMMzZ2TWRHS2hWSGZhRHpiQllpQkdQQW5vYnVZdlEzNnFVQ0hzeHpZU1ZNZmVWSE4xLU4wLTRiY0lWblpfQ2VNS2pZZWxHbS16Qmc?oc=5",
+          "description": "Europa, von der Leyen: niente social per i minori di 13 anni. Canada primo membro associato Ue Il Sole 24 ORE Lo Stato dell’Unione: i punti chiave ISPI I tanti sogni di Ursula e la mossa col Canada L'Eco di Bergamo Von der Leyen, L’Europa delle buone intenzioni La Stampa Commissione Ue: \"L’IA deve aiutare i medici, non sostituirli\". Dalla mammografia allo screening del tumore al seno, la sfida del",
+          "pubDate": "Wed, 16 Sep 2026 21:26:35 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "EU announces plan to restrict social media access for under-15s",
+          "link": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
+          "description": "Under the plans, only children over 15 would be able to set up their own social media accounts.",
+          "pubDate": "Thu, 17 Sep 2026 10:00:14 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Snapchat open to putting time limits on teens, boss tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
+          "description": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
+          "pubDate": "Wed, 16 Sep 2026 23:41:57 GMT"
+        }
+      ],
+      "clustering": "claude"
+    }
+  ]
+}

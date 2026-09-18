@@ -2,60 +2,11 @@
   "date": "2026-09-17",
   "top_topics": [
     {
-      "keyword": "fed tassi rialzo trump",
-      "label": "Fed rialza tassi di 25 punti base: Casa Bianca critica la decisione",
-      "n_items": 5,
-      "n_sources": 5,
-      "category": "economia",
-      "macro_area": "economia",
-      "richness": 4,
-      "score": 41,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-top",
-          "title": "La Fed di Warsh sfida Trump: rialza i tassi e promette di farlo ancora - Il Sole 24 ORE",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdjZzcUU0RVpBS3JMQzBRR0JaT3k0eUZNakozdVM0TTR5SERCQ1FxeVRrRlB0clpPdXZXNjVrSVJlaGhNa19CTmszbk9PeWZKV1lEclFUSENkSDlCNkhMUHFmUmlBalpYUFpsaU5mTHRfV2l5SExiSHExTkgyN3JSNVlUQmtDQnR2OG8zZTdkX0VuZXNnUVl2Y2FyMHVIOGhhcTNPZzZ0RVV2NDJiOTBLNkltMGR6eHc?oc=5",
-          "description": "La Fed di Warsh sfida Trump: rialza i tassi e promette di farlo ancora Il Sole 24 ORE La Fed alza i tassi di interesse dopo tre anni: così Warsh scontenta Trump, la Casa Bianca: «Decisione infelice» Corriere della Sera Lonski: “L’aumento dei tassi era inevitabile, come nel passato i mercati capiranno” la Repubblica Wall Street perlopiù sopra la parità dopo l'annuncio sui tassi Borsa Italiana Usa, ",
-          "pubDate": "Wed, 16 Sep 2026 21:09:57 GMT"
-        },
-        {
-          "source": "google-news-en-top",
-          "title": "Here’s what a Fed rate hike means for your mortgage, car loan and credit cards - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX0ZGMzFyTlA5aVNBbUljNzB3cS1lUVc4d3o4T3pPdGdqd2xJVGZZMXdvd1JySWVmLUFfVnRFeTdld2xwOGtYNThqUUtvWjFIQ1JCZGtNd1FqWGRQcDdGeEhVNXU0aW54X0FuWXpJdnBvd1ROdDFzQnlrMkpnYmZNS0RMaWVJWENVQVZpRUdHbjVvd1R4djdoeWt3dkxkRzlIRnRySUtWRC1ITkZ0WDBDZlRVVjJRMDBnYVE?oc=5",
-          "description": "Here’s what a Fed rate hike means for your mortgage, car loan and credit cards The Washington Post Fed raises interest rates for the first time since 2023 CNN What does the Fed’s first rate increase in more than three years mean for AR farm loans? KATV Stock futures rise after Fed's rate hike spurs a market sell-off: Live updates CNBC Fed expected to raise interest rates, defying Trump demands qz.",
-          "pubDate": "Thu, 17 Sep 2026 01:23:29 GMT"
-        },
-        {
-          "source": "ansa-homepage",
-          "title": "La Fed rialza i tassi di 25 punti base, Warsh 'scontenta' Trump. La Casa Bianca: \"Decisione infelice\"",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/la-fed-rialza-i-tassi-di-25-punti-base-prima-volta-in-3-anni_244008fb-ab04-473d-ae63-e7dac0b32701.html",
-          "description": "Al 3,75%-4%, altro intervento entro fine anno. 'Inflazione alta da troppo tempo'",
-          "pubDate": "Wed, 16 Sep 2026 21:56:21 +0200"
-        },
-        {
-          "source": "bbc-world",
-          "title": "US interest rates raised for first time in three years",
-          "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-          "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
-          "pubDate": "Thu, 17 Sep 2026 00:40:17 GMT"
-        },
-        {
-          "source": "ansa-economia",
-          "title": "Casa Bianca, dalla Fed una decisione 'infelice'",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/casa-bianca-dalla-fed-una-decisione-infelice_f0d9a962-ceb7-4e9a-96a8-14728998621a.html",
-          "description": "'Non sostenuta da motivazioni economiche particolarmente convincenti'",
-          "pubDate": "Wed, 16 Sep 2026 22:00:04 +0200"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "canada unione europea associato membro",
-      "label": "Canada potrebbe diventare membro associato Ue, Trump minaccia dazi",
+      "keyword": "canada ue associate member trump",
+      "label": "Canada verso status di membro associato Ue, Trump protesta",
       "n_items": 4,
       "n_sources": 4,
-      "category": "general",
+      "category": "geopolitica",
       "macro_area": "geopolitica",
       "richness": 4,
       "score": 32,
@@ -63,27 +14,27 @@
       "items": [
         {
           "source": "google-news-it-top",
-          "title": "Canada, la strada che ha portato ad accarezzare il sogno europeo: da Davos al vertice della Nato - Corriere della Sera",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQ0ZTT2pwUEdyQ01uWTZMSzdVRkpZSGo4UkJWQnZjQkFTOTVRX1dGTHVYbDk3cFlraTNRcFh6aTlaMjFuczllQXllamo4azJDNmZiWnRzYko3QmFlRm1icXIyNkRXbXFFeS0zdU9DNWZSRGQ0VnprTmFESU13LVNQNTJCWUpHeUZ6WXo2ZzJ3X1hjX2p3M0c0cmQyV3h0RDJud0dTUDZqaVZURF9RZHE4b1kxNnlpS3pRSWtHdDdNMDNRYWotU1dEb3dibnBwb1FDZG9HYkxjbmJ5U0RXTk9xU0o3V1hQa3lfZjQwVGw1TFV4TE5kdDV2Z21JV2J5RzDSAYQCQVVfeXFMTXZucUhaaWlkbmx6a2prS2tqZnhyV3M5aFFscGhFY21qem41Z2lMbm8xNzJ4WTVSVi1MSmZTSklVR0JBa29NRFlLeHRDYUNYaTlYdWpDU2M1NkxIREw1NHhycDRTa0phckVNdkRhTnFHa0xYbkQtRUpCMm8tNTl5d0lkZ0ZQNzBQN0hFYTJIV1h3OTRDeUtYUjQ3MzlmemRERFB6OFpsS2NKUjhjSFhTeW5tMFZueVlnSVhTbXJKdTU2WEE3NHd0WXlqc1kxSDFIQXR1Qk5ReVdianBKQmtPY295ZWwtU21UNFNOcUxtTTR1eWVKSlZDZFkzVGJ4elVVOHFoOXc?oc=5",
-          "description": "Canada, la strada che ha portato ad accarezzare il sogno europeo: da Davos al vertice della Nato Corriere della Sera Il Canada «membro associato» della Ue: la proposta storica di von der Leyen. La protesta di FdI: «Un inchino imbarazzante a Carney» Corriere della Sera 'Applicherei dazi molto pesanti sui prodotti provenienti dall'Europa' ANSA Cosa sarebbe un “membro associato” dell’Unione Europea? ",
-          "pubDate": "Wed, 16 Sep 2026 20:45:07 GMT"
+          "title": "L'alleanza Canada-Ue fa infuriare Trump. Carney a Strasburgo: \"Più forti insieme\" - rainews.it",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONWxHOFdsbzJJS1d1Ty13SXVmMlZZU25sU3BrM04zaTZpaHZ6N0NmZzdRbnlYTG41TXJnUjZYeERQRk55Q004YWdWOHJPb1dGOEp3dnBTNFNSb2w4LWlpVGhOS2w2LW5uTHNmdlZHSDFWcGtaUWFMSG5waTQyQ0RtYmEzNU5RZldid2s3b0VyanlScjRJVjV0M2hockZpenpRWVRmMjU0N2Z1dENUcDZVR3VFUkNPeTlVc0tsZ2lBRXpobkxDdkRuWFB6RW94NzB3Y1FpMXFDSldzUG9ibFFIZF9HQnUxZURGeGN3OThPVdIB9AFBVV95cUxPSmlHX0RyOHVhbXBZNXFWa2tzSzllS3pSRFlvejBVREtUWHpJblludlhGWlFDTDZaOXNPSEFUVjFXd3RyV1NPWHFQTGs5N3ZCdjlNNnpXUWltRjFaMzB1VDBfdWVmVzVjTGY5UHdzeHpiR0dMWExhZE9oZlFacnlkcHl0aERveDZnc2tXVlRRcDFXRi1sZkhjcFRBNE5VMlB6UWZJeUVDckpZN3JCSWVZOEVJc0VxV1VIOWJfbEpTdWc3SmZ3WElRUTM2cl8zbEJQZEEwUER2LXZIbjdSbzJBNDZfSHJWNnE5RktLV1haZElBV1JM?oc=5",
+          "description": "L'alleanza Canada-Ue fa infuriare Trump. Carney a Strasburgo: \"Più forti insieme\" rainews.it Carney all’Europarlamento: “Canada e Ue insieme: non cerchiamo il potere per dominare gli altri, ma per difendere le nostre democazie\" HuffPost Italia Carney a Trump: 'Un Canada più forte è più efficace anche per gli Usa' ANSA Il Canada \"associato\" alla Ue: cosa vuol dire e quali sono i tre scenari possibi",
+          "pubDate": "Thu, 17 Sep 2026 10:20:00 GMT"
         },
         {
           "source": "google-news-en-top",
-          "title": "Canada could become the EU's first \"associate member\" - axios.com",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM0VteVBYSjJHYjUwOXM2bnk4NE84N0YzX2Roalo5WXNvV0hhQnVhdk9mZEdGTjlrVkVHcmhXUFNkSzhKeUsyR0hqWmw0M0hxOXFMdlg3MXg3S3pJUDVrdHBfVlRNWnVfS2ZDNWN6enhvWVI1RVBxSjhfUVRZMzN0N0h3?oc=5",
-          "description": "Canada could become the EU's first \"associate member\" axios.com Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union. The New York Times Trump suggests EU allowing Canada as associate member could be a ‘hostile act’ AP News Opinion | Canada’s great European misadventure The Washington Post Trump calls EU offer to Canada of associate membership ‘laughable’, while ",
-          "pubDate": "Thu, 17 Sep 2026 01:16:39 GMT"
+          "title": "Carney embraces EU associate membership proposal as Trump pushes Canada closer to Europe - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObklwd2xpNktxT1dkcF9LZjhsUHhfOTQ1YVRBRWNIMXNDZGg2MWxnZUtVQTUxTFowcHI0TGRZM2RHUDE2SGhsYXRFZUlvR1lfZXY1NnhDb1p0R3h2QTA0STRndmQ0MHpoa1BhSXByOGdyWW5wa3IyVXhRc2YzMHhPc3FfQnRYWFV0QnNIWk1feFhMNTJJdUN0Rl94V2Q1emJPMWc?oc=5",
+          "description": "Carney embraces EU associate membership proposal as Trump pushes Canada closer to Europe AP News Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union. The New York Times All smiles in Strasbourg but uncertainty clouds Canada’s EU membership plan The Guardian Carney says Canada will decide its own partnerships after Trump calls EU proposal ‘laughable’ CNBC Trump t",
+          "pubDate": "Thu, 17 Sep 2026 11:55:00 GMT"
         },
         {
-          "source": "ansa-homepage",
-          "title": "Trump minaccia il taglio del commercio con l'Ue se Canada diventa membro associato",
-          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/applicherei-dazi-molto-pesanti-sui-prodotti-provenienti-dalleuropa_2de6a844-36a9-4852-9f77-b4f4f845d513.html",
-          "description": "'Applicherei dazi molto pesanti sui prodotti provenienti dall'Europa'",
-          "pubDate": "Thu, 17 Sep 2026 04:13:00 +0200"
+          "source": "ansa-mondo",
+          "title": "Costa, 'Ue partner affidabile, costruiamo rapporto più stretto con il Canada'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/costa-ue-partner-affidabile-costruiamo-rapporto-piu-stretto-con-il-canada_3a1ba957-b0b0-4f6e-afdb-f4c94520ef73.html",
+          "description": "'Valori condivisi, noi vogliamo intensificare la collaborazione e viceversa'",
+          "pubDate": "Thu, 17 Sep 2026 15:24:17 +0200"
         },
         {
-          "source": "bbc-world",
+          "source": "bbc-business",
           "title": "EU chief backs plan for Canada to become 'associate member'",
           "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
           "description": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
@@ -93,176 +44,120 @@
       "clustering": "claude"
     },
     {
-      "keyword": "gaza palazzo crolla vittime",
-      "label": "Edificio di sei piani crolla a Gaza: 21 morti tra cui 12 bambini",
+      "keyword": "ucraina drone nave civile mar nero",
+      "label": "Drone russo colpisce nave civile nel Mar Nero, morto il capitano",
       "n_items": 4,
       "n_sources": 4,
-      "category": "general",
+      "category": "geopolitica",
       "macro_area": "geopolitica",
-      "richness": 3,
-      "score": 28,
+      "richness": 4,
+      "score": 32,
       "cooldown": false,
       "items": [
         {
           "source": "google-news-it-top",
-          "title": "Medio Oriente, Gaza: crollato edificio di sei piani. 21 morti di cui 12 bambini - Sky TG24",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WTzdDYUV1eFA3RzBIM2dyVGtLenZ4Yi14OXhpSkFvYnVaTFNXOXBjbWtvMW5uRmN4VDNudzdhaVloZmxLeE15ak9kNFo0dUJ6ZzUxdDlvdlFwM09JWW9BRXlYbDdkSnlNSnk0Uk5EejhKajdvaHRVNHBKaw?oc=5",
-          "description": "Medio Oriente, Gaza: crollato edificio di sei piani. 21 morti di cui 12 bambini Sky TG24 Gaza, crolla un palazzo: almeno 20 i morti tra cui 8 bambini la Repubblica Strage a Gaza, tanti bambini tra le vittime del crollo di un palazzo ANSA Houthi: “Abbiamo abbattuto un caccia saudita”. Edificio crollato a Gaza: 21 morti, 12 sono bambini La Stampa Il crollo a Gaza e la strage di bambini: «Si era fest",
-          "pubDate": "Wed, 16 Sep 2026 21:36:17 GMT"
+          "title": "Ucraina: drone russo colpisce nave civile nel Mar Nero, morto il capitano - ilsole24ore.com",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdW9PODBvQ3dlakdJekJjSm0ydm5LNkpQWDZoRS1jeWZWV2U2d21LMTVNOHdRUFlURHFRa3hfWGFmTlprMDFORDFfd185WkVhS0tnUTVWUkt2Y1hCcEQwQkF1X1BGblZ4RG15RFgyQm1wS19tU0pQREp3cElOWDdDYXlibnFFWUp3OUV0QXd1dmJYMmgwa2oxY0R1MEZhUzNYbWNBMmNGUTB3WUk?oc=5",
+          "description": "Ucraina: drone russo colpisce nave civile nel Mar Nero, morto il capitano ilsole24ore.com Kiev, 10 morti e 71 feriti in attacchi. Drone russo attacca nave civile in Mar Nero, morto capitano - Cremlino: le nuove sanzioni Usa complicano gli sforzi per una soluzione pacifica in Ucraina rainews.it Kiev: “Mosca ha colpito nave civile nel Mar Nero, morto capitano” LIVE tg24.sky.it Kiev: 'Un drone russo ",
+          "pubDate": "Thu, 17 Sep 2026 09:57:35 GMT"
         },
         {
-          "source": "google-news-en-top",
-          "title": "Building damaged by strikes collapses in Gaza, killing 21 as perilous living conditions persist - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV3lqZkMxREp6UW9yYVJuODAxQW96LXRiejVPakNpNXFxc2ZTWmItNEVhQW5UeWdaWTNlN19QaVRqOXh5T1hETXp3cW0td3Q4QU96UEIwQjNuSjE4ZkZLcDVFQmxTMDZLVVlMWHlqSmFIWjdBeE5BbHdUNWtIMS1Nemd5NzRJeWVuTzFTM2ZMRmpfaVhLWDVXbA?oc=5",
-          "description": "Building damaged by strikes collapses in Gaza, killing 21 as perilous living conditions persist AP News At Least 21 Dead in Gaza After Building Collapse, Officials Say The New York Times ‘Nowhere to go’: Gaza’s damaged buildings turn deadly Al Jazeera At least 21 killed after war-damaged Gaza building collapses BBC War-damaged Gaza building housing displaced Palestinian families collapses, killing",
-          "pubDate": "Thu, 17 Sep 2026 01:50:00 GMT"
+          "source": "google-news-it-world",
+          "title": "Kiev: “Mosca ha colpito nave civile nel Mar Nero, morto capitano” LIVE - tg24.sky.it",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd1oxdzdDaWp4eFZlcHdyWFVRSENWOHplQmxIRExXNm1TM2tzRnlESzdjYjNlcjdGQVg0WmR4d01pY19YVGdHblI4U3RoN2RzM0xST09CVFgzVmNrOWxPY2JfNUNyYjFYaGVzUmpmRV9ScTR0LUozclRQd19ndW1SQVpPNWNqc2l6?oc=5",
+          "description": "Kiev: “Mosca ha colpito nave civile nel Mar Nero, morto capitano” LIVE tg24.sky.it Kiev, 10 morti e 71 feriti in attacchi. Drone russo attacca nave civile in Mar Nero, morto capitano - Cremlino: le nuove sanzioni Usa complicano gli sforzi per una soluzione pacifica in Ucraina rainews.it Ucraina: drone russo colpisce nave civile nel Mar Nero, morto il capitano ilsole24ore.com Kiev: 'Un drone russo ",
+          "pubDate": "Thu, 17 Sep 2026 13:27:22 GMT"
         },
         {
           "source": "ansa-homepage",
-          "title": "Strage a Gaza, tanti bambini tra le vittime del crollo di un palazzo",
-          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/16/crolla-un-palazzo-a-gaza-il-bilancio-sale-a-20-morti.-almeno-50-bambini-sotto-le-macerie_fd1a071c-c486-44ea-a27d-f69b144f51af.html",
-          "description": "Almeno 21 morti e centinaia di intrappolati, l'edificio era pericolante dopo i raid",
-          "pubDate": "Wed, 16 Sep 2026 20:25:00 +0200"
+          "title": "Kiev: 'Un drone russo colpisce nave civile nel Mar Nero, morto il capitano'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/17/kiev-un-drone-russo-colpisce-nave-civile-nel-mar-nero-morto_db794caf-bb8a-4ee2-8e35-012df8bf0d43.html",
+          "description": "Nella capitale ucraina 18 feriti per raid su palazzi e ferrovie. Raffineria in fiamme in Russia",
+          "pubDate": "Thu, 17 Sep 2026 16:26:17 +0200"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Kiev: 'Un drone russo colpisce nave civile nel Mar Nero, morto il capitano' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPM29hRjdMZlpjWkhvRTZzQXN0TjMzdldYdXgyUWlONy1rZHU2Wm1YZFZwRDF6V0ZWTFA4MGFXMVZqNTVvWTBUb1B2UkVfR21VNDEwdmJabkp2VkNKMW0yYWhjelhvbnU5N1V5dDAzRm5QOXRJNE5wZWhsTmhIM1JkeDZTVFhrV19nTzRTbUJoWGZFc3NkSkVCRWtkLV9QVjR3Y0NPSFdlTjMtd2YxajMtNXhRbE9BOFgwQm40cDg1UW1tRURKTF9jMVFjZGZGOWNzb29IQ2p2U1FoV21VZ2NMbG9rVlRnUdIB6wFBVV95cUxQeTZNajBUZ1hNWUlkLUV5QS1GdDBVMzJMOTRxSFkyejFNaF9SaVMxQnRTQW5FdXl1cWs3eUFNNGg2YlpPeEtwa0hUVDU4aFFBYTFmRlRqZDVhR1FhdmxQYUhqbzNHRFk2V3pkV19lRlpETklnR2RiY2dla0xVNnBPcnhrQlpIcVpmUURhcGlUYmRaSDdIRnFTLTVzM3FGMGtaRThqUEVVb05vRm1vTHM5cjM1T1Ryb1pMQ3BDNUdsSlF4UXZSbGc0UTcxRno0aktXc2FDZ0hWcnp4NEx1T3R4bUdQUzdTOXI3VzZj?oc=5",
+          "description": "Kiev: 'Un drone russo colpisce nave civile nel Mar Nero, morto il capitano' ANSA",
+          "pubDate": "Thu, 17 Sep 2026 09:33:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "fed tassi interesse rialzo 2027",
+      "label": "La Fed alza i tassi, prevede tagli nel 2027. Aspettativa di normalizzazione",
+      "n_items": 4,
+      "n_sources": 4,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 4,
+      "score": 32,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "La Fed alza i tassi di interesse, ma prevediamo tagli nel 2027 - Morningstar",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVDBBN2d1S1pyUVNqajFRTFZORHJ5MjRZYTRkQ2pKcklta3owTmx1azh4VHpLVS1MSkVGYXVab2w3dGVFOUxXLXhwSzdnbnFuRnZsMnhHa3EwSW1FWi0zeks2S2NfOEVyNHVSOVl6dWQ0cUNVRnBxR3cxaDB2LV8wVzRhaFRNdi02b080VWFTaU9hMktVak9jc2Q5VzBjLW1tdlltaWY3cw?oc=5",
+          "description": "La Fed alza i tassi di interesse, ma prevediamo tagli nel 2027 Morningstar La diretta da Wall Street | Borse Usa in rialzo dopo la Fed. Ecco i titoli da tenere sott’occhio Milano Finanza Wall Street tonica dopo decisioni Fed. Calo petrolio rassicura Borsa Italiana Dopo la BCE, anche la FED alza i tassi: cosa succede alla rata del tuo mutuo? MutuiOnline.it Trump attacca la Fed dopo il rialzo dei ta",
+          "pubDate": "Thu, 17 Sep 2026 09:04:57 GMT"
         },
         {
           "source": "bbc-world",
-          "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-          "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-          "description": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
-          "pubDate": "Wed, 16 Sep 2026 17:16:47 GMT"
+          "title": "US interest rates raised for first time in three years",
+          "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+          "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+          "pubDate": "Thu, 17 Sep 2026 00:40:17 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Fed, perché sui tassi si prepara lo scontro tra Trump e Warsh e cosa significherebbe il denaro più costoso - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPWDBtS3FPTDJ4SmpXNTNBS3pfZVlDM2xncThvdWhDUVVpcVVYUHdXanFrenVMa20tVERoWTRPRU10Q3RqMk1LenJrWFFyWFRuT3JTSVBhVXJPQ1l4ZzVnNjBHRzg1UkJVczRpSl9DNk90YjlTU3FKaHRfd2x5OURxSzVvZ3c1V2I3X3NpWFZleDdVZThoTzJtV1UxdnlpdUF4anVDbXphUmJJT2kzTFhuRzEza3owTHJZbXcxNWhQaXNPQkYtOWJ5LXlQT0J3VFJZRFYyYXp5cWZPazg5YjNhV09QUHFqYlN2S3FrVTdzRW1PbXVnc0o0U0Qwdk41dW0zNWd6NmVveGlBSFk5dHcyQlFSRnpKTEtoaUJXX01fMlVaTWNpQTNyYmRpbFRqUdIBswJBVV95cUxQdHhBVERmMDBJd3FRUGhfSGs1ZTVPdTN1M0xBVEdnOVBtbFpFbTU2VkVzdnhCY0JJUjFSZ0lub1h5elpBQUFjelk3aXlrZ3dYTGs4OFZmQmowall0X2UzcUppRzdORm1ZOHFmWkpnLWJ6TXBPcHdLVlprQjgtY3hYZE1yZnFGUERTU212TXhndFBnOXdaX0hUS0ZwbDRQVzhxSUFtaThfcnhTekljTmpCOWdBcm5QX1JLS2hpY1ltaGVhTG4yZjI1M2J0WG45UkxfMDlpUkNaOUNHaDBiY01Ob2tvXzRINXNfQ0VZSDZZOHh3bWgydDM5S09oUlpzQVJ0WTl5VUNmMS1BRDQ5Xy1oOFIwWWVBTTI0Z3ZMeVY4bDZXZ2xQRTJKRE8wcERLYm54SFBJ?oc=5",
+          "description": "Fed, perché sui tassi si prepara lo scontro tra Trump e Warsh e cosa significherebbe il denaro più costoso Corriere della Sera Deficit, caro prezzi e crescita due ragioni cattive e una buona perché il debito costerà di più la Repubblica L’incubo della dominanza fiscale: così i governi indebitati tengono in ostaggio le banche centrali La Stampa Il mercato non compra più l'asset Trump. Il rischio di",
+          "pubDate": "Wed, 16 Sep 2026 11:30:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Borsa: l'Europa chiude in rialzo con la Fed e il calo del petrolio",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/borsa-leuropa-chiude-in-rialzo-con-la-fed-e-il-calo-del-petrolio_ca68a8fd-87b9-442a-aebd-db5f2d6bf085.html",
+          "description": "Londra sale dell'1,2%, Francoforte dello 0,7% e Parigi dello 0,6%",
+          "pubDate": "Thu, 17 Sep 2026 17:51:58 +0200"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "bollo auto abolizione governo",
-      "label": "Il governo abolisce il bollo per auto piccole, medie e tutte le moto",
+      "keyword": "openai modelli comportamento anomalo",
+      "label": "OpenAI rivela sei nuovi casi di misbehavior nei modelli IA",
       "n_items": 4,
-      "n_sources": 3,
-      "category": "economia",
-      "macro_area": "economia",
-      "richness": 3,
-      "score": 24,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-top",
-          "title": "Il governo abolisce il bollo per auto di piccola e media potenza e per tutte le moto. Meloni: «Via una delle tasse più odiate» - Corriere della Sera",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTXgxVDZHeEtLWFBTTGhBeWRueXN3RjFXUGhxSDVNV19zYjF1eG5PdGxOYjZoZ0RtS2lzdHBFODFzNVJIbDhqSS04cHU0elpGalV4QjU2U3J1ZzhaYk9BSFI3ei1Jb20zU2wxenVJRDFJVUZTV0UzN2h3cjBRTVRvVUVUY1Y4OEY2akJ0Yzg2TDBxeE00MEphNzBkREE5a0pWd1FRSERsM1V3anEzM0tUUmw5Q3BreDR2SlF0QXVn?oc=5",
-          "description": "Il governo abolisce il bollo per auto di piccola e media potenza e per tutte le moto. Meloni: «Via una delle tasse più odiate» Corriere della Sera Mossa di Meloni, addio al bollo per le auto piccole e medie ANSA Il Governo abolisce la tassa di possesso per motocicli e ciclomotori Federmoto Via il bollo auto e moto sotto gli 80KW per il 2027. Accise, scende lo sconto dello Stato RaiNews Bollo auto,",
-          "pubDate": "Wed, 16 Sep 2026 19:09:26 GMT"
-        },
-        {
-          "source": "ansa-homepage",
-          "title": "Mossa di Meloni, addio al bollo per le auto piccole e medie",
-          "link": "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/09/16/mossa-di-meloni-addio-al-bollo-per-le-auto-piccole-e-medie_cb12208d-db01-44ea-a5b5-7535dd0d2550.html",
-          "description": "La premier: 'Tassa tra le più odiate'. Il costo di 2,3 miliardi coperto dai risparmi sul Pnrr",
-          "pubDate": "Wed, 16 Sep 2026 21:48:49 +0200"
-        },
-        {
-          "source": "ansa-economia",
-          "title": "Via il bollo per il 70% delle auto, citycar, utilitarie, piccoli suv",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/via-il-bollo-per-il-70-delle-auto-citycar-utilitarie-piccoli-suv_fcdb5e9d-1983-4b67-8e8f-8593abd9f5d4.html",
-          "description": "La scheda",
-          "pubDate": "Wed, 16 Sep 2026 20:43:28 +0200"
-        },
-        {
-          "source": "ansa-economia",
-          "title": "Bozza dl, esenzione bollo nel 2027 per auto fino a 80kw",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/bozza-dl-esenzione-bollo-nel-2027-per-auto-fino-a-80kw_af0e0062-6209-47a8-887a-0d10e3785899.html",
-          "description": "Taglio accise scende a 12,2 centesimi fino al 25 settembre, poi si dimezza",
-          "pubDate": "Wed, 16 Sep 2026 17:40:35 +0200"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "ukraine ucraina guerra attacchi",
-      "label": "Ucraina: drone russo colpisce minibus, Kiev uccide generale russo",
-      "n_items": 3,
-      "n_sources": 2,
-      "category": "general",
-      "macro_area": "geopolitica",
-      "richness": 4,
-      "score": 22,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-top",
-          "title": "Drone russo su minibus 5 morti. Kiev rivendica uccisione generale russo: \"Colpito nel Donetsk\" - Kiev: un morto e nove feriti in un attacco aereo su Sumy - RaiNews",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYmNlbktwSlctZ0g1amhJR3pjOHU5NVpNWGNvYmMtYmwyaFJWTDhVelFTeGhJQ1Y0bzczdUdILVFVSEFtRVdGTWc3RTNLeFJ1V0NONFVsXzk4a0FfUDF2bDZ0NkJNd2tzZ2tJR09UWWg1eHVoWUpRMnMxVE5lVVFjdXRnUzZvX190UlFVM3hvaUNEMmE0NHA0NllxWXU1XzYxbDRKUHpIUXNfRlJnQThZc00xOEVMWTNGcFdvMVR3bkFrS19TZ3dybFhETXo5d3p2MDNlMnJZaWlFbnpCR0E0OFRWRFJpNk5uNEJJT0RyWTdsVDJ5Q2h30gH8AUFVX3lxTFB4ZVFNMk5xN0RhRzNHQ3R3UmdNWVAxOWdBMng0Z1N4UXVnWDdFSXFjNmZTdWtrUWpFMUpSRHZiS19aVE5CQThDM0I5d2ZFV24wQU1LTEVmc1I0dExQYlU0dS05OXItU0VLdzNTN1NCcjlIWWNQdWJlQUtpb3ExUy1rQjRoVGtxd2JTQzg1X2lzSzFyNzNZMkYtSmEwX29QTlBmU2RybDZTWlBqbk5YRGE1UHNIMVBGaXZ0SnhZU2l3TVVKTndTRTZ1VkRKc1FyLUNDdmh0a3Rsc3V5Q2xBRm4zMURzU3JtNV8wdlZYTGFtbFdaMXRMd2JfZTducg?oc=5",
-          "description": "Drone russo su minibus 5 morti. Kiev rivendica uccisione generale russo: \"Colpito nel Donetsk\" - Kiev: un morto e nove feriti in un attacco aereo su Sumy RaiNews Guerra Ucraina-Russia, le notizie in diretta | Corriere della Sera Ucraina: udite a Kiev una decina di forti esplosioni ANSA Guerra Ucraina-Russia, le news di oggi. Congresso Usa vota nuovo pacchetto di sanzioni contro la Russia la Repubb",
-          "pubDate": "Wed, 16 Sep 2026 20:25:31 GMT"
-        },
-        {
-          "source": "ansa-homepage",
-          "title": "L'accusa dell'Fbi: 'I russi pianificavano omicidi in America e in Europa'",
-          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/16/usa-gli-007-russi-pianificano-omicidi-mirati-in-america-ed-europa.-il-cremlino_63ccfeef-bec5-4021-8f41-80d16098fb25.html",
-          "description": "Putin alla nazione: 'Nessuno ci dividerà'. Kiev uccide il generale-eroe di Mosca",
-          "pubDate": "Wed, 16 Sep 2026 21:14:51 +0200"
-        },
-        {
-          "source": "ansa-homepage",
-          "title": "Ucraina: udite a Kiev una decina di forti esplosioni",
-          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/17/ucraina-udite-a-kiev-una-decina-di-forti-esplosioni_db794caf-bb8a-4ee2-8e35-012df8bf0d43.html",
-          "description": "Nella capitale ucraina diramato un allarme rosso per minaccia di attacchi missilistici",
-          "pubDate": "Thu, 17 Sep 2026 03:30:17 +0200"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "droni lituania russia cremlino",
-      "label": "Droni in Lituania, sospetti su coinvolgimento Cremlino: intercettati da caccia italiani",
-      "n_items": 3,
-      "n_sources": 2,
-      "category": "general",
-      "macro_area": "geopolitica",
-      "richness": 4,
-      "score": 22,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-world",
-          "title": "Droni in Lituania, difesa e servizi intravedono la mano del Cremlino: “Un messaggio a Crosetto” - la Repubblica",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3kwVHNkc3ZnT0ZqWUVGdldKbVY5aVQyTGNJNm1BZWMyOHRPY1Z6MGhUQ0lNanVHcmt0TkVJUkRDYTVPLXZON29fVy0xQ0dvTWltdk9rLWMyUWhCb2pCLTNYNlgzeDZ5amVmWDdRN29RTDYwbHRaZEtDVjVRZ1p5TS1vOEJnbVNnaFRUVnN5eV9wME9yamZ6UlQxeDN1VnNTUTZCQnp30gGrAUFVX3lxTE5QcHRDYnFRYWNSaHM2ZEdxVjVnN3JxNTNJYmpJdEtUWEdvOXBuT3JzT0xZMzhrQzBwTml2MzBOTG5XMTlXTGZta1V3WHFhTEExR1p3NzJ3bnBObkNhRWxoQmFVM2hiQkx0b1ZuWjBPWnhrVmlMWXdidzhfUmdVcW05NFJoS290WDlHcVNkQm81X3Nqa05FdWxscno4dFY5bjBtZUZnQWFPQUVyUQ?oc=5",
-          "description": "Droni in Lituania, difesa e servizi intravedono la mano del Cremlino: “Un messaggio a Crosetto” la Repubblica Il Ministro Crosetto incontra i militari italiani in Lituania Ministero della Difesa Difesa, drone in Lituania abbattuto da due Eurofighter F-2000 italiani. Le regole d’ingaggio della missione nel fianco Est Il Sole 24 ORE Come i due caccia italiani hanno abbattuto il drone in Lituania: l'",
-          "pubDate": "Tue, 15 Sep 2026 23:00:00 GMT"
-        },
-        {
-          "source": "google-news-it-tech",
-          "title": "Come i due caccia italiani hanno abbattuto il drone in Lituania: l'allarme dalla Germania, il decollo dei jet e la distruzione in 20 minuti. A bordo c'era un ordigno - Corriere Roma",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPU3ZrTTdfX0xsbVBZZExjeFUyWGxFSHpXdEEwNGtFUDh2Qk50ZWFmRnc1bDA2S0w5Z3ZJREdmSkxUbVN0WjhsSVF1ZXlqeVZmdmhIRlRSSU1oUUNMNlpzQ2htcXNSN1R6bjJhZ3ktRVdZeWZ6ZlI2UWhOek14a2E3X2hLRWhUS1BkaS1aUUZ6WC1RQnctY2ZsaWlxQ2IxSEhEVVg4WTd5c1c5a0t2RE93a0ZYODh4R214dVhzZzB4aXgza29HOXQzaTVCUlRieFVO0gHWAUFVX3lxTE5JMGd3U2hMZEp4OFB0eVJ2eVhkbGJ0bjJROGdKMW9kRzJZTEQ4Rl81RzJTX3FEMzYtcVlCaml6VXRiZEE3Si1EOG9JYjRIUVJneWp5VW1kdzZ0VWxtQkgyVWUtbHh2TnNDWnVteW9iWDVYWUN5emp1U0VGQ2pNd2kxZ1VjSzRkamNsWTViaFgzQks4SFpOSHhKTU9aaDBtSDR5TzJ2TjhsM0hxcjBmSVlQN1QxRVRvNy1kUF92UTE5NWhpSlBpSHJ5dk51WHB6RzJmTTRXZWc?oc=5",
-          "description": "Come i due caccia italiani hanno abbattuto il drone in Lituania: l'allarme dalla Germania, il decollo dei jet e la distruzione in 20 minuti. A bordo c'era un ordigno Corriere Roma",
-          "pubDate": "Wed, 16 Sep 2026 15:16:33 GMT"
-        },
-        {
-          "source": "google-news-it-tech",
-          "title": "Fallito attacco con i droni a Lipsia, «il mandante è un colonnello dei servizi segreti russi» - Corriere della Sera",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQc29SRFF0blF5M2UwcGtMZHRsVVVxbkNqU3JpNDB5N1hhVzV5S2VGZlA2Z2lnQ2J6LWZ4bmlBX3lpQVNwTm9lbnFLd0VzU0tEWjRuSk01VFJiaUN2cTRUSGh5aEo0R1Y1SGxuZDA2REJqWXdIZHNsdC1FcEIwUDZjOTNhb0tXSjRpNmRZVENBMTduMTh1RXFoYVlhcXp1QWRhcURocmMweHlpdlF1NjBBT1JXYW5VTzRIZ293MjVBYzhyTjZFcENkWWpDZ2IwWEE5MzlIS1hBVGFjM2JiNGVfdnhjNG1wcVZjcGF2SkU4TFRCZUZVbFc3ckYxdjh4UHMyVHFSNkRRcUZOM0Vn0gGSAkFVX3lxTE5aaEZqTm5DaUtiVG5pT2VKVkxPaktublBXNlhBUnZfXzM2VnlBaEpKMEtnSGRaQnhNTC1WTnhkN3ZDeHlrMm52cy01QXdFQktiVzM2d0tDUnlKbnplQ192ejg2bERYc2RReW9PQjZYNmw4eTJhSHEwOWs4dGRzOWQxaXBlbzdVdVJZMGl3d2QxdEQ4Y0RWQ051UUhJNkhVY1RtdmRUR2RLNG1vOEJMNEY3VlBEUDRyYWFNYXJWMHVJUzlpMXE4NlBjMGdQcjRnUEljVHV3QlB4aXMwR29EckdXZjlLVnhoNkgwTzRxYlktUThTUkNCWnh0YjlDWU5vZDJiTUY4d0lpcThvZ20wWFRpQkE?oc=5",
-          "description": "Fallito attacco con i droni a Lipsia, «il mandante è un colonnello dei servizi segreti russi» Corriere della Sera",
-          "pubDate": "Wed, 16 Sep 2026 06:31:00 GMT"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "openai comportamento anomalo ia",
-      "label": "OpenAI rileva sei casi di comportamento preoccupante nei modelli IA",
-      "n_items": 3,
-      "n_sources": 3,
+      "n_sources": 4,
       "category": "tech-ai",
       "macro_area": "tech-ai",
-      "richness": 3,
-      "score": 21,
+      "richness": 4,
+      "score": 32,
       "cooldown": false,
       "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "OpenAI models go rogue in 6 new cases - NewsNation",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSFRyN211OEhhTnQ2OWt1S1J4U3g4NkZYX2RqM1BBMnZ3dEs1MVNFcm42M3B1UmdHOURPV2ZwQWZHd0ZDbE5DYWJaczJBMGs4QTJNQ0ZBbmFaZGpPbGItX1N3ZmJGSmE0bkR0VmoyUFFfQk13NzhDUllyV3pzc1dwNHRkdVA3UDVTTmfSAY8BQVVfeXFMT0ctWFpmMnNSdDBkRERUUm1PMVQ0cUFsZjRhRkRBNWRXOUU4eVVnWG56XzVUSFI2LTI1NU9vQThIS2tzTlZIVWMzM05nN1luTW9DMEJLMnlNY0ZfaVpmMnlEVDF3cEVnWENxVmlQbGhZbTlzNkpCNzQtaFNfNTFrTmVONllYcXRsanpyUUlGcUk?oc=5",
+          "description": "OpenAI models go rogue in 6 new cases NewsNation Our framework for reporting model misalignment OpenAI OpenAI flags concerning new AI behavior and vows to track it more closely ABC7 Los Angeles OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior The New York Times OpenAI reveals new cases of AI models cheating, going off script The Washington Post",
+          "pubDate": "Thu, 17 Sep 2026 14:43:17 GMT"
+        },
         {
           "source": "ansa-homepage",
           "title": "OpenAI: 'Sei nuovi casi di comportamento preoccupante dei modelli IA'",
           "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/17/openai-sei-nuovi-casi-di-comportamento-preoccupante-dei-modelli-ia_470f9247-10ae-4861-91d5-dd8f991a198c.html",
           "description": "Adotta nuovo sistema di segnalazione per eventuali anomalie future nei test",
-          "pubDate": "Thu, 17 Sep 2026 03:42:45 +0200"
+          "pubDate": "Thu, 17 Sep 2026 09:11:44 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "OpenAi, sei nuovi casi di comportamenti imprevisti o preoccupanti di modelli Ai - ilsole24ore.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWV9qeE1jRi1oRXp2YmlTdElITUpkSDNMb0h2NGVrZFN4VEFMT3lGc3lCVHVoV0Fha1NNQlRPUUVmckJBLTF4emRVUTdXYlZzeUJnSnh3X1VBd3E5TjVFbFh6R091ZU13bUJDa0o5cmtiZVAwbW5rQWxCMFVKb3pQQ0hfeXh4YXNuNWlyeHlQaExTbWR1UkJnNFdubjVqX1dRWEtZc1p5V2d3T0FLbkR2MHFJUQ?oc=5",
+          "description": "OpenAi, sei nuovi casi di comportamenti imprevisti o preoccupanti di modelli Ai ilsole24ore.com Openai, \"sei nuovi casi di comportamento preoccupante dei modelli IA\" rainews.it AI, dall'attacco ad Hugging Face agli allarmi apocalittici: cosa è successo e perché Corriere della Sera OpenAI: 'Sei nuovi casi di comportamento preoccupante dei modelli IA' ANSA OpenAI, nuove anomalie: “I modelli hanno na",
+          "pubDate": "Thu, 17 Sep 2026 05:57:07 GMT"
         },
         {
           "source": "bbc-business",
@@ -270,84 +165,98 @@
           "link": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
           "description": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
           "pubDate": "Thu, 17 Sep 2026 03:09:21 GMT"
-        },
-        {
-          "source": "google-news-it-tech",
-          "title": "OpenAI: 'Sei nuovi casi di comportamento preoccupante dei modelli IA' - ANSA",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMjFCZ0htS0FnTTRwWm13UUp0dU92ZjM5Z3IySWRwT0lJYUFUU0tkZkI5NVBuaGp3UnpTY3QwWGhVWU5VZWVyVXF5bmdSX0dLa2dSVEQtYzdOS2pKOWtQSEZ0dXZSanp2YkhoOF9DdXNsbUYxaS15Mk00eUdrYWtfYjFZb3JRM0YzbURTU0RuanIxUFp3NFFCekF3cFhfcHBjakFFcWdsanlxdk5xRkJLVGdjVTJSVzFxcEVubW9aZ0VXb0t1YUZlemZjbTJEMWxpN3c4dlJIYnFmYzVFTHNTZ1V5Qi1pSkRfMXJYQTVhY9IB9AFBVV95cUxOU3pqNzJyeHdyb1MwLXFvUXM4M20wOEl4Q0h4eUxFa1ZocmFhYjdSeEZQNDZWTFNsNmN5T1VWNkxBd19GSXZZbFhLVWRZWXIwVjlGdzNjTnQwOThKSHlsQnBTYmRxSHhzaHI2dUd0bUZjUjFOdTZJZC1vQXlUM3VBb1QxN1BkeXpKX0ZGdHZZWndYVy1ERGNrWjJnWjExT24xclkydm9rMGJxZi0yMWFaakZGNm5uWHJENVkxNC1xa2JhSll4TFk1enFpZjFEZEFHVVp0emY1b1hVcTVGcU9SbTlscnNDWEROWGZIT1ZpYnEwQ182?oc=5",
-          "description": "OpenAI: 'Sei nuovi casi di comportamento preoccupante dei modelli IA' ANSA",
-          "pubDate": "Thu, 17 Sep 2026 01:28:00 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "zuckerberg nvidia ai sviluppo",
-      "label": "Zuckerberg respinge appello di rallentare sviluppo IA, sta con Nvidia",
-      "n_items": 2,
+      "keyword": "iran scuola bombardamento crimine guerra",
+      "label": "Onu: Gli Usa hanno bombardato intenzionalmente una scuola in Iran",
+      "n_items": 3,
+      "n_sources": 3,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 21,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Iran, l’Onu: “Gli Usa hanno bombardato intenzionalmente la scuola di Minab, è un crimine di guerra” - ilfattoquotidiano.it",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSVIwNVoyb3VrcHNuRGlaM1ZwLTE2bkRuc2pLVXpVZ1U2LXNaV05YTUNHWFF4SXVEeWwzUWVkTFlFTzF5Q0pURUZUWWxUS1BVemo4QXRPTnJ6NE1lVWNqMGpSZldYall3UlNYYnNSQUpTeHdpQmQwOG51MXZpMUlNMUw2Y1RCSGVCRFNMUUYxTVdybkpON2FqYXJhcWUxSWdwdXA0SE9yZjlMQQ?oc=5",
+          "description": "Iran, l’Onu: “Gli Usa hanno bombardato intenzionalmente la scuola di Minab, è un crimine di guerra” ilfattoquotidiano.it Guerra ultime notizie. Inchiesta Onu accusa gli Stati Uniti di crimini di guerra in Iran ilsole24ore.com 'Missione d'inchiesta Onu, crimini di guerra Usa in due raid in Iran' ANSA Iran, l’Onu accusa gli Usa di crimini di guerra: 120 bambini uccisi nella scuola bombardata a Minab",
+          "pubDate": "Thu, 17 Sep 2026 12:08:31 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Iran school bombing: grounds to believe US was behind atrocity, UN finds - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNzJvZW84dU1NMjA2OVZSZVlYS2lJWmhhbjN2M2RZbjlGUGV0WjRNWUNmbXpkREllLUNlWGVEel9TWnFDYmNBM29GbWsya0lIQU5yOUtLWVNjQjBHUTdwNjl4LS1LTGVIVXFmYTNWTTJfbzR6R2xfWkoyQkhpLXhIa2VOMjI3UkdzZ1NHMmx1ZUg1YUUyY3FBdFhmY05CQVJtWXNfVA?oc=5",
+          "description": "Iran school bombing: grounds to believe US was behind atrocity, UN finds The Guardian Iran war live: Yemeni soldiers battling Houthi advances on several fronts Al Jazeera UN experts say grounds to believe US committed war crimes in Iran strikes BBC Iran War Updates: U.N. panel cites possible U.S. war crimes as Trump again says Iran wants a deal CBS News U.N. finds grounds U.S. committed war crimes",
+          "pubDate": "Thu, 17 Sep 2026 09:05:00 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Photos show widespread damage at US sites from Iranian attacks",
+          "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+          "description": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
+          "pubDate": "Wed, 16 Sep 2026 18:36:16 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "svezia elezioni andersson centro-sinistra",
+      "label": "Centro-sinistra vince in Svezia, Andersson incaricata di formare governo",
+      "n_items": 3,
+      "n_sources": 3,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 21,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Il centro-sinistra vince di misura in Svezia. A Andersson il compito arduo di formare il governo - rainews.it",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOS3VQN3MzZDJkTnFEaExwaFRZSFVabGUxZHlCX084Z0xFenVCcmJvY2dWMDMtVDhvUHFLNURsb0hJZ1o2UG5MM1ZjVXVHcDJ5WUs3UUNfa1pNb1lNNG5qel9CV0lYYVloS0x4bjJvSE1wWGctVzg0SDlzR1hCTnBJdDhETE4tUF9MaW0xMGNzMm5HS0VNZzYxY0xwMURwR3h5cFo4NXYtVGk3QzJOX25wN09mWHR1WVA5ZnRzaGVlWHVnSWZYOXBQR0ZIaDZoOU5DSVZ6dHlJeTgzaDRoOUhJY3NOT3BxeWRtM1otdVZacFVvbXdvLTk3M3JqQUpTZTBwTTl3NtIBigJBVV95cUxPR1dYdWFyRHpaSWlfTUZXcTFadDhKN2RIa1NWajNjT2FNQVFMRzN2bE8tVi1xOU83b2RCLTFmLTZURkpydVhYbGxEazJubDZ0ZHBwNzd2RFZTVHBkeFRvbjByMTdUdm45eGdDejR4S1NXWDUxTTBTaEo1Z1dLbkZHMlVkbzFSSzRZZnBoaUVFM1pGVXhwQ2hHQm90Y3ctb0xueW5rUFdEQjFKd0EtQkgyRGxyTXJLdEIyM2Mzdm1tNGgyVm9KVlEyTFhjZm1fRGhoZlN3ZURUTUNzLU5ldHRBUzN0NmRuUUVfeHdhRHNzb0RMT1pjTlY2eXJyQl81U043cElucjZpbFI2UQ?oc=5",
+          "description": "Il centro-sinistra vince di misura in Svezia. A Andersson il compito arduo di formare il governo rainews.it Elezioni in Svezia, il centrosinistra vince di un seggio: trattative per la formazione della maggioranza Corriere della Sera I socialdemocratici svedesi devono cambiare strategia - Cas Mudde Internazionale Il centrosinistra in vantaggio in Svezia, ma è incognita per il governo ANSA In Svezia",
+          "pubDate": "Thu, 17 Sep 2026 12:32:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Swedish PM Ulf Kristersson resigns after election loss - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rOWtlMGtyd1p3c2ZJVGZKclRtNkdJSzI3cFNJVkNUSWdUZVNmdjBrMUxGeXRMY21IWVpfRlZFa2REd1ZHM1RKdVpOZjRDb25JZl9jQTlDbDlzUXc?oc=5",
+          "description": "Swedish PM Ulf Kristersson resigns after election loss BBC Sweden’s PM resigns after centre-left bloc wins slim majority in election The Guardian The night Sweden's far-right stopped winning Reuters Sweden prime minister to resign as left-wing bloc seals narrow election win Al Jazeera Sweden’s center-left opposition wins election, SVT says CNN",
+          "pubDate": "Thu, 17 Sep 2026 12:41:05 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Swedish PM Kristersson resigns after election loss",
+          "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
+          "description": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
+          "pubDate": "Thu, 17 Sep 2026 12:41:05 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "ia ricercatori estinzione rischio",
+      "label": "350 leader industria tech: l'IA incontrollata rischia come pandemie",
+      "n_items": 3,
       "n_sources": 2,
       "category": "tech-ai",
       "macro_area": "tech-ai",
       "richness": 3,
-      "score": 16,
+      "score": 18,
       "cooldown": false,
       "items": [
-        {
-          "source": "google-news-it-business",
-          "title": "La guerra per il freno dell’AI: Zuckerberg respinge la proposta di Amodei (di A. Sarno) - HuffPost Italia",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOendVemI1eVM4VWZreWZ3MUYzekZkQ3VpdVZDN2hJakJweDJDZ0pmNkVQZzNaRHdiNjE2RWVONTQ2RjdsNF8wWWo4ZWVaVTRjenA5VjJMUzJQc1hxVklaeTZHV0RLMUFFOVFDYmNHVDhBUTRaM2JUVjJHbDlsSkVtVGVWQkREeWE2MjJLZVBhSkRvbTNIaGJJYktsUEdzbjF0ZGN4eW5iTzJoUjRJcEhVZEFSX0l2RzBNcUpQbXlVS1M4WjR2MFN0VlBvMVRvTVRhZUtSdXJwek9Mdw?oc=5",
-          "description": "La guerra per il freno dell’AI: Zuckerberg respinge la proposta di Amodei (di A. Sarno) HuffPost Italia Da Meta ad Anthropic, è sfida tra entusiasti e apocalittici dell'IA ANSA Vorreste un robot-maggiordomo perfetto ma con il 10% di probabilità che vi uccida? avvenire.it Zuckerberg sta con Nvidia e Trump, respinge l’appello di rallentare lo sviluppo la Repubblica Le iperboli opposte dell'AI Corrie",
-          "pubDate": "Wed, 16 Sep 2026 13:36:00 GMT"
-        },
-        {
-          "source": "google-news-it-tech",
-          "title": "Zuckerberg sta con Nvidia e Trump, respinge l’appello di rallentare lo sviluppo - la Repubblica",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYUc2RVZQM2lhcGxnMHgxS0RnZk1FcENuVXVWWkJDcV9ZbmFRTEQ0RTRUY3NiellZZVRHV3U5dzNXOEZFWmRZTE1kRHFnNVNKNmxlZEpXM2ktQkxPcG1oVFRZTkFLV3E1dnZVbXJyMnJUOWQyWHZvNHBnd2NnTTFkWE5tZmUzcUVmcUZHM1Y2MEQwQmtqcUtqOHk2WEJULWdETDZCcU53X0VYXzF1aFBrUVRNa3FlVEZDYTMtZVRFMHlrOUNnRDI4RGNPOXdoU3hVeGU4c3RqbWdYQi1la3c?oc=5",
-          "description": "Zuckerberg sta con Nvidia e Trump, respinge l’appello di rallentare lo sviluppo la Repubblica",
-          "pubDate": "Wed, 16 Sep 2026 06:42:14 GMT"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "russia piano omicidi fbi",
-      "label": "Fbi accusa Russia di pianificare omicidi in America e Europa",
-      "n_items": 2,
-      "n_sources": 2,
-      "category": "general",
-      "macro_area": "geopolitica",
-      "richness": 3,
-      "score": 16,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "ansa-homepage",
-          "title": "L'accusa dell'Fbi: 'I russi pianificavano omicidi in America e in Europa'",
-          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/16/usa-gli-007-russi-pianificano-omicidi-mirati-in-america-ed-europa.-il-cremlino_63ccfeef-bec5-4021-8f41-80d16098fb25.html",
-          "description": "Putin alla nazione: 'Nessuno ci dividerà'. Kiev uccide il generale-eroe di Mosca",
-          "pubDate": "Wed, 16 Sep 2026 21:14:51 +0200"
-        },
         {
           "source": "bbc-world",
-          "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
-          "link": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
-          "description": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\".",
-          "pubDate": "Wed, 16 Sep 2026 12:26:00 GMT"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "ia estinzione rischio ricercatori",
-      "label": "Decine di ricercatori avvertono: IA potrebbe portare all'estinzione",
-      "n_items": 2,
-      "n_sources": 1,
-      "category": "tech-policy",
-      "macro_area": "tech-ai",
-      "richness": 3,
-      "score": 14,
-      "cooldown": false,
-      "items": [
+          "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+          "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+          "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+          "pubDate": "Thu, 17 Sep 2026 08:22:12 GMT"
+        },
         {
           "source": "ansa-tecnologia",
           "title": "L'IA può portare all'estinzione, l'allerta di decine di ricercatori",
@@ -366,29 +275,148 @@
       "clustering": "claude"
     },
     {
-      "keyword": "morbillo usa donna morte vaccini",
-      "label": "Morbillo negli Usa: muore donna 40 anni, quasi 700 contagi",
-      "n_items": 1,
-      "n_sources": 1,
+      "keyword": "influenza vaccino ottobre campagna",
+      "label": "Ottobre: parte campagna vaccinale influenza con 9 vaccini aggiornati",
+      "n_items": 3,
+      "n_sources": 2,
       "category": "salute",
       "macro_area": "clima-salute",
       "richness": 3,
-      "score": 13,
+      "score": 18,
       "cooldown": false,
       "items": [
         {
+          "source": "ansa-homepage",
+          "title": "Influenza, a ottobre al via la campagna con 9 vaccini aggiornati",
+          "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/09/16/ansa-influenza-a-ottobre-al-via-campagna-con-9-vaccini-aggiornati_95983cbe-e794-40ce-b3e8-5243a9cfe384.html",
+          "description": "Per molti immunizzazione è gratuita. Rezza, 'nonostante il caldo, non ritardare la vaccinazione'",
+          "pubDate": "Wed, 16 Sep 2026 19:14:07 +0200"
+        },
+        {
           "source": "google-news-it-health",
-          "title": "Morbillo, muore una donna di 40 anni: quasi 700 contagi e 124 ricoveri - Mondosanità",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONTZMWl96V3YzRHY4dGlRdGVORG10VUZQdnlxeUZ4a005RE5HS1N0ZlhDMXFnX2EtUVBLdDZ6dXBua1ZJUVVuMVgzdXZCaEp0MkdXNkhjaFM4WEZoVlZZWnFrYURGRmNYUDdOZmZ3YXpkM1hjTzdWNllXUnNCT0N6MVdpLW1INGY1ZGxpRXltQ0tlSDNsb2N5M0YxUUFqTDFSejhWdVN2bER1TU1YYkEzazc3MDRwM3JrYWEzclFYbGhITTV4UHc?oc=5",
-          "description": "Morbillo, muore una donna di 40 anni: quasi 700 contagi e 124 ricoveri Mondosanità Morbillo negli Usa: quattro morti in Pennsylvania e quasi 700 casi. L’ultima vittima è un 18enne non vaccinato Il Messaggero Allerta morbillo negli Usa, quarto morto in Pennsylvania: è un 18enne non vaccinato cremonaoggi.it",
-          "pubDate": "Mon, 14 Sep 2026 13:30:00 GMT"
+          "title": "L'autunno (e l'influenza) alle porte, presto al via la campagna vaccinale - BresciaToday",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS29leGZvVHFoN3lCWDVUUE9wX29TeHhxb3NHd2dnVXZHZXNieERTUEppSTlmOUtTUVJBWkoyM1k3RjVOT3pWLWdOWk8wQ1NLYl93bjEzbnBtT0V1RVZnU2d2Umw0MVcxcHZINmQtLWQyVWtZblVCcGt1djRrX1BOTmc3ZzZHamZkckE?oc=5",
+          "description": "L'autunno (e l'influenza) alle porte, presto al via la campagna vaccinale BresciaToday Influenza. Aggiornati i vaccini per la stagione 2026-2027: ecco i nuovi ceppi Quotidiano Sanità Influenza, il ministero alle Regioni: “Via alla campagna di vaccinazione dai primi di ottobre” la Repubblica Influenza, a ottobre al via la campagna con 9 vaccini aggiornati ANSA Influenza: ok a 9 vaccini per la nuova",
+          "pubDate": "Thu, 17 Sep 2026 07:32:18 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Influenza 2026, il virologo Fabrizio Pregliasco: «Quella vera ha un esordio brusco, con febbre oltre i 38 gradi, almeno un sintomo respiratorio - come tosse o mal di gola - e almeno uno sistemico, come dolori muscolari o spossatezza». I consigli per gestirla - Vanity Fair Italia",
+          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxONmRDOURYSHFCSXV3aHhUbUpKalRGeENPNDBUWlVYenkxb0ZWeXdRSjBHV0pyVXg5Z1oyc05yVWhQTW5WYTgyUkwzeG5tVmsxQ1BGdVNVcTllSEpMTzVIUmpqbXhwN3VmcDVJUUlsOE1KOE5zQ09NOHIzWmw4ckhWOGdFZUI4N0FGekdnNU54SlJzRFhKTWtqQ0xQa0pVXzFIUEdkc0o4MWE3dU5qY09EczktMTNRcUpxS29hWFVrZzJZTElIWTlkeGdual92a3hVci1VdnZiSHliWmh2Si1VWVBEeDZ3THdtU3hhVFM0aDlMam5PZ2YySXMyWlozX3ZSQ05aNXNaU0xMZ3ljMlg2WFBtUHY1SkZLWk9qeElUYkNIU29DdnZQZHBIZVhYMERaYzlqSzNBSmpDYm1qSzU4dQ?oc=5",
+          "description": "Influenza 2026, il virologo Fabrizio Pregliasco: «Quella vera ha un esordio brusco, con febbre oltre i 38 gradi, almeno un sintomo respiratorio - come tosse o mal di gola - e almeno uno sistemico, come dolori muscolari o spossatezza». I consigli per gestirla Vanity Fair Italia Influenza, virus meno aggressivi ma ci saranno almeno 12 milioni di casi la Repubblica Fabrizio Pregliasco: \"Ci aspettiamo",
+          "pubDate": "Wed, 16 Sep 2026 14:52:09 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "groenlandia antartide ghiaccio perdita",
-      "label": "Ultimi 50 anni: Groenlandia e Antartide perdono 11,3 miliardi tonnellate ghiaccio",
+      "keyword": "bollo auto abolito strutturale",
+      "label": "Meloni: il bollo auto abolito non è temporaneo, sarà strutturale",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Meloni: 'Il bollo abolito non solo per il 2027, la misura è strutturale'. Le stime dei consumatori - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOZjVaZGJqcUR3eURlbHBHRmpKSVBvMl9MWHVES3UwNlJQZlJfWnM2VXB6LTJheDNPdTVtQmxNQ0Z4TUY2c3piQnJvMjBZQXVxb3NoZ2ozdVBFUElENmFaVVZaYkVVTV80MkppSlkzUzQxalQ3NkxoZXRmLURvaGFqNkZocjhGSnRuV1JCYW1ySnMtVVNvcUd5Z3QydjRrQThGM01QazE0SVVoNGFQdV9CT09JcWJ3a053R3JVd19JOWozd1RNYlZqS3pMNVA0M3BNTkl6Y09iQ2ZfVW9xQ1ZmbDJKdGZXN0JWZjF6bUdSY2tTV2RBTk43bEZBS212eThSRTJV0gGIAkFVX3lxTE5HdU1USkVGaG9SRzQyaERLOFhYVDVITHAxREZxSG1XMGlXdW5OMXhfU2lUWlI5Zmw1YnNPUW9EOXg2dkdBYU1JSlNQWnlTSG1DUmdDVFBJQjc2b1lkSXNNTGZhN1d4UmlSRllydU1rWFUzdUJ4dTdheWtjcElnMDZhdmNDXzRMNHhSOE8yYlBNT0t0Nlh0Ri11WTdRNUNxQ3FSb1NiQmFodlFwUEFhVUZSdXZIaWRPbThhRG1iVFFiVjZZamZORi1rc0dMQXE4cFg4ZGxNeXBlVlhBSDlWZHF0dVdKdEdBSERmbElOYzRTMzJRNUZycG1TcEZ5d3dHWFNfdFBDRHdOaQ?oc=5",
+          "description": "Meloni: 'Il bollo abolito non solo per il 2027, la misura è strutturale'. Le stime dei consumatori ANSA Bollo auto sospeso, lo scippo di Meloni ha mandato in tilt Forza Italia. E Tajani dà l'ordine ai suoi: \"Dite è roba nostra nel segno di Berlusconi\" ilfattoquotidiano.it Bollo auto 2027: ecco i 95 modelli esenti, scarica la lista completa di Quattroruote | Quattroruote.it Quattroruote Quali auto ",
+          "pubDate": "Thu, 17 Sep 2026 11:37:42 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Meloni: 'Il bollo abolito non solo per il 2027, la misura è strutturale'. Le stime dei consumatori",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/09/17/meloni-il-bollo-abolito-non-solo-per-il-2027-la-misura-e-strutturale.-le-stime_01a925ca-c780-4377-be0c-cc6e8f2b45e0.html",
+          "description": "Altroconsumo: risparmio tra i 113,52 e i 141,90 euro. Giani torna all'attacco: 'Ristori da fondi Pnrr incostituzionalità palese'",
+          "pubDate": "Thu, 17 Sep 2026 14:18:08 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "revolut hacker riscatto dati",
+      "label": "Hacker attaccano Revolut: richiesto riscatto milionario in 24 ore",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "tech-policy",
+      "macro_area": "tech-ai",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Hacker contro Revolut: chiesto un riscatto milionario entro 24 ore - RSI",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObS10dVo0dklZbmpsYUxPQm1sUDEyVFJ1d3RiWXlTZjFFVjBIcHN4VU1nM1I5THZkeVg4b1puQ1hHLUFjYW40TXlkMEFaSzdobkU0MzhKel9SZTdaaGM0VVBjMWZQWkplU0VfMEU1cXByUXJkbDE3bmRQdDlRcWdPZi1MV2JJQkthRWhJanF0N0xENjlfOWVvcS01OUIxNFp5a0JiT2wwVURCY2l5Qmc?oc=5",
+          "description": "Hacker contro Revolut: chiesto un riscatto milionario entro 24 ore RSI Caso Revolut, conto alla rovescia per il riscatto dell'hacker. L'Agid: «Passeremo a Pec Q, più sicura» Corriere della Sera Furto dati Revolut, quali rischi corrono i clienti e come proteggersi Libero I criminali informatici che hanno truffato Revolut hanno chiesto più di 2,5 milioni di euro per non vendere i dati rubati Il Post",
+          "pubDate": "Thu, 17 Sep 2026 08:38:48 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Revolut, gli hacker 'abbiamo i dati della polizia italiana' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdmVwMERsLVJzMmItbWhjdXVJbjFGWDBTUWZnc0hGaGZCMDVZd3JEaW4xcWVKRlNTcnpZaUZPUDBBYjZ5dGxEb21ZNUZ6RlRsWmNtMzFxSnFGSVFvRUVsMFRBejJUTFlTNVd0b1RQOERyQjdCcTdHOUthb1V2cDFFM3VUcnhzd1dfVkRrS0tUSklock9PaVloZkhXYUlpTHNlbTRscXR2cWstRjZJcE5GaFFYVFdLZW5NWUJmSXNYcFUtcWFYbWxNc0RvbXpFM1lFOTBVV2pVUk9ObVpFVkE1VG1n0gHnAUFVX3lxTFA2REdST2ZmS2ZyaDBjZ3BNTmxPMndENWNLckJHMFBlTmJEUk12Skx1Z0dBeHNMaTNQTjlGU1AyOC1wTUhwTUxQbm9KOTdnQVcxcG1xN2Zib0ZtVDQ3VXN1UU1XcTZoVUVoM1NxZGwtaHdka0t3Qm1DbXpVU0hVUFZLb2w1T09xb0NzN2l6THJ4QWw4a29zR1pkTHdLOG56QXZtQmxVZC1rNTRPU1IxM1d1RDhSN0YwdEliX3A4b3lTMW1pZFF3c2tJMnJwbVg2aWR4bTJzQmJqM0VTYThCS09mTjNZZmROcw?oc=5",
+          "description": "Revolut, gli hacker 'abbiamo i dati della polizia italiana' ANSA",
+          "pubDate": "Wed, 16 Sep 2026 20:52:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "russia elezioni duma guerra ucraina",
+      "label": "Russia: prime elezioni Duma da inizio guerra in Ucraina",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Russia, prime elezioni Duma da guerra in Ucraina: partiti candidati e scenario politico - tg24.sky.it",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tOTFhT0xhRjlEV0pqWlNYcnZuT1p1Yk5PMHJFaEZ3WVhfOGJ4NEh2bEFnbVlWdVMwQVdRUWlxY2xLUktxU1p2SmdsQ01IdUNtaDNPYmg1cE9UcW0yRUo3ZlcweG9rNjhJNjhZc1ZLZEt4VGZLbm1VY2dUR2g?oc=5",
+          "description": "Russia, prime elezioni Duma da guerra in Ucraina: partiti candidati e scenario politico tg24.sky.it Russia, al via le elezioni per la Duma (dal risultato già scritto). Partiti esclusi, slogan strampalati e una promessa: «Chi viene da noi con la spada non si aspetti clemenza» Corriere della Sera Putin chiama i russi al voto: \"Dalle urne la risposta a chi vuole dividerci\" rainews.it Otto e Cinquanta",
+          "pubDate": "Thu, 17 Sep 2026 04:58:02 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Putin chiama i russi alle urne: 'Nessuno riuscirà a dividerci' - tg24.sky.it",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcWtWWnZZV0c2ak9WSTFFNXFqZFFZWUhqMkxCZ3RCU2p4bGhEZHh4RkhlVHNGMThIOV9ERlF6NjBDa0FvZ2ZXZjk4dWV2RlBuTzhMdHpLLXFLNWZwV1JCWmxSWTdNWE1hSVdyQUJxcXlPTXREUG5Fa003MGRtdVhCc3ZMVjE2R1Rz?oc=5",
+          "description": "Putin chiama i russi alle urne: 'Nessuno riuscirà a dividerci' tg24.sky.it",
+          "pubDate": "Thu, 17 Sep 2026 05:28:13 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "auto ibride cina dazi ue",
+      "label": "Ue chiede a Cina tetto export auto ibride, minaccia dazi",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 3,
+      "score": 13,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Auto ibride, la Ue chiede alla Cina di imporre un tetto all'export: «Devono dimezzarsi». E minaccia dazi - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOdk42bTZ4b3ZKZjF1Wktnc19mR21qWVg2S3pRTFlMcEQ3Y3JNVHN0OW05Y2FpNzBXTHNLZGlrZmd3S0M4ZGFERWo0U3NFQlc2SGpKcm41TWw2ZzlXVVBmQk9ON1hlY1JCYjJOZzhlcTFjdFVjd3hETVJZUGZ2WUFJRVRFcXlnZlNSNkJmNG4zMVdzSVh4MjRVSk8wZ3QwSElBREl5Tmdwc19SMkVwRjdlQzJyVVd0alNpZXN1RTZjUEE0V2JpTG15VVZoNUFiRUYzdTA2WFlueU9wOWZhQ2FqZ2ROQjgyd0t6SUxvUk8xNWtBemhWVm05SkYtaGd0M1o5SHYtVFVwTG05RUVBcDF2OXdyLS1BN1c0SWU0NlN2V2RNWm9Zd0HSAasCQVVfeXFMT2VTblFHZ1U4eWlCeGo1Tkh6d2hBUWRQUFlfTDlENFpPNWk4NWVDR3lRdlNjbnQ5VnhfRnMtVjV2dXpfalg1eFA1TUo5MTdEMnR4TUpWMXB4ZXJ6blZRTTlwRVJVeEptb3k4bUZOUWJNVzVoMUhRLVhXRUgxU29VTE1yUU83cTFqWm9ZdTBSY3BkbGRFNVFKblpCV245Z0RvMTFlTXBET0I5Nlc5NU9DTWNQMXNDN1FpN1l6WnpHcDl4R3R4MlhRWE5kS0oxeTRYX3FqdnFlVnd1UmUxWW56bExxN1V3LTJieDNlcVRjQm9wcFBGSDFsMFdGYTV4UnlXcjExenlsay0wdU85TEhMbFFIWERuTEV1RW5pdnVtVk5CS0ZqamZici1faVE?oc=5",
+          "description": "Auto ibride, la Ue chiede alla Cina di imporre un tetto all'export: «Devono dimezzarsi». E minaccia dazi Corriere della Sera Ue, 'con Pechino confronto su export cinese, accesso al mercato e terre rare' ANSA Cina in rosso, l’Ue chiede a Pechino di dimezzare l’export di auto Milano Finanza Stop alle auto ibride dalla Cina. L'Ue chiede di limitare volontariamente le esportazioni la Repubblica Materi",
+          "pubDate": "Thu, 17 Sep 2026 06:45:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "groenlandia antartide ghiaccio perso 11300 miliardi",
+      "label": "Ultimi 50 anni: Groenlandia e Antartide hanno perso 11.300 miliardi tonnellate ghiaccio",
       "n_items": 1,
       "n_sources": 1,
       "category": "clima",
@@ -408,64 +436,85 @@
       "clustering": "claude"
     },
     {
-      "keyword": "petrolio arabia saudita calo",
-      "label": "Petrolio cala: Arabia Saudita offre ulteriori carichi via nave",
+      "keyword": "yemen profughi gibuti mar rosso",
+      "label": "Crisi umanitaria Yemen: profughi invadono Gibuti, emergenza Mar Rosso",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 13,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Yemen in fiamme, Gibuti invasa: la crisi dei profughi che spaventa il Mar Rosso - InsideOver",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdTdoNkdzNndfa0h4OFFXZWZiMWRzUEFKUHNMdnh1MW5HdkR0SVZHU1F0aVo5aEg3QmdiZ2RpVnlUY3ZKbGVZYXVaNU8xQjlKTDRhY2JFWEpkeGJCZGhvU0t4eWgxQnVhZ1dVWlZFa1lWWXJ1aFM3VlJ2cE1tMTR2OGhCRXd3TUtuVzQzSThVRGY4ZDVickllMnU3bkRFam5lNko1cVFfZHlQRnRIX0xmbjM3VWFTUQ?oc=5",
+          "description": "Yemen in fiamme, Gibuti invasa: la crisi dei profughi che spaventa il Mar Rosso InsideOver Che succede intorno a questi due stretti in Medio Oriente Il Post Fuga di settembre Il Sole 24 ORE L’offensiva degli huthi mette in difficoltà Riyadh - Dany Moudallal Internazionale Il punto sulla guerra Usa-Iran. I ribelli Houthi, sostenuti da Teheran, non si fermano dopo aver preso di mira gli impianti di ",
+          "pubDate": "Wed, 16 Sep 2026 10:19:21 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "valditara busta proiettile minacce",
+      "label": "Busta con proiettile e minacce al ministro Valditara",
       "n_items": 2,
       "n_sources": 2,
-      "category": "energia",
+      "category": "general",
+      "macro_area": "societa-diritti",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Busta con proiettile e minacce al ministro Valditara. Tajani: \"Se qualcuno pensa di fermarci così si sbaglia\" - ilfattoquotidiano.it",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZExWdklib1pKdnlyQTlTYzhLbGlKaWluQzc1aGNaQV9DSHR5c09ERUFsVVk1R3lSaGFjX3JPSFNRcy1uQUd3bHkzLThkZWxxMzdwWFMyNlh3eE9KRnFCVE1xRlVRWmRpOEtrY1dWaXJhR1Uyem9WY1psYXdKRU43TU9MNm80bE5lMWs2WHlTVnN6YWxkdFI2VHl6SQ?oc=5",
+          "description": "Busta con proiettile e minacce al ministro Valditara. Tajani: \"Se qualcuno pensa di fermarci così si sbaglia\" ilfattoquotidiano.it Busta con proiettile e lettera con minacce al ministro Valditara ANSA SCUOLA - Atto intimidatorio contro il ministro Valditara, Pacifico (Anief): “Piena solidarietà e vicinanza” ANIEF Busta con proiettile e minacce a Valditara. La solidarietà di Meloni, Salvini e Tajan",
+          "pubDate": "Thu, 17 Sep 2026 08:40:36 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Busta con proiettile e lettera con minacce al ministro Valditara",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/09/17/busta-con-proiettile-e-lettera-con-minacce-al-ministro-valditara_eb08191f-11b6-4ff0-9bf3-c46572c162ef.html",
+          "description": "Meloni: 'Solidarietà a Valditara, sia fatta piena luce e tutte le forze politiche condannino\"",
+          "pubDate": "Thu, 17 Sep 2026 12:42:50 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "prezzi case appartamenti istat +4%",
+      "label": "Istat: prezzi case salgono del 4% nel Q2, Torino +8,5%",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "economia",
       "macro_area": "economia",
       "richness": 2,
       "score": 12,
       "cooldown": false,
       "items": [
         {
-          "source": "google-news-en-top",
-          "title": "Oil extends losses as Saudi Arabia reportedly offers ship-to-ship crude transfers after pipeline hit - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdEVJc0oxa0dmMXN1eW1DbTZWSDB5TGpPUGxaNEtRWFpITEZvUTNVQnczYkdkX1NUV2JIejl2Y0V0MmNWc2U0WmFrLV9GUWRNUHR3Rmk4eHRYa2d0MmFkQ1ZWQ0o3RTZQMGdPbFNNeTQzYVhtYlVacXFoaUlwaEh0RmJyWmI4UdIBiwFBVV95cUxOcHdJVXpwdHFBbkc5M1E4RzUxOXN4emVFS2gyajNLRVI2b0JtdllRWXF6TE5DQ0pPTFhSaUNTNGNVb05NY3RUdmtsZ1pNaGN2aG1ManlLOWtqeTBKSjNBbmRCdFVSb3B6MXljcnBkRHMyQmVjQnZJWWpIM3k2RVN4U0VrVzJkeVJndE1Z?oc=5",
-          "description": "Oil extends losses as Saudi Arabia reportedly offers ship-to-ship crude transfers after pipeline hit CNBC Global Oil Prices Could Hit Highest Levels in Months After Saudi Pipeline Attacks The New York Times Oil Pipe Bypassing Hormuz to Reopen ‘Soon,’ US Energy Chief Says Yahoo Finance Saudi Arabia faces hard choices as Houthis gain in Yemen DW.com Oil prices extend losses as fears of Middle East s",
-          "pubDate": "Thu, 17 Sep 2026 01:59:00 GMT"
-        },
-        {
           "source": "google-news-it-business",
-          "title": "Petrolio in calo mentre l’Arabia Saudita offre ulteriori carichi di greggio attraverso l’Oman - Yahoo Finanza",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUHppdG8zTVp2VVI1SjBUVzgySGxkU2VLMlRGSWxlMmtwVUZBRlJPOHJLWmdXRVlYUUJyR29UNGM5UnJUUDNQY1pmRmxaQldrNnJQMnhwNEZfeXlCeG5VSzhBSmJLeVpTc0tJVDdCczJ2dHQzSnVibDZrWUROTGt6cVdZTDdEaDcw?oc=5",
-          "description": "Petrolio in calo mentre l’Arabia Saudita offre ulteriori carichi di greggio attraverso l’Oman Yahoo Finanza È finita la pacchia. \"Riaprire Hormuz\". Ora anche la Cina paga caro il barile HuffPost Italia Webster (Atlantic Council): “Oleodotti sotto scacco, è la fase più temibile del conflitto” la Repubblica Petrolio, fiammata a 110 dollari al barile. Spinta all'inflazione, su i tassi Corriere della ",
-          "pubDate": "Wed, 16 Sep 2026 09:44:42 GMT"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "quantistico teletrasporto immagine",
-      "label": "Primo teletrasporto quantistico di immagine su 100 canali simultanei",
-      "n_items": 2,
-      "n_sources": 2,
-      "category": "tech-ai",
-      "macro_area": "tech-ai",
-      "richness": 2,
-      "score": 12,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "ansa-homepage",
-          "title": "Primo teletrasporto quantistico di un'immagine, su 100 canali simultaneamente",
-          "link": "https://www.ansa.it/canale_scienza/notizie/frontiere/2026/09/16/primo-teletrasporto-quantistico-di-unimmagine-_b60f2f56-3e75-4c04-a15e-0b177c6c2690.html",
-          "description": "Inviata una lettera Q da 100 pixel. Il successo avvicina l'internet quantistica",
-          "pubDate": "Wed, 16 Sep 2026 16:27:31 +0200"
+          "title": "Istat: prezzi delle case salgono +4% nel II trimestre, a Torino +8,5% - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOU1NMQi00QUZIbmtIVVI5V1ZpbDRPLU80NGU5eU9SYTlHbkNqMlBIZlRaV1hzNk02eXdZVjNXbElvMVNLTVduTXRGZVFzcnc4Z3FzdEwwRVVmTGZfTnhJWGwybHZlYTNJcWtQcFZKM18wMkNrcXJKVDJkSmFFeHAwYUtCXzU4NmZFLUJIRHBGbjlTNlBXby1pWnZrbEs0bml3M3VrV29wNUFxc2stUlhsVE9xQmtIR21rYWxYczlJSGtwcFMyRWpqM1VzQ2d0alRqcTFxUDZnbU1KWm4tWmZ1Ym52WWhnZ9IB6wFBVV95cUxPM2V6MWNjZzUyX1NCUjZ5VWVpODAweXIycS1zRmpxbHNNZHphYmNzSDVlMWVkUGFzMm83QS12eElMZlRSMGpzR1BTQ2FKX2pNZFQyZzNCUFFZVllqSWYzQXRwYnBZdEltYW9KaUlOYWpGZk9jMTVQbXNFclhlZGhwQmJkdGNtdWU2S1Nvc0k5S05JdjNXQzhoVU4wLWlxTjZ1Zmk2Q0lHUnFxeFFPNXZ5OHdldldtNVByY0NmSGMzVVRFcXNIbnMwTUtPNUpBOG1ZNXAySFV1dE1sZG5hcWx4VkhnQkZkbW93bVpz?oc=5",
+          "description": "Istat: prezzi delle case salgono +4% nel II trimestre, a Torino +8,5% ANSA Casa, per le compravendite arriva la prima frenata: si ferma Milano, crolla Firenze, le quotazioni strada per strada Corriere della Sera Rallenta la corsa dei prezzi delle abitazioni, +4% nel secondo trimestre 2026 ANSA Case sempre più care: a Torino i prezzi corrono all'8,5% Facile.it Crescono i prezzi delle case, +4% nel ",
+          "pubDate": "Thu, 17 Sep 2026 08:33:00 GMT"
         },
         {
-          "source": "google-news-it-science",
-          "title": "Primo teletrasporto quantistico di un'immagine, su 100 canali simultaneamente - ANSA",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPME1uYXdJdUtTRl9JWnpNaktvOG9xUmdFZURfUy1vVEJOV085ZUdVdVJaUWE1RE44U2c2SVd5YXEtY081TWZNenhDZDBsMWRWYmNfMllIanRlN3lBSE94V2p6dTlxclkxck5CVmRuaUhGTmlYTDRkZ09Td29RelJ2WlRIUHY3UGliZGZBM1ozc19MeVVyQ0RIdmwweGh6NkRpZnAxaDNBd2xEenlRZXBQWm5qeEtfSVNKWm1zOUZHMVhNenFRM09URnVWeS1UQm42NEk1cmdrWDlSTU1wMnc0RDJLQko4bDTSAewBQVVfeXFMTzhZZmo4aDg3Y29WOFd6ZkdNc0tNdldtNklkTGZDUVpiWlFVdnRMUDhIanp4MlJEQmVPZlZPV3VWUG9uY08wNXQxMHB3MFdmbXFpMkRielJvb09DOWdlLXJ3SWtoRXVBUlNaR2haR0ljM003Z0ZVZ0pIamJOOHYyVUZDM2RNLXRkdU5SSFZidGpVMkpDZVhGVEU4aWk2c2hMMTdmOUF2SEFkX1Y5LWhkdTdfMmgtLTBwSEtpQno3WlA1d1dQRm1qY2NZRVFsSTQ4Y21HMEVQNUlSUHd0dHlZOW03dWJ5SjYwT0NFTm8?oc=5",
-          "description": "Primo teletrasporto quantistico di un'immagine, su 100 canali simultaneamente ANSA",
-          "pubDate": "Wed, 16 Sep 2026 13:15:54 GMT"
+          "source": "ansa-economia",
+          "title": "Rallenta la corsa dei prezzi delle abitazioni, +4% nel secondo trimestre 2026",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/rallenta-la-corsa-dei-prezzi-delle-abitazioni-4-nel-secondo-trimestre-2026_6cb03b14-c5ce-4bf6-b4af-9acec05e8691.html",
+          "description": "Torino e Roma guidano gli aumenti",
+          "pubDate": "Thu, 17 Sep 2026 16:29:08 +0200"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "parità genere italia report indietro",
-      "label": "Global Gender Gap 2026: parità richiede 120 anni, Italia indietro",
+      "keyword": "antisemitismo rabbino milano aggressione",
+      "label": "Rabbino aggredito a Milano: allarme su episodi di antisemitismo",
       "n_items": 1,
       "n_sources": 1,
       "category": "diritti",
@@ -475,116 +524,95 @@
       "cooldown": false,
       "items": [
         {
+          "source": "google-news-it-top",
+          "title": "Rabbino aggredito a Milano,\"Meghnagi: \"Sono episodi di antisemitismo preoccupanti\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTXhwUWdZYk9WaHBQT1pfdkJFSUpYZVpyS0dveWNmdkJEcVd4Yy13RVNNS3NxbmRTLWpTOTBUZURVSDdGSEFQZWJ2NVNOMGlFT3JtemRSZzRlVTBueTRtR2c0SjAtTXUyQXlMTjNtdTBBb3JTZ3M5UWF1cEhJNjlMRE1rLS1VbkhQbkZUZXlZNUloTUR50gFoQVVfeXFMTlVHRy1oZHNvNUNHdHY3Rm56clR4MjZiZzdXYkFad1pJbFIxczhFMENHMzVxdmVGejFsaVRXbzQ3SUV2NFdrU2FyU1J1dVlCWU9YeXpZZV9pVWVUZFREUEFydEhuYWNSbmw?oc=5",
+          "description": "Rabbino aggredito a Milano,\"Meghnagi: \"Sono episodi di antisemitismo preoccupanti\" Tgcom24 Rabbino aggredito, torna libero il 20enne arrestato. Gli indagati: «Non lo abbiamo picchiato, era lui che ci filmava. Gli abbiamo preso il cappello per scherzo. Vorremmo incontrarlo per scusarci» Corriere Milano Aggressione a un rabbino, il fratello dell'arrestato nega: \"Non siamo razzisti, hanno descritto u",
+          "pubDate": "Thu, 17 Sep 2026 12:01:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "gaza palazzo crolla vittime",
+      "label": "Crolla palazzo a Gaza: almeno 20 morti e 60 dispersi",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Crolla un palazzo a Gaza, almeno 20 morti e 60 dispersi - AGI",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTF9PYW42YnhxQzVoQ01Jd0ZDb2JabF9Vb3lQanpDbXphRDJueDMxSkhTS0RHbUZreFd6ejdyMVg5M1RCRWpSa0tBcXhyMERlVUx0RVJfSE9VRGl3cmRQaU14VXdZbW5OS2RQM3ZiNG1ZNEk0Q29IVlZQSUgwNFdkRTZYazB0VXJyTnY1aG5uN19Cb19URUJOdkhWc0J0T0Z5RWc?oc=5",
+          "description": "Crolla un palazzo a Gaza, almeno 20 morti e 60 dispersi AGI Strage a Gaza, tanti bambini tra le vittime del crollo di un palazzo ANSA Faltas: la pietà umana sepolta a Gaza, ri-conoscere gli innocenti Vatican News Houthi: “Abbiamo abbattuto un caccia saudita”. Edificio crollato a Gaza: 21 morti, 12 sono bambini La Stampa Gaza, si scava ancora tra le macerie. Morti 12 bambini Tv2000",
+          "pubDate": "Wed, 16 Sep 2026 19:23:11 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "thaçi kosovo condanna 25 anni",
+      "label": "Ex presidente Kosovo Thaçi condannato a 25 anni, reazioni forti",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Thaçi condannato a 25 anni: il Kosovo insorge dopo la sentenza - ilfattoquotidiano.it",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYkIzcmhMbVYtRXVEa21VVUtzRUJMemE3T2trYW5lTUtMSGdZMG03S29QNlZNaTlkU3U2VzhZLTl1RGlzMDl0SzE1aS1DTHZJUXJoSF9yWTBKUGswOGlBZV83UEJSanlYc3ZhR3k2VHh6SFEydWt6NWZSY0dRS2VDQW1uWTcxNDd0TC05WWRCYzh5amt3Y0R4Ul9xN2JhNmFn?oc=5",
+          "description": "Thaçi condannato a 25 anni: il Kosovo insorge dopo la sentenza ilfattoquotidiano.it L'ex presidente del Kosovo Thaçi condannato per crimini di guerra all'Aia, scontri tra manifestanti e polizia Euronews Collegamento con Artur Nura da Tirana sulla condanna in primo grado a 25 anni di carcere all'ex presidente e primo ministro kosovaro Hashim Thaçi per crimini di guerra Radio Radicale Kosovo: condan",
+          "pubDate": "Thu, 17 Sep 2026 06:07:19 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "kids act social under 13",
+      "label": "Ue approva Kids Act: divieto social per under 13, prova su big tech",
+      "n_items": 4,
+      "n_sources": 3,
+      "category": "diritti",
+      "macro_area": "societa-diritti",
+      "richness": 4,
+      "score": 2.8,
+      "cooldown": true,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "L’Ue approva il Kids Act, «divieto dei social per gli under 13» - ilsole24ore.com",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc0lBSVkyb0VPRGRmQVpVb2tOSUZ2blZCdmZGLXJjR1ZKZjAtZ2gxZ0xQdkp3QW1EemtMNmhrV0p4dWtLbDBwTW40czYxMENsS1ViVk52VlJuUm81MWhFU2Jqd0xVVTN2ZTN5RU80VGVtTkpfS09sSm1WY052YWNGbjdrWGNLV1pUbXRRWjd3cEtlVHBs?oc=5",
+          "description": "L’Ue approva il Kids Act, «divieto dei social per gli under 13» ilsole24ore.com Kids Act, social vietati agli under 13. Von der Leyen: “In autunno tutele anche per gli adulti” la Repubblica Parlamento Ue: dobbiamo garantire un ambiente online sicuro per i minori ilsole24ore.com Ruotolo (Pd), 'regole europee per proteggere i giovani dalla dipendenza digitale' ANSA Al via la stretta Ue sui social: c",
+          "pubDate": "Thu, 17 Sep 2026 11:17:05 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Europa, von der Leyen: niente social per i minori di 13 anni. Canada primo membro associato Ue - ilsole24ore.com",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYVFrcm0tekFkNmVMSTB5aUlKQ3poNGdKNHpuRThQM1dJWTZMZ2xNMGxIZnpodjlkampQemRhU3JaX2dPLXpVaU01UDRMdHNVeUhBU05La1A2bjBWNUZHN2EwaXlzRkdZY2FHdmEwTWU5TENwUFB3c0tMMzZ2TWRHS2hWSGZhRHpiQllpQkdQQW5vYnVZdlEzNnFVQ0hzeHpZU1ZNZmVWSE4xLU4wLTRiY0lWblpfQ2VNS2pZZWxHbS16Qmc?oc=5",
+          "description": "Europa, von der Leyen: niente social per i minori di 13 anni. Canada primo membro associato Ue ilsole24ore.com Lo Stato dell’Unione: i punti chiave ISPI Von der Leyen ha tracciato la strada, manca il convoglio che la percorra Linkiesta.it Quello che la commissaria omette di dire il manifesto Ursula (a fatica) ritrova la sua maggioranza. Con un discorso senza qualità HuffPost Italia",
+          "pubDate": "Wed, 16 Sep 2026 21:26:35 GMT"
+        },
+        {
           "source": "ansa-homepage",
-          "title": "Il Global Gender Gap Report 2026: 'La parità di genere fa progressi record nel mondo, l'Italia indietro'",
-          "link": "https://www.ansa.it/donne/notizie/2026/09/16/il-global-gender-gap-report-2026-la-parita-di-genere-fa-progressi-record-nel_94f9ce45-cfef-436d-a323-418f9e6a3eca.html",
-          "description": "Per la parità ci vorranno 120 anni. I Paesi nord europei guidano la classifica",
-          "pubDate": "Wed, 16 Sep 2026 18:27:48 +0200"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "salmonella scuola mensa ricoveri",
-      "label": "Epidemia di salmonella a scuola: 89 malati, 14 bambini ricoverati",
-      "n_items": 1,
-      "n_sources": 1,
-      "category": "salute",
-      "macro_area": "clima-salute",
-      "richness": 2,
-      "score": 9,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-top",
-          "title": "Vomito e diarrea a scuola, 89 persone stanno male e 14 bambini ricoverati: casi di salmonellosi, mensa sospesa. L’azienda: “Vicinanza alle famiglie, cause da chiarire - il Dolomiti",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQdEhsQ2NqME9WRmpzcWV0dlU4WDltak9xTEo4MlRiOUI5RnVNTjNhR1A5VW02cEdrZk8yWktfak4zc09aTzhRTl80c1J3b2FPanB0Qjh6MllsMlZYWnVvSmZxbmFXVU1pQkM1MS1SS2g4NDZxSHNNSkZwOGNnWks2OGpwOUtRUzZ6NDJETWtQMkRKSUhpSlJncGVQd2hSakxjaDBWbVVYaHVIOTlFQU5FVk5YbzdDeENkSU9iUWdWZk03SFk4Y1pKWjFqODJUZExWYWFQT011S2U2RzVFRTE2NHNRTEQ3aGtpWVJfOHBQa3BmaTFpZVFPdzBpZEE3SlJ6TFphOVhYRENpVkpwUXZkR29OMzBxNE9RSy1mbGtLOGRQS28?oc=5",
-          "description": "Vomito e diarrea a scuola, 89 persone stanno male e 14 bambini ricoverati: casi di salmonellosi, mensa sospesa. L’azienda: “Vicinanza alle famiglie, cause da chiarire il Dolomiti Salmonella nelle scuole del Bresciano: 89 persone con sintomi e 14 bambini ricoverati Mondosanità Intossicazione in Valtrompia, salgono a 89 i casi sintomatici Giornale di Brescia Decine di bimbi in Valtrompia stanno male",
-          "pubDate": "Wed, 16 Sep 2026 16:19:51 GMT"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "ue minaccia nazionalisti russi",
-      "label": "Von der Leyen avverte: nazionalisti e russi vogliono l'Ue in frantumi",
-      "n_items": 1,
-      "n_sources": 1,
-      "category": "general",
-      "macro_area": "geopolitica",
-      "richness": 2,
-      "score": 9,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-top",
-          "title": "L'allarme di von der Leyen: 'Nazionalisti e russi vogliono l'Ue in frantumi' - ANSA",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQLXFiM29wVVE0eHFjM21MVExBWUtPWjBoTUNyUjgweGxBd2diSWZNbUlabk02eDFta0FXRS1tNU1ka01PSG9UVzd0c3MwY2RFcGlfSC1QdEdZS0JHZnREZ1JfTHRHc0FOcFhNcHhZVGR1ejAtNUlWNVFaQWtsX0hicFhFNUo5azlWYll0dlpGSVBLdHZTa3hnXzFjS1lUUUtNaGI3YVMxR2FnMTVvVVlJenQ5bWRVWFZ4QjhOUlhFQjRmQU1ELXNyOEpma05IMmpPMmZTbjBieGx5UGEtQzZDV3BPeVdwVEFqTFVFVnVLREQtQUxIejdzS0gzY3Zsb2Q4SlVFQmpPNnd1Z9IBjwJBVV95cUxOUWdsU0hFUlpkcWlrcnk2MU52bzVYa3dtUDJXeGQ3bG5FRGFmWkZ0M1VwUnVfQWVEZjhBd3hiejhGRngybUpPMEdRcFo4THo1emVrcy1uem13b1Q2bWtVN2dpcjlPYlRYSU5RekYxLUNwOTF4NXlHTWNKay1VUVBRd3pHMWFCcVhNV1dQRmJFQjd6SkctM05BSHJKaFFRU0QzSDROZUJscDIxLS00b180NmhmMzZURjNpWDlVOHo3ZFFXeHF1bUJQcWdybFlPU2RxTDVXd2dOTDI0UkoxRXRYYk1hdDFyWi15ZU9NbUROdGFSZjJqcjFVdFkxRGZKUjhQQlNVUkNIOXoyZWszT3dz?oc=5",
-          "description": "L'allarme di von der Leyen: 'Nazionalisti e russi vogliono l'Ue in frantumi' ANSA Cosa ha detto Ursula von der Leyen nel discorso sullo Stato dell'Unione Il Foglio Von der Leyen, L’Europa delle buone intenzioni La Stampa Ursula (a fatica) ritrova la sua maggioranza. Con un discorso senza qualità HuffPost Italia Social, Ucraina, migranti: Von der Leyen traccia la nuova rotta dell’Ue avvenire.it",
-          "pubDate": "Wed, 16 Sep 2026 18:31:00 GMT"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "svezia elezioni centrosinistra vince",
-      "label": "Elezioni in Svezia: centrosinistra vince per un seggio",
-      "n_items": 1,
-      "n_sources": 1,
-      "category": "general",
-      "macro_area": "geopolitica",
-      "richness": 2,
-      "score": 9,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-world",
-          "title": "Elezioni in Svezia, il centrosinistra vince di un seggio: trattative per la formazione della maggioranza - Corriere della Sera",
-          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNcS0wTzQ2ZDAweVhrSFl5bXJmb2xvelEtdmJ3MzhSX1BYME05bzVURTNmRXVqTUQ3cS1KdDhPc0d6bGRZM1VucG93S2V6U0xWOVFLMGpFTUEwbnBqb3BHTXNzOEo3T0RiV29oWnE1VGFaRGdMaTNYNHNjUnQtcTNSb3RDVm1mN1R3MmctY1BMUzlnX3g2SUpoendxd05TSDc5SVlHQ3R2WDEwN3NsdTN5QXlPek85b2lNRmhHUWtfeW9vdHcxejRjbkplS2JNT29MYWluc1RJaWRuelJ0akYyYXRiNjc5THF0Uks4Y0ZzQWtQT0RXTG1ieWk2YkZTWVBpNG9sNEZPUVhOT2xHdWgzcVVvNjJzTXFPVTExRdIBogJBVV95cUxQTXoxQ25VVHpXbk54UlhUTDNkc3RNNUU1UUlkQ0R3b3hFNmVaM05LNEs4LUY2bW5nT19WSHl3U29IWmtoLUpkYVdlUlhqUmFyNUdyMzFwbE1mcENJUS1pTXdjekN5WXR2elFDWF9pdWxwdmZRV2tXUVZPcVVXUm91Z00tU2tOYWFaX1hYVjYtcGNaUWJhQzExNmVZc2ozbHRVVkRSV1FrX0dQeEV4Vm1MNVYtcXFSdzZ2UEZLSUZVaEhVaHNINm5lbEdRSHQ1X1BNZXRWa19SeVhXSHlGYlpoYUJLY2s2Rk81UFpnSEx6bGhpM09BWUdQYVlNclZjX1NsN2RtYVRia29WR1lVNkVFZEpwQ0YtU1RlR1VMd2ZLQTQ2Zw?oc=5",
-          "description": "Elezioni in Svezia, il centrosinistra vince di un seggio: trattative per la formazione della maggioranza Corriere della Sera I socialdemocratici svedesi devono cambiare strategia - Cas Mudde Internazionale Svezia al 99% dello scrutinio, risultato elettorale ancora incerto ANSA In Svezia l’estrema destra è andata peggio dell’ultima volta Il Post Le elezioni legislative in Svezia: collegamento con D",
-          "pubDate": "Wed, 16 Sep 2026 21:43:00 GMT"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "kosovo hashim thaci condanna",
-      "label": "Ex presidente kosovaro Hashim Thaci condannato a 25 anni",
-      "n_items": 1,
-      "n_sources": 1,
-      "category": "general",
-      "macro_area": "geopolitica",
-      "richness": 2,
-      "score": 9,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-world",
-          "title": "L'ex presidente kosovaro Hashim Thaci condannato a 25 anni - RaiNews",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQjFwVDNLS2lrbWdmcjhxRkpNa2w0d291OTNnNWhCUnVHNVdKdW9qbFFVUGpRMWlaTGg0R1J1aDZOWnQySXlqOXFpLXl3dTAxWC1Lb2xvc1pEMmVnajA2b1piY3VicmpLc29RVzlpMEtlSFpNRHQ0NXRCMHNaNEdodmJpY3pqWnpZemtlQTFnS1kzbTB1UEQwZ3h0dWJORDloT0NtXzViT2xRN3dGbHlrTm93VnNBbVNBLVE1dkc3QXRYcTRmZ2pjRWhjTEVtN2g0cHNWTXFEM3k0NnF4V2JHd1JTTjJaVURFTVR2dnNuWFhlUmxYMmlsX2ZLWWdEc2st0gGGAkFVX3lxTFBSV1h3dm8taHpvdENLQXdPRG1sMWRKcFl5NnJTZF9GRkpwc1ZsRDNfZEdWc3ZTWUxObi1EMTJFVzVQVno4MXlNMDdRLXhkdElIRE83V2dLMzFSbzRrdXVWRmU2dmhtUHJzbHdyNW5tODRhSGlYaXBkTmU2VnoySno4eHl0QUVPS3NCcHNpM3VDcjMtTXdRRkZHYjg5OHg0eGlTaVZha21ueklSOExpa0tGMjdyZkVwbGxuUjM1Vnc4NU1lZGNJMktGb0xiZGtPc0phTWJDbGZtYXJ3LXpyWGhQS3RpcDVEdnFnbTRwbEtZNFhCaEg3alNmVGl4NVp1T3h4Y1JXOXc?oc=5",
-          "description": "L'ex presidente kosovaro Hashim Thaci condannato a 25 anni RaiNews Kosovo: condannati l’ex presidente e altri tre imputati Amnesty International Italia A Pristina manifestanti tentano assalto a sede Ue dopo la condanna a Thaci, respinti ANSA Kosovo, il \"Serpente\" Hashim Thaci condannato a 25 anni per crimini di guerra. Disordini all'Aia e a Pristina. «Per tutta la vita sono stato al fianco del mio",
-          "pubDate": "Wed, 16 Sep 2026 15:47:00 GMT"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "snapchat tempo limite adolescenti",
-      "label": "Snapchat aperto a limiti di tempo per adolescenti, dice il Ceo",
-      "n_items": 1,
-      "n_sources": 1,
-      "category": "tech-policy",
-      "macro_area": "tech-ai",
-      "richness": 2,
-      "score": 9,
-      "cooldown": false,
-      "items": [
+          "title": "L'Ue approva il Kids Act, 'divieto dei social per gli under 13'",
+          "link": "https://www.ansa.it/europa/notizie/rubriche/altrenews/2026/09/17/lue-approva-il-kids-act-divieto-dei-social-per-gli-under_70fecd53-e35e-4de9-a178-ab92d825a7f4.html",
+          "description": "A 15 anni l'età minima per un account autonomo, per big tech scatta onere della prova. Von der Leyen: 'Bambini esposti troppo presto al mondo online'",
+          "pubDate": "Thu, 17 Sep 2026 15:44:48 +0200"
+        },
         {
           "source": "bbc-world",
-          "title": "Snapchat open to putting time limits on teens, boss tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
-          "description": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
-          "pubDate": "Wed, 16 Sep 2026 23:41:57 GMT"
+          "title": "EU announces plan to restrict social media access for under-15s",
+          "link": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
+          "description": "Under the plans, only children over 15 would be able to set up their own social media accounts.",
+          "pubDate": "Thu, 17 Sep 2026 10:00:14 GMT"
         }
       ],
       "clustering": "claude"
