@@ -1,0 +1,48 @@
+{
+  "topic_label": "Ex Ilva: lo Stato che rinvia da vent'anni la stessa decisione",
+  "query": "ex ilva rinvio decreto cig licenziamenti governo",
+  "category": "lavoro",
+  "category_claude": "economia",
+  "macro_area": "economia",
+  "target_area": "economia",
+  "origin_keyword": "ex ilva cig licenziamenti",
+  "origin_date": "2026-09-16",
+  "story_sim": 0.402,
+  "story_vs_date": "2026-09-15",
+  "angle": "zoom-out-sistemico",
+  "angle_directive": "Lo zoom-out sistemico: la notizia e' la punta di un pattern piu' grande (democrazia, Europa, un meccanismo che si ripete). Non un fatto isolato.",
+  "genre": "ricostruzione",
+  "target_words": 1150,
+  "hot_topic": true,
+  "richness": 4,
+  "label_cluster": "Ex Ilva: governo rinvia decreto, Cassazione decide il 20 ottobre",
+  "cover_metaphor": "a clock rewound again and again, never striking the hour",
+  "curator_rationale": "Ex Ilva non è solo l'ultimo rinvio di un decreto: è la punta di un pattern che dura da decenni, lo Stato italiano che ogni volta trova un modo per non decidere davvero sul suo colosso industriale piu' importante, spostando il conto sui lavoratori e sull'indotto. Ricchezza alta (4/5), materiale per scavare nel meccanismo oltre la cronaca del giorno; angolo zoom-out fresco (non usato di recente, diverso da segui-il-potere di ieri) e coerente con la ricorrenza ciclica della vicenda.",
+  "articles": [
+    {
+      "title": "Ex Ilva, impegno del governo per modello di cig diverso da quella per cessazione",
+      "source": "google-news-it-top",
+      "summary": "Ex Ilva, impegno del governo per modello di cig diverso da quella per cessazione ANSA Ex Ilva, nessun decreto oggi in cdm, la Cassazione fissa l'udienza il 20 ottobre ANSA Ex Ilva, sospesi i 2.500 licenziamenti dell'indotto, slitta il decreto del governo. La Cassazione anticipa al 20 ottobre udienza su chiusura area a caldo Corriere della Sera Ex Ilva, la Cassazione anticipa l’udienza sul ricorso "
+    },
+    {
+      "title": "Ex Ilva, nessun decreto oggi in cdm, la Cassazione fissa l'udienza il 20 ottobre",
+      "source": "ansa-homepage",
+      "summary": "Imprese dell'indotto: 'Sospendiamo i licenziamenti almeno fino alla sentenza della Cassazione'"
+    },
+    {
+      "title": "Imprese indotto, sospendiamo i licenziamenti ex Ilva",
+      "source": "ansa-economia",
+      "summary": "'Almeno fino alla sentenza della Cassazione'"
+    },
+    {
+      "title": "Salta il decreto sull'ex Ilva in cdm, si attende la Cassazione",
+      "source": "ansa-economia",
+      "summary": "Il 20 ottobre l'udienza sul ricorso per l'area a caldo. Aggiornato il tavolo con i sindacati"
+    },
+    {
+      "title": "Ex Ilva, nessun decreto oggi in cdm, la Cassazione fissa l'udienza il 20 ottobre",
+      "source": "google-news-it-nation",
+      "summary": "Ex Ilva, nessun decreto oggi in cdm, la Cassazione fissa l'udienza il 20 ottobre ANSA Ex Ilva, sospesi i 2.500 licenziamenti dell'indotto, slitta il decreto del governo. La Cassazione anticipa al 20 ottobre udienza su chiusura area a caldo Corriere della Sera Ex Ilva, la Cassazione anticipa l’udienza sul ricorso dei commissari. Niente decreto in cdm repubblica.it Ex Ilva, udienza il 20/10. Imprese"
+    }
+  ]
+}

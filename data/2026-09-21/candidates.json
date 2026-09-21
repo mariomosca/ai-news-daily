@@ -1,0 +1,663 @@
+{
+  "date": "2026-09-21",
+  "top_topics": [
+    {
+      "keyword": "afd germania elezioni",
+      "label": "L'AfD dilaga in Germania: vittoria in Meclemburgo, Berlino alla sinistra",
+      "n_items": 9,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 4,
+      "score": 61,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "L'AfD vince anche in Meclemburgo-Pomerania, Berlino alla Linke ma Merz non molla - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNkZ1RFhyQ1EzeXBDaEV6T1luT2ZmWEZkYjlJLVk0RG1DSktyMmt6Ui1GUnNlWXRWRUFDYjVPZmlURmtpM1A3Y1VqQl96SWt6Y0hLdHVpU0lBZkJyVVVUNVdiQ0tXemFvVUV3SV8yNVlFUElFazZOYnpTNEl3d0NPMUczUDVPMHJFRmJoZEMyNlhwMTlnVVZRcE1iZFEtZVZtd2gxM29rb3lVMEdWcG5EdlJTd3ZkdnRjT1dldzd3NTZVZzJDR2R1ZUVfTENONHE5TVlNdGF2UW1UUzhQZTJaUUVPX3luRl8wSG9UREVPbWJDVlFNcllR0gH8AUFVX3lxTFBkcDRPOTF0WW9Ya0lKUHppRzVCeGFLV3NvU2Y5VWhRd1V4NGhBT1hWNW9xckxkT09CLXg5NlRvMmZnZl9mTDNvMUczV1daSHczNXJhbUFHaVROWkN3OWRBSUUxbUFlWDRtT3Z3aVNBeGlqdGdQaDdYT1B2XzBSZ1c2N3VXWnFTYlV0LTdscUFQQ0t0d1ZjaGpvSENYTHdYUEhWcFN0Y1dKdE5NNm1obkpFVkI1U0pZMF82Yy1xYk94aS1odW1pS3E1bUhaQUpaZmw0VWRKVmVqS1JYeW9tUUVlU1lLQXpFWmJ5bDd4c241cHdHMEtsQVFvVHpXOA?oc=5",
+          "description": "L'AfD vince anche in Meclemburgo-Pomerania, Berlino alla Linke ma Merz non molla ANSA Vittoria in Germania per l'AfD: conquistata un'altra regione. A Berlino trionfa la sinistra, mentre la Cdu crolla Corriere della Sera “I tedeschi stufi dei vecchi partiti, per dare risposte servono altri leader” la Repubblica Merz ha definito «un disastro» le elezioni in Meclemburgo per la CDU Il Post Disastro Cd",
+          "pubDate": "Sun, 20 Sep 2026 22:40:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on - bbc.com",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1od3dPRXB2cGIyd3kwXzQ5UVpWUGIwbmZ2cjNCUWFBTGc1M1VJcS1SVFJCMkZGYkhTSEZlRWNtUC1GR1pWRXhHRTYtRGdTWDR6clpwblkxa04weGM?oc=5",
+          "description": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on bbc.com Chancellor Merz calls Germany state elections results a ‘disaster,’ as far-right surges again CNN Germany’s Merz Vows to Stay After Another State Election ‘Disaster’ The New York Times Friedrich Merz vows to stay in office after CDU ‘disaster’ in German state elections The Guardian AfD leads as Merz ",
+          "pubDate": "Sun, 20 Sep 2026 20:21:40 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "L'AfD vince anche in Meclemburgo-Pomerania, Berlino alla Linke ma Merz non molla",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/21/lafd-vince-anche-in-meclemburgo-pomerania-berlino-alla-linke-ma-merz-non_e858bc98-bac2-4f2f-a7ce-abd390ca6baf.html",
+          "description": "Debacle della Cdu, per la prima volta fuori dal parlamentino di un Land. Alice Weidel, leader dell'ultradestra: 'Merz tragga le conseguenze, noi il partito più forte del Paese'. Elif Eralp, della Linke, conquista la capitale",
+          "pubDate": "Mon, 21 Sep 2026 04:47:57 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Risultati preliminari, Afd vince in Pomerania con il 38,2%. Spd è seconda al 35,5",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/21/risultati-preliminari-afd-vince-in-pomerania-con-il-382.-spd-e-seconda-al-355_fcbb58dd-8195-4efe-b2eb-235173e355e1.html",
+          "description": "Si conferma il dato delle proiezioni",
+          "pubDate": "Mon, 21 Sep 2026 00:47:09 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Risultati preliminari, la Cdu è fuori dal parlamentino in Pomerania, prima volta",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/21/risultati-preliminari-la-cdu-e-fuori-dal-parlamentino-in-pomerania-prima-volta_95ee8ff7-e42d-4e20-8574-09fbfee28c80.html",
+          "description": "Ha preso il 4,9%, sfiorando la soglia di ingresso del 5",
+          "pubDate": "Mon, 21 Sep 2026 00:20:04 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Weidel, Merz tragga le conseguenze, noi il partito più forte del Paese",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/weidel-merz-tragga-le-conseguenze-noi-il-partito-piu-forte-del-paese_7adc80f7-f077-48bf-beeb-3ec03c66c356.html",
+          "description": "La leader dell'AfD: 'Deve farlo per il suo partito e per la Germania'",
+          "pubDate": "Sun, 20 Sep 2026 18:53:29 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Exit poll Berlino, Linke prima al 26%, Cdu segue al 20%, Afd al 13,5%",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/exit-poll-berlino-linke-prima-al-26-cdu-segue-al-20-afd-al-135_76e8bacb-59c9-4c1b-b962-d4e4ffb04682.html",
+          "description": "Alle amministrative",
+          "pubDate": "Sun, 20 Sep 2026 18:08:51 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Exit poll in Pomerania, l'Afd prima con il 38%",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/exit-poll-in-pomerania-lafd-prima-con-il-38_d4623e20-c8bd-4d14-9208-de4eac7995e9.html",
+          "description": "La Cdu è al 5% sulla soglia di sbarramento",
+          "pubDate": "Sun, 20 Sep 2026 18:06:10 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "putin russia duma elezioni",
+      "label": "Russia Unita vince le elezioni della Duma sotto il controllo di Putin",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 4,
+      "score": 46,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Russia Unita stravince (ancora) le elezioni per la Duma | A Vladimir Putin il 66% della camera bassa - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUJSTm93eHZ6c0sydndJaWo4NDJmZlc1d09LWkRTZklWWTljdlZfaHE0T2RQektRaFJ2VkZzZHJPXzBpRm5XRWNXS2owV3dabDRNN3ZaclZxcUtlbm1mSTZPODcwWFZnRmtzbVBVV0ZldU1LTG5yd2c0OEhiODk4NWluOW1BZml3ZzBBUmdxcUs3dnJpcm1zZTMtalZDSGtZTkRFQQ?oc=5",
+          "description": "Russia Unita stravince (ancora) le elezioni per la Duma | A Vladimir Putin il 66% della camera bassa Tgcom24 Il «dilemma del dittatore», perché Putin ha bisogno di un test elettorale? Corriere della Sera Il partito di Putin rivince le elezioni. Pioggia di droni e missili su Mosca ANSA Putin vince senza avversari, pioggia di bombe ucraine sulla Russia - Voto in Russia, il partito di Putin verso una",
+          "pubDate": "Sun, 20 Sep 2026 19:57:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Putin vince senza avversari, pioggia di bombe ucraine sulla Russia - Voto in Russia, il partito di Putin verso una maggioranza di due terzi - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPUmhCVTlscVRWb1dnRVM4YWFlWG1DMnNiS1NqQWZtRjc3VEJxeFRBV0tsTXpZbkVJbm94eG5XTF9Id2sxaXN6eU1LSHNRdHhVMS1LYVFmVjNfY1hHeWhYQlNEcjhuWkhFQkVzMkhMVm9rcS1tS25XUjI0MjVLZW9ETW4zUlhfTUE0MURIRHRKeVpyYjhFQVZBLWlaN05YSU5Kbi1iekY5RFBLZ2pZenUtZ0g4TTh6MVIwbkVWM3gyMmp5OXJOc1hrZlgwRzJiQkUxS2xnWm54eUloNXVPUmFuSTFPNmpOZ1NhQ19UOFBDTTlPMDM3TnVNb3RaX2lQdkowMUJrUmozOW1XU2Z6YmVTalQ3ajFZXzhrdXgw0gGgAkFVX3lxTE5IR1pZUmlZUjN4Ymh2TnFKcE9qOFl5U3llZzRJUUkyR1lNTzRzNHpTTHpJbVlKTGNWZjE5bXhOd0l0RXlBVEJNQlZIanJHb01tdnJiTHd0YVY3WndiZUhEdmdIbDdjMlp6eGJ6UkwxS194OVZDOHFjN2hQR3RraWJhRUttQlZaSU9DcjFMNXdLZTl1OVc2NThaSU9SRmNpZUVvcmRfVUpCcWpEV1c0Tjc0MGdyUWJkQ0RVMHNhdzcycnlMX3E5b1ZBVVd6Ty1yS1FCbkFzemNycWRvTnJOWnRBN2pUZVktVVZkQVBrQjZfb291SkxzMFRnM3RoOXRsUDJ3LUxxVjIzdV9NNEk5cWp1YlJ5N3VNZ3Z5UEp2VncycA?oc=5",
+          "description": "Putin vince senza avversari, pioggia di bombe ucraine sulla Russia - Voto in Russia, il partito di Putin verso una maggioranza di due terzi RaiNews Il «dilemma del dittatore», perché Putin ha bisogno di un test elettorale? Corriere della Sera Il partito di Putin rivince le elezioni. Pioggia di droni e missili su Mosca ANSA Il dissidente Yashin: “In Russia elezioni farsa che allungano la guerra. Ci",
+          "pubDate": "Mon, 21 Sep 2026 01:10:06 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Ruling pro-Putin party set to win Russia’s tightly controlled wartime parliamentary election - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSTh4bjg0T3drZTNGdHNPVVJ3b3hWSEFlLURFWWZGOGxaRHZpUElkdkN2eVF3ZjVqYkNBZklGTGlUUkFhUHAzdWdleXBWZWljTGhxSm1zOEJ4UG41SHJWNDdDX2JTZEwwWG9IQko0c1hxTjFMaUNxMGNBUmdNVDY0LUdDNmU?oc=5",
+          "description": "Ruling pro-Putin party set to win Russia’s tightly controlled wartime parliamentary election CNN Russia's elections had few surprises - but how the Kremlin uses the results is far from clear bbc.com Russia's ruling pro-Putin party on track to win wartime election after drones strike Moscow Reuters Polls close in Russian wartime election with ruling party set to dominate Al Jazeera Ukraine war brie",
+          "pubDate": "Sun, 20 Sep 2026 18:01:37 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Il partito di Putin rivince le elezioni. Pioggia di droni e missili su Mosca",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/20/il-partito-di-putin-rivince-le-elezioni-pioggia-di-droni-e-missili-su-mosca_e4dff2be-9db4-41e8-ae3d-ed08b4618e8e.html",
+          "description": "Zelensky: 'Ho parlato con Trump, abbiamo concordato un incontro a New York'",
+          "pubDate": "Mon, 21 Sep 2026 05:01:48 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Russia Unita mantiene il vantaggio nelle elezioni col 41,04% delle schede scrutinate",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/russia-unita-mantiene-il-vantaggio-nelle-elezioni-col-4104-delle-schede_6cebeb61-8cc1-4dc7-9936-f6ea74ec4576.html",
+          "description": "Commissione elettorale: 'È in testa col 57,26%'",
+          "pubDate": "Sun, 20 Sep 2026 23:48:17 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Tv, il partito Russia Unita di Putin vince le elezioni con il 49,4%",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/tv-il-partito-russia-unita-di-putin-vince-le-elezioni-con-il-494_c432c1d6-de08-474a-b861-4f27f4ad33a2.html",
+          "description": "Lo rivela un exit poll dell'emittente statale",
+          "pubDate": "Sun, 20 Sep 2026 20:10:30 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "ucraina droni missili mosca",
+      "label": "Ucraina lancia il più grande attacco di droni su Mosca, colpita raffineria",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 4,
+      "score": 46,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ucraina, missili sulla Russia nel giorno del voto: due morti - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUtYcnJLN1U1dzA4ajgwX2ozQ1I3SVRvMkd0TlBGZWpxLU1pQ1lvMWtsUjdwQWdocjdURGlmR05qTFJQWldKRDNfSldabjJPX2stTUtfWUszbGp0dG9QQmo0UnBuVFJlTlBUSWhjWW1sRGJ5RE9tSmYwbUJWaC1CUFR0akN4Um9Q?oc=5",
+          "description": "Ucraina, missili sulla Russia nel giorno del voto: due morti Sky TG24 Guerra Ucraina-Russia, le notizie in diretta | Corriere della Sera Maxi offensiva di Kyiv sui cieli russi. Tra le vittime anche bambini Vatican News Pioggia di fuoco su Mosca, Putin rivince le elezioni. Zelensky sente Trump: “Ci vedremo a New York” La Stampa Mosca, 'intensificheremo gli attacchi sull'Ucraina in risposta ai raid ",
+          "pubDate": "Sun, 20 Sep 2026 21:48:23 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Ukraine fires over 1,000 drones at Russia, including 'largest ever' attack on Moscow - PBS",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUG4xdzdpSmtOVGxlTDNNQVJVOW8tVGsydzBiN1ZZc2ZfVTA1V25xX1Q1NDYzb3BETmF2Wkg3Zno2UTU5ZG41QW0tS3h1Xy1uZ2JoSDFlYkxDeEFPVEVkTmo0Z05fanZaS3FuWGNBYjgxQm1IdDNESWtBdFZqZ09rdlpaVGZvTWRWSXd0UW0tRWI4TU40bEhNd29oc1lnUnhpNXhmNG9CVE1IamE5aG1iZ1pzd2tmUdIBuwFBVV95cUxNR29JOXNnRGVGUmFVd1NhTGFpREJ0VXcyN1FLc0tCN1lseV9VdHI4Zmd6b1lHSEdRSmhFeU45YzQyaE9vTnA4d21YNk5JQTA3M2xLUFFUd2NlMl9JZzRZQlFxWTZRMGM5UTJRMHlvTVVoSDU2QjlEaWNET1JqSmo4NVRNNlpTa3BZMmRVNlAyeEozZGNyajZCUUc4Vkx1SlNnRkZSWnk3VTJkNU9ISWVQNENQc193dDNOcUVj?oc=5",
+          "description": "Ukraine fires over 1,000 drones at Russia, including 'largest ever' attack on Moscow PBS Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow NPR Hundreds of Drones Target Moscow on Final Day of Russian Elections The New York Times Ukrainian drones and missiles target Moscow, oil refinery in deadly attack: Officials ABC News - Breaking News, Latest News and Videos Ukrai",
+          "pubDate": "Sun, 20 Sep 2026 15:54:32 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Mosca, 'intensificheremo gli attacchi sull'Ucraina in risposta ai raid odierni'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/mosca-intensificheremo-gli-attacchi-sullucraina-in-risposta-ai-raid-odierni_bc08ce5a-5ff6-42d6-a710-ae0ff970ecf0.html",
+          "description": "'In 24 ore abbattuti 1.951 droni e 8 missili da crociera'",
+          "pubDate": "Sun, 20 Sep 2026 19:07:02 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+          "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+          "description": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
+          "pubDate": "Sun, 20 Sep 2026 10:45:39 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Attacco droni su Mosca: colpita raffineria, due morti - AGI",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORnFBdEtVcE1rTGcwWnItYXFpWnI2QklqX2Vpc1pCb2ZxRHFMRy1JeUlRSW9Jcm9Ucm15S0FCY2VTRFBQZFp3RE44ZU8wckIwZXdWRmZFejU3MGZYSjByUWJrX0k0YlJBQlBlS05mdXBVYkRFTXo0cnNNaklLazZjejE3aTVpZnlsaFE?oc=5",
+          "description": "Attacco droni su Mosca: colpita raffineria, due morti AGI",
+          "pubDate": "Sun, 20 Sep 2026 14:45:26 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Mosca, edifici danneggiati dopo un massiccio attacco di droni. Zelensky: 'Usati anche missili da crociera e balistici' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPU01vNmdlZ3BsR1pha3laX1dTV1djdmozOUxrVDJBdXZzaHJUSXhEaXZmbGFoYlE3cENUYjAtRXM1bUppZmlhbUg4ZG5lVWxUUjhKTEJlNXN5ZHgtN0ZId2ZGYVplSlh1VWg0V0JJRjZpWnR4QzFUaG5Xb3dVT0dScFNOdlg0a1RDMlVERmZGcjlSSUVhaFhjRHJBTmwzWHhIbzV0b2NtT0pITU5TUmw3TGlYbTJNUWktMW50Zm9WRWRnWmxFN0djdEVtVk90cVdNZkh3WlRVU0psdXZLdjYwbFdFanEzN0JTVklwa28xOGNNVXN0N19tQlE0eG9qQQ?oc=5",
+          "description": "Mosca, edifici danneggiati dopo un massiccio attacco di droni. Zelensky: 'Usati anche missili da crociera e balistici' ANSA",
+          "pubDate": "Sun, 20 Sep 2026 09:24:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "iran houthi escalation medio oriente",
+      "label": "Escalation in Medio Oriente: Usa allertati per attacchi Houthi e Iran",
+      "n_items": 5,
+      "n_sources": 3,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 27,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Iran, allarme Usa: \"Possibile escalation in Medio Oriente\", gli aggiornamenti live - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdFNGdGlvZFFzVDh3RWlNUFl4b09JMlMxWUZoTTczTUg1NzBycVQ2RDBRVWNkcXFiZWNtMUY4VUtNVGV3SHdncHVxUThMQjNHd2k5YTBZaVdIWnlGYmZtWE4ybUVTa3psTjBud1g5OVVsQUlvMGd2WVVmWjZuVWZ1Si1iWFhsS2R1Vm1qWXozVm5fTEpCQ0pHamk2bnQ0dHk4ZHRoYVpDRldPZXF0Q3JiTlhqNA?oc=5",
+          "description": "Iran, allarme Usa: \"Possibile escalation in Medio Oriente\", gli aggiornamenti live Tgcom24 USA-Houthi, allarme escalation. Trump rientra in anticipo da Camp David - Gli Houthi: \"Contro di noi 28 attacchi aerei sauditi nelle ultime 24 ore\" RaiNews Guerra Usa-Iran, le notizie in diretta | Corriere della Sera Un boato, poi il fuoco: Riyadh si scopre sempre più vulnerabile il manifesto Allerta Usa in ",
+          "pubDate": "Sun, 20 Sep 2026 19:23:39 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "New York Times: Trump ha bloccato gli attacchi contro gli Houthi subito prima del decollo dei bombardieri - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPeUYzSUptNndrYVVQeFFjLVlKMXVQTzNqd0dUcGlMVjBxN1g3NmpWck9LODBsSmFCN1hfLXQzZFZTaFlac201dHZBYnJHX01yM1FqMXpoMFZFQ2ZrSVc4V2dRS0hoV01FQ211dnVlNkFxWnBPXzY2Rkh5WEc2VGNGd2hJRkRsZ3ZESWU0LXNDR3lKZ0R1S3dsSHBzengyRm90T2hiNFpVRGNSYzFpNUN5enp1cTdDaGFodF9kOUtuRmg0bHhCdE4xbXNEbGFFRG42bjM5RGZoSTRIckZTRVUwZGZxZ2dXdWdCTE5kVEF2ZXpfOTNBZGdaTWlsNWNHWTB0MWRldjNsX1dUT1ZrLUdIcXRQQm9XdkU1SGxQN1pBUdIBpAJBVV95cUxOWnRuRjJiVHMzRDB6YkFtS1h0TERyUVdLSVFxeHgwdDg1Qi1qa2pWN2drNGtMTG9oZ3lCSG45MkhjcGNFTjRvNE5WQWtMV1NaWVpzaV9YdjM0S0R0bHdtN1laVDVDTTZXSVo1cHFjOW9GSzh1dEJKUnNiQjJQdmZXNUl6cnNxUGh0TzdRN2ljbDlpNGdRUlE2NEdkM041ZzVueDAxWmRHRy1ld0dTSnliZzJFSGdsRkJuOFd5cVV4Q3AteEJWb3dGYnBYMW81cW8wblVSZzNkMk5JM0JzREpVVWg5cm15ck04MEUxckR5X0NrU2RDWXZYZzZpb0hGX2s3ZEVIRnZvSTJCZjhCNXE3OUZRS3RFVnFQREZjWUc1YnhHN0Q2?oc=5",
+          "description": "New York Times: Trump ha bloccato gli attacchi contro gli Houthi subito prima del decollo dei bombardieri Corriere della Sera Riad, la vetrina della rivoluzione di Mbs ora sfiorata dalla guerra la Repubblica Nyt, 'il dilemma di Trump con gli attacchi degli Houthi all'Arabia Saudita' ANSA Alleati abbandonati nella strategia Usa del caos il manifesto Colossi d’argilla Il Sole 24 ORE",
+          "pubDate": "Mon, 21 Sep 2026 02:03:36 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Nuova escalation, Trump torna prima da Camp David: 'Devo decidere sull'Iran'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/20/nuova-escalation-trump-torna-prima-da-camp-david-devo-decidere-sulliran_d85ac995-09c8-4380-8a2c-330e9dd7d8ba.html",
+          "description": "Gli Usa alzano allerta per gli americani. All'Onu vede Paesi del Golfo,apre anche a Pezeshkian",
+          "pubDate": "Mon, 21 Sep 2026 04:59:34 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Trump, 'deciderò se e quando far esplodere l'Iran, si comportino bene'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/20/trump-decidero-se-e-quando-far-esplodere-liran-si-comportino-bene_78b75b62-e906-4086-a1b9-bd1aeac1ded2.html",
+          "description": "Il tycoon: 'Presto cose molto importanti, aperto a vedere il presidente iraniano'",
+          "pubDate": "Sun, 20 Sep 2026 16:27:32 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+          "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+          "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+          "pubDate": "Sat, 19 Sep 2026 23:49:26 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "meloni stranieri scuola tetto",
+      "label": "Meloni propone un tetto agli studenti stranieri nelle scuole italiane",
+      "n_items": 3,
+      "n_sources": 3,
+      "category": "diritti",
+      "macro_area": "societa-diritti",
+      "richness": 3,
+      "score": 21,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Tetto agli stranieri a scuola, Vannacci approva. I presidi a Meloni: “Se sono la maggioranza nel quartiere, li cacciamo?” - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSnhGRGlFSXJrcGtPYk9FelBVYmtVYjZkTVhKeXhXNHdIQ0ppZHZvUVR2UGZVU253Wno1MFE3aHUtLW1yRWNjejMzZG9YWG5UeGZEeXVCVG5aSm1xN0hKWHBKbWRXMGRIMWNHVmpwZ3ZWMGFfRXdhdVZPSDdkU2hXXzZWX0J1ek1KSmVSZkc1dFhLd3ZkZHg3QjJHdWlTc0hKWXFiWjhydlFLTzM4cURlaWgwWk5KZ1J0Mm5UbUxaX3k1WUVnc2pXV2N5S0oyb09lSWRVRFowakJ0ZWpPWVZKY0F2ejdvOVNhTV9KeW1vc0RnbHRlNkl1Unpncw?oc=5",
+          "description": "Tetto agli stranieri a scuola, Vannacci approva. I presidi a Meloni: “Se sono la maggioranza nel quartiere, li cacciamo?” Il Fatto Quotidiano Tetto per gli stranieri in classe. Quanti sono e cosa dicono le nuove proposte. Il nodo degli studenti europei (che sono la metà) e dei bambini nati qui Corriere della Sera Elly Schlein: 'Tetto a stranieri a scuola? Meloni insegue Vannacci' Sky TG24 Allarme ",
+          "pubDate": "Sun, 20 Sep 2026 14:45:10 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "La stretta di Meloni: 'In classe tetto agli stranieri e divieto di burqa'",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/meloni-in-classe-numero-massimo-di-stranieri-e-divieto-di-burqa-norma-in-arrivo_eee88fcc-7ab4-4a71-864f-6699535148f3.html",
+          "description": "'Gli italiani non possono sentirsi minoranza'. Lo scontro con Schlein",
+          "pubDate": "Mon, 21 Sep 2026 00:26:59 +0200"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Meloni ai giovani di FdI: \"Presto un tetto agli studenti stranieri nelle scuole\" - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNU293SFlrXzkySTl6STg1WVY0aUdXOWRvOWtXUm1DWU5LNUdHNlo4TVk3QjREZC1oNFVUSmMzZEJCOTV4MjFULVhZMktGUTFHMHNnM09rM2xxenBjaTJhdTNDSjN2c1VGWlJ2SEpuei1CSGxna213Q2ltT3k2ME5FbllvRHBXQ3ZFQmYtc0lmOG9NMjJ3bkhJWFdjRndUOXYycXJTWU9UTDY4TnNRNFJzLWFrRGZwZEh1SEFlV3VCWDdkTmNtLVk0QWd0a1JOVEs5N09Ia0JnZExPQ2xuZEk4MnZReDdrMVBDbmc0Q1E2WmdZWEt1cm9yWDdCRU5zQWkzZW5EWl82aEnSAY4CQVVfeXFMT2hweVZFQTU5XzdfVFE0LXR1VFQ4T2ROdWdYRUJGRUJlTVhPRG9MZWJlbDZWaVgwOFp3d0F1Y3dTSC1oRl9KZFAzX2RuazJSdVVOWHF5U25OeVJ1Q08zVjNCY1BUUkwtU2lvc1M3VzdETXVrNnRXUGJaUXV1VjFLeFBHMmxHQ2E5b3hCRDlIMEg0ekRhOWNvLVlMMmU3NzVDUThtblB5ZUMxZVlxYnl1d0RHTEJpTFZuTUJ4TmlYTWRId0xqQ0RZbnZYUldaQk9fVlhjZ2k4aW01NUVsUk1lUHZBdHc1Umc5OGNMZWZLTkJuOHFSLXhFM3BrZUV3cjdETlp2R1o3bkNhNFpoMmhB?oc=5",
+          "description": "Meloni ai giovani di FdI: \"Presto un tetto agli studenti stranieri nelle scuole\" RaiNews Fenix \"Il tempo del coraggio. La generazione che sconfigge la paura del futuro\" (terza giornata) Radio Radicale Meloni ai giornalisti: “Non voglio parlare con voi” Il Fatto Quotidiano Meloni alla festa dei giovani di Fdi: 'Immensamente fiera di voi' ANSA",
+          "pubDate": "Sun, 20 Sep 2026 11:00:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "salvini lega congresso pontida",
+      "label": "Salvini convoca congresso straordinario della Lega a Pontida",
+      "n_items": 3,
+      "n_sources": 3,
+      "category": "lavoro",
+      "macro_area": "societa-diritti",
+      "richness": 2,
+      "score": 17,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Congresso straordinario della Lega: Salvini sfida i dissidenti a Pontida - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUDVFTjB6ME5fZjJUN3BuSHdCYURjUVhsb0FxSmhzMUhta0xTaG9UVktPbFMwYlFkZm1ERXFVMnFBaGFGUHlEU2ozUUtqODJab3dBaHJsZzBRcXNFc1dMTThyRVF1Q0NocEN6ZWgwY3ZUYWtnNmtXNnhQOU1pMmNUZExEMGY1aWl3eEtPTVgwZGlPZFRsSUJTd0doRkFZazI5Y0hYQVByaXc?oc=5",
+          "description": "Congresso straordinario della Lega: Salvini sfida i dissidenti a Pontida Il Fatto Quotidiano Lega, la mossa di Salvini a Pontida: congresso straordinario a ottobre ANSA Pontida acclama Romeo e urla \"Zaia segretario\". Salvini annuncia: “Convoco il congresso straordinario. Certa gente senza dignità non ritroverà casa\" Il Foglio Pontida: anche i militanti lecchesi al tradizionale raduno leghista Lecc",
+          "pubDate": "Sun, 20 Sep 2026 14:32:39 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Lega, la mossa di Salvini a Pontida: congresso straordinario a ottobre",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/lega-la-mossa-di-salvini-a-pontida-congresso-straordinario-a-ottobre_f7eadbe5-25a0-4754-a303-b2aae6c72b05.html",
+          "description": "Stana i frondisti: 'Chiedo fiducia alla mia famiglia'. Romeo: 'Riconosce che serve il rilancio'",
+          "pubDate": "Sun, 20 Sep 2026 20:26:14 +0200"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Lega, la mossa di Salvini a Pontida: congresso straordinario a ottobre - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQXllNkpHTDVKcVhIT1g3ZE5GWXZQX2c2VWNDcnhpNnFVYkNPLWRlVUxyU09mY3JVX1BuX3pKMkVxck54aWZfU0poXzlvYVdfM2FQdXVCQTRhUWxLR3ZTWWZROHpmblRQWnZEVnNCbloweFRCTE9UR3RjZ0VjUTE5ZGRlbEg1ZmF1QzJDUkh4MHhFSF9TUXRrLWo5QjMtLUVMY3NvVm1SbjRWOXpJa1d1TktjY3BNR3N6dlU4dUliNUF1UWN1ZTJKZXljUk9UallnRHRqcld5Yk5MRXJHWnNwVXFzYnhpQzMzeGdfeHNqZDFiSVJqMUHSAfsBQVVfeXFMTTJzVDkwMmotSGEyUnY1RDNPRDl5Q0VaYkJTcTRCTU5yUnQtd0MzWFhmWjRlazNCMFRPNmZIQkhnSXl3UmxWM201WnlxcFZXOXk1dldhYzdiUnFHM2tUWi1VWUt0d1NCdDR3dW9TSXkzZHI4STJSTy0tQjN2QmVHam5GZi16U1VTdkhqbkJQMUFSeElMeUw5OUVYYzc0LXJzeDE2cVZGM096VHF3YTRFOTh1R0EzTFdPaFR3QUwzd0ViVTd4N0txN1hlUDByZTJiQ2NYSzNuM2N1RGJVd3RtMXJ3b2VmN1JTZzBTZUIzU24yUTk4ZjJ5eDc3dWs?oc=5",
+          "description": "Lega, la mossa di Salvini a Pontida: congresso straordinario a ottobre ANSA Pontida acclama Romeo e urla \"Zaia segretario\". Salvini annuncia: “Convoco il congresso straordinario. Certa gente senza dignità non ritroverà casa\" Il Foglio Pontida: anche i militanti lecchesi al tradizionale raduno leghista Leccoonline Congresso Lega, i governatori spiazzati ma tentati dalla sfida. L’ipotesi carta Romeo",
+          "pubDate": "Sun, 20 Sep 2026 18:26:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "francia debito banche crisi",
+      "label": "Francia in allarme: debito critico, grandi banche in soccorso",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "L'ora buia di Macron. Putin spinge la Francia nella triplice crisi - HuffPost Italia",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNXpUSXYwUm1scVhmYmU2eEJEZnJ4RHJDNzVjSnpNaGE0OEx4Y3RiMEs0UTVzc0NiX3RQNkZTM1o3NEFSaGFjWTZBTXp1Mm4wNDlRcEVKbkZGRk5zQXFGd1h1WThuTTE2amVTNUR3bExZbGdFSm0tbG84d29sdGczZXI4QzVmbG9wLUVjbk9STDVtUUFSWFdaT0ZkamJZOVpsNUVRT1NOa0ZaQlpLOHdmeVlJX09CdTBRTFVfeXlkR3lrMkU?oc=5",
+          "description": "L'ora buia di Macron. Putin spinge la Francia nella triplice crisi HuffPost Italia La guerra ibrida di Putin Corriere della Sera L’Europa si prepara alla guerra di Putin Il Foglio Macron: 'Nessuno è al riparo, risponderemo agli attacchi russi' ANSA Guerra ibrida, la pace smontata pezzo dopo pezzo Quotidiano Nazionale",
+          "pubDate": "Sat, 19 Sep 2026 17:35:00 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Francia allarme debito: le grandi banche in soccorso - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTXNzbTN5aGM0TkRydFBBWXN6TDRjRXVxYWdtRVhoOUd0Ym9zQXEwVGFwNWU5ajFPZTJOUDZkU3Zyal9PYUpHNEZOdm9jMjRmR3EwczBMTGZxdDNGUTdNclJDbnVrQ3R5czU2MnZlWWtMdzNxZl82UHoxRHladUdSZ04zLUhCeWhONXpUTms1RDBxUlU?oc=5",
+          "description": "Francia allarme debito: le grandi banche in soccorso Il Sole 24 ORE Francia declassata. L'agenzia Scope abbassa il rating di Parigi, lo spread tocca i 100 dopo 15 anni HuffPost Italia Spread sui titoli francesi oltre quota 100 per la prima volta dal 2012, pressione anche sui BTP Borsa Italiana La Francia è la “nuova Italia”. I bond vigilantes all’erta per bilancio, rating e presidenziali la Repubb",
+          "pubDate": "Sun, 20 Sep 2026 08:52:01 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "gemini google ai hacking test",
+      "label": "Google Gemini hackerizza aziende durante test di sicurezza",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "bbc-world",
+          "title": "Google's Gemini AI hacked three companies in security test",
+          "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+          "description": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+          "pubDate": "Sat, 19 Sep 2026 13:39:32 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Allarme AI: anche Google Gemini è sfuggito all'ambiente di test hackerando tre aziende - HDblog.it",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOemVvVGV1ejA5VDJxVTdNRlAxczhfTEhJRUtuZnM3Y0NoOTFrV1FsNHZBc245ZUZ5dGxkNkFFM2ROd0R6ZEtHT2drMnVxM2NNSWRtbnpjRjJWc1BtSndlTmg1TEFjNzF6clhKSGMtQ0tlNmRLLUdiZmRMRVRsT2dzanZlSHVfQmZYMHNzREhMZTBvcF9yQ1Ryejh5SQ?oc=5",
+          "description": "Allarme AI: anche Google Gemini è sfuggito all'ambiente di test hackerando tre aziende HDblog.it",
+          "pubDate": "Sat, 19 Sep 2026 14:49:13 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "alzheimer diagnosi precoce prevenzione",
+      "label": "Alzheimer: neurologi insistono su diagnosi precoce e prevenzione",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "salute",
+      "macro_area": "clima-salute",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-science",
+          "title": "Alzheimer. Neurologi: “Diagnosi precoce e prevenzione sempre più centrali” - Quotidiano Sanità",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVWtQak8wSTFHYVVWY29odHJ0dGlOZ0thRzl3MHhGN3hNX1p1YUZXaWltMmFacjMzT3hJMVEwRWVsUHJ0TUpKVTMtWlFSS0tkOFdkbHF4aVdlNDdXdDl5eVp0LXRfbEN0dmFhOXo0U0MxX283TUd2ZU5DZDdpRHhsSF9mb0Y1X0xqcl9uQXlpcFpveWE3OTI1SmE2dkNrZE56RF9vVGhXSEZiX1RXREozcXVoZ2tMVXhvTXlUZm9n?oc=5",
+          "description": "Alzheimer. Neurologi: “Diagnosi precoce e prevenzione sempre più centrali” Quotidiano Sanità",
+          "pubDate": "Fri, 18 Sep 2026 16:06:58 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Alzheimer, la malattia che ruba i ricordi: 600mila gli italiani colpiti - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMnRNNE9sWkt0SnEwSjM3eUFYRVZEYTFfWmNQUUtOQ1ZJTEVEZzhDNnF4R1JNY29HSHBCUHMxRGhjMm91X20tV3RRdDdEcWowMFdJUXpDdEV1MG1XNXJiMUJNeWJYUDhQWlZSSEo2Q1EwYzhlVkQyT1ltWWJnT1daNUpYWHlJRDg0TVdHM3htZkIzcTFUdzhVTHRUTDhRU290Q05tZ1RvcmhGaS14N1M2Y3RGc2dTbm1oNDZUclhVY2tER1JLTlR6MXRYbEc0amk4U0RxNUUyV3d5R0JDTXZCWF9ZLWVjSkV5MzJRcTZrbDkydlVDU3fSAfsBQVVfeXFMUDBTanBEYXZLUngzVnUxendnMHVIVVVrbzJCdDhqQ2daaXUxSjJvMTlzZHRfZHJ0WFZGcW4ydjh6WGs5NXUzZ1pvckNobWpIb1dUdnllaXA0Q3J4MExZcE0yRWtzTWtBUm1KenpQdlU4QzQ4czI4STdQNmUzcUp4RHRnSDA4WXNKcm9IUEJuWWlTNi1meDRYalhRSEtma2FIR1BzOWk1TmlRckl6a00zODRUZkhkS0o3RF9DellELUZ0Wl9BQkpSRHp3a1ZkUUNMbjRzYWExcHhVMkJ5WEZaWTBNVXJ3SVRtQXU3SHdmRmhJem9pOWlZek9jdHM?oc=5",
+          "description": "Alzheimer, la malattia che ruba i ricordi: 600mila gli italiani colpiti RaiNews Alzheimer. Neurologi: “Diagnosi precoce e prevenzione sempre più centrali” Quotidiano Sanità Giornata mondiale dell’Alzheimer: «Sostegno ai caregiver» L'Eco di Bergamo Alzheimer e demenze, le iniziative per sensibilizzare sul tema Ufficio Stampa della Provincia autonoma di Trento Alzheimer e demenza senile, i 5 segnali",
+          "pubDate": "Sun, 20 Sep 2026 08:17:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "energia nucleare rinnovabili burocazia",
+      "label": "Governo accelera su energia: 4mila progetti rinnovabili bloccati dalla burocrazia",
+      "n_items": 2,
+      "n_sources": 1,
+      "category": "energia",
+      "macro_area": "clima-salute",
+      "richness": 3,
+      "score": 14,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-economia",
+          "title": "Il governo accelera sull'energia, 'anche a rischio infrazione Ue'",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/20/il-governo-accelera-sullenergia-anche-a-rischio-infrazione-ue_f5834ddd-aa75-47fc-aa90-51835a43133a.html",
+          "description": "Elettricità futura, 4mila progetti pronti ma bloccati. Mercoledì in aula il nucleare",
+          "pubDate": "Sun, 20 Sep 2026 18:32:10 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Elettricità futura, '4mila progetti rinnovabili pronti ma fermi per burocrazia'",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/20/elettricita-futura-4mila-progetti-rinnovabili-pronti-ma-fermi-per-burocrazia_b0f78ccc-15fd-4a81-83ac-dc789f819618.html",
+          "description": "Per famiglie sostenere uso contratti a prezzi fissi. Ampliare accesso a PPa",
+          "pubDate": "Sun, 20 Sep 2026 16:36:34 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "papa francia visita accoglienza",
+      "label": "Il Papa in Francia: visita tra pace, dialogo, laicità ed Europa",
+      "n_items": 2,
+      "n_sources": 1,
+      "category": "general",
+      "macro_area": "societa-diritti",
+      "richness": 2,
+      "score": 10,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "«Pace, dialogo, laicità, Europa: così la Francia accoglie il Papa» - Avvenire",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd0gzaE9YUDg0a21LR2RkQldUX0s2SDNaNmZTYUFPU0paMHZnVVdFYWV6VDMtYXNBTkxKbF8tQk5zajBhN2ZHMlBtRWJBa0xjR3g5eW0zWG56eHBkUjNkRm1jMjNwOGhtWEZsYmNFcHFXTEE3dE9mMFFpV1pLdVVmcVFjTnE2bk9pY3lkUEdSeWNQVDU1aC1EdzBITEtYWkVGQ2UxQkZB?oc=5",
+          "description": "«Pace, dialogo, laicità, Europa: così la Francia accoglie il Papa» Avvenire Il Papa in Francia, viaggio tra le sfide d’Oltralpe e il dialogo con l’Europa Vatican News Notre Dame, gli abusi, il vertice Ue con Macron: papa Leone va in Francia. Attesa per il discorso all’Eliseo la Repubblica Dopo la Spagna, il Papa è pronto a conquistare la laica Francia Il Foglio Crisi spirituale e tensioni nascoste",
+          "pubDate": "Sun, 20 Sep 2026 12:20:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Il Papa: accogliere e custodire la vita dal concepimento al naturale tramonto - Vatican News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY3JPczJZMFI5U2JoSnpYY1gyUlJ5LXRJel9zYzJqd1dsY3Rzc1NFbGdyNndTMXdUaXQ4c2NSTWROenlOY05uNkZTWllEbFFSX0dnWVNfZG1BZUJUQUJjTWw5dTRiX3JKNDg0T2NBcGFaVHltM1ZHSUEtd2Jvc1JoQzIydGJ3WE9KcjFEbUxVLVhLc294RS1NYlVFRFYwd2tVSUpRRjZ4Njl5YW9J?oc=5",
+          "description": "Il Papa: accogliere e custodire la vita dal concepimento al naturale tramonto Vatican News Slovacchia, torna la Marcia per la vita La Nuova Bussola Quotidiana Papa, appello per la tutela della vita dal concepimento alla morte naturale Ottopagine",
+          "pubDate": "Sun, 20 Sep 2026 11:39:12 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "fed tassi interesse 2027",
+      "label": "La Fed alza i tassi, ma prevede tagli nel 2027",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "La Fed alza i tassi di interesse, ma prevediamo tagli nel 2027 - Morningstar",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVDBBN2d1S1pyUVNqajFRTFZORHJ5MjRZYTRkQ2pKcklta3owTmx1azh4VHpLVS1MSkVGYXVab2w3dGVFOUxXLXhwSzdnbnFuRnZsMnhHa3EwSW1FWi0zeks2S2NfOEVyNHVSOVl6dWQ0cUNVRnBxR3cxaDB2LV8wVzRhaFRNdi02b080VWFTaU9hMktVak9jc2Q5VzBjLW1tdlltaWY3cw?oc=5",
+          "description": "La Fed alza i tassi di interesse, ma prevediamo tagli nel 2027 Morningstar Il rialzo dei tassi di interesse deciso dalla Fed e l’inizio della partita europea per le nomine apicali della Bce: intervista a Natale D’Amico Radio Radicale Tra il banchiere centrale e lo sceriffo di Washington fa festa Wall Street la Repubblica Schmid (Fed), inflazione \"molto elevata\" anche senza energia, rialzo tassi \"p",
+          "pubDate": "Thu, 17 Sep 2026 09:04:57 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "barilla puglia investimento pasta",
+      "label": "Barilla investe 100 milioni al Sud per nuovo polo della pasta a Foggia",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "sole24-economia",
+          "title": "Barilla investe cento milioni al Sud, nuovo polo della pasta a Foggia",
+          "link": "https://www.ilsole24ore.com/art/barilla-investe-cento-milioni-sud-nuovo-polo-pasta-foggia-AJQekkHB",
+          "description": "Un polo integrato della pasta a Foggia, in Puglia, da cento milioni di euro. Barilla rivede il suo assetto industriale nel Sud Italia, migliorando sostenibilità, efficienza logistica e produttiva del...",
+          "pubDate": "Fri, 18 Sep 2026 17:55:56 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "cornea stampata trapianti vista",
+      "label": "Cornea 'stampata' restituisce la vista: svolta nei trapianti",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "salute",
+      "macro_area": "clima-salute",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-health",
+          "title": "Una cornea “stampata” restituisce la vista a un paziente: la svolta che può cambiare i trapianti - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOR2tXTTZOSmRLUVpKbWo1ME9JMTdidkh0TVBldlNfOGtSVFhpQkg5MnJ6Zzdwa2F5SDRzd2F2R2pfUGx3RmdpNlFhUnhTQThpUXFjUmJCZTJNWjNUaWpXV2Y5Mkw5MVV4Und5bGhqTGJYYzM5Z1VzS0dGbnhfamV1aTF5M1VsTGx4OU5PNTZyZjQyU2RWTkZLWHVpbF9zWEpBRTBtejE3X1RlVHZod3lTcXp5aml5Z3h4OXRkQ1FMTXNiZkU2eVJnMWRHYmsxaEZybElIR0NPS1pkNjhnaEFEd2NlOXdrcjJk?oc=5",
+          "description": "Una cornea “stampata” restituisce la vista a un paziente: la svolta che può cambiare i trapianti Mondosanità",
+          "pubDate": "Sun, 20 Sep 2026 20:30:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "mattarella democrazia illiberale diritti",
+      "label": "Mattarella: 'Emerge la tentazione di democrazia illiberale, arretramento dei diritti'",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "diritti",
+      "macro_area": "societa-diritti",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "Mattarella: 'Emerge a livello globale la tentazione di democrazia illiberale'",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/09/19/mattarella-alla-cerimonia-di-chiusura-di-pordenonelegge_f8be6bcc-6a04-4957-b0b8-9685a710c734.html",
+          "description": "'Battaglia dei diritti lungi dall'essere conclusa, taluni auspicano un arretramento'",
+          "pubDate": "Sun, 20 Sep 2026 21:08:32 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "asia nord corea missile lancio",
+      "label": "Corea del Nord lancia missile balistico, allerta nella regione",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "South Korea says North Korea launched a ballistic missile and another projectile toward the sea - Politico",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSUNTS3pQdkRHNTd4TXlYaGFQQ1Z2cGxib281b3pXTHRqY2tPdEtTWGxBaGRYSTVOdmdGZjhVazc0SlpPNWNBS3I0QTlnQ3lkYmhnbnBuVFFGMXdXdkUtSEpCV0pVZUd1enZfck1xQjZEV0dXbEdjNHpHZ3VLSUxDNHhveDItcTB5aWF4T2dvRmJoaWpaTGkyZEhNSG1pQmhfZjlZQUdPdzduUFViT1JCalJCQ1FDVVl2N3pLR2ZqMjN0WjJRcTloUkdKOXczSWs0ZWpHNXdOVUtSSXF4QWc?oc=5",
+          "description": "South Korea says North Korea launched a ballistic missile and another projectile toward the sea Politico North Korea fires two suspected ballistic missiles off east coast within three hours Yahoo North Korea test-launches ballistic missiles, South Korea and Japan say ABC News - Breaking News, Latest News and Videos North Korea launches 'suspected ballistic missile' into East Sea Euronews.com North",
+          "pubDate": "Sun, 20 Sep 2026 11:14:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "macron francia crisi putin",
+      "label": "Macron in difficoltà: guerra ibrida di Putin spinge Francia nella crisi",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "L'ora buia di Macron. Putin spinge la Francia nella triplice crisi - HuffPost Italia",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNXpUSXYwUm1scVhmYmU2eEJEZnJ4RHJDNzVjSnpNaGE0OEx4Y3RiMEs0UTVzc0NiX3RQNkZTM1o3NEFSaGFjWTZBTXp1Mm4wNDlRcEVKbkZGRk5zQXFGd1h1WThuTTE2amVTNUR3bExZbGdFSm0tbG84d29sdGczZXI4QzVmbG9wLUVjbk9STDVtUUFSWFdaT0ZkamJZOVpsNUVRT1NOa0ZaQlpLOHdmeVlJX09CdTBRTFVfeXlkR3lrMkU?oc=5",
+          "description": "L'ora buia di Macron. Putin spinge la Francia nella triplice crisi HuffPost Italia La guerra ibrida di Putin Corriere della Sera L’Europa si prepara alla guerra di Putin Il Foglio Macron: 'Nessuno è al riparo, risponderemo agli attacchi russi' ANSA Guerra ibrida, la pace smontata pezzo dopo pezzo Quotidiano Nazionale",
+          "pubDate": "Sat, 19 Sep 2026 17:35:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "vaccino antinfluenzale lombardia campagna",
+      "label": "Campagna vaccinale antinfluenzale parte dal 1° ottobre in Lombardia",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "salute",
+      "macro_area": "clima-salute",
+      "richness": 1,
+      "score": 5,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-health",
+          "title": "Vaccino antinfluenzale al via dal 1°ottobre in Lombardia. Dal giorno 12 la campagna gratuita si allarga a tutti i cittadini - Corriere Milano",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPOG4td0p2ZGxGaHBhMTBicjU4QUNtcnpSQjB5MFdmeFJYRTY1dmlNVFdFeFgxcVdHRkYzYXhsbEloclNCaTBzYkRhelBydFJBdUJJV1g0TG9nSVdJcDQyY2Q0OW9CZVBoWmhyWlVudEVyLVJJbWlOVGowUWhrd3NOSDhtcDcyRlZVaXBPR05XQ0FJbHlDTkN3aG9QVTNiaFhrbFhUMzkzSVVaM1lRbThURm1UQnZTRjQwaGJpeTVGMGNKcHFpLTJaVzQ3ZUxBd0JMZWswVTdhMU5BenJFQUJsT2hvX3k2N2lONEVnUWFEckhqNVVHT0VwS3ZRZWxIRWZ2a1luZVkzLU80OUxtaldIM0tBRlY2ZW1UbkVfV3hKbXQ4MEdMLXJaeWNsQUM2a3F5bDlTUUFrS0syVnY0NGN1LXNLMHJVYkHSAcwCQVVfeXFMTTJvYmlwTDFRcEtBaV9fTDNZeGhnZGxvVmttUmRVWGtWRE1rWmFoaTBrU3NrMUVMRDBMMHlOU2lxSDlCT0kzVFh4c2hkOFZpNllpREZqLTRSZDBuYkU5R3htZTV6ak1VbFBDbjEyMVJJTlV0ZG1sak03YVV6RjFrYmx4ekd6VW5OS1B6Nzdoc082b0l6cE5VSUF4MUZ1MGRlRWFVZlhSU2NrYVFzQUFrUC1oOHVnZktVbjlMTjZCRWt4RTV3X0JsNjJzd0RsdFpIV28wQllaYmpGWVdobG1yNy1zcEFWMTJXX1NhUDN3OU41angxMWJuUG5uS3FHa0lpc2p0WUpGdjUwYTgzNFJoZGYyd3J3dVY0SDZKbGFnUzB2dzVoSExhdFl2cHVEbW9NVGdDX2hpY1d2eXpDSWw1VnZVS20xM3VBRnVvOHo?oc=5",
+          "description": "Vaccino antinfluenzale al via dal 1°ottobre in Lombardia. Dal giorno 12 la campagna gratuita si allarga a tutti i cittadini Corriere Milano Antinfluenzale per bambini e ragazzi, il dottor Greco: \"Vaccini sicuri ed efficaci\" BergamoNews Influenza, al via la campagna vaccinale Il Resto del Carlino Influenza, a ottobre al via la campagna vaccinale con prodotti aggiornati: a chi è rivolta Sky TG24 Vac",
+          "pubDate": "Sun, 20 Sep 2026 05:00:15 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "trump ai task force intelligenza artificiale",
+      "label": "Trump crea una task force per l'intelligenza artificiale con uno 'zar'",
+      "n_items": 3,
+      "n_sources": 3,
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 3,
+      "score": 2.1,
+      "cooldown": true,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "AI, Trump crea una task force: \"Sarà guidata da uno zar. Chiamiamola superiore o estrema\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zSlp2bmZ2c2UwcUxfTlpYOHE3LVR0RFZtSWdTY1NENmJ1NkxlUmE0LUluNW5zbUZtMkZWV2VfZ1gwcTU1WVByNEF0aXpEWlRLMEJOaGxWSFpNRkc4VTgwT244TWlhLVJEOTFhR3pn?oc=5",
+          "description": "AI, Trump crea una task force: \"Sarà guidata da uno zar. Chiamiamola superiore o estrema\" Sky TG24 Trump lancia la “AI Force”: «Non soffocheremo la crescita dell’intelligenza artificiale» Il Sole 24 ORE Trump vuole una forza dedicata all’IA e un “zar” che rispetti un requisito fondamentale Yahoo Finanza Trump: presto una task force sugli algoritmi. E OpenAI brucia 280 miliardi di cassa la Repubbli",
+          "pubDate": "Sun, 20 Sep 2026 05:38:26 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+          "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+          "description": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+          "pubDate": "Sat, 19 Sep 2026 21:01:56 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Trump: presto una task force sugli algoritmi. E OpenAI brucia 280 miliardi di cassa - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWFFlRDBsS3hqVWdHcDNZYzBoOVlRSE9aSWdRZjZtbThJek9GZmI5RWFYdkZuWHJDaGxTckpiNm1peGYxTkJLSnhtb1ZueDBXZHFrV2Z1bTlLc0lqc3R1ZHFpdHJBWjNSUXRmQVpUU1BYRmtxajNWakRDWVdHNDlBQ3dlbXVDLVN0N3V3TFQ1NGwtRGRQYkxOcnl4NTR1aExNWi1BX2lVNWRoZnAxWnZ2dG43T25qSVNXZjFBR3liT21xZGkwWUNKa0FIN0tpdE5YVjVMMXI5Nl80OGc?oc=5",
+          "description": "Trump: presto una task force sugli algoritmi. E OpenAI brucia 280 miliardi di cassa la Repubblica",
+          "pubDate": "Sat, 19 Sep 2026 19:40:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "zelensky trump incontro newyork",
+      "label": "Zelensky parla con Trump: incontro in vista a New York",
+      "n_items": 3,
+      "n_sources": 3,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 2.1,
+      "cooldown": true,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Zelensky, 'ho appena parlato con Trump, ci vedremo a New York' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcFl3LUxWc2VwckdOZldSbnhZcUNWb3pGLXFxcnkyNE9MSGw4dXE2UWc2MHZlaUt2dnRVRmxFQlBOYjhXM3dBRHJtUXdEMERRa3FfbmstMjdMU1JZYkQ4cEdIZ0FsUGtGQ1g4Um1fWUYwbnpRU0tidnNzVDdPMkw1QmJCOTk0bDlUcnZlekpRMkp6U2ZLTWg1ZjNQcWhwbVh2SkV2aGNneUd3VU5JUGw2d3hTRFZqbXhWbE5iLWt4cUxSRUJLQXRMSXlBbXd6aTQ4cXZNdkdXdGZ6dURxZV9LSFNkcTE4aXc?oc=5",
+          "description": "Zelensky, 'ho appena parlato con Trump, ci vedremo a New York' ANSA Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Sun, 20 Sep 2026 18:42:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Il partito di Putin rivince le elezioni. Pioggia di droni e missili su Mosca",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/20/il-partito-di-putin-rivince-le-elezioni-pioggia-di-droni-e-missili-su-mosca_e4dff2be-9db4-41e8-ae3d-ed08b4618e8e.html",
+          "description": "Zelensky: 'Ho parlato con Trump, abbiamo concordato un incontro a New York'",
+          "pubDate": "Mon, 21 Sep 2026 05:01:48 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Zelensky, 'ho appena parlato con Trump, ci vedremo a New York'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/zelensky-ho-appena-parlato-con-trump-ci-vedremo-a-new-york_b9528dcd-5290-4a52-aec7-2c1aa1b7c5c3.html",
+          "description": "'Poi ringrazia il tycoon per la visita di Witkoff e Kushner a Kiev'",
+          "pubDate": "Sun, 20 Sep 2026 20:43:54 +0200"
+        }
+      ],
+      "clustering": "claude"
+    }
+  ]
+}
