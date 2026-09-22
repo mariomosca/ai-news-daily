@@ -1,0 +1,48 @@
+{
+  "topic_label": "Il tetto agli stranieri in classe: la misura anti-ghetto che rischia di creare i ghetti",
+  "query": "tetto stranieri scuola confronto Francia Germania Spagna integrazione",
+  "category": "diritti",
+  "category_claude": "societa-diritti",
+  "macro_area": "societa-diritti",
+  "target_area": "societa-diritti",
+  "origin_keyword": "tetto stranieri scuola italia",
+  "origin_date": "2026-09-21",
+  "story_sim": 0.467,
+  "story_vs_date": "2026-09-10",
+  "angle": "paradosso",
+  "angle_directive": "Il paradosso al centro: la contraddizione, il 'ma/eppure/pero'. La cosa che sembra una ma e' l'opposto. E' la mossa-firma di Mia.",
+  "genre": "spiegone-comparativo",
+  "target_words": 950,
+  "hot_topic": false,
+  "richness": 3,
+  "label_cluster": "Governo: giovedì Cdm su burqa e tetto agli stranieri a scuola",
+  "cover_metaphor": "a line drawn through a classroom, dividing without disappearing",
+  "curator_rationale": "Il paradosso è nitido: una misura pensata per favorire l'integrazione (limitare la concentrazione di stranieri per classe) rischia di spostare il problema fuori dalla scuola, ricreando la segregazione residenziale che dice di voler combattere — e il confronto con Francia, Germania e Spagna mostra che nessuno l'ha davvero risolto. Angolo paradosso fresco, mai usato negli ultimi giorni, e genere comparativo perché il materiale lo permette (candidato 23 include già lo sguardo sugli altri paesi).",
+  "articles": [
+    {
+      "title": "Tetto stranieri a scuola: cosa fanno Francia, Germania e Spagna",
+      "source": "google-news-it-top",
+      "summary": "Tetto stranieri a scuola: cosa fanno Francia, Germania e Spagna Il Fatto Quotidiano Tetto agli stranieri in classe, Zuppi (Cei): «La scuola sia inclusiva, tocca il cuore della nostra convivenza» Corriere della Sera Limitare gli studenti stranieri nelle classi non è così semplice Il Post Le classi ghetto esistono, è vero, ma la segregazione meno visibile a scuola è quella sociale Avvenire Se per Me"
+    },
+    {
+      "title": "Al via la «Carta Dedicata a Te» da 500 euro per il 2026: partenza il 4 novembre. Ecco cosa sapere",
+      "source": "google-news-it-top",
+      "summary": "Al via la «Carta Dedicata a Te» da 500 euro per il 2026: partenza il 4 novembre. Ecco cosa sapere Il Sole 24 ORE Carta Dedicata a te si sdoppia: 500€ ora e 500€ ad aprile Il Fatto Quotidiano Carta Dedicata a Te, quali sono i requisiti ISEE e come attivare il bonus da 1000 euro Virgilio Al via nuova edizione della 'Carta Dedicata a Te': 1.000 euro a oltre 1,1 milioni di famiglie ANSA Carta Dedicata"
+    },
+    {
+      "title": "Giovedì il Cdm, si lavora a stretta su burqa a scuola e stranieri in classe",
+      "source": "google-news-it-nation",
+      "summary": "Giovedì il Cdm, si lavora a stretta su burqa a scuola e stranieri in classe ANSA Tetto agli stranieri in classe, Zuppi (Cei): «La scuola sia inclusiva, tocca il cuore della nostra convivenza» Corriere della Sera Limitare gli studenti stranieri nelle classi non è così semplice Il Post Le classi ghetto esistono, è vero, ma la segregazione meno visibile a scuola è quella sociale Avvenire Se per Melon"
+    },
+    {
+      "title": "Carta Dedicata a te si sdoppia: 500€ ora e 500€ ad aprile",
+      "source": "google-news-it-nation",
+      "summary": "Carta Dedicata a te si sdoppia: 500€ ora e 500€ ad aprile Il Fatto Quotidiano Al via la «Carta Dedicata a Te» da 500 euro per il 2026: partenza il 4 novembre. Ecco cosa sapere Il Sole 24 ORE Carta Dedicata a Te, quali sono i requisiti ISEE e come attivare il bonus da 1000 euro Virgilio Al via nuova edizione della 'Carta Dedicata a Te': 1.000 euro a oltre 1,1 milioni di famiglie ANSA Carta Dedicata"
+    },
+    {
+      "title": "La scuola primaria di Monfalcone dove su 734 nuovi iscritti 560 sono stranieri: «Fermare l'emorragia di studenti italiani non è facile»",
+      "source": "google-news-it-nation",
+      "summary": "La scuola primaria di Monfalcone dove su 734 nuovi iscritti 560 sono stranieri: «Fermare l'emorragia di studenti italiani non è facile» Corriere della Sera"
+    }
+  ]
+}
