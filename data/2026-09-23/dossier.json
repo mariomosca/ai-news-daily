@@ -1,0 +1,33 @@
+{
+  "topic_label": "La multa a Google (403 milioni): quanto vale davvero la tua privacy?",
+  "query": "Google multa privacy GDPR geolocalizzazione",
+  "category": "tech-policy",
+  "category_claude": "tech-ai",
+  "macro_area": "tech-ai",
+  "target_area": "tech-ai",
+  "origin_keyword": "google multa privacy geolocalizzazione",
+  "origin_date": "2026-09-21",
+  "story_sim": 0.363,
+  "story_vs_date": "2026-09-10",
+  "angle": "segui-i-soldi",
+  "angle_directive": "Segui i soldi / chi paga il conto: il costo reale non lo paga chi sembra, lo paga un terzo invisibile. Chi guadagna davvero.",
+  "genre": "prospettiva",
+  "target_words": 900,
+  "hot_topic": false,
+  "richness": 3,
+  "label_cluster": "Google multata 403 milioni per violazioni privacy sulla geolocalizzazione",
+  "cover_metaphor": "a coin dropped into an ocean of data",
+  "curator_rationale": "Storia fresca (non ancora raccontata), con materiale concreto: la multa record del Garante irlandese apre la domanda su chi guadagna davvero dalla sorveglianza dei dati e quanto pesi realmente una sanzione rispetto ai ricavi Big Tech. Angolo segui-i-soldi, fresco rispetto agli ultimi giorni (evito paradosso e zoom-out-sistemico gia' usati).",
+  "articles": [
+    {
+      "title": "Google hit with €403m fine by Irish data watchdog over GDPR violations",
+      "source": "bbc-world",
+      "summary": "The penalty follows an inquiry launched into the tech giant six years ago, following complaints from several European consumer rights organisations."
+    },
+    {
+      "title": "Google è stata multata per 403 milioni di euro per aver violato le regole europee sulla privacy per la geolocalizzazione degli utenti",
+      "source": "google-news-it-business",
+      "summary": "Google è stata multata per 403 milioni di euro per aver violato le regole europee sulla privacy per la geolocalizzazione degli utenti Il Post Google tracciava la posizione degli utenti per annunci mirati: maxi multa da 403 milioni in Europa Corriere della Sera Google, maxi multa in Irlanda: 403 milioni per violazione dei dati sulla geolocalizzazione la Repubblica Google: fined 403 million in Irela"
+    }
+  ]
+}

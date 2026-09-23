@@ -2,289 +2,184 @@
   "date": "2026-09-22",
   "top_topics": [
     {
-      "keyword": "media trump ban cnn politico",
-      "label": "Trump vieta Cnn e Politico: media fanno causa",
-      "n_items": 5,
-      "n_sources": 5,
-      "category": "tech-policy",
-      "macro_area": "tech-ai",
-      "richness": 3,
-      "score": 37,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-top",
-          "title": "La Casa Bianca lancia la Trump Tv: è la risposta alle proteste contro il bando che ha colpito Cnn, Politico e Ms Now - Corriere della Sera",
-          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPRFFOSjhfVGk0bU1iaVFxd1g2UnlsTmFtRXBjV3FVSG9FMTlLU0lmWDl1WjFORjFON2RKZDc0bHhHbDFlc2ttVE83VS1Rd1Z6MnNXd28wTm9aWEFmQ3puMmNkQ2NkZG9LREt1SmlQeU1kRC1ObS1RdGFxSlM1Q01BT0tSWjRXTWpXVWpIcXozMGwtVGpvdktDYWhoNmh6ZGxTbW54TjFFWllWWXU0enU1NXVEZTc0Uk0xazAyVGViLXoxLTRIeVV6ZkVGLU1xZ29fb3djZjlEU2FaWFAycWVtdlFWSExsQ1Q1ajl2XzFJVi1rQndXOVV5dndHMThQVjZRWG1ZQUt3LVdwMmdvSDdtNUhCWWlPQURPdXNWM2NNZkZ2Y3ZCNnB0cVFVOF_SAbICQVVfeXFMTWd6R0Z0dnJNVW81dW41cVVaT1dwczZTNE1MLW5QZDBMWk5hMDZPTDdrWU55ZG16Q0x4anpNNmY1WnFpZUdWYlBHdTZndHVkMXI0S1FmdWd5TzBOb0JvbzhQamRYekJyeTRZUEtkbGo0NWZoZnEzNUJqNkViMGVVVlRoSllIOWR2SnM1ZUhIOGxBMFViUHZsQkYyX3ZpYnhMWXpSWVRnSW5OeFR0aEhpZ2hjY2tiUUoycDJyX1RlMjB6VkczY0ItcnZDSlpldEVQbGdXMTFEMTJDMk9WZ3BYMHk1SEZfOUlHM29MNXZOc0VkM3JEaVV3NjNLWFhlLTY5T1UzQnhPSlo1dGg4ekFIakxGOG5aem5acnRjRGVpTENZUi1NeFczN1BMU0oycWxINTVB?oc=5",
-          "description": "La Casa Bianca lancia la Trump Tv: è la risposta alle proteste contro il bando che ha colpito Cnn, Politico e Ms Now Corriere della Sera La Casa Bianca lancia la 'Trump TV' dedicata agli eventi dell'amministrazione ANSA Trump nega accesso a Casa Bianca, Cnn, Ms Now e Politico fanno causa Sky TG24 Quei venti di tempesta che agitano il tycoon in attesa delle elezioni la Repubblica CNN, MSNBC e Polit",
-          "pubDate": "Tue, 22 Sep 2026 02:01:05 GMT"
-        },
-        {
-          "source": "google-news-en-top",
-          "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5V2F1ZTZjdWJmb1NpNHZXNHZTSVZSa0FsNjAtQnJycGh1YXZ4aUZ4UVN0c2YwOWlYVHJIeWtBVHF4R1pxRm1mV094RTRGaHZrQlNJZmp2QjhseEU?oc=5",
-          "description": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban BBC Trump Faces the Sting of a Media Boycott After Press Pool Withdrawal The New York Times White House launches Trump TV following press bans The Hill Major TV networks halt video coverage of Trump over CNN ban The Washington Post Natalie Harp showed Trump coverage clips before he issued media ban CNN",
-          "pubDate": "Tue, 22 Sep 2026 00:16:06 GMT"
-        },
-        {
-          "source": "ansa-homepage",
-          "title": "Cnn, Politico e MsNow fanno causa a Trump, e il pool tv lo oscura",
-          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/21/il-pool-tv-della-casa-bianca-non-seguira-piu-trump-dopo-il-bando_2b4b224b-27ab-4acc-9230-b64994300728.html",
-          "description": "La reazione dei media dopo il bando della Casa Bianca. L'ira di Donald: 'Siete fake news'",
-          "pubDate": "Mon, 21 Sep 2026 22:15:27 +0200"
-        },
-        {
-          "source": "ansa-mondo",
-          "title": "Trump, 'Studio Ovale non sia profanato da pagliacci di serie B con fake news'",
-          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/21/trump-studio-ovale-non-sia-profanato-da-pagliacci-di-serie-b-con-fake_2b54e648-3fe0-404f-8294-3b8697a90ba4.html",
-          "description": "Il tycoon torna ad attaccare Cnn, MsNow e Politico",
-          "pubDate": "Mon, 21 Sep 2026 22:12:03 +0200"
-        },
-        {
-          "source": "bbc-world",
-          "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-          "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-          "description": "Major US networks later suspended White House TV coverage of Trump as he headed to New York for a UN summit.",
-          "pubDate": "Tue, 22 Sep 2026 00:16:06 GMT"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "trump xi jinping summit",
-      "label": "Trump-Xi summit: commercio, tech e sicurezza sul tavolo",
-      "n_items": 5,
+      "keyword": "trump onu america iran",
+      "label": "Trump all'Onu: \"America è tornata\", promette accordo con l'Iran dopo le midterm",
+      "n_items": 4,
       "n_sources": 4,
       "category": "geopolitica",
       "macro_area": "geopolitica",
       "richness": 4,
-      "score": 36,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-world",
-          "title": "Xi Jinping negli Usa: vertice con Trump per rilanciare commercio, tecnologia e sicurezza - Il Sole 24 ORE",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUDY1NXg4Y2hWWDd1OTZCUHAxT0wxaWVrblFVT1g4aV92S2g0bWZoN2VfSXkyeE9paGRjR19IVkVaRVBwTWFON1BFQm9ucG95VU91VENxRmRieVk4czdmQklmWERyOFM4eVA5b2FweUEtaVkxM2QyVHZkM1llVzd0eW81OWlRT0JCVnpFYXZsWkZDMWRFS1BFWGRaNzNlTndPRWY0ZklLN01uSThJTGRKYWp6OA?oc=5",
-          "description": "Xi Jinping negli Usa: vertice con Trump per rilanciare commercio, tecnologia e sicurezza Il Sole 24 ORE Xi, il vertice con Trump a Washington e le voci sulla sua salute. La cena di gala saltata a Delhi, il passo rigido sulla scaletta dell'aereo e i silenzi «ufficiali» Corriere della Sera Pechino conferma la visita di Xi negli Usa dal 23 al 25 settembre ANSA Cina e USA: scambi \"franchi e costruttiv",
-          "pubDate": "Mon, 21 Sep 2026 17:13:31 GMT"
-        },
-        {
-          "source": "google-news-en-top",
-          "title": "CNBC's The China Connection newsletter: Five things to watch for the Trump-Xi summit - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWFZtUVF5NzNkaXdfbldfeVZvckEyYXZ1ZWlGUkQ4OS1jYW1WZzJrTC1OUjF4YUVNcWQ5UTF3dERhdl8xRW5rdXF0NDdDU0QwSXRkc2JoSFE4dGpOTVZfTlR2UEtjWjJWTDM2RmhqS3ZnU1UtN0N4YzdHV1pCcnhWV2NrQWZvWEt3WVlsemVkMzJpZERDNlFueDR4SXJUSjB2SWloVFBoSdIBrAFBVV95cUxQS0oxZ1ptMlhKMm9FX0prWEZUZE1BUG13d0pJMWZqZk9EUlg4TzJVRjl5VjlBMHpwLThHSmpMN3J3ZTlSTFZYVXlqd1g3V2cxbV9sb1NqdE5aa2p0Q1B0dmlvRGVLY3FyeUEwMDFSU1c0Y2VhdnZJMEwyRUd3SG9DLWdXV21VSmVVNHVIS1RsZVpINHRXSkZzcm5RdFNrWXZyUVJMOENWSTJSbjlP?oc=5",
-          "description": "CNBC's The China Connection newsletter: Five things to watch for the Trump-Xi summit CNBC Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch CNBC Tech rally boosts Asian stocks, dollar firms on rate-hike wagers Reuters Opinion | What Trump doesn’t seem to realize about Xi Jinping The Washington Post Some lawmakers say Trump should confront Xi over Chinese ",
-          "pubDate": "Mon, 21 Sep 2026 23:14:37 GMT"
-        },
-        {
-          "source": "bbc-world",
-          "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-          "link": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-          "description": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
-          "pubDate": "Mon, 21 Sep 2026 05:50:56 GMT"
-        },
-        {
-          "source": "google-news-it-tech",
-          "title": "Donald Trump incontra Xi e i Paesi del Golfo. Iran, petrolio, IA: i dossier sul tavolo - Sky TG24",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iM2xRSTE5LWtEVDA5OTVKazd0SzJHVDBIWE9GeEhrNVF5dVdRTFlrNm1MdHpoLWlBY1ludmY2Szc0NjlDdzRvU0ZlTFdKT29VR0xGOG5md3BEWXdVZDJET2Y3clMzTXM3ZTVBSi1XRmpsV0s0RjRKUGxUNS1pYU0?oc=5",
-          "description": "Donald Trump incontra Xi e i Paesi del Golfo. Iran, petrolio, IA: i dossier sul tavolo Sky TG24",
-          "pubDate": "Mon, 21 Sep 2026 04:13:59 GMT"
-        },
-        {
-          "source": "google-news-it-tech",
-          "title": "Washington, vertice Trump-Xi Jinping: IA, commercio e investimenti sul tavolo - iltempo.it",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaUNBZlc0cU40bnQ0aUsyNnV1WURBMHYzV0lCQ0czUmpMd19ZWmhIMTNmRHFSQU1GS0xHUjhtYVdGTkw5cUU1TWg1OFBvNy1PTWoxYnY5SFVIN1JhSVdzSldObVJER2FxTzVTQWtDZ2lJVHZ2Y0FLSl94ZWk4VU5hbHNXZ1hQWU1uNlZqa2VfVlBleUx0N1YtT0YzVlpKam8zazBCZWNySFFmVlY2d2pwNkxPRU8wenVmaWdqdHVIbnZDTTlLSHZlSzBTSTl5Tm14dGhfOHRB0gHbAUFVX3lxTE4xdGV1MUR2N285WUhqN1lrWkNrWFlPLXhTaDZnRUl4ZnJ2cGptNV83Q2JhamlTUzRnRVM4WUl6d3VMZUVDVXB4MG9YNkxrcXdTbGhTUUtFLXZ1cldaNGVsQ3lGckp2MERVdnJYX3V3aHQ2UE5YSGFKdHdTU2Z2bHFXQ2JzbkhlSWs4RS1OcjcwV3lvaElWNDN3WDk4LXBZckhpc1BoVVE1OWJ4a0Z4dFBZQ1pLU1U4dWR1anAzQzYtMDFPRjFzaEtwVW5jMFlyZU1mNTFuVjBQVEFaUQ?oc=5",
-          "description": "Washington, vertice Trump-Xi Jinping: IA, commercio e investimenti sul tavolo iltempo.it",
-          "pubDate": "Mon, 21 Sep 2026 19:11:00 GMT"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "houthi yemen trump militare",
-      "label": "Trump blocca attacchi Usa contro gli Houthi",
-      "n_items": 3,
-      "n_sources": 3,
-      "category": "geopolitica",
-      "macro_area": "geopolitica",
-      "richness": 3,
-      "score": 21,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-world",
-          "title": "'I jet erano pronti contro gli houthi, poi lo stop di Trump' - ANSA",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRGRNY2p6MW9hZE84WThQVlBkSkRUbVBETGdiY3J3c0dmZ0VwaWhpM045Z3d5My1MQ1I3UlM3X1o1cjQ2TkNOVk5QYjc5VVA2NFdyWHJFU2kyYk1USU1uSmN6YklXNzBLVmxGdFBncTY0WFg3Rl9odmtUQV9uNldCM1hUMmQ4SzZ2QWp5aGZZZmh2WXFpcHpoUF9BRlFheHFkX3RHTTg3TTJyVTJxS3hpdWliTzEyN1luSUVBOURDRVRWV1ZtS1lzdDRJRE9ncTRLTzVhUXhJRGJuV1JoSEtDcmNHRkpkYnctTWJpcnpDUGRHUmVJ0gH6AUFVX3lxTE5zSzJqYU9fbjRKWHlZMkhENmU0bU9QM3BKRU54YUFxaUFVMDhyaURVR1FISDY4QUhGT2lJMmhMVnhsd2pXbUdMa1V4cUQ1dWxzTUNibl9tZTFHODVOVWNUVVVXckVRUFdKRlFGSzNQVVBKb1V1SzNxNEYtakxic2dXMXVXTEF0Z2VXdUlPcXo2dFpDTjdHYnJVbTJ0UmUyMTREQ09nZDhHTElaLXc3RUFDZjhzRG9Xd3RZdXNxVVAyQWs5V0NiNkFVWXJhR1Vrd0NmN2cyWkxCTVl2VmxZbDQ3N3R2cVZXSVRlNXBmdEUwc1B5amYyTmFkR0E?oc=5",
-          "description": "'I jet erano pronti contro gli houthi, poi lo stop di Trump' ANSA Trump ha bloccato gli attacchi contro gli Houthi subito prima del decollo dei bombardieri: la ricostruzione del New York Times Corriere della Sera Trump si sta allontanando dall’Arabia Saudita nel momento peggiore Il Post Trump frena i raid contro gli Houthi: i sauditi restano soli la Repubblica “Trump ha fermato i raid Usa contro g",
-          "pubDate": "Mon, 21 Sep 2026 18:24:00 GMT"
-        },
-        {
-          "source": "google-news-en-top",
-          "title": "Trump weighed strikes against Houthis in Yemen before holding off - Axios",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNRnV4OEdXbGVSdF9oSWtndHpELV9kR0NVTlFtckZON0ZSOERLTk13dTZ2dTJJWTRvTWdZeHdIQ2ZrX1VubFVRRThJUHJ2UVJQOHAxOHlzR3A0MjZ5U205Mndfbk81S2Y2ZWtHV2ZSZV9BTWRGRjBhcQ?oc=5",
-          "description": "Trump weighed strikes against Houthis in Yemen before holding off Axios U.S. military leaders divided over action against the Houthis NBC News As US steers clear of Yemen fight, the Iran-backed Houthis launch next phase of campaign CNN Trump Gets Caught in a Dilemma Over a Saudi Plea for Military Help The New York Times Iran-backed Houthi rebels warn against joining Saudi Arabia in Yemen’s growing",
-          "pubDate": "Mon, 21 Sep 2026 14:11:31 GMT"
-        },
-        {
-          "source": "ansa-mondo",
-          "title": "'I jet erano pronti contro gli houthi, poi lo stop di Trump'",
-          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/21/i-jet-erano-pronti-contro-gli-houthi-poi-lo-stop-di-trump_5a5117b7-6646-4851-9244-5caef3a44aca.html",
-          "description": "Il presidente Usa all'Onu incontra il Golfo e forse Pezeshkian. 'Dal 23 bloccati i voli dell'Iran'",
-          "pubDate": "Tue, 22 Sep 2026 05:05:21 +0200"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "petrolio calo prezzi wti",
-      "label": "Petrolio crolla: Wti cede il 4,5%, Brent sotto 100 dollari",
-      "n_items": 3,
-      "n_sources": 2,
-      "category": "economia",
-      "macro_area": "economia",
-      "richness": 3,
-      "score": 18,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-business",
-          "title": "Il petrolio chiude in forte calo a New York, Wti cede il 4,50% a 95,79 dollari - ANSA",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUndUU01PbkpYeUZuaUkwN2pOME5USUNxaGdKR1VRSTVVUWpWWEo5dzJUQmlfa1p4akx3Tmw3amJwZXVPZTVZb21fOEZMMFpNb2VXaS1mclBEWUc0bnptYzVnNXViT2hHOFEwRHZwb2hZTmdwd1VXM3VieU04OGJhcUE2V1kwQjNNdHpuc1NucjhqLW1jSnRCVlFJOWk3VThORWhzaDJkU2dtMXVyaS1FQjJEbVVxZVhfUHJOOTFkbnZhOTdPUE5tODZrdUtJMEkzbC1jdkdkeFUxWmJyRjdSOHFBeTVrZjFlUHoycFhQMUtRUQ?oc=5",
-          "description": "Il petrolio chiude in forte calo a New York, Wti cede il 4,50% a 95,79 dollari ANSA Visualizza altri titoli e punti di vista su Google News",
-          "pubDate": "Mon, 21 Sep 2026 18:47:00 GMT"
-        },
-        {
-          "source": "ansa-economia",
-          "title": "Il petrolio chiude in forte calo a New York, Wti cede il 4,50% a 95,79 dollari",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/il-petrolio-chiude-in-forte-calo-a-new-york-wti-cede-il-450-a-9579_a0cb1ec5-a417-4a15-9160-f8d3b0ddee51.html",
-          "description": "Il Brent scende del 3,47% a 100,27 dollari",
-          "pubDate": "Mon, 21 Sep 2026 20:50:04 +0200"
-        },
-        {
-          "source": "ansa-economia",
-          "title": "Borsa: Europa avanza col calo del petrolio, Milano +1,6%",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/borsa-europa-avanza-col-calo-del-petrolio-milano-16_4826495b-976f-4f7b-93f9-31b7eb600854.html",
-          "description": "Brent e Wti sotto i 100 dollari. Volano i bond, i rendimenti dei Btp in calo di 12 punti",
-          "pubDate": "Mon, 21 Sep 2026 16:58:57 +0200"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "borsa milano rialzo banche",
-      "label": "Borsa Milano +1,6%, volano banche e Technoprobe",
-      "n_items": 3,
-      "n_sources": 2,
-      "category": "economia",
-      "macro_area": "economia",
-      "richness": 3,
-      "score": 18,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-business",
-          "title": "Borse europee positive con greggio in calo. A Milano bene le banche, corre Technoprobe - Borsa Italiana",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPTV9IbVk5RjJnTEdLNXNyaGt6dk1xTnFmOHViU21GNTdpbXJMS2g3anpjLWZNU0R3cjBxb19hcjBRa2Y4Zm9JN1lGYnBlRmE3aHYyUmJSTVIxNTB4YjBJeTYwT3NweXBpeEdoejlYdUUtMDQ0cWY4V09iREo5ZnRFaHB1ZWxjWHNaXzBEOE5QR2c2QWZyRGRQZHpjc1BGRmx6MzcyeDRQc3NrYndwRXNIeU1WY09kaDdVaExNbG1FckZIeW5teEFiZUdERjlNcU56UVdESF9IQ2o2UUlpVU1Ea0xTb1FDckxGZHN4Q2VhNFNGWko3ZVhVM08zeGdIZw?oc=5",
-          "description": "Borse europee positive con greggio in calo. A Milano bene le banche, corre Technoprobe Borsa Italiana Piazza Affari in rally segue le orme dell'Europa Borsa Italiana Borse 21 settembre | Il barile sotto i 100 dollari fa correre l'Europa, Milano chiude in rialzo dell'1,6%. Il tech sale con i colloqui Usa-Cina Corriere della Sera Seduta in rialzo, scende il petrolio RaiNews Borsa: Europa chiude in r",
-          "pubDate": "Mon, 21 Sep 2026 08:43:00 GMT"
-        },
-        {
-          "source": "ansa-economia",
-          "title": "Borsa: Milano svetta con Technoprobe, Banco Bpm e Unicredit",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/borsa-milano-svetta-con-technoprobe-banco-bpm-e-unicredit_501c4800-87bf-4716-9af5-737264d79e32.html",
-          "description": "Bene anche Stm e Prysmian, vendite su Eni e Poste. Scatto di Ariston e De Nora",
-          "pubDate": "Mon, 21 Sep 2026 18:07:11 +0200"
-        },
-        {
-          "source": "ansa-economia",
-          "title": "Borsa: Milano chiude in deciso rialzo (+1,6%)",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/borsa-milano-chiude-in-deciso-rialzo-16_946c2687-35d7-4a11-a035-d47c7aaae4e2.html",
-          "description": "L'indice Ftse Mib sale a 52.371 punti",
-          "pubDate": "Mon, 21 Sep 2026 17:40:43 +0200"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "scuola stranieri inclusione",
-      "label": "Mattarella e Cei contro il tetto agli stranieri in classe",
-      "n_items": 3,
-      "n_sources": 2,
-      "category": "diritti",
-      "macro_area": "societa-diritti",
-      "richness": 3,
-      "score": 18,
+      "score": 32,
       "cooldown": false,
       "items": [
         {
           "source": "google-news-it-top",
-          "title": "Tetto agli stranieri in classe, Zuppi (Cei): «La scuola sia inclusiva, tocca il cuore della nostra convivenza» - Corriere della Sera",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPdUsxUEJSX3JIS014TUgyMWhnaFR2N1VOck01Ylp2QUxSY1RTTDJQSGVaVDBHdzRNZm1lWjRKc3FmaU9hRFI1MC1IVF81dzRnWUxNekx2OVg1QWpNZmNDNGxTNmlHblREM3IxN3hoQUtjMnV1UTZoS2EwSVhFN1J6N3pnRE5wQXowYVBMaVJwZW5keHpKUlktcE5MTDcyTXlRVzhkN1pVVmdxZ3d1bnE3eHllek4ydFdtU3JFRDE4cjlYOS0yM3d0bktJYmtraW1sVXdEMDdua2k4d1BoaThaaGp5d3VrM0dlUTQ0djktZFY5c1pXZXE0TVlnTFBZM2lQOTM3VHY2Qkt0U3A00gGSAkFVX3lxTE8xQVZmVDl6WUVwVjhPYnJzZjRGTVd3Y3ZVNGVkV1ZmVjFZWXN4Rkt2UGJ2RzF2M0RYSVdJcThTLVJvRGQ4MDk4X28xakNaZHlGdk1JVWFrVS1Dbm1vLUtieG5ONDFRREw1VUdvc3kwc2JsQTM0bmxveXNzbmtaY0hRNlZ5VXhDS3dFS0g3eUppNU55eWR0SmVXbGpMYUxUb0JKY1FWZW1yVS1tTDlBMmV6LTRManZWejlQRTJOYTZLczJVbVhxbWFwaDdNb3VMcS1rSGd5SjlFZHNFRHBKM1FRREFKQ3lYdng5eVRJMHJMMF8wVEllN05TVnkxdTFBbU1GeVA1UVJ2Y25IX0JhVGhQQkE?oc=5",
-          "description": "Tetto agli stranieri in classe, Zuppi (Cei): «La scuola sia inclusiva, tocca il cuore della nostra convivenza» Corriere della Sera Quote e bambini, parole incompatibili Corriere della Sera Limite di bimbi stranieri nelle classi, i dirigenti scolastici: “Il governo ci dica come procedere” La Stampa Roma, in aula con cento lingue. “Qui bambini da tutto il pianeta, siamo il laboratorio del futuro” la",
-          "pubDate": "Mon, 21 Sep 2026 17:52:40 GMT"
+          "title": "Trump all'Onu. 'L'America è tornata, più forte che mai. L'Iran farà l'accordo dopo le midterm' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVU1BRUxBaExOQTFCVDVfeFF4SHlfcWRRUFJDZjJzZVFfTHppR1lMeHJSUDJETXBrcUlISXNOY0ctMVlzZDlQRG9fdkljMU1tY1F6STNidWNYVzZZVFpxcWpMT2JJbVhUdWsxamtwTkZkNHAwS0hxcThHdzVOWDlPdHBOOHRMTmlXMjI0MTZENlRuTWNleWNEdTlsNUJsdFRuRVh5eFVLaXZvN21ybnc1NGN1ZWxkbEtKSU9SUGkxZWxkMl9DcnJRMDRtbjU4YlhJbV93V0xmcHJ1ZTZHX0FUQTZHVzRpaEtFRUHSAe8BQVVfeXFMT0VZWnRCM0k4VFpwUm9vWFRjZTRfZzF3a28zN1dQbDZsZ3A4RGlwYVlhbFN6WkUtNHpiZzF6Q3ZWbXZSNUJNQ0JKdUo1c1BGS3NSRmlreVNYMjJwS1FVX1ExMFpqNVM2akxrTGVlOER0YnVpdDRsVktwVFRzX3BTUk03QXhyM2NmUjVoMnUwY2xKY24wM3J4OHNyY2Z6QTZsTEpBS3pBaWtuWnBMMGFJM0RfdkVYeFdaVUtCME9PWWloVkdLMkh3V05mUHlEZDJFSXg2VzRGczUyM0VrSzJJNDFSM1JORjVPV3RVVVJiMEE?oc=5",
+          "description": "Trump all'Onu. 'L'America è tornata, più forte che mai. L'Iran farà l'accordo dopo le midterm' ANSA Trump all'Onu, il discorso del presidente degli Usa all'Assemblea generale corriere.it Onu, Trump: «Accordo con Iran forse dopo midterm». Pasdaran: «Rifiutiamo contatti» Il Sole 24 ORE Trump, messaggio a Putin? 'Mettere fine alla guerra' ANSA Trump all'Onu: \"Chi minaccia l'America pagherà con la for",
+          "pubDate": "Tue, 22 Sep 2026 15:23:00 GMT"
         },
         {
-          "source": "google-news-it-top",
-          "title": "Mattarella ad Amatrice: \"La scuola è aperta a tutti. Stabilisce legami, non ghetti\" - RaiNews",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNY1Jyd0EtSHRzLWpyaDVBZ2ZwTm9YYnVpRFVyS285b3ExRVhTM1BhQ1I3Vi0yeGRWU08yNXpxQTNmYklVV1F1b0l6WUlsRTJHZE5IQ2FhUUJKbUx5OEVxSFN2enBuTGE4T3NzXzhrQ21nX2NfZ3dmSldOSlhuWEROYmJoS2s1Um1Ob2lZV19tS0ZGNVVseEpCNHZnUHV5b193UTZQc1FfMDN6b1kzbU8wb0NsdFBPZGJuWFBFZ05OOExzRHhkRXE0VTR2Wk9yalU0VXhjSWw4RmZ6ZENRa0dQWkI4UTdtTXB1WG1hbmV4NNIB9AFBVV95cUxNQ2hmWjkxT05VZHhZLWRsNEhaRE1Nb2ctX1BYSFZIUGVJYnBxYzAtM3NiemJhRWVJaXhIUHBJNnlHNGFreVlmODNZWk5PQTh6eFFGVGU3bTZmTmhSTFZLd05DYUFkejJvSzZmMXNZSUplU2RXUjNSRTZLd0VOb0t6Z0ZSYW41Z3Y1TXZKb1VoUWRoTy1yMnhEUEo5S2dNaFlNRkNTUVg3MWJOV1JNR3FtdjF4RnVUUkRMZjAzVTFQVzNBTnV1OFd1ZFRWLXRvRFMteG9UamtMcmJTSWxEeVVQYlJOVVVUQ0lzTnpMeWZZZ0phWTV0?oc=5",
-          "description": "Mattarella ad Amatrice: \"La scuola è aperta a tutti. Stabilisce legami, non ghetti\" RaiNews “La scuola aiuti a non creare ghetti”: l’intervento di Mattarella dopo l’annuncio di Meloni sul tetto di stranieri in classe Il Fatto Quotidiano Il Presidente Mattarella alla cerimonia di inaugurazione dell'anno scolastico 2026-2027 Quirinale La scuola secondo Mattarella e l'intervista al ministro Valditara",
-          "pubDate": "Mon, 21 Sep 2026 19:42:00 GMT"
+          "source": "google-news-en-top",
+          "title": "Live updates: Trump speaks at United Nations General Assembly as world leaders gather - CNN",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QSWtFbEVOdzVwcUVmc0ZvZmRyQ3BEQjhxcnlGRXBJckxwWTE5ak9OdVNBTkdiUUlVcm9nQlNiSVpyRFQ3bDNPWTdXZHRYeEdsRFhYR0R2VllkSGE3THdNbFowMk94NEF1UXpqS0NlRjhrYUZzUFQ5amx4Qno?oc=5",
+          "description": "Live updates: Trump speaks at United Nations General Assembly as world leaders gather CNN Trump says he faces a decision whether to \"annihilate\" Iran in UN speech Axios Trump’s bizarre social media blitz leaves world guessing ahead of UN address The Guardian UN General Assembly live: Trump, Qatari emir among speakers Al Jazeera Trump in address to world leaders at UN defends his decision to start ",
+          "pubDate": "Tue, 22 Sep 2026 14:31:00 GMT"
         },
         {
           "source": "ansa-homepage",
-          "title": "Mattarella: 'La scuola è aperta a tutti. E' integrazione, aiuti a non creare ghetti'",
-          "link": "https://www.ansa.it/sito/notizie/politica/2026/09/21/mattarella-agli-studenti-la-cultura-rende-liberi_af7c5db3-feda-43c4-abe6-d226da53196b.html",
-          "description": "Il capo dello Stato agli studenti: 'La cultura rende liberi. La nostra libertà è autentica se esiste per tutti. L'Ia non potrà mai sostituire il docente. Violenza sui docenti, a volte i genitori tradiscono il compito educativo'",
-          "pubDate": "Mon, 21 Sep 2026 22:12:53 +0200"
+          "title": "Trump all'Onu. 'L'America è tornata, più forte che mai. L'Iran farà l'accordo dopo le midterm'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/22/trump-allonu.-lamerica-e-tornata-piu-forte-che-mai.-liran-fara_8c73f7d9-8eb5-469c-8ae2-261fda345fc6.html",
+          "description": "'Il messaggio a Putin? Mettere fine alla guerra'. Guterres evoca 'lo spettro della pulizia etnica' in Cisgiordania",
+          "pubDate": "Tue, 22 Sep 2026 17:37:07 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Trump, 'sono convinto che l'Iran farà l'accordo dopo le midterm'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/22/trump-sono-convinto-che-liran-fara-laccordo-dopo-le-midterm_2a962c1b-3636-4041-ba47-dcd0f500ba94.html",
+          "description": "Parole del presidente Usa all'Assemblea generale dell'Onu",
+          "pubDate": "Tue, 22 Sep 2026 16:49:12 +0200"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "nucleare italia 2035",
-      "label": "Mini reattore nucleare in Italia entro 2035: Edison-Edf",
-      "n_items": 3,
-      "n_sources": 2,
+      "keyword": "arabia saudita gasdotto iraniano petrolio",
+      "label": "Arabia Saudita riapre gasdotto Est-Ovest, torna export dopo attacchi Houthi",
+      "n_items": 4,
+      "n_sources": 4,
       "category": "energia",
-      "macro_area": "clima-salute",
+      "macro_area": "economia",
       "richness": 3,
-      "score": 18,
+      "score": 28,
       "cooldown": false,
       "items": [
         {
-          "source": "ansa-economia",
-          "title": "Ddl nucleare al Senato mercoledì, probabile sì definitivo nel pomeriggio",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/ddl-nucleare-al-senato-mercoledi-probabile-si-definitivo-nel-pomeriggio_412e3672-96b6-4579-b6ad-1bb893738924.html",
-          "description": "Norma presentata dal ministro Pichetto per rifare normativa in materia",
-          "pubDate": "Mon, 21 Sep 2026 19:31:55 +0200"
+          "source": "google-news-it-top",
+          "title": "Guerra in Iran, le news. Riad: “Riapre il gasdotto Est-Ovest, potrebbe tornare a esportare in queste ore” - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ0V4TlZYQ0Y4YThWU3pDVHAwTzk1aURiRzZraExtMkNMaHBrMWNuQ1VBX1hncDUxZ3UxbnU5M1dpUUNIMUM1dWpHRGU1Z3VtMzhhLXI3RlNkbXpjd0NhOFFmb3JBTTdNSl9FMWJaVElpeDNyQjIxYkF3YkdidGpYMUEycURhYWY5UXBCN2FGeHp2cTdzcXZMY2pEOEc?oc=5",
+          "description": "Guerra in Iran, le news. Riad: “Riapre il gasdotto Est-Ovest, potrebbe tornare a esportare in queste ore” la Repubblica L'Iran propone agli Usa di riaprire Hormuz entro sette giorni se si allenta la pressione militare - Houthi: 9 detenuti uccisi in raid saudita su una prigione in Yemen RaiNews La finestra di Trump per l'Iran. \"Accordo dopo il midterm, oppure dovrò distruggerli\" HuffPost Italia Gue",
+          "pubDate": "Tue, 22 Sep 2026 12:57:19 GMT"
         },
         {
-          "source": "google-news-it-tech",
-          "title": "Il primo mini reattore nucleare arriverà in Italia entro il 2035: ecco il progetto di Edison e Edf - Corriere della Sera",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOd3RoU0lWX2Z4X0tXOWJ2RXVqV3BWcGV0QXdZdF95d0lkdUlFbGdVS01XRGd5czVnaHJGS0JISm1IZkgteG9zbGNfTXJwN1AtQUN2S1c0ZUlTamR1OXRhQlR1aHN5bnYwVGgxRW5aUXNMWmdLbTY4RzNlR045V0xKMVNSNzQwM0NZbmdSQ2pTZGtnWWpscEpGX0N1bEFTY09PS3RaT3huR2taTTIzT0FJeDZVRTFPOEUxbWVrWEtRSHA3OWhUb2FBY0FXQklRTWJoVlZVdEFiT2Jrd1J0T0J0eFM0cHRXNl82dHpzV2EtYVdLV2IyTThqRks1ZHNaMWJpb2FtUHJNNUtoaFN3LURrMldQYnQ5dGpHbVF5Q3hhcVBUSjDSAagCQVVfeXFMTVV6Q1RUZzBpM195SHNwNFotWnlhVEc1VVR0SDhjbExaUDNUS3pBWU1lM0NCUGk5X0V0b3RnU2FPRm9RN1pzcy14OWx5OHF0NFVKSWR3alJrVkR4UUcyS1dYNUdQZ2xnLW5nSk5NVGJKcFpheHdnRTF1M0pHWkUtRUN2YXlZSm5Ca1hSSE44VFlUbjlXSmJDUTRPUzRkaGJ3aFNCMDdfdkY4RnB6ZGx6dG05VE1MM1N2NHBXLW1yQTkzeklDVmdNUnZqN0xxNnY5WVRnT0xTZ2R5aUoyTENSMU9lYTNkZkRGME9SOTJaMmZvZTUtLWxjRThYLWhsS1drdkhlejA3dl9sSDVudVBLRXExNnh1OV9helFrYm9RX2JSYnpGOE9VOFM?oc=5",
-          "description": "Il primo mini reattore nucleare arriverà in Italia entro il 2035: ecco il progetto di Edison e Edf Corriere della Sera",
-          "pubDate": "Mon, 21 Sep 2026 06:10:00 GMT"
+          "source": "google-news-it-world",
+          "title": "Riad, media: \"Riapre il gasdotto Est-Ovest, potrebbe tornare a esportare\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQWxBb0c2UEYtbzRrSEF4SUxiOGdzX25CQ0FzRFpHUlVhYTR5ZjRLTndnU0JpcE1UVmZoVmpOMDRMdUNCUlk0b1ppYUFyVDQyR08zOXNlXzhBOVRGX3NaYTF3bm1zZzNQTjFQb05BSVdaOVNjRTBMbmdocWNPS3l3OEVtYVhvX0FCN2VzbEJlMEpCQjQ0aHBfZmxOZ9IBaEFVX3lxTE56bm1PdXNFQms4clpIbG9IRG5Dc1p6TnlwSVFDcWdsb1Z0NVBPUXdYZG9YTnFNUC1VZC15TkVYN0lGNzQzaF85WjdCaHBpVF84N1FDZ1NyS251emxnRHhtZ01WY0dibHNV?oc=5",
+          "description": "Riad, media: \"Riapre il gasdotto Est-Ovest, potrebbe tornare a esportare\" Tgcom24 Guerra Iran, media: \"Riad riapre il gasdotto Est-Ovest, oggi può tornare a esportare\" LIVE Sky TG24 Guerra ultime notizie. L’Arabia Saudita riapre l’oleodotto Est-Ovest dopo gli attacchi degli Houthi Il Sole 24 ORE Petrolio inverte la tendenza e passa sotto i 100$, Borse caute RaiNews Arabia Saudita verso la riapertu",
+          "pubDate": "Tue, 22 Sep 2026 11:28:15 GMT"
         },
         {
-          "source": "google-news-it-tech",
-          "title": "Bucci apre al nucleare in Liguria: \"Pronti a ospitare centrali 4.0\" - Primocanale",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX05xREUyNkhtaG1QY0RIWEVEYjdITFlzcDJyUDRhZXRGc3g2WEFSa0Nrb3R6SVB1ZWZ4d05IelZIeFpBWHlJTWxEQlJqQnhHM3RFVk5wTkI2UDhheGtXeUdxYmRqU0w0VnYwUUg1a0dNNjRyVTlVcGNCZGlkWFZLRUNQbDlRdHBfdE84UWQzd9IBlAFBVV95cUxPOVRmUGVDN2ZSWkFOLXhqLXluN1NlOTMtWGJWcE9yNG1ocXhmLTN6SXpTX21uTDVIaERKTllPVF9TQnhBc2RmSGF3M1BlUGVpY3FzUXZjdGpOMG5uX2l6UGdzcEk1clNaOUVDejFGanBKd1l3WXlQQXBVNjE1SEs0a3N3N2loWnN3aU1ibEV2YnhHYXJy?oc=5",
-          "description": "Bucci apre al nucleare in Liguria: \"Pronti a ospitare centrali 4.0\" Primocanale",
-          "pubDate": "Mon, 21 Sep 2026 15:42:56 GMT"
+          "source": "ansa-homepage",
+          "title": "Riad riapre il gasdotto Est-Ovest, oggi potrebbe tornare a esportare",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/22/riad-riapre-il-gasdotto-est-ovest-oggi-potrebbe-tornare-a-esportare_a7df8fa7-574a-489a-9a8a-61b5a7a9f1c2.html",
+          "description": "Reuters on line: 'Oleodotto chiuso dal 13 settembre per rischio attacchi'",
+          "pubDate": "Tue, 22 Sep 2026 13:23:52 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Guerra ultime notizie. L’Arabia Saudita riapre l’oleodotto Est-Ovest dopo gli attacchi degli Houthi - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWE1uS1JWOGxrazhZOXRocGtrck1EdWJLdllHYzFCcEFmQ2hwUnV2dzA5RjFLQUVyanRtNm8wZ0FOaFZjekFHV0NjY3R0ZlJHLUoyVnpza3YyZzVGc0hNdGI2eEd1N2taLU84cHlIZjN2ZUZFdHRETVAzenc2ZTFoU2pZOWZjQXVkazlYYWY2UEtrV3cycG5GNmpMUS02akxNd2ZocUVEVVhpZkxJNVQ5RGI5MzlmZkY2dllhcmx4UTM1T09jNU5MdjBsSy1Fb1kxN1dwanpPeE1WT1FIVDVNNTRB?oc=5",
+          "description": "Guerra ultime notizie. L’Arabia Saudita riapre l’oleodotto Est-Ovest dopo gli attacchi degli Houthi Il Sole 24 ORE Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Tue, 22 Sep 2026 14:15:43 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "ai rischio estinzione leader",
-      "label": "350 leader tech firmano lettera: AI rischio estinzione",
-      "n_items": 2,
-      "n_sources": 1,
-      "category": "tech-ai",
+      "keyword": "trump media cnn sospensione copertura",
+      "label": "Trump sospende media dalla Casa Bianca, testate protestano e bloccano copertura",
+      "n_items": 4,
+      "n_sources": 4,
+      "category": "tech-policy",
       "macro_area": "tech-ai",
       "richness": 3,
-      "score": 14,
+      "score": 28,
       "cooldown": false,
       "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump rompe con le tv americane: 5 canali smettono di seguirlo. E dopo la messa al bando di Cnn la Casa Bianca lancia la Trump Tv - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWC1vSFBQcE5RSGRIeTFEbTZlTE9VcXdDdUlybnZ1RGxORGR0TFBEMXJKRTZoeXBwTFRfV3pFSDRqS2RCTFB4MTNOdjBySk11VGo3M2FncWYwOWd4VEdqbDZnSDFWTDRzRy05eGRxRkN5eHp2Z2I0SHh3V3ZfZTI3b0xPWFk1N2FMb1p3LWM4cjQ0OHB3SmNDRldLWi1MUjdRQmFsclltWmpvR0dvX2tEUmJqTGZnbm9M0gG-AUFVX3lxTE56OFBHTFNFaWgzZWdLVThfMk1aSEYwajIwSzNUNWI2Rm9jcjhuZjd1N3VtZFQ1VHBwSkgxb0ZINHRGTk9IUTVJNXZhRmtlUWJWakloSXlGbXhUbUlDQjFRU1hVa3Ezc1RRN0FYQjViTUcwUXlHSmIxLTNzeE9fajQ0LTEzaXpHaFpNTTQ3d3E0d1U1UkFwZmtRRWVQWlhIWS1EMExWMTQxOG5UNzRPclRQNXNWZGNIVVZrNDdXc2c?oc=5",
+          "description": "Trump rompe con le tv americane: 5 canali smettono di seguirlo. E dopo la messa al bando di Cnn la Casa Bianca lancia la Trump Tv corriere.it Wsj, 'Trump ha valutato di allontanare tutta la stampa dalla Casa Bianca' ANSA Negli Usa è scontro aperto tra i media e la Casa Bianca. Ecco cosa sta succedendo Avvenire Nasce Trump Tv: streaming h24 dopo il bando a Cnn e Politico Il Fatto Quotidiano Il tele",
+          "pubDate": "Tue, 22 Sep 2026 08:33:05 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "First Thing: News outlets suspend coverage of Trump in escalating media access row - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYU94X2piUE5zU3htamxoeXJRNDRrem9lYW04Ulo1MFYwcXlMWTRPQWdwdWdkOFBnS1JmQ1FZY0J6MTdlUFBkMHRHSXd3NzBBdzBqTGN3Y0wwaHhQSDBqQmxnMkpkNmFpOTVzd0ZnVUxYYUxpZ20xdXZtcnJUMXpDbHZVLXNDaXROUnpabGxjMFEyaHJrSkVXZlpUbEZnOU1JOFB5SzlWNUw0eF9VRWMyanRB?oc=5",
+          "description": "First Thing: News outlets suspend coverage of Trump in escalating media access row The Guardian Trump Faces the Sting of a Media Boycott After Press Pool Withdrawal The New York Times ‘Literally state-run TV’: Trump launches YouTube channel amid boycott by US networks The Guardian Trump’s press ban prompts widespread solidarity — and fewer images of the president CNN Major TV networks decline Whit",
+          "pubDate": "Tue, 22 Sep 2026 11:43:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Wsj, 'Trump ha valutato di allontanare tutta la stampa dalla Casa Bianca'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/22/wsj-trump-ha-valutato-di-allontanare-tutta-la-stampa-dalla-casa-bianca_1a99d14f-39d0-4205-8808-ea7cf4d5b0dc.html",
+          "description": "'L'ha riproposto anche nell'ultimo mese, sconsigliato da alcuni funzionari'",
+          "pubDate": "Tue, 22 Sep 2026 16:50:38 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Major US outlets suspend shared Trump coverage in protest at media ban",
+          "link": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
+          "description": "Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House.",
+          "pubDate": "Tue, 22 Sep 2026 08:17:15 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "groenlandia basi militari usa",
+      "label": "Trump annuncia investimenti e basi militari in Groenlandia, accordo con Danimarca",
+      "n_items": 3,
+      "n_sources": 2,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 4,
+      "score": 22,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Trump, Greenland, Denmark to sign deal in bid to end Arctic standoff - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTUVnSnczUDUwNlROQS1UX3NrWUpFTjVMdzVxSGt1UWQ5VmdtVksxRml1bmZLWUFLa25VbEtyaHZfSjRTQ3NfVjE2c0xKM0ZUUzhCX3pfR1hTVVVRSl9yMFUybXlRa05HaWNUd1p2MGpOSmxvaS1zU0M0ZXNtQVU3UjkyOFRxZFFlZ1hSdHNaY2kyd0hoa1RwMkRZYXRwcW5rRjNMZDU1SV96dw?oc=5",
+          "description": "Trump, Greenland, Denmark to sign deal in bid to end Arctic standoff Reuters U.S. strikes Greenland deal for 'permanent control over security,' will send forces to Danish dogsled outpost and reopen Cold War base: Report CNBC Let Greenland be free of both Denmark and the U.S. | LETTER Miami Herald A timeline of US President Donald Trump’s interest in Greenland Pioneer Press Where is the US opening ",
+          "pubDate": "Tue, 22 Sep 2026 06:47:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Trump firma l'accordo di sicurezza con la Groelandia e la Danimarca",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/22/trump-firma-laccordo-di-sicurezza-con-la-groelandia-e-la-danimarca_cb9e8d56-3177-459b-ba6a-cc650ae780c1.html",
+          "description": "A margine dell'Assemblea Onu",
+          "pubDate": "Tue, 22 Sep 2026 17:48:29 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Trump, invierò subito massiccia presenza militare in Groenlandia, costruiremo 2 basi",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/22/trump-inviero-subito-massiccia-presenza-militare-in-groenlandia-costruiremo-2-basi_dc414f70-561c-4ea3-91a8-c2f299595446.html",
+          "description": "Gli Stati Uniti 'cominceranno a sviluppare una significativa presenza militare'",
+          "pubDate": "Tue, 22 Sep 2026 17:16:13 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "intelligenza artificiale estinzione rischio ricercatori",
+      "label": "350 leader tech firmano appello: l'IA può portare all'estinzione come le pandemie",
+      "n_items": 3,
+      "n_sources": 2,
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 4,
+      "score": 22,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-tech",
+          "title": "I signori dell'AI hanno paura. Ma cosa spaventa davvero i miliardari Big tech: l'AI fuori controllo o il crash finanziario (con l'aiuto della Cina)? - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPcjktekJVYWpWaGxDQXRRVTZyU0c5dWFOTk9zRUE3amprb1VTUzBTekk1czdsQlJJV2VOb1ZNT3Q3Y3B4NjlsQ1JGU294TzhfRXMydlBfcWtjTFZ3TUp5Uldsc2VpdkktSkpoa19ULVRiXzd1WEFnbWxseDBVVExicFRZeXgyVmdUcnBiWWxTUnZUWGgwaHBpM3dxcFdpTnI4Q2FkTWZEakZtNkNCR1NkRkJYU3doQUx1REk3SE9acWFJNUNYRnR4SmpfeW83d1dWMmM5cDVmTFJXeWhHRm9OdTE3VW5KYWdoSFprS3hOV3E4eWMyQ0JQNnk2N3dVSVhWMm1RNF92MndhQ2JFcjk4N2JBQVNRMVVXRWtmMWZteWxpV2l0SWpOZlZvTlBRVkZuVE50NTd5WHhHTzRJcktld9IBxgJBVV95cUxNc3FIREdtRlFYT3Uwd2JqVkxERVhSZHpNcmFhNjBfUTNLdjJNcm41YnV4QTJLcTFNS0RFYXZKRFRLaGpsT1BGYlVYYjdqVndnXzd4c0JEb3VJYlF3RWVpa1c2Tjh0U2NOVVJJeWtHcnlUUl9ZcEw5blcyd3ZnN3VCME45VWt5SFRUUVFfeF9vbURsQlZPbVBmTUMtMFE1c29Kc1FfYmxERG1mMXc1TWF5VWhMM0NUUnRzd2JTeFR5b3hubmtnQVFTRF9oRjFWVXRMS2dCdHJmTDRvM2RjLUVkd3VVTmZ5WWR3dWxXeWlGQzZHQ0N3YTJwMWdzTGFhY05hU1JYZkxjMW9ubEZ3Um5RcGxDSTFZWXNITFV5ZmtTd2R0OGhRT0h2OTkyVzNoa1NtNnpVc2U3dHNranN0NHRPQlVKSkhkQQ?oc=5",
+          "description": "I signori dell'AI hanno paura. Ma cosa spaventa davvero i miliardari Big tech: l'AI fuori controllo o il crash finanziario (con l'aiuto della Cina)? corriere.it",
+          "pubDate": "Mon, 21 Sep 2026 07:27:00 GMT"
+        },
         {
           "source": "ansa-tecnologia",
           "title": "L'IA può portare all'estinzione, l'allerta di decine di ricercatori",
@@ -303,57 +198,134 @@
       "clustering": "claude"
     },
     {
-      "keyword": "zelensky trump negoziati",
-      "label": "Zelensky-Cia e attesa per incontro con Trump",
-      "n_items": 1,
-      "n_sources": 1,
+      "keyword": "xi trump vertice ai commercio",
+      "label": "Xi e Trump a vertice a New York: tensioni su AI, commercio e Iran",
+      "n_items": 3,
+      "n_sources": 3,
       "category": "geopolitica",
       "macro_area": "geopolitica",
       "richness": 3,
-      "score": 13,
+      "score": 21,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Xi scopre la parola «distensione» prima del vertice con Trump. Con una linea rossa (e un «regalo» in arrivo) - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSkphODNRbzRfR3JmZmdhaS1TVllXZ1E4SnZXRGpFblpoV2pWbUZUOHZaNHk4Q1dxcDJUZkFxa09CN2pZTTM0VlFZSE1RaGhSSU9RSU0zR0lKOUZBOWFTYmFacDdabFE5S2VEM3hNd2JwTXhfTWlBOW1lYkFLNTJkaHpRUy1jenB4UGZhM0NxWnJ4TjBfLTctNE5nTThRTmp3YTN0dUk1anpkZ2Q1d0d4cVFZLUlIY2xqQkVfNWlUU1NwczjSAcgBQVVfeXFMTWRmT3lMZERpSGVxSko4OUVqWWVTakFyVUFEQktmLThiQW1XMUVuS3Y2X1hZSTBibmN1OHczUVlPR2J3bmx3ak9yS2dGUFhUcUtPY2RNaXdLdnpEaHozbUxIb3NvNEd6YW5XMXJPNV85RDRBdldIUjlQcHhwRlYxR0prcnF5dW5QU09oZHdzN25ZUkdndDdKNlJBUHdWTkwyVXR0Wm9iNjhzXzgwQXFqTDFRdG12UEg5YnF6bERGWVRBYWxib1dSUks?oc=5",
+          "description": "Xi scopre la parola «distensione» prima del vertice con Trump. Con una linea rossa (e un «regalo» in arrivo) corriere.it Pechino conferma la visita di Xi negli Usa dal 23 al 25 settembre ANSA Usa, Bessent: \"Positivo colloquio con Cina su commercio e IA\" Sky TG24 Borsa: future Ue in cerca di direzione, Brent torna sopra quota 102 dollari Il Sole 24 ORE Wall Street cauta in attesa dell'incontro Trum",
+          "pubDate": "Tue, 22 Sep 2026 09:32:32 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump and Xi see tensions flare over AI, trade and Iran but still seek stability - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUXNoR2dST3VwYWoxa3VaUVVGNGZhZ1lJNzNudG9pRDBBUkUzb3lyTlEzczRlb1RlcDVfQ3VZYm1hLXJaS2VSeUx4amxCY0IwNm9pOEZaeG9qLUZFVm1GNkJjT08wbnZpRnFLNWloSWc4QWUzZnlHS1RQTlQyQTNKLW00VkthZ29MRDc5aWxLTmRxa01CMUc5T1ROV3VFYUpE?oc=5",
+          "description": "Trump and Xi see tensions flare over AI, trade and Iran but still seek stability AP News See more headlines & perspectives on Google News",
+          "pubDate": "Tue, 22 Sep 2026 09:02:00 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Washington, vertice Trump-Xi Jinping: IA, commercio e investimenti sul tavolo - Il Tempo",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaUNBZlc0cU40bnQ0aUsyNnV1WURBMHYzV0lCQ0czUmpMd19ZWmhIMTNmRHFSQU1GS0xHUjhtYVdGTkw5cUU1TWg1OFBvNy1PTWoxYnY5SFVIN1JhSVdzSldObVJER2FxTzVTQWtDZ2lJVHZ2Y0FLSl94ZWk4VU5hbHNXZ1hQWU1uNlZqa2VfVlBleUx0N1YtT0YzVlpKam8zazBCZWNySFFmVlY2d2pwNkxPRU8wenVmaWdqdHVIbnZDTTlLSHZlSzBTSTl5Tm14dGhfOHRB0gHbAUFVX3lxTE4xdGV1MUR2N285WUhqN1lrWkNrWFlPLXhTaDZnRUl4ZnJ2cGptNV83Q2JhamlTUzRnRVM4WUl6d3VMZUVDVXB4MG9YNkxrcXdTbGhTUUtFLXZ1cldaNGVsQ3lGckp2MERVdnJYX3V3aHQ2UE5YSGFKdHdTU2Z2bHFXQ2JzbkhlSWs4RS1OcjcwV3lvaElWNDN3WDk4LXBZckhpc1BoVVE1OWJ4a0Z4dFBZQ1pLU1U4dWR1anAzQzYtMDFPRjFzaEtwVW5jMFlyZU1mNTFuVjBQVEFaUQ?oc=5",
+          "description": "Washington, vertice Trump-Xi Jinping: IA, commercio e investimenti sul tavolo Il Tempo",
+          "pubDate": "Mon, 21 Sep 2026 19:11:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "ucraina russia guerra zelensky putin",
+      "label": "Trump a Putin: \"metti fine alla guerra\", oggi incontro con Zelensky",
+      "n_items": 3,
+      "n_sources": 3,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 21,
       "cooldown": false,
       "items": [
         {
           "source": "google-news-it-top",
-          "title": "Guerra Ucraina Russia, Reuters: Zelensky vede capo Cia. Attesa per l'incontro con Trump - Sky TG24",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRlJVWUpNSDcwMG5kNWZlcFV0bEVSaHRCUFhBSlVoeVllU1VGUW9iOW1HZVk2V3BrWDdXQlZIMzJQb0I3MzZEaTdTQXpOVWN3WW12ZUtkRm5oU1pNNTJibTMzYUFtemRUTkdTVVBlZ2pIcVdxUWVqX1l4eXYwb21DaEt1dXA0N1dD?oc=5",
-          "description": "Guerra Ucraina Russia, Reuters: Zelensky vede capo Cia. Attesa per l'incontro con Trump Sky TG24 Zelensky: \"in corso dialogo con Trump su idee per avvicinare pace\" - Zelensky incontra il direttore della Cia Ratcliffe RaiNews L'inverno del diesel. Il filo che lega i droni di Kiev, i barili di Putin e il gallone di Trump HuffPost Italia Trump: «La Russia ha perso il controllo dell’industria del dies",
-          "pubDate": "Mon, 21 Sep 2026 22:04:39 GMT"
+          "title": "Gori a Conte: \"Il M5s cambi linea sull’Ucraina se vuole accordo col Pd. Chi non manda armi tifa per la resa di Kiev\" - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdXZSZVJlOVBtVDdmMzVuMkZuZGhtLXNtdkNZd2s1VWNPZmdoZ0RFVlFWNmpBc29KRmZTYWpVWFVfTTdUUUp1UW8tS3RXcjVGTGFxUURsYktTeVBzNnFtU0FtMVZkdXJRZnM2ZGNmWnFTc25iZTYxTU55ZmV0WGx4N3FyaV9KMVF2YnNPR3dBczI?oc=5",
+          "description": "Gori a Conte: \"Il M5s cambi linea sull’Ucraina se vuole accordo col Pd. Chi non manda armi tifa per la resa di Kiev\" Il Fatto Quotidiano Guerini: “Per sostenere Kiev essenziali anche le armi. Niente veti per l’alleanza” la Repubblica \"Elly, abbiamo un problema se Conte su Kyiv è sovrapponibile a Salvini e Vannacci\" Il Foglio Campo occupato Conte agisce già da capo della coalizione senza aspettare ",
+          "pubDate": "Tue, 22 Sep 2026 13:15:05 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Ucraina-Russia, le notizie in diretta | Trump: «Putin metta fine alla guerra». Oggi l'incontro con Zelensky. Raid russi su un'azienda a Dnipro: quattro morti - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa0JILVZhYnkyRmRaZTk4bmVnR1hMME56YTAwWjF1a19TREFsdzJ2ay1ma2JUQjZ5Z3NIVUQ4MVdoOTR3X3Y5dHpOZ2g4eldJbTN6cXdfdXJuRmx2N2xoM0hOOGhFZjFVbmVfaTltMXc4a1RvTXZ2VWIxWTNYOHB3LWZDbjRpcmtXMUl2NXFqMkNXOUJnODdXbHFpN0VQZ9IBowFBVV95cUxPZVpRM0ZzUkQ5V3pLUlluWDdMRTVGa2xPSXFNejhMaVhNZzRvNVhIbmVJejRUMTBzTDR3UU13bzZ6VDNpbHVyQVQySGYycUhpaFY5UjBpMDM4eGs1R05qdU5wdjZCSVA5aUZjcmk5bGVfZnh1UnpLNDdsdjdwWDg3eFpPZUJSUTB0dWVRRjlBNjdXazdBQ2JkNS1kLXFsSDFhY2Uw?oc=5",
+          "description": "Guerra Ucraina-Russia, le notizie in diretta | Trump: «Putin metta fine alla guerra». Oggi l'incontro con Zelensky. Raid russi su un'azienda a Dnipro: quattro morti corriere.it Maxi offensiva di Kyiv sui cieli russi. Tra le vittime anche bambini vaticannews.va Russia, attacco ucraino sul voto Zelensky su X: “Vedrò Trump” Il Fatto Quotidiano Europe Today: Merz di nuovo sotto pressione, il maxi atta",
+          "pubDate": "Tue, 22 Sep 2026 15:38:38 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Trump, messaggio a Putin? 'Mettere fine alla guerra'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/22/trump-messaggio-a-putin-mettere-fine-alla-guerra_af67565e-17d1-46fe-ba39-945e28618cca.html",
+          "description": "Lo riferisce l'agenzia Boomberg",
+          "pubDate": "Tue, 22 Sep 2026 16:02:20 +0200"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "poste tim opas 67 percento",
-      "label": "Poste al 67% di Tim nel primo giorno Opas riapertura",
+      "keyword": "italia deficit infrazione ue",
+      "label": "Deficit 2025 al 3,1%, l'Italia resta sotto procedura di infrazione Ue",
       "n_items": 2,
       "n_sources": 2,
       "category": "economia",
       "macro_area": "economia",
-      "richness": 2,
-      "score": 12,
+      "richness": 3,
+      "score": 16,
       "cooldown": false,
       "items": [
         {
-          "source": "google-news-it-business",
-          "title": "Opas Poste su Tim, al 67% nel primo giorno di riapertura - SoldiOnline.it",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbUoyQmlOSFdqeVl4d3hpWHhQbHlEVkhWOF9EWlQxTVZ0UmFqZzdBd2lkcjlHRFQ3NTJOdGcxZ3VmaVJmZFBMNTk3NDZPLU9SVmpkbzlRR2RKZnpiM0lFMVIxQ29fSllYcmdrOG1uYUZjU3JnLWZHcEdOY3I3YjVOUG00dzlPYTlnSmxYY0ptVDFGWjVHSW1UWkZPcExHNFJLR0JUWU0tWU1kUTlkMmc?oc=5",
-          "description": "Opas Poste su Tim, al 67% nel primo giorno di riapertura SoldiOnline.it Poste-Tim, l'Opas ai tempi supplementari: l'obiettivo di raggiungere il 90% per il delisting. Cosa c'è da sapere Corriere della Sera Poste in Borsa sale dello 0,5%, riapre per cinque giorni l'offerta su Tim ANSA Tim, ai manager 36 milioni tra cash e azioni con l’adesione all’opas di Poste. Ecco quanto incassa il ceo Pietro Lab",
-          "pubDate": "Mon, 21 Sep 2026 17:00:00 GMT"
+          "source": "google-news-it-top",
+          "title": "Istat conferma deficit 2025 al 3,1% del Pil: resta l'infrazione per l'Italia. Giorgetti: «Prendiamo atto con rammarico» - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONWlsUmhtWTAyU0doSGpieDc0OF9ySkRkWUZ0MElFbXJRSnViaDdsVE5tSTNXUW9tTFBWVTNyMzU3S052ZXNzalQzb0FNSHZuMGIzWjhFdkFWRkNpaEJqN2d2cUZSMWJHMW9ETGhSRFNHVjBmcW9VMFNJbld3Qi1EV1JYYmQtR3hKQXVzc3NxbjZ0bmV4VGVRWjFjNFg1UEl5Z1pORC1tTzIwNHBTLVVTcW9fY2ZWeVhLRW9FQ243c0g0dmcwMzFvcmItZ3Y1VnVQMFFYRHdITHVKX1JjOUh4R3RteGlDU3NGMWhxLXVoMEhIX1ZmQlFvUmRGQWhGUWM1eFlZbw?oc=5",
+          "description": "Istat conferma deficit 2025 al 3,1% del Pil: resta l'infrazione per l'Italia. Giorgetti: «Prendiamo atto con rammarico» corriere.it Ue, Procedura d'infrazione per l'Italia: cosa significa e quali sono le conseguenze (e perché preoccupa il ministro Giorgetti) corriere.it Pressione fiscale ai massimi dal 2015: +1,3 punti con Meloni Il Fatto Quotidiano Giampaolo Galli: “Ora una manovra molto stretta ",
+          "pubDate": "Tue, 22 Sep 2026 13:59:49 GMT"
         },
         {
-          "source": "ansa-economia",
-          "title": "Poste sale al 67% di Tim nel primo giorno di riapertura dell'Opas",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/poste-sale-al-67-di-tim-nel-primo-giorno-di-riapertura-dellopas_1d683d24-80af-45ab-ad94-424b742d9acc.html",
-          "description": "Aderisce all'offerta un altro 0,4% del capitale del gruppo telefonico",
-          "pubDate": "Mon, 21 Sep 2026 18:02:03 +0200"
+          "source": "ansa-homepage",
+          "title": "Deficit 2025 al 3,1%, resta la procedura di infrazione. Salvini: 'Serve un maxi scostamento in manovra'",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/listat-conferma-il-deficit-2025-al-31.-rivisto-al-rialzo-pil-06_bc5746d2-787c-4dad-b9b8-6fdd14cc3876.html",
+          "description": "Rivista al rialzo la crescita 2025, +0,6%. La pressione fiscale al 42,9%, in aumento dello 0,7%",
+          "pubDate": "Tue, 22 Sep 2026 17:01:56 +0200"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "alzheimer prevenzione piano nazionale",
-      "label": "Alzheimer: focus su 14 fattori rischio modificabili",
+      "keyword": "pandemia prossima mondo impreparato allarme",
+      "label": "Commissione internazionale: il mondo è impreparato alla prossima pandemia",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "salute",
+      "macro_area": "clima-salute",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-science",
+          "title": "\"Il mondo è impreparato a una nuova pandemia\", l'allarme degli scienziati﻿ - Adnkronos",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRmVsMHQ4UFhoN0tSQVp6S0tNZHdGTUkzc29qVVhFSjd5MjhyWFd0MG14LTR2SFNRSkxqU0ZKZ2dMSmdoRUl3WlNOaWJ5bFViY3JoMFJnNG43ZGhDNldMYV9lUzdrUEl3SDJ6TUp3azBSS1IyY2I1Yjk0NFExRXFMN19NTjlRQi1WVFkxZmtSNndVbU1FUVlHOUxNWXdieG1B?oc=5",
+          "description": "\"Il mondo è impreparato a una nuova pandemia\", l'allarme degli scienziati﻿ Adnkronos",
+          "pubDate": "Tue, 22 Sep 2026 10:58:00 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Ci sarà una prossima pandemia, e non ci troverà pronti. L’allarme di una commissione internazionale - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNy1Lc1ZxdmVlWkNHNmNXZk5MQktXYzBOVjlqZTBsN2Ntak90MVNnenRGWFVHSlREd19zNjNHb1BFcU0wWXIyYXpBNDBBNVZTTFhkQ0dxUzBFT0dpdkcxVmpLMEtsVDRBcmhuem1BclZxakFFenhVeGVodFR3SDBETUpjYmowVHYzc3FsZmJUbmwwdlEyMUl5N0NsMHp4ZDAxRGtmajJLZURGR0N4SF9MckstVlpiSms3TzE4dDR3TUF5NWtzNWtCdGRxcERHcnF5eEdGbC1iZjVfaTY0Ti11b1Z6cm5mTnlUVk1hWXJn0gHzAUFVX3lxTE5FR3pTbU9jc3lacEU1aTFid1hPamlWcTJqY0k0cWllYWRhNmRYc0FhWUkzYm5ZV0tHUzRkSVYzN290ZFZUcGdCNG5uZnN2NVdJNHQ4X1ZFUk0tM1pnSEJWelhMT1pHdUQ0SW1XMWhZaEZZVG1VakdzODBqZDdJanVkOWxMWE53ZGl2V0w4UGtoeTlqUzBYYlkyRTBOcFhGbDRBOEZYWE5VYnV0Nm9iY0lUNEwtbjBQOC1qd1kzYmlFNmhLUENGcmY5Qi1GY21Kc1V4ODZJZlprWWl2LWlwYldsOHdScWlpaFA2VmpYSkxFYnRMbw?oc=5",
+          "description": "Ci sarà una prossima pandemia, e non ci troverà pronti. L’allarme di una commissione internazionale la Repubblica Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Sun, 20 Sep 2026 22:02:29 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "autismo infezioni gravidanza rischio genetico",
+      "label": "Autismo: infezioni in gravidanza e fattori genetici nello sperma aumentano il rischio",
       "n_items": 2,
       "n_sources": 2,
       "category": "salute",
@@ -364,52 +336,24 @@
       "items": [
         {
           "source": "google-news-it-science",
-          "title": "Alzheimer, la malattia che ruba i ricordi: 600mila gli italiani colpiti - RaiNews",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMnRNNE9sWkt0SnEwSjM3eUFYRVZEYTFfWmNQUUtOQ1ZJTEVEZzhDNnF4R1JNY29HSHBCUHMxRGhjMm91X20tV3RRdDdEcWowMFdJUXpDdEV1MG1XNXJiMUJNeWJYUDhQWlZSSEo2Q1EwYzhlVkQyT1ltWWJnT1daNUpYWHlJRDg0TVdHM3htZkIzcTFUdzhVTHRUTDhRU290Q05tZ1RvcmhGaS14N1M2Y3RGc2dTbm1oNDZUclhVY2tER1JLTlR6MXRYbEc0amk4U0RxNUUyV3d5R0JDTXZCWF9ZLWVjSkV5MzJRcTZrbDkydlVDU3fSAfsBQVVfeXFMUDBTanBEYXZLUngzVnUxendnMHVIVVVrbzJCdDhqQ2daaXUxSjJvMTlzZHRfZHJ0WFZGcW4ydjh6WGs5NXUzZ1pvckNobWpIb1dUdnllaXA0Q3J4MExZcE0yRWtzTWtBUm1KenpQdlU4QzQ4czI4STdQNmUzcUp4RHRnSDA4WXNKcm9IUEJuWWlTNi1meDRYalhRSEtma2FIR1BzOWk1TmlRckl6a00zODRUZkhkS0o3RF9DellELUZ0Wl9BQkpSRHp3a1ZkUUNMbjRzYWExcHhVMkJ5WEZaWTBNVXJ3SVRtQXU3SHdmRmhJem9pOWlZek9jdHM?oc=5",
-          "description": "Alzheimer, la malattia che ruba i ricordi: 600mila gli italiani colpiti RaiNews",
-          "pubDate": "Mon, 21 Sep 2026 12:11:00 GMT"
+          "title": "Autismo, una parte del rischio può essere scritta nello sperma prima della gravidanza: cosa dicono le nuove ricerche - Mondosanità",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOT2pRMFQzVFJ4YXR5SUhoRHFsVlZTQ3Z2R2h0Q291N2lxdXV6enJyWVhRUmVIMFJLdUJBVXFDYVdpMWFLdXdZSVp2OXZZVlVlUGR1UDZSZE9ZX1FkblkyeU1jTTJZLTJjem9ud0ZKVXNpekZ6MmlGU3RYOTFLT1N6Z1E3VXVZYmktVWc2ZDNfekNqV0NlWW9sZ0MxNVdwbFlxSlpLemhtN1g5UnZDMndFQ0JXRUxnWnYtMDNoRjVJbWZfS0FLZDZoT29hUm4tWm5lUkxxNmRkeHVKNi1GX19kNzJBM2VqMmRMLS14YnYyNFBWV0dqN19mOWFMTk9YdkFsWGx0Qg?oc=5",
+          "description": "Autismo, una parte del rischio può essere scritta nello sperma prima della gravidanza: cosa dicono le nuove ricerche Mondosanità",
+          "pubDate": "Mon, 21 Sep 2026 16:38:36 GMT"
         },
         {
           "source": "google-news-it-health",
-          "title": "Alzheimer, si punta sulla prevenzione dei 14 fattori di rischio modificabili. Verso il nuovo Piano nazionale demenze - Corriere della Sera",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNT3I1LVd5OTVqajEta3VoVEhMZHQwWXJGX21nTEl2TnpuNEloTnQ2U1Bpbnlna3IwaFVWTU9PSkpCcXc1dC03U245V21YZDVLcWMzUmN2SkpOQlNNVlZDaGJaVGtwQ3NQNlRQbS04SHdGTXNYOURTNFFuaUVOX3BNNHRiUXVGaVRxWGhzc1FhUFU0elFYWkhsWUtMUzJGTW1LMGtxWW9QcTc5MXVYa1VMck91Qkk5ZFlwRjl0WUtyQ3FoTjBiejB6M1IzQk1YQnRPMFlZWXM1N1NyRnJhWEEyRndvejBqbWh1LS1OLTFtcVEyRHV3a2xHT0Z1S2RyeTNYRWJEdENyQ1dRckhfcV9jLTE0WjZEZzhwTXhrVU1SN1oyWkZDT3YzRWtUN2VLYnlVMF9fZnVEaHlQdi01RlHSAcMCQVVfeXFMT0lfbHpMTkwxdFZWaUFIeTYzZlV4M2FhMzkzckJabUpMZUl3UDJveW5wTkluUHdzcGhvb0JDQWNQV2YxaVA1eGsxQjctajg5dkxVMFZydDRQZjZwNXZKdG51MXJoeVpLVVV4TFlZVUdRZHBlb3JvV1AzNmhnYnZ2RU5SM1BRRUJOTUM3ZjFTVElXRWRHSFM2T1B0eTVEaHhaUFNyN1EzOXJzYzMtRzc0dWxzaUtBODJ0WUJzdzd1TXlpWXNoSXc2VkxXWjloVXJFVHhGLTVXWDhlT3hhM2hTNUIwQzhwYjJERlI4OGZvT25LeVJoY3NrdFlHYnc1emZaTmdCWDNZaExnRFdqb3dScTd0NG82TzR1TEpyajlXRGVlakRFUk80VWlLZXBUcktxWFFzT0JjZ2xRTFVkdVhMYzRFeVU?oc=5",
-          "description": "Alzheimer, si punta sulla prevenzione dei 14 fattori di rischio modificabili. Verso il nuovo Piano nazionale demenze Corriere della Sera Alzheimer e demenze, al Ministero il confronto sul nuovo Piano 2027-2031: la sfida è trasformarlo in servizi sanitainformazione.it Giornata mondiale dell’Alzheimer: «Sostegno ai caregiver» L'Eco di Bergamo Alzheimer, Schillaci: «Nuovo Piano con fondi freschi in m",
-          "pubDate": "Mon, 21 Sep 2026 13:23:14 GMT"
+          "title": "Infezioni in gravidanza associate all'autismo, lo studio - Adnkronos",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWExnRElZUkhLSmNBcHhKVkFBM0NyN00xdjdTUllzUWVlT0JsVzY5S01WVzBZN0p1Nk8wNTB6SVV5Y2JPYVlyazhfTTVSZVdkV0JZMTNmOUdiRXlLMFdEM2NvdjlIQjU1SVdsMGRUVzE0Y0NpenExa2Vjc2RlZTBDcTRZckl3ZUFQRzNDX05RSFRWQ2RuRXNDUkVEYktEVzY2bGpR?oc=5",
+          "description": "Infezioni in gravidanza associate all'autismo, lo studio Adnkronos Autismo, una parte del rischio può essere scritta nello sperma prima della gravidanza: cosa dicono le nuove ricerche Mondosanità Infezioni in gravidanza aumentano rischi autismo e disabilità intellettiva ANSA Toxoplasmosi, rosolia e citomegalovirus in gravidanza: rischio più alto di autismo e disabilità intellettiva sanitainformazi",
+          "pubDate": "Tue, 22 Sep 2026 05:19:00 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "sanzioni russia ue rinnovo",
-      "label": "Ue rinvia ancora ok al rinnovo sanzioni Russia",
-      "n_items": 2,
-      "n_sources": 2,
-      "category": "geopolitica",
-      "macro_area": "geopolitica",
-      "richness": 2,
-      "score": 12,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-top",
-          "title": "Ue, slitta l'ok al rinnovo delle sanzioni alla Russia: martedì nuova riunione - Tgcom24",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOGtFVl90Y1NEV0gxNmRiN3RmMWFKOGVVVjdKaUxWVFFQa3hGeGNNSDlGUkFRdjNYclA4YlBnTXV6WWxhZlRkLXN0Ul90U0FZajdfLXh0SFRtNGZwdjNGbmhmYUo3ZUZGTjlhOEVfR1FWcklwNXhmaFJVWnV6RDJfWEFkN2VHaU5PbWxodkNqVkVERHNQQ3Q2ZEVDNnVST0JYc3dNYnNMbzRqNk11YkxOTnpPZGhidjhDTURBcEtYYjRCYlQwaFRDaGJqbE5UX2M1Z2RF0gFoQVVfeXFMTmVYeXQ2aXdwQXhEdXdTSlFHY0J5QWlTOXd2Q0tYWFBENlB3TGUyUVI4c0JIRENTUFVZdm8tSnhhREFyX3lwU05Jc0NkMUUxSmtxbS1VRVl3aGs3Vzg1bTB6eTlCTmpaTlI?oc=5",
-          "description": "Ue, slitta l'ok al rinnovo delle sanzioni alla Russia: martedì nuova riunione Tgcom24 Ue, slitta ancora l'ok al rinnovo delle sanzioni, domani nuova riunione ANSA Accordo Ue sulle sanzioni alla Russia per 3 anni. Salvi due oligarchi, l'ira di Kiev (di A. Briganti) HuffPost Italia Perché le sanzioni europee contro la Russia rischiano di scadere? Corriere del Ticino Gli ambasciatori UE concordano di",
-          "pubDate": "Mon, 21 Sep 2026 20:37:30 GMT"
-        },
-        {
-          "source": "ansa-mondo",
-          "title": "Ue, slitta ancora l'ok al rinnovo delle sanzioni, domani nuova riunione",
-          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/21/ue-slitta-ancora-lok-al-rinnovo-delle-sanzioni-domani-nuova-riunione_ddff3938-d7be-468d-9c9a-e7b63f6101ae.html",
-          "description": "Le misure contro la Russia. Convocato alle 8 di mattina il Coreper II",
-          "pubDate": "Mon, 21 Sep 2026 22:03:47 +0200"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "groenlandia trump accordo",
-      "label": "Trump-Groenlandia: Trump ottiene meno del previsto",
+      "keyword": "ue sanzioni russia rinnovo",
+      "label": "Ue rinnova sanzioni alla Russia per 3 anni, Kallas chiede più pressione",
       "n_items": 2,
       "n_sources": 2,
       "category": "geopolitica",
@@ -420,101 +364,136 @@
       "items": [
         {
           "source": "google-news-it-world",
-          "title": "Col nuovo accordo sulla Groenlandia, Trump ottiene ciò che già aveva - Sky TG24",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TWjF6ZEhreWFwTjF3T1dydUVpOS01b25iNDZWaDNTV245NnFPdEhDdGpVbExqUmFuSEZEMXBKVlBaWXJjOC1mNzNnY0ltelVJWVlKakF0SjRWSHdrQlAxaWpzYkhfZjRpQjBvSFhqdw?oc=5",
-          "description": "Col nuovo accordo sulla Groenlandia, Trump ottiene ciò che già aveva Sky TG24 Le scommesse fallite degli Stati Uniti - Pierre Haski Internazionale Usa: domani firmano accordo con Groenlandia e Danimarca su territorio artico Il Sole 24 ORE L’America avvicina la Groenlandia al suo emisfero Limes Groenlandia, Trump annuncia l’accordo: “Solo basi Usa nell’isola”. Ma la Danimarca esulta la Repubblica",
-          "pubDate": "Mon, 21 Sep 2026 16:50:45 GMT"
+          "title": "Sanzioni Russia: l'Europa è divisa, Kallas chiede più pressione - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZUFyMkJwUFhwc3BuQUJYLWQxOUVJUmN3d3E2MEgxTG5YNHY2cjNTN1QwQnhVTzg2cnllZ05jTzUxU1NmaHJHNWFjaW9uLXdLTnF0djdLMzZTUGEydVJNNXprNFV2eGNNUUt0b0FlNnFBb2JlSUNlT0xFeWg1azR2cDdreTdzSHRPa05KTlZ5X3M?oc=5",
+          "description": "Sanzioni Russia: l'Europa è divisa, Kallas chiede più pressione Il Fatto Quotidiano Intesa in Ue sulle sanzioni, rinnovo per 3 anni e fuori Usmanov e Fridman ANSA Alla fine l’Ue leva gli oligarchi amici di Putin dalla lista nera Il Foglio Il ministro lituano delle Finanze: Rimuovere Usmanov dalle sanzioni indebolisce l'UE Euronews.com Russia: Cremlino chiede a Ue di revocare le sanzioni su tutti g",
+          "pubDate": "Tue, 22 Sep 2026 08:16:55 GMT"
         },
         {
-          "source": "google-news-en-top",
-          "title": "Denmark says NATO shares responsibility for Arctic security under Greenland deal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR3B2X0hTRmlsNkhMcVZYRF8zOEZWMFpQLUtPMkExQzJ1UUEwdS16S2h0bklnNDIzcm9NTC1Ja0thVllkTmJad21EM3ZjQjUzVGtUZ2p4VDBZRHd0QmNWMWhmRTQwR2N4QnhYaUpsVXVBd2E2bEZQeXN2Z0pzYWc2cVY2dE1ZNGFyUUJfMFdGTHRYRzdPMElNOS02SFhwU0w3djlaOGhDUlEwRUFEVHFkN0xXdGNHZFBha0dmTmhLc01ic00?oc=5",
-          "description": "Denmark says NATO shares responsibility for Arctic security under Greenland deal Reuters EXCLUSIVE: US to open two new military bases in Greenland, sources say Reuters ‘Nervous and Skeptical,’ Greenlanders Question the New Deal With Trump The New York Times U.S.-listed Greenland stocks surge after Trump announces security deal with Denmark CNBC Trump’s Greenland Deal Eases Way for U.S. Business on",
-          "pubDate": "Mon, 21 Sep 2026 23:23:24 GMT"
+          "source": "ansa-mondo",
+          "title": "Intesa in Ue sulle sanzioni, rinnovo per 3 anni e fuori Usmanov e Fridman",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/22/intesa-in-ue-sulle-sanzioni-rinnovo-per-3-anni-e-fuori-usmanov-e-fridman_24cdd38d-5453-46f0-9887-697a08c67f03.html",
+          "description": "Fonti Ue, 'si attende fine della procedura scritta per formalizzare l'accordo'",
+          "pubDate": "Tue, 22 Sep 2026 17:26:01 +0200"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "operazione aspides red sea",
-      "label": "Kallas: Aspides ha bisogno di più assetti navali",
+      "keyword": "alzheimer prevenzione 14 fattori rischio",
+      "label": "Alzheimer: nuovo Piano nazionale sulla prevenzione dei 14 fattori di rischio modificabili",
       "n_items": 2,
-      "n_sources": 2,
-      "category": "geopolitica",
-      "macro_area": "geopolitica",
+      "n_sources": 1,
+      "category": "salute",
+      "macro_area": "clima-salute",
       "richness": 2,
-      "score": 12,
+      "score": 10,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-health",
+          "title": "Alzheimer, si punta sulla prevenzione dei 14 fattori di rischio modificabili. Verso il nuovo Piano nazionale demenze - corriere.it",
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNT3I1LVd5OTVqajEta3VoVEhMZHQwWXJGX21nTEl2TnpuNEloTnQ2U1Bpbnlna3IwaFVWTU9PSkpCcXc1dC03U245V21YZDVLcWMzUmN2SkpOQlNNVlZDaGJaVGtwQ3NQNlRQbS04SHdGTXNYOURTNFFuaUVOX3BNNHRiUXVGaVRxWGhzc1FhUFU0elFYWkhsWUtMUzJGTW1LMGtxWW9QcTc5MXVYa1VMck91Qkk5ZFlwRjl0WUtyQ3FoTjBiejB6M1IzQk1YQnRPMFlZWXM1N1NyRnJhWEEyRndvejBqbWh1LS1OLTFtcVEyRHV3a2xHT0Z1S2RyeTNYRWJEdENyQ1dRckhfcV9jLTE0WjZEZzhwTXhrVU1SN1oyWkZDT3YzRWtUN2VLYnlVMF9fZnVEaHlQdi01RlHSAcMCQVVfeXFMT0lfbHpMTkwxdFZWaUFIeTYzZlV4M2FhMzkzckJabUpMZUl3UDJveW5wTkluUHdzcGhvb0JDQWNQV2YxaVA1eGsxQjctajg5dkxVMFZydDRQZjZwNXZKdG51MXJoeVpLVVV4TFlZVUdRZHBlb3JvV1AzNmhnYnZ2RU5SM1BRRUJOTUM3ZjFTVElXRWRHSFM2T1B0eTVEaHhaUFNyN1EzOXJzYzMtRzc0dWxzaUtBODJ0WUJzdzd1TXlpWXNoSXc2VkxXWjloVXJFVHhGLTVXWDhlT3hhM2hTNUIwQzhwYjJERlI4OGZvT25LeVJoY3NrdFlHYnc1emZaTmdCWDNZaExnRFdqb3dScTd0NG82TzR1TEpyajlXRGVlakRFUk80VWlLZXBUcktxWFFzT0JjZ2xRTFVkdVhMYzRFeVU?oc=5",
+          "description": "Alzheimer, si punta sulla prevenzione dei 14 fattori di rischio modificabili. Verso il nuovo Piano nazionale demenze corriere.it Demenze. Verso il nuovo Piano nazionale 2027-2031: risorse più efficienti, assistenza sul territorio e sostegno ai caregiver. Schillaci: “Dai singoli progetti a un investimento strutturale” Quotidiano Sanità Il Comando dei carabinieri di Trieste si illumina di viola per ",
+          "pubDate": "Mon, 21 Sep 2026 13:23:14 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Alzheimer, due percorsi genetici protettivi potrebbero convergere sul metabolismo lipidico - sanitainformazione.it",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY0FHY2NfVm1ZQVhfc29jbThIZzZaaW42RlQ0Y0dGVTNMaVUzeFZ0SlJHTFNmakJ3M2dYMGJhR3JDeWNWMHVaM3BIclZqTmNhdmNpYV9JM0NvRnpvdHlSV1l3NWFubHdNZDJnTll0WlJmTHFLS0NKOG5oUzN0N1VwSVUyRkMzMXpfSUZKYlY4TnFoQ2JudWlkSDBFb1ZsSDBYbm1XeTJkaG5CLXVISVdxMFVSOVhWc3lDMWVKZE0xRkRxUQ?oc=5",
+          "description": "Alzheimer, due percorsi genetici protettivi potrebbero convergere sul metabolismo lipidico sanitainformazione.it",
+          "pubDate": "Tue, 22 Sep 2026 08:41:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "stellantis mirafiori 500 cassa integrazione",
+      "label": "Stellantis ferma Mirafiori: cassa integrazione sulla linea della Fiat 500",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "lavoro",
+      "macro_area": "economia",
+      "richness": 2,
+      "score": 9,
       "cooldown": false,
       "items": [
         {
           "source": "google-news-it-top",
-          "title": "Kallas: 'L'operazione Aspides ha bisogno di altri assetti navali e aerei' - ANSA",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQmpyaEZVcjdDS3JFUk1ReXptVS12ZlhMSUpkRTg1UFJPajQ5QTFTR2JmczltczN6SVVoZUlaQnJXWnVFRC1naEllLXJLaXd6anZ1VTg3UEJIU3NHUjNYT0szdU5wQVpwcmJpLWZjemtXRnptN2Y2YmQ2RTFvMU9vRUN6WXFKRU5DalM4b0t3NTFtZElmOUZWX0RKTmp1NE1fX2t2R0VLNjBTWkE3REF5bWFaWUs5dmRrYlVpU2lVenI1STNtSDF1RWs3MUVXeF9rdjRjdVBhVUUxQ1dKeGJ3OUNRcmFnYURQS3FjTDM3cmQ2dnPSAfgBQVVfeXFMTzVmcFZ4MkFuSDlfUmpXNWxud2VGWGVEbEhuQ3BUdTRmNEFuUzVibDROeHJzV28tUHRGdl95U1gwakhxaWYwNzgwc2pWM3M0QWdneXpfU2VCblFGT0ZCYS1WcWxlUHdUQTN3WnZqQTNKVHlmVm43dU1XbEw0cEJMWnZQcWozS2o5OFdQRUxJTVMwMFNuQVExc2NHcXZ3YXFGZHllbmFZTGtqZ29XVTZvOS16cnFaM1NyajlaM1JReWtzOXZtRWFSNERCQlB1cy1LbElDekJCVE5EbmVqV0tiN1VyWEVZZDZRWThxN1FmTnRHaV9ET1hMQUQ?oc=5",
-          "description": "Kallas: 'L'operazione Aspides ha bisogno di altri assetti navali e aerei' ANSA L’Europa non è un menu a scelta la Repubblica Aspides, cos’è la missione europea nel Mar Rosso: come funziona e chi partecipa Sky TG24 Guerra ultime notizie. Lettera di Kallas ai 27: «Rafforzare Aspides con più navi e mezzi aerei» Il Sole 24 ORE Tensioni Mar Rosso, Kallas: Navi UE per far fronte a minacce eunews.it",
-          "pubDate": "Mon, 21 Sep 2026 22:53:00 GMT"
-        },
-        {
-          "source": "ansa-homepage",
-          "title": "Kallas: 'L'operazione Aspides ha bisogno di altri assetti navali e aerei'",
-          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/22/kallas-loperazione-aspides-ha-bisogno-di-altri-assetti-navali-e-aerei_8c73f7d9-8eb5-469c-8ae2-261fda345fc6.html",
-          "description": "'Servirebbero più di 10 navi, ma al momento non ne abbiamo a sufficienza'",
-          "pubDate": "Tue, 22 Sep 2026 05:17:28 +0200"
+          "title": "Stellantis ferma Mirafiori: cassa integrazione sulla linea della 500 - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZXRBYWoxT1FRUmxDWWI3a3BibG9ybERzUi1KSm1oSkUwQ3BPUnJGQ2JOanpMNF9aMEpvVmpablVHUm5vNzVnNkE0Y2FoZFZ0Ym1CU2UyOTBIbGVfRkdsOWwxZUczSE1pN3M4eGxSdmxlRzJuVGFqaUIwVklBZmxmQjhuczd5Z0ZhWXl3TWUyd2otUlYxTFJzdS1hcmFXWGVfSzU1YTBn?oc=5",
+          "description": "Stellantis ferma Mirafiori: cassa integrazione sulla linea della 500 Il Fatto Quotidiano Stellantis, Mirafiori torna in cassa integrazione per altre due settimane: «Domanda inferiore alle attese per la 500 ibrida» corriere.it Mirafiori, torna la cassa integrazione: oltre mille lavoratori coinvolti la Repubblica Mirafiori, torna la cassa integrazione: Stellantis ferma la Fiat 500 dal 19 al 30 ottob",
+          "pubDate": "Tue, 22 Sep 2026 10:44:30 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "bitcoin crypto massimi",
-      "label": "Bitcoin riparte: criptovaluta ai massimi da 8 mesi",
-      "n_items": 2,
-      "n_sources": 2,
-      "category": "economia",
-      "macro_area": "economia",
-      "richness": 2,
-      "score": 12,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-business",
-          "title": "Bitcoin, riparte la corsa: la criptovaluta sui massimi da otto mesi. Cosa c’è dietro - La Stampa",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM0haOVhuYTVETEtnNExYOUk2RUFaWDBiZDFET2xwNkJ6LUQ3R2RuMU1PbF90bE1TZndlY1cya2pDTzF4TTlBX1RoWmE4dlNYQXRocWZQQ3ZGS2RMQ1FXOTRUdVpVWG1IMzdBSmRuQlZzRWM2NTdNdzdwb0piLW56VExrZ1pTTzTSAYwBQVVfeXFMTlVZTjdDVXhTWXN5QThfOVRQVVNaVmNMXzdIYnZ1eml6ejlKSHplVGt0N2x3Z2pNVFAtOGFVdEdXQkY2S0llWFRCTnhjTzBjbUdiemdkLWg5ZGV3UVJfaC1PX21KRHBiTndWbjRMMWpCckZ3NlVZYWtmYXZJR1E0WXRwU01UaC0wYVd4c3o?oc=5",
-          "description": "Bitcoin, riparte la corsa: la criptovaluta sui massimi da otto mesi. Cosa c’è dietro La Stampa Il Bitcoin rialza la testa e si muove verso 85.000 dollari ANSA Bitcoin sopra 85.000 dollari: rally sostenuto da short squeeze e ETF Borsa Italiana Mentre Wall Street diventa improvvisamente rialzista, sorgono dubbi se anche Bitcoin seguirà o fallirà Yahoo Finanza Bitcoin si impenna e supera gli 85.000 d",
-          "pubDate": "Mon, 21 Sep 2026 11:57:00 GMT"
-        },
-        {
-          "source": "google-news-it-tech",
-          "title": "Bitcoin (e le altre crypto), torna la fiducia? Ecco come guadagnare senza scottarsi, in attesa del nuovo «halving» - Corriere della Sera",
-          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxORGtoVE1faXYwelRteV83b0pmS3Z2b0Y0SzYyS21PTmlPYjRpc3ZZWFFQNHFlQ19PSGg5bnYzVXljazhqN0NaUkw1SXp1SThZc1VBWDc4ZU9FRmttTGxIWUgtRG41NDJxb050dFN6b1ZpS1NBcDRwMWRDeHYzOWNoWXd2cld1RVprWGNHSHFwM3U4R3Vjc2llWXNZNjMzZFNOMlJUR2djVDRLQno4VkthMEc5ZlFzQVZaNXVYdzdKaDdjSFFOMHdqbnJjWDBhUTNsZWZPRXBDWl9tRlZreVhiZl9QaUJhU2Rsa0NualN0Rkx5bVpRdUtyX3ZYQnIyaElNS3hNUjBVTTVCU2huRDU2dUJPbFVITUZxVjJxM9IBogJBVV95cUxPRmtxOTBZUmlSZWYxZlJHUFpNUk9rcVp5RkxvU2dvNTZJZGVVR1FYSzlJb3JrZ3lNTFpDVGJpMTYxX1kwOTZabXdPQ2RRS2E1b0V3bW5Pc2hlMzljQjdmYTN6eWJsYTVfRXNIby00M1lrbkJuV1RvdkQ2cVRBUlFUdm9paEFFWXhHV29ReVgtM1VLMDVtQkxHRmYtOU9vc0ZTd3RhMmdMYVhnNGppZ2Fkdm5feXNRNXlieDg3VWpUUk1RdmZja3FYYjZFTFM1N2VOV01rRDFSX2pMS2djQi1QWXI3VDNJQ2RvNDNGeGVoZ0RxUEdrQjFVLUxTengxZGdnT0J2a2kzNC0wRHA4cE5ILXA5TlZ4S08zTDA3bXF6ajhUUQ?oc=5",
-          "description": "Bitcoin (e le altre crypto), torna la fiducia? Ecco come guadagnare senza scottarsi, in attesa del nuovo «halving» Corriere della Sera",
-          "pubDate": "Mon, 21 Sep 2026 05:03:00 GMT"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "sanremo 2027 ai regolamento",
-      "label": "Sanremo 2027: intelligenza artificiale esclusa dalle canzoni",
+      "keyword": "ali ai chip nvidia alibaba potente",
+      "label": "Alibaba svela il nuovo chip per IA: sarà il più potente della Cina",
       "n_items": 1,
       "n_sources": 1,
-      "category": "tech-policy",
+      "category": "tech-ai",
       "macro_area": "tech-ai",
       "richness": 2,
       "score": 9,
       "cooldown": false,
       "items": [
         {
-          "source": "sole24-economia",
-          "title": "Sanremo, il nuovo regolamento 2027: l’AI resta fuori delle canzoni",
-          "link": "https://www.ilsole24ore.com/art/sanremo-chiude-porta-all-ai-canzoni-espressione-creativita-umana-AJJdVuJB",
-          "description": "L’intelligenza artificiale resta fuori dalle canzoni in gara al Festival di Sanremo. A mettere nero su bianco il principio è il nuovo regolamento della manifestazione, che per l’edizione 2027 introduce...",
-          "pubDate": "Mon, 21 Sep 2026 11:55:00 GMT"
+          "source": "google-news-it-tech",
+          "title": "Alibaba svela il nuovo chip per IA: sarà il \"più potente\" della Cina - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMzVFdEUtcURMWG5YTzc1bkZlVGxIR05TdzZaMk9pSkJnOV9fN0RkY1AwVWNlRDFIczQxemdja252a3c1V1BmOWM2NEFqRjI3Sm5ITmNzSHBpbVBIVVNQaENqbldkdnpnTm1qdFNsNWsxMHk5c2xMVHZLTm1RNkJTODRiS2IzMDBNeTVLZnlOcXhuQjctY1BGeko3OU5LNy15RG9NZGRIUXZlcUhmR3BkV3YyRV9sVDFBXzV5czRoeWk0U2ZWem1xeFZmZlVhdjE1VTJVeGE3LVdLUdIB3wFBVV95cUxNR2gwblFLdS1KdzdGY2tiQjAxVFRLa3NBNUFpY2pta0dpb3U0RERhZDVvWGVLdWk4RHItREhEdkNWM2FzckI2eDdiaUgxSEEycllqZDdYN0dVSXlJalVZSnhWSy1lUldmUG5ESkp6WHhNcDJhOTNtWWpkQ3Z1QlhrZXFacWNibDVBTnM0allMYk9HWWJYeW5zcV9fYXFBLUVmTkxYRUZMN0tFY3dhTjZZcXhJZkVwNThJdHNmdFpCSzRzMFY0SFhSZ2dsYW5UdmZsMjFpTGFKS3VGVW5BTjQ4?oc=5",
+          "description": "Alibaba svela il nuovo chip per IA: sarà il \"più potente\" della Cina RaiNews",
+          "pubDate": "Tue, 22 Sep 2026 03:34:00 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "ticket sanitari aumenti",
-      "label": "Ticket sanitari in aumento: visite ed esami costeranno più",
+      "keyword": "meloni burqa niqab scuola divieto",
+      "label": "Meloni vuole vietare burqa e niqab a scuola: come funziona in Europa",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "diritti",
+      "macro_area": "societa-diritti",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Meloni vuole vietare burqa e niqab a scuola: come funziona in Europa e perché la sinistra è contraria - Europa Today",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ISXZwQzRETmZoT1VLNWozSEVwVTN1cUNhYk1DTFlkNnR0OWtYRkhoRzBqVU9ONUhrcDZEYjZhazZ4T3RUZE1fNjhLMmxCdTBOUzl2ZXptRVJFQVJISjQ4TnNOdUJkT211VVJWRUlsZXNxU3lIZWs5UjdEeUc?oc=5",
+          "description": "Meloni vuole vietare burqa e niqab a scuola: come funziona in Europa e perché la sinistra è contraria Europa Today Valditara: «Tetto agli stranieri in classe solo se non parlano bene l'italiano. Temo la \"fuga dei bianchi\"» corriere.it A chi fa paura una scuola aperta e plurale - Espérance Hakuzwimana Internazionale Un tetto agli studenti stranieri e burqa vietato in classe: domande e risposte sul ",
+          "pubDate": "Tue, 22 Sep 2026 13:11:30 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "bollette luce gas crisi golfo aumento",
+      "label": "Crisi del Golfo: bollette luce e gas in aumento 11,4%, famiglie italiane perdono 1,8 mld",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "energia",
+      "macro_area": "economia",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Bollette di luce e gas in aumento dell'11,4%: la crisi del Golfo costa alle famiglie italiane 1,8 miliardi in sei mesi - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOemVzdjlFRFZicmNMWjJyd19wbnhwVHBFandpRFV1eTgxUGU4MTZwSmFXU2JnSUxqay1obVJneTk4dFlzNlhJMkxyUkhxaUN4Y1R2S3pUNnkzYURHWi13UkF1NzBKQ1AwNkFHcXh2X0p1ZzJmajlUWmtNYm12YUYydEVRSVFkdVVLZ2ZqWHdxS0RNQ1JieXhhT2FHMW52bXZHZHhjN9IBaEFVX3lxTE9hUGlPMEtKeWdweGVXRmFVZlp0bUdTRGt4eVo2MlZVTVQ1a2MyTklQWU9Bbkl6Q0tvZndhY1d0dnNJT0JTclB2MDgtM3BQVzdub1pkdUtpTHpFenNBUnY1ZEtHOWNpV3g3?oc=5",
+          "description": "Bollette di luce e gas in aumento dell'11,4%: la crisi del Golfo costa alle famiglie italiane 1,8 miliardi in sei mesi Tgcom24 Bollette luce e gas, rincari per le famiglie per la guerra Iran: 1,8 miliardi in 6 mesi Sky TG24 Energia, la crisi del Golfo costa già 1,8 miliardi di euro alle famiglie italiane Milano Finanza Napoli: 63 milioni di extracosto per le famiglie, è la quarta città in Italia p",
+          "pubDate": "Tue, 22 Sep 2026 08:24:51 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "menopausa terapia ormonale svolta americana",
+      "label": "Menopausa: la svolta americana sulla terapia ormonale è arrivata in Italia",
       "n_items": 1,
       "n_sources": 1,
       "category": "salute",
@@ -524,74 +503,74 @@
       "cooldown": false,
       "items": [
         {
-          "source": "google-news-it-top",
-          "title": "Ticket sanitari, cambiano i costi di visite ed esami specialistici: ecco quali e di quanto aumentano - Il Messaggero",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTkZadUFEWVdfZFdjOWdESUJOeFVXekNhbUxfUEhFam5lRXBBV0RXX29oZzZmRDJCTWFOcS12R2cxcDdTVzVaZXEyTHFtVnU4alpOblYyY0VTdlNzcjB1RXFUTy01SlNiQk42OWc1NFFUejRRWnlnX00zNW05WFdOUi1sMzVFTDlmWFZTdndGbVdRenBBR2Z3aFBEc0tjRjBHVUFJLUQ0bUM4VUdaZl9VOWFHQ2xONndVNlpvWnphSDluam_SAcgBQVVfeXFMT1k0UGV2RU1OeTR6V3g5b3dBREszRk03OEJTU1BDS3ppUFB6M1JxcUNCUE5IQlVXTFdqeFJrbWJTTXpOZG1qOFEtNE9QTHJwNGZsdTJHWnd1VW91VE5GazdxLVpkVVhabnJOeXdMNUpfTmxDaGlnTVdDU0RQd3BiU3kyS3NJMldpMlRUeks4ci1Pb1NMVHJaZ2tzWXpDNlVwOGl0bkhHTnFzZUhDNkJJVUVLU3NWY19ORVdQYWlYVFBCZUxxNUlGcjc?oc=5",
-          "description": "Ticket sanitari, cambiano i costi di visite ed esami specialistici: ecco quali e di quanto aumentano Il Messaggero Ticket sanitari, dal 21 settembre cambiano le tariffe: i prezzi Sky TG24 Ticket sanitari, scattano gli aumenti: quanto costano ora visite ed esami e chi paga di più La Stampa Specialistica ambulatoriale e protesica, da oggi scattano le nuove tariffe. Prime visite a circa 26 euro, più ",
-          "pubDate": "Mon, 21 Sep 2026 14:44:42 GMT"
+          "source": "google-news-it-health",
+          "title": "Menopausa, la svolta americana sulla terapia ormonale arriva in Italia - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYk9Kckp0WmI3Q3lvbjFZM09MOURGY2lkY0Y1aURSN0pnNHRwdGZhazJPUUpuTWVaVXEtTGxNdU9PYkp6YzdmXzZYMHlwOTBfVzExSy0tZ2c3cm1jLXc5UTl5dHpUMkVNSTNnUEFCUTA1a2lJZ285U2t0UDI1MUlFc05nYmtSZDMxcDFyZHZFNHNVdXUtSlMwbkF0cG1oWjJTODdPQ1BR0gFoQVVfeXFMTktMWTRsdTVxNWp1WlY4UF83X25oY3dJYjJEbVZDdU9JN1NXSl9pSzhsZGdwZF9zOGMwZHpoSDlRVDlQNmYxbDVuSzloZEpocU5fMm1tWXljUFdIei04bUhMNFhNTV83dlo?oc=5",
+          "description": "Menopausa, la svolta americana sulla terapia ormonale arriva in Italia Tgcom24 Menopausa, arriva la terapia ormonale sostitutiva. Per AME va personalizzata sanitainformazione.it Menopausa, la terapia ormonale sostitutiva arriva in Italia. AME: “Non va temuta, ma personalizzata” Quotidiano Sanità Terapia ormonale sostitutiva, cambia l’approccio anche in Italia: dalla cautela generalizzata alla pres",
+          "pubDate": "Tue, 22 Sep 2026 09:26:03 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "guerra ucraina mosca attacchi",
-      "label": "Kiev attacca Mosca, il raid più grande della capitale",
+      "keyword": "el nino forte record picco clima",
+      "label": "El Niño diventa il più forte mai registrato, picco atteso nelle prossime settimane",
       "n_items": 1,
       "n_sources": 1,
-      "category": "geopolitica",
-      "macro_area": "geopolitica",
+      "category": "clima",
+      "macro_area": "clima-salute",
       "richness": 2,
       "score": 9,
       "cooldown": false,
       "items": [
         {
-          "source": "google-news-it-top",
-          "title": "Attacco di Kiev contro Mosca, il sindaco Sobjanin: \"Il più grande\" contro la capitale - Euronews",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQVg0ODkwWEQ0RXYzVFFad2tEMy1vdEZ6QnJDYUE3MURLbHpBNDB1OG9saXFxVUNyeG9Tck9ScUtiM1AydDgyVGhrOUNqSGZ0MlUwRjNRUzFTanAzWWVjNmxUVGVrNWdLUHFZTlVZZlBzcm1rZWJGUkUtdlVPRmNuS1pRdGNHbFRZdmdRT2l4U2VUSFZVa0pRd3VhX01XbnEwbzQ2aWRIWDJRSjlHendneWs3RkZpX0E?oc=5",
-          "description": "Attacco di Kiev contro Mosca, il sindaco Sobjanin: \"Il più grande\" contro la capitale Euronews Guerra Ucraina-Russia, le notizie in diretta | Media: «Domani incontro Trump-Zelensky a New York». Afd conferma contatti con Mosca per la fornitura di gas. Il partito di Putin vince le elezioni Corriere della Sera Europe Today: Merz di nuovo sotto pressione, il maxi attacco ucraino su Mosca Euronews Ucra",
-          "pubDate": "Sun, 20 Sep 2026 11:00:35 GMT"
+          "source": "bbc-world",
+          "title": "Developing El Niño becomes strongest on record weeks before expected peak",
+          "link": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
+          "description": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
+          "pubDate": "Tue, 22 Sep 2026 12:54:14 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "elezioni russia putin risultati",
-      "label": "Putin ottiene 350 seggi, Kallas: elezioni una farsa",
+      "keyword": "ransomware attacchi ue impatto ideologico",
+      "label": "Ransomware: il 57% degli attacchi in Ue è motivato da ragioni ideologiche, allarme Enisa",
       "n_items": 1,
       "n_sources": 1,
-      "category": "geopolitica",
-      "macro_area": "geopolitica",
+      "category": "tech-policy",
+      "macro_area": "tech-ai",
       "richness": 2,
       "score": 9,
       "cooldown": false,
       "items": [
         {
-          "source": "google-news-it-top",
-          "title": "Elezioni Russia, a partito di Putin 350 seggi su 455. Kallas: una farsa, represso dissenso - Sky TG24",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54cmhySFJELUR6aWxJdkZuQUFmdTJ1NThPc2FXOE1kbWNjcFVaWmJRaVAySDEtWS1DazVQQk5RTUh2T0dBeUg1dHlad2VWbVRkT2JBRV9GTzJfNENYUDhNdUxqSmU3eGtsRHF2VHZnMnA?oc=5",
-          "description": "Elezioni Russia, a partito di Putin 350 seggi su 455. Kallas: una farsa, represso dissenso Sky TG24 Il “mezzogiorno contro Putin”, in Russia e all’estero Il Post Mosca: fallito tentativo sabotare voto RaiNews Russia, Putin stravince le elezioni: 58% e 355 seggi alla Duma Il Fatto Quotidiano Per capire il senso del “voto” in Russia basta vedere il nuovo esodo Il Foglio",
-          "pubDate": "Mon, 21 Sep 2026 09:18:47 GMT"
+          "source": "ansa-homepage",
+          "title": "Il ransomware minaccia cyber con il maggiore impatto in Ue",
+          "link": "https://www.ansa.it/canale_tecnologia/notizie/cybersecurity/2026/09/22/enisa-ransomware-minaccia-cyber-con-il-maggiore-impatto-a-breve-termine-in-ue_01f72e48-b7b4-429b-96b3-2d090bf8cc2b.html",
+          "description": "Report Enisa, 'il 57% degli incidenti motivato da ragioni ideologiche'",
+          "pubDate": "Tue, 22 Sep 2026 15:51:03 +0200"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "iran escalation medio oriente",
-      "label": "Allarme Usa: possibile escalation Iran-Medio Oriente",
+      "keyword": "mattarella richiamo governo tetto stranieri scuola",
+      "label": "Il richiamo di Mattarella sulla scuola: governo non arretra sul tetto agli stranieri",
       "n_items": 1,
       "n_sources": 1,
-      "category": "geopolitica",
-      "macro_area": "geopolitica",
+      "category": "diritti",
+      "macro_area": "societa-diritti",
       "richness": 2,
-      "score": 9,
-      "cooldown": false,
+      "score": 0.9,
+      "cooldown": true,
       "items": [
         {
-          "source": "google-news-it-world",
-          "title": "Iran, allarme Usa: \"Possibile escalation in Medio Oriente\", gli aggiornamenti live - Tgcom24",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdFNGdGlvZFFzVDh3RWlNUFl4b09JMlMxWUZoTTczTUg1NzBycVQ2RDBRVWNkcXFiZWNtMUY4VUtNVGV3SHdncHVxUThMQjNHd2k5YTBZaVdIWnlGYmZtWE4ybUVTa3psTjBud1g5OVVsQUlvMGd2WVVmWjZuVWZ1Si1iWFhsS2R1Vm1qWXozVm5fTEpCQ0pHamk2bnQ0dHk4ZHRoYVpDRldPZXF0Q3JiTlhqNA?oc=5",
-          "description": "Iran, allarme Usa: \"Possibile escalation in Medio Oriente\", gli aggiornamenti live Tgcom24 Guerra Usa-Iran, le notizie in diretta | NyT: Trump ha bloccato attacchi Usa contro obiettivi Houthi. Petroliera colpita a Hormuz. Bessent: «Le compagnie aeree iraniane non potranno più volare dal 23 settembre» Corriere della Sera Cina, a 6 anni batte due volte il record mondiale femminile del cubo di Rubik ",
-          "pubDate": "Mon, 21 Sep 2026 15:40:21 GMT"
+          "source": "google-news-it-top",
+          "title": "Il richiamo di Mattarella sulla scuola Il governo non arretra sul tetto agli stranieri, ma cambia il terreno dello scontro - Linkiesta.it",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JZGFGTnVHVlA3VmJoLVotN19MZWhjRWdTSU8teFdNQ055TDNlTWJRb3o5NjNUNlY4MURKR29PQUMxekJLRy16ckU5SmJ3Y1BZR2h2RmxNdWx4dkE1TzZ5MU1OU2lQLWQxQVRBalJfNWFGT1E?oc=5",
+          "description": "Il richiamo di Mattarella sulla scuola Il governo non arretra sul tetto agli stranieri, ma cambia il terreno dello scontro Linkiesta.it Mattarella dopo le polemiche sull'annuncio di Meloni: \"La scuola è aperta a tutti\", la lezione del presidente Virgilio Sapere Il Quirinale frena la gara a destra per le classi ghetto il manifesto Visita del Presidente Mattarella ad Amatrice. Il portale delle Prefe",
+          "pubDate": "Tue, 22 Sep 2026 04:58:19 GMT"
         }
       ],
       "clustering": "claude"
