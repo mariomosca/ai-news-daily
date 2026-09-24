@@ -2,71 +2,57 @@
   "date": "2026-09-23",
   "top_topics": [
     {
-      "keyword": "trump iran negoziati onu",
-      "label": "Trump minaccia l'Iran all'Onu mentre negoziatori si incontrano",
-      "n_items": 7,
-      "n_sources": 5,
+      "keyword": "iran accusa terrorismo onu",
+      "label": "Pezeshkian all'Onu accusa Usa e Israele di attacchi illegittimi",
+      "n_items": 5,
+      "n_sources": 4,
       "category": "geopolitica",
       "macro_area": "geopolitica",
       "richness": 4,
-      "score": 51,
+      "score": 36,
       "cooldown": false,
       "items": [
         {
           "source": "google-news-it-top",
-          "title": "Guerra Iran, Trump rivela: \"Colloqui tra responsabili iraniani e americani all'Onu\" - tg24.sky.it",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zbTRzREhZcGlpN185TVpKUG5mUnFHNndseUpBbmlHVWRtQWI5WVptZjdDYnRUSkQ5Snhwa2F5VWpRNmVTVm5xQ2F4V3JvYTUxMTR4Q24yeXRTdlJ1X1k4X3VQdll3R2o4MXU0UkNGUGdTOWxhWUVLZ1JIcw?oc=5",
-          "description": "Guerra Iran, Trump rivela: \"Colloqui tra responsabili iraniani e americani all'Onu\" tg24.sky.it Trump all'Onu: 'Putin fermi la guerra'. E lancia l'ultimatum all'Iran ANSA Io sono la pace. Presto in Ucraina, dopo il midterm in Iran, ma Trump prepara i militari per l'America Latina HuffPost Italia La diretta da Wall Street | I listini Usa chiudono contrastati, Nasdaq +0,4%. Trump minaccia di annient",
-          "pubDate": "Tue, 22 Sep 2026 22:10:21 GMT"
-        },
-        {
-          "source": "google-news-it-top",
-          "title": "Assemblea Onu, Araghchi incontra Witkoff: \"Usa revochino blocco navale e scongelino beni iraniani\" - Netanyahu: \"Le parole di Macron sono grottesche\" - RaiNews",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQ2NteXl6Z0FhRlhoQjFCY0NIcDlzSWZWeG9VVnluTFdzc21pZE1jQjlwYnNFYWlNMWVrcVVXXy1XMFRMTU5aUzl1RmcybUhzcmpOa3BXeG5mdTJJcDcyeHJwR1pacml5SXFNUDEzSktJYmlodlp4cnVxS3BjNEVrSW5KSGpPYkZfRmxDaW54UWN3cl94UWJlNnFqbHBJSTd3RGE5cUNYczFEQ0lYVjdlRjlDeU9EZUJGVzdjLUZYT0ZKX1V4WWxhdVhwVUVvc0E1ZUt2cFNMNVBwTHBkMnBCWVVYN1RqX3hTVmpxT0dXSzHSAfYBQVVfeXFMTkdaUGZRTDBHTHEyZE1OSTVrbDQ5ZXlnellvQkJpYTJUVW1oMXJLNnpYRWtQTXZRUkM4YTRDSjR5bEdzNHJRdjlnNlFPaGt6N0xvbXdfR3dTLWVwSEEybDI1Smx4dnJ2VGo0a3RMeVVTUklPdktXSVBhMGVZRjRfVElhdWFrTnZPZ2VHSTh1SHlNRWdsaXVZdDZwM0dlMTltcFU5enJPbmFmb1Q5cHc5OFg5RmVJcVdPekEtQ2Y1V1Q1ajhEa0RhNXhHX3dOaVozVnl1SHlRd0hlSWluM2stUnZrV3ZaY2J4bEZPOGtEQWxfclo2RDNn?oc=5",
-          "description": "Assemblea Onu, Araghchi incontra Witkoff: \"Usa revochino blocco navale e scongelino beni iraniani\" - Netanyahu: \"Le parole di Macron sono grottesche\" RaiNews Teheran, 'pronti a infliggere ad aggressori colpi devastanti e imprevedibili' ANSA Usa-Iran, incontro a sorpresa: contatti per sbloccare Hormuz la Repubblica Guerra ultime notizie. Araghchi a Witkoff: Usa revochino blocco navale Usa e scongel",
-          "pubDate": "Tue, 22 Sep 2026 21:25:52 GMT"
-        },
-        {
-          "source": "google-news-it-world",
-          "title": "Guerra Usa-Iran, le notizie in diretta | Netanyahu: «Macron grottesco. Mamdani sostiene Hamas, si vergogni». Esplosione vicino all'isola di Qeshm nello Stretto di Hormuz - Corriere della Sera",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWjJjLS1NQUJHbXBlckQtTnpPc2kxVUp3THJJa0R5dFdmMWpzWkNpaTd1MHR1UzlBODNxZzl2NlhnbUp6eXM2dVpUUDlHMUN5cHFnUjZBclZsWlR2c3Q4SFI4OXZYVXRMQlVMREFpcU83ZzFvOXRmdmlvN0dwdm9EZURhVy1SSUVrNWM1dEs3NEZlTUtBdVpmcDBtQWg3UXUzRnpTcjlvQnVkQjZWYWlCUnFTRWNNMk4zQ0l0X3pCU0hrOEQyamkwLUZyZ1lheGY4TzBST3NLc3UwVkJIYUN1OTNnbVJHUHlENGlwWG0wdHlXdHlNd3pOeGU4eVhKSWQ0c0hSbEN30gGLAkFVX3lxTFBnOGtxOEpBUVJGUHdZX1h6RHdhZEJUN0pjZjBnNzVaaVEtMGt2WWFMVlliaWdob2dmbkpDLVlvaWJUYlphM1FpX1JicFFoSFRxS1JsNFNLb3BicG05RkJ1N0d1Ny1WdEUyMWpZcUJ1YV9lR1ZucFJDdnVCMXJuLUJ3SUpyQVhCMXVMVVNKX1k2bzFxekY3VU1vZldpaTNDM2IzZ3JfS0FFMGg3d0dJTXFNR0U5WUNqNTN0dGJaU3RkYlpEUE83TWh1OXZKRVRqdXd4WFFhNHI5bmlvSktDY2psTno1YlplbUFqSnRXZFhDR05NT0taa2s0OTB1emMwMnREdVRMcmRQZ1lHOA?oc=5",
-          "description": "Guerra Usa-Iran, le notizie in diretta | Netanyahu: «Macron grottesco. Mamdani sostiene Hamas, si vergogni». Esplosione vicino all'isola di Qeshm nello Stretto di Hormuz Corriere della Sera Le notizie di martedì 22 settembre sulla guerra Usa-Iran Corriere della Sera Imprese e territori, a Firenze laboratorio Net Forum per una \"formazione su misura\" ANSA Iran-Houthi, lo stallo costa. E gli Usa risc",
-          "pubDate": "Wed, 23 Sep 2026 02:41:08 GMT"
+          "title": "Pezeshkian: l'Iran è vittima di terrorismo. La delegazione Usa lascia l'assemblea - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPYS1zODY2Um81R1NNOVN1ZDRseXp3SS16SDRzRzJMYXNtSlhSNmNGMjFSZWhEV0g3UVByWnhaUjdpSURDdFJwOVBUQ0VkQmt5WnozZDZwdUVGakZBRzZ1T3ZFZG9TTE9IOXFJZDREVmduWHYtbzg1cS13U2dib3dHVWU4MDdTS1VpWkxSb1FPWVd1dTdDSjB4elR0ZmNvOTNfNVhMbVVYMERtckZOQ3B1NmctclFKSXFJMnNZODhIZGVadThISjVXR0ZKdUpiX2tPd1p6UXpkRE5CWTFfdTJuN05nR0l0NVp4RUo4cTlzWjFEdHFzQjVNWkRHemx5RUnSAYQCQVVfeXFMTTZCTG41WmtpOGFDUUF4MThVRFlkSXh5NTl4V2hSaHYwcFM3TDZjYnVUTDZVT3B4YVZzR1g1Z0JaclhZRjhkRTBTSXZnYU9lZmpRQmpvNUkybnBvblpDYUdqTVpvcDZOSzhTSC0yX0o3V1VsdlI0V1NJb0tma05HZ0lCOTZ1YVNJcXBpcEJ2TjIyYWNfMUdNRU5HYUE0RkpiaU80bTg3U2VJZVpTVUdDQjYxcDhTblUwWHhzQThjbkRXeHhKUkxuVEpaLWQ1X1M5WTE4RkdTUFhkZW1YY2RMTzlWTHFncjMyczltd3hpUktPMENDajBoMXFDNmE0M2xxTG5nTTk?oc=5",
+          "description": "Pezeshkian: l'Iran è vittima di terrorismo. La delegazione Usa lascia l'assemblea ANSA Guerra, ultime notizie. Onu, Pezeshkian mostra foto bambini «uccisi da bombe americane e israeliane». Usa lasciano aula Il Sole 24 ORE Pezeshkian all'Onu mostra le foto delle vittime dei raid: la delegazione Usa se ne va Il Fatto Quotidiano New York accoglie i leader iraniani. Ma chi ha vinto e chi ha perso la g",
+          "pubDate": "Wed, 23 Sep 2026 15:20:00 GMT"
         },
         {
           "source": "google-news-en-top",
-          "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ibnAxMnNWQ0xzYjdoWFlDOWNZSkhoNXdKVm5QanZsMmg5Wno3cDEtTzUxOVI0U0hGWU9rdmFwX2l2TTVTaXYzMTJlMFZEMEotRE1sdHJEQWdoQlE?oc=5",
-          "description": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines BBC Fact check: Trump’s false claims to the United Nations CNN Trump says US and Iranian officials met Tuesday, shortly after warning he may ‘annihilate’ Iran The Hill Trump Threatens Annihilation in Iran in UN Speech and Lays Out Winner-Takes-All Vision The New York Times Trump Puts Legacy Ahead o",
-          "pubDate": "Wed, 23 Sep 2026 01:00:09 GMT"
+          "title": "U.N. Live Updates: Iran’s President Accuses U.S. and Israel of Lawless Attacks - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbS1qWVY4d1FmTU5xeWMzcHZfcHhjR0Z3eEIzOFVIYXRpNllfb0p1OXJaQWhkdUQxVXBzU3BBSTdDWUlGckpnY2FDMFpZcjNlSl81V3diSm9TbkdDOEZHSFZBYkprV3VOV1NUNVE5UHliSHU2Y0xKdTktbXNGS09LRzF4TGY?oc=5",
+          "description": "U.N. Live Updates: Iran’s President Accuses U.S. and Israel of Lawless Attacks The New York Times Live updates: Iran’s president says ‘we will never bow our head’ to Trump in defiant UN speech CNN Iran president tells UN ‘we will never bow our head’ as US walks out The Hill US delegation walks out as Iran’s Pezeshkian angrily responds to Trump at UN General Assembly - live The Guardian Iranian lea",
+          "pubDate": "Wed, 23 Sep 2026 14:26:33 GMT"
         },
         {
           "source": "ansa-homepage",
-          "title": "Trump all'Onu: 'Putin fermi la guerra'. E lancia l'ultimatum all'Iran",
-          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/22/trump-allonu-putin-fermi-la-guerra.-e-lancia-lultimatum-alliran_68a02777-7c4a-49c6-a576-362f728dd3f8.html",
-          "description": "'Accordo dopo il voto o li anniento'. Poi attacca a Cuba che lascia l'aula",
-          "pubDate": "Wed, 23 Sep 2026 03:38:52 +0200"
+          "title": "Pezeshkian: 'L'Iran è vittima di terrorismo'. La delegazione Usa lascia l'assemblea",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/23/pezeshkian-liran-e-vittima-di-terrorismo.-la-delegazione-usa-lascia-lassemblea_a437d26d-b24c-4773-b1dd-11fd55eb9b90.html",
+          "description": "Il presidente iraniano mostra alle Nazioni Unite le foto dei bimbi uccisi nel bombardamento della scuola. 'La resistenza dell'Iran aumenterà di fronte alle sanzioni e ai bulli. Pronti a dialogo e diplomazia, senza il linguaggio della forza'",
+          "pubDate": "Wed, 23 Sep 2026 17:34:04 +0200"
         },
         {
           "source": "ansa-mondo",
-          "title": "Teheran, 'pronti a infliggere ad aggressori colpi devastanti e imprevedibili'",
-          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/23/teheran-pronti-a-infliggere-ad-aggressori-colpi-devastanti-e-imprevedibili_9efaaf6e-8223-4532-93de-1300749a858a.html",
-          "description": "I vertici militari dell'Iran rispondono alle minacce di Trump",
-          "pubDate": "Wed, 23 Sep 2026 03:29:38 +0200"
+          "title": "Pezeshkian, 'pronti a dialogo e diplomazia, senza il linguaggio della forza'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/23/pezeshkian-pronti-a-dialogo-e-diplomazia-senza-il-linguaggio-della-forza_c98cf163-f518-40a6-b399-fa7757c28d01.html",
+          "description": "'Non permettere che 21esimo secolo torni a epoca dominata da potenti'",
+          "pubDate": "Wed, 23 Sep 2026 16:49:41 +0200"
         },
         {
           "source": "ansa-mondo",
-          "title": "Araghchi a Witkoff, 'Usa revochino blocco navale Usa e scongelino beni Iran'",
-          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/22/araghchi-a-witkoff-usa-revochino-blocco-navale-usa-e-scongelino-beni-iran_aa9cdf05-80bd-4d04-97d4-d0f9a3a412df.html",
-          "description": "Le condizioni iraniane per riaprire lo Stretto di Hormuz",
-          "pubDate": "Tue, 22 Sep 2026 22:14:04 +0200"
+          "title": "Pezeshkian, l'Iran è vittima di terrorismo",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/23/pezeshkian-liran-e-vittima-di-terrorismo_9d700066-3b69-467f-81aa-1379f22e1011.html",
+          "description": "Dopo le parole del presidente, la delegazione americana ha lasciato l'aula dell'Assemblea",
+          "pubDate": "Wed, 23 Sep 2026 16:26:05 +0200"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "zelensky trump incontro ucraina",
-      "label": "Zelensky chiede a Trump di portare la Russia ai negoziati",
+      "keyword": "zelensky trump negoziati pace",
+      "label": "Trump incontra Zelensky: lavoriamo per terminare la guerra",
       "n_items": 4,
       "n_sources": 3,
       "category": "geopolitica",
@@ -77,219 +63,44 @@
       "items": [
         {
           "source": "google-news-it-top",
-          "title": "Onu, Zelensky chiede a Trump di sollevare tema Russia con Xi: «Vogliamo che guerra finisca prima dell’inverno - Il Sole 24 ORE",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZjNlU2tzWlJaTlNpalUyVXpJYkExUGc5M0lyVXgxc2tveElXT1VjdjRTYVV5eW8yZzVVQmZkQ2VNYlFKYU5qbWk0VHFIV2dUbmF5b2o5TlFiMG9Gdm9TMjhDYTY0bUxLSWRXUElpdVdKUkljNjh6NHNjOEJmMEhWbk1kQ3ZPNTFwcWNKTF8xYXVkV05aQ011aVQ2V25GSWtsVWwxRm9FaVlSbjNwc2hQOFBiQVZMS1JQMTVnZ2RncmxWLWc3N1BKdFRB?oc=5",
-          "description": "Onu, Zelensky chiede a Trump di sollevare tema Russia con Xi: «Vogliamo che guerra finisca prima dell’inverno Il Sole 24 ORE Guerra Russia, Trump incontra Zelensky: \"Lavoriamo per porre fine alla guerra\" tg24.sky.it Missili e aiuti per l'inverno, il pressing di Zelensky al Palazzo di Vetro ANSA L'inverno del diesel. Il filo che lega i droni di Kiev, i barili di Putin e il gallone di Trump HuffPost",
-          "pubDate": "Tue, 22 Sep 2026 20:06:13 GMT"
+          "title": "Guerra Russia, Trump incontra Zelensky: \"Lavoriamo per porre fine alla guerra\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcTdqWFFwUHNDSUhaM1FYVW0zRlZ3UEFtQURtZVhLa1N5QUpFWHRBaWVoR2M1N2lmWUt3S2o3TnJLOFFLekxJR1BMRTdfYkpRbmx5UmloR3AxM2NFNnZIYkJSa1lGMlkxeHhQdng5SUdGa2xWaDFqdHRpOGZrOXVJN0JjdFI5S1pz?oc=5",
+          "description": "Guerra Russia, Trump incontra Zelensky: \"Lavoriamo per porre fine alla guerra\" Sky TG24 Zelensky spera nell’aiuto della Cina: “Stop alle armi prima dell’inverno” la Repubblica Missili e aiuti per l'inverno, il pressing di Zelensky al Palazzo di Vetro ANSA L'inverno del diesel. Il filo che lega i droni di Kiev, i barili di Putin e il gallone di Trump HuffPost Italia Ucraina, Zelensky: noi pronti a ",
+          "pubDate": "Wed, 23 Sep 2026 05:12:21 GMT"
         },
-        {
-          "source": "google-news-it-top",
-          "title": "Guerra Ucraina-Russia, le notizie in diretta | Trump vede Zelensky: «Pensiamo a una via d'uscita per la guerra». Il presidente ucraino: «Vogliamo che finisca prima dell'inverno» - Corriere della Sera",
-          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOQTJHN3ZmUjFLSlB3Ny1WWTlLMnZJU3BEUkg1TmNLU09MaXBnOXNWRUhwbTN3V0VlM19JS1QzaUhoMGpwaFNNSEM5cTYweHVfSkI3a2lBbXZVZ3Z0eFhFRkN5bHdYcTJGWV9GVGNJd0ZDNFNYWTJubmNZVnJTbDJrNmtCSU9GZ2JOOHEya2RZYk1PQzhEdlN0VE9hemhIOGJwaWMyLW1YMzRyUTlSQVN6ZjRtbWtBWDliM0I0V0xvMDFjRDN3RTZNTUlfb1l4VFA2amE3SV80YzZhbjM5dWt3Q2FiQ3ZnZ25XY3dScDN5WFFvYk9idG5oQUxhMUt6c0RFVVRDV3JNQ2NNV3hlUk55ckRhN3FmdnVKSGFFZ0xB0gGjAkFVX3lxTE41SnU1Rk1uaVZSMDFCMGFDWVU5aWRwaEZkNzM3aXhjTWd4ZzJmS1BnMnd4bXJ1Tzh1M2lHNXVVSHNDZ2ZVTWtZbVo2Vjc5RlBxbm1VblpmMTNNX2tiZDAzdi02Z2oxMVZsOFkyNUhiVGZ0cGluNnpUaDlCdUJBX2pwaGw3NzhVYnFyN0gxcHBfVFdYZ2M0OThLZzRvLWQxOG9JR1NVSmU0M3Naa3R1aVBESzNNRlYwYklDUVVZeWdhcmV3cU0zUlk3QmMwekt2VFVWRmZiSGlMS2VhNm9uVlVqYkttWjZEM3JtekNwNDZhRTdRU25MMndQdGctbGZseXBlQkRjZXV2ak9lQkV5R0ZCX2lqX0VwUGtkQkFOdmZMWnVvSQ?oc=5",
-          "description": "Guerra Ucraina-Russia, le notizie in diretta | Trump vede Zelensky: «Pensiamo a una via d'uscita per la guerra». Il presidente ucraino: «Vogliamo che finisca prima dell'inverno» Corriere della Sera Maxi offensiva di Kyiv sui cieli russi. Tra le vittime anche bambini Vatican News Raid russo su industrie ucraine:4 morti RaiNews Ucraina, massiccio attacco russo. Bombe nel Dnipro Tv2000 Europe Today: ",
-          "pubDate": "Wed, 23 Sep 2026 01:57:24 GMT"
-        },
-        {
-          "source": "ansa-homepage",
-          "title": "Missili e aiuti per l'inverno, il pressing di Zelensky al Palazzo di Vetro",
-          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/22/missili-e-aiuti-per-linverno-il-pressing-di-zelensky-al-palazzo-di-vetro_efdfe43c-c6ac-437b-98d6-495475b8c4c2.html",
-          "description": "Il leader ucraino incontra Trump e Macron: \"Pronto a incontrare Putin\"",
-          "pubDate": "Wed, 23 Sep 2026 03:44:40 +0200"
-        },
-        {
-          "source": "ansa-mondo",
-          "title": "Zelensky, 'pronto a incontrare Putin in qualunque momento'",
-          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/zelensky-pronto-a-incontrare-putin-in-qualunque-momento_2263787c-d186-4678-9075-674d0a7a6a6e.html",
-          "description": "'Bisogna parlarsi nonostante l'odio. Trump favorevole a rilascio licenze dei Patriot'",
-          "pubDate": "Wed, 23 Sep 2026 01:43:09 +0200"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "groenlandia usa danimarca difesa",
-      "label": "Trump firma accordo su sicurezza e basi militari in Groenlandia",
-      "n_items": 3,
-      "n_sources": 3,
-      "category": "geopolitica",
-      "macro_area": "geopolitica",
-      "richness": 4,
-      "score": 25,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-en-top",
-          "title": "Trump signs US-Denmark-Greenland agreement to bolster Arctic security after prolonged tensions - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0lZX3FlTXk4M2NIbnVBaWVGQ25TdVlOYTM3V3pzQkVuOTRkYmNFemYyNGVrYVdNT19oOUtBMGZRU3ZiUzVqWTNkVDBTUWJHQjNUSjVacTNoMFhwYS1hbEhrdDdDOTFoTmxtSk1xdVhJZk9xSW0zZlNBQXNIX1FSR1N0bnFkNGVKOTJFU1RfbU9hY2V2cTRQaldfSzZPb2Q1ZGFqRg?oc=5",
-          "description": "Trump signs US-Denmark-Greenland agreement to bolster Arctic security after prolonged tensions AP News Trump Once Vowed to ‘Own’ Greenland. He Settled for Something Much Less. The New York Times Trump Demanded Greenland. Here’s What He Actually Got in the Security Deal U.S. News & World Report U.S. strikes Greenland deal at UN to expand military presence at Arctic outposts CNBC Trump pledges to op",
-          "pubDate": "Tue, 22 Sep 2026 21:43:00 GMT"
-        },
-        {
-          "source": "ansa-homepage",
-          "title": "Trump all'Onu: \"Presto gli accordi con l'Iran e fra Russia e Ucraina\"",
-          "link": "https://www.ansa.it/sito/videogallery/mondo/2026/09/22/trump-allonu-presto-gli-accordi-con-liran-e-fra-russia-e-ucraina_8e1a9995-820e-4571-adc9-4784ec10a05e.html",
-          "description": "E intanto il presidente Usa firma un'intesa sulla sicurezza con Groenlandia e Danimarca",
-          "pubDate": "Tue, 22 Sep 2026 20:42:34 +0200"
-        },
-        {
-          "source": "bbc-world",
-          "title": "US to build two military bases in Greenland under new deal with Denmark",
-          "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-          "description": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
-          "pubDate": "Tue, 22 Sep 2026 21:36:55 GMT"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "defict italiano flessibilita ue",
-      "label": "Deficit al 3,1%, Meloni chiede flessibilità a Bruxelles",
-      "n_items": 3,
-      "n_sources": 3,
-      "category": "economia",
-      "macro_area": "economia",
-      "richness": 3,
-      "score": 21,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-top",
-          "title": "Deficit eccessivo, l'ira della premier Meloni contro l'establishment: lavora contro l'Italia per colpire noi - Corriere della Sera",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONDNPNUJSOVhSTGx0WFY3eTFYLVVwWHhmeDkyRGVwYlFlM2JZY3UtZExJMFExbGtLcElfSW81SzRHdjJzamw1MnExU25xTW4wN2stSzYxN2FiVW5DZ240TmxCUW1mWm9VQmpRS2wyYmNBSWZSUm1sclhZX09jSEdhdUxDZTlINnU2NFFBNmlFXzgzdVpUaEJmWkRnaG5wLUh4cHR4S1Y5b3dreEtMYnNhZGoxZjRTVWRibUR1X0Q4a2xuVlJoUVhPY3dOSm4tWE5rRUREMmZRWEZhRk1senE1aWw5RdIB6AFBVV95cUxNNm9rbHZLZ3JjLUxGTTRZb1g3SE5Hc1pZU185ZDBQOFVfYXl6V1JsaTRGenBCNVEzU3FhdEMwb1E2OHhWMXRWNFBHcUpvWEptSnpNN1o3bHVEQnlYNTdYMDJPTXFWeHVCYzNkeUUwUEdFQmp1SjVxY2hIZVRDU2syTnlFazJWTVVKS212WnIzU3k5S3ViVzB0aDdXV3FSZm9RZXVkRGxGZzlDbEZjOUYtSEc4SzdSWFZadXVnczJKUkgtM2J5R2xMcC0yQmVFN1JRYUJhTW5wTHBPcFVNVndjWW52a2wwcHBC?oc=5",
-          "description": "Deficit eccessivo, l'ira della premier Meloni contro l'establishment: lavora contro l'Italia per colpire noi Corriere della Sera Deficit resta al 3,1%, Salvini chiede lo scostamento, FI frena ANSA La premier attacca Istat e Giorgetti: “Incredibile sia andata a finire così” La Stampa Scarpetta: “Margini stretti per la manovra. Servono aiuti mirati” la Repubblica Deficit, l’Ue tenderà la mano all’It",
-          "pubDate": "Tue, 22 Sep 2026 20:27:00 GMT"
-        },
-        {
-          "source": "ansa-homepage",
-          "title": "Deficit resta al 3,1%, Salvini chiede lo scostamento, FI frena",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/deficit-resta-al-31-salvini-chiede-lo-scostamento-fi-frena_bc5746d2-787c-4dad-b9b8-6fdd14cc3876.html",
-          "description": "FdI critica l'Istat. Giorgetti: 'Potremo uscire dalla procedura di infrazione nel 2027'",
-          "pubDate": "Tue, 22 Sep 2026 21:01:40 +0200"
-        },
-        {
-          "source": "ansa-economia",
-          "title": "Deficit sopra il 3%, il nodo energia e difesa mentre si lavora la Manovra",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/deficit-sopra-il-3-il-nodo-energia-e-difesa-mentre-si-lavora-la-manovra_b6f59ffb-2367-4405-b220-b56b0a94fab5.html",
-          "description": "Caccia a coperture con l'incognita flessibilità. Menù parte da bollo e fisco",
-          "pubDate": "Tue, 22 Sep 2026 20:03:08 +0200"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "arabia saudita oleodotto petrolio",
-      "label": "Arabia Saudita riavvia oleodotto: petrolio scende sotto 100 dollari",
-      "n_items": 3,
-      "n_sources": 3,
-      "category": "energia",
-      "macro_area": "economia",
-      "richness": 3,
-      "score": 21,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-top",
-          "title": "L’Arabia Saudita riavvia l’oleodotto Est-Ovest fermo dal 13 settembre. Allarme Onu per i profughi in fuga dallo Yemen - Il Fatto Quotidiano",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTXhOR2d5U093emIwcmpvb1ZfM2puRW9GOVJNVmN5Rk54VlFhcnVpNWhyd0FYWERpR0NPaF9ETXJVWHFwRWdnb2xlZE8yVGItWWZZaVZiRmlxODhodTFWWV9sNFVSNFlXbmFhWUVDN1Y5U1F0TGtPMGJjYU43SXFQcmRWbWRVY1VROWhKMFdBa2RCMjc1?oc=5",
-          "description": "L’Arabia Saudita riavvia l’oleodotto Est-Ovest fermo dal 13 settembre. Allarme Onu per i profughi in fuga dallo Yemen Il Fatto Quotidiano Arabia Saudita verso la riapertura dell'oleodotto East-West, il petrolio scende sotto 100 dollari HuffPost Italia Il petrolio chiude in calo a New York, a 94,97 dollari ANSA L’Arabia Saudita ha riaperto l’oleodotto Est-Ovest, con una portata ridotta Il Post Pros",
-          "pubDate": "Tue, 22 Sep 2026 12:59:36 GMT"
-        },
-        {
-          "source": "google-news-it-business",
-          "title": "Arabia Saudita verso la riapertura dell'oleodotto East-West, il petrolio scende sotto 100 dollari - HuffPost Italia",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcEdMVjA0MDA2RWhrSk1veHU1WERvSGpva1RVZzlBS05UV3RaMnNWNzY2eHVqQ2ZLNi1GbWZGSnV0RXhRckJ0Y1hFQjF1R3JpM0xWbjFsaXJwSlJRNXVJUWljUHFIM1k0eHNpZzA5X0RkNm5PeHQyT1gxWTF1UkttbXp4bVlZR3R3WnVmUXZCN3JNUXRGeVNURy1ESHZscmJjai1YaEJ2SWFpVG96Nk9VTElRZlBsVUZrb3A1dEs3ZFUwLUF3RzlVNjBReElVRDEyZHhRMHlYMHVOV3VNWXZ2OGZ4ZlpyX1Vxa25MeUoyYw?oc=5",
-          "description": "Arabia Saudita verso la riapertura dell'oleodotto East-West, il petrolio scende sotto 100 dollari HuffPost Italia Il petrolio chiude in calo a New York, a 94,97 dollari ANSA L’Arabia Saudita ha riaperto l’oleodotto Est-Ovest, con una portata ridotta Il Post Prosegue la discesa del petrolio, Brent sotto i 100 dollari al barile rainews.it Petrolio sopra i 101 dollari, tra diplomazia USA-Iran e risch",
-          "pubDate": "Tue, 22 Sep 2026 12:06:00 GMT"
-        },
-        {
-          "source": "ansa-economia",
-          "title": "Il petrolio chiude in calo a New York, a 94,97 dollari",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/il-petrolio-chiude-in-calo-a-new-york-a-9497-dollari_d753bc6b-c8a5-406e-8be8-f5d9199858e6.html",
-          "description": "Il Wti a -0,85%, il Brent cede l'1,28% a quota 99,06",
-          "pubDate": "Tue, 22 Sep 2026 20:47:20 +0200"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "sanzioni ue oligarchi russi",
-      "label": "Ue toglie sanzioni a Usmanov e Fridman, Kiev protesta",
-      "n_items": 3,
-      "n_sources": 3,
-      "category": "geopolitica",
-      "macro_area": "geopolitica",
-      "richness": 3,
-      "score": 21,
-      "cooldown": false,
-      "items": [
         {
           "source": "google-news-it-world",
-          "title": "Usmanov e Fridman fuori dalle sanzioni Ue: ecco i motivi - Il Fatto Quotidiano",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObTktZEpfanVlbFRtVUQzSWt4TFNNZExlbWRmYUw3VzVYR2k3Wk9ObUd4anRvWExTYVdvY29uM1VmMUlkWVV1VzhLZEg0cHo1enRqX0xTZ1ZjVFQ5M05rUy05eVRybmxVRnJrQzNtY0hYRjRmQ3htNUYtdkV6eEltNkMxQkpTZXFqQU1uTllMbXk2QkpaZ1JvdTFSS2FscGFaVkE?oc=5",
-          "description": "Usmanov e Fridman fuori dalle sanzioni Ue: ecco i motivi Il Fatto Quotidiano Sanzioni Russia: l'Europa è divisa, Kallas chiede più pressione Il Fatto Quotidiano Ue, via le sanzioni a due oligarchi russi. Kiev: “Vergognoso e ingiustificabile” la Repubblica Intesa Ue sulle sanzioni ai russi, graziati due oligarchi. L'ira di Kiev ANSA Perché la Francia ha tolto le sanzioni ai due miliardari amici di ",
-          "pubDate": "Tue, 22 Sep 2026 18:45:14 GMT"
+          "title": "Russia dice no ai negoziati, Trump apre alla produzione Patriot in Ucraina - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOVViOHdnRkFZWUZuMks2TTBBWVpxazRvMzZmc0RPLTZzVHI1cmM2cFZOZVdXNHVGYzduMjBJaWY2VnI0a2gwNGN3VDZ1VnRFTlh0TDhCOHVtT2tNdlVFbVZNWDZ6eEZuNDBfcTUzVEtoOU5FTjNsbWZjVkJLQ3JqYWxUVXNULUZDZk9qUTk5Zmt6ak1qN0o0OEt6WXRUMml6TWc?oc=5",
+          "description": "Russia dice no ai negoziati, Trump apre alla produzione Patriot in Ucraina Il Fatto Quotidiano Il Cremlino cestina la tregua energetica spinta da Kiev e Usa: \"Esercizi retorici\" - Commissione Ue all'Ucraina: procedere su riforme e lotta alla corruzione RaiNews La risposta del Cremlino dopo l'incontro Trump-Zelensky: 'Non ci sono presupposti per i negoziati' ANSA La Russia bombarda Kiev. Mosca: \"Or",
+          "pubDate": "Wed, 23 Sep 2026 12:09:08 GMT"
         },
         {
-          "source": "google-news-en-top",
-          "title": "EU renews Russia sanctions, drops Russian billionaires Usmanov and Fridman - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnhFeHB1dlJzNUFaZkYzM0d3cFNyaDI3bFo3VjJFYW5wc0dhandneXlLVkstbVhfd0REaXJrUmx2TF9tRTd0QzdoTExocDNHSFhwVTlVRkZ6RzhKMU4yckMwNzEzS0xtalhQQl9vSkpBdjRxbUFVczFVc1NEQVJQM3R0NEdaQThjX0owTkdxbUcxb3JuM1c3XzNCVGN4dXV4OTNBeEQ3bURQWGxnRmdaVw?oc=5",
-          "description": "EU renews Russia sanctions, drops Russian billionaires Usmanov and Fridman Reuters Ukraine anger as EU removes Russian oligarchs from sanctions list BBC E.U. drops sanctions on two of Russia’s richest oligarchs despite Kyiv’s outcry The Washington Post EU removes two oligarchs from Russia sanctions list as deadline looms The Guardian 'Cherry-picking sanctions' normalises Russia, Latvian PM warns e",
-          "pubDate": "Tue, 22 Sep 2026 17:37:37 GMT"
+          "source": "ansa-homepage",
+          "title": "Rubio: 'Russia e Ucraina vogliono tregua energetica e sul grano'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/23/rubio-russia-e-ucraina-vogliono-tregua-energetica-e-sul-grano-_46f75301-5acd-49dc-8d3d-ddd89aa8bcdc.html",
+          "description": "Incontro del segretario di Stato Usa con Lavrov. Il Cremlino dopo l'incontro Trump-Zelensky: 'Non ci sono presupposti per i negoziati'",
+          "pubDate": "Wed, 23 Sep 2026 17:35:05 +0200"
         },
         {
-          "source": "bbc-world",
-          "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-          "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
-          "description": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
-          "pubDate": "Tue, 22 Sep 2026 19:06:06 GMT"
+          "source": "ansa-homepage",
+          "title": "Morto un operaio al Colosseo, Meloni: 'Morte inaccettabile'",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/23/morto-un-operaio-al-colosseo-meloni-morte-inaccettabile_d2e19d2c-1896-4bd4-b861-c2d8e26b5a9e.html",
+          "description": "La vittima di 22 anni è caduta da un'altezza di 10 metri. Il ragazzo trovato on l'imbracatura non agganciata alla fune. Il Parco archeologico ha disposto la chiusura dell'Anfiteatro Flavio in segno di lutto, alle 19 una fiaccolata per il giovane.",
+          "pubDate": "Wed, 23 Sep 2026 17:05:37 +0200"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "rinnegozazione salari italia",
-      "label": "Tavolo governo-sindacati: stipendi e potere d'acquisto al centro",
+      "keyword": "ai estinzione umana ricercatori",
+      "label": "Ricercatori avvertono: IA rischia di portare all'estinzione",
       "n_items": 3,
-      "n_sources": 1,
-      "category": "lavoro",
-      "macro_area": "societa-diritti",
-      "richness": 4,
-      "score": 19,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "ansa-economia",
-          "title": "Pirulli (Cisl), al tavolo con le imprese \"complessità ma le stiamo affrontando\"",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/pirulli-cisl-al-tavolo-con-le-imprese-complessita-ma-le-stiamo-affrontando_3c34a62b-026c-4bea-a542-3fc75408a277.html",
-          "description": "Nodo questione salariale. \"Dobbiamo raccogliere la sfida e arrivare al risultato\"",
-          "pubDate": "Tue, 22 Sep 2026 20:19:37 +0200"
-        },
-        {
-          "source": "ansa-economia",
-          "title": "Landini, al tavolo con le imprese 'la questione salariale è un punto fondamentale'",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/landini-al-tavolo-con-le-imprese-la-questione-salariale-e-un-punto-fondamentale_2001acd8-cea9-47f0-9f26-e82791cb90df.html",
-          "description": "Con potere di acquisto e la rappresentanza è un punto che non è ancora risolto",
-          "pubDate": "Tue, 22 Sep 2026 20:18:07 +0200"
-        },
-        {
-          "source": "ansa-economia",
-          "title": "Bombardieri, a tavolo con le imprese nodo salari, confronto complesso ma si va avanti",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/bombardieri-a-tavolo-con-le-imprese-nodo-salari-confronto-complesso-ma-si-va-avanti_2d1cc70c-cdc6-40f7-b218-fe5c6f62d918.html",
-          "description": "Il 28 settembre nuovo incontro, \"sarà la giornata decisiva\"",
-          "pubDate": "Tue, 22 Sep 2026 20:08:15 +0200"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "ia rischio estinzione ricercatori",
-      "label": "350 leader dell'industria firmano allarme: IA rischia come pandemie",
-      "n_items": 2,
-      "n_sources": 1,
+      "n_sources": 2,
       "category": "tech-ai",
       "macro_area": "tech-ai",
       "richness": 4,
-      "score": 18,
+      "score": 22,
       "cooldown": false,
       "items": [
         {
@@ -305,104 +116,195 @@
           "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/lallarme-dei-big-rischio-estinzione-con-ia-e-come-pandemie_3afde5e5-7bcf-464e-b3aa-aee6577a9b23.html",
           "description": "Nyt riporta lettera di 350 leader industria, anche ceo OpenAI",
           "pubDate": "Tue, 30 May 2023 14:12:41 +0200"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Come dovrebbe ucciderci l'AI? Ecco tre ipotesi degli scienziati californiani - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZGVIWTkzeVlQYWRVLVNZQVM1WDVfOXZ3el9ncEVjZkU2Vm1HY2RFOVloYko1blNCdTdMYVRydG5TWER3NHVLQW91bGlHOC1sMmw3aGZiZ1ZWSVdnRF9CZ3JUZ1dYMWpCdlFXeEkwQjlNdDFjZE9hUEhDb2lpWWJQWmNBZFNrRk9lUW80WDRYNnVKZXhkMVBvMGhsZkZ1OU5SeGkzSDJIY1hKSmFMWkRlS2o2cGtSaVNHZGFRNnpxQkw0MFI0U1pHMUNUYlhfUG92UHBsQkFwbWdidlhMSEtIdEdtSXlUdVRneERZRkVTcDlLbXliZ0FLT2tOWQ?oc=5",
+          "description": "Come dovrebbe ucciderci l'AI? Ecco tre ipotesi degli scienziati californiani Corriere della Sera",
+          "pubDate": "Tue, 22 Sep 2026 22:02:07 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "houthi attacchi g7 yemen",
-      "label": "G7 chiede ultimatum agli Houthi per cessare gli attacchi",
+      "keyword": "salari italia ocse 2026",
+      "label": "Ocse rivede Pil italiano al rialzo, ma salari giù del 6,1%",
       "n_items": 3,
       "n_sources": 2,
-      "category": "geopolitica",
-      "macro_area": "geopolitica",
+      "category": "economia",
+      "macro_area": "economia",
       "richness": 3,
       "score": 18,
       "cooldown": false,
       "items": [
         {
-          "source": "google-news-it-world",
-          "title": "Ministri esteri G7, 'gli Houthi cessino immediatamente attacchi' - ANSA",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOS0JrNW9FMFJxcUVRQnc5WlBIRjJoYTFwRTZ4VDJWbEJwVnpZMS1QaGtpdjIzc05VUFZpWERHSHVOa0ZYbzZacmU4c2tzdUFaa2RIcmVScUNOSUc5TkJQeFI4Q1RBd3VFTk10enBnZFZ5cGwwYkUxb2E2TnZnNWlfSTNXYThSeUpSeXA0djIyd2RqRWZnUGNCWjFNb3VIbWhlamVndWZoRUJuQ0N0cFNPejdLSU8tTENiTWhMZGZ0YkhvbGN5R3BIY09SYkNPai05TkZDR0w5Nm1iOU84amdYc1ZVZHBqV0R1WXhV?oc=5",
-          "description": "Ministri esteri G7, 'gli Houthi cessino immediatamente attacchi' ANSA Più di 100mila persone in Yemen sono rimaste senza casa Il Post Dichiarazione del G7 su Bab al-Mandab e sui diritti e le libertà di navigazione Ministero degli Affari Esteri e della Cooperazione Internazionale Media, al via offensiva Houthi per il controllo dei monti Kahbub ANSA Houthi, l'ex milizia «povera» che umilia l'opulent",
-          "pubDate": "Tue, 22 Sep 2026 08:00:00 GMT"
-        },
-        {
-          "source": "google-news-it-world",
-          "title": "Houthi: l'ultimatum del G7: 'Cessino subito gli attacchi' - AGI",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN2NabEdPM1ZwN3E2TmRjelREVmJyZ2hrelhuVzVxYmt3NE8wNjBkV0hMUksySVFkaGRiS2tTYkRTTmUtZ3doSEN6b3Q1MmNWV2VGTmtkeUhMa0l0YkgxQktrSy04NzgtaW9GMzZHejFTN3VxR2ZCV01iZEVjVFhmQ2Q0N0pzQW8?oc=5",
-          "description": "Houthi: l'ultimatum del G7: 'Cessino subito gli attacchi' AGI Zelensky vede Macron all'Onu. La Francia lavora a una risoluzione per Hormuz ANSA Macron vede Trump: più sostegno a Kiev rainews.it Macron incontra Trump a New York, sul tavolo risoluzione ONU per Hormuz e Ucraina Euronews 'Francia lavora a risoluzione del consiglio di sicurezza dell'Onu per Hormuz' Giornale di Brescia",
-          "pubDate": "Tue, 22 Sep 2026 05:50:38 GMT"
-        },
-        {
-          "source": "bbc-world",
-          "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-          "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
-          "description": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security.",
-          "pubDate": "Tue, 22 Sep 2026 13:39:09 GMT"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "btp green emissione italia",
-      "label": "Nuovo BTP Green: 8 miliardi emessi, domanda oltre 110 miliardi",
-      "n_items": 2,
-      "n_sources": 2,
-      "category": "economia",
-      "macro_area": "economia",
-      "richness": 3,
-      "score": 16,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-business",
-          "title": "Nuovo BTP Green: 8 miliardi di euro l’importo emesso - mef.gov.it",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONFprRy1PekhiY2lsLUQ5MEdoUU1nanZLTXhQMkxaR1Z1SGdxdmVWNDNoNGt1bHZaakFwZDNLclNWbHdYRmU0aU9KLXdEbGdXVWZKN0NXU3dtSDhFWEtZMzc4eURXakdZUU1VZlFMZEdNREpEOFBFUWs2WFhnVzB6Y0lWVlM4MEhFX0ppWXhwZTNvU29MMEJ6b0ZHdVVvek94Y0Zobk9mQlM?oc=5",
-          "description": "Nuovo BTP Green: 8 miliardi di euro l’importo emesso mef.gov.it Tesoro: la domanda per il nuovo Btp Green ha superato i 110 miliardi, emessi 8. Rendimento al 4,492% Il Sole 24 ORE Nuovo Btp Green a 12 anni in arrivo: cosa sapere sull’emissione SoldiOnline.it MEF, 8 miliardi di euro per il nuovo BTP Green a 12 anni Borsa Italiana Nuovo Btp Green a 12 anni: rendimento al 4,5%. Richieste per 112 mili",
-          "pubDate": "Tue, 22 Sep 2026 14:03:25 GMT"
+          "source": "google-news-it-top",
+          "title": "Ocse rivede al rialzo il Pil italiano 2026, ma i salari restano giù del 6,1% - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcmFYVlo5WFJKaWNqME9waVI4MDBWUUtiZDU2b3BFMEtqNm9Jc0FjazdOVzNMamNVSEJ0dWcyWkp4RnJmeHFOTVpUdzBXazktUGZFNVFlRmQ2cW1IN1FHU2dUWWhrX0hiMlNJak4zNXgwZks3dmRkU0pmc1NuVXNMR0pVSldyRzRzRWRYQks1YW5HSTlYZkNVZ1RONFpHRWF3cUJGcXM5X0dTU3hTenNtSXZhMA?oc=5",
+          "description": "Ocse rivede al rialzo il Pil italiano 2026, ma i salari restano giù del 6,1% Il Fatto Quotidiano L’Ocse conferma la crescita globale al 2,9% e alza quella dell’Italia allo 0,9% Il Sole 24 ORE L’Ocse rivede al rialzo la crescita dell’Italia: +0,9% nel 2026 la Repubblica Pil, Urso: \"Bene rialzo stime OCSE, ora affrontiamo emergenza energia\" Borsa Italiana Procaccini (FdI), 'bene Ocse, Italia tiene a",
+          "pubDate": "Wed, 23 Sep 2026 09:55:49 GMT"
         },
         {
           "source": "ansa-economia",
-          "title": "Mef, la domanda per il nuovo Btp Green ha superato i 110 miliardi",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/mef-la-domanda-per-il-nuovo-btp-green-ha-superato-i-110-miliardi_321094bf-c67a-4ed2-88e8-c4306485e7bd.html",
-          "description": "Investitori Esg hanno sottoscritto circa l'80% del collocamento",
-          "pubDate": "Tue, 22 Sep 2026 18:52:26 +0200"
+          "title": "Ocse, livello salari Italia e altri Paesi ancora pari o inferiore a livelli pre-Covid",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/ocse-livello-salari-italia-e-altri-paesi-ancora-pari-o-inferiore-a-livelli_e2c8601c-580b-4f1e-8f46-c314c3574c83.html",
+          "description": "In concomitanza con l'aumento dei prezzi del carburante",
+          "pubDate": "Wed, 23 Sep 2026 16:18:02 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Giorgetti, la priorità è il taglio delle tasse, sintesi sulla manovra a breve",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/giorgetti-la-priorita-e-il-taglio-delle-tasse-sintesi-sulla-manovra-a-breve_b1a5b09c-b8ef-457b-a62e-ec49f8a55922.html",
+          "description": "Migliorate le stime dell'Ocse, non siamo in coda in Europa",
+          "pubDate": "Wed, 23 Sep 2026 17:55:29 +0200"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "sicurezza lavoro investimenti",
-      "label": "Calderone stanzia 600 milioni e 100 ispettori per la sicurezza",
+      "keyword": "xi washington dazi tech chip",
+      "label": "Xi a Washington: Trump lo accoglie con caccia, agenda su dazi e chip",
       "n_items": 2,
       "n_sources": 2,
-      "category": "lavoro",
-      "macro_area": "societa-diritti",
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
       "richness": 3,
       "score": 16,
       "cooldown": false,
       "items": [
         {
           "source": "google-news-it-top",
-          "title": "Lavoro, Calderone: \"100 ispettori in più e 600 milioni l'anno stanziati per sicurezza\" - RaiNews",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNRWRRR1h0eGo5aWVxdi1ncGotZU5abkhRZ2FrT3JOYzRpa04ycU9PWUVaZ214UUxGUVl0bklueE5CZ29rUHBLc0dUZXRSVGMzcFIwV2xJSUxlNklFVnJRVk52a1NDUHdaZ2Y2cm0wYnV4LU8tdUh4bDl5bDMzaEtZNVJNT1lwUjdqVTUwV2JhZ2hLVGhPNlc1dEhMMnA1Z09BSGxRTmhpUHZycTdQLXR4bFlxYWpGaG9kNXlRSzhRRE50VlM0V2YwcG4zT3Z6UlFKaUZyQmxUMTFyN19sNUQ4QWJSSjFUOHhnUU5zT05PR0dNVC1RbS1RcDBEcnNPeWVBY0N4MtIBigJBVV95cUxPeERlTTh5STdDSUE0eVZYWmxMRmxIZ0h6WEpmZFptQU9sWlotd1BXUGJaRU1lR0IyVUZrMTFSMWVCVHZlc2RDbE5qcEE2Yy1XWk1UVk8xaVphNDkwSEo4ZFN0dnNPZThBbHFrbUhMbjVic01od1BRSThhZ3FqN0ZETmdIQzBFdHlCNzY0VDF0c0tNZmJScGlSNTdBckVEWFFsQ0JudmlHRVpSNGdVb3Y4T0RZRUZQemlTeVhsZF8teF9LYVZ0NnRPQ3hQRnZNWXRQOFludFY0ckY4bm5QUGpCZVFyc0tac0x0VEV6QVE2bXhNQWhNcXo4LWo0WldYZmJ3N0x3Y1RnbC1LUQ?oc=5",
-          "description": "Lavoro, Calderone: \"100 ispettori in più e 600 milioni l'anno stanziati per sicurezza\" RaiNews Inail: morti sul lavoro in lieve calo, e più malattie professionali la Repubblica In Italia aumentano gli infortuni sul lavoro, ma diminuiscono le vittime Vatican News Relazione Annuale 2025 dell'INAIL (22.09.2026) Radio Radicale Lavoro, relazione annuale INAIL: crescono infortuni, casi mortali in calo B",
-          "pubDate": "Tue, 22 Sep 2026 11:35:00 GMT"
+          "title": "Al via la tre giorni di Xi a Washington: Trump lo accoglie con i caccia in cielo e sul tavolo dazi, chip e minerali - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNbTl4UGxjXzcwc2stc1lqUGl4Znc0UWtjY3pwVmIwS1pPMzFMbEIwWU9hUUkzNzBMSVlsYVpCTnlXT3JEWGlTTTc0NzgzcG0tU3ZjSW5fMXlXWmF0RWtyUlhvQzRERC1NTzRlcUtyc3VUUWN5LXdMYjJVVG41TnhxQjBVZ09ldVZYM1FDNE16NWN4Z3k5eThvdzZHMl9VOFVZeEZQZFlvc3kxMFdoMl9kQy1rUnB0OWdmZWVvel9aX0dacTd2UWo0SmdyMnJyX2NBQ3NXRTE3TDVyZlMzaEFvZmZqWjJNQzBWdnI3MHJ6UlZtYkQzUk9HTTJWRG5lMnFlaC1mU25yZ2NXVDdsY20yRXhBRVVzaTBxOXAxeWtTOU1WV1pXMFNmcGRYd9IBsAJBVV95cUxObVlkTHRwS19Jam4tNFlWU00tUTRneEI1eWFGVi13ZGlKZkloUV9PZ1luaHRPYkN6eTV6VFJSalhzTzFXeTlna0w2VmZzaTAtb3dlRWdJbDRqOFZ2M0RDdlFSQXNobWFDay1Qc1N5YWFfSG5UaGhaOFh6Vng4R2ROTXNtc0hobXlWanZFazczbXNadGp3V05waFRZUGJ5QVM1UjRWbGFUd0dpRVhjNXplSnVzeHQxUGdYd2d6ekVqOGY1M0hJcHppUFpTX3puWjlaSmxYMkY5dVA5czVJcHY4Ym5WS1h1N0otWFJrRFpVZXBMN3FqdWM5QjJiSHRsdDloYV94U2JJNlhJYVpmenNzdVBaVktNVTJfRUlSRzZtTzdaSlpiZnpXcTY3dTlCTmd3?oc=5",
+          "description": "Al via la tre giorni di Xi a Washington: Trump lo accoglie con i caccia in cielo e sul tavolo dazi, chip e minerali Corriere della Sera Perché a Xi basta la tregua, e perché non capiamo la sua Cina Corriere della Sera Tutti i nodi dell’incontro Trump-Xi, dalla tregua commerciale all’IA. Ma il cuore degli interessi cinesi è Ta… la Repubblica I sorrisi fra Trump e Xi Jinping nascondono una rivalità ",
+          "pubDate": "Wed, 23 Sep 2026 09:10:00 GMT"
         },
         {
-          "source": "google-news-it-nation",
-          "title": "Lavoro, Calderone: \"100 ispettori in più e 600 milioni l'anno stanziati per sicurezza\" - rainews.it",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNRWRRR1h0eGo5aWVxdi1ncGotZU5abkhRZ2FrT3JOYzRpa04ycU9PWUVaZ214UUxGUVl0bklueE5CZ29rUHBLc0dUZXRSVGMzcFIwV2xJSUxlNklFVnJRVk52a1NDUHdaZ2Y2cm0wYnV4LU8tdUh4bDl5bDMzaEtZNVJNT1lwUjdqVTUwV2JhZ2hLVGhPNlc1dEhMMnA1Z09BSGxRTmhpUHZycTdQLXR4bFlxYWpGaG9kNXlRSzhRRE50VlM0V2YwcG4zT3Z6UlFKaUZyQmxUMTFyN19sNUQ4QWJSSjFUOHhnUU5zT05PR0dNVC1RbS1RcDBEcnNPeWVBY0N4MtIBigJBVV95cUxPeERlTTh5STdDSUE0eVZYWmxMRmxIZ0h6WEpmZFptQU9sWlotd1BXUGJaRU1lR0IyVUZrMTFSMWVCVHZlc2RDbE5qcEE2Yy1XWk1UVk8xaVphNDkwSEo4ZFN0dnNPZThBbHFrbUhMbjVic01od1BRSThhZ3FqN0ZETmdIQzBFdHlCNzY0VDF0c0tNZmJScGlSNTdBckVEWFFsQ0JudmlHRVpSNGdVb3Y4T0RZRUZQemlTeVhsZF8teF9LYVZ0NnRPQ3hQRnZNWXRQOFludFY0ckY4bm5QUGpCZVFyc0tac0x0VEV6QVE2bXhNQWhNcXo4LWo0WldYZmJ3N0x3Y1RnbC1LUQ?oc=5",
-          "description": "Lavoro, Calderone: \"100 ispettori in più e 600 milioni l'anno stanziati per sicurezza\" rainews.it Inail: morti sul lavoro in lieve calo, e più malattie professionali la Repubblica In Italia aumentano gli infortuni sul lavoro, ma diminuiscono le vittime Vatican News Relazione Annuale 2025 dell'INAIL (22.09.2026) Radio Radicale Lavoro, relazione annuale INAIL: crescono infortuni, casi mortali in cal",
-          "pubDate": "Tue, 22 Sep 2026 11:35:00 GMT"
+          "source": "google-news-en-top",
+          "title": "Trump plans grand spectacle for potentially tense Xi talks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaVBYbDJtMVNJRWNyaDlFLXhaWDBIbERYTkRRYVliRGR3eklaai1JTHBhZ2tOTjBqRk1CSTFvOENrMjduNVhWRUFiNzRsbDg0Y1ZJdFlKTy1oSUVBaUpTNlkwVS02emZkaHVUZVRaZjJleVhJWF9uY09xSHZMOVh3YXh2aVMwV09HeGJGSXVZTWZCRE5iNHdNdDI0bDU5aXZvMjJzMQ?oc=5",
+          "description": "Trump plans grand spectacle for potentially tense Xi talks Reuters The Behind-the-Scenes Push to Get Xi a Red Carpet Welcome in America WSJ Trump faces Xi as strains with allies complicate U.S. pressure on China CNBC Downtown DC road closures in effect for President Xi Jinping's visit NBC4 Washington Trump-Xi meeting comes amid tensions on Iran, Taiwan and trade: What to know abcnews.com",
+          "pubDate": "Wed, 23 Sep 2026 13:15:11 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "trump xi jinping vertice",
-      "label": "Trump e Xi Jinping si incontrano: IA e commercio nel focus",
+      "keyword": "sfratto donna anziana madrid",
+      "label": "Donna 87enne disabile sfrattata dopo 70 anni in Spagna",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "diritti",
+      "macro_area": "societa-diritti",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "87 anni, disabile e sfrattata dopo 70 anni: la storia di Maricarmen - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdXRkMkpXYUpuUlJiandIbl9VVHE5M2dobGhEOHhoRHJNSXV4RmxIaVNJbWVCU1JDWEh6TDNkVGhmZnRScnNpaTlFM0NoRHJXQWhCOU1ldmtDSFVibmFkSXVsR1lGUEFjUlZUS0VEVkoxekg1LVJQcG53TVc3d0lleXNXNFkwcVpJZXJza0dEcVptZVFHVTFnUWVwcV9qd1RoYlZNYjFvVHV4UDdsRGljS0V0NW11SkRkMENTQ0VLcGI0cnBMUkRRUHdUU2s3dTNkVzRlQTZUekoyS1BqSjJqN19aSnA?oc=5",
+          "description": "87 anni, disabile e sfrattata dopo 70 anni: la storia di Maricarmen Il Fatto Quotidiano Sfrattata a 87 anni, tensione e proteste a Madrid: il calvario di Maricarmen portata via dalla casa dove viveva da 71 anni Il Messaggero Madrid, sgomberato il presidio per l’87enne Maricarmen sotto sfratto: scontri con la polizia TGLA7 Madrid, Maricarmen sfrattata a 87 anni nonostante la mobilitazione popolare:",
+          "pubDate": "Wed, 23 Sep 2026 12:48:48 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+          "description": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
+          "pubDate": "Wed, 23 Sep 2026 12:31:31 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "nucleare senato italy approvazione",
+      "label": "Senato approva in via definitiva il ddl nucleare: storico per l'Italia",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "energia",
+      "macro_area": "clima-salute",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Nucleare, via libera definitivo del Senato al Ddl delega. Pichetto: «Giornata storica per l’Italia - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY1ljQl8yRVllTE1VMUJXTFc4NHZneFo4cmVaS2tOS1RoeTQtLThTRXUycDJ6cEc4UXR2LWxXcTFGN0p5TDdTckVLcjgtdXBuMnJPSGRQNllENGpkN0tOWkUzWDE4RmJkN2tDWjg1S2ptLW16eEVJZ1JJN082bS1HMnB1a1dla1RFbWJTakVVWXh4LXRadVBjNUwwY0stLVpIdVBMVXV6YWQtd3ZwQ0s0MjE3cWF3VlVVaXlabWJBQ3BwUQ?oc=5",
+          "description": "Nucleare, via libera definitivo del Senato al Ddl delega. Pichetto: «Giornata storica per l’Italia Il Sole 24 ORE Legge sul ritorno del nucleare, via libera definitivo del Parlamento con il sì del Senato: cosa succede adesso? Corriere della Sera Disegno di legge delega sul nucleare: Silvia Fregolent (23.09.2026) Radio Radicale Energia nucleare, Newcleo debutta in borsa alla vigilia del voto (in Se",
+          "pubDate": "Wed, 23 Sep 2026 14:44:39 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Approvato dal Senato in via definitiva il ddl sul nucleare",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/approvato-dal-senato-in-via-definitiva-il-ddl-sul-nucleare_b7e4e93d-a8f7-4b8f-96af-f0a7c7221f73.html",
+          "description": "Meloni, promessa mantenuta, scelta coraggiosa e di buon senso",
+          "pubDate": "Wed, 23 Sep 2026 17:52:21 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "hurricane polo mexico categoria",
+      "label": "Uragano Polo categoria 5: una dei temporali più forti mai registrati",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "clima",
+      "macro_area": "clima-salute",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Category 5 Hurricane Polo is 'one of the strongest storms ever' - npr.org",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sbHhteTVUeFVkMEFuR0x5NmFzcHE0S0NyYWIyeEJ6MkpiYm5jTzBxbjJzakd2YlZ2bXU2dEl6dXdjZW5Nc3VTSm9rT0RXRzRHcEFlSXRtZDdTMjBiVHIyOXBHS00ydmI4SlFR?oc=5",
+          "description": "Category 5 Hurricane Polo is 'one of the strongest storms ever' npr.org Hurricane Polo churns off Mexico’s Pacific coast as ‘one of the strongest storms ever’ WOODTV.com Polo off Mexican coast is among ‘the strongest storms ever’ as Odalys becomes a hurricane apnews.com El Niño goes wild: Pacific Ocean under siege from tropical cyclones USA Today Hurricane Polo called ‘one of the strongest storms ",
+          "pubDate": "Wed, 23 Sep 2026 06:13:35 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
+          "link": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
+          "description": "The large storm in the Pacific Ocean is being driven by warm waters caused by the El Niño weather phenomenon.",
+          "pubDate": "Wed, 23 Sep 2026 12:24:02 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "nepal alluvioni himalaya clima",
+      "label": "Alluvioni Nepal: segnale di allarme per i Monti Himalaya",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "clima",
+      "macro_area": "clima-salute",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Is Nepal's flood a harbinger of what's to come in the Himalayas? - npr.org",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcEt5dnBudC1ZaXhLTVdDZnRwQkY5RFFFVWM3SFQ5UHdxanprVG0tN0k5XzJfNGpRWDRSRTRNOFZYak1SLU1FdGRsSExvSXBnblBmVjkwaWZIMVpoaFhhcUM5eU45NmpyTEkxSUllanBDR3dDb0VjV3A5bmZkQ0l1MEUzV1R0emtiSTRCMUFTN3JmT3M?oc=5",
+          "description": "Is Nepal's flood a harbinger of what's to come in the Himalayas? npr.org Warnings Across the Himalayas After Nepal Floods The New York Times If Climate Change Contributed to Nepal’s Floods, Should Polluters Pay? National Geographic Rapid Warming in the Himalaya Exacerbates Geohazard Cascades Beyond Adaptation Limits World Weather Attribution Nepal could show the world how to recover sustainably fr",
+          "pubDate": "Wed, 23 Sep 2026 11:48:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Unicef, in Nepal 14.000 bambini senza scuola un mese dopo le alluvioni",
+          "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/23/unicef-in-nepal-14.000-bambini-senza-scuola-un-mese-dopo-le-alluvioni_9ca960da-e671-489b-9d30-859ad97f650f.html",
+          "description": "L'organizzazione ha supportato la realizzazione di 48 spazi temporanei per l'apprendimento",
+          "pubDate": "Wed, 23 Sep 2026 16:27:56 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "houthi minacce usa gibuti",
+      "label": "Houthi minacciano colpi agli interessi Usa se intervengono",
       "n_items": 2,
       "n_sources": 2,
       "category": "geopolitica",
@@ -412,25 +314,25 @@
       "cooldown": false,
       "items": [
         {
-          "source": "google-news-it-world",
-          "title": "Cosa aspettarsi dal vertice tra Donald Trump e Xi Jinping - Internazionale",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFT00tLTFXQnplVTVSWWZFeVRjV0k0YnhaQVJGcWRnWTYxRjFQWFZVbnlZYi1CeWxqSXpCM3ZKUDBSWU5aWDhCNmxTQ2d6S05SelJjYkktRnI3Z1IwYjVEZmJMaWx5dXJvUWNxQjIyVUtZSFlpekd3Tm5kME1mVjg?oc=5",
-          "description": "Cosa aspettarsi dal vertice tra Donald Trump e Xi Jinping Internazionale «Stabilità costruttiva»: Xi va a Washington e cerca distensione nella sfida con gli Usa Corriere della Sera Usa, Bessent: \"Positivo colloquio con Cina su commercio e IA\" tg24.sky.it Borsa: future Ue in cerca di direzione, Brent torna sopra quota 102 dollari Il Sole 24 ORE Media, 'Xi chiederà a Trump stop ad armi Usa a Taiwan ",
-          "pubDate": "Tue, 22 Sep 2026 03:58:01 GMT"
+          "source": "google-news-it-top",
+          "title": "Guerra Iran, Houthi: \"Se Usa intervengono colpiremo loro interessi in area\". LIVE - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jdzROYmNqQTB1YlIwb3c5WHIxQ2c1OFN2SV9xR3d5Q2diWkEtTGNYRFZKd0J1bEdTa08xVC1yeUFiRWZTUWlUc1Z5dHBiUWZjUndUS3hXb1JOZFU0NGtUOGdLb1YwSGVwT0dfdUZPQVlpcHA0NEtFX1JScw?oc=5",
+          "description": "Guerra Iran, Houthi: \"Se Usa intervengono colpiremo loro interessi in area\". LIVE Sky TG24 Houthi: intervento Usa nello stretto di Bab el-Mandeb sarebbe linea rossa - Houthi: intervento Usa nello stretto di Bab el-Mandeb sarebbe linea rossa RaiNews Trump frena i raid contro gli Houthi: soltanto Londra tende una mano ai sauditi la Repubblica L’offensiva Houthi mette Trump all’angolo ISPI Trump rinu",
+          "pubDate": "Wed, 23 Sep 2026 13:35:24 GMT"
         },
         {
-          "source": "google-news-it-tech",
-          "title": "Washington, vertice Trump-Xi Jinping: IA, commercio e investimenti sul tavolo - Il Tempo",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaUNBZlc0cU40bnQ0aUsyNnV1WURBMHYzV0lCQ0czUmpMd19ZWmhIMTNmRHFSQU1GS0xHUjhtYVdGTkw5cUU1TWg1OFBvNy1PTWoxYnY5SFVIN1JhSVdzSldObVJER2FxTzVTQWtDZ2lJVHZ2Y0FLSl94ZWk4VU5hbHNXZ1hQWU1uNlZqa2VfVlBleUx0N1YtT0YzVlpKam8zazBCZWNySFFmVlY2d2pwNkxPRU8wenVmaWdqdHVIbnZDTTlLSHZlSzBTSTl5Tm14dGhfOHRB0gHbAUFVX3lxTE4xdGV1MUR2N285WUhqN1lrWkNrWFlPLXhTaDZnRUl4ZnJ2cGptNV83Q2JhamlTUzRnRVM4WUl6d3VMZUVDVXB4MG9YNkxrcXdTbGhTUUtFLXZ1cldaNGVsQ3lGckp2MERVdnJYX3V3aHQ2UE5YSGFKdHdTU2Z2bHFXQ2JzbkhlSWs4RS1OcjcwV3lvaElWNDN3WDk4LXBZckhpc1BoVVE1OWJ4a0Z4dFBZQ1pLU1U4dWR1anAzQzYtMDFPRjFzaEtwVW5jMFlyZU1mNTFuVjBQVEFaUQ?oc=5",
-          "description": "Washington, vertice Trump-Xi Jinping: IA, commercio e investimenti sul tavolo Il Tempo",
-          "pubDate": "Mon, 21 Sep 2026 19:11:00 GMT"
+          "source": "google-news-it-world",
+          "title": "Gli Houthi premono su Gibuti: effetto cascata sull’Etiopia - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNODBVc3RfZzlRMmtVOUZ5LXBPNk8ydzlxOGtKWGZQYVVqRGlMRnp5VXdpQ3FhSGE0amdsZDV5UnpxTmVRbWpCaVpzZC0wU25fZDFjUEdPLU90QkVObnlpLTZ1M3FlZk9QY2FiT1hDaEE5OFl1aDVfUTM0cVBwOXJadUN5NG5CV3ZxRGk2eGYya0NBMnpPT1AzWGNQbw?oc=5",
+          "description": "Gli Houthi premono su Gibuti: effetto cascata sull’Etiopia Il Sole 24 ORE Dichiarazione del G7 su Bab al-Mandab e sui diritti e le libertà di navigazione Ministero degli Affari Esteri e della Cooperazione Internazionale In Yemen esplosioni a Taiz, riaperto oleodotto saudita dopo attacchi Houthi Vatican News Media, 'consiglieri iraniani decisivi per l'avanzata degli Houthi in Yemen' ANSA Più di 100",
+          "pubDate": "Wed, 23 Sep 2026 05:22:17 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "meta ai agent assistente",
-      "label": "Wall Street sconta Meta AI agent come nuovo motore di ricavi",
+      "keyword": "claude opus 5.5 anthropic",
+      "label": "Claude Opus 5.5: Anthropic lancia nuovo modello che supera ChatGPT",
       "n_items": 1,
       "n_sources": 1,
       "category": "tech-ai",
@@ -440,39 +342,60 @@
       "cooldown": false,
       "items": [
         {
-          "source": "google-news-en-top",
-          "title": "Wall Street expects Meta's AI agent to shape into a new revenue engine - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSHZ3dUF2a3BDZVdNNW00Rm5jekRCZUlNeTdabXRaQUdNaHpqZG95QnlISWVGQTJYR3F0bWJ5MmkxUUZkYndqUkZsSG1EdXU4MFcwdE5taHp4UU1DTk16OWV0bWJDU0drdEVVb0FmMnJWUVdLbm5SRFdMdWtRMzd4NnRlUDB4bnVQd3d1Q1VmSmdVOFJQdlJtVTBQUExDeFVFdXRWbTRvVE9yTDFZdVE?oc=5",
-          "description": "Wall Street expects Meta's AI agent to shape into a new revenue engine Reuters I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away The New York Times Meta’s Muse Drags Down Stocks That Depend on ‘Consumer Inertia’ Bloomberg.com Meta's Muse AI agent downloads are surging. Here's how it compares to ChatGPT, Grok and Claude CNBC Financial stocks fall with AI and flattening yield curve in focu",
-          "pubDate": "Tue, 22 Sep 2026 18:25:41 GMT"
+          "source": "google-news-it-tech",
+          "title": "Claude Opus 5.5 è ufficiale e rende inutile qualsiasi altro modello di Anthropic (e forse anche ChatGPT Astra) - SmartWorld",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbWhNMGlpTFYtMVk3Qm9ZQUxYRGR0bTdXUzdISjhRajNId0tRSEFiT3NxMTN5QmVYelZmWGJlMjY0VDlfZHN6dHktT3VkZFBkT0tlMVZFUTQtcmdyTUZfSVVaWHlRWWxldm55RUxtNEpwMDRNSXVockpscWYwNXMwWjN2TDY2SGF0akV5Ng?oc=5",
+          "description": "Claude Opus 5.5 è ufficiale e rende inutile qualsiasi altro modello di Anthropic (e forse anche ChatGPT Astra) SmartWorld",
+          "pubDate": "Tue, 22 Sep 2026 22:06:00 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "ransomware ue impatto attacchi",
-      "label": "Ransomware minaccia Ue: 57% motivato da ragioni ideologiche",
+      "keyword": "sanzioni russia ue baltici",
+      "label": "Sanzioni Russia spaccano l'Ue: Baltici furiosi, Kiev delusa",
       "n_items": 1,
       "n_sources": 1,
-      "category": "tech-policy",
-      "macro_area": "tech-ai",
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
       "richness": 3,
       "score": 13,
       "cooldown": false,
       "items": [
         {
-          "source": "ansa-homepage",
-          "title": "Il ransomware minaccia cyber con il maggiore impatto in Ue",
-          "link": "https://www.ansa.it/canale_tecnologia/notizie/cybersecurity/2026/09/22/enisa-ransomware-minaccia-cyber-con-il-maggiore-impatto-a-breve-termine-in-ue_01f72e48-b7b4-429b-96b3-2d090bf8cc2b.html",
-          "description": "Report Enisa, 'il 57% degli incidenti motivato da ragioni ideologiche'",
-          "pubDate": "Tue, 22 Sep 2026 15:51:03 +0200"
+          "source": "google-news-it-world",
+          "title": "Le sanzioni alla Russia spaccano la Ue: Baltici furiosi e la delusione di Kiev - AGI",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR3laQ0VFanFlVXVtWHhiTkx5X2dwNVRMMHdLaUhMZEVmSGJuSm1ZQXphUnkzT1RmZmZKSk5jNDZpczdic1hpcXR6TTNwVFNrS25KcmtRNE54dGVuNlMtYmdOeV9qN19EYnhMS1JoR1BpTG0tc2o5UGNCWlJScnBfMXZFTTkySC1DaDJSd2VES1p4NzFIRDk1Qkt2ZWpkcUozb2JaY3NLSEplLXJPaExBag?oc=5",
+          "description": "Le sanzioni alla Russia spaccano la Ue: Baltici furiosi e la delusione di Kiev AGI Intesa Ue sulle sanzioni ai russi, graziati due oligarchi. L'ira di Kiev ANSA L'Ue rimuove le sanzioni a due oligarchi russi: protesta l'Ucraina Sky TG24 La Francia ha ottenuto quello che voleva sulle sanzioni contro la Russia Il Post Europe Today: Trump vede la guerra in Ucraina finire presto, l'Ue toglie sanzioni ",
+          "pubDate": "Wed, 23 Sep 2026 09:08:48 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "influenza campagna vaccinale ottobre",
-      "label": "Campagna antinfluenzale a ottobre: 9 vaccini aggiornati da AIFA",
+      "keyword": "clima terra resilienza rockstrom",
+      "label": "Scienziato Rockstrom: Terra perde capacità di resilienza",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "clima",
+      "macro_area": "clima-salute",
+      "richness": 3,
+      "score": 13,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Come sta la Terra? Lo scienziato Rockstrom: «Sta perdendo la sua capacità di resilienza. Nei prossimi mesi potrebbe farcela pagare cara» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWndabEQxelNER0Zlc3c4Z1BXblMxM0p5d1lKREhuTElUZ3dsZkNDS0JqaGUyQWdzU01BOWJYSkVFNW1scWNsZUl3NGNGd1ZkLWtSZmVGMlZ1c0JkbTBWNUZqcFZ2SXZXQlBJS1hOQjVXV2ZfMWo2NU5rbnd1QjNlQkJqWmVsaDZDYkZnUGxpa0lLZUs4MXJwRTQxTFlaZ2VqUGlUdUpOc1NEU3VKR1VMN1ZOQVNHdWRE0gG-AUFVX3lxTFBhQVNCN2t1QUttSlhadjM1dkVDeXpTazV3aEp1UFZ2bTZBTG51R1llQjZKU3F5UzZfU1V1d3c0dkFMY2IzLU9zLWljLWlWTGQ2TDBUUWF5LXhlck9Fbk5kQUEzRnZVaTBSd01ZR2k1czN4YlVfNEo1MHNpVmlpVHpoWGpiMXJLc041Q2NCdEVZdUFXc01YTGg4UVJneHY2Z3pVbU1CdzJUbXVEQUl2MGhXXzFYTTkzVGx6WkgxY3c?oc=5",
+          "description": "Come sta la Terra? Lo scienziato Rockstrom: «Sta perdendo la sua capacità di resilienza. Nei prossimi mesi potrebbe farcela pagare cara» Corriere della Sera La Terra in codice rosso: il pianeta verso i punti di non ritorno Alleanza Italiana per lo Sviluppo Sostenibile I limiti planetari verso il punto di non ritorno, infranti 7 su 9 VIDEO ANSA Clima, superato il punto di non ritorno. Infranti 7 li",
+          "pubDate": "Wed, 23 Sep 2026 14:12:01 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "morbillo casi aumentati 46%",
+      "label": "Morbillo: nei primi 5 mesi 2026 casi aumentati del 46%",
       "n_items": 1,
       "n_sources": 1,
       "category": "salute",
@@ -483,115 +406,150 @@
       "items": [
         {
           "source": "google-news-it-health",
-          "title": "Influenza, a ottobre al via la campagna vaccinale: sono 9 i vaccini aggiornati approvati da AIFA - rainews.it",
+          "title": "Morbillo, nei primi 5 mesi del 2026 i casi sono aumentati del 46% - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0hMcE5WcXpDTUZCM2p2SXNPWTFsNi1nQmhxbHV1RXpDQzlrV1dwNXNGZHRJU1dWU3dsblo1TVJmQXZEMVhpYXVackhSdXRPcU1ENHNQT3Y4NFhNcTRJV09OeWhQQTd4NDRLdnB3SVg4aVJWUjRLZHpSNklyazJCUDZCa21FUlRXZ0FrRjAxTmdUMWh6eTNF?oc=5",
+          "description": "Morbillo, nei primi 5 mesi del 2026 i casi sono aumentati del 46% Il Fatto Quotidiano Morbillo, allarme del Ministero per rischio di aumento dei casi in Italia: ecco in quali regioni Sky TG24 Morbillo, la circolare del ministero: “Casi in aumento, serve campagna vaccinale straordinaria” la Repubblica Morbillo, contagi in aumento tra giovani adulti (quasi tutti non vaccinati) e in alcune regioni. V",
+          "pubDate": "Wed, 23 Sep 2026 11:43:52 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "influenza vaccini ottobre campagna",
+      "label": "Campagna vaccinale influenza: 9 vaccini aggiornati approvati da AIFA",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "salute",
+      "macro_area": "clima-salute",
+      "richness": 3,
+      "score": 13,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-health",
+          "title": "Influenza, a ottobre al via la campagna vaccinale: sono 9 i vaccini aggiornati approvati da AIFA - RaiNews",
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxORVhwSjJ0R0hubTkxYkItbmRnaDJYQ3JZZTRqVGIwbVppNXRpVFoxb25SNGhwdGhJYmVBWUFsVDRQcjZSZXhpQkpzd3hVblpMNEkwUEc2V3A4SGhNbEdsRVA0OGxfcEZ0M2JGX2JSTzJHQW1XN01ENl9OSFJHbVN1YVAtQjRMVHpZQVU0Y0djU0syX2htN0Q1SWx3OTUzanZCeS1GVXZINXpUQzRtZHh6SUJlaEJuNGN0OFI1amJzUkxaQ25sSVdHNE5lZ292WTMyVm5pZHh6TFVkbm1PZEFZYzdwczgxRmN6VHRXaUttOFhSYkdqRXZrVTc3MkhpaFpqbDAzcFJiZ9IBjAJBVV95cUxNQl9fdmkyOWhBYnhOT2FpSzB0QjRSREswTF9YN3M5M2ZnRk9GaUJ6eGhCOWI3Q2pGeFZnejRTSlc0YXZLYnAxT0VlbVlYZUM2cm1IUkhrVVZPZ1c4czRITDA2b0RDNG5kRnJ6OGJoeHBEekZEbnlmWUdEYllKOExfMTd4cXEwYnJFYnNRaFZTa3U0ZkM5UkViS2MzTVhsWENaSjhFVGRlMWNDVnliMERRUUwzeWdlSWVwaTZIV19LY1ZJSkl4YWd4dTdCNERrYVYyenVsUTZUa0lnMUFkOVFKS2paUTdEQXc4SDNMQWhKTHJZTTZ6azUxa2lCdmJGYXhmZlc3VWtXWElUMXla?oc=5",
-          "description": "Influenza, a ottobre al via la campagna vaccinale: sono 9 i vaccini aggiornati approvati da AIFA rainews.it Icardi: \"Venti ricoveri per influenza in piena estate, vaccino gratis per tutti anche quest'anno in Liguria\" Primocanale Influenza, Aifa autorizza 9 vaccini per il 2026-2027. Ecco quali Doctor33 Vaccino antinfluenzale al via dal 1°ottobre in Lombardia. Dal giorno 12 la campagna gratuita si a",
+          "description": "Influenza, a ottobre al via la campagna vaccinale: sono 9 i vaccini aggiornati approvati da AIFA RaiNews Dal primo ottobre parte in Lombardia la vaccinazione antinfluenzale ANSA Antinfluenzale, il dottor Carrara: \"Consiglio di prenotarsi e vaccinarsi il prima possibile\" BergamoNews Vaccino antinfluenzale in Lombardia: al via la campagna gratuita. C'è anche l'open day a San Siro MilanoToday Influen",
           "pubDate": "Fri, 18 Sep 2026 05:54:45 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "autismo infezioni feto gravidanza",
-      "label": "Infezioni in gravidanza triplicano rischio autismo: studio su 3,6M nati",
-      "n_items": 1,
-      "n_sources": 1,
-      "category": "salute",
-      "macro_area": "clima-salute",
-      "richness": 3,
-      "score": 13,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-health",
-          "title": "Infezioni trasmesse al feto, il rischio di autismo triplica: lo studio su 3,6 milioni di nati - Mondosanità",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZURDMlQzcHQwX3ZQQ0xGUEU3Rk9EcE1HUWRLbno0WGNwM2lLNG1rYmV6NHBtNWhwMlFrVUhmeTBsUlJSMFlsNFhxS0xnVGhMdzVDQ0pXdzVtSzdEM3lZdHVhMlE1SW1zN0hDNmk5cHZ5LWR4Z1cxREMtV2czeWlicnJPaU5CdWdIaDVYWHhJdWFyeXpwTGdhNXR1dFAzSnRrclJMWDFqUllEWUNMTnZPQ0NENzU3aklMbW5WR3RDdVFQVTRiRktDMUdyVk5mRFZpOEZ1eFFRcmh4UGxobjdKdzJuOEhyZw?oc=5",
-          "description": "Infezioni trasmesse al feto, il rischio di autismo triplica: lo studio su 3,6 milioni di nati Mondosanità Autismo, una parte del rischio può essere scritta nello sperma prima della gravidanza: cosa dicono le nuove ricerche Mondosanità Toxoplasmosi, rosolia e citomegalovirus in gravidanza: rischio più alto di autismo e disabilità intellettiva sanitainformazione.it Infezioni in gravidanza aumentano ",
-          "pubDate": "Tue, 22 Sep 2026 15:15:00 GMT"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "alzheimer prevenzione fattori rischio",
-      "label": "Alzheimer: nuovo piano nazionale su 14 fattori modificabili",
-      "n_items": 1,
-      "n_sources": 1,
-      "category": "salute",
-      "macro_area": "clima-salute",
-      "richness": 3,
-      "score": 13,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-health",
-          "title": "Alzheimer, si punta sulla prevenzione dei 14 fattori di rischio modificabili. Verso il nuovo Piano nazionale demenze - Corriere della Sera",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNT3I1LVd5OTVqajEta3VoVEhMZHQwWXJGX21nTEl2TnpuNEloTnQ2U1Bpbnlna3IwaFVWTU9PSkpCcXc1dC03U245V21YZDVLcWMzUmN2SkpOQlNNVlZDaGJaVGtwQ3NQNlRQbS04SHdGTXNYOURTNFFuaUVOX3BNNHRiUXVGaVRxWGhzc1FhUFU0elFYWkhsWUtMUzJGTW1LMGtxWW9QcTc5MXVYa1VMck91Qkk5ZFlwRjl0WUtyQ3FoTjBiejB6M1IzQk1YQnRPMFlZWXM1N1NyRnJhWEEyRndvejBqbWh1LS1OLTFtcVEyRHV3a2xHT0Z1S2RyeTNYRWJEdENyQ1dRckhfcV9jLTE0WjZEZzhwTXhrVU1SN1oyWkZDT3YzRWtUN2VLYnlVMF9fZnVEaHlQdi01RlHSAcMCQVVfeXFMT0lfbHpMTkwxdFZWaUFIeTYzZlV4M2FhMzkzckJabUpMZUl3UDJveW5wTkluUHdzcGhvb0JDQWNQV2YxaVA1eGsxQjctajg5dkxVMFZydDRQZjZwNXZKdG51MXJoeVpLVVV4TFlZVUdRZHBlb3JvV1AzNmhnYnZ2RU5SM1BRRUJOTUM3ZjFTVElXRWRHSFM2T1B0eTVEaHhaUFNyN1EzOXJzYzMtRzc0dWxzaUtBODJ0WUJzdzd1TXlpWXNoSXc2VkxXWjloVXJFVHhGLTVXWDhlT3hhM2hTNUIwQzhwYjJERlI4OGZvT25LeVJoY3NrdFlHYnc1emZaTmdCWDNZaExnRFdqb3dScTd0NG82TzR1TEpyajlXRGVlakRFUk80VWlLZXBUcktxWFFzT0JjZ2xRTFVkdVhMYzRFeVU?oc=5",
-          "description": "Alzheimer, si punta sulla prevenzione dei 14 fattori di rischio modificabili. Verso il nuovo Piano nazionale demenze Corriere della Sera Demenze. Verso il nuovo Piano nazionale 2027-2031: risorse più efficienti, assistenza sul territorio e sostegno ai caregiver. Schillaci: “Dai singoli progetti a un investimento strutturale” Quotidiano Sanità Il Comando dei carabinieri di Trieste si illumina di vi",
-          "pubDate": "Mon, 21 Sep 2026 13:23:14 GMT"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "newcleo nucleare wall street",
-      "label": "Newcleo debutta a Wall Street: 200 milioni da startup nucleare",
-      "n_items": 1,
-      "n_sources": 1,
-      "category": "energia",
+      "keyword": "bollo auto sanatoria sanzioni",
+      "label": "Sanatoria bollo auto: azzerate sanzioni e interessi",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "economia",
       "macro_area": "economia",
-      "richness": 3,
-      "score": 13,
+      "richness": 2,
+      "score": 12,
       "cooldown": false,
       "items": [
         {
-          "source": "google-news-it-business",
-          "title": "Newcleo, debutto sull'ottovolante a Wall Street: raccolti 200 milioni netti - Il Sole 24 ORE",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY3BwdVFSU3p5MUpZYnlNSnU3dnhmY3dwbHpSQVVxWGhISEozTWZxZVB6ZlZRRmRrcy1TcGNUbFRJN09fdlNQVDhqRjg2Z3dqeUN5Qk9fcGI3N0VadEhYRk9CMjJmY3Zwa2RmOXNKV0FGaWJaRkJWYy12ekdtdHUtOUhoZTlQOUxzTWQ1T01fN3MxdE96MlI3WnpVYXAxeHZXZVliMmp4Mlk1OTg?oc=5",
-          "description": "Newcleo, debutto sull'ottovolante a Wall Street: raccolti 200 milioni netti Il Sole 24 ORE Stefano Buono: “Il Nasdaq ci darà nuovo slancio. Reattori Newcleo entro il 2032” la Repubblica Newcleo al Nasdaq, Strocchi (Electa): bella operazione ma i conti veri sono altri Borsa Italiana Per Newcleo esordio in calo del 5,8% al Nasdaq. Il ceo Stefano Buono: così Newcleo si farà conoscere in Usa Milano Fi",
-          "pubDate": "Wed, 23 Sep 2026 03:07:12 GMT"
+          "source": "google-news-it-top",
+          "title": "Bollo auto non pagato: scatta la sanatoria che azzera sanzioni e interessi - HDmotori",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rckFUck5UWGhaMU55U3UyZlByZUtDTUJIM0RhUGxoT0l6NWhlaEx3ZE55R0dpUnRGSU1ON0JScHBRWGE5bVkxV3pzam1pQ2NnNWxNa0c4NmlmbEh6dUgxem5zLVE0aGs4R1d4TFhBZw?oc=5",
+          "description": "Bollo auto non pagato: scatta la sanatoria che azzera sanzioni e interessi HDmotori Rottamazione del bollo auto, come funziona e quali Regioni hanno aderito la Repubblica Rottamazione-quinquies, seconda rata entro il 30 settembre ANSA Bollo auto non pagato: in cinque Regioni arriva la sanatoria alVolante Rottamazione-Quinquies: Bollo Auto Detraibile in Alcune Regioni MySolution",
+          "pubDate": "Wed, 23 Sep 2026 11:12:35 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Rottamazione-quinquies, seconda rata entro il 30 settembre",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/rottamazione-quinquies-seconda-rata-entro-il-30-settembre_2461bed5-7ddc-4447-ad13-213927619f36.html",
+          "description": "Per contribuenti che hanno aderito a definizione agevolata introdotta dalla manovra 2026",
+          "pubDate": "Wed, 23 Sep 2026 14:28:12 +0200"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "papa francesco sudamerica viaggio",
-      "label": "Papa Francesco in Sudamerica: 12 giorni, 3 Paesi, 14 città",
+      "keyword": "openai ukraine cyber defence",
+      "label": "OpenAI fornisce strumenti difesa cyber a Ucraina",
       "n_items": 1,
       "n_sources": 1,
-      "category": "general",
+      "category": "tech-policy",
+      "macro_area": "tech-ai",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "bbc-world",
+          "title": "OpenAI gives cyber defence tools to Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
+          "description": "Ukraine will get access to OpenAI's advanced GPT 5.6 Sol model under the deal - a rival to Anthropic's Mythos and Fable",
+          "pubDate": "Wed, 23 Sep 2026 12:01:37 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "maestra asilo bambini abusi",
+      "label": "Abusi all'asilo: maestra picchia bambini con insulti razziali",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "diritti",
       "macro_area": "societa-diritti",
       "richness": 2,
       "score": 9,
       "cooldown": false,
       "items": [
         {
-          "source": "google-news-it-world",
-          "title": "Il Papa in Sudamerica: ecco cosa farà in dodici giorni - Avvenire",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSWxvZENnTFloRVVTb3VSbUlvZV96UUxkSVJvQm5VaUdxMEJrUC13Tk9QRmdVejhaREFzN0JHODFGVVJncVFzZVItQzl3aUVXSlZvXzBldmhBbFI0VFJJNTEzN2w4VDhKdEItZFdCbTBEYzdfUkh0eFhPejRIMnFzZ251T0I2aEdpMlBndGZCVHdHbVNReGtMWA?oc=5",
-          "description": "Il Papa in Sudamerica: ecco cosa farà in dodici giorni Avvenire Il Papa in Sud America: 12 giorni, 3 Paesi, 14 luoghi. Ecco il programma del viaggio Vatican News Milei decreta un giorno festivo in occasione della visita del Papa in Argentina ANSA Leone XIV, viaggio record in America Latina: tre Paesi e oltre 31 mila chilometri rainews.it Papa Leone in Sud America: 12 giorni, 3 paesi, 14 luoghi Tv2",
-          "pubDate": "Mon, 21 Sep 2026 13:41:00 GMT"
+          "source": "google-news-it-nation",
+          "title": "\"Zingaro. Te sbatto ar muro gallina, maiale\". L'incubo dei bimbi picchiati dalla maestra d'asilo dell'Appio Latino - RomaToday",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42dlhDVTRRWlozb0lHUmtIN0ZYc2VUV1BKcTk1dU5seUFkR1ZVc3NPaG81WlJHbGJEQ01vOXdyaTl6LU94djVQel9nel9MOU0xejBNcTkxZEFhSk1Bd194a1lTaXdfX2VlNmpObzJ1ek1BZVVsTUJrTl9Eb1g?oc=5",
+          "description": "\"Zingaro. Te sbatto ar muro gallina, maiale\". L'incubo dei bimbi picchiati dalla maestra d'asilo dell'Appio Latino RomaToday Minacce e schiaffi ai bambini. I maltrattamenti in un asilo nido dell'Appio Latino RomaToday Nido all'Appio Latino, bimbi picchiati all'asilo dalla maestra: «Vi distruggo, mostri». La sua difesa: «Correggo gli errori dei genitori» Corriere Roma Schiaffi, strattoni e minacce ",
+          "pubDate": "Wed, 23 Sep 2026 12:50:00 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "segnali radio esopianeta beta pictoris",
-      "label": "Primo segnale radio da pianeta alieno: è aurora, non ET",
-      "n_items": 1,
-      "n_sources": 1,
-      "category": "general",
-      "macro_area": "economia",
-      "richness": 2,
-      "score": 9,
-      "cooldown": false,
+      "keyword": "burqa niqab scuola decreto",
+      "label": "Valditara: burqa e niqab non hanno spazio a scuola, tetto 30%",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "diritti",
+      "macro_area": "societa-diritti",
+      "richness": 3,
+      "score": 1.6,
+      "cooldown": true,
       "items": [
         {
+          "source": "google-news-it-top",
+          "title": "Giuseppe Valditara: \"Burqa e niqab non hanno spazio a scuola. Tetto del 30% sarà decreto legge\" - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQ0x0YWV5ZXJET243T0cyOE01ZEx6TlBvODVXcWNadWdIUjVqaFFpaTBfQjh4WktGWDdaZjQ4NzBMbVpwU2xRYkphY0xfeE1mSXFFVGVYaFY5aGlkSlJMUDRyaC1idGwwd2huWTI2d2dIeVBKVkJiOC1EMGVzeWl5dnpqR1huT3RoSnJuOUZuU2hNeE1hWHV0bDdXYVo1N2lRSWsydVBKWW15X0dYOUE4NGVhR2l6YXBicHpqcVc1VjlPSHZLVm1sZlBmc3o0bHVnU0pPd2x2cDJYTUNHLXBlcW83RHpuNVRzSk5IRjRGZUNpTFVLQkVTWm0zRmVBRmhDeEHSAYcCQVVfeXFMTVV4dlhWXzZTTnpRTmQyckNmdlhnYVE0MGd3dHVBVExRcVFOR250VVlLbjFtT0tPaHJNVzRLbC1PR1NvQ0x0a2VFVHVGR3Z3UmhBS2pNanlVLUJrRTlONDVaQkUwbUhIdlo4b2hDZ0w3c2ZyeGdXQ05TaExMdDVOamd2OUxtbUswU0VEYlZNZ0tNbG9OQXRfUjlqUWtsNEdKRmFfSUFsSVh5cUtwa0xuZjUzWExrb1ZWTHY3dVYwLTEyTU1BQlVNS1FveTk4V2QyNDBzeXkxcUdwbTBIVGgzbHhlTWZaUFNNeDNPT1Y2ZmlSZnVnckZFLU8zQWFud0pjZnlyc2tOUWc?oc=5",
+          "description": "Giuseppe Valditara: \"Burqa e niqab non hanno spazio a scuola. Tetto del 30% sarà decreto legge\" RaiNews Scuola, Meloni difende tetto a stranieri. Valditara: norme \"in un decreto legge\" Sky TG24 Le circolari di Mattarella servivano ad includere gli stranieri (pochi) presenti in Italia (di Shuola.net) HuffPost Italia Perché le circolari di Mattarella del 1989 e del 1990 non c'entrano col tetto agli ",
+          "pubDate": "Wed, 23 Sep 2026 11:35:00 GMT"
+        },
+        {
           "source": "ansa-homepage",
-          "title": "Primi segnali radio da un pianeta alieno, ma non li ha inviati ET",
-          "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/09/22/primi-segnali-radio-da-un-pianeta-alieno-ma-non-li-ha-inviati-et_c31249cf-a1eb-47ad-8cae-de11bff40eaf.html",
-          "description": "Sono generati dalle aurore che illuminano il cielo di Beta Pictoris b,lontano 63 anni luce",
-          "pubDate": "Tue, 22 Sep 2026 18:09:39 +0200"
+          "title": "Valditara: 'La norma sul tetto agli stranieri a scuola sarà un decreto legge'",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/09/23/valditara-la-norma-sul-tetto-agli-stranieri-a-scuola-sara-un-decreto-legge_89aa62bf-9298-49c1-8ad9-e1f9a52e3edf.html",
+          "description": "'Criterio puramente linguistico, vale anche per gli studenti Ue che non sanno l'italiano. Nessuno scontro col Quirinale, strumentalizzate le parole di Mattarella'",
+          "pubDate": "Wed, 23 Sep 2026 17:42:30 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "carburanti decreto energia tasse",
+      "label": "Dl carburanti approvato: anticipo d'imposta al 39% per grandi società",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 3,
+      "score": 1.3,
+      "cooldown": true,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Dl carburanti, via libera al decreto unico: anticipo d’imposta al 39% per le grandi società energetiche - QuiFinanza",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QbHZhNk1jTnp4NzdaR1MwUl9oWlYxb0djTWxCbDk4VWpjYldaM3E1Uy04RGFZZzB4VFZlcmVwUnhOOTdubXpCSjF5QWpkc0RQZldGeXNHWV9zT3FiRVVhbGxzdFUtQ0FYMGJ3NmtYem9GNWpwY1hqQdIBfkFVX3lxTFB0clhIcFVVMVhId1pwU0xLNlExd2hYbjZfeWtGU0lQemRTU2ZiS0NzQnFEN01JSkRxajNUdmtQeklXM2N6VUNiYVFXV2pnaDJ3bDJleVFHVVFqTjlEaFdNZFJKa1pNc2xhQkMtemFweFZISmtQZTF1X3lqdUc2UQ?oc=5",
+          "description": "Dl carburanti, via libera al decreto unico: anticipo d’imposta al 39% per le grandi società energetiche QuiFinanza Dl Carburanti, testo approvato in Senato: è legge. Cosa prevede Sky TG24 Dl carburanti, via libera definitivo al Senato: è legge Il Sole 24 ORE In Aula al Senato il decreto carburanti: intervista a Giorgio Maria Bergesio (22.09.2026) Radio Radicale Dl carburanti-Ilva, è legge: ok defi",
+          "pubDate": "Wed, 23 Sep 2026 10:01:22 GMT"
         }
       ],
       "clustering": "claude"

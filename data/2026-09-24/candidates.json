@@ -1,0 +1,761 @@
+{
+  "date": "2026-09-24",
+  "top_topics": [
+    {
+      "keyword": "xi jinping visita washington",
+      "label": "Trump accoglie Xi: vertice Usa-Cina su IA e commercio",
+      "n_items": 8,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 4,
+      "score": 56,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Xi Jinping a Washington, è la prima visita dal 2015: accoglienza regale di Trump, attesa per il vertice - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTjB2RTZQRTVvTUxpckhwRlRJX1VpWGUzT0M4am5WQ2d1Zy1iQkJ0N0dwZ0xqQnNhM2hkV01GbFZyOXpzT0JaODdpcnZ0SnR6Zloxb2Q3dnB4bmNNcWpCMlNpVDBVbGk4bXphWXY0b1d6aE11VVE3dkVaYnVJUWJhaUt2LVJINHZfa0lyZTVZdVFJZ2c4LXJnLTI1X1ZRTGhabnhzUElQSEE2clN2b3BJa2xaU1VNYVNwdHpPS0tGV2haZjDSAcgBQVVfeXFMTThGSTBpRUlfeGlfVW5PeVI0NGhXWUpSSHJZTkNUa0ZKbTN6VjdVSWlTamhWU0lJS0dZYk9aM3BhdS0tMGVkcWFJVFlLUXY3cTJkYUtCSGl4WWRxclhGUlRqZTNxQkdpQkhsLUlzU2l0SWJOSHpMYVlUUGJwd2pDSnk2TzBMY2Y2Q0VTWU95TjdWSVVIS2d3T2JIZE4zWVprU3c3ZDhWODVPc0x5MVR3NEZ2QlZPbXJlSTNZS3hEdFgwRGVKUHZMS2o?oc=5",
+          "description": "Xi Jinping a Washington, è la prima visita dal 2015: accoglienza regale di Trump, attesa per il vertice Corriere della Sera Storico vertice a Washington: Trump accoglie Xi tra fanfare e nodi geopolitici RaiNews Per Xi accoglienza con tappeto rosso: Trump cerca sponde su Iran, IA e dazi la Repubblica Stretta di mano tra Trump e Xi, al via la visita del leader cinese in Usa ANSA Il tratto che più ac",
+          "pubDate": "Wed, 23 Sep 2026 22:45:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump rolls out the red carpet for Chinese President Xi Jinping despite U.S.-China tensions - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVnVaQ216aHlTUE5KQVJzc3BnTE80U1JOdzlGeXZDc2hEOFpVajlOU0VmTVI5QUlXdjNrUnJ1UVBSWjhFWE10aEtlZnZkZV9ob25GQnEyNlZVWGJqenl4RzU2ZmxXbE9ZTk9lTXprd1pJR3B5Z1VHd01EckVrT3QydF9XbE9DWjZuYlEyM0FVSUY5OHBpbW0zUg?oc=5",
+          "description": "Trump rolls out the red carpet for Chinese President Xi Jinping despite U.S.-China tensions CBS News Trump welcomes China's Xi to Washington with planeside ceremony and extension of trade truce AP News Big picture or big deals? What the Xi-Trump summit holds for China and the US South China Morning Post DC street closures and parking restrictions as Chinese President Xi Jinping visits White House ",
+          "pubDate": "Thu, 24 Sep 2026 01:54:26 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Stretta di mano tra Trump e Xi, al via la visita del leader cinese in Usa",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/24/stretta-di-mano-tra-trump-e-xi-al-via-la-visita-del-leader-cinese-in-usa_56a36ff8-3394-40ca-b17c-750eac341420.html",
+          "description": "Il leader di Pechino: \"Dovremmo essere partner e non avversari\"",
+          "pubDate": "Thu, 24 Sep 2026 03:58:50 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Xi, 'Cina e Usa dovrebbero essere partner e non avversari'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/24/xi-cina-e-usa-dovrebbero-essere-partner-e-non-avversari_824b1f0d-1acf-4fe3-a793-b2eb425317ff.html",
+          "description": "'Rinascita della nazione cinese e ritorno alla grandezza dell'America possono coesistere'",
+          "pubDate": "Thu, 24 Sep 2026 03:23:25 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Trump, 'ottimo incontro con Xi'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/24/trump-ottimo-incontro-con-xi_82d64d7e-1471-4373-ba81-cba5db179aaf.html",
+          "description": "",
+          "pubDate": "Thu, 24 Sep 2026 01:09:36 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Xi, 'fiducioso in risultati fruttuosi dalla visita negli Usa'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/24/xi-fiducioso-in-risultati-fruttuosi-dalla-visita-negli-usa_314a1c88-d7e4-4ff8-9362-75c60f666237.html",
+          "description": "'Costruire relazioni stabili' e una cooperazione bilaterale 'in diversi altri settori'",
+          "pubDate": "Thu, 24 Sep 2026 00:55:15 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Bessent, tregua commerciale con la Cina estesa fino al 10 gennaio",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/24/bessent-tregua-commerciale-con-la-cina-estesa-fino-al-10-gennaio_8d73d284-9316-4697-8455-d4ee555297a5.html",
+          "description": "In scadenza il 10 novembre, concordata un'estensione di due mesi",
+          "pubDate": "Thu, 24 Sep 2026 00:38:50 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+          "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+          "description": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+          "pubDate": "Wed, 23 Sep 2026 22:01:17 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "zelensky onu guerra ucraina",
+      "label": "Zelensky all'Onu: Russia usa mercenari, Putin paziente zero",
+      "n_items": 7,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 4,
+      "score": 44,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Zelensky, 'Russia usa soldati da 47 Paesi, non lasciatevi trascinare' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWWd5MDVoaEJRX2M1eHB1UjI5NXpiaEw5bVN4aFFCT0IyeGZZdU0zTmRQTnI3NkJGR3FiaWh2YXNobk5hX096dTFiMncwRFVrM2Y0NHRJNmQwZEg3OW5zaVdMMVV1YU9WOWZIbTVTT3BXVWhRYzFrMndSNng3dTVyODRtTEpiOERSaUIwOGJxMTREN3RoYXg4SlYtZU5FQkowQ1REY29VeDJkT013dHdXMm9haFlsajhnTzBOWHhMRVE5YzBwZGRYcmV1eWdJcld2LUh4NHJBRzlISXBlUWFGRndGQmVxZWxGZzYxcVRpY0s?oc=5",
+          "description": "Zelensky, 'Russia usa soldati da 47 Paesi, non lasciatevi trascinare' ANSA Zelensky: 'Putin è il paziente zero, va fermato'. Trump invita lo zar al G20, il Cremlino: grazie, valuteremo ANSA Guerra Ucraina, Zelensky all’Onu: “Putin deve essere fermato, le sanzioni ci rafforzano” Sky TG24 Ucraina, Zelensky: noi pronti a tregua sull'energia Borsa Italiana Zelensky descrive il terrore insaziabile di P",
+          "pubDate": "Wed, 23 Sep 2026 18:28:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Kiev, colpita la sede del partito di Zelensky nella capitale mentre parlava all'Onu - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTHhfWE5aeWNEZlpSUVpaUzBpUnctNWNFT3hoSTBNRml0Zlg4THhsbHhZZWpFYVFFY0RpUXV4MXlxaUI3S3E2X3VHNFEtamY5MkNrU3JqZzF0cERoVW1pWG0xaklIQmRnb2gydFBxbXRidmM3d05NMU9xNkpRTzV1blJyVVBfRDZ1ZllvQjkybWtTcEo3QWlQRllhYlJVTjNmeXpmbWMtU1hJbWQ4WWNXTWUzbjg2STJiWDlPb1BGdmVJZm8tOHREX1ZCSDF4M18tZkNuX2lCSUxCaFlnNU1zelE1S21RNUt5SjNBMkJSS1ZGN2tTZlk0X3lYcU0?oc=5",
+          "description": "Kiev, colpita la sede del partito di Zelensky nella capitale mentre parlava all'Onu ANSA Guerra Ucraina-Russia, le notizie in diretta | Zelensky all'Onu: «Putin deve essere fermato, è il Paziente Zero». La risposa di Mosca: pesanti bombardamenti su Kiev e Odessa Corriere della Sera Kiev e Odessa sotto i missili russi, almeno due morti. La risposta di Putin al discorso di Zelensky all’Onu la Repubb",
+          "pubDate": "Wed, 23 Sep 2026 20:31:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Ucraina - Russia, le news di oggi - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM1cyV1Axa05OOWJTTVg1blhDckU1XzNtVUZ6SU9DTGpLMTBmbjBCclk0bTJ4cFBIdENsSkpVZUt4aEo5dzBlWmNKRHVlNkZoaWsyeEJJZlhjUV9EOVZadnRVc28yM0tzdlQ4eGNJSnF1c2EzVFVEa3U4ZmU0c09SRWZiVG5LWkplbmlIUkdnaUlQNHdsUzFzNkpR?oc=5",
+          "description": "Guerra Ucraina - Russia, le news di oggi la Repubblica Guerra Ucraina-Russia, le notizie in diretta | Zelensky all'Onu: «Putin deve essere fermato, è il Paziente Zero». La risposa di Mosca: pesanti bombardamenti su Kiev e Odessa Corriere della Sera Kiev e Odessa sotto i missili russi, almeno due morti. La risposta di Putin al discorso di Zelensky all’Onu la Repubblica Massiccio attacco russo con d",
+          "pubDate": "Thu, 24 Sep 2026 02:41:13 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Putin è il paziente zero della guerra. Il discorso di Zelensky alle Nazioni Unite - Il Foglio",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOakF2UVFrMUFSTHJjZE5aT0lYVVU4Q2FDUUk1Rk5VSXM3bWpQSUFzd1hxQkV0Y2FJMFpleDdocGVwazJoTVd6NTQzZUxKTkVOcUtuYWRoZndDTGFmUUxmZmRhOXhHOEdoT0pvYl9rZU85aUQ5Um5oR09XbjVnMUd3eFRuUS1JZW9vUEJKMEgtU01jUDZNVTB0WFZVRUktV0sweGJSN3Y2bFRiTzdHOHRpeHZEVkozYkVLOE9oRkVUN1FTNXB1cF9USlF0OHNYSTlB?oc=5",
+          "description": "Putin è il paziente zero della guerra. Il discorso di Zelensky alle Nazioni Unite Il Foglio Zelensky: 'Putin è il paziente zero, va fermato'. Trump invita lo zar al G20, il Cremlino: grazie, valuteremo ANSA Guerra Ucraina, Zelensky all’Onu: “Putin deve essere fermato, le sanzioni ci rafforzano” Sky TG24 Ucraina, Zelensky: noi pronti a tregua sull'energia Borsa Italiana Zelensky descrive il terrore",
+          "pubDate": "Wed, 23 Sep 2026 19:01:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Zelensky: 'Putin è il paziente zero, va fermato'. Bombe nella notte su Kiev, 2 morti",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/23/zelensky-putin-e-il-paziente-zero-va-fermato.-trump-invita-lo-zar-al-g20_46f75301-5acd-49dc-8d3d-ddd89aa8bcdc.html",
+          "description": "Trump invita lo zar al G20, il Cremlino: grazie, valuteremo. Lavrov a Rubio: 'Negoziamo ma non ci fermiamo'",
+          "pubDate": "Thu, 24 Sep 2026 04:52:46 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Kiev sotto attacco russo, almeno due morti e tre feriti",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/24/kiev-sotto-attacco-russo-almeno-due-morti-e-tre-feriti_1f673532-a628-4768-ab7c-4845ab5f75a6.html",
+          "description": "Missili contro la capitale. Sindaco, 'danneggiato anche un ospedale di maternità'",
+          "pubDate": "Thu, 24 Sep 2026 02:13:11 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Kiev, colpita la sede del partito di Zelensky nella capitale mentre parlava all'Onu",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/kiev-colpita-la-sede-del-partito-di-zelensky-nella-capitale-mentre-parlava_4754d364-3520-4ef2-988f-d9fadbeb4ed9.html",
+          "description": "L'attacco è stato l'ultimo di una serie di raid contro il Paese avvenuti oggi",
+          "pubDate": "Wed, 23 Sep 2026 22:32:46 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "ia sicurezza standardizzazione globale",
+      "label": "OpenAI e Anthropic chiedono standard IA globali, Usa dice no",
+      "n_items": 5,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 3,
+      "score": 32,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "I big dell’IA all’Onu. Amodei: “Rallenteremo quanto necessario affinché sia sicura” - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fazRwakUyMWE2SVhlQ0NoTUliZjdUd1lxUEZtY3EyandXR1lORnZvTHdKMjNTLWJ1WlluS3lmTkxtSTNtajNQVTNmSHFiNjBZSFJtcmRrTnpiRjdsaVlHVlNTX2FvWTR6b2JHdGJYQTQ?oc=5",
+          "description": "I big dell’IA all’Onu. Amodei: “Rallenteremo quanto necessario affinché sia sicura” Sky TG24 Altman e Amodei all’Onu: “L’IA può sfuggirci”. Ma lanciano altri modelli la Repubblica I big dell'AI al Consiglio di Sicurezza Onu: \"Servono standard e sistemi di sicurezza globali\" RaiNews Ai, l’appello dell’Onu a Usa e Cina: “Cooperate prima che sia tardi” La Stampa OpenAI propone uno standard globale pe",
+          "pubDate": "Wed, 23 Sep 2026 20:08:10 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "US rejects pleas from OpenAI, Anthropic for global AI standards - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SWk1rQ1FuSE9FaWtMWUhfVE1QUDlITnJkd1MzWm11VGhERWNhX2c3OXBqUzdmcjdBa1ZoSlplckxfdlBKcUVRN3hIZkp6WHdQaVFMQ3ZTYzVsbms?oc=5",
+          "description": "US rejects pleas from OpenAI, Anthropic for global AI standards BBC At UN, tech chiefs urge caution in AI development Yahoo Sam Altman’s remarks at the United Nations Security Council openai.com Is it ‘killer robots’ or ‘super intelligence’? At the UN, leaders see both AP News Altman, Amodei Call for Global Cooperation on AI to Boost Safety Bloomberg.com",
+          "pubDate": "Wed, 23 Sep 2026 22:35:14 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
+          "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+          "description": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
+          "pubDate": "Wed, 23 Sep 2026 22:35:14 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'IA può portare all'estinzione, l'allerta di decine di ricercatori",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/-lia-puo-portare-allestinzione-lallerta-di-decine-di-ricercatori-_f2907c59-c053-4af7-b511-410cbb0bc59b.html",
+          "description": "Tra i firmatari gli ad di OpenAI e Google Deepmind, ci sono anche italiani tra cui l'esperto di tecnologie dell'informazione Luca Simoncini",
+          "pubDate": "Tue, 30 May 2023 17:55:51 +0200"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'allarme dei big, 'rischio estinzione con l'IA, è come le pandemie'",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/lallarme-dei-big-rischio-estinzione-con-ia-e-come-pandemie_3afde5e5-7bcf-464e-b3aa-aee6577a9b23.html",
+          "description": "Nyt riporta lettera di 350 leader industria, anche ceo OpenAI",
+          "pubDate": "Tue, 30 May 2023 14:12:41 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "iran pezeshkian onu terrore",
+      "label": "Iran a Onu: siamo vittime di terrorismo, Usa lasciano aula",
+      "n_items": 4,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 28,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Iran, Pezeshkian all'Onu: Teheran è vittima di terrorismo. Usa lasciano aula - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jdzROYmNqQTB1YlIwb3c5WHIxQ2c1OFN2SV9xR3d5Q2diWkEtTGNYRFZKd0J1bEdTa08xVC1yeUFiRWZTUWlUc1Z5dHBiUWZjUndUS3hXb1JOZFU0NGtUOGdLb1YwSGVwT0dfdUZPQVlpcHA0NEtFX1JScw?oc=5",
+          "description": "Iran, Pezeshkian all'Onu: Teheran è vittima di terrorismo. Usa lasciano aula Sky TG24 Pezeshkian mostra all'Onu le foto dei bimbi uccisi: 'Non ci piegheremo' ANSA L'Iran risponde a Trump, l'Ocse rivaluta l'economia italiana Corriere della Sera Pezeshkian all'Onu mostra le foto delle vittime dei raid: la delegazione Usa se ne va Il Fatto Quotidiano Pezeshkian, il medico mite che si fa falco per tra",
+          "pubDate": "Wed, 23 Sep 2026 21:22:10 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra, ultime notizie. Onu, Pezeshkian mostra foto bimbi uccisi e Usa lasciano aula - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaGlCRTFnSVkta1NIOUg0RkJRWENORXpHTTNDYkI2cGRkUWozbzRVclJ1ZDZ6ZVZtT0g4YjBQRTBiV1Bjd1RfU0VLRFJhdWozY0xiaWtWLTUxSUJqU2NEQ2xaYWc5OTJTZDVKQ21DUVNlWHViNzJVZ0E4UURKenNjclh3MWRuZnZvczg3aVZIeDZEVEFaMmtJdU1QXzFhNWlHUEltNmVjRGt0S1lYRmJrX0U1d2ltanJJTXRydmRUX0Y?oc=5",
+          "description": "Guerra, ultime notizie. Onu, Pezeshkian mostra foto bimbi uccisi e Usa lasciano aula Il Sole 24 ORE Pezeshkian mostra all'Onu le foto dei bimbi uccisi: 'Non ci piegheremo' ANSA L'Iran risponde a Trump, l'Ocse rivaluta l'economia italiana Corriere della Sera Pezeshkian all'Onu mostra le foto delle vittime dei raid: la delegazione Usa se ne va Il Fatto Quotidiano Pezeshkian, il medico mite che si fa",
+          "pubDate": "Wed, 23 Sep 2026 20:55:30 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Pezeshkian mostra all'Onu le foto dei bimbi uccisi: 'Non ci piegheremo'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/23/pezeshkian-mostra-allonu-le-foto-dei-bimbi-uccisi-non-ci-piegheremo_a437d26d-b24c-4773-b1dd-11fd55eb9b90.html",
+          "description": "'Sì al dialogo ma basta forza'. La delegazione Usa lascia la sala. Rubio: 'Progressi ma nessuna svolta'",
+          "pubDate": "Wed, 23 Sep 2026 23:31:52 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Iran's president tells Trump it will never 'bend the knee'",
+          "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+          "description": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
+          "pubDate": "Wed, 23 Sep 2026 18:15:31 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "meta visore vr smart glasses",
+      "label": "Meta lancia Vision Pro rivale e smart glasses audio-only",
+      "n_items": 5,
+      "n_sources": 3,
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 3,
+      "score": 27,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "bbc-world",
+          "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
+          "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
+          "description": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
+          "pubDate": "Thu, 24 Sep 2026 00:50:24 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZE4zZGJhTHNYbjFqTkFSQzctWEVRb1E0ZUZJVGVfZEdJSUpaSS1vOEpKdU9lenBqWGJUSEJ0eWhDS3lRTGZXelgyTkVjWlpxcTNZQnhVUDltWXh4RkE5VVlFNEMyc0N6dktNaEduUEN0ZzhPZUVjanY1UGszaTNTcVBOMHNIUUpaLUHSAY8BQVVfeXFMTXRHVmpoQXdRa2c1MjVscHM5WG5WVHpYa2pJRXphSnI3OVdLdE5lVEs2aGdxVE9uWXVlY1RueVlTU25nUFk4cnFIOG1hZTJ3azlxUVl0RHRoVmE4WXVrT0hBNHg5Y2JETzFRQ0EwenB5MzU5YU8wRzdZRHVtbDJIUUJ1d1lWbzlQVjJfZllGRGc?oc=5",
+          "description": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push CNBC Meta Launches Lightweight $1,299 VR Headset That Looks Like Glasses Bloomberg.com Meta surprises with new handheld AI device called Meta Charm Reuters Meta unveils $1,299 VR Glasses, camera-less smart glasses at Meta Connect finance.yahoo.com Meta Unveils 3 Smart Glasses With Built-In A.I. The New York Tim",
+          "pubDate": "Thu, 24 Sep 2026 00:45:00 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Meta's Next Smart Glasses Collab Is With Blackpink's Lisa - Engadget",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QTzF5VnpEZnlMMzMwZWhkd2d0alR3dmQ3TG9JWnF2QnNkakQ1OUk5VWZzbjBhU3lrQ1NDckNLbll0Y1dlOHlIWmY1bUZZWmhkeVVYUXNIS0NkVnU2UTJ6T3ZaVzJIYThTZXUw?oc=5",
+          "description": "Meta's Next Smart Glasses Collab Is With Blackpink's Lisa Engadget",
+          "pubDate": "Wed, 23 Sep 2026 23:37:43 GMT"
+        },
+        {
+          "source": "google-news-en-tech",
+          "title": "Meta's New Holographic Avatars Are Here And They're Surprisingly Real - Engadget",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU3JYX0RfdXQ5em15VjZoRXhZUDkzZTlqQmFZUUI5RUgta1lsTE55MlVMcTJjbE9HbG5tM3pzUHF4VE1RRmVuQlliQXA2WHV2Zm82SnFZcVVQM1FiTmtaRHk4cTdiUFdyQUlhWlJIQU10ald5dEFlbEwycW9LckVRb0xpWl9DbXdNNXUxb3R4Zm5RR0hQdm41Vg?oc=5",
+          "description": "Meta's New Holographic Avatars Are Here And They're Surprisingly Real Engadget Meta Could Demo Phoenix Headset At Connect With Full-Body Codec Avatars UploadVR Can Meta’s Project Phoenix Make Mixed Reality More Wearable? UC Today Eleven Years of Codec Avatars Research Is Reportedly Getting a Live Keynote Slot vr.org",
+          "pubDate": "Wed, 23 Sep 2026 23:53:01 GMT"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "Metaverso, dopo mesi di attesa Meta e Apple pronte a stupire",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/metaverso-dopo-mesi-di-attesa-meta-e-apple-pronte-a-stupire_cfde93b6-9f56-4996-bf94-712f6e7c9aa5.html",
+          "description": "Quest 3 il nuovo visore di Meta, novità Apple arriva il 5 giugno",
+          "pubDate": "Tue, 30 May 2023 12:21:56 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "titoli stato usa rendimenti",
+      "label": "Treasury Usa oltre 5%: mercati volatili su tassi Fed",
+      "n_items": 4,
+      "n_sources": 3,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 3,
+      "score": 24,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "I Treasury a cinque anni balzano oltre il 5% - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVXhXc00wbVYyYU5leElhOEtyd3VnTUhTNkxNWDVUX21qa0Z0M0hKTjB0VklYSzZSbEJXS2pEZTdLWC13UmVYcG43UE52UXFFOFg0TndBQjRZTi1uM1hNczlVZ2pNRWxmSF9IaEtsRjFkRlhGTzZ1U1FCek1LMFVqcXBfYUFoNmZBd2E0NTNzUmM?oc=5",
+          "description": "I Treasury a cinque anni balzano oltre il 5% Il Sole 24 ORE Titoli di Stato, dove cercare cedole più alte con i tassi in salita? Morningstar I rendimenti del T-bond decennale Usa salgono al 5,13%, massimi dal 2007 ANSA La diretta da Wall Street | Borse Usa chiudono in rosso, Nasdaq -1,1%. Il Treasury decennale tocca il 5,1%, ai massimi dal 2007 milanofinanza.it Tassi alti, dollaro forte e caro pet",
+          "pubDate": "Wed, 23 Sep 2026 17:39:15 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Stock Market News, Sept. 23, 2026: Treasury Selloff Deepens, Sending 10-Year Yield Above 5.1% - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYzA0Y3M1aDgybkFJcEdvV2ZOdmdoTU1fWjhLd3JtMm1ENlBFRGNndVJ1Ylcwd3pBZ2ZiRDNqckpaNVBYRENLNlNZQ2lhLVlHbnVYZ0g3SWwxQS1zMTlRQmUycFFxaXpZZkVPM2NZbTMyVkF5bXd1T3F2WklHQ3pSdG8zQ29faGM?oc=5",
+          "description": "Stock Market News, Sept. 23, 2026: Treasury Selloff Deepens, Sending 10-Year Yield Above 5.1% WSJ Here's what happens to the economy when Treasury yields soar like they are now CNBC 10-year Treasury yield hits highest level since 2007 as market prices in another Fed rate hike finance.yahoo.com US Treasury Five-Year Yields Breach 5% for First Time Since 2007 Bloomberg.com Markets News, Sept. 23, 20",
+          "pubDate": "Thu, 24 Sep 2026 01:13:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "I rendimenti del T-bond decennale Usa salgono al 5,13%, massimi dal 2007",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/i-rendimenti-del-t-bond-decennale-usa-salgono-al-513-massimi-dal-2007_0948fbc2-2171-4939-810b-6c1f23fcaa43.html",
+          "description": "",
+          "pubDate": "Wed, 23 Sep 2026 21:06:55 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Lo spread Btp-Bund si allarga a 95,4 punti, balzo dei rendimenti",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/lo-spread-btp-bund-si-allarga-a-954-punti-balzo-dei-rendimenti_6a5dc7a4-2e42-4b85-a4dd-1d21d42b3c81.html",
+          "description": "Il titolo italiano rende il 4,5% e quello tedesco il 3,55%",
+          "pubDate": "Wed, 23 Sep 2026 18:02:45 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "operai morti infortuni lavoro",
+      "label": "Operai morti sul lavoro: Colosseo e Bergamasco in poche ore",
+      "n_items": 4,
+      "n_sources": 3,
+      "category": "lavoro",
+      "macro_area": "societa-diritti",
+      "richness": 3,
+      "score": 24,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Morte sul lavoro a Cortenuova: 66enne colpito da una trave e schiacciato contro una ringhiera - BergamoNews",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORVIycHBfU2c1ZU5kdUtiM1ZRTkozNHA3T3d2MWU2ZUUyNzlZXzBpN2I4eV9Eb2xYelpQV0dWVkN0UnBaYUtJdHlEZTFrdXZnejdpUHQzSDlQN3JRY2xOUjlDX25mS05Nc1c4SEN5TTJjRi1zWTZuZXFydTFPTnBaRU96RG4ycm1RczhSVEFtSFg5QmxiNU8yLUFIQmU0ekFlTGdsaGlESGo2WldGLWlYNzZpZkN3Z3RNYkY4ekc2SVh5ZW5iRW5kY2hpTGM?oc=5",
+          "description": "Morte sul lavoro a Cortenuova: 66enne colpito da una trave e schiacciato contro una ringhiera BergamoNews Cortenuova, colpito da una trave nel parcheggio di un’azienda: muore 66enne L'Eco di Bergamo Cortenuova, Luca Piccinini di Nembro muore a 66 anni schiacciato da una trave. A Brembate ragazzo di 22 anni con una gamba in un compattatore Corriere Bergamo Incidente sul lavoro a Bergamo, 66enne muo",
+          "pubDate": "Wed, 23 Sep 2026 17:39:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Andrea Moretti, chi era l'operaio morto precipitando dal Colosseo - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZHBIZUlTQV9ZSm1GU0ttQUdoSE8xRmhQZnlMRHJQTFR1WjJ4MGx3Vkw5U3hKS21CdWMyb1pXcEIyUnJqWTdxcmJxb3lfaEo2WDNpcWdnS2JEdmJ6YU9HcXFjUnNJUk1YY2ROMDluUWtEcDhTMmlXRFpMSE8xZkR1QVZkZVFaQTBzdWNUdg?oc=5",
+          "description": "Andrea Moretti, chi era l'operaio morto precipitando dal Colosseo Sky TG24 Operaio morto al Colosseo: Anfiteatro chiuso anche giovedì. Stop a eventi e alle riprese di Alberto Angela RomaToday Il ministro Giuli sul luogo della morte di Andrea Moretti: «Fino all'alba coi genitori annientati dal dolore» Corriere Roma Precipita durante i lavori al Colosseo, morto un operaio 22enne ANSA Operaio morto a",
+          "pubDate": "Wed, 23 Sep 2026 10:27:20 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Precipita durante i lavori al Colosseo, morto un operaio 22enne",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/23/morto-un-operaio-al-colosseo-meloni-morte-inaccettabile_d2e19d2c-1896-4bd4-b861-c2d8e26b5a9e.html",
+          "description": "Montava la nuova illuminazione, caduto da 10 metri. Chiuso l'Anfiteatro. Meloni: 'Inaccettabile'",
+          "pubDate": "Wed, 23 Sep 2026 21:00:15 +0200"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Operaio 66enne muore schiacciato da una trave d’acciaio nel Bergamasco - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdlZlR0ZvTm5Zemx5OHJNU0xweWFUekcyQlJuY0RSMEtfTWc5LVptUUxNX1FBTXd3ZWlnV0tTVUVqaGF1VVlsWG1pZzVGLVVXZTB5T2QtUzRQTnRQTWJNemJ5RnNmQlBpc0NpbWo1b3NFeEpjcllDTTBvRjFlRWdfOUxLdWZnRUpqcnBsaVB6dG9yc28yRjlZ?oc=5",
+          "description": "Operaio 66enne muore schiacciato da una trave d’acciaio nel Bergamasco Il Fatto Quotidiano Cortenuova, colpito da una trave nel parcheggio di un’azienda: muore 66enne L'Eco di Bergamo Cortenuova, Luca Piccinini di Nembro muore a 66 anni schiacciato da una trave. A Brembate ragazzo di 22 anni con una gamba in un compattatore Corriere Bergamo Incidente sul lavoro a Bergamo, 66enne muore travolto da ",
+          "pubDate": "Wed, 23 Sep 2026 14:29:08 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "nucleare italia ddl approvato",
+      "label": "Senato approva legge nucleare: Italia riparte con atomo",
+      "n_items": 3,
+      "n_sources": 3,
+      "category": "energia",
+      "macro_area": "economia",
+      "richness": 3,
+      "score": 21,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Nucleare, via libera definitivo del Senato al Ddl delega. Pichetto: «Giornata storica per l’Italia - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY1ljQl8yRVllTE1VMUJXTFc4NHZneFo4cmVaS2tOS1RoeTQtLThTRXUycDJ6cEc4UXR2LWxXcTFGN0p5TDdTckVLcjgtdXBuMnJPSGRQNllENGpkN0tOWkUzWDE4RmJkN2tDWjg1S2ptLW16eEVJZ1JJN082bS1HMnB1a1dla1RFbWJTakVVWXh4LXRadVBjNUwwY0stLVpIdVBMVXV6YWQtd3ZwQ0s0MjE3cWF3VlVVaXlabWJBQ3BwUQ?oc=5",
+          "description": "Nucleare, via libera definitivo del Senato al Ddl delega. Pichetto: «Giornata storica per l’Italia Il Sole 24 ORE Ddl Nucleare, ok definitivo del Senato. Meloni: 'Scelta di buon senso' Sky TG24 Sì del Senato al nucleare. Pichetto: “Ora è legge. Prime centrali nel 2033” La Stampa Il parlamento ha approvato una legge delega sul nucleare per installare reattori di piccole dimensioni Il Post Intervist",
+          "pubDate": "Wed, 23 Sep 2026 15:56:12 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Approvato dal Senato in via definitiva il ddl sul nucleare",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/approvato-dal-senato-in-via-definitiva-il-ddl-sul-nucleare_b7e4e93d-a8f7-4b8f-96af-f0a7c7221f73.html",
+          "description": "Meloni, promessa mantenuta, scelta coraggiosa e di buon senso",
+          "pubDate": "Wed, 23 Sep 2026 17:56:18 +0200"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Legge sul ritorno del nucleare, via libera definitivo del Parlamento con il sì del Senato: cosa succede adesso? - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQS0tiWFNwVGlfdmN3aU4tTkVrUzVJTHdCcHcwZm1KQUpyOTFOa1BjVGN6bWlhMlFZdUVYcDVYbFRxbWJuUFViVy1rX1RzTnRtMURncnFESTlGbWF2VTlNYTlCRFNBc0Z6WHJaamRvYzJJVTJvZnhSd2tydUs1YWgxbDE4NTVudFBlbGZwWFpIaVFIWHhoSS1MaVYzSWNWS1RlcWJBTU5xNFRkX0xMZ2J0cmR2TW1qVDB1enVPLVIzaDd4aGlJd3phTFM5d2FNOUc5VWFPazNCT0RFVi1WcXQ5MFo4QVpHNTREYngwZEp5WnpEU3cyU2N6TngzUkNZY1VZaFR2RFJYR3RNbnUxTHA0bjQyTHV3RFdsbndiN0tPMDhYdG9SRFVEdGdwOWljZGtQeXfSAbcCQVVfeXFMT29LZUFLQ3FDQng2ZE1yYUNQczFpY29wdEtUUFJxRTB1azBLbjVNeU9Ib0I3RTVYaXIwRmU3aDdqMkNkaTF0V2VVcm5GMU1laWQ5TVJhMmk1V0ZzSzJMd2FhMWUwZ2pzd0gtTW1xb19KQTdES0tPOWFwaTRvcGFoenlPdDYwaDhwZ25QOV9mWXEzTkhaY3ZmbDkwSWwtck1CWmVxMnVfbkR5Q3Rjekg1Y0VaM0Fyb0RpYklkaFZraGxuRDhJSGR3WWZXX1E3MWhMeHgxQlNjUlJ5MlFFbW9KeFNDSUZJWkExWHFud2g4aTJLbW0zZmZHTDdTeVBSbTBWN3pCdndzbEw3QW1zUXREM3VlY1FtRGZfak8xdnJvZkMyRnc2YU5GZTVqTW9fQ1czLUg0MjlxOGs?oc=5",
+          "description": "Legge sul ritorno del nucleare, via libera definitivo del Parlamento con il sì del Senato: cosa succede adesso? Corriere della Sera",
+          "pubDate": "Wed, 23 Sep 2026 14:52:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "sanzioni russia ue prolongate",
+      "label": "Ue prolunga sanzioni Russia 3 anni, Baltici furiosi",
+      "n_items": 3,
+      "n_sources": 3,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 21,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Le sanzioni alla Russia spaccano la Ue: Baltici furiosi e la delusione di Kiev - AGI",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR3laQ0VFanFlVXVtWHhiTkx5X2dwNVRMMHdLaUhMZEVmSGJuSm1ZQXphUnkzT1RmZmZKSk5jNDZpczdic1hpcXR6TTNwVFNrS25KcmtRNE54dGVuNlMtYmdOeV9qN19EYnhMS1JoR1BpTG0tc2o5UGNCWlJScnBfMXZFTTkySC1DaDJSd2VES1p4NzFIRDk1Qkt2ZWpkcUozb2JaY3NLSEplLXJPaExBag?oc=5",
+          "description": "Le sanzioni alla Russia spaccano la Ue: Baltici furiosi e la delusione di Kiev AGI L'Ue rimuove le sanzioni a due oligarchi russi: protesta l'Ucraina Sky TG24 Chi sono gli oligarchi Alisher Usmanov e Mikhail Fridman non sanzionati dalla Ue Il Sole 24 ORE La Francia ha ottenuto quello che voleva sulle sanzioni contro la Russia Il Post Ue, via le sanzioni a due oligarchi russi. Kiev: “Vergognoso e i",
+          "pubDate": "Wed, 23 Sep 2026 09:08:48 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "La Ue prolunga per tre anni le sanzioni alla Russia: 'E' un chiaro segnale' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVkVWVEJIMnNhRHZXVVE4MWMwamNuWUlYaDc0dzA4dGQwNmdzZF9XMVhKc3NTMjdVT0t1WUZSR0xCZFY0d2dZcU0xckcybHlydUltRUVETVgwdlhJZW5jdGFYUmxWN3lWWXpCWUZIMXJBVDItQUtVVnducWJQMkNJUDZURkZLdmJfZXJBWVRfWlplc3RZN1h3QXZtcFpJNnpuYTNSV0o1NGxpMHR6RnVHQ0s1eUNXX1YxZEJRWWQwREtuTV9sbHdhTmJ2a3ZyaV94WDUyNWhPWFVycDFHSWw3RlhRX2RVT1hEM1FtWE5TZkxnazg3b3fSAfsBQVVfeXFMT2Y0RVVsVDNjRG1WSnlKaFR3N2gtZ3ZOd3BEOFA0SUNyakVFYlc5dEFlVXBTanhydDg0cFBxd3BYdzgtT2VubzF0WjFSUFpyMjhfTXRqWUtadTM5b0M4bUJxU0xWRXUtcDZQT1FsRFQ3RnFZRUZ2RkZRSjlOdUx6dzJCREs3WjFMQVVDc1I2YWQ5c2ZGVlhNVUdzYVRLQm5GbDkwM05lVlhnVXNHU3kwa1A5aktwQjJjbkJXRzRxYjdkVzhWSXZHUEV5ekpGQ000ZGRfakVPLXFjMEhGQVRZRzJueXJEN21MZzc0MHBpOEs2SFVOczdScmhYRG8?oc=5",
+          "description": "La Ue prolunga per tre anni le sanzioni alla Russia: 'E' un chiaro segnale' ANSA L'Ue rimuove le sanzioni a due oligarchi russi: protesta l'Ucraina Sky TG24 Chi sono gli oligarchi Alisher Usmanov e Mikhail Fridman non sanzionati dalla Ue Il Sole 24 ORE La Francia ha ottenuto quello che voleva sulle sanzioni contro la Russia Il Post Ue, via le sanzioni a due oligarchi russi. Kiev: “Vergognoso e ing",
+          "pubDate": "Wed, 23 Sep 2026 10:16:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Tajani, 'minacce ibride della Russia mettono a rischio sicurezza europea'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/tajani-minacce-ibride-della-russia-mettono-a-rischio-sicurezza-europea_652c2928-03c2-415b-b1e0-99dedfb6d81c.html",
+          "description": "'Evitare escalation, l'Italia non è in guerra con Mosca'",
+          "pubDate": "Wed, 23 Sep 2026 23:41:44 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "petrolio prezzi rialzo brent",
+      "label": "Petrolio torna sopra 100 dollari: tensioni geopolitiche",
+      "n_items": 3,
+      "n_sources": 2,
+      "category": "energia",
+      "macro_area": "economia",
+      "richness": 3,
+      "score": 18,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Borse del 23 settembre | Il prezzo del petrolio torna a salire: Brent sopra i 100 dollari, Europa in rosso: spread a 95 punti - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNUWk2MHNHWVpqV1Y1QXFUR2RtSTZkZUh0N0pRSHFEQmN1WGVkSWRCQzRDTWliUUNkajVpSHY4X05nSjgwNGk3elJ0Y0k0bjRNekR4ME9HdDdwWkszOEhSZVBmU0h6SmJaMkcySFQzRzlMMmFwZFI5UTJvTl9NMHZjZkd5SWtXYmVBNkdha0lXZjJpbmlqcXVGb1dEYTRCclQ3OGJrOVdqUFFHQ1ctZ1pDTUJiMDFaYnhiWk1fWDVYVGhYdkpuVFp4enVlaW9laTJOc01pbTlnT1poMmwyQTNYbkdKdlFHNUF5aXZnc1ZpbGtPaFBId0g3WnZFUk5jSEtrVi1acUhtSlFEZ0dhSXdDR1JEQml4LVRyYjFN0gGgAkFVX3lxTE8temw5VGRRSGNfOU9hQjBNZGpJQzY5M2dNQURzWmhGLThySTFyTFdLalpEYi1qVjkxTFBkV29JZmtIMFhsRUZIelFBNFhid0xjNnJoVERJQUQ5dkd5N2RONWlfMGduNmE3SzVlc2pja1lWc3VXeFpBVENXRl9aRC15anhRejdTX0I1TS1qSFJYbzRZZTJUaGdnS0IwdEZ0VUN4TUlud25LOWRJcmtqaTJ3RjBSRVpBQ0hCMmFpMDR4M0dmejZIZ3FlVGZzd2U0NHdSSlBfNzRhMjJPUnlXb0xPR1pFMkRqV3dQdEg5RnczQ3NWeHN4QVB2akVrNXVwTHNZTXlSVmdya0hGR1EtUVVfNWNTcHJYOHZyczhPSW5fbA?oc=5",
+          "description": "Borse del 23 settembre | Il prezzo del petrolio torna a salire: Brent sopra i 100 dollari, Europa in rosso: spread a 95 punti Corriere della Sera Le Borse di oggi, 23 settembre. Mercati in calo, guardano a Iran e summit Trump-Xi la Repubblica Wall Street resta al palo alla vigilia dell'incontro Xi-Trump Borsa Italiana Lo scontro all’Onu riaccende il petrolio e gela le Borse. Milano si salva (-0,2%",
+          "pubDate": "Wed, 23 Sep 2026 18:15:50 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Il petrolio chiude in rialzo a New York, a 92,02 dollari",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/il-petrolio-chiude-in-rialzo-a-new-york-a-9202-dollari_604e71f3-acde-4107-8823-7510d715191f.html",
+          "description": "Il Wti a +1,66%, il Brent sale del 2,52% a quota 97,81",
+          "pubDate": "Wed, 23 Sep 2026 20:44:00 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Il prezzo del gas frena a 73,16 euro al megawattora",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/il-prezzo-del-gas-frena-a-7316-euro-al-megawattora_0f40b874-47d5-4650-a716-11b259d91f58.html",
+          "description": "Il Ttf cede lo 0,25%",
+          "pubDate": "Wed, 23 Sep 2026 17:58:25 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "morbillo casi aumentati vaccinazione",
+      "label": "Morbillo +46% in 5 mesi: allarme esperti, campagna vaccini",
+      "n_items": 3,
+      "n_sources": 2,
+      "category": "salute",
+      "macro_area": "clima-salute",
+      "richness": 3,
+      "score": 18,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "bbc-world",
+          "title": "In Amish country, nurses go door to door to stop deadly spread of measles",
+          "link": "https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&at_campaign=rss",
+          "description": "With four measles-related deaths in Pennsylvania, health officials are hoping to get people on board with vaccines in private.",
+          "pubDate": "Thu, 24 Sep 2026 00:15:46 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Morbillo, nei primi 5 mesi del 2026 i casi sono aumentati del 46% - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0hMcE5WcXpDTUZCM2p2SXNPWTFsNi1nQmhxbHV1RXpDQzlrV1dwNXNGZHRJU1dWU3dsblo1TVJmQXZEMVhpYXVackhSdXRPcU1ENHNQT3Y4NFhNcTRJV09OeWhQQTd4NDRLdnB3SVg4aVJWUjRLZHpSNklyazJCUDZCa21FUlRXZ0FrRjAxTmdUMWh6eTNF?oc=5",
+          "description": "Morbillo, nei primi 5 mesi del 2026 i casi sono aumentati del 46% Il Fatto Quotidiano Morbillo, allarme del Ministero per rischio di aumento dei casi in Italia: ecco in quali regioni Sky TG24 Morbillo, la circolare del ministero: “Casi in aumento, serve campagna vaccinale straordinaria” la Repubblica Morbillo, contagi in aumento tra giovani adulti (quasi tutti non vaccinati) e in alcune regioni. V",
+          "pubDate": "Wed, 23 Sep 2026 11:43:52 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Influenza stagionale, Pregliasco: \"Attesi 12-14 milioni di casi\" - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSDc3dzFMdDhLTlVUNV9WQkRJeHJDTUZpaGNmSk5oRmRpWnFWa1p3SFF2VzRCLW9xVlRkS0wzRm1JbTNmd0d1X09yTV82amZ0aU1vU1BVSC0xN3FIOGhqUWExeDNTVUlfVUpKb1laNFJVTU5UM3hraGFfeW93TDYwZGxWeGNqXzdfaXAzSTBJWWxEeERMZW1DdDRldXhIbzg1VHVxRU85NHl2bkZsejI2ejNzc3NZaENZTDh2WXRSVjZyaVJKVTZDZHRacDRrQ2JseERELTVTaWl5dEYzUW5xRNIB5gFBVV95cUxNRlNweUU1dEdrUmk5blkzZ0xPWDZCbFlpYTRFTlhMaWhEY3NxSEZMTmV5SEpWWGNOeFNzT3BQMmp1WXFnNmNDOF9RMGRscmhqU3VpQ2FrdXJyQ21HSjRDMEtGZzBtcEg4WXJxRlNULWFYRDhLT21XSEFxUEdvNkY2S2kwUGwwUTM2dy1jUXNpLWlPZHdDMjU2cW5HV3lrWDdOY1RwdlB3Vl9LWkZoSGRJYThXdGVVWWFCdlJtbzl0ZFBJeTBvMVpxM0p1NkQwVU9xdnhUaUZXSVgxWFdubzJ1YmJFR1I0UQ?oc=5",
+          "description": "Influenza stagionale, Pregliasco: \"Attesi 12-14 milioni di casi\" RaiNews Influenza stagionale 2026, attesi 12-14 milioni di contagi: le previsioni di Pregliasco Sky TG24 I passi fondamentali per evitare l'influenza stagionale ai bambini nei prossimi mesi BimbiSanieBelli Le polmoniti arrivano in anticipo: segnalati casi fuori stagione. Ecco cosa sta succedendo la Repubblica Influenza, automedicazio",
+          "pubDate": "Tue, 22 Sep 2026 04:35:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "putin g20 negoziati russia",
+      "label": "Trump invita Putin al G20, Cremlino valuta: sì negoziati",
+      "n_items": 3,
+      "n_sources": 2,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 18,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Usa, Rubio: \"Putin invitato al G20 di Miami\" | Il Cremlino: \"Valuteremo\" | Lavrov: \"Ok negoziati, ma senza stop a ostilità\" | Zelensky all'Onu: \"Solo Putin vuole la guerra\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORGxxNFRvOEtXa3RiYnFjVWN4UWk3RTVnSTZJcllDaHd1aUczMldCX3pXWDhNMHczUG1UbXBzTU83bzdYLVlROGlEX3FFbmRsbmVyb05laTUtQVphWnJSeXZsTEhRNmh5YkRvNzY1NDVFcERXVF9QcGNvX013QVM0bzdRTE5BelNhazlqVUVXbk1ZSDkwZXMxWkt5MVBQOUI3TFZFYVNrSDNjcEtzWjc1LdIBaEFVX3lxTFBIcFFWRWRSU3NTRG93d2N4Y2RHREYzTWJRREtkUngzNlZLWHc2Qk9aYm5qSHZ4RFpUYzVmd0ZxNHRHUl83V1Jibk1HbXVQODJ1dVNqNWZQVi11ZnlmQTJrVFZmT3pibmJp?oc=5",
+          "description": "Usa, Rubio: \"Putin invitato al G20 di Miami\" | Il Cremlino: \"Valuteremo\" | Lavrov: \"Ok negoziati, ma senza stop a ostilità\" | Zelensky all'Onu: \"Solo Putin vuole la guerra\" Tgcom24 Guerra Ucraina-Russia, news del 23 settembre. Rubio: “Putin invitato al G20 di Miami. Speriamo in tregua energetica” la Repubblica Cremlino: grati per invito Usa a Putin RaiNews Rubio: 'Mosca e Kiev vogliono tregua ener",
+          "pubDate": "Wed, 23 Sep 2026 20:32:34 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Morozov: «Il Cremlino non accetterà nessun cessate il fuoco» - Domani",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSm5pM0dIWk9kMFgtS0oyT005bEYzMVFkTlRJY2RLa1RiR1BwbWtmV1VKQmtmbDdxUTBKMVJNT0VtdmlvQ3ZZVU41WUNsVjZDZFo0MHdnRHF4NHJpWG1kdmJTc3NEZFU2YXl1MlhIOFpWYXlZVEYyR2ZsazUzRU9HNzlTRFlDQllzZHdvcnp2V3g3SjE1UzhiSjQ3T1R0c2loMEhlWFVVOFhPVGRwTkEyOHVZQQ?oc=5",
+          "description": "Morozov: «Il Cremlino non accetterà nessun cessate il fuoco» Domani In Russia c’è un seggio che è sfuggito alla repressione Il Post I russi all'estero votano otto a uno contro il partito di Putin, smentendo i risultati ufficiali Euronews.com Otto e cinquanta (23.09.2026) Radio Radicale Putin, 'alta partecipazione al voto dimostra che il popolo ci sostiene' ANSA",
+          "pubDate": "Tue, 22 Sep 2026 18:54:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Zelensky: 'Putin è il paziente zero, va fermato'. Bombe nella notte su Kiev, 2 morti",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/23/zelensky-putin-e-il-paziente-zero-va-fermato.-trump-invita-lo-zar-al-g20_46f75301-5acd-49dc-8d3d-ddd89aa8bcdc.html",
+          "description": "Trump invita lo zar al G20, il Cremlino: grazie, valuteremo. Lavrov a Rubio: 'Negoziamo ma non ci fermiamo'",
+          "pubDate": "Thu, 24 Sep 2026 04:52:46 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "isab ludoil raffineria investimenti",
+      "label": "Ludoil acquisisce Isab a Priolo: 1,3 miliardi di investimenti",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-economia",
+          "title": "Ludoil assume la guida di Isab, il primo polo di raffinazione italiano",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/ludoil-assume-la-guida-di-isab-il-primo-polo-di-raffinazione-italiano_f37dbb57-3846-41a1-bc03-2f76ab3ffc91.html",
+          "description": "Investimenti per 1,3 miliardi, golden power e autorizzazioni in 4 mesi",
+          "pubDate": "Wed, 23 Sep 2026 16:44:36 +0200"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Ludoil chiude l’acquisto del 51% di Isab: 1,3 miliardi di investimenti a Priolo",
+          "link": "https://www.ilsole24ore.com/art/ludoil-chiude-l-acquisto-51percento-isab-13-miliardi-investimenti-priolo-AJ47xWMB",
+          "description": "L’italiana Ludoil prende la guida della raffineria Isab di Priolo (Siracusa). La società della famiglia Ammaturo ha perfezionato l’acquisto del 51% dai ciprioti di Goi Energy, chiudendo un’operazione annunciata il...",
+          "pubDate": "Wed, 23 Sep 2026 14:33:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "openai claude modelli nuovi",
+      "label": "Claude Opus 5.5 ufficiale: Anthropic sfida ChatGPT",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Lanciati GPT-6 Sol e Luna: costano il 50% in meno, ma sui benchmark valgono quanto i GPT-5.6 - DDay.it",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUlktb09OZ1BjRXQ0YnlCNXJYUWY5c19vSnNibmRJOWR1QWtoSEJBXzdwMFBzLW5IRHVxUGJWUXRjcF9oWV9mb0F1X0hnbUVDU1BBUkcxRWkzSnBNZC13OHBGMXVQeFBVWGZpenV4TGZ4V05RZ3dkQkRoUFYxY2w5VDd5aHBJdmF3WWlKeGtVSmpDN1ljNEZ0cGNVTjNKeFdUdTZ0ak9sNlByZXVVMlFDSzhOcm8ycG91eURsZ0pXa2VKQQ?oc=5",
+          "description": "Lanciati GPT-6 Sol e Luna: costano il 50% in meno, ma sui benchmark valgono quanto i GPT-5.6 DDay.it OpenAI e Anthropic incapaci di rallentare: arrivano Gpt-6 e Opus 5.5, modelli più potenti e autonomi la Repubblica Anthropic lancia Claude Opus 5.5: più veloce e meno costoso ma con qualche limite Il Sole 24 ORE GPT-6 Sol e Luna migliorano agenti AI e coding e usano meno crediti Fastweb Dopo l'invi",
+          "pubDate": "Wed, 23 Sep 2026 07:40:00 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Claude Opus 5.5 è ufficiale e rende inutile qualsiasi altro modello di Anthropic (e forse anche ChatGPT Astra) - SmartWorld",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbWhNMGlpTFYtMVk3Qm9ZQUxYRGR0bTdXUzdISjhRajNId0tRSEFiT3NxMTN5QmVYelZmWGJlMjY0VDlfZHN6dHktT3VkZFBkT0tlMVZFUTQtcmdyTUZfSVVaWHlRWWxldm55RUxtNEpwMDRNSXVockpscWYwNXMwWjN2TDY2SGF0akV5Ng?oc=5",
+          "description": "Claude Opus 5.5 è ufficiale e rende inutile qualsiasi altro modello di Anthropic (e forse anche ChatGPT Astra) SmartWorld",
+          "pubDate": "Tue, 22 Sep 2026 22:06:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "palestina cisgiordania pulizia etnica",
+      "label": "Guterres all'Onu: allarme su pulizia etnica in Cisgiordania",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "diritti",
+      "macro_area": "societa-diritti",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "L'ultima di Guterres all'Onu: 'Lo spettro della pulizia etnica in Cisgiordania' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYnBNVEJqZDlpNGdzWC16Y05SVXVvMEZMMmdDQmw2LVFBejI4U1RqdE5KTU1rQ2FPTDNIZkduRFB0cDhNUVh3RFhUNFJvWTB2VVFPc3k5bkJlbHU0bUFpV0tvNHJnT21ycXo5RTNwRE1Jc3V0YWtrZ3RYendZTEFIdGdNUDRZallSQktsb2xrVDROeFV0bTBORThBU1dzUFp0UDItSVFjY2lTMVJ3WFh0blF6c21TR2JZdWZXUHVidHFDTzRJVERWTERBM1llUklTOVhkZ2pNT1JDQXZNa2tDTG5wbTZlOUdXRFA4ejJKOENQM0ppRGl1dWFn0gH_AUFVX3lxTFBLb3J5b0JnQUZ3OXdjc3h4eTZ6THFaREp2WmlpQ2U5NGJXOFJxWS1kc3o4OWVPOTg4d1hjNEdrUWVaLXNkS2xSNnEtdVUwVlhKZWRWMV9vZUNENjhESFRrS3h2YkxDTGw4Ml81QVF3Q1owRjdOWTlvUHEyLUdGQ3c1SWYyY2ZuOHlxdkVQRGtqQmctRV85bUM2VEM0aEpaRURFeEhEY0RzMUdTRkZtVEFHM3lfSzd5UlZSVmVaZGwxSTB4SjdJVS1zd29oMjhFUURBdTFya2k0eTBESUlXbnVwUHlNQ2prLTk3WnRLRzVnX09WZVJyWm14VFp0Znc1SQ?oc=5",
+          "description": "L'ultima di Guterres all'Onu: 'Lo spettro della pulizia etnica in Cisgiordania' ANSA Guterres, allarme sulla Cisgiordania: “C’è il rischio di una pulizia etnica” la Repubblica Onu, l'appello di Guterres: rimettere al centro diplomazia e multilateralismo vaticannews.va Onu, tutto quello che c’è da sapere sull’Assemblea Generale Il Sole 24 ORE I leader mondiali parlano all'ONU, la diretta RaiNews",
+          "pubDate": "Tue, 22 Sep 2026 17:51:19 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Reports of violence against women in Gaza surge, UN agency finds",
+          "link": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
+          "description": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
+          "pubDate": "Wed, 23 Sep 2026 05:02:26 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "clima marte acqua jezero",
+      "label": "Marte: scoperto sistema laghi e acque idrotermali nel cratere",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "clima",
+      "macro_area": "clima-salute",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "Marte, nel cratere Jezero un sistema di laghi e acque idrotermali",
+          "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/09/23/marte-nel-cratere-jezero-un-sistema-di-laghi-e-acque-idrotermali_204423b6-2640-4aa3-99ca-d2f0d350cee4.html",
+          "description": "La zona diventa così sempre più interessante per la ricerca di tracce di vita passata",
+          "pubDate": "Wed, 23 Sep 2026 13:45:04 +0200"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Marte, nel cratere Jezero un sistema di laghi e acque idrotermali - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQNzhReDBmU2tPZzNfWXhneUFkZHA0dDBsQWRNX2pqX0NPbHBIenp5ZEUyRUwxaU9oYjRGdXZ6Q2pXLVZMT3JLNWw0LU16RWhQcjJBbHg2TnRFV1o3N2pLUk1veFZCdmNfVjFoalZxRkppVlBYWTZxTEJJM2RCTXBvTzFRaEhWZ05YR3IxX0dYeEQtSnA2MlVxeXgzbm9RR1N6WTJVWWVOSzg1ZjJTNDJ1bVl5LWZUcURmc1JSY1FibldMal90bkJrd2NfS25SbFBWdnJ2dTdINEcxTFRoaGR0VU5udG91V3dYTEVoQUt3Nml0R3VDazRSV0hGM0JnWjdLRUR0eGI4WWstZ9IBjwJBVV95cUxPLTJULXJhQ3hlcm9hSUwyc2tDa0dNaXhUNEFxa2hEcnQwQjh5OEdfVEFWdURiS3BmNTJ2QmNrYzc4UmRYYjhJR2ZaOEpWazhQcXUwQ0lHRDJKU2U3bkVpRGhPeXo0UU9mbTRNQkdNNjc4NHpjNHlNUDE0NzNLOHE5VVJnZGVDdWg3VGRvM2I4NDlJdm5pSnNYUWNHSFZtM0tKQ1ZjSjhoR0l6Qjl3Qm1zME51cndULUl6NURzTTloY3lEOVgydkhaYjUxck96dnJIZEZrT2VoYkVEUDdORzhHejVBNlNNS3FHUWlyM283UmtjRm5VSFg1dnVFbnJfbHh4bDA4dm1XTG8yUjczT1k0?oc=5",
+          "description": "Marte, nel cratere Jezero un sistema di laghi e acque idrotermali ANSA",
+          "pubDate": "Wed, 23 Sep 2026 09:27:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "deficit italia pil ocse",
+      "label": "Deficit Italia sopra 3%: Meloni attacca Istat, Ocse ridimensiona",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Ocse rivede al rialzo il Pil italiano 2026, ma i salari restano giù del 6,1% - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcmFYVlo5WFJKaWNqME9waVI4MDBWUUtiZDU2b3BFMEtqNm9Jc0FjazdOVzNMamNVSEJ0dWcyWkp4RnJmeHFOTVpUdzBXazktUGZFNVFlRmQ2cW1IN1FHU2dUWWhrX0hiMlNJak4zNXgwZks3dmRkU0pmc1NuVXNMR0pVSldyRzRzRWRYQks1YW5HSTlYZkNVZ1RONFpHRWF3cUJGcXM5X0dTU3hTenNtSXZhMA?oc=5",
+          "description": "Ocse rivede al rialzo il Pil italiano 2026, ma i salari restano giù del 6,1% Il Fatto Quotidiano Ocse, il Pil ha resistito ma le risorse si stanno esaurendo ANSA L’Ocse rivede al rialzo la crescita dell’Italia: +0,9% nel 2026 la Repubblica Pil, Urso: \"Bene rialzo stime OCSE, ora affrontiamo emergenza energia\" Borsa Italiana L’Ocse conferma la crescita globale al 2,9% e alza quella dell’Italia allo",
+          "pubDate": "Wed, 23 Sep 2026 09:55:49 GMT"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Conti, gelata sul governo. Il deficit resta sopra il 3%. E la premier attacca l’Istat - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQanF4MFRMVDlFSEVXNkN4MzVnZW1FWnEyQmFwREp5NDFpQ0dBVGo2VmhCUklSdG1ISGpud29uSjFnQzdZTGdRTF92ZzFGX3VUdzR5c1hZbV80c3Jjc25HWm5PNG54ZlJxSXBwRjJkYUVzekNiQWZHUHpSemtaZkNnbjI3RklDSnA5X19jWktuVnZfZy1Sempfa2hGM0F1bUVqUDRGZzctOWdjTFdoZS1pb2t5Q19meGhXWF9mVTYwOVBXOGxyQW1PcUhsaDF1dVp1cmd2akY2a0pyOS1fb1d3alpzdw?oc=5",
+          "description": "Conti, gelata sul governo. Il deficit resta sopra il 3%. E la premier attacca l’Istat la Repubblica Deficit, lo stigma pesa poco Corriere della Sera Regole europee, indipendenza e 1800 lavoratori: come nascono i “numeri” dell’Istat la Repubblica Un grosso impiccio per il governo Il Post Conti pubblici, Italia ancora in procedura d'infrazione: intervista a Carlo Cottarelli (23.09.2026) Radio Radica",
+          "pubDate": "Tue, 22 Sep 2026 23:00:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "west nile virus italia",
+      "label": "West Nile in Italia: morti e focolai, allarme agosto-settembre",
+      "n_items": 2,
+      "n_sources": 1,
+      "category": "salute",
+      "macro_area": "clima-salute",
+      "richness": 2,
+      "score": 10,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-health",
+          "title": "Si ammala di West Nile e muore in ospedale per le conseguenze di un’encefalite - La Nazione",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOWhYYXhDV3FOUGVKTHVIdGJtUENma3hYSHdmY1Ria0RhOUNtd1ZpQ0JwMF9FNXd6WngtWDJwUjYtTWlvMThlYTl6dUtOM3VEbUhveUFscjdNM2VyZkpNckE1RlZHWHNjS01pR09xR0p0d2tndEVweDZiMFBRVUJjR2p1Z2R2alhFcUs0VHdvWGpQb1A5SlFwanVhcWlaUGd1WlBkWkIyd0FKUXMtX1JadFdRdTdzTlNUSzNXTEJOdVhtTG5NQmxN?oc=5",
+          "description": "Si ammala di West Nile e muore in ospedale per le conseguenze di un’encefalite La Nazione Due nuovi casi di West Nile a Grosseto, uno di Dengue in Versilia RaiNews Un morto all'ospedale di Grosseto per il virus West Nile ANSA West Nile, Futuro Nazionale: \"Emergenza di fine estate, si rincorre il problema o lo si previene?\" Grosseto Notizie Dengue in Toscana, l'allerta si sposta: nuove disinfestazi",
+          "pubDate": "Wed, 23 Sep 2026 15:22:36 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Prevenzione tumore testa-collo, i primi sintomi e la regola delle 3 settimane - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZTBFcHdwTmo0eVlOR2EwaGpCQzNkY2hua19VS2F1UW9RdXRCaDMxR25pT3g5WE1nVmxpbGJ5V044djNfcmplV1VRNDNJRlZ5eUNENFBCd0pGdURBbl82VzVtejdHODBzRUZCNXFvZEZwVGdBaXZ1aFhNZzFKVmRiVEdFX0tRWWhsMG4xTGR5QzVCdw?oc=5",
+          "description": "Prevenzione tumore testa-collo, i primi sintomi e la regola delle 3 settimane Sky TG24 Mal di gola o raucedine da tre settimane? Il controllo che può salvare la vita Mondosanità Borgomanero, dall’Asl l’invito alla prevenzione dei tumori testa-collo La Stampa Torna la Make Sense Campaign, una giornata dedicata alla prevenzione del tumore testa-collo ModenaToday Visite gratuite all’Annunziata per la",
+          "pubDate": "Tue, 22 Sep 2026 12:41:33 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "influenza stagionale 2026 previsioni",
+      "label": "Influenza 2026: attesi 12-14 milioni di casi in Italia",
+      "n_items": 2,
+      "n_sources": 1,
+      "category": "salute",
+      "macro_area": "clima-salute",
+      "richness": 2,
+      "score": 10,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-health",
+          "title": "Lombardia, via alla campagna antinfluenzale - La Prealpina",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLWdwamU5Z1FqX3pmWjRUb0pNNGhPMHFqNktOY3FTWm1lRzg0dnB3RllaNkVUYU5semxsVS05dDVNWGlCVlhvczNESVR6ZGNBR2w4QmNDNG5MeDFjcXF3RVpBaDFyVzNJeF9Zek9kWGNncFgyU29qQl9KZ0V4QWNuVVZyNk4zYmN2cXZQci1xdkRHemhER0E?oc=5",
+          "description": "Lombardia, via alla campagna antinfluenzale La Prealpina Dal primo ottobre parte in Lombardia la vaccinazione antinfluenzale ANSA Vaccino antinfluenzale in Lombardia: al via la campagna gratuita. C'è anche l'open day a San Siro MilanoToday Campagna vaccinale contro l’influenza al via l’1 ottobre ilcittadino.it Antinfluenzale, il dottor Carrara: \"Consiglio di prenotarsi e vaccinarsi il prima possib",
+          "pubDate": "Wed, 23 Sep 2026 14:24:00 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Influenza stagionale, Pregliasco: \"Attesi 12-14 milioni di casi\" - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSDc3dzFMdDhLTlVUNV9WQkRJeHJDTUZpaGNmSk5oRmRpWnFWa1p3SFF2VzRCLW9xVlRkS0wzRm1JbTNmd0d1X09yTV82amZ0aU1vU1BVSC0xN3FIOGhqUWExeDNTVUlfVUpKb1laNFJVTU5UM3hraGFfeW93TDYwZGxWeGNqXzdfaXAzSTBJWWxEeERMZW1DdDRldXhIbzg1VHVxRU85NHl2bkZsejI2ejNzc3NZaENZTDh2WXRSVjZyaVJKVTZDZHRacDRrQ2JseERELTVTaWl5dEYzUW5xRNIB5gFBVV95cUxNRlNweUU1dEdrUmk5blkzZ0xPWDZCbFlpYTRFTlhMaWhEY3NxSEZMTmV5SEpWWGNOeFNzT3BQMmp1WXFnNmNDOF9RMGRscmhqU3VpQ2FrdXJyQ21HSjRDMEtGZzBtcEg4WXJxRlNULWFYRDhLT21XSEFxUEdvNkY2S2kwUGwwUTM2dy1jUXNpLWlPZHdDMjU2cW5HV3lrWDdOY1RwdlB3Vl9LWkZoSGRJYThXdGVVWWFCdlJtbzl0ZFBJeTBvMVpxM0p1NkQwVU9xdnhUaUZXSVgxWFdubzJ1YmJFR1I0UQ?oc=5",
+          "description": "Influenza stagionale, Pregliasco: \"Attesi 12-14 milioni di casi\" RaiNews Influenza stagionale 2026, attesi 12-14 milioni di contagi: le previsioni di Pregliasco Sky TG24 I passi fondamentali per evitare l'influenza stagionale ai bambini nei prossimi mesi BimbiSanieBelli Le polmoniti arrivano in anticipo: segnalati casi fuori stagione. Ecco cosa sta succedendo la Repubblica Influenza, automedicazio",
+          "pubDate": "Tue, 22 Sep 2026 04:35:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "minorenni violenza scuola prevenzione",
+      "label": "14enne pianifica accoltellamento prof: fermato dai compagni",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "diritti",
+      "macro_area": "societa-diritti",
+      "richness": 2,
+      "score": 1.2,
+      "cooldown": true,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Lamezia Terme, i compagni sventano il piano del 14enne con il coltello - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYnp1Vl93ak9tSWh5QU03eUxjSzJNVHNlMmdQMHA2MENLVHpDMXVYMUNFMjcyUVk3LURna1AtS0c2LVdGOTRoMzZ6dEJtT1RjWjM4T1lLM0hXdGtja0NGWm1tQVlTdjJaeTRzZEdFUlE1WGRzZFp2eUxxdV81bFl2UFQxWEVobXhBY09rOWdmRkk4bTNHQ0RCMVQydHVGZVZBUW5maFNhQ3Z0TFk?oc=5",
+          "description": "Lamezia Terme, i compagni sventano il piano del 14enne con il coltello Il Fatto Quotidiano Lamezia Terme, 14enne pianifica su Telegram l'aggressione con il coltello alla sua prof. Fermato dai carabinieri grazie alla segnalazione dei compagni di scuola Corriere della Sera Voleva colpire l'insegnante, i carabinieri svelano il piano di uno studente RaiNews Minore pianifica aggressione a docente, Comu",
+          "pubDate": "Wed, 23 Sep 2026 13:30:58 GMT"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Lamezia, 14enne pianificava di accoltellare la prof: fermato grazie ai compagni - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWmJXaGlQWk5vRVBGd196a0VSbm5PNjl5aF9KZ19zOEY4UFR6YkhWQ1N3eGZSbHJxcy1OMzRTYV9IVWk0elEtcnRSNmpSUU5sYUZiQmRxcXZMcWhyb0VTWExsZjFtcHFoT1ZHelc2TEJGZEp6RllFUUt3NkFJVzlmVG9pazNLa0dGZHBWMmRYbnh6VkkycUZSS0kzRUN3S182ZkRoa2sxb1RlTXYxaklOUFZPb1hhdlVkdjJoN1l0Z3Y0YWFhSkQ4YVpnMHAycXBsYi13QmxJVEpmSU1XaTA2UDZleXhTVGlGamowMWRnYjc1c0R5dzFjdFJVQVhUQdIBgwJBVV95cUxOQXRoTWRPanNJUTduZHlCSWVsRDJ4RzRMZ2hFeTZKSUM3R0cxN2kydVNZNFNMTEZGazBMQkgzcFdMOW55VlczRnpxYXhUcWp4UGtOZ3JkR3VMMlNiU1lJMlNxYWh4S2hrc0JpX1RJUmNHbG9BZ3ItbTNKSmJpYWtqejRUYVF3a0hPOHRhYUl1TTd5a2JqYlg5c3BZN3JhcENnWHdDeVp1djY4ZkhlQUJ6bjJ5VkN1b1FQZGd6RjAwZGpBZER5TFJQeXdYaUo3eDU5azFmMEFJV3pqbW1yT29rcmhxOEJrSGhJc0VNYURIVE5VQmZOQXo3OTQ4WVhXNG0zWVlz?oc=5",
+          "description": "Lamezia, 14enne pianificava di accoltellare la prof: fermato grazie ai compagni Corriere della Sera Lamezia Terme, 14enne pianifica su Telegram l'aggressione con il coltello alla sua prof. Fermato dai carabinieri grazie alla segnalazione dei compagni di scuola Corriere della Sera Voleva colpire l'insegnante, i carabinieri svelano il piano di uno studente RaiNews Lamezia Terme, i compagni sventano ",
+          "pubDate": "Wed, 23 Sep 2026 20:59:41 GMT"
+        }
+      ],
+      "clustering": "claude"
+    }
+  ]
+}

@@ -1,5 +1,25 @@
 [
  {
+  "date": "2026-09-24",
+  "label": "Putin al G20 di Miami: chi decide chi si può sedere al tavolo del mondo",
+  "category": "geopolitica",
+  "macro_area": "geopolitica",
+  "target_area": "geopolitica",
+  "angle": "segui-il-potere",
+  "structure": null,
+  "origin_keyword": "putin g20 negoziati russia",
+  "origin_date": "2026-09-24",
+  "story_sim": 0.482,
+  "opening_retry": false,
+  "word_count": 952,
+  "mode": "voice-only-nobed",
+  "rating": null,
+  "rationale": "Mentre tutti guardano Xi a Washington o Zelensky all'ONU, la notizia che rivela davvero i rapporti di forza è l'invito di Trump a Putin al G20: chi ha il potere di riammettere al consesso internazionale un capo di stato sotto sanzioni, e a quali condizioni. Angolo segui-il-potere (fresco, non usato di recente) invece del solito paradosso o segui-i-soldi; il genere prospettiva perché il fatto è noto ma conta cosa succede ora (Cremlino valuta, Lavrov pone condizioni, Zelensky reagisce).",
+  "has_script": true,
+  "has_choice": true,
+  "has_candidates": true
+ },
+ {
   "date": "2026-09-23",
   "label": "La multa a Google (403 milioni): quanto vale davvero la tua privacy?",
   "category": "tech-policy",

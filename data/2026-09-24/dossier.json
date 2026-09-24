@@ -1,0 +1,38 @@
+{
+  "topic_label": "Putin al G20 di Miami: chi decide chi si può sedere al tavolo del mondo",
+  "query": "Putin invitato G20 Trump negoziati",
+  "category": "geopolitica",
+  "category_claude": "geopolitica",
+  "macro_area": "geopolitica",
+  "target_area": "geopolitica",
+  "origin_keyword": "putin g20 negoziati russia",
+  "origin_date": "2026-09-24",
+  "story_sim": 0.482,
+  "story_vs_date": "2026-09-11",
+  "angle": "segui-il-potere",
+  "angle_directive": "Segui il potere: chi decide, chi controlla, chi si crede sopra le regole. La concentrazione di potere (politico, mediatico, tech, economico).",
+  "genre": "prospettiva",
+  "target_words": 950,
+  "hot_topic": true,
+  "richness": 3,
+  "label_cluster": "Trump invita Putin al G20, Cremlino valuta: sì negoziati",
+  "cover_metaphor": "a locked door handing back a golden key",
+  "curator_rationale": "Mentre tutti guardano Xi a Washington o Zelensky all'ONU, la notizia che rivela davvero i rapporti di forza è l'invito di Trump a Putin al G20: chi ha il potere di riammettere al consesso internazionale un capo di stato sotto sanzioni, e a quali condizioni. Angolo segui-il-potere (fresco, non usato di recente) invece del solito paradosso o segui-i-soldi; il genere prospettiva perché il fatto è noto ma conta cosa succede ora (Cremlino valuta, Lavrov pone condizioni, Zelensky reagisce).",
+  "articles": [
+    {
+      "title": "Usa, Rubio: \"Putin invitato al G20 di Miami\" | Il Cremlino: \"Valuteremo\" | Lavrov: \"Ok negoziati, ma senza stop a ostilità\" | Zelensky all'Onu: \"Solo Putin vuol",
+      "source": "google-news-it-world",
+      "summary": "Usa, Rubio: \"Putin invitato al G20 di Miami\" | Il Cremlino: \"Valuteremo\" | Lavrov: \"Ok negoziati, ma senza stop a ostilità\" | Zelensky all'Onu: \"Solo Putin vuole la guerra\" Tgcom24 Guerra Ucraina-Russia, news del 23 settembre. Rubio: “Putin invitato al G20 di Miami. Speriamo in tregua energetica” la Repubblica Cremlino: grati per invito Usa a Putin RaiNews Rubio: 'Mosca e Kiev vogliono tregua ener"
+    },
+    {
+      "title": "Morozov: «Il Cremlino non accetterà nessun cessate il fuoco»",
+      "source": "google-news-it-world",
+      "summary": "Morozov: «Il Cremlino non accetterà nessun cessate il fuoco» Domani In Russia c’è un seggio che è sfuggito alla repressione Il Post I russi all'estero votano otto a uno contro il partito di Putin, smentendo i risultati ufficiali Euronews.com Otto e cinquanta (23.09.2026) Radio Radicale Putin, 'alta partecipazione al voto dimostra che il popolo ci sostiene' ANSA"
+    },
+    {
+      "title": "Zelensky: 'Putin è il paziente zero, va fermato'. Bombe nella notte su Kiev, 2 morti",
+      "source": "ansa-homepage",
+      "summary": "Trump invita lo zar al G20, il Cremlino: grazie, valuteremo. Lavrov a Rubio: 'Negoziamo ma non ci fermiamo'"
+    }
+  ]
+}
