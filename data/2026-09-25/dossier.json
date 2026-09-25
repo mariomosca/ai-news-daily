@@ -1,0 +1,29 @@
+{
+  "topic_label": "Le mastectomie \"inutili\": quando la prevenzione diventa un errore di sistema",
+  "query": "mastectomie preventive BRCA revisione errori diagnosi",
+  "category": "salute",
+  "category_claude": "clima-salute",
+  "macro_area": "clima-salute",
+  "target_area": "clima-salute",
+  "origin_keyword": "mastectomie inutili gran bretagna",
+  "origin_date": "2026-09-24",
+  "story_sim": 0.443,
+  "story_vs_date": "2026-09-17",
+  "angle": "precedente-storico",
+  "angle_directive": "Il precedente storico: questa scena l'abbiamo gia' vista. Un caso analogo del passato che illumina e ridimensiona l'oggi.",
+  "genre": "spiegone-comparativo",
+  "target_words": 950,
+  "hot_topic": false,
+  "richness": 3,
+  "label_cluster": "Gran Bretagna: revisione di 4.500 mastectomie potenzialmente inutili",
+  "cover_metaphor": "a scalpel hovering over a blank medical chart, hesitating",
+  "curator_rationale": "La revisione di 4.500 mastectomie in UK non è solo un errore clinico isolato: richiama altri scandali di overdiagnosi e overtreatment genetico (screening cervicale UK, l'effetto Angelina Jolie sui test BRCA) e permette di mettere a confronto i protocolli italiani. Angolo fresco (precedente-storico, non usato di recente) per raccontare come la medicina preventiva, quando diventa automatismo statistico, può trasformarsi essa stessa in danno.",
+  "followup_of": null,
+  "articles": [
+    {
+      "title": "In Gran Bretagna lo scandalo delle mastectomie \"inutili\", annunciata la revisione di 4500 casi",
+      "source": "ansa-homepage",
+      "summary": "Dopo un'inchiesta giornalistica e le recenti ammissioni del sistema sanitario"
+    }
+  ]
+}
