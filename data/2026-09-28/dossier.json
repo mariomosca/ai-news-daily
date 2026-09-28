@@ -1,0 +1,54 @@
+{
+  "topic_label": "Il tetto ai carburanti: vittoria annunciata o cortina fumogena fiscale?",
+  "query": "tetto prezzi carburanti Eni Ip accise tasse",
+  "category": "economia",
+  "category_claude": "economia",
+  "macro_area": "economia",
+  "target_area": "economia",
+  "origin_keyword": "carburanti prezzi limiti",
+  "origin_date": "2026-09-28",
+  "story_sim": 0.37,
+  "story_vs_date": "2026-09-21",
+  "angle": "paradosso",
+  "angle_directive": "Il paradosso al centro: la contraddizione, il 'ma/eppure/pero'. La cosa che sembra una ma e' l'opposto. E' la mossa-firma di Mia.",
+  "genre": "prospettiva",
+  "target_words": 1150,
+  "hot_topic": false,
+  "richness": 5,
+  "label_cluster": "Anche Ip applica limiti ai prezzi dei carburanti dopo Eni",
+  "cover_metaphor": "a lid pressed on a boiling pot while a hand slides coins out from underneath",
+  "curator_rationale": "Ip che segue Eni sul tetto ai prezzi viene venduto come sollievo per le famiglie, ma nello stesso momento il governo riduce lo sconto accise sul diesel e impone un anticipo d'imposta al 39% alle grandi società energetiche: il paradosso è che il 'regalo' al consumatore convive con leve fiscali che vanno nella direzione opposta, e non è chiaro chi incassi davvero la differenza. Angolo paradosso, fresco rispetto al precedente-storico di ieri.",
+  "followup_of": null,
+  "articles": [
+    {
+      "title": "Da domani limiti ai prezzi dei carburanti anche sulla rete Ip. Meloni: 'Segnale importante'",
+      "source": "google-news-it-top",
+      "summary": "Da domani limiti ai prezzi dei carburanti anche sulla rete Ip. Meloni: 'Segnale importante' ANSA Ip segue Eni sui prezzi dei carburanti. Meloni assicura un sostegno alle famiglie ANSA Slalom tra le stazioni di servizio. Chi ci guadagna e come si risparmia lastampa.it Dove, quando e perché: tutto quello che c’è da sapere sullo sconto al distributore la Repubblica Carburanti, ora il 40% dei distribu"
+    },
+    {
+      "title": "Ip segue Eni sui prezzi dei carburanti. Meloni assicura un sostegno alle famiglie",
+      "source": "ansa-homepage",
+      "summary": "Da oggi un limite al costo. La premier: 'Segnale importante'. Ma monta la protesta, taxi pronti a sciopero"
+    },
+    {
+      "title": "Ip segue Eni sui prezzi dei carburanti. Meloni assicura un sostegno alle famiglie",
+      "source": "google-news-it-business",
+      "summary": "Ip segue Eni sui prezzi dei carburanti. Meloni assicura un sostegno alle famiglie ANSA Slalom tra le stazioni di servizio. Chi ci guadagna e come si risparmia lastampa.it Dove, quando e perché: tutto quello che c’è da sapere sullo sconto al distributore la Repubblica Carburanti, ora il 40% dei distributori fa sconti. Governo in pressing sulle grandi raffinerie: ma la priorità è ridurre il fabbisog"
+    },
+    {
+      "title": "Socar applicherà limiti ai prezzi carburanti sulla rete italiana Ip",
+      "source": "ansa-economia",
+      "summary": "'La decisione per rafforzare l'impegno nei confronti dell'Italia'"
+    },
+    {
+      "title": "Carburanti, lo sconto dell'Eni fa scattare i risparmi: 9,35 euro in meno per un pieno di diesel",
+      "source": "ansa-economia",
+      "summary": "Per le auto a benzina -8,45 euro. La Cgia: 'Ma per il gasolio +27% da pre-guerra'"
+    },
+    {
+      "title": "Benzina e diesel, anche Ip fisserà limiti ai prezzi",
+      "source": "sole24-economia",
+      "summary": "Socar segue l’esempio di Eni ed è pronta a mettere un limite ai prezzi di benzina e gasolio nella rete di distribuzione Ip. È quanto si legge in una nota..."
+    }
+  ]
+}
