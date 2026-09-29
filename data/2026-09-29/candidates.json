@@ -1,0 +1,614 @@
+{
+  "date": "2026-09-29",
+  "top_topics": [
+    {
+      "keyword": "ucraina droni accademia scienze",
+      "label": "Russia colpisce Accademia delle Scienze di Kiev, Putin aumenta truppe",
+      "n_items": 4,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 4,
+      "score": 32,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ucraina, drone russo colpisce Accademia delle Scienze a Kiev: un morto - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdHhoZWxoWXFyMGticjJzcWFtZG9TOUZvUHRkZXByZHNaWWFFOE9oSnI1RG40Qk4zeDhkMU4tRWQwVkdCRTVPUkFUX3JYTHBKM0FfUHcwX0VXOUFHWDNyRkYxX0c1RHJOR3BaeW9jZ3piOEJkZ1gzWDRpcVJzbk5XSnBJdFRYdmtt?oc=5",
+          "description": "Ucraina, drone russo colpisce Accademia delle Scienze a Kiev: un morto Sky TG24 Guerra Ucraina-Russia, le notizie in diretta | Forti esplosioni a Kiev, difese antiaeree in azione Corriere della Sera Drone e fiamme sull'Accademia delle Scienze, colpito il cuore storico di Kiev ANSA Droni russi sul centro di Kiev: colpita l'Accademia delle Scienze, vittime e feriti ilfattoquotidiano.it Guerra Ucrain",
+          "pubDate": "Mon, 28 Sep 2026 21:58:58 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Russian Drone Strikes Ukraine’s Science Academy, Causing Fire in City Center - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNzNCQmpnSU9aZXU2WkxGbmhCeWZwQkJsTUpGeTg2T3AzVUxOUE0zYU1kT1B3c0I5bGV2UEozc180MXZSbFJsaEJNWnU2bDFlM19tZEkyeVVLc2RSZ3c1czZrbmZ2WmxGQzZadG93Q0tNQU54cjE3aDR2SERtamRyTGxlWGRVSnM3TzVtb2praXVlWUszYmdNeUlrOA?oc=5",
+          "description": "Russian Drone Strikes Ukraine’s Science Academy, Causing Fire in City Center The New York Times Russia pounds Ukraine’s Kyiv after deadly strike on Academy of Sciences Al Jazeera Russian drones hammer apartments, offices and a cultural landmark in Ukraine, killing 7 apnews.com Strikes kill 6 in Ukraine after Moscow rejects German calls to de-escalate ABC News - Breaking News, Latest News and Video",
+          "pubDate": "Mon, 28 Sep 2026 19:33:55 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Drone e fiamme sull'Accademia delle Scienze, colpito il cuore storico di Kiev",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/28/media-piu-raid-con-droni-in-centro-a-kiev-colpito-anche-il-ministero_289b314b-ae1f-4c11-85dd-effb3509de01.html",
+          "description": "Raid anche su una clinica. Putin aumenta le truppe, le porta a 1,5 milioni di soldati",
+          "pubDate": "Mon, 28 Sep 2026 20:36:11 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Forti esplosioni a Kiev, difese antiaeree in azione",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/29/forti-esplosioni-a-kiev-difese-antiaeree-in-azione_ceb8f9bd-a461-4ca1-b6eb-0d2651156a70.html",
+          "description": "Aeronautica ucraina: \"Missili balistici in arrivo sulla città\"",
+          "pubDate": "Tue, 29 Sep 2026 01:38:30 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "iran trump diplomazia",
+      "label": "Trump vs Iran: diplomazia o guerra? Negoziati riprendono tra duri scontri",
+      "n_items": 4,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 4,
+      "score": 32,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump, 'all'Iran non ho offerto nulla' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdk90Q2U5cWFBWEs2REx3OUppbDRtRmI0dkpZWkd3WHBJNGNkVlczVEVuOXItUDFTd2F2RlFBQ3dQSGM1d0tzUHdIY2JxSW9FMWVqQmVqX3NSdW9JelVQdW9mYmpyUnFxWVZyRTVOVVh0aERQNmxmMGV4dGdLclBoOWZkQ0JHWG9HSlpTQWFkbk9Ga2x1TEJLNGFCR1VYcXVrWUV2d1QwWHVwbXVKZlRXRXZWOXNrMlgySlVhVGctc0ZONnBOWENr?oc=5",
+          "description": "Trump, 'all'Iran non ho offerto nulla' ANSA Iran, nuovi spiragli di trattativa: “Pronti a flessibilità sul nucleare” la Repubblica Hormuz, Teheran alle strette? ISPI Media Iran, non sono in programma nuovi negoziati con gli Stati Uniti ANSA Trump: “Vinceremo questa guerra molto presto” La Stampa",
+          "pubDate": "Mon, 28 Sep 2026 21:47:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra in Iran, l'unica arma rimasta a Trump è il tempo - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEQ0FoanF3THlQY0ZNaDFmVGFXMVZ6SzRWSGtZSGZyMk5zM08za2FaMFVKWDBsQlF4T0lWLXF5b1J6UjVZX2NIMVlDYVM2ZE5uTHRVZ3VqNkRsQ19nLWM0NV9mU0U?oc=5",
+          "description": "Guerra in Iran, l'unica arma rimasta a Trump è il tempo Sky TG24 Generale Camporini: La guerra all’Iran è destinata al fallimento Città Nuova Rassegna di Geopolitica - La guerra degli USA con l'Iran e la presenza militare americana in Medio Oriente Radio Radicale Il «ritiro» degli USA e il cambio dei «padroni» in Medio Oriente Corriere del Ticino Rassegna di Geopolitica. La guerra con l'Iran e la ",
+          "pubDate": "Mon, 28 Sep 2026 17:47:06 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Live Updates: Iran says Trump must choose between war or diplomacy as talks resume - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTWE0SmFYMGplRWp0MEtWY3Fia2dlSW1QTEQxa2hyQTBHdE9MU213SFhMRU5EaGZQaUZSV0hlLWhjWWpZMHFuSWQ0MjhlczBvbVFvSkVNRDgxT0pHN0dOd2l0WS1TNGE5OEpiWG5YODg1cDRXZnpjZXBVQ1c3SXFJTEFxYjM?oc=5",
+          "description": "Live Updates: Iran says Trump must choose between war or diplomacy as talks resume CBS News US, Iran separately talk with mediators in latest bid to end war Reuters Iran’s Araghchi meets Qatari mediators as US calls for nuclear talks Al Jazeera After nixing Iran proposal, Trump tells Axios he expects talks this week Axios Analysis | Trump says he has an off-ramp to his biggest political problem. H",
+          "pubDate": "Mon, 28 Sep 2026 22:48:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Trump, 'all'Iran non ho offerto nulla'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/28/trump-alliran-non-ho-offerto-nulla_6a2ae4d6-7b4b-42a7-8448-550e63e81740.html",
+          "description": "Smentendo le indiscrezioni riportate da Axios",
+          "pubDate": "Mon, 28 Sep 2026 23:47:59 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "regeni verdetto egitto",
+      "label": "Tre 007 egiziani condannati per il sequestro di Giulio Regeni",
+      "n_items": 4,
+      "n_sources": 3,
+      "category": "diritti",
+      "macro_area": "societa-diritti",
+      "richness": 4,
+      "score": 28,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Regeni, il verdetto 10 anni dopo. Tre 007 egiziani condannati a 10 anni per sequestro, uno assolto - rainews.it",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNXZoQVhfUE1YcnBHaWpNMVBLc3N4RzhmYkRRYzQxaVZuTl9CRkotTmVEcmZaOXVlM2doVHR1SUR6cFJWX3I2eWlxWWJ5SGF2Nlo1ek9Bcm50V2dVUDBZdU83X0dMbjRDMjltSk9IRF9VUlZXZTV1MUVpNWlQbWV5bHFTLVZObnZfbUZpSlNIYkJ6ZE5sMXBlY0RqRy0taDlzUWY0OVV1amhaalk5UDFfZm8wYjRKaHNrWUJ1T2xPZjRRTTNXQW5KNUcyd2lya3FidkRqUWhMRmZsNUlIeHdhVWd3WjJOM2FpZGx3RGh6aERFRUxsSkJ6YmN30gH_AUFVX3lxTE11TnJfOVUxRVZqVFhpMjNtZVQtSWlmN01OdVZjNWJONDZIYmx6aWc3RkpqeFYwTmd3ZnVCT244UlRDZ1B4cHJyMTZRSUV6SkxuMjZ4b1pKUV9VV2Yza2dMZWxrSXkxbEVxVHdUQTk0WWxGUlZnZHBtSTJLdExkNmRKMmp0aHJyalFPMUlDNjQ1QnRPbDdFa0ZnM0tGZVNhUVVJNUMyTTUxRU5vWnNLa2xyOC1yUUxTWkJOYkV1RDhHYVNqU1ZGa0F2VG8zMTdXemdiWGw4TjBHOU93RU9NbWFDaW5tNzJZeDV6NnRQMzVEUG1GTEJPbWxka241T0dUdw?oc=5",
+          "description": "Regeni, il verdetto 10 anni dopo. Tre 007 egiziani condannati a 10 anni per sequestro, uno assolto rainews.it Giulio Regeni, la sentenza: tre condannati a 10 anni e uno assolto. I genitori: “Siamo soddisfatti” la Repubblica Gulio Regeni, dieci anni a tre 007 egiziani ma non per l'omicidio ANSA Il governo: puniti gli uomini, non lo Stato. Ma ora teme che non sia rilasciata Nessy La Stampa Processo ",
+          "pubDate": "Mon, 28 Sep 2026 21:27:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "3 Egyptian Officials Convicted of Kidnapping Slain Italian Student - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRDFzV1IzRUxOOHl4R3NXR2swanNDTnhtRkZBeUtrYUtjVzhZUHVmQ3lOLWE3V1JSOTU2NnpDRTN4U3NjMVJLRHZjdEdwZ1p3MzZuZVBZdjc5aXlOTWpLOGJzWnR1cmV6V25kcnV3dTVQcXhSZDBVNzVpX3pkeHFzb3hFNnZtOTdtQmlnVl83OA?oc=5",
+          "description": "3 Egyptian Officials Convicted of Kidnapping Slain Italian Student The New York Times Three Egyptian security officials convicted of kidnapping Italian student Giulio Regeni BBC Italian court convicts three Egyptian agents for kidnap of Giulio Regeni Al Jazeera Rome court sentences 3 Egyptian security officials to 10 years over Giulio Regeni's abduction apnews.com Italian court convicts three Egyp",
+          "pubDate": "Mon, 28 Sep 2026 20:22:21 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Gulio Regeni, dieci anni a tre 007 egiziani ma non per l'omicidio",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/28/gulio-regeni-dieci-anni-a-tre-007-egiziani-ma-non-per-lomicidio_64ef9a1a-bafc-462b-a8c9-eb196acca780.html",
+          "description": "Riconosciuto solo il sequestro. Salta l'ergastolo, assolto un altro agente",
+          "pubDate": "Mon, 28 Sep 2026 21:31:09 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Regeni, legale della famiglia: \"La nostra fede nella giustizia ben riposta\"",
+          "link": "https://www.ansa.it/sito/videogallery/italia/2026/09/28/regeni-il-legale-della-famiglia-la-nostra-fede-nella-giustizia-ben-riposta_3a1d21d2-2962-4ade-8b08-43d97da47703.html",
+          "description": "Ballerini: \"Il governo prenda atto e rompa i rapporti con un Paese lungi dall'essere sicuro\"",
+          "pubDate": "Mon, 28 Sep 2026 21:37:33 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "netanyahu shin bet avvertimento",
+      "label": "Ex capo Shin Bet accusa Netanyahu: 'Vi avvertii del disastro del 7 ottobre'",
+      "n_items": 3,
+      "n_sources": 3,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 21,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Ex capo Shin Bet denuncia Netanyahu: «Lo avvertii di un disastro imminente» - Il Sole 24 ORE",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYklGNGw5RnBISFRKU3UweF9jdVhMd1RWRkM2aG96LWhjenBSbi1JbkZWVUlHOGczZk1RUjVPck5OYUNnU1RDcGlqX0RPbm1lUnlEQldEbXpPUC1tSXprbDlCMVpmVHktMGFwUDREVkxaenBkVTBjMkNCdE03Ym04QVpqcDNPaXNJRzlrQy1TY29OMmNXN2NWN0liNHJYSnBIZUNKdzFZS2RyVXZCbFpzYnV1dk01VzUwbmNCdDFB?oc=5",
+          "description": "Ex capo Shin Bet denuncia Netanyahu: «Lo avvertii di un disastro imminente» Il Sole 24 ORE Israele, veleni sul viaggio di Netanyahu negli Emirati. “Il premier ha chiesto a Mbz di scagionarlo” la Repubblica Netanyahu smentisce il Wsj, 'Paesi arabi dietro quelle accuse' ANSA Netanyahu chiese al leader emiratino di insabbiare l'allarme 7/10 AGI \"Israele allertato fino a 48 ore prima del 7 ottobre\" ra",
+          "pubDate": "Mon, 28 Sep 2026 20:58:26 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Netanyahu meets Emirati leader in a secret weekend trip to Abu Dhabi, and other Mideast developments - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUTFEOXNVSFlsb2xMS3dPWklqX1UwMEpMa1dzLXFFQWlZUHlTc0YxNy02eVJoakRuNjNMMzN3NWN0Y0p1WGlIVzZ0NWdWd2Y0dUs1TmI1bVVENmtUOGFpZUdSeVFxMzZQWmxtYm9mZk85alZ0aGtMRFh4bkkzOFQzM2lDM2ZCem9rU0o1eGpBRXhvR2VubHpqN3RjT3pyMG5uVVEyOFRGZEU0WGhy?oc=5",
+          "description": "Netanyahu meets Emirati leader in a secret weekend trip to Abu Dhabi, and other Mideast developments apnews.com Netanyahu met with UAE president Sunday in rare trip to country, both sides confirm CNN Shin Bet claims Channel 12 report endangered lives of PM, Israeli delegation, pursues legal action Yahoo UAE confirms Israel PM Netanyahu’s visit to Abu Dhabi Al Jazeera Netanyahu Visits Emirati Leade",
+          "pubDate": "Mon, 28 Sep 2026 22:48:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Missione di Netanyahu ad Abu Dhabi_ \"Smentite di avermi avvisato sul 7 ottobre\"",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/28/media-7-ottobre-007-egitto-chiamarono-netanyahu-dopo-due-avvisi-inascoltati_57b11b8b-1489-4b89-b2da-cfb38c40f22d.html",
+          "description": "Scontro con l'ex capo dello Shin Bet che lo denuncia: \"Lo avvertii del disastro\"",
+          "pubDate": "Mon, 28 Sep 2026 21:53:04 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "openai modello astra safety",
+      "label": "OpenAI cancella lancio modello IA Astra per rischi di sicurezza",
+      "n_items": 3,
+      "n_sources": 3,
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 3,
+      "score": 21,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44UldTTk4wWS1oa3NoWXZ3RFdSZ3M1Q2lhMFFCa3A2QmMzTjRmYWk5bHp3cVBPUldmdzBDRjNmUVVfNnFycy05YVdTVjU4T1ljYUZxRkJZY2RINVNUV1lxMUdyX3BodGNja09adjlRNTYwelNZUEZWR093?oc=5",
+          "description": "OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns The New York Times OpenAI cancels new AI launch, citing safety issues The Washington Post Nvidia and AMD Just Got a New AI Demand Risk to Watch finance.yahoo.com Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns WSJ OpenAI Scraps Debut of Latest Astra Model Over Safety Risks Bloomberg",
+          "pubDate": "Tue, 29 Sep 2026 00:19:42 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "'OpenAi rinuncia al lancio del suo ultimo modello Ia per timori sicurezza'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/29/openai-rinuncia-al-lancio-del-suo-ultimo-modello-ia-per-timori-sicurezza_264beac2-c8a4-48eb-bd23-f53a6aebe043.html",
+          "description": "Wsj, non è risultato affidabile e per responsabili ha mostrato propensione all'inganno",
+          "pubDate": "Tue, 29 Sep 2026 00:21:00 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "OpenAI dice di aver sospeso lo sviluppo dei suoi modelli più potenti - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nY0pjT21BYUR4Z2hsUWM3UzJhbEhoalQ0TjVOZlZKcFdCdElmYW0tWDhRSzUtTG5WZERpV0NsenlpVTN6em5LZk42UV82cXplbmZENW03SGprYnh3aGxZMl82QlNoNVdQQjZ1Z2hMRHI1dnpYczNURkUtQU5DUQ?oc=5",
+          "description": "OpenAI dice di aver sospeso lo sviluppo dei suoi modelli più potenti Il Post Gli agenti AI «ribelli» di OpenAI e Anthropic coinvolti in «decine di migliaia di casi anomali» Corriere della Sera OpenAi rinuncia al lancio del suo ultimo modello Ia 'per timori sulla sicurezza' ANSA OpenAI frena sulla sicurezza: rinviato il lancio di GPT-6.1 Astra rainews.it L'attacco hacker di un agente di OpenAI cont",
+          "pubDate": "Sun, 27 Sep 2026 09:02:43 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "lagarde tassi crescita btp",
+      "label": "Lagarde avverte: alti rendimenti BTP frenano crescita italiana ed europea",
+      "n_items": 3,
+      "n_sources": 2,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 3,
+      "score": 18,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Lagarde: 'Alti rendimenti frenano la crescita'. Fitch porta l'Italia all'1% nel 2026 - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNU3JjcTRGdHhNMkhRTEdHRG5fY3dEcVE1VThwNVE2SjRWT3ZadDY4SGxBLWg4WTFKdTZTRUcyY29zVmJWeTYzNmpkMzFwOFM1M3BBNE51MGItUU93dGl1bjFaeV9waFJ6Uko3SHZZM2s1SHZORGdURUV5VE05Z0tXTVBwR3lpVzJwUmNIQlQ0Ql9SMng2QUhWOU9EUmF4MWRHQS04NUxobkh6V3VGcVhBNXVkeFdFVGdvUXhidGZna3ctbGJKMFBOaUVIcE1KNllYR19TeWpNQi03dU1rZlluVThvSkU2MGpGV0JzOEFB0gHzAUFVX3lxTE4xcDdYdFhnOTZpSV9BTzRCTXBfN0JyWDYwcVBxaFp5ZkRDZFZWbmpBRE5yLVFQNzNuNk1YbUNTSVNQV2ozaXNKUk9VX2ZDOWxWT2dvQVZOY2RyTDVYS3dSb0w5QzBpcnRGYmRXcFNCemJLSF9xWmU0b0ZnT3lzaDBSb3R1OHFKclRLQk9ERkFQYU8wWW9nWEZsVlh3ckJOcTVhd1g0dWFuUUZyV2VISGNXak9iWHAzd3ZJSzJaOUtKVTdBTk9iX0IwNzZUM2VMRXhjS19DbndqVWNYT0Q4aGx3eE01TFBUcHJhQkg0Yi12Ty1taw?oc=5",
+          "description": "Lagarde: 'Alti rendimenti frenano la crescita'. Fitch porta l'Italia all'1% nel 2026 ANSA L’allarme di Lagarde: “Tassi a lungo termine peseranno sulla crescita” la Repubblica BCE, Lagarde: rendimenti in salita frenano la crescita, la risposta sarà misurata Borsa Italiana L’Ai detta la rotta dell’inflazione. Lagarde scuote l’Europa: “Vietato restare fermi” La Stampa Bce: Lagarde, salari non hanno r",
+          "pubDate": "Mon, 28 Sep 2026 13:41:29 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Lo spread tra Btp e Bund chiude in rialzo a 94 punti",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/lo-spread-tra-btp-e-bund-chiude-in-rialzo-a-94-punti_6ceeaaed-e4fe-444f-8c5a-7e1bf4c328a6.html",
+          "description": "Il rendimento del decennale italiano balza al 4,589%",
+          "pubDate": "Mon, 28 Sep 2026 18:08:14 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Lagarde, i tassi a lungo termine freneranno la crescita",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/lagarde-i-tassi-a-lungo-termine-freneranno-la-crescita_329c2ee3-21d4-4cce-ba8e-608a05ff2d67.html",
+          "description": "'Forte revisione prospettive Ia puo' innescare correzione nei mercati",
+          "pubDate": "Mon, 28 Sep 2026 15:51:16 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "trump ia regolamentazione gates",
+      "label": "Trump ignora allarmi IA e rifiuta regole; Gates chiede intervento Usa",
+      "n_items": 3,
+      "n_sources": 2,
+      "category": "tech-policy",
+      "macro_area": "tech-ai",
+      "richness": 3,
+      "score": 18,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Trump ignora l'allarme sull'IA: 'Niente regole, non servono'. Bill Gates: 'Gli Usa se ne occupino' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQaGR5RWJVVEllYV8wbDFsR0pFZ2FWYk80R3pFeW1qR2NsOHpRVWxjZVpOVTdieHN0N2lnSFphZGxOU1I4N3JieFZvdDdTeTlmWWZiS3NZTi12VC11Zll4b1dKaERYbC0xbHhOQkpDVmxuT0lVd2FqREhpV0pHN19PNTYxemhiR2dySjNTVXpvWGE0RV9GejEySkQwNmpSM2pvcktkVlEwNFEtRGdBaTlmVm9RdVZQa2RJNXItUGk5cndKelBQemF6ZnN0WTFiU0I1VWwzQmFmWC1qRGlkTnBLd3NfbFc5SDhsRnUtNEl5QdIB9AFBVV95cUxQZlJUQlY4WnNQRGJIT2hBMnFYTlRadF9jbllXOXJZX2NOdFROS0xPSko1ZFYzYkVDNEYwR2VONk9KR01teUpyclFaY0dsS1Fqd3NsMXQxYmx4ZkJKUkpRczRPcmFaekN3YjlTY09nR1pHa0VVX2ZyM1JQaWJsWnRJY29iNXVBLTB1b0JFbzZqVEQxWFFodzFEYWdDRWNGaDJ5ZE5iY0tfd0xpdVhNME5iakFhbjk4VjZDUXpvUXd6MlJEcTcwU3hDOEhKOE8yaGJPYmhTVzc5akNXdGtZWE9yRzBIXzNBQ3ByeGU1Y0dlZVRTeks3?oc=5",
+          "description": "Trump ignora l'allarme sull'IA: 'Niente regole, non servono'. Bill Gates: 'Gli Usa se ne occupino' ANSA Trump: “Ai fuori controllo? Non ne sono preoccupato” Sky TG24 Il futuro dell’IA passa dai più giovani: a New York il dialogo internazionale su diritti, benessere e salute mentale insalutenews.it Ossessione Russiagate | Trump vede complotti contro di lui anche negli allarmi sull’IA Linkiesta.it T",
+          "pubDate": "Mon, 28 Sep 2026 18:31:00 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Bill Gates: \"L'Intelligenza Artificiale può causare 1 miliardo di morti, Usa devono regolamentare\" - rainews.it",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQY09qdzVTVVNmazZxTTROc21GQkdXMTlhSDVwbkNiVF9ES2xBTVNNQUQ5Z2NYY054LWIzd2NwQUdwYk9LMG9IY0dGU2h2U1RjalNrV0dQV191V3Z4STh3Z0w3anpLaTMybzF0YnpoSHFEcmMtM1AzbW95RU5HVG9mVEdDV2h2eDd3RlUyNFlhWG1uVmhVN0RoQ19QSUhPWUt5a1VNQ2JDdVlZOGZXSzhCTzdFYmdjd1hNOVVPVlVUQVoxOG0zdkhzeGRxNzkyMXEtMDREOGdRMWJIc3BFb1NCQXNXRVU4dE5HRXJ6TVBzc3FJcFVKTFpVMURKUHhESGxueXhxY2t30gGLAkFVX3lxTFBXTGZ4My1XS0JwaENXRjFFNE5KU0ZIakMtaDd1Wk1HclBBRnpRd3Y2bWtDRFJZT0hXeWJ4Q3hkS2d1MndfdV9LNFhfbGlTd1RRUy1BSlAzOXBrVVh2YUF3YXlzSWR2ZHpzOWFYVlFDWkJXNGstOTg5QjhYUkZwYlNodDlPQXhUa015eEdTN3l4M1V1eFEwbzFmNTctM3gwc1pzaUJjUjhPODdXbVFNTGwydzlnYkpRd2c2YXJwM3JiNEE5SkZNeENoU0UtV1d4VjRFeEpiOURPM1UzamROOFdyTkZ0RnJsNXlZeHVIX3FnTnFnd3VJQ0UtU2dpY2ZoS3NoUmpNZF9ySXZ5UQ?oc=5",
+          "description": "Bill Gates: \"L'Intelligenza Artificiale può causare 1 miliardo di morti, Usa devono regolamentare\" rainews.it",
+          "pubDate": "Mon, 28 Sep 2026 04:01:00 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Trump cena con Amodei (Anthropic), ma sfida ancora i big dell'IA: «Non rallento, altrimenti vince la Cina» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQMXI2SnpTUFJLaUR2N2dHbjEwMHRqcExKMWEtMW1fUkZCYTl5TUM1bGhTUm4zNkt0TDIzSlpENmoyTl9oRmtFNFpiV05vMjhCLUhUcjlLcVU3bkFoTUtBTF8zS0hZQTQ1UnRLcWRXNHNwZVZZTVd4b2dTb3FjNEhzcDVraWl0M3lQRkwtc0Q4NUFwTE9pSDhhTWVXZWwyRWNiOW5uQjkxV28xQjJzTGZweTA5QUtwanJWYVdMMXNyc3NTbTZrN0ZPbUVidFk2dzVpSURXY3NzcjB4YnZ6blUtcDJCUWoydGV3X0pyd3h5Q0YxY1EtT2NybktyYUpKeFh4M3J5YUZucWFpN09TX2stYldPTHdPNDZl0gGeAkFVX3lxTE42UXdCWnB3dFh4Y09URnBBdGc1dGR2b3BEZmVsQlJaYlFuNTFzTVhsUVkzRFM3c1hELWpiTzRyZ0p0b1BiN3lMaFVtZWtwQmw2S3lRTzN6V3dDaV8zbFVQU1ExRWtlZ3labDMxSjdEM3ZpNEdCRmhvcWxWSVZRaTB1N3dEcTJLMkNHZE1sVVktaWJ0Y2x0NjhvZjhuazBvRGJnV2tVNHZPUmt1c3hiTnlDdGVxc0ktYUdHM2tVbUtTR3RvZl9Wa19weExWaV9YTURqMVdPZ3lmOE8xTzAxbWFDS3JWcE81TGZhdkg5NjRRYlNVNk1Oc3FKdllxemF0Z2hkZEpJRF9ZNDRmbWd6elV6Z0lXME1zQWFkcTlleXc?oc=5",
+          "description": "Trump cena con Amodei (Anthropic), ma sfida ancora i big dell'IA: «Non rallento, altrimenti vince la Cina» Corriere della Sera",
+          "pubDate": "Sun, 27 Sep 2026 23:30:38 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "zucchero carne rossa diabete",
+      "label": "Studio: zucchero nella carne rossa aumenta rischio diabete fino al 63%",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "salute",
+      "macro_area": "clima-salute",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "Uno zucchero presente nella carne rossa aumenta il rischio di diabete fino al 63%",
+          "link": "https://www.ansa.it/canale_saluteebenessere/notizie/diabete/2026/09/28/uno-zucchero-presente-nella-carne-rossa-aumenta-il-rischio-di-diabete-fino_c9a43715-a89f-4526-9141-fbe653ac7693.html",
+          "description": "Il pericolo è maggiore con consumi elevati",
+          "pubDate": "Mon, 28 Sep 2026 14:49:57 +0200"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Uno zucchero presente nella carne rossa aumenta il rischio di diabete fino al 63% - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQcnYzbWxGTTdmbzNCTXNreld5S3Faa3EwU0ZwQkNkVGFKY0tMOGlUWjllOFA5TXA0SkVFbEkyejdLUjJFd2kwa2JFYW5ycWRnVm5OMzBJRk13Qll6U2x4TVpSUlExM2hyWHNjVnV5VzN6UGQzRXk4WDVaTUZReVBGbG1DcEk0TWdqdDhjWmxJTlQtLW9TdXRUUEl3UFhaOTljSERPV1JkTjVzRVdUV2txMHR3T1prYmlpLW9Ub0VSYnFMZzlweHV3VDdZWGpmNWpyTUR6STh0X3BJakw3NHVQdjBYMHVZamNtcjQxR09XY2VBam1oMHp5eHUwRV9RLXJpSVBEellFZldQVkVDWTJIMWdXTUNqd9IBmwJBVV95cUxNSXdpRkk1VkRhSGZ5MEZJRi1RSkFzU2pRSEVrdldwdmM3WXZaeEk2X1JFaVo0N2w4ZVlOc1hpU2VtTXJUeFFPQnYzcmlCVHh6X2FfUWhHVnI0VWZDRUxBaENNN2tGTk1wZFBELThIRmJNOW42YnZEaUEzd2MzWUxEQW5pdHFhUHpDQ1N2dk9EbVZkaW43R2Z0Mk9VYVhZN2pyZkhzOGhjd0FEamNDbWdGNGJ5VkhReEx5Mk1qb0NBRVlFSnQxUkZONk92RV80YzF1ams4a0pnVTVZNEJHWk1rT2thSzdqVVJxZEZXUEVvMTBtY0VEU3E1LWV4UDVOYjRBTEIwTFlrY2ZVQ2VqbE94czN0YTMwTFQ0RnA0?oc=5",
+          "description": "Uno zucchero presente nella carne rossa aumenta il rischio di diabete fino al 63% ANSA Diabete di tipo 2, dai batteri intestinali alla carne rossa: due nuovi indizi per anticiparlo Il Sole 24 ORE Mangi troppa carne rossa? Sei a maggior rischio diabete 2 (del 63%) la Repubblica Il microbioma intestinale può svelare chi è a rischio di diabete di tipo 2 Alto Adige Da zucchero in carne rossa fino a +6",
+          "pubDate": "Mon, 28 Sep 2026 12:44:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "nord corea ucraina truppe",
+      "label": "Zelensky denuncia: Corea del Nord prepara altri 10mila soldati per Russia",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Ukraine's Zelenskiy says North Korea prepares to deploy another 10,000 troops to Russia - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYjdRek9lejNoZkhSRjhkQmg3VGpvc1dBNERSVFg3VWk1MHJHZXhhdVp2S1Q4bFNGZFlreHc4OVFfejBsd3NZNjVTVS1QQVBUNjBVZTFGOHprbFBmTXl5Q0RPNmVyYWY4OWtpXzJKd2dXSmdxVVhYUmdESVcyVXBzeEJrdjRVbEJaNkZUaHNjeHZ0SjNGMXd0RkhRVzlkeDB6NkF4Tm9kVXByS1RXT21ha2E5Y191Zzh6UVhxaDJOaG11RWdMWHZHcnJWY3kzbEk?oc=5",
+          "description": "Ukraine's Zelenskiy says North Korea prepares to deploy another 10,000 troops to Russia Reuters ‘We will turn Putin’s new foot soldiers into stewed meat’ The Telegraph Russia beginning 'additional mobilization' of troops, North Korean recruitment, Zelensky warns The Kyiv Independent Zelenskyy Warns of New Russian Mobilization and 10,000 North Korean Troop Deployment Radio Free Europe/Radio Liberty",
+          "pubDate": "Mon, 28 Sep 2026 23:04:00 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+          "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
+          "description": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
+          "pubDate": "Mon, 28 Sep 2026 14:57:31 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "raf base attentato iraniano",
+      "label": "Cinque sospettati attentato sventato alla base RAF rilasciati, Iran minaccia",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Rilasciati su cauzione i cinque sospettati dell'attentato sventato alla base RAF: l'ira dell'Iran (che minaccia di fare causa) e quella diversa ricostruzione della testimone - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWDluWF9YR3VSbHFoVTNIcGRiZjQ0cWJDSGltdGtoYl9KUlJwOGVQdHJVcXJLYWh4TUVJVk9BNEZjdFdVWGoxcHVOMzBCZHlKU2hCeXB1YlJOcVB3SGFxVjVKQXc2TG9VN29IZ0RiTHFzbVRrNVM1Y1BpUjBoM0lmTjk1UUN1ZW91UUtHYW16OGo1c2ZqaXYzT3AyaW90TXBnUXJZOUtjdjh6ODZrNDE2d204R25VR0REVlV3RDh4OEJScE5rcnfSAcsBQVVfeXFMT2VNUXJkOEJPNWk5NXA3Z3ZYcnJyY1BUTm1hX3pCTjkzM3VaM2xpbDd0Yk9EZ0RVNWMwcnJqTlNLU3JpSmx1WXNIRUNkUTFuaFJ6cDA4ZksxOS1rX3hkZFd4UGdUMEFLZmFnMzNUdXk4d2M2VjE5VUREZ19RelhNQ2Mwd2N1MW1FdEFYTUJQT3VPT1BzZDVQNFNQXzc0dkRkU1l1NW04X2VvX0lyYkd4SmpvOUlwNHZEQTgwWlI5ZWVuOGNVblhQckptclk?oc=5",
+          "description": "Rilasciati su cauzione i cinque sospettati dell'attentato sventato alla base RAF: l'ira dell'Iran (che minaccia di fare causa) e quella diversa ricostruzione della testimone Corriere della Sera Si sa ancora poco degli arresti vicino alla base militare in Inghilterra Il Post Allarme base Raf, la contadina che ha dato l'allarme: \"Pura fortuna, passavo di lì\" rainews.it Gli allarmisti: da Trump che a",
+          "pubDate": "Mon, 28 Sep 2026 21:59:02 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Five men arrested in RAF Fairford incident released on police bail - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oTlBNeGVQLWo5dWxnWE5Sb0QzREMzajEtdlM0NFZCZFUyLU9qRU9sQVB2UC1fWDdYQ1hyVmYwSm1PZUpPWW9ZM29GcjhiRjNjNy02RGZRYXhXSjQ?oc=5",
+          "description": "Five men arrested in RAF Fairford incident released on police bail BBC UK releases suspects as Iran denies role in alleged plot on base used by US Al Jazeera Rubio says foreign actor was ‘clearly’ behind suspected RAF Fairford bomb plot The Guardian Did Trump reveal secret US-UK operation over RAF Fairford incident? Sky News The Small English Town Rattled by Alleged Terror Plot Near U.S. Bomber Ba",
+          "pubDate": "Mon, 28 Sep 2026 19:16:26 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "ia estinzione ricercatori allarme",
+      "label": "350 leader tech avvertono: l'IA intelligente pone rischi di estinzione",
+      "n_items": 2,
+      "n_sources": 1,
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 3,
+      "score": 14,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'IA può portare all'estinzione, l'allerta di decine di ricercatori",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/-lia-puo-portare-allestinzione-lallerta-di-decine-di-ricercatori-_f2907c59-c053-4af7-b511-410cbb0bc59b.html",
+          "description": "Tra i firmatari gli ad di OpenAI e Google Deepmind, ci sono anche italiani tra cui l'esperto di tecnologie dell'informazione Luca Simoncini",
+          "pubDate": "Tue, 30 May 2023 17:55:51 +0200"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'allarme dei big, 'rischio estinzione con l'IA, è come le pandemie'",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/lallarme-dei-big-rischio-estinzione-con-ia-e-come-pandemie_3afde5e5-7bcf-464e-b3aa-aee6577a9b23.html",
+          "description": "Nyt riporta lettera di 350 leader industria, anche ceo OpenAI",
+          "pubDate": "Tue, 30 May 2023 14:12:41 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "papa estrema destra cristianesimo",
+      "label": "Papa condanna l'estrema destra: 'Non è espressione del cristianesimo'",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "diritti",
+      "macro_area": "societa-diritti",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Dal Papa l'appello contro l'estrema destra: \"Non è espressione del cristianesimo\" - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUkpHZjh5QjBvMkNtT3NGdU95ajJJal96SWttbEZVdlRqMmVpd2RqTi1Kb2VNbXkzT3BNcnJaQldtZ0F3WEd1ejl0ZVg1SXhnN0ZKRExrUXg1cGR6eGk5eEJydEJocGt3bHRPZ1VDcm92a1ZkUG44UnZVaC1TdVlRYkpNVWx4M3h6UExtV0NtU1hiRlNjTDRlSjVscUxYWUMzS0VVbNIBaEFVX3lxTE1aeVpWYS0ySmdISlVhMFpMRVU4cUV6MDJtODhFRjcwUVZBVEtJTENuME5GRmJMVS1fZkdiNWdwd3Vhc2IyazlSaTBRR2tJRHJzRXlWbVMzQ2d2TmVGYzNvY1ZUUGlFdTdj?oc=5",
+          "description": "Dal Papa l'appello contro l'estrema destra: \"Non è espressione del cristianesimo\" Tgcom24 Il Papa: guerre senza senso, Paesi come Russia e Ucraina si siedano a dialogare Vatican News Leone XIV sull'aereo papale: «Non sono un politico, ma la Chiesa ha il dovere di parlare» Avvenire Il Papa avverte: 'L'estrema destra non è espressione del cristianesimo' ANSA The Pope: the far right is on the rise, b",
+          "pubDate": "Mon, 28 Sep 2026 21:16:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Leone XIV: a ottobre si preghi il Rosario per la pace tra i popoli in conflitto - Vatican News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc3pGZGxMc25nTDFLQ1JBOTVvakszeGR1YlJfTHNsTmVhNjZrd2oya3Uwem1lVVkxOXotVVJyNG9VUl9IWEktSW9pQ3VJYWhGaUp2VWdCNDQ0YzRRQjhFaDBmQmp5TkU1RVROU2xzTHI2YWpPMTV6anNHOFk0ZGVaZkFEV2ptdVpPbGZlQ2lZYTMzcUJfNDRpSUVkck40REFXelpCWmZ3RQ?oc=5",
+          "description": "Leone XIV: a ottobre si preghi il Rosario per la pace tra i popoli in conflitto Vatican News \"Un milione di bambini recita il Rosario\": l'iniziativa, in comunione con il Papa, il 1° ottobre anche in Cattedrale con il Vescovo DiocesidiCremona.it L’appello di Papa Leone da Lourdes. Il rosario di ottobre per la pace: la mano tesa di Maria portAlecce I bambini di Roma pregano il Rosario con il Papa Ro",
+          "pubDate": "Sun, 27 Sep 2026 10:52:46 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "apple brevetto vibrazione taction",
+      "label": "Tribunale Usa: Apple paga 5,7 miliardi per brevetti tecnologia vibrazioni",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "bbc-business",
+          "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
+          "link": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss",
+          "description": "Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations.",
+          "pubDate": "Mon, 28 Sep 2026 11:16:08 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Un tribunale statunitense ha stabilito che Apple paghi 5,7 miliardi di dollari a un'azienda per aver usato senza permesso una sua tecnologia brevettata - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcGItOEt1U2h4ZUQ0NU9kUkZEcEJqak91WEdLLXFTMVZOV3ZlZ1RxQW92Q2xWMHU0aGdtLTR5Zl9mUm4wcFUtcm5adjhHcG9jOG5OMnlhRERBeU52c2JhdXFCSGo4eWJFcEUtQ09lS3FWcDRmMGxxZ0FJY2NxcGp2M3BnOEpQMmcyVWJ2aXJVa2E?oc=5",
+          "description": "Un tribunale statunitense ha stabilito che Apple paghi 5,7 miliardi di dollari a un'azienda per aver usato senza permesso una sua tecnologia brevettata Il Post",
+          "pubDate": "Mon, 28 Sep 2026 17:57:44 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "tesla robot umanoidi lavoratori",
+      "label": "Tesla vuole sostituire lavoratori con robot umanoidi, i dipendenti si ribellano",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "lavoro",
+      "macro_area": "economia",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-tech",
+          "title": "Intelligenza artificiale, Tesla vuole sostituire le tute blu con i robot umanoidi: i lavoratori si ribellano - ilfattoquotidiano.it",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMlpqeEhPaFUwSlVsaUkxMFItemNPc3YxYnRjUmh4UWhwQlJBai1hY0lfRkpDLWFhbFlYYzc4cDR0UmdIV1pER0hZNVBwRW1aZEQyYXo1X3JvVC11MTdGVW9hUDZHM1haVk9YaWxaRTVDZmtrU0wtNVJCazRkbk1NWTZYN2l2dVRxZzJhN1BjV2JHR3VsU1hUY3k3d1RmMlkzRVhmbExnY29hZi1iZlZlNnZpaVJWNG5zN2RCSHMzOXU4dkF3cUU4c2hVYURwdGtmVFVIRk1kaHVjTk0ydWZCbm80QzFJMVJUczlMT0VKM3Q?oc=5",
+          "description": "Intelligenza artificiale, Tesla vuole sostituire le tute blu con i robot umanoidi: i lavoratori si ribellano ilfattoquotidiano.it",
+          "pubDate": "Mon, 28 Sep 2026 16:06:27 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "segre ddl antisemitismo camera",
+      "label": "Segre lancia appello unità su DDL antisemitismo, ma stallo alla Camera",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "diritti",
+      "macro_area": "societa-diritti",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "Segre fa appello all'unità sul ddl antisemitismo, ma è stallo alla Camera",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/09/28/segre-approvare-allunanimita-il-ddl-antisemitismo-anche-con-modifiche_c0939e1f-2618-4e5e-a853-bf2587605079.html",
+          "description": "L'Ucei difende il testo attuale. Strada in salita per le modifiche. Il campo largo alla proiezione di Naza",
+          "pubDate": "Mon, 28 Sep 2026 21:10:16 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "dengue brescia disinfestazione",
+      "label": "Casi sospetti di Dengue a Brescia: scatta disinfestazione",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "salute",
+      "macro_area": "clima-salute",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-health",
+          "title": "Casi sospetti di Dengue a Brescia: dove verrà effettuata la disinfestazione - Giornale di Brescia",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObWp5czdYV2d4eXUzdWQxcXYyVWJWajdQQ3hEWkFNLUl4ZW84ZkZubkpxdm1XaDM2bFhpUTlCeHFDcHFhVFlKZkpfUnhkaFJ6S2kxb0tDUXhJTUJ1aVNZN19NWVdhYkJPOFl2dzIwTGJBSlRodXE2UWZyMndXUWhNTU1wdHZwT00zQUtQTzh2dXhQSS1tdnVjNFZPdFBEckM1Y1lHX25n?oc=5",
+          "description": "Casi sospetti di Dengue a Brescia: dove verrà effettuata la disinfestazione Giornale di Brescia Sospetto caso di febbre Dengue: in paese scatta la maxi disinfestazione BresciaToday Caso sospetto di Dengue a Nave: scatta la disinfestazione Bresciaoggi",
+          "pubDate": "Mon, 28 Sep 2026 14:56:32 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "solitudine salute vita studio",
+      "label": "Ricerca: solitudine ruba fino a 6 anni di vita sana (277mila adulti)",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "salute",
+      "macro_area": "clima-salute",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-health",
+          "title": "La solitudine ruba la salute: fino a 6 anni in meno di vita sana, lo studio su 277mila adulti - mondosanita.it",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZllyVk5IWllSRTRqR1V4bkQzcW5wYms2UkZzX0NmOC1TNTJFQWFjb1RKUWEzNktxeDB5OE9ucHR2bnBFT3JhVXpINEVOaFJjOVlJTXV5Q2xrUjFxa3hJNkpud0VrWHRUY0w4dmdPM0JDTmNUWXJfdkVoWHZMV1RwZjRlOHN1N0NMY2k4d0prTEJJRTBMZ1VOUGo2WGVkWWJ1YUNqNmNDM0dUR2lRRUpBc2NwcE9nUVd5RjZQVVg4TWd4YXl0RWdJb2t4NDlwY3hmdFZ0dnMtSEVPYkpkZzlLYkVHcDZOUQ?oc=5",
+          "description": "La solitudine ruba la salute: fino a 6 anni in meno di vita sana, lo studio su 277mila adulti mondosanita.it Essere o sentirsi soli può voler dire meno anni vissuti in salute: lo studio sanitainformazione.it",
+          "pubDate": "Mon, 28 Sep 2026 19:15:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "russia sabotaggio europa kallas",
+      "label": "Kallas avverte: Russia pianifica atti di sabotaggio in Europa",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Kallas: \"La Russia pianifica atti di sabotaggio in Europa\" - AGI",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNFV0UG9IZmxySlhPdXpBQXRWZ00zcHZrR29oSlZab0tTZHNYaWhpUHhhUm44Y3hPTFZUWFdjTFlOTHI0S0lPZEpJWVppeUFQdTAybXdvV2ROYzd4OEdFRVpHYUs0RlAyODJWalBkRTdHc1owUUUtcUh1R0dJYWtIRFFrOEttMFJ6ck1JODJVYVhINHpVNUNSS0dB?oc=5",
+          "description": "Kallas: \"La Russia pianifica atti di sabotaggio in Europa\" AGI L'allarme di Kallas: 'Per i nostri servizi Mosca prepara nuovi atti di sabotaggio' ANSA L’Unione Europea cerca nuovi modi per rispondere agli attacchi ibridi russi Il Post L'Ue non alza le difese su Russia e Houthi. L'emergenza non infonde coraggio ai Ventisette (di A. Briganti) HuffPost Italia Il protocollo di sicurezza europeo resta ",
+          "pubDate": "Mon, 28 Sep 2026 10:00:15 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "russia spionaggio polizie europee",
+      "label": "Azienda russa spiava dati per polizie europee spacciandosi per americana",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "L'azienda 'americana' che spiava i dati per le polizie europee era russa - ilfattoquotidiano.it",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSGxFc0NMeWEwSmhDQklvdGdmaXBhRGREN0JFdGd5UDBRWk1fYm5QVDBKLW1fcFNnM0w5Rm9KM1FSbTJSbEFISXRqVTVnc2NpMFNDTnVCWi1zVHoydG9icWdoUkVEbHlMcVlDT3lFTnhINDR5S18wbDM5eTZnU3I5WmNVeGRzMU5fYXBSSTdMbmI2d2V3OE9RRHpIN1R3U1hpd3Zkam5hREZ3anc?oc=5",
+          "description": "L'azienda 'americana' che spiava i dati per le polizie europee era russa ilfattoquotidiano.it «Azienda russa di analisi dati usata da polizie europee, Italia compresa» Il Sole 24 ORE Media Usa: «Una società russa usata per la gestione dei dati dalla Procura di Sassari» - L'Unione Sarda.it L'Unione Sarda.it Media: «Società russa di informatica forense ha partecipato a progetti sostenuti dall'Ue. Un",
+          "pubDate": "Mon, 28 Sep 2026 16:54:09 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "carburanti eni ip prezzi",
+      "label": "Eni e Ip limitano prezzi carburanti: code ai distributori, ma costi restano alti",
+      "n_items": 5,
+      "n_sources": 5,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 4,
+      "score": 4.1,
+      "cooldown": true,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Sui carburanti anche Ip si allinea a Eni, distributori già esauriti. Ma il prezzo medio resta alto - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRGMwdGdfMzBMUVZ0Uk1qVU1JcmYwaEx2aWdMM3lGeFFOcEFXQlowQlJEM3Y4aTNqeUhXZFpMZlVrUFRILXBFMGxGREZvUkpIckZlRC1USXZKV3hBejdOUFcwdjZyN2RlN2JpdlFNZkNaNTZJSmtkTm90X29vQWg3OXVQanVNemZxbkR1WlFZeWRYWnpqVmxsUUtWbUViT19qdEpUaWdLVFllamR2MzdWcA?oc=5",
+          "description": "Sui carburanti anche Ip si allinea a Eni, distributori già esauriti. Ma il prezzo medio resta alto la Repubblica Emergenza carburante: “Il tetto ai prezzi per noi significa andare in rosso” La Stampa Lo sconto e gli scontenti. Agricoltori, taxi, tir e piccoli benzinai: monta la protesta contro i ribassi HuffPost Italia Benzina e gasolio scatta il taglio dei prezzi è subito caccia al pieno la Repub",
+          "pubDate": "Mon, 28 Sep 2026 09:04:20 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Carburanti, scattati i tagli Eni e Ip. Assopetroli: 'Estendere gli sconti'",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/carburanti-scatta-il-tetto-nei-distributori-eni_acc62c40-30c5-43ee-b52a-9061d52e8aaf.html",
+          "description": "Palazzo Chigi guarda a Q8. Autotrasportatori siciliani indicono lo sciopero",
+          "pubDate": "Mon, 28 Sep 2026 21:22:44 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Scatta la corsa al pieno nei distributori Eni: code e carburante esaurito - HDmotori",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iMmVfVms2eWc2ak9LY1lqX1FhNHFFelk4WV9Sa2N5Q0ZqbTl0cEZQTFpfZWY3dDZLRFRMUnpQdE5SLUN5dUdkcXZrNXV4Vlo2N1NOdTJhbFBtcEYxS3lrZXE5dw?oc=5",
+          "description": "Scatta la corsa al pieno nei distributori Eni: code e carburante esaurito HDmotori Emergenza carburante: “Il tetto ai prezzi per noi significa andare in rosso” La Stampa Lo sconto e gli scontenti. Agricoltori, taxi, tir e piccoli benzinai: monta la protesta contro i ribassi HuffPost Italia Benzina e gasolio scatta il taglio dei prezzi è subito caccia al pieno la Repubblica Effetto 'sconto Eni' a M",
+          "pubDate": "Mon, 28 Sep 2026 13:44:51 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Parte da circa 300 distributori limite prezzi Ip, tetto uguale ad Eni",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/parte-da-circa-300-distributori-limite-prezzi-ip-tetto-uguale-ad-eni_954645af-a337-4eab-ba58-a19e874b8bdc.html",
+          "description": "Sarà allargato in base ad aree mercato, per salvaguardare filiera",
+          "pubDate": "Mon, 28 Sep 2026 16:15:36 +0200"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Benzina e diesel, anche Ip fisserà limiti ai prezzi",
+          "link": "https://www.ilsole24ore.com/art/benzina-e-diesel-anche-ip-fissera-limiti-prezzi-AJOtguQB",
+          "description": "Socar segue l’esempio di Eni ed è pronta a mettere un limite ai prezzi di benzina e gasolio nella rete di distribuzione Ip. È quanto si legge in una nota...",
+          "pubDate": "Sun, 27 Sep 2026 15:00:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    }
+  ]
+}

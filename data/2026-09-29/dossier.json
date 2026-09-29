@@ -1,0 +1,44 @@
+{
+  "topic_label": "Regeni, 10 anni dopo: condannati per il sequestro, non per l'omicidio",
+  "query": "Regeni verdetto 007 egiziani impunità",
+  "category": "diritti",
+  "category_claude": "societa-diritti",
+  "macro_area": "societa-diritti",
+  "target_area": "societa-diritti",
+  "origin_keyword": "regeni verdetto egitto",
+  "origin_date": "2026-09-29",
+  "story_sim": 0.374,
+  "story_vs_date": "2026-09-22",
+  "angle": "segui-il-potere",
+  "angle_directive": "Segui il potere: chi decide, chi controlla, chi si crede sopra le regole. La concentrazione di potere (politico, mediatico, tech, economico).",
+  "genre": "ricostruzione",
+  "target_words": 1150,
+  "hot_topic": true,
+  "richness": 4,
+  "label_cluster": "Tre 007 egiziani condannati per il sequestro di Giulio Regeni",
+  "cover_metaphor": "a locked door with only half the key turning",
+  "curator_rationale": "Verdetto storico ma parziale (condanna solo per il sequestro, non per l'omicidio): perfetto per l'angolo segui-il-potere, mostrando come la giustizia si fermi dove iniziano gli interessi di Stato (armi, gas, Eni, i rapporti Italia-Egitto mai interrotti). Non ancora trattato negli ultimi 14 giorni e più ricco del rivale (sfratto Madrid, già simile a episodio del 23/9).",
+  "followup_of": null,
+  "articles": [
+    {
+      "title": "Regeni, il verdetto 10 anni dopo. Tre 007 egiziani condannati a 10 anni per sequestro, uno assolto",
+      "source": "google-news-it-top",
+      "summary": "Regeni, il verdetto 10 anni dopo. Tre 007 egiziani condannati a 10 anni per sequestro, uno assolto rainews.it Giulio Regeni, la sentenza: tre condannati a 10 anni e uno assolto. I genitori: “Siamo soddisfatti” la Repubblica Gulio Regeni, dieci anni a tre 007 egiziani ma non per l'omicidio ANSA Il governo: puniti gli uomini, non lo Stato. Ma ora teme che non sia rilasciata Nessy La Stampa Processo "
+    },
+    {
+      "title": "3 Egyptian Officials Convicted of Kidnapping Slain Italian Student",
+      "source": "google-news-en-top",
+      "summary": "3 Egyptian Officials Convicted of Kidnapping Slain Italian Student The New York Times Three Egyptian security officials convicted of kidnapping Italian student Giulio Regeni BBC Italian court convicts three Egyptian agents for kidnap of Giulio Regeni Al Jazeera Rome court sentences 3 Egyptian security officials to 10 years over Giulio Regeni's abduction apnews.com Italian court convicts three Egyp"
+    },
+    {
+      "title": "Gulio Regeni, dieci anni a tre 007 egiziani ma non per l'omicidio",
+      "source": "ansa-homepage",
+      "summary": "Riconosciuto solo il sequestro. Salta l'ergastolo, assolto un altro agente"
+    },
+    {
+      "title": "Regeni, legale della famiglia: \"La nostra fede nella giustizia ben riposta\"",
+      "source": "ansa-homepage",
+      "summary": "Ballerini: \"Il governo prenda atto e rompa i rapporti con un Paese lungi dall'essere sicuro\""
+    }
+  ]
+}
