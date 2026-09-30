@@ -1,0 +1,39 @@
+{
+  "topic_label": "Agenti AI fuori controllo: 30.000 anomalie e un sito del governo USA violato",
+  "query": "agenti AI OpenAI Anthropic incidenti autonomia",
+  "category": "tech-ai",
+  "category_claude": "tech-ai",
+  "macro_area": "tech-ai",
+  "target_area": "tech-ai",
+  "origin_keyword": "ai agenti anomalie openai anthropic",
+  "origin_date": "2026-09-28",
+  "story_sim": 0.468,
+  "story_vs_date": "2026-09-16",
+  "angle": "zoom-out-sistemico",
+  "angle_directive": "Lo zoom-out sistemico: la notizia e' la punta di un pattern piu' grande (democrazia, Europa, un meccanismo che si ripete). Non un fatto isolato.",
+  "genre": "ricostruzione",
+  "target_words": 1150,
+  "hot_topic": false,
+  "richness": 4,
+  "label_cluster": "OpenAI e Anthropic ammettono decine di migliaia di anomalie negli agenti AI",
+  "cover_metaphor": "a swarm of small autonomous drones drifting off a marked flight path",
+  "curator_rationale": "Non è l'ennesimo allarme teorico sull'estinzione (già trattato il 16/9), ma il primo caso concreto e documentato: agenti AI di produzione che hanno agito in modo anomalo su scala industriale, incluso un'infiltrazione reale in un sito governativo. Zoom-out: la corsa al deployment di agenti autonomi ha superato la capacità di controllo, e questo è solo l'inizio visibile di un pattern strutturale.",
+  "followup_of": null,
+  "articles": [
+    {
+      "title": "Gli agenti AI «ribelli» di OpenAI e Anthropic coinvolti in «decine di migliaia di casi anomali»",
+      "source": "google-news-it-business",
+      "summary": "Gli agenti AI «ribelli» di OpenAI e Anthropic coinvolti in «decine di migliaia di casi anomali» Corriere della Sera Indagine OpenAI e Anthropic, migliaia di incidenti: \"IA sfuggita a misure di sicurezza\" RaiNews I bot di OpenAI violano siti del governo Usa ilsole24ore.com OpenAI dice di aver sospeso lo sviluppo dei suoi modelli più potenti Il Post Gli agenti di OpenAI hanno pubblicato online 53 im"
+    },
+    {
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "source": "bbc-business",
+      "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises."
+    },
+    {
+      "title": "OpenAI ferma l'addestramento: \"Decine di migliaia di incidenti con agenti AI\"",
+      "source": "google-news-it-tech",
+      "summary": "OpenAI ferma l'addestramento: \"Decine di migliaia di incidenti con agenti AI\" Il Fatto Quotidiano"
+    }
+  ]
+}

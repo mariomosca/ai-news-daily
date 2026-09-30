@@ -1,0 +1,656 @@
+{
+  "date": "2026-09-30",
+  "top_topics": [
+    {
+      "keyword": "flydubai attacco pilota coltello",
+      "label": "Copilota accoltella comandante su volo Dubai-Tel Aviv, sospetta matrice terroristica",
+      "n_items": 12,
+      "n_sources": 5,
+      "category": "general",
+      "macro_area": "geopolitica",
+      "richness": 4,
+      "score": 76,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Cosa è successo a bordo dell'aereo Flydubai: la discesa violenta, la pista del terrorismo, i danni alla coda del Boeing - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZXY1SndoeW5iTVZEaHJ5ZWt0U0hrTVFRSmNEUTdudnd2cTB4VWJqUnhfWXVxMnNMVktWS2V6bk9DSk90SWdoOFA2VndyY0x0WnAwS0RrWVZtR2RyREdhclVkNU1JZUM4NlExQlgtVEFHZnhaSW40eHNYQ1FhOExqZ1JOenRBci1aTUxMeXZLdjI1ZjNUWjlmUzgtM3hRSENHak5OUG1ZeDFqSXpZUkQ1RXFyWE9NZU1kR0M0?oc=5",
+          "description": "Cosa è successo a bordo dell'aereo Flydubai: la discesa violenta, la pista del terrorismo, i danni alla coda del Boeing Corriere della Sera Volo Dubai-Tel Aviv, la rotta e le prime immagini dell'aereo. FOTO Sky TG24 Un testimone sul volo Dubai-Tel Aviv: “Abbiamo immobilizzato l’assalitore con i cavi delle cuffie” la Repubblica Un dirottamento, anzi una lite fra piloti. Cosa sappiamo del volo FlyDu",
+          "pubDate": "Wed, 30 Sep 2026 12:34:25 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Emergenza volo Dubai-Tel Aviv: si segue pista attentato terroristico - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yWmVYTmJOd1VJNWJyemtvVTRyaWh3NnpSbmFhRi16M1UwNXlBYWk1MXhMTV9jNTE3XzhVNG9jNVZMVURlWlNaYTEzdHVjWHN1a1k3Q1dnemw1cUhGZXNweWFKaGt2RTJSaHdaeWNEVnM2eDlBZzNPN2tXQ0RfMjQ?oc=5",
+          "description": "Emergenza volo Dubai-Tel Aviv: si segue pista attentato terroristico Sky TG24 Volo Dubai-Tel Aviv, la rotta e le prime immagini dell'aereo. FOTO Sky TG24 Un testimone sul volo Dubai-Tel Aviv: “Abbiamo immobilizzato l’assalitore con i cavi delle cuffie” la Repubblica Un dirottamento, anzi una lite fra piloti. Cosa sappiamo del volo FlyDubai Il Foglio Volo Flydubai: video caos a bordo dell'aereo dur",
+          "pubDate": "Wed, 30 Sep 2026 13:41:47 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Israel-Dubai flight: Netanyahu says pilot arrested after stabbing another pilot - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80NzVyLVhReHJTdEpvb2Y5ZXBoNnU5dXFnR2x5WUw4em1VS0ZOaWJCbDRxRFlMZHNyTjZKLWpCQmE5NkdxbFNGYnNnX2JvM3ZRVHJNUllB?oc=5",
+          "description": "Israel-Dubai flight: Netanyahu says pilot arrested after stabbing another pilot BBC Passengers overcame co-pilot who tried to crash flydubai flight, Netanyahu says Reuters A pilot on a flight carrying Israelis stabbed another and apparently tried to crash, Netanyahu says AP News Pilot stabbed co-pilot in apparent attempt to crash Israel-bound plane, Netanyahu says NBC News What to know about Flydu",
+          "pubDate": "Wed, 30 Sep 2026 15:16:16 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Emergenza sul volo da Dubai a Tel Aviv, il copilota accoltella il comandante in volo. Katz: 'Un tentativo di attacco jihadista'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/30/media-israele-emergenza-su-volo-da-dubai-a-tel-aviv-decollati-jet-israeliani_ba82b692-fb5f-4d67-98ba-c75431c1bda0.html",
+          "description": "L'aereo è poi atterrato in Arabia Saudita. Israele segue la pista dell'attacco terroristico. Netanyahu: 'omaggio agli eroi FlyDubai, pronti per fronteggiare ulteriori minacce'",
+          "pubDate": "Wed, 30 Sep 2026 17:50:39 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Passeggero cerca di fermare l'aggressore sul volo FlyDubai, la foto con il sangue sulla t-shirt",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/30/passeggero-cerca-di-fermare-rissa-tra-piloti-volo-flydubai-foto-con_bb302a75-1440-42dd-b811-3ccc860a2710.html",
+          "description": "Media: 'La prima immagine diffusa sui social'. Le testimonianze",
+          "pubDate": "Wed, 30 Sep 2026 16:42:50 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "La rotta del volo Flydubai, dalla picchiata alla ripresa verso Tabuk",
+          "link": "https://www.ansa.it/sito/videogallery/mondo/2026/09/30/la-rotta-del-volo-flydubai-dalla-picchiata-alla-ripresa-verso-tabuk_20d084bd-1bc5-423d-bfb6-a8ac6fd3ed3c.html",
+          "description": "Attimi di terrore sull'FZ1073 diretto a Tel Aviv dopo l’accoltellamento del comandante",
+          "pubDate": "Wed, 30 Sep 2026 15:31:18 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Lite tra pilota e copilota, atterraggio d’emergenza per un volo FlyDubai",
+          "link": "https://www.ansa.it/sito/videogallery/mondo/2026/09/30/lite-tra-pilota-e-copilota-atterraggio-demergenza-per-un-volo-flydubai_f4a00134-e548-46ee-81db-d3aba35b9198.html",
+          "description": "\"Stiamo atterrando probabilmente in zona Arabia Saudita. Stiamo bene\"",
+          "pubDate": "Wed, 30 Sep 2026 13:27:05 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Katz, 'incidente sul volo FlyDubai tentativo di attacco jihadista'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/30/katz-incidente-sul-volo-flydubai-tentativo-di-attacco-jihadista_a190ba2a-308f-4b4b-ae9c-182011cb3fe7.html",
+          "description": "'Secondo informazioni che abbiamo l'obiettivo era far schiantare l'aereo e i passeggeri'",
+          "pubDate": "Wed, 30 Sep 2026 15:59:32 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "ucraina attacchi russi infrastrutture",
+      "label": "Russia lancia massiccia offensiva con missili e droni su Kiev e regioni",
+      "n_items": 5,
+      "n_sources": 4,
+      "category": "general",
+      "macro_area": "geopolitica",
+      "richness": 4,
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Russia, Zelensky: \"Almeno 5 morti e 14 feriti per gli attacchi russi\". LIVE - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONFhuVmhPYlpvRnVWUkp0QjV2N3g1U3FBb1RES3RMRVIxLWE1T3BMYmtpVGFuMGZpNlprbFMxdTdybkNKQk5JQnIwXzY2WU1zUGtGenZfdWZ2Y0h1REx3TmxBLWZESzBsNWxTNmEyaU5MbmFIRHNwYUJrMExsWkdEUnNzMTN6RzNK?oc=5",
+          "description": "Guerra Russia, Zelensky: \"Almeno 5 morti e 14 feriti per gli attacchi russi\". LIVE Sky TG24 Kiev, l'uomo che si è salvato dal drone fuggendo sul cornicione: «Lavorare sotto le bombe per noi è normalità» Corriere della Sera La Russia ha cambiato il modo di bombardare i civili di Kyiv Il Post Missili e droni sulla regione di Kiev: cinque i morti, anche un bambino ANSA Raid russo su regione Kiev, ucc",
+          "pubDate": "Wed, 30 Sep 2026 13:49:33 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Missili balistici e droni russi su Kiev e la regione: bambino ucciso sotto le macerie - tgcom24.mediaset.it",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYjBlYVhZOTZ5QXJzTEs5RFFWZThQRnJuTnNoRzBlaUNXRkdqOUtSSVNvUmVEUk94WWp5QUE3Q215aDRpdTBEdU1QRTZqZFlOM01TbDdZUzhwd1lMOUFjbXBfelBQN05lTUJheUlkenNpUEthSjI0TTJwZENzWWl5enNJVGxPQTdLb1U5OGxuakw5YjhJS0FZSnBEelNLQkVrZTRDRg?oc=5",
+          "description": "Missili balistici e droni russi su Kiev e la regione: bambino ucciso sotto le macerie tgcom24.mediaset.it Guerra Russia, Zelensky: \"Almeno 5 morti e 14 feriti per gli attacchi russi\". LIVE Sky TG24 Kiev, l'uomo che si è salvato dal drone fuggendo sul cornicione: «Lavorare sotto le bombe per noi è normalità» Corriere della Sera La Russia ha cambiato il modo di bombardare i civili di Kyiv Il Post Mi",
+          "pubDate": "Wed, 30 Sep 2026 07:45:54 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Ministro Kiev, 'ogni allarme missilistico costa 45 milioni dollari all'ora' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcDNweFdaaDZGVEp0di04dFRtUWxxMkRtZ1VUZ2tfVWNOX2hTSG9DZlEyX2ltQlZ6YWZZbTJKQldIT0hxSFBuMUFNY3k1WmRDS2xmT3dNTERudS1XMW5fRTlDeWN2eUhPdTVYVWRlbVd5cGRTaV9kN3BHUUptWnlFODUyXzlCRTIwdVh5T3dhejh0bUhPRXBJWXB4SERpV1FQaGtSSTBHSXczMHl4T0hSRzM0SkZyVWZIQlFwaUFVZHVzQllHVjJtWGZKbFlBaVZTTVRMTjFDaDhjSjFFck9yLTB4QklpSmtHcGZEN1dFc1phaVpMMDJLaw?oc=5",
+          "description": "Ministro Kiev, 'ogni allarme missilistico costa 45 milioni dollari all'ora' ANSA Il ministro dell’Economia ucraino: «Ogni allarme missilistico costa 45 milioni dollari all’ora» editorialedomani.it L’assalto finale russo all’industria ucraina: acciaio e telecomunicazioni sotto assedio la Repubblica Il punto alle 7.00 Corriere del Ticino Missili, blackout e porti chiusi: in Ucraina si arrende l'acci",
+          "pubDate": "Wed, 30 Sep 2026 04:48:00 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+          "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+          "description": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
+          "pubDate": "Wed, 30 Sep 2026 14:53:02 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Missili e droni sulla regione di Kiev: cinque i morti, anche un bambino - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeGg4N1g1cDl4aS1KOEJPQVE0d2FTdktLdFBEaGJ5TlRrSXZxQng3RV9reVI1UnJsVloxYjc4Y2tTTVU5RVZOQmI4TVNEMzVsQUpaWmw3a0RKQkIyYlJKeWFnblN0S3p1TGktTTlxYWNYSno0Q0ZmU0xreW9oTS1VNUZZLWxyTm85YS1vVGpvbXd4Z2pEc0QyeEU2MHpaSlJGeXZWOHc4UWRmbG90UHFOY2V5dHIzUXBuTnkzZ21GQmRONjdRRGVjaU5JQWIxN2ZwbTl0YlZ1bEtybkw5OVRma2dkWENtbzNpcnBvMtIB8gFBVV95cUxPZUlFdXhJem44OEw0WVF3OU8wZTRmNWVLSVg5RDAtemVBSE1WNnJZdi0tOWdqT3JfTUdOQmFoa0pXV2d6d0pUQU0xek0wcTZzNWd2WVNHNnNraFdjNy01SEFRMWhGbkhRRDA2b0RGZzRwLVhSM3Bmd3hNcmNGRDVoa09HYUo5WmpGdE8tLWViUmFJdFFuWURTbTh0ZmxMNHlxdXgyakZEdVZLWnFuUjJoZWc2RndPLVJ1Y3J2WTdjYkk2Y0hyUFVWVV9aMERETGh6YUNWamxTMlJxR3hGWkJDeFhlUjFyUjdrcEZpX252bXduUQ?oc=5",
+          "description": "Missili e droni sulla regione di Kiev: cinque i morti, anche un bambino ANSA",
+          "pubDate": "Wed, 30 Sep 2026 05:24:07 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "trump intelligenza artificiale super",
+      "label": "Trump firma ordine su 'Super Intelligenza', vertice con tech leader",
+      "n_items": 5,
+      "n_sources": 4,
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 4,
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Trump firma ordine esecutivo, 'inaugura l'era della Super Intelligenza' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSEdob1pmMlhSeW1rajZ1TWlzQmZNejc5cTY0RWtWbHQteW13SUNGVzhWSUdaNWl5UjRPMEJHbTZzVVNTNWJGS2Vic2tpRHFLRzZkd1hDZXU0d0ExYWV6SUd6aEJfVmhMdzB2YkZoX2tURFc0WGhUZHpTUTJWV2JjdnpWams0TnM0ZTU4bVliZVVfYm1WeU5BNFZfSXlaU1V4Mm9SMjNveThMOHEtbnVXdGVyWm84Y0ZqaDlhOVdfWHFSeUMwWHpwQm1Ia2NXWHZHcXBlbW9KaXRmZWZNZDdHaUkyZi1DYkJHWTViX2lwa0h1Tjg?oc=5",
+          "description": "Trump firma ordine esecutivo, 'inaugura l'era della Super Intelligenza' ANSA Trump porta a pranzo i leader tech: accordo per autoregolamentare l'AI. Il tycoon: «Non è artificiale, siamo tutti d'accordo» Corriere della Sera Il dibattito sull'AI irrompe alla Casa Bianca Borsa Italiana Virkkunen, 'positivo che Usa intervengano sui rischi IA, Ue già li copre con AI Act' ANSA Le azioni europee salgono ",
+          "pubDate": "Wed, 30 Sep 2026 01:09:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump's AI \"constitution\" crowns day of accelerating ambition - Axios",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WVEw1LXdkaDN0LUN1cTRXSm1jdk00R0djOXRjQWQ2WXRKb2lHVmMyZzJubmN5RjUyZEZONnhRdVI2OElzc2xzY3B5cVhUUS1BU01YNzVFNGVuWElMVFRtSlY4VTg0cnB2Wms0MW1tRm54RTBn?oc=5",
+          "description": "Trump's AI \"constitution\" crowns day of accelerating ambition Axios Opinion | Trump Says A.I. Titans Should Police Themselves. What Could Go Wrong? The New York Times Pledge signed by President Trump and top AI leaders misspells the United States TechCrunch Trump renames AI to 'Super Intelligence' as AI leaders sign landmark safety agreement foxnews.com Trump posts letter with ‘Unites States’ typo",
+          "pubDate": "Wed, 30 Sep 2026 11:59:06 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+          "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+          "description": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
+          "pubDate": "Wed, 30 Sep 2026 04:01:52 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
+          "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+          "description": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
+          "pubDate": "Wed, 30 Sep 2026 05:18:13 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Intelligenza artificiale, Trump gli cambia nome: negli Usa si chiamerà «Super Intelligenza». E con big della tecnologia firma un accordo - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOWDllM3R1eWxYZkd1RkJxQmVnajExVG4xMnNlcWFsS0loZy1NVlFNQnZ5M1BmVnhKV1RjV3UtWDdHM2Q1bXpydjYwT0dTYUYtZ3lCNVBCR0J4SFJtSnctTnc1ZUFhemhJR3NtblJwQ2E4R21ia0pabEtNTGVjTTk0eWVLWFNieDA4U0pKXzRjWXZmZWE2MmJuRG1USExJWTlIVjdYUEpqTG9DVER2N09XdHp1cm5MR3lwMVNvRk1OQS1YY2FBWXhCWndDWWlsMGl1SzMxU2oyRE9MeFFyT0pjUGl4cmVodnN6VVZfRTZFaV9ZV05qX0VMVTc5dlZ0aXNSWURZTTdIOUdfOHlmZ0hBakx30gGXAkFVX3lxTE5OVHpwa0d3eENOYVk3Z0w4MEdPNGc2SDJaZ0dTMFAzRC0zNjdVS0FWdnZqdEV1c0RzVFpPdHZzNDF0dzgyYTlJSzlWM2tVS0NETFpMZXZvR3QwSkN6TnhYdEl5R2ZnYXpER3dBTnFqUzJETVpwU1VZek5nZ3lGYW9DS25uaVgyNjZxSEZaUm91LTBaY2RwcFdQcWJXeDRKRldHWkUxS0dXQ25mTVptLXg1bE9RblV0Uzlkal9sREhFX3JBa1o2TlZidjJ1T2ZpVnUwTkFzV3QxZTE0U19DanRfN2dsV3F3ODBQa290LWRIc1dLQ3ppaU9oaTdNWHl4dWxEa2lDZFR4eF9lYnRGWjFfTEQ5UWN0UQ?oc=5",
+          "description": "Intelligenza artificiale, Trump gli cambia nome: negli Usa si chiamerà «Super Intelligenza». E con big della tecnologia firma un accordo Corriere della Sera",
+          "pubDate": "Wed, 30 Sep 2026 06:07:52 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "burnham brexit riadesione ue",
+      "label": "Premier britannico apre a riadesione Ue dopo valutazione danni Brexit",
+      "n_items": 4,
+      "n_sources": 4,
+      "category": "general",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 28,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Burnham riapre il dossier Brexit: «Più danni che benefici» E non esclude il rientro del Regno Unito nell'Unione Europea - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNcGZqamZCbGw1dVBwMlZsdjl3cDhiekZ2STdGZzNMN0lRS0ZKVlVXWTdUMEJTVWs2S292MWU5QWtwU25uOFE5V1kteUtZalZxUV8zZXVRckZwZ1ZJT2xoSHhwVVhJdURoSXRaT2xFWENVM2JqSW1WUVFKRUtqUlVRY01uVEFWS180MnVFU2Jza09VaG5FdlQ5MkdwRXptcVZhaUM3b0V2MEdTbGF0X1dvZkhCOEcweVlMdlpDOHRVMERfNE1vUk1QV3ZmU19lbFVjSXU1T0d3RmNIMzJhOTVYRW0wR1NiNHVyR3ZKV21PSk9yem9yVUVzeXhPaC1kaXk2YV8wVEFENVRfaFcyUnF2StIBlgJBVV95cUxNd1B3dE1FVFBhRjgyb2JCdmc3Mll5dkpHWTllZnBCY1dOT2VkYzdJc0t6eVEzWU1uUkxYakMzQ29jODVseV9IYzBiMDRvT25KY3Y2SjF6YVQzd2M2WHE3TnM2QWdvR0lzLXdFcmhjX0hERWdaenNDSldQSmN4WGV0Q1B1MWxHTjF0dTdpWWFYWUw4YUIzM3pPSW5adFNsLXp4X3I4MFBGckNPMU5rLWFaYjdrMElGcWd6ODVmMjBXQkZGTFJYeVBraWNzS1VzamVOVFpfRGZrTFRXWXpGMHB5bFN0dU0wVEpVZ3VTSnZHTHNNVXl5UjlFek9xSjhSNUFYTUhmWmFIVVlZRUJPVVQwdmw1SF9rQQ?oc=5",
+          "description": "Burnham riapre il dossier Brexit: «Più danni che benefici» E non esclude il rientro del Regno Unito nell'Unione Europea Corriere della Sera Burnham: \"Londra per troppo tempo sulla strada sbagliata, miglioreremo i rapporti con l'UE\" RaiNews Brexit, il premier Burnham: “Sì, il ritorno del Regno Unito in Europa è sul tavolo” la Repubblica Brexit, Burnham: «Tutte le opzioni sul tavolo, inclusa riadesi",
+          "pubDate": "Wed, 30 Sep 2026 08:59:29 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Andy Burnham to fight next election on pledge to change voting system - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52YW9BN3VNYXJMU1g2N1lDTkd0TmFXOS1XZTlLVFl2cGljRmtmZmZoT0JXeENjNUM0LWtNczZNWjZJWlNBYUxpUnBXWkh0ejVNUVJxTnJ0cWZWUEk?oc=5",
+          "description": "Andy Burnham to fight next election on pledge to change voting system BBC Andy Burnham gets bold at last The Economist ‘He persuaded us’: Labour ministers moved by Andy Burnham’s emotional conference speech The Guardian ‘I Have to Break the Mold’: Burnham Lays Out Plan for Change in Emotional Speech The New York Times Chris Mason: Burnham delivers deeply political speech with a personal core BBC",
+          "pubDate": "Wed, 30 Sep 2026 09:45:32 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Burnham sulla Brexit: 'Tutte le opzioni sul tavolo, inclusa la riadesione all'Ue'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/30/burnham-su-brexit-tutte-le-opzioni-sul-tavolo-inclusa-riadesione-a-ue_9a6a420a-fb99-4f7a-93fc-14afa770121f.html",
+          "description": "Il premier a Bbc Radio: 'Serve però il consenso pubblico'",
+          "pubDate": "Wed, 30 Sep 2026 17:42:02 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Burnham su Brexit, 'tutte le opzioni sul tavolo, inclusa riadesione a Ue'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/30/burnham-su-brexit-tutte-le-opzioni-sul-tavolo-inclusa-riadesione-a-ue_ba4b72cf-db53-40dd-8ff1-803af1d10fee.html",
+          "description": "Il premier a Bbc Radio: 'Serve però il consenso pubblico'",
+          "pubDate": "Wed, 30 Sep 2026 10:35:42 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "inflazione settembre italia germania",
+      "label": "Inflazione sale a settembre: Italia +4,2%, Germania +3,3%",
+      "n_items": 4,
+      "n_sources": 3,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 3,
+      "score": 24,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Prezzi al consumo (dati provvisori) – Settembre 2026 - istat.it",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY09GZmdhZHBuV3BLcl9fX1hWTHYtYnFVNWd5VFE2Y3IyOTRpeTRIMnoxNEpZNFNEVzF1U05STS1uNkdrU1dWa3UxckU1UW9ZbUJXREdLbmdQNEpEaWNyckRzNzFtdVFSYlZSa2sta3JQMkFkYWhBVWtvcC15S3Nnc0k1a0dMa0VLZGZRWkFraHNmZw?oc=5",
+          "description": "Prezzi al consumo (dati provvisori) – Settembre 2026 istat.it Inflazione al 4,2%, la fiammata viene dall'energia: cosa aumenta davvero nel carrello della spesa Corriere della Sera Nuovo balzo dell'inflazione: a settembre prezzi su del 4,2% su base annua. Pesano i costi dell'energia: gas +47%, diesel +34% Il Fatto Quotidiano Istat, con gli energetici l'inflazione a settembre vola al 4,2%. Rincari s",
+          "pubDate": "Wed, 30 Sep 2026 09:08:15 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "L'inflazione a settembre ai massimi da tre anni. +4,2%",
+          "link": "https://www.ansa.it/sito/notizie/economia/pmi/2026/09/30/-istat-linflazione-a-settembre-ai-massimi-da-tre-anni-_fb422a08-c0a7-4d0f-ac0a-5fa0aaad0f1e.html",
+          "description": "Bisogna risalire a settembre 2023 per trovare un dato più alto",
+          "pubDate": "Wed, 30 Sep 2026 15:46:15 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "L'inflazione Usa in agosto al 3,4%, sotto le attese",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/linflazione-usa-in-agosto-al-34-sotto-le-attese_35ce9752-83ad-4828-b515-08298aed3f30.html",
+          "description": "L'incide Pce core al 3%",
+          "pubDate": "Wed, 30 Sep 2026 14:46:15 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "L'inflazione sale in Germania al 3,3% a settembre, massimi dal 2023",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/linflazione-sale-in-germania-al-33-a-settembre-massimi-dal-2023_5ad740b4-07c0-45ca-a8d3-bd8d206b5321.html",
+          "description": "Dato più alto delle previsioni degli analisti. Pesa il caro energia",
+          "pubDate": "Wed, 30 Sep 2026 14:18:35 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "pena morte tennessee donna 1820",
+      "label": "Tennessee: prima donna giustiziata dal 1820, ma esecuzione bloccata in appello",
+      "n_items": 3,
+      "n_sources": 3,
+      "category": "diritti",
+      "macro_area": "societa-diritti",
+      "richness": 3,
+      "score": 21,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Usa, il ritorno della pena di morte: oggi la prima donna giustiziata in Tennessee dal 1820 - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVE5CUWluZzNWRldSU3FEeE9wRW9TaElWQXB0MWx6X0hoOXFpaDc3QjR6NndycWhiYTVCaGhGNzdTNDhJWERXenZDSkpxTlJJYW94RnBQckRwQVdvTVNUQ0RVR255UHdjSURacnJGa0hwTFFJRkpaMUNTUEJ1UDBfLUhnQnJOZG9nQ0VHQ0l0ZVotbWJTOVg3aWVzZkJnVWJzMFJvTlFaRjM3RlhfRHVuSmhkOGxiSHU4ZE5tRlhLbHUzY0NQR1ptQjVtUk9Qd9IB0wFBVV95cUxPTVMyOFdhZ2x5MnVFMFRQbE9aYU1wRXl3R1VYOHdOSUxNT1FXTFRMNzVTSXdFYmdYQkFtbENhUDBjUUFocUR6S2RKR19mdTlNRDR1bF91WFp4YkFoM2Ztb0hOLXdGQU5Ga1dJTWFMS1ZDZklPYUhLNWkwVlQtY0kxbDk5VkNRS0ZHOGFHRWU1RW1GM050SXJzdXM5Z1RwYmF0Y2Zza1dxNTBPZE40VW1obmNrNzBLYTVFZ3BWTTdjWmI1LVNwSkNpTTB1ZW5xbXZRSXYw?oc=5",
+          "description": "Usa, il ritorno della pena di morte: oggi la prima donna giustiziata in Tennessee dal 1820 la Repubblica Il caso di Christa Pike, che nel 1995 (a 18 anni) uccise una compagna di studi e oggi sarà giustiziata: è la prima condanna a morte di una donna in Tennessee da due secoli Corriere della Sera Il superlavoro del boia negli Usa. In Tennessee è battaglia per l’esecuzione di Christa Pike (di D. Pal",
+          "pubDate": "Wed, 30 Sep 2026 11:24:45 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Tennessee execution of lone woman on death row halted by federal appeals court - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaTBmekdOUG9HMDItYXJZQS1VM1NsYnhUTjdRYTdtS2JlVmZPVXB6SjJzYjFRdXBaZGVJaUNyajBwOVZHSkpNVkV1SmprLXFBZlJWY3M2QVJLd1U2T0hibmQ2VV9Sa1BhUFVqMTFlZjlSeVhMRFp0NzJqUXJmMmJEUVpKajk5SjRtWGhFd2FmNnlwbmRNRXItdm4teGJqVGxGMmY3RDVDR2E0Z1F4Y2NN?oc=5",
+          "description": "Tennessee execution of lone woman on death row halted by federal appeals court NBC News Tennessee prepares to execute a woman for a crime she committed at age 18 Yahoo Federal appeals court pauses execution of Tennessee’s only woman on death row Baltimore Sun Court Pauses Execution of Tennessee’s Lone Woman on Death Row The New York Times U.S. court halts Tennessee’s first execution of woman in 20",
+          "pubDate": "Wed, 30 Sep 2026 14:30:00 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
+          "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+          "description": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
+          "pubDate": "Wed, 30 Sep 2026 15:29:11 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "stati uniti ritiro iraq missione",
+      "label": "Usa completano ritiro da Iraq, fine missione anti-Isis dopo 12 anni",
+      "n_items": 3,
+      "n_sources": 3,
+      "category": "general",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 21,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "US military completes withdrawal of troops from Iraq after 12-year mission - foxnews.com",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQVRvTzlFZXkyNmtpdFpYQkhSTFJlQzVXMGdkLWVTS1FYY081NDFJalM3ckN3U0FRVHNtRlM3NmljRTZ5TGdfc2NUT1AzaURaTWNPa1lXWUtlQ2dkWmFoOXpOR0tYc1IyNVZaZmdfYm95Ty1hTC10Sy1IZWIyQzEzNHUxMG9XaWdfRm1zdkZxYzBmTnZqdklnNlA2WnRMdGFwMG04U9IBqgFBVV95cUxNaEppTUJfZkFVS3gzdEgyUzA3Q3JTbEE0bEtfMGFwZm9ZZVJVTDc2X2JBYjUyUDkyQmNlMUEzSFMxdTZ0S2N6dm5RUEJOcUhkak9Lb3FZekJXNF9zZ2ZaQndnRWpTUy0yelo1VUw4UXJqSkx6eUJ0OVhmREhzbTZXcmtSZ0RGd2t4cDJZTmZxRHhaeHg4bktEUFBDR3pjNHlNbG1LT1JVVGVPQQ?oc=5",
+          "description": "US military completes withdrawal of troops from Iraq after 12-year mission foxnews.com U.S. withdraws forces in Iraq as balance of power shifts to Iran The Washington Post The U.S. military says its withdrawal of troops from Iraq is complete TribLIVE.com What I Saw as the U.S. Debacle in Iraq Unfurled The New York Times Statement by Chief Pentagon Spokesman Sean Parnell on the Conclusion of the U.",
+          "pubDate": "Wed, 30 Sep 2026 10:16:23 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Gli Usa annunciano la fine ufficiale della missione in Iraq",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/30/gli-usa-annunciano-la-fine-ufficiale-della-missione-in-iraq_0dff8b70-26bd-4e34-baed-1dc5bb00283e.html",
+          "description": "L'annuncio di Sean Parnell, portavoce del Dipartimento della Difesa statunitense",
+          "pubDate": "Wed, 30 Sep 2026 16:24:59 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+          "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+          "description": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
+          "pubDate": "Wed, 30 Sep 2026 11:36:23 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "difesa ue lacune spesa 547 miliardi",
+      "label": "Rapporto Ue: gravi lacune difesa, spesa record 547 miliardi entro 2029",
+      "n_items": 3,
+      "n_sources": 2,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 18,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Il documento Ue sulla difesa: 'Gravi lacune. fare di più. Usare i fondi per progetti comuni, non nazionali' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPelZwci13TkFIXzFiRk9YUnFvYWlEa1R4bG8wVzFHS1FBQmNhdDVENXJ6VXB5Ny1fNWN4bG5wYWFycW03MFlaeTFjeUt2aGh1aXRSeWp0Nk1LQVZFekNkcVIwN21TTXBsTFRoQkpFbTlSQTJiNjdUTC0yNEw4bWFpbVdtQm9weGNNYlJuNU5uLW5hQW1PT3htb2FIVVlHQWI3c0NBanRBUnk0bjNLUkRpcFdqenAwaEwzbGd1Ym5QYl9NMjVHNGd1Vk9BMTEtWGRvOUFabkM2b3N4UnJzNm9aVXhDZUhESGZMbUVnLXpkTU1oWUHSAfgBQVVfeXFMTk1WMktWUVJrTW5ia0RNeURSWjNzclJzaDBaRGwyMmc3ZjVmQk1qdmNLck1vMGxlWXFWVGVHMzVVWWFKRkc3eGs1T2VQdlp0M29kWHBSWUxwQWk5cXg2VFBCcElBTFJydjhPdzM4bDdHT0U3VEFOZlhaWHBiS0FDTGtsOWNuY0pLb0NpM215MkE4SnJUVnVYT0x4ZjVaWEFzQTlMSTltUWxXRS1KUDJCRkxHbG5QSjhvVVlJUWU5UFZydXUwbUk1YV9falgta1FKRW91QlFwUWZZNzVjM0V1SkVSSXZCN2xhbmRhZldmNjhIX3lwM01zdjA?oc=5",
+          "description": "Il documento Ue sulla difesa: 'Gravi lacune. fare di più. Usare i fondi per progetti comuni, non nazionali' ANSA La proposta di Kubilius | L’Europa ha iniziato a riarmarsi, ora deve imparare a difendersi Linkiesta.it Il piano Ue per rendere più semplice produrre e comprare armamenti in Europa Europa Today Fonti Ue, 'boom nelle spesa in difesa, fino a 547 miliardi entro il 2029' Giornale di Brescia",
+          "pubDate": "Wed, 30 Sep 2026 08:27:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Il documento Eda sulla difesa inchioda i 27: 'Gravi lacune, fare di più'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/30/il-documento-eda-sulla-difesa-inchioda-i-27-gravi-lacune-fare-di-piu_2660ee65-c7a0-4604-af5b-0bc93a2b1da1.html",
+          "description": "Nonostante la spesa record le forze non sono 'sufficientemente operative e sostenibili'",
+          "pubDate": "Wed, 30 Sep 2026 12:22:51 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Fonti Ue, 'boom nelle spesa in difesa, fino a 547 miliardi entro il 2029'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/30/fonti-ue-boom-nelle-spesa-in-difesa-fino-a-547-miliardi-entro-il-2029_2b3539f8-4cf2-4140-9bc3-21d0dc2cda71.html",
+          "description": "La stima contenuta nel primo rapporto annuale sulla prontezza redatto dall'Eda",
+          "pubDate": "Wed, 30 Sep 2026 10:28:59 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "balneari concessioni bando gare",
+      "label": "Bando balneari: concessioni 5-20 anni, canone variabile e indennizzi",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Balneari, il bando per le gare: concessioni fino a 20 anni, canone variabile e indennizzi - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZGtOM3NSNU4td3F5SjhyOUg4OWlid0tQSFZWanA3YTQtQlpHTVlGMmg2Q0ZPdVZ3Mm5tVGIzX3pSZTFUZ3NVMnpuTE9mazk4XzR0RUwzQk1fdy1YYlJJZ19GNGF6MkQzMHN4Qk9DN2dVM3ktMFZSM2tLU0tJR2J3UVZ4VWN6eURNMVhObl9yZkM3ZmZMYmI0aDFhRnN1SjhLNWw2NE1KZkJXSXM?oc=5",
+          "description": "Balneari, il bando per le gare: concessioni fino a 20 anni, canone variabile e indennizzi la Repubblica Concessioni balneari, ecco il bando tipo con le regole per le gare entro settembre 2027 ilsole24ore.com Bozza, bando-tipo del Mit per i balneari, concessioni da 5 a 20 anni ANSA Bolkestein, la Regione pressa il Governo Il Resto del Carlino Concessioni balneari, c’è il bando: la durata, il canone",
+          "pubDate": "Wed, 30 Sep 2026 09:59:22 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Balneari, concessioni da 5 a 20 anni. Ecco la bozza del bando-tipo",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/bozza-bando-tipo-del-mit-per-i-balneari-concessioni-da-5-a-20-anni_67bb69d2-e1e7-4f1e-8e79-4c0af3bd7907.html",
+          "description": "Indennizzi per gli uscenti e limiti alla concentrazione delle licenze",
+          "pubDate": "Wed, 30 Sep 2026 17:30:22 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "openai sicurezza modello astra ritardo",
+      "label": "OpenAI rinvia lancio modello Astra per timori sulla sicurezza",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "'Timori per la sicurezza', OpenAi ferma l'ultimo modello - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYy1jM2pUajBGNlhUMWFBSE96bjRNcm45QkszazJZUnFjcDlkMjNsUW5lbzBLUkxMbWZYWUU1NDlGWnFHVXllbUNOc1pPYmNnRXRacV9TcWJ0Wkw5WC1aZXE0YmZnM1hRdVhQcXA3V2hwaFJxWkdOcWdHcnpmR0p2ejFGdkpNNURYTGFreElmWGlxQXNPeW5UWGpLY3dRRU9sU3BsQXBwdTlXQ0YwOXhUSGduaUV3OG9ZQlhqZjNwVm96a2c1R2trdUhzaE52OUh4S0I5c1JWSTZrQ2w20gHiAUFVX3lxTE9tMHI4M2I2eDBrenVSaFVob0JVcHl6ZWFnazFPV0FhT2ppWS13bmJUTWtxUEhUOEoyUzY1bmRVXzQ5Y0JJaGRxNWxHOExPYVlZOThTUXZ4T0Z3VTdtMzBfaE84aWJmaWV0cklBd0ZrOElhV0hibkJoMjd3MW5IdjR6aHpWeVZpV2g3UHdjOHVLM1dBeXBHYk5sdG9ZdXhHYm9DQzRXZ3NkMWdlNVpVWmJIbWltcWtpNFBNa2JxMmFGejhaRGFiUUYtT1I4VXNuTmJ5bEQ3X045MUpULUoxRlBOblE?oc=5",
+          "description": "'Timori per la sicurezza', OpenAi ferma l'ultimo modello ANSA OpenAI ferma il rilascio del nuovo modello Astra: «Problemi di sicurezza». Anthropic nel documento per l'Ipo: «Rischi esistenziali per l'umanità» Corriere della Sera Perché OpenAI ha bloccato GPT-6.1 Astra e cosa cambia per la sicurezza Fastweb OpenAi ferma nuovo modello: timori per sicurezza. Trump: “Serve autoregolamentazione” Sky TG2",
+          "pubDate": "Wed, 30 Sep 2026 09:50:06 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
+          "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+          "description": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
+          "pubDate": "Wed, 30 Sep 2026 05:18:13 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "bollette elettriche vulnerabili aumento",
+      "label": "Bollette elettriche +37,3% per clienti vulnerabili nel Q4 2026",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "energia",
+      "macro_area": "clima-salute",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Bollette elettriche, aumenti per i vulnerabili. Parte la guerra degli sconti tra le utility - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVWw4YVBRaHpiVmdsbEo4TkR2b191cEZGNURZQ0c1b01aUFJ5UHpPTWZKcXN3NV9UMUg5V0ZwZE9uQ18zemZGRkR6U2J0bVRVMXhxMEVKQjZVU3g0eXVBd2FRdmZBdmdhdEZoOF9BT21sWUxXTWlLbVA5M0FwLWlWcWZOTjlPdlgwN0ZSRFFoSjF1T3czd05kOVZqOHlmYXJsUUtnZlhCdE9POUNyMWQzNER4NEluQ2RwSWJFSnMtUGd2cmtTdnFwejhPd3k4MFRFLUpxdDJvX1BaWEJnU2x1MWxsMmZDSnhhN1J4dTExbUVkbFpwZ2JSc0FTaTQ4MUpG0gGGAkFVX3lxTE15dm4tNnZiNVBFYV9xSnNnTFZKVFVRZ1RVajZmLVFVWHZJWVU4VTNaR090VkxSN3FhcEMxbVpFQ1hvcWxqT25YbnVpaEZZVE9CaGhtNnI2c0otLWo3N29hdFpqc3BHMEdXUlJGY0tINnFETTNvZThIWEJPZEJXNXVsX01zSU9BNzJnVlBUWkhDdHFkV3czR01tZXU1S1MxVkpZWmI4d1pleDd1OWRHbU5WRmI2WEh5ZGxBOHJndFpCd1VoRG56NXZZRkV6QzlqclcyaUp0bmJMU1JFbUZEOTdCejh2ZG9rVUJqdHZ2em1Cbkg3VWZxVE9MODVzdzlZMnB5S2tfcUE?oc=5",
+          "description": "Bollette elettriche, aumenti per i vulnerabili. Parte la guerra degli sconti tra le utility RaiNews Bollette di luce e gas, prezzo fisso o variabile? Come capire quale offerta conviene Corriere della Sera Bolletta elettrica: +37,3% per i vulnerabili nel quarto trimeste 2026 Il Fatto Quotidiano Bollette, +37% per i vulnerabili: sconto Eni, è sfida con Enel e A2A. Meloni: “Spero anche in altri” la R",
+          "pubDate": "Wed, 30 Sep 2026 04:22:00 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Arera, bolletta elettrica +37,3% nel quarto trimestre per clienti vulnerabili",
+          "link": "https://www.ilsole24ore.com/art/arera-bolletta-elettrica-373percento-quarto-trimestre-clienti-vulnerabili-AJDkzCTB",
+          "description": "Nel quarto trimestre del 2026, la bolletta elettrica per il “cliente tipo” vulnerabile servito in maggior tutela aumenterà del 37,3% rispetto al trimestre precedente. Lo comunica Arera, precisando che «l’aggiornamento...",
+          "pubDate": "Tue, 29 Sep 2026 17:01:14 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "iran negoziati usa proposta",
+      "label": "Iran riceve proposta Usa per piano di fiducia di sette giorni",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "general",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Iran, Teheran: \"Abbiamo ricevuto una nuova proposta dagli Usa\". LIVE - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxbjlVdGwtS3RxcDdEQXZLVVhYay1RWXNpdm5OV09TNHVVQms1NjRyZk9wdjlDdzc0TFdMdFJVeHV2OTcxMDNrRU1LdDR3aWtuMmRTSENXMWs5eHEwSFBxb3BYeDQzaFZDYmd4TDlILUN6OUJUMXZIMlBwaw?oc=5",
+          "description": "Guerra Iran, Teheran: \"Abbiamo ricevuto una nuova proposta dagli Usa\". LIVE Sky TG24 Guerra Usa-Iran, le notizie in diretta | Trump: «Teheran è in pessime condizioni, cederà». Iran: «abbiamo una nuova proposta Usa» Corriere della Sera Axios: «Sempre più probabile nuovo conflitto Iran-Usa». Teheran: «Trump è finito in un pantano» ilsole24ore.com Teheran a Trump: 'Se noi non vendiamo petrolio, nessu",
+          "pubDate": "Wed, 30 Sep 2026 14:04:42 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Iran receives US feedback on seven-day trust-building plan - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMXVGNEhtaUhtTVlCMndfQ0l3ZUthempGR3UwQklJTXN0MlQ4cG44bWdMWnRzOGJibUl1cFJXcDJSMDZNT2VmNlgyMG0zbms2dVJ3ZEszVmlucmdrX0pWdmp5cjNaQ2x3QUpIQjJFU0RMcTVCbFVfQ0xfaWU0MXVNTzdNUnZpMW5qX2VvSU9wY0ZJN0NPZFFTMWtiLS1HNDZmbWVaWWphVEVKeDZQVXc?oc=5",
+          "description": "Iran receives US feedback on seven-day trust-building plan Reuters Iran war live: US response to proposal under review after Qatar mediation Al Jazeera Iran reviews U.S. ceasefire counterproposal as Strait of Hormuz terms remain unclear KATU Iran live updates: Tehran waiting for US response to 7-point proposal, Araghchi says Yahoo Exclusive | Trump Rejects Iran Ceasefire, Expects Renewed Bombing A",
+          "pubDate": "Wed, 30 Sep 2026 07:29:18 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "semaglutide diabete obesità cuore reni",
+      "label": "Nuove evidenze su semaglutide: benefici per cuore e reni, sicurezza confermata",
+      "n_items": 2,
+      "n_sources": 1,
+      "category": "salute",
+      "macro_area": "clima-salute",
+      "richness": 3,
+      "score": 14,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-health",
+          "title": "Diabete e obesità: nuove evidenze su semaglutide tra cuore, reni e sicurezza - ilsole24ore.com",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMHdCZU9QTl9WZVZ6S2MxV0t5Rl9vaGhHaFNqUUNwY2lSSlVDWTc4bk1Zc0w1dHNVSTFqbTdKUGdSQjFXdG9KeTg2ajBnX3lSdVZhX3VjOUNmY0FqME1ZV3VZQWhuWGVMWkxJV1k0dUh6SlEzMDZMUXZMQ3hKdXViek4tbm41NVZ3QkVlN1lDd2x5bHlDdzBoY3l1RVVrTDBUeVhRdlpLYWRieUhq?oc=5",
+          "description": "Diabete e obesità: nuove evidenze su semaglutide tra cuore, reni e sicurezza ilsole24ore.com Fuori Congresso, la salute cardiometabolica anima le vie di Milano con Lilly Vanity Fair Italia EASD 2026 a Milano: un’occasione aperta a tutti per parlare di salute del cuore MilanoToday Olesen (Novo): \"Impegnati a portare innovazione per migliore qualità di vita\" lagazzettadelmezzogiorno.it Con Novo la r",
+          "pubDate": "Tue, 29 Sep 2026 19:54:10 GMT"
+        },
+        {
+          "source": "google-news-it-health",
+          "title": "Semaglutide, nuove evidenze su cuore e reni: nello studio nordico nessun aumento del rischio di tumore al pancreas - La Nuova Sardegna",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQUFhvMGc4OG5EeHJhblduZ2IwZ2ZsTzY2LW1PVThXaklvZzFxVDRDWnE4V1kzNE8yU1F4VXpxVjQ0QklJajZac2NJOTJaeTF6SXRaeWxGeXRneGZDcVctSHY5dEFpZ3pFQ2xVcUo3eUprcVgyN1hnZ29OaDR5YXFheXNMR0R0VlFrdU51S1J3dUYza1J5Z3JqcVE4dUw0a2ZHdWJhdzUyTlZlOWNiQ0ZJdi1OWjB0Z2FHVE9tSGVGM0E3N2RpZDlmMGkxalFLaHhRa3M4TWpFNjl2VEFaaEQ2QmRRYkFDaEhtZm1EalRlVjhJU3Ayb1M4aVllQ0g4cXQ4WUhpTmNmelk0dnc?oc=5",
+          "description": "Semaglutide, nuove evidenze su cuore e reni: nello studio nordico nessun aumento del rischio di tumore al pancreas La Nuova Sardegna Diabete, l'uso di semaglutide non aumenta il rischio di cancro al pancreas RaiNews Diabete, l'uso di semaglutide non aumenta il rischio di tumore al pancreas. Lo studio Sky TG24",
+          "pubDate": "Tue, 29 Sep 2026 18:31:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "francia proteste studenti scuole occupate",
+      "label": "Francia: proteste studentesche, scontri con polizia, 400+ fermi",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "diritti",
+      "macro_area": "societa-diritti",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Francia, proteste studentesche: scontri con la polizia e scuole occupate - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pVU5wUXd5a0paekMtZEk1SHprdHVUdWdXQ0twaXZhYmNvanppZDQ2M0MwbTVZRWtmYTduXzdWc1h5aF84Q3BJcklkYTZYSGtnNE4ybmZmc2tINjRZYWtzTTVZYXl4a1Q3MnNLRkVubw?oc=5",
+          "description": "Francia, proteste studentesche: scontri con la polizia e scuole occupate Sky TG24 Oltre 400 fermi in Francia per le proteste studentesche, molti minorenni ANSA Le proteste studentesche in Francia si sono allargate Il Post Mobilitazione in tutta la Francia contro la finanziaria che taglia 54 miliardi il manifesto Più di 160 persone sono state arrestate nelle ampie proteste studentesche in corso in ",
+          "pubDate": "Tue, 29 Sep 2026 16:01:59 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Dozens hurt and hundreds arrested in wave of French school protests",
+          "link": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
+          "description": "Students have been protesting against conditions and resources in secondary schools since last week.",
+          "pubDate": "Wed, 30 Sep 2026 13:18:01 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "spread btp bund italia governo",
+      "label": "Spread Btp-Bund a 100 punti, cosa significa per economia italiana",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Spread Btp-Bund a 100 punti, cosa sta succedendo? Cosa significa per l'Italia (e per la Germania, ma non solo) - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNN29LdGc2di16ZTlXMjlYYnY0T1RhUk4tVTNNME9LVDdOMmpGR2dtSDEyTERmTFdlangyNEl4d1BhTGVRMFdJaU1kdXhOdVY3NVdjUDRFWS1zM1RfVWNyTnJQM1M1YTQ1bHc0VUYxRUZ4LWFiTE53Si15em4tS3pDQnd4TnRGZTJRbDA3d3pTclB1TWVpanBBSkV4VDdEcHo2NmFfbmxISHdTeVkwUkZXWS1uSHZyeF9xdldjMDdSbGlUTWtEOFlNR2pYck5sdU1EZjVhdmpsa0tPTC04WnhXUmJmeEt0MTdqTTdoaWxXeG11Q3dvbmZJOFg1SkdfdUxuWk1zUm5GUFNsT3oyVFRhYWI3bXgxbEhLdVdodlZ2eFp5SDVWdUZNTU9Ra1dSUdIBswJBVV95cUxPY0dHTXBJdFJrZEg0S2hwRjFNdVcyanpOU1h1blg5V0ktZkR0MGk2UHhVWGVnLTVyNEd1aTNPWDlPMFdPdjNUbTlEdS0yV1BpQWJ0SG92V3RucnJZRHl6WlJ5djR0c3FuNnduaGJhenNQcFNGWF9ZWGJvRlVTblJNaDEyczFWRlRCaXIySXBYU1lMc2o2dGM2MktCVjhaa0Q2OTlRbldNVWJla1k2b2Q0Q2w0TnZTeDRzekNMYktNSlhyRHcweGQzeDhQX29kTEdHZXhRQjlsNEkyZ3FHd09rQkIzcjVIUWFjU2pSLVgtOGRlOENlVnI5Z3ZtWlJoS0xlYjNPX0gwRC1taEJBTTV2M0tFc05Wa3IzeF9taXJCbkdQSmozUGwzQ1h2aWEwckYzUy1V?oc=5",
+          "description": "Spread Btp-Bund a 100 punti, cosa sta succedendo? Cosa significa per l'Italia (e per la Germania, ma non solo) Corriere della Sera Spread Btp-Bund oltre quota 100 su Borsa Italiana: è la prima volta dal 2025. Francia a 119 RaiNews Lo spread Btp-Bund oltre quota 100: è il livello più alto da fine maggio 2025. Rendimenti ai massimi da tre anni Il Fatto Quotidiano Spread sale a 100 punti in scia Trea",
+          "pubDate": "Wed, 30 Sep 2026 13:31:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "pagamenti digitali europa visa mastercard",
+      "label": "Nasce alternativa europea a Visa e Mastercard per pagamenti digitali",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "tech-policy",
+      "macro_area": "tech-ai",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Pagamenti, nasce l’alternativa europea ai colossi Visa e Mastercard - ilsole24ore.com",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdGFDcDdZMzE1OXFJYmEwdHRoS3MwY2RlVmVtV2JJdzZQd0YzaVRPTDRfUWJkQWFpS1lZa3dTdVZUam1sQ3phTXlGOU45VE5QcnVPVExFcjdvTEo5dk45aFU0NUIzLTVBcHRIb2hTZk15N0pHeDZRVzhDckdRRXdMeGtISFZEWFdkbVlfbmZGRDJvTG1mUVhHSmtB?oc=5",
+          "description": "Pagamenti, nasce l’alternativa europea ai colossi Visa e Mastercard ilsole24ore.com Pagamenti, nasce l'alternativa europea a Mastercard e Visa: così sarà possibile pagare con Bancomat all'estero Corriere della Sera Bancomat e altri operatori creano hub europeo per pagamenti più autonomi e interconnessi la Repubblica Nasce la European Network for Payments per l'interoperabilità dei pagamenti Borsa ",
+          "pubDate": "Wed, 30 Sep 2026 14:27:18 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "marocco mansouri premier donna",
+      "label": "Fatima-Zahra Mansouri diventa prima premier donna della storia marocchina",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "diritti",
+      "macro_area": "societa-diritti",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Elezioni in Marocco, l’avvocata Fatima-Zahra Mansouri è la prima premier donna della storia del Paese - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVFZ5akVzVlhKaE0tbE1FSl9JZjdNRU9lcG5vcEd6N01YZExFVUJlc0dic1VFalViMGJ5d0QzdmU5bV96WjFnTGxycE1ScUxYTVA4SWVXSXBlVmZTWTAtcGRNVmVUWkRGTzNRdWhHUVNuU2RRaEpwSWwzQTN4OVJaSjVHdEpreWJlMVotQUdMR3l2bnN5WnZuYUItVUQ0UzlmdWpYRk9NTHNhLXA5Rldv?oc=5",
+          "description": "Elezioni in Marocco, l’avvocata Fatima-Zahra Mansouri è la prima premier donna della storia del Paese Il Fatto Quotidiano In Marocco non solo una donna premier ma anche il Parlamento più rosa ANSA Marocco, Fatima El Mansouri: chi è la prima donna premier del Paese Sky TG24 Sindaca e avvocata, Fatima Mansouri è la prima premier del Marocco la Repubblica Fatima Zahara Mansouri, 'La figlia del pasha'",
+          "pubDate": "Wed, 30 Sep 2026 10:11:37 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "clima oceani calore energia umana",
+      "label": "Oceani accumulano calore 40 volte superiore all'energia umana prodotta",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "clima",
+      "macro_area": "clima-salute",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-science",
+          "title": "Gli oceani hanno accumulato calore 40 volte superiore all'energia prodotta dall'uomo - tgcom24.mediaset.it",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWTRXV0lDRW1tay1pX1d3VXQtcW5fcTRsY3NDVkYtZi1tTG1tZGV1ejA2OFdMbWFHWEwxNWV0NEtjaHJyR1JodFlRbkFESHdjbllBRlNZSGo3eHkwQ2ZKeG5JaUdvd1lrZGFOYUl1TC1xWGQ3cHc4MkhEZVNKdTBudk1xYkNRaWJUOTdMTWxOSG1DZTZQN0xkd3BXN3dpNWYwU0VhNW5ZcmFJRTJRY2xfMElxMVFNRzV6M0QwV1FDM2pHOXgzU092cjJXa9IBaEFVX3lxTFByX0hjYVBnUjQ1ZmhfYWhadlVDZ1p2emFMeGFhUUpGN01OdnpFQk5hTWMtQmVubENsb082ejUyVEdyTUlmMVVhM1BvbExmNU44Qm5Namp0Zldmd1VHaHlPRlYxR2k5Xzh2?oc=5",
+          "description": "Gli oceani hanno accumulato calore 40 volte superiore all'energia prodotta dall'uomo tgcom24.mediaset.it",
+          "pubDate": "Wed, 30 Sep 2026 12:35:46 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "russia minaccia nucleare nato kaliningrad",
+      "label": "Mosca minaccia scioperi nucleari contro Nato per questione Kaliningrad",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Russia threatens nuclear strikes on Nato countries over Kaliningrad - Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTmlvc216bjJSS194S0xxSUdjLVRYcjdTNy1KYUFUdHByLXBHZTYwU00tU0pGSks4bGNUOXZWaVJOU2NCTEktMWhJbzNHaWRVUFVFMUlXYTdEbmZ3MDFPX1VUOGlxZ3ViWFo0emJncTcwaUZkVzViWTFtczJ4RGxUakVTOXM?oc=5",
+          "description": "Russia threatens nuclear strikes on Nato countries over Kaliningrad Financial Times Russia sends nuclear warning to NATO as tensions rise in the Baltic Reuters No imminent threat to Nato territory but alliance is prepared for Russian aggression, says Rutte - Europe live The Guardian NATO responds to Russia's nuclear threats Українська правда Why Moscow Is Raising the Nuclear Stakes Over Kaliningra",
+          "pubDate": "Wed, 30 Sep 2026 11:35:42 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "influenza vaccino campagna prevenzione",
+      "label": "Campagna vaccinale anti-influenzale al via in Italia",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "salute",
+      "macro_area": "clima-salute",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-health",
+          "title": "Vaccinazioni, al via la campagna anti-influenzale - regione.piemonte.it",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT3hPMjhOa2d2QXRfTVk1RkZ4UTQ1dzRpOE0wNjhFc3hubm9RdHR2X3FDcVhxcmxuZWRoZUFlb2M5MFU0TU9BWkxWcUdFdEdGLWZQdW1xMUFjdmFzcS05bWdvcUNpLU9yemlxWnFPZE1JWVRWUnN2OFhGZTJZclAwU2RPT0NNcmxqbE9PUmlDS3gwTHdFZjNPXzNoenBteGc?oc=5",
+          "description": "Vaccinazioni, al via la campagna anti-influenzale regione.piemonte.it Influenza: è l'ora dei vaccini, raccomandati dai 6 mesi e agli over 60. Ecco dove farli e da quando ilsole24ore.com Salute: al via in Umbria la campagna di vaccinazione, acquistate oltre 200mila dosi USL Umbria 2 Medici di base, pediatri, farmacie: riparte la campagna antinfluenzale, ecco cosa c'è da sapere La Stampa Vaccinazion",
+          "pubDate": "Mon, 28 Sep 2026 12:47:48 GMT"
+        }
+      ],
+      "clustering": "claude"
+    }
+  ]
+}
