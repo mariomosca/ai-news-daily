@@ -1,5 +1,25 @@
 [
  {
+  "date": "2026-10-01",
+  "label": "La voce che non esisteva: come un deepfake ha svuotato Fideuram di milioni",
+  "category": "tech-policy",
+  "macro_area": "tech-ai",
+  "target_area": "tech-ai",
+  "angle": "segui-i-soldi",
+  "structure": null,
+  "origin_keyword": "fideuram truffa ai voce artificiale",
+  "origin_date": "2026-09-25",
+  "story_sim": 0.408,
+  "opening_retry": false,
+  "word_count": 1013,
+  "mode": "voice-only-nobed",
+  "rating": null,
+  "rationale": "La truffa Fideuram è la storia tech-ai meno satura ma più ricca di oggi: non è l'ennesimo pezzo su 'l'AI fa paura' in astratto, ma un caso concreto dove l'IA genera un danno economico tracciabile e quantificabile — perfetto per l'angolo segui-i-soldi, fresco rispetto agli ultimi giorni, e molto più 'perché ci riguarda' di un ordine esecutivo di Trump già coperto ieri.",
+  "has_script": true,
+  "has_choice": true,
+  "has_candidates": true
+ },
+ {
   "date": "2026-09-30",
   "label": "Agenti AI fuori controllo: 30.000 anomalie e un sito del governo USA violato",
   "category": "tech-ai",

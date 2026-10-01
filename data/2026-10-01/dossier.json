@@ -1,0 +1,34 @@
+{
+  "topic_label": "La voce che non esisteva: come un deepfake ha svuotato Fideuram di milioni",
+  "query": "deepfake vocale truffa bancaria AI",
+  "category": "tech-policy",
+  "category_claude": "tech-ai",
+  "macro_area": "tech-ai",
+  "target_area": "tech-ai",
+  "origin_keyword": "fideuram truffa ai voce artificiale",
+  "origin_date": "2026-09-25",
+  "story_sim": 0.408,
+  "story_vs_date": "2026-09-30",
+  "angle": "segui-i-soldi",
+  "angle_directive": "Segui i soldi / chi paga il conto: il costo reale non lo paga chi sembra, lo paga un terzo invisibile. Chi guadagna davvero.",
+  "genre": "ricostruzione",
+  "target_words": 950,
+  "hot_topic": false,
+  "richness": 3,
+  "label_cluster": "Ex capo Fideuram truffato con AI e deepfake vocale: 95 milioni",
+  "cover_metaphor": "a cloned voice dissolving into coins falling through a phone screen",
+  "curator_rationale": "La truffa Fideuram è la storia tech-ai meno satura ma più ricca di oggi: non è l'ennesimo pezzo su 'l'AI fa paura' in astratto, ma un caso concreto dove l'IA genera un danno economico tracciabile e quantificabile — perfetto per l'angolo segui-i-soldi, fresco rispetto agli ultimi giorni, e molto più 'perché ci riguarda' di un ordine esecutivo di Trump già coperto ieri.",
+  "followup_of": null,
+  "articles": [
+    {
+      "title": "Truffa da 95 milioni a Fideuram: ex presidente ingannato con messaggi WhatsApp e voce artificiale",
+      "source": "google-news-it-business",
+      "summary": "Truffa da 95 milioni a Fideuram: ex presidente ingannato con messaggi WhatsApp e voce artificiale Il Sole 24 ORE Truffa con WhatsApp e IA a Fideuram, spariti 36 milioni di euro RaiNews I Pm Milano indagano su altre due truffe a banche con IA, una da 24 milioni ANSA Dal falso Crosetto a Tria, le truffe milionarie che ingannano i potenti la Repubblica Truffa Fideuram, il falso messaggio WhatsApp inv"
+    },
+    {
+      "title": "L'ex capo di Fideuram truffato con WhatsApp e l'Intelligenza artificiale, spariti 36 milioni",
+      "source": "google-news-it-tech",
+      "summary": "L'ex capo di Fideuram truffato con WhatsApp e l'Intelligenza artificiale, spariti 36 milioni Tgcom24"
+    }
+  ]
+}
