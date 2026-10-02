@@ -1,0 +1,49 @@
+{
+  "topic_label": "L'attacco sventato alla base RAF: salvati da una contadina, non dai radar",
+  "query": "attacco RAF sventato arresti Regno Unito sicurezza",
+  "category": "geopolitica",
+  "category_claude": "geopolitica",
+  "macro_area": "geopolitica",
+  "target_area": "geopolitica",
+  "origin_keyword": "raf attacco britannico terrorismo",
+  "origin_date": "2026-09-28",
+  "story_sim": 0.39,
+  "story_vs_date": "2026-09-29",
+  "angle": "paradosso",
+  "angle_directive": "Il paradosso al centro: la contraddizione, il 'ma/eppure/pero'. La cosa che sembra una ma e' l'opposto. E' la mossa-firma di Mia.",
+  "genre": "ricostruzione",
+  "target_words": 1050,
+  "hot_topic": true,
+  "richness": 4,
+  "label_cluster": "Cinque britannici arrestati per attacco sventato a base Raf",
+  "cover_metaphor": "a locked vault guarded by a lantern instead of a laser grid",
+  "curator_rationale": "Scelgo la storia della base RAF perché racchiude un paradosso perfetto: il sistema di sicurezza più sofisticato della NATO salvato non da satelliti o intelligence ma da una contadina per puro caso, e i sospettati non sono 'nemici esterni' ma giovani britannici 23-25enni, radicalizzati in casa. E' fresca, ricca di materiale (4/5), non sovrapposta a episodi recenti, e l'angolo paradosso non è stato usato negli ultimi giorni.",
+  "followup_of": null,
+  "articles": [
+    {
+      "title": "La contadina che ha dato l'allarme sulla base Raf, 'è stata pura fortuna'",
+      "source": "google-news-it-top",
+      "summary": "La contadina che ha dato l'allarme sulla base Raf, 'è stata pura fortuna' ANSA Regno Unito, tutti britannici tra i 23 e i 25 anni i 5 arrestati per attacco sventato alla base Raf RaiNews Attacco contro base della Raf, rilasciati su cauzione i 5 arrestati ANSA L'agricoltrice che ha sventato (per caso) l'attentato alla base RAF in Gran Bretagna: «Tornavo da una festa, ho visto i furgoni, poi quegli "
+    },
+    {
+      "title": "Regno Unito, tutti britannici tra i 23 e i 25 anni i 5 arrestati per attacco sventato alla base Raf",
+      "source": "google-news-it-world",
+      "summary": "Regno Unito, tutti britannici tra i 23 e i 25 anni i 5 arrestati per attacco sventato alla base Raf RaiNews Attacco contro base della Raf, rilasciati su cauzione i 5 arrestati ANSA L'agricoltrice che ha sventato (per caso) l'attentato alla base RAF in Gran Bretagna: «Tornavo da una festa, ho visto i furgoni, poi quegli uomini. Sono scappati, e ho chiamato aiuto» Corriere della Sera Uk, allarme ter"
+    },
+    {
+      "title": "What we know about the suspected U.K. terror plot. And, why the Gulf remains in limbo",
+      "source": "google-news-en-top",
+      "summary": "What we know about the suspected U.K. terror plot. And, why the Gulf remains in limbo NPR Police Investigate Possible Terror Plot at U.K. Air Base Used by U.S.: Live Updates The New York Times U.K. Probes Possible Iran Link to Suspected Terror Plot at Base Hosting U.S. Forces WSJ Tipster in RAF Fairford plot had 'partial picture,' British minister says amid probe ABC News - Breaking News, Latest N"
+    },
+    {
+      "title": "Attacco contro base della Raf, rilasciati su cauzione i 5 arrestati",
+      "source": "ansa-mondo",
+      "summary": "Imposte misure di sorveglianza, l'indagine su di loro prosegue"
+    },
+    {
+      "title": "Attacco contro base della Raf, Teheran nega ogni coinvolgimento",
+      "source": "ansa-mondo",
+      "summary": "Smentita \"categorica\" dall'ambasciata iraniana a Londra"
+    }
+  ]
+}
