@@ -1,0 +1,49 @@
+{
+  "topic_label": "Intesa-Mps: chi comanda davvero le banche italiane dopo l'Opas",
+  "query": "Intesa Sanpaolo Opas Mps Delfin concentrazione bancaria",
+  "category": "economia",
+  "category_claude": "economia",
+  "macro_area": "economia",
+  "target_area": "economia",
+  "origin_keyword": "intesa sanpaolo mps opas delfin",
+  "origin_date": "2026-10-05",
+  "story_sim": 0.389,
+  "story_vs_date": "2026-09-28",
+  "angle": "segui-il-potere",
+  "angle_directive": "Segui il potere: chi decide, chi controlla, chi si crede sopra le regole. La concentrazione di potere (politico, mediatico, tech, economico).",
+  "genre": "ricostruzione",
+  "target_words": 1050,
+  "hot_topic": false,
+  "richness": 4,
+  "label_cluster": "Intesa Sanpaolo lancia Opas su Mps, Delfin verso adesione",
+  "cover_metaphor": "two chess kings merging into one on a bank vault door",
+  "curator_rationale": "L'Opas di Intesa su Mps con l'adesione di Delfin non è solo un'operazione finanziaria: ridisegna chi controlla il risparmio degli italiani, concentrando potere bancario in poche mani (famiglia Del Vecchio inclusa). Angolo segui-il-potere, fresco e mai usato di recente, diverso dal paradosso della puntata precedente e dal tema carburanti già coperto.",
+  "followup_of": null,
+  "articles": [
+    {
+      "title": "La lente del mercato sull'affondo di Intesa Sanpaolo su Mps",
+      "source": "google-news-it-top",
+      "summary": "La lente del mercato sull'affondo di Intesa Sanpaolo su Mps ANSA Mps, la mossa di Messina per scoprire il gioco di Lovaglio e chiudere la partita su Siena Corriere della Sera Delfin sceglie l’offerta di Intesa Sanpaolo su Mps, prima convergenza tra gli eredi Del Vecchio Milano Finanza Offerta su Mps, la holding Delfin con Intesa: consegnerà la sua quota e voterà contro Lovaglio la Repubblica Mps, "
+    },
+    {
+      "title": "Intesa, da Delfin impegno di adesione all'Opas per Mps",
+      "source": "ansa-economia",
+      "summary": "All'offerta apporterà l'intera quota del 17,6 di Monte dei Paschi di Siena"
+    },
+    {
+      "title": "La lente del mercato sull'affondo di Intesa Sanpaolo su Mps",
+      "source": "ansa-economia",
+      "summary": "Delfin verso l'appoggio all'Opas di Ca' de Sass. Attesa la reazione di Siena"
+    },
+    {
+      "title": "Delfin verso l'appoggio all'offerta di Intesa Sanpaolo per Mps",
+      "source": "ansa-economia",
+      "summary": "Il board della holding si è riunito dopo l'annuncio di Ca' de Sass"
+    },
+    {
+      "title": "Intesa, le due offerte di Mps complesse e di difficile valutazione per i soci",
+      "source": "ansa-economia",
+      "summary": "Delfin verso il Cda, al centro il risiko bancario"
+    }
+  ]
+}

@@ -2,162 +2,78 @@
   "date": "2026-10-02",
   "top_topics": [
     {
-      "keyword": "francia proteste studenti violenza",
-      "label": "Francia: proteste studenti degenerano in scontri con polizia",
-      "n_items": 5,
+      "keyword": "usa ue diesel riserve",
+      "label": "G7 rilascia 100 milioni barili, scontro Trump-Europa su export",
+      "n_items": 8,
       "n_sources": 5,
-      "category": "general",
-      "macro_area": "societa-diritti",
+      "category": "economia",
+      "macro_area": "economia",
       "richness": 4,
-      "score": 41,
+      "score": 56,
       "cooldown": false,
       "items": [
         {
           "source": "google-news-it-top",
-          "title": "Francia: scontri studenti-polizia, feriti presidi e agenti. Riunione d'emergenza del governo - RaiNews",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTHdpWlBnNlM1Q19kc3dseHczQ1VMX2tkM0M5SzhZUGNpRXZiZk04WE9EOTJ2ZDdWU2lNVURKaFJLS0NYN1NOaDc5YzEyc0hzVGdKYUVkbHl1OUVMbVgyVzNiTGxRM1N2RDJSdkV3WUhTRmFOaE95VnY2cF9oY1d4bzc4dEY3VUxxcXRpaFNrSUxyOTQ2LUg3VTZiTTZMOWs1VlNoZXhLYWVSYURuTXNBdTNxZTBQWTJPZC1HZms2djN4emJ3YVo0b2pQeHIzVEFCUnVvNlR3Tmh1eFZQa0NfLWJ2ZWtsbkhsX1RsQWFfa002R194NEMxTzVydjlIMm5SU0ZIaUxB0gGLAkFVX3lxTE5rV0dQb2VCbmpTZUdOV05scjQxaVlwUzRJdlV4MUFvWnFaY3ZtbTRPdGY1X0s5ZGJOS2RvOGZNLVlpckJDRUtrVjRvVnF2dVJzb20xSTVHeDhTRk5lQmNZa1E4T21FQTduSzZma3A2VnktamUzUDVEX0FmbHVnbGpwSWpJdVl2blMwR2VxejF1SzQ1SHdUVzU2U1JmS1MzOWkxVFBvZFBwMjRwdjFvZFF4eDIzMkJZRjlsbG90WlJzZDdNMGpUR21PZ0FGbTZWQkJsOWUxcTF5elhrNm5obUx4S2txZnZ1MlJRbXJBa3Y5ZjcxRVhmN3JVU0pXTjNWRGtLdDNyQVRHdFVtaw?oc=5",
-          "description": "Francia: scontri studenti-polizia, feriti presidi e agenti. Riunione d'emergenza del governo RaiNews Quasi duemila fermi per le proteste studentesche in Francia - La cronaca della giornata ANSA Parigi e le banlieue in fiamme: la rabbia degli studenti travolge la Francia RaiNews Mélenchon soffia sul fuoco della rivoluzione popolare: «Difendiamo gli studenti» Corriere della Sera Saint Denis, il lice",
-          "pubDate": "Thu, 01 Oct 2026 18:57:00 GMT"
+          "title": "Ue agli Usa, 'respingiamo qualsiasi divieto sul gasolio' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSlEyMDhCWlNOOTBIaDdZazg1QU1mUFNFaWNnM0gzNkQ1Sm9GcG5qU0NQanVPb1RZRzhYTl8tYUtaOGw2MEdaYXlESkxQa2JjLXZaWE15ckJqVjlDSGlzV0hQRV9tbndqTGRtMnNKMnhHVmNMWTlBVHZJd3hweHBCdy1uOTNPWVk2OGtZYmpHY3p2UVNTdG1mUVVQYVh6alNVS0xvbjV0SF8xZGlyWlBrdlRmYWppdVRJX1h3blhsaFlTalpEVlhrcGRiUmVIeGgza2N6Rk9VRUE5SWdKSFg5VQ?oc=5",
+          "description": "Ue agli Usa, 'respingiamo qualsiasi divieto sul gasolio' ANSA Scontro Usa-Ue sul diesel, la Commissione: \"Respingiamo qualunque divieto\" Tgcom24 I paesi del G7 useranno altro gasolio dalle loro riserve di emergenza Il Post Gasolio, l’Ue cede al pressing di Trump. Macron: “Rilasceremo 100 milioni di barili dalle scorte” la Repubblica G7 in videoconferenza sull'energia: Macron riunisce i leader ment",
+          "pubDate": "Fri, 02 Oct 2026 10:48:00 GMT"
         },
         {
           "source": "google-news-it-world",
-          "title": "Protesta degli studenti in Francia: preside attaccato a Marsiglia. Le Pen accusa Mélenchon - la Repubblica",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdk0tQkRhc3o4NEJoWDY1UC1vRWVZOXM1QXBSdTA3SGE5ajZraEQydUtKMEIyTG5ncmUtNGdueVNRSlR5Z3Y0bWRaRnVEc3VjV1ZIQndkQmU5cDZXNk5EYjBsbnNPN0JjM2RWZEhwa0Q0c21yUnA3RUJ6TkFtQjl1VFhoWGt0QURlYXBDc2lkR3ZkZjNyQklfbWJR0gGfAUFVX3lxTE1PSW5WY1pIRV9xenZUMFpUMjJVQk93OFk2Z1N6a2l4TnhSYWZBWGM0dU40X2x5WUo5R1BYMWRjQVlLLTNKVmVUM3ZEa3NSNjJNUWV1SWhmY0tfaldLYUd1b1JnY2RrQnNrTnhvbk5mb3ZsZGNUUWhwYUNLYWdrekhBMlpROG1yUFZWbjU3dHlLMUFOcU1UM1JXVm0wSUx0aw?oc=5",
-          "description": "Protesta degli studenti in Francia: preside attaccato a Marsiglia. Le Pen accusa Mélenchon la Repubblica Quasi duemila fermi per le proteste studentesche in Francia - La cronaca della giornata ANSA Parigi e le banlieue in fiamme: la rabbia degli studenti travolge la Francia RaiNews Mélenchon soffia sul fuoco della rivoluzione popolare: «Difendiamo gli studenti» Corriere della Sera Saint Denis, il ",
-          "pubDate": "Thu, 01 Oct 2026 14:32:20 GMT"
+          "title": "Gasolio, Trump: «L'Europa libera le riserve». Il G7 verso il rilascio di 100 milioni di barili tra diesel e greggio - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQdlUtbmRYSkh3RWItZTFVbDlUeW1Ha3ZxcWt4SkJpLVdUS0xPUnlRUWxSMkRFWVhzYmFMZXBqVWNhc04zbnJKYnVoU3RtN0VTN21ySlJhQ0stUVhwMEFjVmdJbGpqZXB1bHBWcVZZOGpUZmZsVzAzQTFXWkZPRkVGS3hUaGtNSG5GN25OSWxUUkNtTjg5NlRhVWpEWmZKeFhBVlBZUkhqcmtqb0VMVUJkSlVjT3dNS3p3M3BRdjIyTm1ZdWRDNVZ3V0Y2SjJzSHZrRDVfX21XZXdfSVQtZVFFS3QwbUEzQW93eGJoNmthSXRUY2NIbmRiT1YxZ0VxeHdPSEY5RXFyc0FlZTN6ZDZFMWZPU0NRNUdBWi1HcXIwWdIBpAJBVV95cUxQUzUweFUzbWQ4UWVFUEhRdk03YzJIWXNGcFNMbU1RbFl3VGx3Q1VQM09UM0ItVS1pLWlSNFlzaWV2ZjF5WmtDNG96eHRUcHZrV0dhdDEzdGs2bWVPZGRnd1VRQXBxb1c2eWVwWE12YlVlVUYyVmQyeVhkOUtmV0dMNkdWeHVpbENEOVJNSXFLbWNJSGlnZWlKeFdUTnRCQ3JhamNFdmNqR3RYWEx3MFI0VUdRODZHM2N3V3pyQjZKTUxfWGRCb255QjJWellLZE8tSm5IS1Bxa1l3Qm5XU0R3VF9KbXlYRmh3RllhWnJ2TTF4TjVlWXhYN0JWQkc4TGhoMEdEWktYLUxoc21RaU1NenBVUmJoclEyUWs4R0J5a00tdTlO?oc=5",
+          "description": "Gasolio, Trump: «L'Europa libera le riserve». Il G7 verso il rilascio di 100 milioni di barili tra diesel e greggio Corriere della Sera Scontro Usa-Ue sul diesel, la Commissione: \"Respingiamo qualunque divieto\" Tgcom24 I paesi del G7 useranno altro gasolio dalle loro riserve di emergenza Il Post Gasolio, l’Ue cede al pressing di Trump. Macron: “Rilasceremo 100 milioni di barili dalle scorte” la Re",
+          "pubDate": "Fri, 02 Oct 2026 06:47:00 GMT"
         },
         {
-          "source": "google-news-en-top",
-          "title": "France school protests escalate into ‘urban violence’ as PM calls crisis cabinet meeting - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWjQxQTUxSE1zaWUtRzYzVnBGamNzSUdTZkg1NW0weHJMTUdMcjA1RXR4SFNidERULUxqeVRrLTJjY0x3SDNnaFRnaW04NjcyWnFUdm9nUmN6dnpQaFVnTU5VMFZXVGZTTGowS2hTeXd3QzdFRzBmLXJ6TktSNnBsWUZMeFJNUFVQTTdjXzBOcUlGMXpZVjlDX0hxQURzZXZyS3FrOXFn?oc=5",
-          "description": "France school protests escalate into ‘urban violence’ as PM calls crisis cabinet meeting The Guardian Fires break out at French schools as students protest nationwide BBC Student protests grip France as Prime Minister Lecornu calls crisis meeting PBS French high school students set fires, clash with police in anger over school conditions CNN Crisis meeting told France's hardleft party behind schoo",
-          "pubDate": "Thu, 01 Oct 2026 22:36:00 GMT"
+          "source": "ansa-mondo",
+          "title": "Von der Leyen, 'bene G7, scongiurato divieto a export diesel'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/02/von-der-leyen-bene-g7-scongiurato-divieto-a-export-diesel_8b9ab0c9-c173-4cca-8235-dc0e69cb81db.html",
+          "description": "La presidente: 'Cittadini hanno bisogno e meritano energia a prezzi accessibili'",
+          "pubDate": "Fri, 2 Oct 2026 16:56:47 +0200"
         },
         {
-          "source": "ansa-homepage",
-          "title": "Gli studenti incendiano la Francia, scuole date alle fiamme e duemila fermi",
-          "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/01/gli-studenti-incendiano-la-francia-scuole-date-alle-fiamme-e-duemila-fermi_494cceda-a85a-44bb-bbdd-0e67079d9ad1.html",
-          "description": "Un preside cosparso di benzina a Marsiglia. Gabinetto di crisi, il governo accusa la France Insoumise",
-          "pubDate": "Thu, 1 Oct 2026 21:35:50 +0200"
+          "source": "ansa-mondo",
+          "title": "Macron, al G7 deciso il rilascio di 100 mln di barili in 4 mesi",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/02/macron-al-g7-deciso-il-rilascio-di-100-mln-di-barili-in-4-mesi_54ef536e-eb7a-4dfd-9bd9-3298b560e773.html",
+          "description": "'Lavoro coordinato per contribuire a ridurre i prezzi dei prodotti petroliferi'",
+          "pubDate": "Fri, 2 Oct 2026 16:31:37 +0200"
         },
         {
-          "source": "bbc-world",
-          "title": "Fires break out at French schools as students protest nationwide",
-          "link": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
-          "description": "The French government holds a crisis meeting as demonstrations grow and become violent in places.",
-          "pubDate": "Thu, 01 Oct 2026 19:19:00 GMT"
+          "source": "ansa-mondo",
+          "title": "Trump, 'l'Europa ha accettato di rilasciare ingente quantità di diesel'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/02/trump-leuropa-ha-accettato-di-rilasciare-ingente-quantita-di-diesel_a2b79cbe-2c5b-4af1-a666-52cf9e883fe3.html",
+          "description": "'L'iter inizierà subito'",
+          "pubDate": "Fri, 2 Oct 2026 16:10:20 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Diesel, Trump vuole tagliare l'export: Europa a rischio. Cosa sta succedendo - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JRk5MOEJNU1dNTk1BaG5TZ181Vm5RckJqRVRMcHp1RVJiOWFqb2kwZGVobmFuamdrQXpTd3FLSWpvREtTNkpHWF95bVZxcGw0eHpqOHk1WFhrcFZYSHVjSlVLaTFIUTBFemxsdHZNQQ?oc=5",
+          "description": "Diesel, Trump vuole tagliare l'export: Europa a rischio. Cosa sta succedendo Sky TG24 Scontro Usa-Ue sul diesel, la Commissione: \"Respingiamo qualunque divieto\" Tgcom24 I paesi del G7 useranno altro gasolio dalle loro riserve di emergenza Il Post Gasolio, l’Ue cede al pressing di Trump. Macron: “Rilasceremo 100 milioni di barili dalle scorte” la Repubblica G7 in videoconferenza sull'energia: Macro",
+          "pubDate": "Thu, 01 Oct 2026 11:16:28 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "UK diesel price tops £2 a litre as G7 countries agree to release 100 million barrels of oil",
+          "link": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
+          "description": "The £2 threshold was crossed as the group of advanced economies agreed to a substantial release of fuel reserves.",
+          "pubDate": "Fri, 02 Oct 2026 15:50:05 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+          "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+          "description": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+          "pubDate": "Fri, 02 Oct 2026 08:54:00 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "christa pike esecuzione fallita",
-      "label": "Esecuzione fallita negli Usa: donna sopravvive a iniezioni letali",
-      "n_items": 5,
-      "n_sources": 5,
-      "category": "diritti",
-      "macro_area": "societa-diritti",
-      "richness": 4,
-      "score": 41,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-top",
-          "title": "Christa Pike, le lacrime il giorno della condanna a morte quando aveva 18 anni - Corriere della Sera",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbGk4cjdubG5tNzFXNUFJMmE2S1ZCZ3VJTG5nbGwxUTU0TzU5Q3hTUXB6TmRsMWRKbzAxcmh6Ml9GUWtzMF9wNlNQUF9fZG5pNVA1VC1DWUw2bjBXcEt3dmtGRy1uR3VhRE1aOTZUbmlPSGtXN3dhcklQbTQ2NDlSTlJ1bDJocUZ0d05hakliOTBsUGp4dHk4YW1iNGN6NGgza3lHM1dxemVDdzNvbHNTNU5xSTc0WTdsbWhaV1NoWDU2WUVhdDJnQVVrRE1fYWlBVzVUMnk1YXFGcUtHU2xnOQ?oc=5",
-          "description": "Christa Pike, le lacrime il giorno della condanna a morte quando aveva 18 anni Corriere della Sera Orrore negli Usa, Christa è 'viva ma grave' dopo due iniezioni letali ANSA Il Papa americano aveva chiesto la grazia per Pike: “Pena inammissibile” la Repubblica Tennessee, sospesa l’esecuzione di Christa Pike Amnesty International Italia L'ignobile pasticcio del Tennessee. Christa Pike non muore dop",
-          "pubDate": "Thu, 01 Oct 2026 09:35:22 GMT"
-        },
-        {
-          "source": "google-news-it-world",
-          "title": "Orrore negli Usa, Christa è 'viva ma grave' dopo due iniezioni letali - ANSA",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZ2NEOG9RcHVpSVhuX2xYQmJ6d1hTV04zSm1ObXl5MnItSDJlZ1FGaUhSalNaQmdGMW13TTBSSmR5S193UElBaFpneDNRS2w0bXkxd0otR3d1cVlBcHMxSTVOMW5kMmdDRHJhanZOZWk0OVc0OHBVTjRVbjRpMG16THZvZFYxZC1ucllweVJhQmpnYkhrT1VIaDNiaWtES1d3emtZMEVyeV9acWVPYm9TUFFaN3JDN3N5N1ZUZ2RsZi1UOHFOZ0pRelVFd3MwU2dlQVlUU19CeVFzVjhhQ2ZMVHIxMzQ3dHhsU1l2dURFRXo5bG8yaVQw0gH8AUFVX3lxTE5uTFRESThaUlFELU53aGxRbmVMTWRZdnFGMHFsMW1MTTh6OFZhekhUZm9RTXN0UFZRV2FWLU44dGRGeHc1SUJvTG1zYWt0RTV6dFdTdVM3OVBpUV9qTWd1dF9LLWZzUExjWGloUWZ2a21nNlZ1UWYtWS1hRTlrTHlHbFVQSElKZFh3dUlsWTdoR0I0SzdOMTNJWTlVVHI3dUlqWU5YUEl6LWJsRThnZzJZTmRYNy1zalpYSWZYMnBwV1dxaUotTS1IaTlyWG5vMDhTZE5QZk5XcllfMEg3alhpSmlpaTNIQTFpazBvbDdkdXFRMnY5Vi1fdjVOWA?oc=5",
-          "description": "Orrore negli Usa, Christa è 'viva ma grave' dopo due iniezioni letali ANSA Il Papa americano aveva chiesto la grazia per Pike: “Pena inammissibile” la Repubblica Christa Pike, le lacrime il giorno della condanna a morte quando aveva 18 anni Corriere della Sera Tennessee, sospesa l’esecuzione di Christa Pike Amnesty International Italia L'ignobile pasticcio del Tennessee. Christa Pike non muore dop",
-          "pubDate": "Thu, 01 Oct 2026 20:09:00 GMT"
-        },
-        {
-          "source": "google-news-en-top",
-          "title": "Tennessee Inmate in Critical Condition After ‘Torturous’ Botched Execution, Lawyer Says - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOODkwTkNfVFQ1SG5sVDFaZlUtTEVwek9zNjJLejNJbDN0eTlnUkpJMC1hMHdwSWc5dExiUFREeGt5Q0xFZE5sQUZfdFp2U3p1X3VZd242V3d5cDJQWDRGU0pib0V6RnJpVUdvNl9KZm90NG9SZ2Y3M1ZQMnZkRHhMVg?oc=5",
-          "description": "Tennessee Inmate in Critical Condition After ‘Torturous’ Botched Execution, Lawyer Says The New York Times How Did Christa Pike Survive Two Lethal Injections of Pentobarbital? The New York Times Lawyers, experts urge Tennessee governor to commute Christa Pike’s sentence after botched execution Fox News Christa Pike getting 'life-saving medical care' after surviving Tennessee execution Reuters 'Nob",
-          "pubDate": "Fri, 02 Oct 2026 02:18:27 GMT"
-        },
-        {
-          "source": "ansa-homepage",
-          "title": "Orrore negli Usa, Christa è 'viva ma grave' dopo due iniezioni letali",
-          "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/01/orrore-negli-usa-lesecuzione-di-christa-pike-fallisce-dopo-due-iniezioni_081e457a-3905-4351-9a1a-30686aaf1a9b.html",
-          "description": "L'avvocato denuncia la 'tortura', bufera sul farmaco ma resta la linea dura",
-          "pubDate": "Thu, 1 Oct 2026 22:09:00 +0200"
-        },
-        {
-          "source": "bbc-world",
-          "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
-          "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-          "description": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
-          "pubDate": "Thu, 01 Oct 2026 22:28:45 GMT"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "iran stato uniti attacco medio oriente",
-      "label": "Tensioni Usa-Iran: Trump minaccia, portaerei al Golfo Persico",
-      "n_items": 6,
-      "n_sources": 4,
-      "category": "geopolitica",
-      "macro_area": "geopolitica",
-      "richness": 4,
-      "score": 40,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-top",
-          "title": "Trump si scaglia contro gli iraniani: \"Forse li facciamo saltare in aria\" - AGI",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb0U2a3Z1VGNwTUdNZ0dJRXo0Q1BPOWxKdkMxQy1XRXBrMjhWTFg5bWoySDNqYVNJcEw0RkpMQ0dSdXNXNHVHWWpPYWFVR3lqcE9IblZHcDhyb29tYkVBZklhcks0RmhVOG44ZnBCallSMHRONUV5ODJJSTFfUi1mZUoxM0hMdW5BcWJ3Y29Dc21TMDBhTVZrb3dR?oc=5",
-          "description": "Trump si scaglia contro gli iraniani: \"Forse li facciamo saltare in aria\" AGI Trump, 'stiamo studiando risposta all'Iran per il ruolo a Fairford' ANSA Guerra Usa-Iran, le notizie in diretta | Corriere della Sera Petrolio a 90,97 dollari alle 15:40 Borsa Italiana I prezzi del petrolio salgono mentre i mercati valutano l’offerta dal Medio Oriente e gli sviluppi diplomatici Yahoo Finanza",
-          "pubDate": "Wed, 30 Sep 2026 21:48:54 GMT"
-        },
-        {
-          "source": "google-news-it-world",
-          "title": "Guerra Iran USA, colpita superpetroliera a Hormuz. Yemen, Houthi: \"Attaccata Sana'a\" - Sky TG24",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1pNFZPVmdTMHk3clR6TU9QTlZQNUxqQmkyajVjcGNUVlFLT0Y5YUdvdi13c191eE9raTM2VjJyWThfbERycHlKTnd0S19mVFFYaElfaGE0djBXLWJsMjYzUzJnUV96TS1id0FfQUtmWlVPME04TW9PSWpwMA?oc=5",
-          "description": "Guerra Iran USA, colpita superpetroliera a Hormuz. Yemen, Houthi: \"Attaccata Sana'a\" Sky TG24 Guerra, ultime notizie. Trump: potremmo chiedere all’Europa di rilasciare le riserve di diesel Il Sole 24 ORE Colpita a Hormuz superpetroliera da 2,5 milioni di barili Giornale di Sicilia Iran, media: \"Colpita una petroliera a Hormuz, stava viaggiando illegalmente\" Tgcom24",
-          "pubDate": "Thu, 01 Oct 2026 21:27:27 GMT"
-        },
-        {
-          "source": "google-news-en-top",
-          "title": "Trump sends third aircraft carrier to Middle East with 10K more troops — as he weighs post-midterm Iran assault - nypost.com",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMy1naFU0b1pNVzZ3UWE2elF5Uk5sRWlCVUdhSElWUF9Rekw0VEh4YnR0Wl80Zk1vQXlSb0lqZXYtUUo0R1Rmel9URFhhMFBUeEstdndERGk0MXhiVjZSaVRjQ1FRMXVraU9WTGdzdkZiSmpBTTc3ODlBcXFsc1lNZFJxaE11aVBKMnppMkdsbGdyM1p4TENZQml6cDd6NTZJSEZjV2IyOWFzdnE4RnBCZmN5SmN5d2hPNXMta0ZMeXVxM3B2RDMyUTVkQnZ5MTNldjUyWFJEQ1h2TTFjZUUw?oc=5",
-          "description": "Trump sends third aircraft carrier to Middle East with 10K more troops — as he weighs post-midterm Iran assault nypost.com US deploys thousands more troops, Marines to Middle East as oil prices surge Fox News US to send third aircraft carrier towards Iran: US official to Al Jazeera aljazeera.com Pentagon prepares for potential surge of naval forces in Middle East The Washington Post U.S. Sending T",
-          "pubDate": "Thu, 01 Oct 2026 20:10:52 GMT"
-        },
-        {
-          "source": "ansa-mondo",
-          "title": "Trump, 'l'Iran è pronto a cedere e la questione si concluderà molto in fretta'",
-          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/02/trump-liran-e-pronto-a-cedere-e-la-questione-si-concludera-molto-in-fretta_c7017175-bbd8-44eb-be14-9ab243125118.html",
-          "description": "'E i prezzi dell'energia potranno poi scendere molto, molto velocemente'",
-          "pubDate": "Fri, 2 Oct 2026 04:58:50 +0200"
-        },
-        {
-          "source": "ansa-mondo",
-          "title": "Wsj, terza portaerei Usa verso il Medio Oriente con altri 10.000 militari",
-          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/02/wsj-terza-portaerei-usa-verso-il-medio-oriente-con-altri-10.000_4841915d-2326-4f25-90ac-eeb03cc56b4e.html",
-          "description": "Mentre Trump valuta la ripresa degli attacchi all'Iran dopo le elezioni di midterm",
-          "pubDate": "Fri, 2 Oct 2026 00:35:28 +0200"
-        },
-        {
-          "source": "ansa-mondo",
-          "title": "Trump, 'potremmo chiedere all'Europa di rilasciare le riserve di diesel'",
-          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/01/trump-potremmo-chiedere-alleuropa-di-rilasciare-le-riserve-di-diesel_f455d378-fdbe-418d-9a1c-b5b8ce404da1.html",
-          "description": "Lo ha detto ai giornalisti in Texas",
-          "pubDate": "Thu, 1 Oct 2026 22:57:03 +0200"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "putin baltico escalation nato",
-      "label": "Putin avverte: esercitazioni Nato nel Baltico sono escalation",
+      "keyword": "spagna governo sanchez crisi",
+      "label": "Parlamento spagnolo boccia decreti casa, governo Sánchez a rischio",
       "n_items": 5,
       "n_sources": 5,
       "category": "geopolitica",
@@ -168,48 +84,48 @@
       "items": [
         {
           "source": "google-news-it-top",
-          "title": "Putin: “Non attaccheremo nessuno, ma se colpiti risponderemo con ogni mezzo” - Ambasciata russa in Italia: “Prendiamo sul serio le minacce dell’Europa occidentale” - RaiNews",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNYXZJNGtRYWVIZmFqaGtic0xLakFTbkhDdDJZamo4aE1FdWNoMGVxUUtJX2l2Ni0wYXVjemNYZmdoOTRsNUFLUUhLcE5FeGpBMndZN3BXY2hXLWhMWWxWV1pEMHpJMnVKaWRKbVZhYzRrY2h4bFZMZHlWR0VNWlhObl9iM25Ddmk4RkxBWkxNb1U4QmloX2doYk1keU5HLVJLRkRzWkE4MmF3ZVY5ZWtzWFVOU0g3cXZoY1RQRVNLSUFGeEVLT1VPSnVlcG8xaW1JRTB0N2JfZi1pZy1ZaUdGRXptb2dyZ3I4TmoxWXBaUDU5a2h2a20zRkx5TmxycnFa0gGGAkFVX3lxTE9uZkU0Wm1YSzhmZ3dwb0Q4T1V4WjBXSUs1VHMyOEJ1ZFpON21IT0otNXU4MTdueEpuNHJlbFlpVy1QM0R1R21mUnFYTDA5WHJ3VUpwS3RMcUZHYnB5akFkdmp6Yjdrd0NSQUN6MVpEZ1V2bkFYWUFVcEdnRTNGSmVHOTdmbUwxaVRFUTkwQndRVGI2ZERXRTdwZVV6WWJoVHdlRXhXOUVubGNZVTI5OEFrNHdQN1Z2OVdjUjNVNVp4a2s5eFliTlFGWUpLY3hGV1h2d2dUX0xCRFE1VkVUS0FiR3BUTE1WUU1naEF0a0YwV0ZuZFFpbXFDWEE2WkFYX0N2QTBpWGc?oc=5",
-          "description": "Putin: “Non attaccheremo nessuno, ma se colpiti risponderemo con ogni mezzo” - Ambasciata russa in Italia: “Prendiamo sul serio le minacce dell’Europa occidentale” RaiNews Putin sul nucleare: «Prima o poi qualcuno lo userà. Le guerre ci saranno sempre» Corriere della Sera Guerra Ucraina - Russia. Le news del 1 ottobre. Putin: “Esercitazioni dell’Occidente nel Baltico sono escalation” la Repubblica",
-          "pubDate": "Thu, 01 Oct 2026 21:10:00 GMT"
+          "title": "Spagna, sconfitto il governo Sánchez: bocciati i decreti sulla casa. E sale la pressione per elezioni anticipate a novembre - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZE5QeTY3MzdVYnNuaE9PZmJ1QzM3b1lNNG1JcUlaYjJXVVNLcnZOZUdYNWt3TUNTU3p3NHBHSklFTFNpRloxMmJzMG9BQmVnUEtyRnZiQUVOUkd2QURrSl91bzlKYnB0cXhRUU01WmI1dHJlTm9EdktQaXhybndKWWt5dlliOWYyUU1mTFc1Z0I5VFJEUmRoNHNJWmpaMVlfSVJDamhzSTFBX3ZJR1pyb2RITlNVS3lxaHpXZkozYl9pNm5XY3RYR0pxT3pOaVBrdnllLTMzd9IB3AFBVV95cUxNSnlMVmlRVzdMRThKbnRPVjRac1VlQ2h4TE5lb0JoVnpNZFlSeDVEUURiY28wOTZWVmNycDdTYjhfSkpsenZENERaWDdwNjZlaHhuRlpVaVY2eGhoOEpOZkVRV3I0YzdtdTlhSGNKZmRYYTBJMDA3VlJBWGFRSUxsdkJ2dW13eEdMRXo5dk5JZ0pKZkdRMTJGNU5wNmk0LUFoMldocnJWYko3el9oWTJ1ZFR2V3hlY2tCcWlXdXlISk9obkNkb1dEdHFQLUdmc0FFUWF0VUNsMkhoWmdl?oc=5",
+          "description": "Spagna, sconfitto il governo Sánchez: bocciati i decreti sulla casa. E sale la pressione per elezioni anticipate a novembre Corriere della Sera Il Congresso spagnolo boccia il decreto di misure per la casa. Sanchez valuta il voto anticipato ANSA “E adesso sciopero generale”: si riaccendono le proteste in Spagna dopo la bocciatura del decreto casa Il Fatto Quotidiano Crisi abitativa Spagna, il Cong",
+          "pubDate": "Fri, 02 Oct 2026 13:33:00 GMT"
         },
         {
           "source": "google-news-it-world",
-          "title": "Putin, 'le esercitazioni occidentali nel Mar Baltico sono un'escalation' - ANSA",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQOUxGVEZ1OThIRjBNaGQyaWE4dnJ4RWtUVFdTbzlMYmw0SkZVcjJiS0lEajVJcDlpSjZaMUdXZW5yeVJaRDRxV0pZQkZ5bFpUaGlhWWpobkxmQlQ2UmdtWnlwTUZmaGt1WFJwMnY3TFBaZnRrZTVqNlNRQ0ZzZkI0LUZKdkxEVWNVRVhYaHVadzZJcDgwVjNuMTlUdDNTeF9qTC02Vzg2d2tHQjN3MGhUN0ZmeWlhbk5jQkRsbGxNMUZKcGlyMUZaRm9oRktld1ZDRTZDTDdpVnJzX0w3eER6ZlZ3RjVlOUtQdE9wc1Mzc2NyMkRR?oc=5",
-          "description": "Putin, 'le esercitazioni occidentali nel Mar Baltico sono un'escalation' ANSA Il Cremlino: 'Su Kaliningrad non cerchiamo il conflitto' ANSA Tensione Nato-Russia su Kaliningrad. Ansia baltica, Eurofighter proteggeranno il voto in Lettonia HuffPost Italia Ucraina, Mosca a Nato: 'Difesa Kaliningrad con intero arsenale' Sky TG24 Rutte sminuisce la minaccia nucleare di Putin, ma Mosca avverte: “Colpire",
-          "pubDate": "Thu, 01 Oct 2026 17:28:00 GMT"
+          "title": "Spagna, il Parlamento boccia il decreto di misure per la casa. Il governo Sanchez rischia di cadere, ipotesi voto anticipato - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbFlCLWU3UUl4bjA5QnNnbUFPRnFReW1vVlJ3OHRrSVUtUTU2X01QcG55RHNsNERhbERtal9BQWVJSEJJWU1hSzh5c2ZZLWZadUxUcUZtZjA5a3ZaNzBvSWd3NmFfbFByanBCSllpRFdBeEt0RFJYT2t4SWNqNnpPcjZjSkV5cEFHcG5zbmhmQ2tXNWZ6RFhjakMyRHJRUDRITlZxdElGNzFfRWMwaTc3c3d4bTlZcDZwb3UxaHR2VQ?oc=5",
+          "description": "Spagna, il Parlamento boccia il decreto di misure per la casa. Il governo Sanchez rischia di cadere, ipotesi voto anticipato Il Fatto Quotidiano Spagna, sconfitto il governo Sánchez: bocciati i decreti sulla casa. E sale la pressione per elezioni anticipate a novembre Corriere della Sera Il Congresso spagnolo boccia il decreto di misure per la casa. Sanchez valuta il voto anticipato ANSA “E adesso",
+          "pubDate": "Fri, 02 Oct 2026 15:24:48 GMT"
         },
         {
           "source": "google-news-en-top",
-          "title": "Putin warns West that Russia is prepared to use ‘all weapons’ to protect Kaliningrad - CNN",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUmZxY1FyU2JuRHhwX2p1YjNJcTNBUmdYSXd6LXVQM1ljQk1XZ3FyMm1WVlU5YWR4eEdmXzA4MklRc0psLW8zVVM4b1ZuSmwwMFpOdDdZbWRJSDNycGtadjA2cFp1aFF6VWpNZ19sYVNvUUFuaUlWNXRtQjNwR2pmdmJHd2kyQlhnMmc?oc=5",
-          "description": "Putin warns West that Russia is prepared to use ‘all weapons’ to protect Kaliningrad CNN Russia warns NATO of a possible nuclear response if Kaliningrad is cut off AP News Putin warns West that Russia is ready to use every weapon to protect Kaliningrad BBC Putin says ‘all weapons at disposal’ if there’s an attack on Russia – as it happened The Guardian Why Russia's Kaliningrad is a potential flash",
-          "pubDate": "Thu, 01 Oct 2026 22:30:37 GMT"
+          "title": "Spain’s government dealt a blow after parliament rejects housing measures amid protests - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSER5andpMFpUc19KTEg1M2RoOHZqSmdrd2FzN2Z5dmQ3WUdhRzgySzlvTGdiSS1YQWgyMk45QkFNcmNlRDBLSnVwZ1UtVGs5TnVBQ1Z1dnpuU2RHM25YVmduY1NObTRhLUtYSUt5VDZVX2ZWRGxoU0h5d0pDNVI4dHRKLXBMb1NYVFRZazhNUXE3VWEzVEdn?oc=5",
+          "description": "Spain’s government dealt a blow after parliament rejects housing measures amid protests AP News Spanish government housing decree sunk in congressional vote Reuters Spain’s Sánchez weighs calling snap election as housing defeat looms politico.eu Spanish lawmakers reject government housing measure amid protests Euronews.com Pedro Sánchez loses vote on Spanish housing reform Financial Times",
+          "pubDate": "Fri, 02 Oct 2026 14:35:00 GMT"
         },
         {
           "source": "ansa-homepage",
-          "title": "Putin: 'Esercitazioni nel Baltico escalation Occidente, pronti a difenderci'",
-          "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/01/putin-esercitazioni-nel-baltico-escalation-occidente-pronti-a-difenderci_2092ecf4-11f9-47f3-93ac-0861513698ea.html",
-          "description": "'Non attaccheremo nessuno, ma risponderemmo a un'aggressione con ogni mezzo'",
-          "pubDate": "Thu, 1 Oct 2026 20:44:11 +0200"
+          "title": "Il Congresso spagnolo boccia il decreto di misure per la casa. Sanchez valuta il voto anticipato",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/02/il-congresso-spagnolo-boccia-il-decreto-di-misure-per-la-casa.-sanchez-valuta-il-voto_4a3a0cd6-4b1a-41d6-ae21-9237c79a54a3.html",
+          "description": "Con 172 voti a favore e 178 contrari del Partito Popolare, di Vox e di Junts per Catalunya.",
+          "pubDate": "Fri, 2 Oct 2026 17:25:09 +0200"
         },
         {
-          "source": "bbc-world",
-          "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-          "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
-          "description": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
-          "pubDate": "Thu, 01 Oct 2026 19:38:30 GMT"
+          "source": "ansa-mondo",
+          "title": "Il Congresso spagnolo boccia il decreto di misure per la casa",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/02/il-congresso-spagnolo-boccia-il-decreto-di-misure-per-la-casa_b91964b8-5383-4222-a315-43b16d254bab.html",
+          "description": "Con 172 voti a favore e 178 contrari del Partito Popolare, di Vox e di Junts per Catalunya",
+          "pubDate": "Fri, 2 Oct 2026 15:58:47 +0200"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "flydubai copilota attacco radicale",
-      "label": "Copilota FlyDubai tentò attentato: era radicalizzato",
+      "keyword": "kiev attacchi russi ponti",
+      "label": "Russia intensifica bombardamenti a Kiev, Zelensky chiede più aiuti",
       "n_items": 5,
       "n_sources": 4,
-      "category": "general",
+      "category": "geopolitica",
       "macro_area": "geopolitica",
       "richness": 4,
       "score": 36,
@@ -217,31 +133,80 @@
       "items": [
         {
           "source": "google-news-it-top",
-          "title": "Volo Flydubai, le accuse al copilota attentatore. «Radicalizzato, odia gli ebrei» - Corriere della Sera",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQT1BZMzY0SDFnTFliWVBSOUlTRDZiQXBDNjV2NTRZZ1pVRkdqVEhmeEpidGhWTHpldGRaRDZ1b0MzRHFxME9JZ3drVlVhQV9OU0xXZmk1OV9qTVJhYkp0d19RMk9jVkJCZ3FzOEFQNGd6T3FkSDJnT3czYjR3OWpYZVgwT09fN2ZCbTFLVW43Mzd3eGYyajlLMFowSGVaUlVsSWdld1h5RlNyLUpTMlhtRjU2djFCZ0FHUjVaa1pYNTdCV25NbGdjQ2diQzlqVEVuRjlmVER3WXhiaFFqWThCZUt0OFdrdnhWZklsRnVGRHhpODFuamVz0gH8AUFVX3lxTE9OdEdYd1JIRmQzWV96dVZYTmdFb21adVBLMTVnaEQ1VERTaWRsemV6OThvM281cW43QUU4b0NTdkhkektuOUZYLVhoNTFULVdFQ3FfRzBfV2w0Nnh4T1RzZlUxb245dFZmSVllLVppWldmRkRfdXRGQUhRM1Zwdml1YjhCR3p1V1I4bjJrc0FmVW9fa3VwcXlFekFady0xMzNMNno3WElHSXI0aGJSYkFZSi1VZEVhSVJpbDNWcE5odEQ3WFRVcE95NzBXSjFhWTVha2ZURURUZmtHWmlVUlgwaWhvWVNhMXY3alRVRHUtVThVU2lvOFVRWlFJbQ?oc=5",
-          "description": "Volo Flydubai, le accuse al copilota attentatore. «Radicalizzato, odia gli ebrei» Corriere della Sera Attentato sul volo FlyDubai, «Non morirò, ho due figli»: l'eroe timido che non sognava gli aerei Corriere della Sera Netanyahu: 'Il copilota di FlyDubai radicalizzato, all'equipaggio ha detto 'uccidetemi'' ANSA Volo dirottato, il racconto di un eroe israeliano: “Abbiamo agito per istinto di soprav",
-          "pubDate": "Thu, 01 Oct 2026 20:42:00 GMT"
+          "title": "Traffico in tilt a Kiev dopo gli attacchi russi ai ponti. Zelensky: 'Usa e Ue non fanno abbastanza' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaTMzZXpxTU1iLU9zRm5TVl9NOUhRN0xYdlZheU1EQllYYmctTzZ2NkVJSGNrX0hmUmxwLUFCdHdlamlKWXBOR1N5UW51ejd3WDJlUGRxSUNYN1lua3NaQUg0QlZaS2c0WWlEdzFvUDE2SXBJeHlGeEpfNm11TGZmVTRfXzJ3ZWxGaVZNcXZGT2hKVUFzZHdESHpBRWp2ckNMSzNoSTRqRGNyZUFPZ3FVbTVXeFZialhIUG94ZlJndUg0c3pObjJVSHd1T1M1czVVRXk0cVBGd0tqRHAzVkF3bXA2U21vbmtqcS1jSE9ncmZTNU5q0gH6AUFVX3lxTE1EcDRYQWVCZ1YtZk9OanozNHZRVTl6bTBZOWFrZGZsc0FrQlBQQVEzbktIc1RjVnh5SXM5a3ZQTW14VTZ4VEJaUHp6bFBWMHEyOE14cjFjWGFYSlc2NVhjNTNGOGJ1bmlxazc0bGpKSF9hNF9tSkVia1AtQmxJSmx2aWp6RzBwblpnT3VfQk9PZXRpVnBQYUYzNW4xS2Z1SGFCV0pqMkpzTHFhVTFxd2d4UFI0NEZIU0t0TUFLV1RlTlVQRmkxREJnVkZuVTNrSGZpRnZOMkI0ei1lWXotazRJV291TGdoMU9HMkhWR1Z3M2RqMGtOM29VRFE?oc=5",
+          "description": "Traffico in tilt a Kiev dopo gli attacchi russi ai ponti. Zelensky: 'Usa e Ue non fanno abbastanza' ANSA Attacchi continui su Kiev, il sindaco: \"Siamo in una situazione drammatica\" - Bloomberg: Mosca aumenta del 40% la spesa militare nel 2027 RaiNews Kiev, 'i russi hanno bombardato di nuovo il ponte sud della città' ANSA Guerra Ucraina Russia, attacco di Mosca contro Kiev: un morto in un edificio ",
+          "pubDate": "Fri, 02 Oct 2026 09:05:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Kiev, 'i russi hanno bombardato di nuovo il ponte sud della città'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/02/kiev-i-russi-hanno-bombardato-di-nuovo-il-ponte-sud-della-citta_85e8b1e0-a4c9-4076-a022-53dcdf360919.html",
+          "description": "Lo conferma il sindaco della capitale Vitali Klitschko",
+          "pubDate": "Fri, 2 Oct 2026 17:08:18 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Zelensky a El Paìs, 'Mosca vuole che gli ucraini lascino la capitale'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/02/zelensky-a-el-pais-mosca-vuole-che-gli-ucraini-lascino-la-capitale_eb55cd0d-5339-4ad5-94ca-b28f6ad804c7.html",
+          "description": "Gli attacchi contro obiettivi civili si intensificano sempre di più",
+          "pubDate": "Fri, 2 Oct 2026 15:34:04 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+          "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+          "description": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
+          "pubDate": "Fri, 02 Oct 2026 15:26:37 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Attacchi continui su Kiev, il sindaco: \"Siamo in una situazione drammatica\" - Bloomberg: Mosca aumenta del 40% la spesa militare nel 2027 - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOS3VUalQ4X2VYX2RFNmw4TENYb2ZUdlY0dlNJOF9ZS1AyS3RKMGdlUTBlWVFSVjBOTXBTYjZma2JWeE56bUpBZDh5eXBIMjlIaFRteDBuMlJaNzNVczBBbVZtU2RVYVpxcF9Xd0JPRFhSaElYeWJodmxvR291TE1HMUoySHA3WmZsUFhXLXFvLU82ZjBjQ3hOZGlxZzlSRWpfZWN4T3dlY1lqU2x5SzV3al9UX2QwVmZ5aW9mUkJZWGlLZlpVYVJtY2VGdXFacHFGMjVabkJvdk5wY1BNbDVUd2JLYzN1WmZ2Q3hoc0dMaUZ1RndSUzZ6MTVqSFpabTVpLTZkNnRkY9IBjAJBVV95cUxPeVZCbUJqbE5RMFBkRUR3WWJUclJRQTQ2RU15XzQ2MzI0TTVrRjYza3VpUkpXRld1Y3Z6M1VkRzFOVjdtaUU4cVBYU2tzTFREempwc3VDT0hBMmo0NkdYeVY0UFh0NzhtTzRYMHBia25zTUlXb2lWcG9BLTFwaUNHSFVzLVJHWGY4N01PbnlRWE5ieDdDaWNHTjBOeHctbnZyUUQ2SEk1YkhoTF9zaFh6UldPWG9SMFk1dG9sczE2X0NBNGFRTElaMExEQ25PS1lSYXc0ZDQ3dVNQZVFYcjJPREVkVUwzejF4T052LU5vOF8tYmNJeHZocnJLQ3FEaGhkVTZMWk00OW9RdXpi?oc=5",
+          "description": "Attacchi continui su Kiev, il sindaco: \"Siamo in una situazione drammatica\" - Bloomberg: Mosca aumenta del 40% la spesa militare nel 2027 RaiNews",
+          "pubDate": "Fri, 02 Oct 2026 09:50:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "flydubai dirottamento pilota",
+      "label": "Pilota eroe salva volo Flydubai dal dirottamento a Dubai",
+      "n_items": 5,
+      "n_sources": 4,
+      "category": "general",
+      "macro_area": "societa-diritti",
+      "richness": 3,
+      "score": 32,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Aereo dirottato a Dubai, il pilota eroe: 'Ho aperto la cabina mentre ero sotto attacco'. VIDEO - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLXYtLWZKWmp4aUFGWGtodEVsSnN5d0NMcjVwaHJqTE5FZ2FqaW9nYTM2Yi1hMVpCY1JnbTVoR0JTRm5DbkhxX0RMSUtWWi1FOENBbHMzX0Vvam9IMHE0SEMtOVhVLWJPMW16SHVpeWdhYUlMdldnSmpmcm1qamRCVlhTaGJORVVRRXhiQ1F3cw?oc=5",
+          "description": "Aereo dirottato a Dubai, il pilota eroe: 'Ho aperto la cabina mentre ero sotto attacco'. VIDEO Sky TG24 Aereo dirottato, Smit Machchhar pilota eroe di Flydubai racconta come ha salvato 170 persone: \"Ho strisciato\" Virgilio Flydubai, ecco le possibili falle della sicurezza aerea e i protocolli unici di Israele Il Fatto Quotidiano Volo Flydubai, un super computer potrà sbloccare le cabine degli aere",
+          "pubDate": "Fri, 02 Oct 2026 08:38:46 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Volo Flydubai, il pilota: \"Ecco come ho salvato i passeggeri\" - AGI",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRTdxUkYxZEVVelN0VTZkQktTWFpnRVdYZzZXRnp3MEY2cTJ6eEtFY0J2RzljWnF0QjJybzdlSzc1NUdjMjR0Rm5aR1hqWUx2MnJ5S1lRbWF3SDRHVFozNkRjNGdkR0VsSjMwV3N5ZnRKTGYxTzNVWnNIR0RtRHJXaUFiY1Y2U3g2cThteTd4bVBkWGxOWl9jNVVOdmtBd2lzbFhITUJ2WdIBrAFBVV95cUxNNmRoYUJQQ3h4WXg1a2drVkJucGJCdE5FVmdtQXBxUEktLXZLalQxNFgxdEZiTVN4QjFUQllIWXZzaTdSZXBVYW00eHcxNDFYbFV0X0lLdG1CZ3FUcHR0YnNZUEdxM3IyRmVPTWk1OEpiVVY5Z0wyRlVzbnZzREhjZWdncXhZSkVPaGRQa0ZZMjRzNXlsSGF6QXBRTU9ybFpvMW1YU3czYk1lMHJr?oc=5",
+          "description": "Volo Flydubai, il pilota: \"Ecco come ho salvato i passeggeri\" AGI Aereo dirottato, Smit Machchhar pilota eroe di Flydubai racconta come ha salvato 170 persone: \"Ho strisciato\" Virgilio Flydubai, ecco le possibili falle della sicurezza aerea e i protocolli unici di Israele Il Fatto Quotidiano Aereo dirottato a Dubai, il pilota eroe: 'Ho aperto la cabina mentre ero sotto attacco'. VIDEO Sky TG24 Vol",
+          "pubDate": "Fri, 02 Oct 2026 10:14:53 GMT"
         },
         {
           "source": "google-news-en-top",
-          "title": "Co-pilot who tried to crash FlyDubai jet was ‘radicalized,’ Israel says - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUjRNdmlkS0hlMFlYcWdJWURZWm9tamloZ3VmZ1B0ZEc1aUVaVm5oWXczWDdLTmtIQm1USHQ5ZDVCLUE3MldqZThjM2lORGV0ZUVHcUpTUkxycGFNVHgyOUxseV9ycm9TM1FxVlRzWFJBUWZXUmFNUmdrMVpvUUc4LXpzR0kyY0JVR0t3NWZQbWNHb3dpd0pFSndUQlR5YXBG?oc=5",
-          "description": "Co-pilot who tried to crash FlyDubai jet was ‘radicalized,’ Israel says The Washington Post Pilot on Tel Aviv-bound FlyDubai 'prevented another 9/11,' Netanyahu says Fox News Who Is Captain Smit Machchhar, the Pilot Hailed as a Hero After FlyDubai Cockpit Stabbing? The New York Times Editor’s Notes: Flydubai crisis shows why we need another major news agency - comment The Jerusalem Post Fact Check",
-          "pubDate": "Thu, 01 Oct 2026 23:52:41 GMT"
+          "title": "Indian pilot tells PM Modi he opened flydubai cockpit door during attack - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYW1JN1lJT0NhMWxSTm4xY1NJWHg4UGp5SzQtUlV2UjB6ZHgzdExsbXRIckJkWWpGWW1aY3dHX2ZBLTh5LS1yME1WaWJPQXdkTVluRVpCOTU2WjVhMm9wb1VVUEdsaG5xWlFYQUdPSndwYmhYN1VzMnBBMFJkdzVMTmJrc3R4cWxlcHBRdE5lWFBVc2NMLTJDSnRGazFDeXJXbW13Vzh0Q0QySjFTVVV3VXZiOHg?oc=5",
+          "description": "Indian pilot tells PM Modi he opened flydubai cockpit door during attack Reuters Trump warns Iran of fresh strikes if Tehran involved in FlyDubai plane incident Fox News The Mother’s Scream That Sent Passengers to the Rescue nytimes.com ‘I couldn’t let everybody else die,’ says hero Flydubai pilot Smit Machchhar CNN Israeli officials to question co-pilot of flydubai flight, source says The Jerusal",
+          "pubDate": "Fri, 02 Oct 2026 11:17:56 GMT"
         },
         {
-          "source": "google-news-en-top",
-          "title": "Trump sends third aircraft carrier to Middle East with 10K more troops — as he weighs post-midterm Iran assault - nypost.com",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMy1naFU0b1pNVzZ3UWE2elF5Uk5sRWlCVUdhSElWUF9Rekw0VEh4YnR0Wl80Zk1vQXlSb0lqZXYtUUo0R1Rmel9URFhhMFBUeEstdndERGk0MXhiVjZSaVRjQ1FRMXVraU9WTGdzdkZiSmpBTTc3ODlBcXFsc1lNZFJxaE11aVBKMnppMkdsbGdyM1p4TENZQml6cDd6NTZJSEZjV2IyOWFzdnE4RnBCZmN5SmN5d2hPNXMta0ZMeXVxM3B2RDMyUTVkQnZ5MTNldjUyWFJEQ1h2TTFjZUUw?oc=5",
-          "description": "Trump sends third aircraft carrier to Middle East with 10K more troops — as he weighs post-midterm Iran assault nypost.com US deploys thousands more troops, Marines to Middle East as oil prices surge Fox News US to send third aircraft carrier towards Iran: US official to Al Jazeera aljazeera.com Pentagon prepares for potential surge of naval forces in Middle East The Washington Post U.S. Sending T",
-          "pubDate": "Thu, 01 Oct 2026 20:10:52 GMT"
-        },
-        {
-          "source": "ansa-homepage",
-          "title": "Netanyahu: 'Il copilota di FlyDubai radicalizzato, all'equipaggio ha detto 'uccidetemi''",
-          "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/01/netanyahu-il-copilota-del-flydubai-e-stato-radicalizzato-allequipaggio-ha-detto-uccidetemi_28548fa0-3e1a-4da2-b61d-3461cc25cb5e.html",
-          "description": "Media: 'Sui social parlava di uccidere gli ebrei'. Trump: 'Un matto o un terrorista'",
-          "pubDate": "Thu, 1 Oct 2026 21:44:05 +0200"
+          "source": "bbc-world",
+          "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+          "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+          "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
+          "pubDate": "Fri, 02 Oct 2026 09:08:06 GMT"
         },
         {
           "source": "bbc-world",
@@ -254,347 +219,417 @@
       "clustering": "claude"
     },
     {
-      "keyword": "borsa europa inflazione spread",
-      "label": "Borse in rosso: spread Btp-Bund oltre 118 punti, mercati sotto pressione",
-      "n_items": 9,
-      "n_sources": 2,
-      "category": "economia",
-      "macro_area": "economia",
-      "richness": 4,
-      "score": 34,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-business",
-          "title": "Bond al 5,36%, banche giù in borsa: questi titoli italiani sono già a sconto - Investing.com - Quotazioni, Borsa, Economia e Finanza",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTG42ZHhCMXgyWkJCc1pkM0V1X3ZpMXJCTFdaREU0aFFyU1UzY3pUelBOcWZzcTJwX2pfNnI1ejlqRWpHc1oyX3JvZEtITmpUOXVVb29ydlp0TTR4STR5ZlFSaTBOSGNKeW9NM3k0dXNNY056LThTVmNwQXZwRDRWSHViT0FWY1FvTmthQkxwTVZNOXZBM3BCOE9UbFF6Wm1adDhOWloyNU5QeFRKRm84cUduNnlOQVU3RXhfMG1XWHNvb3dETTE4?oc=5",
-          "description": "Bond al 5,36%, banche giù in borsa: questi titoli italiani sono già a sconto Investing.com - Quotazioni, Borsa, Economia e Finanza Titoli di Stato con rendimenti al 5%: scadenze, rischi e Paesi su cui puntare Il Sole 24 ORE Ora le obbligazioni offrono i migliori rendimenti reali da decenni, le azioni valgono ancora la pena? Yahoo Finanza La diretta da Wall Street | Borse Usa chiudono quasi piatte,",
-          "pubDate": "Thu, 01 Oct 2026 10:58:00 GMT"
-        },
-        {
-          "source": "google-news-it-business",
-          "title": "Borse europee in profondo rosso con impennata rendimenti titoli di Stato - RaiNews",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTm5fd1lVZGlRWWk2N1J4b3JqNHpLNjQ5SG5qeFM4Y0gtaEhaZER2SDhyRnZINEhESGdINGQ0VndkekR4cGdJdV81eVg3MEtHOXMycVNsVFFYN2hvNHRDeldIa3dGRDNVdmc2OWNSYzFxblhaU21YY1dwNHl1WlhOa1l3TjZOSFZQQ0pEOUt2NGtRMG1KcXQtVVF3ZzRlaVpOamhETUdhY3ZBclFfX3Y2WFc2QU1ON1Mydmd3Z0dzNm85YU1ndUhWTmhrMEpiTGJBa2dGdVhJRkpoWGliMDZ6eHQ4RHY4emlTS3fSAe8BQVVfeXFMT0lQMWQ4OEctLVM5R2xNM1pSS081MS14ZXRiRW5lQVlPQm9DYXEzR3V0cmZrcFZlQUNuam9FMS15NXFkd0xPbmtTZGoxb29xRy1xSUxyOU5NX1J5MjBMSDJLcndWVzAzYllvRnBRcG5BUGxVYTZsa0ZyMUc3bzA5NkJSN3FJQ05ZWWJuSy1NQjdGLV9PczNTeDV0TUV4aS1pc044TVlWcUd5WjZCalBOVTlMUzVOMWNrZkdtTlAzYXlMeHZySDdQTVl6UENLSW9LZlhqdm01NTZXNHpiTFlVTXdTSm14VS1MeE5KVFNjc0E?oc=5",
-          "description": "Borse europee in profondo rosso con impennata rendimenti titoli di Stato RaiNews Milano sotto pressione con il resto dell'Europa Borsa Italiana Borse e petrolio 1° ottobre | Europa, nuovo scivolone con tempesta sui bond: spread a 118 punti. Allarme Leo: «Ricordare cose è successo in Grecia». La Ue: già data più flessibilità Corriere della Sera Mercati nella bufera con il petrolio oltre 100 dollari",
-          "pubDate": "Thu, 01 Oct 2026 16:13:00 GMT"
-        },
-        {
-          "source": "google-news-it-business",
-          "title": "Hedge fund e Francia: ecco i meccanismi contorti dei mercati che affondano i BTp - Il Sole 24 ORE",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMmZvMkNPM2lYUFA0UVVOMVFTNVlSeUI4TVk2VkpkSnY2N0kyLVRkYWdETDA1Q3ZqMTEtRE5ydzk2UXJhYS1RRlVsOTg2ZE1PcTVCcDNONUMwbGViYnRxVDRqNG8zWFJjUUZ0S2E2VWNTQ053a2kxcy1wOWt5alZwZndYdC1RLW1KdWpraS1uMnE1X05EWHdhNmRYZERxLVdwNXFPZHBDdnQ0UXE0UW1BYlh6NmRZdw?oc=5",
-          "description": "Hedge fund e Francia: ecco i meccanismi contorti dei mercati che affondano i BTp Il Sole 24 ORE Btp, come comportarsi con i rendimenti in rialzo? SoldiOnline.it Spread Btp-Bund a 100 punti, cosa sta succedendo? Cosa significa per l'Italia (e per la Germania, ma non solo) Corriere della Sera Titoli di Stato, tempesta globale. Draghi: “Cauti sul rialzo dei tassi” la Repubblica Spread oltre 110 punti",
-          "pubDate": "Thu, 01 Oct 2026 18:27:00 GMT"
-        },
-        {
-          "source": "ansa-economia",
-          "title": "Mercati nella bufera con il petrolio oltre 100 dollari, si impenna lo spread",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/mercati-nella-bufera-con-il-petrolio-oltre-100-dollari-si-impenna-lo-spread_94ecf17e-5b6a-4e41-b569-3c5b58cda40e.html",
-          "description": "Giù le Borse europee, Milano -2,2%. Volano i rendimenti dei bond statali",
-          "pubDate": "Thu, 1 Oct 2026 20:02:34 +0200"
-        },
-        {
-          "source": "ansa-economia",
-          "title": "Lo spread Btp-Bund conclude la giornata in aumento a 118,5 punti",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/lo-spread-btp-bund-conclude-la-giornata-in-aumento-a-1185-punti_d1f1e887-e2b4-4e76-8174-cf9c9824f29f.html",
-          "description": "Sale al 4,69% il rendimento italiano, scende quello del titolo di Stato tedesco",
-          "pubDate": "Thu, 1 Oct 2026 18:20:00 +0200"
-        },
-        {
-          "source": "ansa-economia",
-          "title": "Borsa: l'Europa conclude in calo, Milano -2,21%",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/borsa-europa-conclude-in-calo-parigi-162_cbef6c8c-8ac0-4e89-9910-f6773ca39b65.html",
-          "description": "Parigi -1,62%, cede anche Londra. Meno marcata la flessione di Francoforte (-1%)",
-          "pubDate": "Thu, 1 Oct 2026 17:58:46 +0200"
-        },
-        {
-          "source": "ansa-economia",
-          "title": "Borsa: Milano chiude in ribasso del 2,21%",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/borsa-milano-chiude-in-ribasso-del-221_5b9a42f7-a068-4b28-bce2-56e5a9ed7299.html",
-          "description": "Ftse Mib a 50.237 punti",
-          "pubDate": "Thu, 1 Oct 2026 17:57:17 +0200"
-        },
-        {
-          "source": "ansa-economia",
-          "title": "Lo spread Btp-Bund corre oltre 118 punti base",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/lo-spread-btp-bund-corre-oltre-118-punti-base_d3bfe4ef-0973-42af-a1fe-6dc7f0b919be.html",
-          "description": "Salgono i rendimenti",
-          "pubDate": "Thu, 1 Oct 2026 17:38:17 +0200"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "meloni flessibilità bilancio ue",
-      "label": "Meloni chiede flessibilità all'Ue su spesa e tasse",
+      "keyword": "pena morte usa christa pike",
+      "label": "Botched execution Christa Pike accende dibattito pena di morte Usa",
       "n_items": 4,
-      "n_sources": 3,
-      "category": "economia",
-      "macro_area": "economia",
+      "n_sources": 4,
+      "category": "diritti",
+      "macro_area": "societa-diritti",
       "richness": 3,
-      "score": 24,
+      "score": 28,
       "cooldown": false,
       "items": [
         {
           "source": "google-news-it-top",
-          "title": "Meloni in pressing: 'Flessibilità o misure restrittive'. Ma l'Ue è cauta - ANSA",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSk8tVzBILThTTVBUSU5WdGpJaXNhcklOeEo3dTJwVEQ5aThjSHBGa3JxWXZUSERmVFItRDU0NS1pMm5aQkZFalhJVjNnVHh6VTFURmtNV0k1WS1JTGZWR2tXcjY1cTlsSTlIM1dJZTlZdm1QTE5fZzNGdFczN3ByVWhGaGtZYU1pYXNnZWN3U2N3eHowTHV3X2ZDSWE1U2lZT3pKczkydTVzQV9fcUNHckc1c3JqVHlNNkFDbm96a2UyLTRQYmJmNGlSTWhYMndfemNxdDI2SG1YUkphal9sRzZXMEdOU285azEyY2hEUnBrazR0aWfSAfsBQVVfeXFMTTZsNDBTZnZpVXNjckU4aGd4dXhBaUh1a2JNWlh5N3RPWXdIWW9vRk1kQVRZZzJfS0MzSllDSFI4d3lMQUl6SXpBZHB4cVB2ZFpKRjd0Nzd3R1FFOXA3RTc3YTk0bENraHZpRE1ldHR5Ykl2SEJ2WjNYYUZ2UFNKSEpQUWlmVEwwMDlEVGh0dWoxYWtFV0N6Y3FNRTg2WGlUS2lLeXVFZU5FTU0ySXh6THM4VG5qUklpYnJqRU5vTzBmQ0dqbFFSMlpMN19CWlhWM2piWW9ZSm9uZDh4ZUU1dm5id1pfT0lrSnhEdDJTVXdMT2lyVldpY3pCbzA?oc=5",
-          "description": "Meloni in pressing: 'Flessibilità o misure restrittive'. Ma l'Ue è cauta ANSA Manovra, vertice a Palazzo Chigi. Bruxelles risponde all'Italia: 'Abbiamo già dato flessibilità' ANSA Flessibilità, Meloni preme sull’Ue. Si tratta sui fondi anti-inflazione La Stampa Meloni scrive a von der Leyen: “L’inflazione fa salire la spesa”. Bruxelles: “Abbiamo già dato” la Repubblica Ue: Meloni a Vdl, valutare n",
-          "pubDate": "Thu, 01 Oct 2026 19:41:00 GMT"
+          "title": "Perché Christa Pike è sopravvissuta all'esecuzione? Gli esperti: «Il farmaco si è riversato nei tessuti circostanti» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQekdUY3pCZkdrbFM3bDZJOXM2RzBzVVRqNVhQc2p2LVNpWFBjdk50bVZzZkxrVWpKX3JrZ2hTMkc0eDNMYURPSDBOTVM4ZTR2dWUyOGJvdWtYZTBwa3BPbjhsTW5Od1lrRWQxZnkycndKTWNfV3FHR2lmTTI5NWhFN1pXQ0s0VUpIRmVJUjViUDliOXRzY2I1SW1MREpMSER3akk3bUhXaTFPVm5HVnZMMjJZcWdqTjFGOUEzNFpuWlpsV1ZEcTRhUlNtR1JBUTjSAdQBQVVfeXFMUDJQdkoyeTEyYnlPYmdOVTc4MDlIWW9qenFaSDluLUFpN2M4VUtIN0VPODlWMW1oTUhnb0J3R3pwdkNYTVhFbmg2c0p6cHVyV3Q2eEk2WjA2QWpNelZNTFg5QXV0QW5ZMDNtYnZTMUxtclZPVmd5c3AzZVRyNDF2U1Awbm5vTUI0Y1BfdmJQX1dRUlBwZHJMbWtHSVNLbmFXVzY5NE94Mzd3RTN5SU5IRlVNMlV1RFJmQ2Q4WnhPck5TUTdoS1Q3b2xSRlE1dWNFU21pSzA?oc=5",
+          "description": "Perché Christa Pike è sopravvissuta all'esecuzione? Gli esperti: «Il farmaco si è riversato nei tessuti circostanti» Corriere della Sera Usa, Christa Pike in condizioni critiche dopo essere sopravvissuta a due iniezioni letali Sky TG24 Christa Pike Corriere della Sera Caso Christa, crescono in Usa voci contro pena morte, soprattutto tra giovani ANSA Esecuzione di Christa Pike, Marazziti: \"È la ban",
+          "pubDate": "Fri, 02 Oct 2026 12:12:39 GMT"
         },
         {
-          "source": "google-news-it-top",
-          "title": "Meloni: “Ho inviato una lettera a von der Leyen per valutare l’impatto dell’inflazione”. E sul nucleare: “Non ha senso comprarlo da altri” - il Giornale",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOLVp1TlowU2F5UjNqUkxlYThFckd0RHNVc3R4aGhFLVRvS0E1YnFpeGt2a3FSQUsyN1J3TEJpalJOR29fNU5qY0tjd3V0TWJsdENUYkJuTFJBaTlOVGZmVnhnZkdvQzlNZ3hQcWFvYU04N2JtVVQ0QjB6aFRpVjkyY1hFc0t5UHFfM19KaTQtbFpEdmdRNlMyZUdEcWd3b0l1a0lGNk80dWNzSXpZa2ZKb25OM1lpYTRWcTJud3MxWVRocklGZFJZa3psZzZZRmZsOFUyb05CMk52Q3lST2QtdGUxYmhXUEJpS2NZSnJZTzdzelp0YmZ0cmtTRjlWdw?oc=5",
-          "description": "Meloni: “Ho inviato una lettera a von der Leyen per valutare l’impatto dell’inflazione”. E sul nucleare: “Non ha senso comprarlo da altri” il Giornale Meloni, con la rinascita di Artigiancassa recuperato un patrimonio prezioso ANSA Evento dedicato agli 80 anni della CNA dal titolo “Il Valore del fare. 80 anni di CNA. La storia di un’Italia che costruisce il futuro” Radio Radicale Il Presidente Mel",
-          "pubDate": "Thu, 01 Oct 2026 16:19:38 GMT"
+          "source": "google-news-en-top",
+          "title": "Calls grow for US death penalty halt after ‘torturous’ botched execution of Christa Pike - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM2JQWXpjSE9qM2tmSEY1SnR1Z0d1UWFReXd0bHFfQWE4SWNINHNwWDdEU0dNbVZzYy1hUjRnLWZCbHluN0lqelhzLTR5Um1UTS01VkZnQlBwVHJhaldTZUNzR0JjWXlZVHVpWTVUQ1JzU0JnaURZY3J2RzNXWTNMcmZoM0hSQzlmTjFYVEo3cGk?oc=5",
+          "description": "Calls grow for US death penalty halt after ‘torturous’ botched execution of Christa Pike The Guardian What’s next for Christa Pike after surviving lethal injection CNN Christa Pike's condition critical after botched execution attempt Yahoo Colleen Slemmer Was a Vibrant and Generous Presence, Her Mother Says nytimes.com ‘It was a mess’: Tennessee fails to execute woman after 2 lethal injections NBC",
+          "pubDate": "Fri, 02 Oct 2026 14:13:00 GMT"
         },
         {
-          "source": "ansa-homepage",
-          "title": "Meloni in pressing: 'Flessibilità o misure restrittive'. Ma l'Ue è cauta",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/meloni-in-pressing-flessibilita-o-misure-restrittive.-ma-lue-e-cauta_c461cfeb-1f8a-498a-878e-2c5ebb6f7005.html",
-          "description": "Lettera a Bruxelles: 'L'inflazione pesa sul 20% del Pil. Extragettito per aiuti mirati'",
-          "pubDate": "Thu, 1 Oct 2026 21:41:53 +0200"
+          "source": "ansa-mondo",
+          "title": "Caso Christa, crescono in Usa voci contro pena morte, soprattutto tra giovani",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/02/caso-christa-crescono-in-usa-voci-contro-pena-morte-soprattutto-tra_7636cf17-b2e3-4b37-8383-3040630ceadc.html",
+          "description": "Si unisce al coro suor Prejan, la religiosa al centro del film Dead Man Walking",
+          "pubDate": "Fri, 2 Oct 2026 16:28:14 +0200"
         },
         {
-          "source": "google-news-it-nation",
-          "title": "Meloni, la doppia richiesta all'Ue: più flessibilità su spesa e maggior gettito - Il Fatto Quotidiano",
-          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNZmZBb3lfOWxlUGlCd3lyUFlrQnpyTGxiWTJXT1BNcmd0U2ItTmRtbENBbzJvWjFHamdWNFJTQXNZbVZmd2ItZVZTODJRQWpaVjZIU2hWbjhvQjlSVkhaamp6UnpyM0Zrc3pqSFk2Y2o3U3h4OENmQVFfc0cxTXZ1cG1MdGdFYlZDeG56cDhjbWJrLU5UbzJOSTNtR0ZJallHNmZNVllFeXB0a0M1QXY3WHlmYkJualhaRTgzczlVV0NiaVBnaENwQ20zanFyeW1QUm5BOEpBa1BxdW5Lc3dyU2w2bTFkV0lkcWJsTHV6dW1YeEFGM1FncXAwa1FKaGlpRm9aM19vdVVWQjhXbnREUkg2Y2NkMjQ3amN3?oc=5",
-          "description": "Meloni, la doppia richiesta all'Ue: più flessibilità su spesa e maggior gettito Il Fatto Quotidiano Manovra, vertice a Palazzo Chigi. Bruxelles risponde all'Italia: 'Abbiamo già dato flessibilità' ANSA Flessibilità, Meloni preme sull’Ue. Si tratta sui fondi anti-inflazione La Stampa Meloni scrive a von der Leyen: “L’inflazione fa salire la spesa”. Bruxelles: “Abbiamo già dato” la Repubblica Ue: Me",
-          "pubDate": "Thu, 01 Oct 2026 19:46:47 GMT"
+          "source": "bbc-world",
+          "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
+          "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
+          "description": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived.",
+          "pubDate": "Fri, 02 Oct 2026 14:01:09 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "garlasco chiara poggi sempio",
-      "label": "Garlasco: famiglia Poggi non costituisce parte civile contro Sempio",
+      "keyword": "cornell università violenza sessuale",
+      "label": "Indagine Cornell su stupro, New York valuta nuove norme consenso",
       "n_items": 4,
       "n_sources": 3,
-      "category": "general",
+      "category": "diritti",
       "macro_area": "societa-diritti",
       "richness": 3,
       "score": 24,
       "cooldown": false,
       "items": [
         {
-          "source": "google-news-it-top",
-          "title": "Garlasco, la famiglia di Chiara Poggi non sarà parte civile contro Andrea Sempio: “E’ innocente” - la Repubblica",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWUlXQVdOYTVXc2dJZGZMMHZmNTBTRGtRTDFVbUtkdmpFdXJ6ZkY4aEtNT0VGNk1Ld2tMTUktVFo0ZFNsamNRb0dPdlpHd1pHdFpUX1Q4anhaY0RSeFZUYVE3bm5iZTNzTlY0NGJqdExJXzhZWmR5ZG5MR0NZanRlMGctcjBOSldielROQUJVT0JEZzRQNEh0YTZxT1pyajNXN2t1N2tkTG13RGpnNzc5ZVIxRGdkZkFS0gG-AUFVX3lxTE5feklfeVlVanJYeFg2LVY4R3RPY0tHTWVXWFEwUWIza1hFeDFRbW41dDBnVlNvdkZtdWptS3FDVmV5eE9YZnVxdDBPTXhiRHBWWHg5cnFDTGFpdDBDN0xTLVdYSERGOGlsellLYjZRNnA2WFV2OHdwWnVZQkE5djlaOVc3LXQ1V0ItbkxkcTlITXVMUFNob2J2LUszVkx1VjNTai1kRnRnenNBS25sSGdPckhzeVo3eTVXWExUdlE?oc=5",
-          "description": "Garlasco, la famiglia di Chiara Poggi non sarà parte civile contro Andrea Sempio: “E’ innocente” la Repubblica Cosa c’è da sapere sulla chiusura delle indagini su Garlasco Il Post Delitto Garlasco, la famiglia Poggi non sarà parte civile contro Andrea Sempio Sky TG24 Garlasco, spunta un'intercettazione choc della madre di Andrea Sempio: \"Maledetta Chiara\", ma Nuzzi chiarisce Virgilio Garlasco, i P",
-          "pubDate": "Thu, 01 Oct 2026 13:30:19 GMT"
+          "source": "google-news-en-top",
+          "title": "Officials giving update on Cornell University rape investigation - watch live - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03NUk4bkNRTGtQLUk5dGtDcWx5cEFZeHdRX05IUjVBYkpfWlk5Mjd3aGJjTU5FZzVCVHRwTlBuMnB0N01vVE5EVXoyUjNiMGxwRFR2U25B?oc=5",
+          "description": "Officials giving update on Cornell University rape investigation - watch live BBC ‘I want the truth’: New York governor vows to unravel failures in Cornell sexual assault investigation CNN Cornell rape allegations prompt NY Attorney General Letitia James to open ‘active criminal investigation’ Fox News Picture of Jane Doe shared in Snapchat group on night of alleged Cornell rape CBS News New York ",
+          "pubDate": "Fri, 02 Oct 2026 15:03:44 GMT"
         },
         {
-          "source": "ansa-homepage",
-          "title": "I Poggi non saranno parte civile contro Sempio, 'è innocente'",
-          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/01/garlasco-la-famiglia-poggi-non-sara-parte-civile-contro-andrea-sempio_d760eac6-f6b6-4fd9-9f8a-980d9a4429ce.html",
-          "description": "Garofano sul Dna sui pedali: 'I dati a disposizione delle parti'. Linarello: 'Mai visti'",
-          "pubDate": "Thu, 1 Oct 2026 19:41:42 +0200"
+          "source": "google-news-en-top",
+          "title": "JD Vance talks 2028, and how one Cornell student responded to rape accusation: Morning Rundown - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSjZ1QmtUMkFXUVdQeEVKLUZwRWlZd1pMQm9yd0ZHU2h3VndELVN5MUg3MHNVOGNJUDIzWlF5bk5TelZZc3BKMHV4ZUlHd1VxRTBmandVdnJuNG55dk1GbmplejZFQ0kzcDhkUWpzN2w1eGNyM3RVTmlEU3F1dk81cmN4YkdKcWFFS042NFNibTdLeU1WYlNUSnhGSHhycW5yRGV2ZEZPYjBUd2RoaXRTXw?oc=5",
+          "description": "JD Vance talks 2028, and how one Cornell student responded to rape accusation: Morning Rundown NBC News Vance talks 2028, Ted Cruz and a tough midterm climate that could factor into his future NBC News Vance: ‘Really obvious’ Cruz is running for president The Hill Vance Says People Are Too Focused on “Little Things” Ahead of Midterms The New Republic Rattled Vance Swipes at 2028 Rival as MAGA Civi",
+          "pubDate": "Fri, 02 Oct 2026 11:04:43 GMT"
         },
         {
-          "source": "google-news-it-nation",
-          "title": "Garlasco, i Poggi credono a Sempio. «Non ci costituiremo parte civile» - Corriere della Sera",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOai01Y2E4MXFrMGRsY1NGZk9LNi1QSGl4RURZSEZvdGtwUURHcGhNam14WlpRTWVTdldDOGJSNVlOaHVUcFZfaUVRWGhuOGVRME5HRmpxRWlsNjc1TUVFTEV6VUxvdUc5em15bHJPSmtnMUNPN21KRzM5VDJ1U0l3aXFWMkNlb0dwUzlQWlpsWjFmVnFOcXJjdUVfblV2X2lfVzV5OFVaR2MzN3hSWFFTU3J6U29GdldyRXpwNmRtY1VROVVrZ2hPR1BKNm4ybzZtelpQemttdGdSQjZPelhDenRkUEJwS0FoU1IxSdIB8gFBVV95cUxOUmNJSl9NZy0tODJVTTV5dWJ6V1hFcXkxV3V3VU90WGthdzZhbkRfbHZ4dXAxVjU0RFZvUW1HNXdJdjhxODE3dnJXX1VadHJFTTFDdURIOUl1WmI2V3pCVXQwemRHOVQ2eTBYbmhTbktERTVDTC1xTm4wSUZxV3dRV1BkanBVMjhtd1BjLUF4aU1LOHEyRmFmQnlzOGVsdkNfTFVmd3AzcjkwM0k3N016WEtDRjM2Nk5Udl9QOVRCQ2RfTHNOaGdlVGJmaVBmYzRJXzVWRWtPU2N2SlczUWRKR1hWR1VvNXRVcWZTVU91aThWZw?oc=5",
-          "description": "Garlasco, i Poggi credono a Sempio. «Non ci costituiremo parte civile» Corriere della Sera Cosa c’è da sapere sulla chiusura delle indagini su Garlasco Il Post Delitto Garlasco, la famiglia Poggi non sarà parte civile contro Andrea Sempio Sky TG24 Garlasco, spunta un'intercettazione choc della madre di Andrea Sempio: \"Maledetta Chiara\", ma Nuzzi chiarisce Virgilio I Poggi non saranno parte civile ",
-          "pubDate": "Thu, 01 Oct 2026 21:35:26 GMT"
+          "source": "ansa-mondo",
+          "title": "Caso Cornell, Hochul per cambiare legge su assunzione alcol e consenso a sesso",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/02/caso-cornell-hochul-per-cambiare-legge-su-assunzione-alcol-e-consenso-a-sesso_1687e649-baed-4d6d-b49e-d50ff8e3ccdc.html",
+          "description": "Codici penali a NY distinguono tra chi indotto a bere e chi si è ubriacato volontariamente",
+          "pubDate": "Fri, 2 Oct 2026 16:22:43 +0200"
         },
         {
-          "source": "google-news-it-nation",
-          "title": "Garlasco, il caos dei rilievi sulla porta per la cantina: «Aperta e richiusa: cancellato il Dna» - Il Messaggero",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWGgzcmswdFNfSmZzNDNwc1huM2o5YUQ2SXVpZi1FUXlrNmN2Vmw4cTFhYWNSdW1nSHNnU09qbmJhS0x3Q05Yel81cFRlaWtXWl96dmpTbHMtTExEc3FpR2Q1VExZMmZ2SFVZQzBRWFZCcjExS1JyMHdFbnBhVDBEbG1DNTdyUU9XUUFtNm9fWDYyaVBqalpBXzNveWpwYmI5bkVMQmZ3NUpJX2g5REHSAbMBQVVfeXFMT3J0LWM4ZnFVeU1PMVBBNXpxWjhHOWRNNlV2MTlJVlg3aVBHRU5yWWcwdXJ4Q0QxTVRNWVZQNXk4NXVGT0l3eC1yNDRrdTBxdDRYYnpySURYRWFvYmctX0QxWUh4SW8wYnZpbWpWOElGRGUwSjhBMGRVRGFOQUhIRnAzcFFxU2FDR0VobWoxVHdhRFo0UmZIRmNMM0xGNmhwdksydzUyWExINlVxQlVJV3NUc1U?oc=5",
-          "description": "Garlasco, il caos dei rilievi sulla porta per la cantina: «Aperta e richiusa: cancellato il Dna» Il Messaggero I Ris a Garlasco tra caos ed errori, Pizzamiglio: “Garofano in vacanza e scarpe di Stasi sbagliate” la Repubblica I nuovi esami del Ris di Roma sull’impronta 3 non restituiscono certezze: “Può esserci sangue” quotidiano.net Garlasco, ex Ris: \"Mi portarono scarpe Stasi, puzzavano di nuovo\"",
-          "pubDate": "Thu, 01 Oct 2026 21:55:02 GMT"
+          "source": "bbc-world",
+          "title": "Cornell students gather to voice anger over alleged gang rape",
+          "link": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
+          "description": "Students tell the BBC that the tension on campus has become palpable since allegations from 2024 resurfaced.",
+          "pubDate": "Fri, 02 Oct 2026 10:00:24 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "carburanti prezzi calmierati",
-      "label": "Benzina e diesel: tutte le compagnie prolungano sconti fino a fine ottobre",
+      "keyword": "francia proteste studenti scuole",
+      "label": "Proteste studentesche Francia: scuole chiuse, scontri e arresti",
       "n_items": 3,
       "n_sources": 3,
-      "category": "energia",
-      "macro_area": "economia",
+      "category": "general",
+      "macro_area": "societa-diritti",
       "richness": 3,
       "score": 21,
       "cooldown": false,
       "items": [
         {
           "source": "google-news-it-top",
-          "title": "Tamoil segue Eni, Ip e Q8: 'Fino al 31 ottobre misure per mitigare il prezzo dei carburanti' - ANSA",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRG9UM1VMLUpIQzNnNEV1TzVzLTFyNTRSUjROQ01rVXlPQmpxcGZqc29aQUJrcWRhMDBBRkF1MUE5QTlkMXk2d1dzVm5UM3BOZlhhdHFvUFU2X3BMWnBTUHlCNW1RWGZtR3RwWHZ0Y0NNbC1oclZiaVpBNjViVF9WanpJMXo0dXhDbmdZVU5scm11OEJaODZDMXlQOVBzWElWdTZ6elZGaS1kRjJlZGxPQURzallzTjFob21TeHdaOGE1ZFBtUGlNNEp5YWM3N29aLUVydXdqYzdWbFM2S2EzRDBjTTFsVm9wZkpSMUhvWVJHZ243NFQ1cm1pbHJpS21EM2RR0gGIAkFVX3lxTE9ZRlRodnNLdEpha29TNHREOXBiVC1YN3c4WWdXOW9nY1pqS2M5dFp0RktuVWl0TWdOcXQzUHNpNmN5TzJrNF9hWTBHMk1iTGw2MlVsUF91SHVTOW4xRmMwMDM4cFd4QXBIQUVrNGFoZ2pSWTN4d1JMVHZ4MXlVQTc0dm1tR2xBR1pEYXJKQnlzM2ZybU1SZ0xIQjZKa1NqR21FLUtHQk9LS29qRE96UlRxQkVvSW1OWFoxeFgtajZOVWRPTlhZZ1VyeXhkSzJiUTV5TVpsRFpBYTByRjVyY3NGZlMxU3FwN01ONzNsTHlWNzhDTkJqenBtTXVLU1hiRUM5WW15NXZScQ?oc=5",
-          "description": "Tamoil segue Eni, Ip e Q8: 'Fino al 31 ottobre misure per mitigare il prezzo dei carburanti' ANSA Tetto ai carburanti, Tamoil segue Eni, Q8 e IP: misure di contenimento fino al 31 ottobre RaiNews Tamoil taglia il prezzo della benzina e gasolio fino al 31 ottobre: Eni, Ip e Q8 chi ha messo il «price cap» e chi no Corriere della Sera Benzinai con il «Price cap»: «Allarme per i rifornimenti» L'Eco di",
-          "pubDate": "Thu, 01 Oct 2026 15:30:46 GMT"
+          "title": "Proteste Francia: nuovi scontri vicino Parigi, studente ferito da ordigno in Alsazia. FOTO - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96NmNZMVFJempuTkFCWmR4ZF90VUdRaFQ4aUM3WEZiYnpQQ2xrS0tPM1pJcHNPQzh0ZzhvMjBkU2xxT1dWSTJkamllQXY4Q3hmeGxBV3k2Y3hqczR6a20xaGZ4bUFlRDI2ci1NaVBndkR0ekE?oc=5",
+          "description": "Proteste Francia: nuovi scontri vicino Parigi, studente ferito da ordigno in Alsazia. FOTO Sky TG24 Francia, le proteste degli studenti contro la piattaforma digitale governativa Parcoursup: «Non può essere un algoritmo a decidere il nostro futuro» Corriere della Sera Continuano le proteste studentesche in Francia: 100 le scuole chiuse, bloccati anche 25 campus universitari - Liveblog ANSA Francia",
+          "pubDate": "Fri, 02 Oct 2026 14:06:39 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Fires lit on streets across France after student protests force hundreds of schools to close - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zVXVlVGpoVkVqYV82dDdLOVVpTEtNSE15U3J5WE1OOGw3Vzk0UUttQURMQUZOTWZfZUJrZHBlblF4VTlPVG9MR2R4OWVBSVJ6UHhGQnhn?oc=5",
+          "description": "Fires lit on streets across France after student protests force hundreds of schools to close BBC Over 560 schools disrupted in France on Friday as protests escalate into ‘urban violence’ – Europe live The Guardian A violent classroom revolt is becoming France's next big crisis cnbc.com School protests send shivers down French government's spine BBC Blockades, Fireworks and Tear Gas: Young Proteste",
+          "pubDate": "Fri, 02 Oct 2026 15:09:33 GMT"
         },
         {
           "source": "ansa-homepage",
-          "title": "Tamoil segue Eni, Ip e Q8: 'Fino al 31 ottobre misure per mitigare il prezzo dei carburanti'",
-          "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/10/01/tamoil-fino-al-31-ottobre-misure-per-mitigare-il-prezzo-dei-carburanti_aeccd963-6814-4300-9b43-d37974b99c55.html",
-          "description": "Accolti appelli di istituzioni e consumatori. Iniziative sostenibili anche per la rete",
-          "pubDate": "Thu, 1 Oct 2026 18:36:25 +0200"
-        },
-        {
-          "source": "google-news-it-business",
-          "title": "Carburanti, sconti anche da Tamoil: prezzi calmierati fino al 31 ottobre - Il Sole 24 ORE",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeHFXUVBFU3NVRWtzZlhFT015ZUFUWFlDY2pLemM1M2ZmUWhqbXRVbllsREI0blBvUExEbVdqWVlyX2lzZzc5Unc5eWdBMS1LN3NhSkl4cktBbG5Bb29IN2ZTeXRGVkZBcGx3Z1ctRF9sQmxtcUhiaDlDTzYxVHRBNFh5dDZwd203OFZwMGczMWFVM3B0SmoyYmxJV19zLTlsWTh0UGpoRFI?oc=5",
-          "description": "Carburanti, sconti anche da Tamoil: prezzi calmierati fino al 31 ottobre Il Sole 24 ORE Tetto ai carburanti, Tamoil segue Eni, Q8 e IP: misure di contenimento fino al 31 ottobre RaiNews Tamoil taglia il prezzo della benzina e gasolio fino al 31 ottobre: Eni, Ip e Q8 chi ha messo il «price cap» e chi no Corriere della Sera Benzinai con il «Price cap»: «Allarme per i rifornimenti» L'Eco di Bergamo C",
-          "pubDate": "Thu, 01 Oct 2026 23:12:37 GMT"
+          "title": "Continuano le proteste studentesche in Francia: 100 le scuole chiuse, bloccati anche 25 campus universitari - Liveblog",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/02/continuano-le-proteste-studentesche-in-francia-100-le-scuole-chiuse-bloccati-anche-25-campus_68da0559-2d19-4482-8729-6ff30c0ea713.html",
+          "description": "Solo oggi già 150 i fermati. A fuoco i cassonetti a Parigi. Il ministro della Giustizia: 'I danni alle scuole li paghino i genitori'",
+          "pubDate": "Fri, 2 Oct 2026 17:23:09 +0200"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "ia rischio estinzione ricercatori",
-      "label": "350 scienziati e CEO: intelligenza artificiale rischia di portare all'estinzione",
-      "n_items": 2,
-      "n_sources": 1,
-      "category": "tech-policy",
-      "macro_area": "tech-ai",
+      "keyword": "pd schlein meloni governo fallito",
+      "label": "Schlein attacca Meloni in direzione Pd, 'uno non vale uno'",
+      "n_items": 4,
+      "n_sources": 3,
+      "category": "lavoro",
+      "macro_area": "societa-diritti",
+      "richness": 2,
+      "score": 20,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Schlein a Meloni: \"Avete fallito\". La premier: \"Solo falsità\" - AGI",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ0E5cEw3UGxsbVZiU1E3TDFHSDZxSzJ3S2J5R2NQRnRaQzNLbkFyVVNGektFNTF5U2F2WXNlRVVTNklMOVU0VndpaVBWNm5mSG51X3lPWlpFSzJNNGRXVzdfWVd2ZEFnQXlQbFROd1FQTWdpaEtaQUhRNzM5clRZRjZMZVFjaWNGQi1NR0ZTeTA1cm_SAZgBQVVfeXFMTlBQWXBDMUdHbktSNHc3VWxwSnhFcTA2MmtwVmJFS0NYVFhWRkRZN0t5VHIxd2JIMmgwdS1ZbWtnTGdielVOcElVM21LeEVLbDNaOC12QlBYN2x0YUZDVklkNWZLRHJPZHZRS0Z0N0pQU0p2TGJpQUFrUTF6SnJTbFRDaDJaSTM2NVNBX1VhemhZTU5RcjFPb0g?oc=5",
+          "description": "Schlein a Meloni: \"Avete fallito\". La premier: \"Solo falsità\" AGI Direzione nazionale Pd – La relazione della Segretaria Elly Schlein – VIDEO Partito democratico Schlein e il duro messaggio a Conte: «Generosi sì, ingenui no. Non è che \"uno vale uno\"». Ma i toni sull'Ucraina non convincono i riformisti roma.corriere.it Schlein avvisa gli alleati: \"Nel programma uno non vale uno, il Pd ha il doppio ",
+          "pubDate": "Fri, 02 Oct 2026 14:09:38 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "La direzione del Pd approva la relazione di Schlein, i riformisti non votano. Scontro con Meloni",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/10/02/schlein-nel-programma-uno-non-vale-uno-il-pd-ha-il-doppio-dei-voti_fa1bb90e-f6eb-42a0-a88f-17f20a37e1c2.html",
+          "description": "La segretaria dem agli alleati: 'Nel programma uno non vale uno, abbiamo il doppio dei voti. Affiniamo il programma comune, che sia un patto vincolante'. E alla premier: 'Vuole una critica vera? Gliene dico 10'. La replica: 'Solo falsità'",
+          "pubDate": "Fri, 2 Oct 2026 17:13:33 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Schlein: “Nel programma uno non vale uno, il Pd ha il doppio dei voti”",
+          "link": "https://www.ansa.it/sito/videogallery/italia/2026/10/02/schlein-nel-programma-uno-non-vale-uno-il-pd-ha-il-doppio-dei-voti_9794c5df-735a-42d3-b961-b1843fcdea6a.html",
+          "description": "La segretaria Pd: “Generosi sì, ingenui no”",
+          "pubDate": "Fri, 2 Oct 2026 15:35:04 +0200"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Schlein a Meloni: \"Avete fallito, andate a casa\". E a Conte: \"Pd primo partito, uno non vale uno\" - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUE5hYklPTDk4cW9TVVBKWGI1bjdIUVBxLUZva3JmTGJiRWFJNXgyczgxQkRPYjl2bExtNEZQRDlhWDY3cTk2d1Z1Q0lQNE9VTnBwZTNVRkNaVTNQY1FmWTZBQUszUkhZY3I5ak9HN1RhWGdEeE5PNVVzeGZ2UFVxdzJPZDdlRURLaWRUVFBXakpxRjk4SjZ1VEYxdU83NElINDh0RFdR0gGrAUFVX3lxTE1QLVFONFBZaVpONzhTeGUwbGJ0Mlhpd2wwVXhkNmxOYmt5NUFXc3FuSEVHTnBZdld6Rk9FNG0xZWNRVDhyUFVxSkFJUVR0NGowYkZXeTFEc1lPaUNOZWh3RnJfdENOZ2p4b0RjaG9fbnpyRk15R21hVGpjUWhCOUJvQWRwYV8zaU4zb2VxRzN1a1drZjFjX09DTHQ1UlZMOXIwNFREVGkxLVY3QQ?oc=5",
+          "description": "Schlein a Meloni: \"Avete fallito, andate a casa\". E a Conte: \"Pd primo partito, uno non vale uno\" la Repubblica Schlein a Meloni: \"Avete fallito\". La premier: \"Solo falsità\" AGI Direzione nazionale Pd – La relazione della Segretaria Elly Schlein – VIDEO Partito democratico Schlein e il duro messaggio a Conte: «Generosi sì, ingenui no. Non è che \"uno vale uno\"». La relazione passa all'unanimità dei",
+          "pubDate": "Fri, 02 Oct 2026 09:55:43 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "usa occupazione settembre lavoro",
+      "label": "Usa aggiungono 29mila posti settembre, mercato rallenta",
+      "n_items": 3,
+      "n_sources": 2,
+      "category": "economia",
+      "macro_area": "economia",
       "richness": 3,
+      "score": 18,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Top Democrats slam ‘Trump’s failing economic agenda’ after weaker-than-expected jobs growth – US politics live - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPa084RGhXLWxqS2VjeVFsSkFqM2plV1RpQXh3MU41Rl9kTngzMk5hbzlrSGl5em11djJ6TW1MdWdiMGV0QkpXb285d3hBV2hEVkxicnNMWjNObnkzYUpHT2pBTHBwb2pvbUwzTm12TnRLbklva01qS1lUb21Ob0J6VlVmZ3hrVWZJSTJjN2JvWXZ0akx1ck85dVhyaVRaVF9tVnhSaXNJZ3pSTDhGSDhRVFRqMFRfbWFNblF1ajk5NGttbmdmaWxaaDBLTlM0LW9INVBKY29sVDh0cUxBa2c0TVlUa0E0SWhO?oc=5",
+          "description": "Top Democrats slam ‘Trump’s failing economic agenda’ after weaker-than-expected jobs growth – US politics live The Guardian Weak jobs report is yet another headwind for Trump and Republicans ahead of midterms Yahoo Finance Opinion | The Trump economy: ‘The greatest story never told’? The Washington Post Please, Please, Please Don't Show This Post About Trump's Economy To Your MAGA-Supporting Famil",
+          "pubDate": "Fri, 02 Oct 2026 15:00:59 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "U.S. economy added 29,000 jobs in September, signaling a slower labor market - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdldBV2dkOERyMjBlNF9VaTVoZUU4dWdudEhJemtrZjYwLU5YcXBuLUcyNEtscFRrOUVHM3RLYlBXd0VPdUZTd1hkeUx1LVdRMDVjSDNyYUJtNWhPYXljUjNjVlpJTk5pWFBNYUFRVGZvMmd5MVZaNHNDNUltNjM3bkJSeTNGbS1aUmhsSndQdmhfWkJhaVZKcGxkcWtGaWExenF0LUt4MjR6QU0?oc=5",
+          "description": "U.S. economy added 29,000 jobs in September, signaling a slower labor market The Washington Post The US economy added just 29,000 jobs last month and the unemployment rate ticked up to 4.2% CNN US hiring slows and unemployment ticks higher with a month remaining before Americans head to polls Anchorage Daily News U.S. labor market slows with midterms on the horizon NBC News Gold gains as US jobs d",
+          "pubDate": "Fri, 02 Oct 2026 15:37:45 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "US jobs market sees sharp slowdown ahead of midterm elections",
+          "link": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
+          "description": "Unemployment rose slightly as American employers paused hiring with midterm elections just a month away.",
+          "pubDate": "Fri, 02 Oct 2026 14:30:48 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "graviano berlusconi società affari",
+      "label": "Graviano rivela: nonno fece società con Berlusconi",
+      "n_items": 3,
+      "n_sources": 3,
+      "category": "general",
+      "macro_area": "societa-diritti",
+      "richness": 2,
+      "score": 17,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Giuseppe Graviano, 'mio nonno fece una società con Berlusconi' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbXNQdHNmRURFN0p1cGQ5TnZ5Z0dueXpOYWdlYk92cnoxa3UwYlhLZ1hPLUlFb3VTekpCMV80ZmFIeFNlMHVCQ0R6ckVVUlpiUEZIVFdBbk1GVUQtN3B5VkRZcjlfZWJIQ2puYlFqV01iSmlhR21zaUxNVmlHUVlrRWNRNGNZczEtRlVOVXFOZXhfRHFaU2VCYzJ4YWZaQUdUZDJrbWh4VmMtSTIyQW1LZmlFcWR1Z0U5MGpCYVVaeERIRFk5d01CUTQ1elRkN0NLaTR0UkJ4T0N6WXdyTG5EV1JZNUktZnRt?oc=5",
+          "description": "Giuseppe Graviano, 'mio nonno fece una società con Berlusconi' ANSA Marina Berlusconi, 'processo Baiardo monumento all'ipocrisia giudiziaria' ANSA Il boss Graviano: \"Mio nonno fece una società con Berlusconi, investì 4-5 miliardi di lire. E fu lui a presentarmi il Cavaliere\" Il Fatto Quotidiano Giuseppe Graviano su Silvio Berlusconi al processo Baiardo: 'Fece società con mio nonno' Sky TG24 Giusep",
+          "pubDate": "Fri, 02 Oct 2026 12:56:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Giuseppe Graviano: 'Mio nonno fece una società con Berlusconi'. L'ira di Marina: 'Ipocrisia giudiziaria'",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/02/giuseppe-graviano-mio-nonno-fece-una-societa-con-berlusconi_fd295e4f-87bd-4e98-ba02-157182314b64.html",
+          "description": "'A fine anni '60, lo seppi da lui dopo morte mio padre'. Incontri col Cav e carta privata",
+          "pubDate": "Fri, 2 Oct 2026 17:38:13 +0200"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Il boss Graviano: \"Mio nonno fece una società con Berlusconi, investì 4-5 miliardi di lire. E fu lui a presentarmi il Cavaliere\" - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNZzdjZkdlaG5YczFEQVRBUDBIb3pvRDV3YWJ3LUdoYktkTmpUUGg2UG11VDVUZzZQdF9rc04xQ0R3YWFQT1liNjFRQ1RxcHdDc1czSlFnYXRNM2VNZzVjNmRTVi1qc0VnbXd2V0VZNlZYWmVvTDZjYkVVYldTc0pzZnp3RUR3X2hKVWNicGFjUzRfR2lQMVJpLWV0ay1vNkhOdXFYbzMtYzFWRDJ0NW9ZcGxnZXJucTlPUV9QMUtsX1FBcFJqT2R4dTZ4N0FhVTI5SWtoNEFkb3djakUxeHVZSVpCS2ZVU3h2LU5kUXdBOU5sNGIxNjVES2tjM0lWaE5UV2xrR3ZtVQ?oc=5",
+          "description": "Il boss Graviano: \"Mio nonno fece una società con Berlusconi, investì 4-5 miliardi di lire. E fu lui a presentarmi il Cavaliere\" Il Fatto Quotidiano Marina Berlusconi, 'processo Baiardo monumento all'ipocrisia giudiziaria' ANSA Giuseppe Graviano su Silvio Berlusconi al processo Baiardo: 'Fece società con mio nonno' Sky TG24 Giuseppe Graviano: \"Mio nonno fece una società con Berlusconi negli anni 7",
+          "pubDate": "Fri, 02 Oct 2026 15:33:06 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "inflazione eurozona settembre energia",
+      "label": "Inflazione eurozona al 3,8% a settembre, pesano costi energia",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "L'inflazione nell'Eurozona balza al 3,8% a settembre: pesa il caro energia, in Italia frenano i consumi - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNRTMzREg1amhjU0E2SmFDT0dWUEg0N1VnWUVwTmlsNXllWEhGOHh2aW1NaFAyXzVfdXdMUGd6NXUwbERQRDdueXdXSTlWbEN3RERyY09TSmRfVEVScXVzLUNWSUVSc0Jub3UzWHVObExvdFpfQ2JwN2RhQS1EWEF0UFUtYUhXbTdqMURSN19iTnMxbEFZQjNqSEs2VTJ4NjBudlZwZmpvY2ZiOTBGUkJ6UE9BTzFNME1EN1Iyd0RRZDRGUkNWUl9NS1JNNHNxb0dENVpEbWhWbTV3MkEtdEp6M0JPS3FXLXJqTjNlUUdWV2ZtbWc3MWVJZ2JIVHNGb19vdXV0LTl1QVdOSVY1X2RMMTRjcVN6SjQzQi1XcjVyY2FoWks10gGqAkFVX3lxTFB5QkVDS3EzaHJHOFdLZEJ5SWstUGxzQm80cGxkOXc3d21IdnQ1RTlTbmJKMWVaNU9xRVhRMnlENHdHQl9nMmJiSUIxdnpfaVVyZm1iSVRXeHVBVUFtb0Q5MmZ4VjNFNFVLeUxKdVdrU0RoRlg5QmFxWENiRE8xaVcwV085SlFKazdnOWdnYml4UUZmY3JOaVR0LVZCNWxZXzlublBMcFllUFBQcU91dHVlYVE5c1Q1dlFvcmNqOG9fNURRTFhUWUR2X2l2OHQycklmdUlKUEhPQVVoTU9KR3llQlZGcC1lbERJS1NZT2tWYjQtZlFJUDhRUkwxRWNwUzU4dGFkSFJrWkJFdjlRVmJMRURtQ2VRV1diNHRhcTUtaE5waGZzMkZCWEE?oc=5",
+          "description": "L'inflazione nell'Eurozona balza al 3,8% a settembre: pesa il caro energia, in Italia frenano i consumi Corriere della Sera Unione Europea, Prezzi consumo (YoY) in settembre Borsa Italiana Eurostat: +3,8% l'inflazione stimata a settembre, al top da 3 anni: +0,6% su anno RaiNews Inflazione nell’eurozona al 3,8%, aumenta la probabilità di rialzo dei tassi di interesse Morningstar A settembre nei pae",
+          "pubDate": "Fri, 02 Oct 2026 11:10:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Occupati negli Usa usa sotto le attese, cala la tensione sui bond",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/leconomia-usa-crea-a-settembre-29.000-posti-di-lavoro-sotto-le-attese_bbaec089-3944-4503-9a1e-70d4689a718c.html",
+          "description": "L'inflazione in Ue balza al 3,8% spinta dai costi dell'energia",
+          "pubDate": "Fri, 2 Oct 2026 16:50:10 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "etiopia eritrea conflitto diplomatico",
+      "label": "Etiopia ed Eritrea tagliano legami, conflitto nord escalation",
+      "n_items": 3,
+      "n_sources": 2,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 2,
       "score": 14,
       "cooldown": false,
       "items": [
         {
-          "source": "ansa-tecnologia",
-          "title": "L'IA può portare all'estinzione, l'allerta di decine di ricercatori",
-          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/-lia-puo-portare-allestinzione-lallerta-di-decine-di-ricercatori-_f2907c59-c053-4af7-b511-410cbb0bc59b.html",
-          "description": "Tra i firmatari gli ad di OpenAI e Google Deepmind, ci sono anche italiani tra cui l'esperto di tecnologie dell'informazione Luca Simoncini",
-          "pubDate": "Tue, 30 May 2023 17:55:51 +0200"
+          "source": "google-news-it-world",
+          "title": "In Etiopia erano già tutti pronti a una nuova guerra - Joseph Abraham - Internazionale",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaUtBODVYOVI3VjdQOHdkUzB0aEs5RFZMaDBzWkZKZ3FPRm41M1MwYW5ZS2JYZlZ0NjVvSXZEQ1pKaDNXelhXaVhSOXVQQ01abGRCVG10NkxFMEpQZ1ZDM3pTeUNubXcwNTJFTjRBUV8xak5uMzBiN3A5TGd5TFVDeGJ3VkpxNkxXN1Z2LWF2Z0g1Vm5rLUYyR1JUYXNndkNCVTNoeE9xU1ozRFI4X3ktRlNVNXlBMTFV?oc=5",
+          "description": "In Etiopia erano già tutti pronti a una nuova guerra - Joseph Abraham Internazionale Crisi Corno d’Africa, l’Eritrea tronca i rapporti diplomatici con l’Etiopia Il Sole 24 ORE Etiopia: l’Unione africana convochi una sessione d’emergenza Amnesty International Italia Il Papa: nel Tigray si scelga il dialogo, il conflitto aggrava solo i problemi Vatican News Allontanarsi dal precipizio Internazionale",
+          "pubDate": "Fri, 02 Oct 2026 13:31:21 GMT"
         },
         {
-          "source": "ansa-tecnologia",
-          "title": "L'allarme dei big, 'rischio estinzione con l'IA, è come le pandemie'",
-          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/lallarme-dei-big-rischio-estinzione-con-ia-e-come-pandemie_3afde5e5-7bcf-464e-b3aa-aee6577a9b23.html",
-          "description": "Nyt riporta lettera di 350 leader industria, anche ceo OpenAI",
-          "pubDate": "Tue, 30 May 2023 14:12:41 +0200"
+          "source": "bbc-world",
+          "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+          "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+          "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
+          "pubDate": "Fri, 02 Oct 2026 10:04:56 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Explosions heard in Ethiopia's capital after drone flights banned",
+          "link": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
+          "description": "It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups.",
+          "pubDate": "Thu, 01 Oct 2026 15:05:36 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "inflazione italia settembre energetici",
-      "label": "Inflazione Italia sale al 4,2% a settembre, spinta da prezzi energia",
-      "n_items": 1,
-      "n_sources": 1,
-      "category": "economia",
+      "keyword": "eni prezzi gas luce sconto",
+      "label": "Eni taglia prezzi luce e gas fino 30%, sconto carburanti agricoli",
+      "n_items": 3,
+      "n_sources": 2,
+      "category": "energia",
       "macro_area": "economia",
-      "richness": 3,
-      "score": 13,
+      "richness": 2,
+      "score": 14,
       "cooldown": false,
       "items": [
         {
           "source": "google-news-it-business",
-          "title": "Istat, con gli energetici l'inflazione a settembre vola al 4,2%. Rincari sul carrello della spesa - RaiNews",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNOXVreF9XVE12a2t5bk83WU9yZkQ4YnVzRlFEVWd2Q29pUEN6NUc3SXQzUDlaQ0dmQkRXbG5FQy04cGhLLVJHQjhMSWVGeld4ektuV2VUV1pWdmVXQjhkdEJ0cjRTM1dHNmRyQVBpM3VyWVVubUJ3cmw5Zm0wYy1aNUxBUWtmdnhNcllSbGNnYzZxS3lVOUx2dTN3WEFlTDZ3d1VPLTlYUGNMRVg4U2hEb1hoWjJJR05FY2V5amhPQmh3UG9jVEVERHRhUkxkenVEWkxmc3JmV2wxempVOXJWSHB2bUQ4M0JWbzVFbUFVNU10RmI4RHdMVEhndG1pYmwtZ3g00gGIAkFVX3lxTE1LM0N5d2pSdmd5dnozbFJxd3R2Umt6LXdLb2lmUUFSaTVYaldfaUpqREJUZzRtVExVS1RFd011QzRtUUFkRjFVU0t5MmdiZlRuY1NjdENpYzF5a0FFTk5pVGZ5NlZQeVl4MnVjQXRZd1hLM1pTQWZQaWxrOHlaVnpKZWZWbk9ObF9UOG5sWFZ0LWlURGRhbFFxanQ1bWpNX0JsRlB0SG9INHltYnR3a3hySFN2Q0JRdThzb3JUME90OEdqTHJqWmxNUjZnY0lXSE9TQlhPQ2g2M0pfa0hFWVVOX29RR1NuWEE1SHc3Ym5JX0R2ZGdXNjhlMk1ReXR5cTB3VlNNa1REcg?oc=5",
-          "description": "Istat, con gli energetici l'inflazione a settembre vola al 4,2%. Rincari sul carrello della spesa RaiNews I complici (inconsapevoli) dell'aumento dei prezzi Corriere della Sera Lusetti (Confcom): “Prossimi mesi difficili, aiutiamo le famiglie” la Repubblica L’inflazione in Italia non era così alta da tre anni Il Post Brutta aria sulla manovra. La mina dell'inflazione fa saltare i conti del Governo",
-          "pubDate": "Thu, 01 Oct 2026 03:42:00 GMT"
+          "title": "Eni taglia i prezzi di luce e gas: arriva lo sconto del 30% - Facile.it",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSVZ1ZllrMUFld2lwNjhGZmlfWXR0dUREWUxrbW53cFdJYWY5UTM2TnlDd0xRR2swcmJ1cEFSeEVyNnFtZ0tQeGxmOU82bklGY3phUGZxLXFJN1FTRFM2cnMxd09sODQ0TzExNHA3Qnh6NXFaODBZMGg5Q1lBU0E5RnR2VVU5Vzh1emswSGcxSy1GV2FqOW9lZnd0ZWVpR1AwUWhKRWl6dW9ZcC1H?oc=5",
+          "description": "Eni taglia i prezzi di luce e gas: arriva lo sconto del 30% Facile.it Bollette gas di settembre al prezzo più alto di sempre (anche del 2022) e in tre mesi + 30% Corriere della Sera Bollette, per i vulnerabili rincara anche il gas. A settembre Arera alza i prezzi del 12,7% la Repubblica \"Prezzo del gas? Una stangata\": ecco il nuovo aumento di settembre del 12,7% Il Fatto Quotidiano Gas, bolletta d",
+          "pubDate": "Fri, 02 Oct 2026 02:46:35 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Eni: da oggi -20% prezzo gasolio e benzina uso agricolo e pesca - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM0VEd2FUYWVRMFdqQlBrSkxCdlA4QzJTb3g5UU16MXdvbkpFeFc5MDJhWHhZd1pkeFJVVmRXdV90bWw1MV9QdjNIRkZFcEpLa3VFaDB3c2tNYldNR3BKUmxORm5kM24zdkhIU1BTTXN2dXhFZTVFWFhkTmFKeWlFT3BTSF9qLWR2b0xhUS1VU3hkeEhHVGV3Vi1UbWRLWGs?oc=5",
+          "description": "Eni: da oggi -20% prezzo gasolio e benzina uso agricolo e pesca Sky TG24 Prezzi carburanti in Italia: Lazio e Liguria guidano il calo, Bolzano fanalino di coda Il Sole 24 ORE Eni annuncia lo sconto sui carburanti anche per pesca e agricoltura. Continuano a scendere i prezzi medi al distributore Corriere della Sera Il fronte anti-rincari cresce: Tamoil dice sì al price cap Virgilio Benzinai con il ",
+          "pubDate": "Fri, 02 Oct 2026 07:59:05 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Eni, via allo sconto del 20% per mondo agricolo e della pesca su gasolio e benzina",
+          "link": "https://www.ilsole24ore.com/art/eni-via-sconto-20percento-mondo-agricolo-e-pesca-gasolio-e-benzina-AJEL9NWB",
+          "description": "Eni annuncia l’estensione della riduzione del prezzo dei carburanti commercializzati da Enilive al mondo agricolo e della pesca. La misura, operativa da venerdì 2 ottobre, permetterà di acquistare gasolio e...",
+          "pubDate": "Fri, 2 Oct 2026 07:26:00 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "legge elettorale riforma italia",
-      "label": "Legge elettorale supera primo voto in Parlamento",
+      "keyword": "trump ai super intelligenza slovenia",
+      "label": "Domini sloveni .si boom per 'Super Intelligenza' Trump",
       "n_items": 2,
       "n_sources": 2,
-      "category": "general",
-      "macro_area": "societa-diritti",
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "«Super Intelligenza» di Trump, i domini web della Slovenia ora valgono oro. «Qualcuno vicino al Presidente fa milioni» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQUVJjY1FfOGJQazNtWjNjbG83NmloWS01RV9Lb3k5MXVYWDRmM3ZncXpxYVJ1YU1pNjJ5eENhY3BIdmx3eU5pZlV5WkhNdldmMHBWZnJ2N1RqTnd2Z0JXaEVFaTBueWJQVnFVTnRLRC1yVFZ2czNqWXpfTTBfazRMWmtURU1EcWhNSG1XSW0zdVpGMEhsYTVpRy1qMFZpOEZUbWJ4Mkt0R1NENHF6YWh0Q2IySDlzdFBzc0gzSWZOTmFCakc1ZEd5MWpyNjlTTEtIejNTUnNpNHZnQXBYTFEwWlN5bEV6YUVnSm4yOTFyUlk5MGhELWhyQzZtNVZNWmMxYld4bHRaTURCMmZVS0RtVlV1Mzg4d2ZYR0NMYlEtaW04ejZjaHZZNUxIR2Npbm5V0gG2AkFVX3lxTE1MckNBNzhmN3VQSnVFNEo2QVloM0ZMMVRyY3VOUlNhRWpSWjVBQU1VaHhvVFpDTUdZQU45Y2o1M3o0RndwaGdnVnBidmx4cVpLaENXVEU2UjZRYVUxa1JtVmoyaHBON1RtcldEaWVXaFVERFluM25xd0xWaWgwamt5NGdSZklyWlJlelJrNU9mdWNVQ3NEUEdtaVAtdy05eHphcHRpdl9kcVNuNms2UXZaMHNrbGJIUmJCaVA2SGhuVU4tUU5xNjVwSGM0YnVEZWpoZ00zcDN5ekVndzFhZzhkREhfRzA4WEhpRXJDQTB5cTFMR0dkU3RRYVVLcDhvcU5XZ0lxSm1vQW1kR3liVUlrTFM4R3BkTWxRWTNvLUlGVjhDNzJpMEd6aHNwY3l2THlVN3dhN1E?oc=5",
+          "description": "«Super Intelligenza» di Trump, i domini web della Slovenia ora valgono oro. «Qualcuno vicino al Presidente fa milioni» Corriere della Sera Il summit fra Trump e i giganti dell’AI, così prosperano gli oligarchi americani La Stampa Trump non esclude quote del governo in OpenAI e Anthropic: sull’esempio di Intel Il Sole 24 ORE E quindi ora dovremmo chiamarla \"Superintelligenza\"? la Repubblica Trump h",
+          "pubDate": "Fri, 02 Oct 2026 07:19:00 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+          "description": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
+          "pubDate": "Thu, 01 Oct 2026 11:37:46 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "italia scostamento bilancio cdm",
+      "label": "Governo decide scostamento bilancio in Cdm, tensione Salvini",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "economia",
+      "macro_area": "economia",
       "richness": 2,
       "score": 12,
       "cooldown": false,
       "items": [
         {
           "source": "google-news-it-top",
-          "title": "La legge elettorale supera il primo scoglio, la maggioranza compatta nel voto segreto - ANSA",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNd2RtelpETFVuS3JlbHh6U1BCTTNYMDFZWk8yREMzclJWUzYxd2p6cDhpaEV1S2hPWnpGeWlVVjl3T1lIUnYwLWo4cGtOWEVvTUlBSm9zR2RQZVdJdk0xNU93WGh4cGZTbHNNazJneG15VmhWU3RkN1NVZXhJY3FMSFVlbXM2Q1JNd3VleUVPT0hjMTE5eTdhTTJIbHRvUmNWU2JpQy1TV2J1S0V6U1VBMm9aRGhpbFNGS2F2V0t0V1lvT3ZWOURBQmluRkJZSTNJQTlPTWswM2xFSVpGdGg2LU9RTnFwS2JhZktjRHNaR1J6djZUNVA0eGgwX0tXRmFOT25iT0xQeXpfSkXSAZACQVVfeXFMTUgwRUEtR2tYUmgzVmRxR0kzNlc5ODZaU2dhRTdVeGdSN0N1M0xVVWpsaGNFY1VfczFoZy1aeWd6Uy12TmRJeFgxX3NGczdBcGNYcXNLbUdVOTU3VGkwV3R3a1VueU5KWUZTdXFrbXA1bTFoblR1M3Q3SldIOFltSzFWOVZHZXpZSXRVOTJwQnJTa28xWlFSbThKSVJGRVUtZHNHUWsyUlhkZFVCZWMtdmhYVVRIWEtVV3FHeHA0NjlsVDB3Zkh2dW5ZbkVSVk5nTllTVG94dXJnYkFqZHFjME5FR1NPbC00d1pmMkt1RmpTeDlxc3UtUEZPVS1GTG5CVXpxQjVhOW1kb012b2I1bUk?oc=5",
-          "description": "La legge elettorale supera il primo scoglio, la maggioranza compatta nel voto segreto ANSA Riforma elettorale verso il traguardo ma l'iter non si conclude col voto RaiNews Melonellum, la destra supera il primo voto segreto: respinte le pregiudiziali di costituzionalità la Repubblica Veleni e sospetti. FdI in fibrillazione sulla legge elettorale, nervosismo degli alleati, nessuno esclude nuovi fran",
-          "pubDate": "Thu, 01 Oct 2026 20:02:00 GMT"
+          "title": "Tajani: 'Già oggi in Cdm decideremo lo scostamento di bilancio' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdXIzQ2c2WWltTExkNGZQSmxMeGRScEV6Zmd1M1UyU1BzN0xpUWNScWVUNHFzV3pXRW9Mb0VPUTZUNmVqQXE0d0wzX0M3RVZ6NzdQTTRzV2pyNUtzTjFtSjBHQm1Qb0FQSGs2UFN2NmpidVR5dzJ1T0ZfbTRjelZkdnJxZGdDN01wWHVsLVp2ckRtSXNtMW41QjV1cUthUHdrZDhjTnF1WUp2M3Y3Z0VfUExQemxJRDVlUUJSbkhPTS1SUGFSNUR6dFJUSFBnWF9aS2s4NmlkdFIwTnFQZXFpQXEtMXFVTUpNdmY40gHwAUFVX3lxTFBZSWxXYlpCNUoyN2hmR2cyYjVyeUFLZXByZ2NDQ3h1dWtoa1E0RzFiRWJhNDNSZVozTDlYZlUwQXl4R1R5c3Fydm9yMlJ5MVJuQkJROEdKVlBOVVdiUGdGd3BLYlRvMDBmN0VUQXhsRFh0anlDXzVhbnJFNGZoc1VfZHp6b0t5WjdFRkY2bnZnUEdWc2NVNlVETDk1NVVtUmtCUVppdHA1MTlwQTBQYVZMSE1rRmxmR1hjbmVwc2xyQnZpaV92UVI3MHl4OHFSdEo0VXV2N2V3YWU4R2JwTTBDVmhsV2xpT0VKRngzWFhmZw?oc=5",
+          "description": "Tajani: 'Già oggi in Cdm decideremo lo scostamento di bilancio' ANSA Tensione tra premier e Salvini prima dell’ok allo scostamento. Ma la difesa perde 8 miliardi la Repubblica Manovra, l'annuncio di Tajani: oggi in Consiglio dei ministri scostamento di bilancio da 7 miliardi RaiNews Il Cdm alle 18, aggiornamento dei conti e relazione sullo scostamento ANSA Manovra 2027, alle 18 il Dpfp in Cdm. Taj",
+          "pubDate": "Fri, 02 Oct 2026 09:15:00 GMT"
         },
         {
           "source": "ansa-homepage",
-          "title": "La legge elettorale supera il primo scoglio, la maggioranza compatta nel voto segreto",
-          "link": "https://www.ansa.it/sito/notizie/politica/2026/10/01/la-legge-elettorale-supera-il-primo-scoglio-la-maggioranza-compatta-nel-voto-segreto_afc2a0af-fc7e-4d3d-97eb-4fcafc26cbb0.html",
-          "description": "Ora faro sull'8 ottobre. Sulle pregiudiziali FnV col centrodestra. Le opposizioni: 'Sarà battaglia'",
-          "pubDate": "Thu, 1 Oct 2026 22:02:21 +0200"
+          "title": "Il Cdm alle 18, aggiornamento dei conti e relazione sullo scostamento",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/il-cdm-alle-18-aggiornamento-dei-conti-e-relazione-sullo-scostamento_8463ed4f-c10a-459f-8be8-a56ee2f0b01a.html",
+          "description": "Crosetto: 'Comprendo le ragioni degli 8 miliardi in meno alla Difesa'",
+          "pubDate": "Fri, 2 Oct 2026 16:22:03 +0200"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "stellantis auto italia crescita",
-      "label": "Mercato auto Italia cresce al 9,9% a settembre, Stellantis leader",
-      "n_items": 2,
-      "n_sources": 1,
-      "category": "economia",
-      "macro_area": "economia",
-      "richness": 2,
-      "score": 10,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "ansa-economia",
-          "title": "Stellantis, crescita a doppia cifra a settembre e nei primi nove mesi dell'anno",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/stellantis-crescita-a-doppia-cifra-a-settembre-e-nei-primi-nove-mesi-dellanno_6618ff13-7a0c-4bdc-a09d-a142a5de8ee6.html",
-          "description": "Pandina e il brand Fiat confermano la leadership del mercato auto",
-          "pubDate": "Thu, 1 Oct 2026 18:39:34 +0200"
-        },
-        {
-          "source": "ansa-economia",
-          "title": "Il mercato auto Italia cresce del 9,9% a settembre, Stellantis del 12,6%",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/il-mercato-auto-italia-cresce-del-99-a-settembre-stellantis-del-126_97fafc30-b6dd-4626-ab50-b9cb09c15652.html",
-          "description": "Nei nove mesi l'incremento è rispettivamente dell'8,7% e del 13,9%",
-          "pubDate": "Thu, 1 Oct 2026 18:39:54 +0200"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "quantistico calcolo supremazia",
-      "label": "Computer quantistico risolve in 19 secondi problema che richiederebbe 100 anni",
+      "keyword": "steam roblox sicurezza minori",
+      "label": "Australia: piattaforme gaming hanno gravi lacune sicurezza minori",
       "n_items": 1,
       "n_sources": 1,
-      "category": "tech-ai",
+      "category": "tech-policy",
       "macro_area": "tech-ai",
       "richness": 2,
       "score": 9,
       "cooldown": false,
       "items": [
         {
-          "source": "google-news-it-tech",
-          "title": "Computer quantistico esegue in 19 secondi un compito che avrebbe richiesto oltre un secolo - Tgcom24",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObTZ6UkdRRk1SS3lyVk4tZzZZRG9MUXdHUEhJanFwVDlvZjBWX3BhdG1XNERoeVJnREgtbGZMX290QXNjUjFweDhrYklsTUg0ejBvcFZ1OU9SVV80al9BRzhybkRlUnF6MGpndWdjVlRkdnI2NlVNRGl1cHAwQmdENGV6RWE3aU1GdFpUTFNObEQxQjQ50gFoQVVfeXFMUE9rb2ItR0xSWkwxbWZuTWR4OTNVY3FKanBWTGtlc2dLdXJSbWdmOU92M2hZUXl3WUVaU2U5U0xHN0hIRUdyQWlPZmV5VVFrdFZramFsSjNEM2w1N2FnVE9jQlJFWGZFSTM?oc=5",
-          "description": "Computer quantistico esegue in 19 secondi un compito che avrebbe richiesto oltre un secolo Tgcom24",
-          "pubDate": "Thu, 01 Oct 2026 05:00:00 GMT"
+          "source": "bbc-world",
+          "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
+          "link": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
+          "description": "Fortnite and Minecraft also told to 'lift their game' by online safety regulator.",
+          "pubDate": "Fri, 02 Oct 2026 04:21:31 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "stress termico europa caldo",
-      "label": "Copernicus: estate record per stress termico, colpita metà dell'Europa",
+      "keyword": "west nile italia genova",
+      "label": "West Nile, paziente intubato a Genova, Bassetti: no terapia",
       "n_items": 1,
       "n_sources": 1,
-      "category": "clima",
-      "macro_area": "clima-salute",
-      "richness": 2,
-      "score": 9,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "ansa-economia",
-          "title": "Copernicus, stress termico record in estate. Colpita oltre metà dell'Europa",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/copernicus-stress-termico-record-in-estate.-colpita-oltre-meta-delleuropa_fcd0e1d4-7e5a-4bd5-a52a-5915f06c1f01.html",
-          "description": "Flussi di fiumi più bassi degli ultimi 30 anni",
-          "pubDate": "Fri, 2 Oct 2026 04:01:21 +0200"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "permafrost artico metalli tossici",
-      "label": "Artico: disgelo permafrost rilascia metalli pesanti nei fiumi",
-      "n_items": 1,
-      "n_sources": 1,
-      "category": "clima",
+      "category": "salute",
       "macro_area": "clima-salute",
       "richness": 2,
       "score": 9,
@@ -602,17 +637,17 @@
       "items": [
         {
           "source": "google-news-it-science",
-          "title": "Artico, lo scioglimento del permafrost ha rilasciato metalli tossici nei fiumi - ANSA",
-          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPalpLc2t6bmNfRWpIbG1abklQWjdKdnhoSGMwbTZBOWJ3QktUOGdaMUhOOUxpV25VQWZxQ2IySlIyR1hTTGFlLS1sSEdacUtydlU2ZDFDY2I4SDVWc0NNUkZjcjF4dUlhOGlUbDJiSUVNNU1ZUTh4Y2R0MlFoOGVzTktxZ0RFQlp1TFpueFNMMGV4N3VicHAxbVFrSHpseDI0YkthR0hValVoVWhoTzd0aHQtbjFpZE9DMkdOeXNURVpqc1l5QmNmZC1Ga2UyZVRDU1hHR3p6VkpuZE1mR1hIN1dUM0xfS0pUdU0tbjdTSm5idnVWZE83ZExFQjlaU0dZUkozS1NlTnpwNHZnRHpRNUZB0gGXAkFVX3lxTFA3YnVHWHlPWmg0Xzg2YThMdUNIREtPSHFzZUxhdUhYQy0wWi1sVTZxQTF4SENNbE1VN00ybmU5RlI2Yzk5dGIxbFpITDYwZGkzZGFLYko5OGhaYVBXTzRJVl9sRDBKYmVUdFlCZk56VzJZLTl2a2dLbEQzOTB4VEU0dzhLOWtOQ01PcFdtZldKa2lBZWdDSkJLQW9kWFczMy1ieGoxTDJhV1dtUm1DSVptc1IzVHRRcHZIUjRTeFFRaV8tRko5QTZVejFWekwxLWpRZl9OVzFRb2ctaVdVTFpMQUoxbkVld3VscUV6MGkyMlB4U284TlpMUGlZemMyVmxMTllwaTRxMEIwMmhOdklkaDVjVVk0Zw?oc=5",
-          "description": "Artico, lo scioglimento del permafrost ha rilasciato metalli tossici nei fiumi ANSA",
-          "pubDate": "Thu, 01 Oct 2026 06:03:14 GMT"
+          "title": "West Nile, genovese intubata in terapia intensiva. Bassetti: \"Non esiste una terapia\" - Primocanale",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMUoyUW1PUkFNZm5YMVlnUGQ3eXVaR3JaRWthNjhnQzY4Wm9GN1VGNjB0YjhDNHBlSWQtNGdycldEc1VlM1llQnBtUFdURVZMQlZtdERtMjh1c0Y1emM2cnVxVDVqY1FRa1BhUUxPOS1JeWpsNjN0Sk45dVpKWnI2M3g1VEp5NmlHM0ZFaWNzLVVFSWFsa3IxOEFjQ0xJakxLRnBEVGw1SlBMc25tUS00SXVob2w2cy03VDQ00gHAAUFVX3lxTE9rb3BrN3NwWHlCM3Q4VElJaGMwOTQ5eUljRFRlemVBN2lhUkY4WDlraFdiR0Jobk1wRllHTUVUclA5TExVSXVkdENPUmF3V3VCUnZFdEpnQmFlZ00zV3lybDY5ZnU3b2FxWHk4VHlUdUFBUENZbklNQlRnYUtzNjdtYnlyMkotSGhyazBEbjF2ZUF4SmxvdUdjZ21ZNnRKcmpxVWVvRTJDM2NRMmI0LTQyVWh5RW5IbTR4YWdKZVFjZw?oc=5",
+          "description": "West Nile, genovese intubata in terapia intensiva. Bassetti: \"Non esiste una terapia\" Primocanale",
+          "pubDate": "Fri, 02 Oct 2026 13:28:59 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "bronchioliti vaccino neonati copertura",
-      "label": "Bronchioliti: solo 50% neonati vaccinati, appello pediatre per copertura totale",
+      "keyword": "diabete tipo 2 retatrutide peso",
+      "label": "Retatrutide riduce peso e glicemia nel diabete tipo 2",
       "n_items": 1,
       "n_sources": 1,
       "category": "salute",
@@ -623,59 +658,38 @@
       "items": [
         {
           "source": "google-news-it-health",
-          "title": "Bronchioliti, vaccino solo a un neonato su 2. Appello di 200 pediatre a Decaro: “Sia per tutti” - la Repubblica",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQT19iUFdEdTRTWXhnUU54MF92XzRweWRIeFJEMWt2MGtQNFFDYUdtN0piY2tHQ05YdkRiOVVVcWhHcElJVDZVU3djZ3VBZnBXMHRsY3pPdjVMWWN1VHhkckRYRWlJVVQxUWF3VHpQSkxGbkhGazZWQXJ4b0VNZkdyNVBZM0EzOF9PdXd5Z21BZjBfYTBQMUJIRlZ0U0Y3elZlRGdVTUFuWk0tdWRmcFJMcEIyd3pWVGE3TDhGWERQamU3WnpUYWRJT1dDcFRFNi1NWU9ZeGxmQkxreU1zVno0VGloaDhwZkXSAewBQVVfeXFMT3cwbHRtVl9lR251Z0w5X3pEaXNCdEh1amNXZHllVjBzVUhoN3gzcGlQZktiMlpIQ01QVjAzaThNcjAtc3E0TmdXei1Ib3BCYkdjMHhFTjZ5YzJPU21hbkNjd1FvaU9jemwxc1Y3Nk5BcDQwdUVoaDhydnZzRUgxc1c5YThuaEtqRHRJWm05Wm01SXZOSmc3OHphRFQzbjF1eTYwSVJCQnNYVjNwcFlIZnljeFFZVVB2LUZ3a1Zub2NmQm9ocEhNOGZhTWZyOHVLTENLRndfcDRwVVR6dHRfbFJpOG0yaDRNRjIycG8?oc=5",
-          "description": "Bronchioliti, vaccino solo a un neonato su 2. Appello di 200 pediatre a Decaro: “Sia per tutti” la Repubblica Virus sinciziale, sos pediatre: \"Metà dei neonati non coperti\" RaiNews Virus sinciziale in Puglia, è bufera sulla profilassi per i neonati: la Regione rassicura e replica ai pediatri FoggiaToday - cronaca e notizie da Foggia Virus sinciziale e bronchioliti, in Puglia \"metà dei neonati escl",
-          "pubDate": "Wed, 30 Sep 2026 17:08:48 GMT"
+          "title": "TRIUMPH-2: retatrutide riduce il peso e migliora il controllo glicemico nel diabete tipo 2 - CardioInfo",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbFozT0h5S283ZEdzVlNNVkJtclJUbVdQTmpIVjlLODdDT1FzT2huanBLcXhmT3dtMXhGSTJjWWFSaUszWXR0VU9QbWkxRFZjanYyeG5uYV9jbDBrNFNQNko4R010eUpuVVFlM3JrOVpHMHNfX2M1cXRISEJjMDFWNE5ZSjA5bkJSblVvdnplTzYwRUlJY1pkcmJHaTdfR3UtYzFpWEYtWXNJaFZ3d1Ryek5ZTk11SGFXUkdLQ3A0bHJQOXJiVkZTZEdmOWo?oc=5",
+          "description": "TRIUMPH-2: retatrutide riduce il peso e migliora il controllo glicemico nel diabete tipo 2 CardioInfo Retatrutide, nello studio TRIUMPH-2 perdita di peso fino al 20,8% sanitainformazione.it Fino a dove possono arrivare i farmaci per dimagrire Il Post EASD 2026. Con la molecola sperimentale retatrutide, quasi un quinto del peso perso nei pazienti con obesità e diabete T2 Quotidiano Sanità Diabete e",
+          "pubDate": "Thu, 01 Oct 2026 06:14:10 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "sciopero generale trasporti scuola",
-      "label": "Sciopero generale: stop a treni, scuola e sanità",
+      "keyword": "vaccino influenzale lombardia ottobre",
+      "label": "Campagna vaccini antinfluenzali parte in Lombardia da 12 ottobre",
       "n_items": 1,
       "n_sources": 1,
-      "category": "lavoro",
-      "macro_area": "societa-diritti",
+      "category": "salute",
+      "macro_area": "clima-salute",
       "richness": 2,
       "score": 9,
       "cooldown": false,
       "items": [
         {
-          "source": "google-news-it-top",
-          "title": "Sciopero generale, stop a treni, scuola e sanità (ma non solo): gli orari e i settori coinvolti - BolognaToday",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONXZXM3JHRml1THBCNHlCM1M4Z1NGd05Sa21fQ1MzVklkR1ZuSDJSeHFZSzRHSXBvLWx5NFhTdmdmaENpcXVEcjJiMlRTcTl0cFJDa2ZCVjFwNFFiTWloOUVUYlpyYTY0YU9DaG1GeGRCVnhOTkVqem5OZ2R0elQ2eTVwNzdqYkU?oc=5",
-          "description": "Sciopero generale, stop a treni, scuola e sanità (ma non solo): gli orari e i settori coinvolti BolognaToday Sciopero 2 ottobre, dai treni alla scuola: tutti i settori a rischio stop Sky TG24 Sciopero generale. Il 2 ottobre 2026 stop per treni, scuola e sanità, ecco orari e settori coinvolti la Repubblica Ottobre mese di scioperi: chi si ferma a Genova e in Liguria GenovaToday Sciopero scuola doma",
-          "pubDate": "Fri, 02 Oct 2026 03:11:15 GMT"
+          "source": "google-news-it-health",
+          "title": "Vaccino antinfluenzale, via in Lombardia: dal 12 ottobre per tutti - L'Eco di Bergamo",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdVFkRFFmcGdmUDlQWUU2ZGVtTXlxZ2Q4bldoMFJxS0piaXZZV1NDSU5QSjJtWGFZcE5HaW9hY0Qta2ZtRko1a010ZGdhQm9nY1BNZm52NXhBNHNfaVNzVXVmcWo4ZXBxSHVaR0RCbnZXTkNpTUdIcXRBWlVXTFJsRGdUNjJ3bF82emJqLU96aUhMQkZuMmNsUy16dHBfU3ZxNWFJUklUTHkwaWp1UnhpaFdTaHhQYmVHcF9DOTJscnJ5dGZzTlItOW5HMGw?oc=5",
+          "description": "Vaccino antinfluenzale, via in Lombardia: dal 12 ottobre per tutti L'Eco di Bergamo Lo stadio di San Siro si trasformerà (per un giorno) in un centro vaccinale MilanoToday Vaccini, un docufilm contro le fake news per lanciare la campagna antinfluenzale ANSA Vaccino antinfluenza 2026: il clima mite cambia la tempistica. I consigli dei medici La Gazzetta dello Sport Influenza, vaccinazioni al via. I",
+          "pubDate": "Thu, 01 Oct 2026 14:40:27 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "istat occupazione disoccupazione agosto",
-      "label": "Istat: ad agosto cala occupazione, disoccupazione giovanile al 20,3%",
-      "n_items": 1,
-      "n_sources": 1,
-      "category": "lavoro",
-      "macro_area": "societa-diritti",
-      "richness": 2,
-      "score": 9,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-business",
-          "title": "Istat, ad agosto -5mila occupati. Disoccupazione giovanile sale al 20,3% - Il Fatto Quotidiano",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbjJSM1ZxRDItUjIxakZMeUwwRlktZ2VkYUdiM2Y0dzk2cHE1TjF5QWJQWDNCRHNDengtdjFWUElOQlhCMmdMZ0NvNDdCb3dsV28yZGlmc0pqV0FWMGdwbEJ3b25qUFlxdVpKMWF0QTVrMnljOE0ydWZreUJmd3RhRGdJY1plRHlreTkyTVB3YXhBS200cHhZTmMwNW5WT21VUHVEcmVhRlJhQWI5MXRwUGVaM0FxcHhTZEZ3ai1QdUsyNm1maWtJdGwzUUNWc2NoRkQzZ3hn?oc=5",
-          "description": "Istat, ad agosto -5mila occupati. Disoccupazione giovanile sale al 20,3% Il Fatto Quotidiano Italia, Intesa: occupazione sostanzialmente ferma da 4 mesi, partecipazione torna a crescere Borsa Italiana Ad agosto occupazione stabile, in aumento chi cerca lavoro ANSA Occupati sui massimi storici ma in frenata. Ecco cosa succede nel mercato del lavoro Il Sole 24 ORE Il bicchiere mezzo pieno del lavoro",
-          "pubDate": "Thu, 01 Oct 2026 11:38:21 GMT"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "trump ia openai anthropic",
-      "label": "Trump vuole quote in OpenAI e Anthropic",
+      "keyword": "openai ricercatori dati sensibili",
+      "label": "OpenAI licenzia ricercatori per gestione informazioni riservate",
       "n_items": 2,
       "n_sources": 2,
       "category": "tech-ai",
@@ -685,18 +699,18 @@
       "cooldown": true,
       "items": [
         {
-          "source": "google-news-it-top",
-          "title": "IA, ora le azioni in Borsa fanno gola a Donald Trump: \"Non escludo quote in Anthropic e OpenAI\" - Tgcom24",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUm1MVlNPc2N1UHljS0o0c01wWjZYRHlyd3B3QkZMcVcySjlLbkYxTDBNN01oMFZVZFY1SW1OZjBWcDZQcHE5dVNwZUVSSWJscXZWUmtrelZOSGZLVmI1bzFtVVNjZWptVXhYLXN5OFFraEgtdmJwWjFXZGV1dk5RY1VyVjA1U1RKX0tGaWZvY0tNdDNkcmhHeWdSRUFUTENjNDNkV0s1UdIBaEFVX3lxTE5FY2JOZWVnbl9sZ0FSdFFxanhXdHZWcklqcGhISXJjczBXbkFqVFktcVRqUmdPd3pKTWZBTjZFaFVyZXRrR2VhUUVvUEFiMHloeU9HVnpQR2xRblJIU0d1cElUT3l4WDNi?oc=5",
-          "description": "IA, ora le azioni in Borsa fanno gola a Donald Trump: \"Non escludo quote in Anthropic e OpenAI\" Tgcom24 «Super Intelligenza» di Trump, i domini web della Slovenia ora valgono oro. «Qualcuno vicino al Presidente fa milioni» Corriere della Sera Trump non esclude quote del governo in OpenAI e Anthropic: sull’esempio di Intel Il Sole 24 ORE E quindi ora dovremmo chiamarla \"Superintelligenza\"? la Repub",
-          "pubDate": "Thu, 01 Oct 2026 20:47:03 GMT"
+          "source": "bbc-world",
+          "title": "OpenAI fires workers for 'mishandling sensitive information'",
+          "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+          "description": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+          "pubDate": "Fri, 02 Oct 2026 08:20:32 GMT"
         },
         {
-          "source": "ansa-mondo",
-          "title": "Trump non esclude quote del governo in OpenAI e Anthropic",
-          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/01/trump-non-esclude-quote-del-governo-in-openai-e-anthropic_2b7fb9f6-4539-43f6-9628-a4ff77c9be14.html",
-          "description": "Sull'esempio di quanto fatto con Intel",
-          "pubDate": "Thu, 1 Oct 2026 22:18:42 +0200"
+          "source": "google-news-it-tech",
+          "title": "Wsj: OpenAi licenzia tre ricercatori per la gestione di informazioni riservate - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYzNNVFFxdV9iaEZDV2hwRFJjLVQ0bFhVaVNzWE52MFJCbzZuYmN6WDM5UEl0bHhqbmRhVlktTUE5cHZSdWw1Vy00YzJ2YmRybDNpX2JjbXJHTmxKYV9OcXgtajlaV2NLTVdNbTNPSlc0Nl9fTlpGZFl5bkRTOWJIQ2x1Q3ZhMzAtUG9Na2pHNUY2dk5kSjBEZ191U3N5QTYzQU1FTzBHa1dubEkzZHJIZXI3MTF4Ynl3R3fSAWhBVV95cUxQZi1TMWgwaDl2VEt0ckN4cl84T2NMeGJqTkFpUFBPS3J4NmtORldrUUo3QVNjcmlwUmY0Nm1sWFg5WDg0M0ExenJrUWFQRF9CWEJTM2hJcUhyY1ZUUkM5d3lkdkRYeXVyUA?oc=5",
+          "description": "Wsj: OpenAi licenzia tre ricercatori per la gestione di informazioni riservate Tgcom24",
+          "pubDate": "Fri, 02 Oct 2026 04:46:45 GMT"
         }
       ],
       "clustering": "claude"

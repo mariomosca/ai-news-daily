@@ -1,0 +1,768 @@
+{
+  "date": "2026-10-05",
+  "top_topics": [
+    {
+      "keyword": "brasile ballottaggio bolsonaro lula",
+      "label": "Brasile, ballottaggio tra Bolsonaro e Lula il 25 ottobre",
+      "n_items": 10,
+      "n_sources": 6,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 4,
+      "score": 76,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Bolsonaro avanti su Lula, 47% contro il 45%, il 25 ottobre ci sarà il ballottaggio - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSXZwelhBQ0REczBBb2pvb25DeHRYcHY1UW9VY1RqSEthdHpCaVdaZnh0SXlHenFJdjhNZ3l1TFExWks2RkZVenVJX0Z3aHFZNVZ6Ujl3bkU3aXZTNWpBdE5NS095OGtQU2RRTC1EeXhUa2xqR3g5VXpCRjV2RlI5eGF3SzhZLUh6SUxKVTFTUTRjWFQzR2lvX0lGUjNHZ3ZyWEhpTWdkNWdaMVJNOUdrNU9GTFI5SXBtRWw5N2hxV0lib0dIOWZ1ZE10Smk0ZzFPa1c3cWZfODRFb0ltYkVzTjZoX0RIMGprb0FzMEFYeUdVdHIzdXFpWk1waEYyMknSAYQCQVVfeXFMT3Vla0VxQ3ZnMGxlNExaWnJSX1JGOVE4cUVmY1BUWWhfdmhMaENFODBfSnFaYklVbnlPT2lCdEw1OTZXVE80VUpWb1FuTDFyT1ZiRW03bGYtYXhSLU1kOWt4NHRYeUY5dWx2S3VmWG4wMW56WXBaY3dVMTZBSWJEY1J3WmNhMWIxdUlaa25udDlRQ0ZQV0pvVEdiLW85R3pQejIxQklXU0lLWTRPelRSeEdabURKd0VPMUNnVGN1SXBTVWd5Q25aS0lKTW9vcElyeTZtdFhNWjFxMEF1VEJyd19FVkwzRHk4clJyN3RoSHFoY2RrRVRTcHI2Nk5XSldnYVlld3M?oc=5",
+          "description": "Bolsonaro avanti su Lula, 47% contro il 45%, il 25 ottobre ci sarà il ballottaggio ANSA Elezioni presidenziali in Brasile: Bolsonaro jr e Lula vanno al ballottaggio Corriere della Sera Bolsonaro avanti su Lula, ballottaggio il 25 ottobre ANSA Brasile alle urne, Bolsonaro sfida Lula. Inchiesta della polizia federale sulle ingerenze Usa la Repubblica Le due facce del Brasile ISPI",
+          "pubDate": "Mon, 05 Oct 2026 01:31:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Elezioni presidenziali in Brasile: Bolsonaro jr e Lula vanno al ballottaggio - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQ3haSERGY2pSbDdLaU5PYS1wM0JjUFNOakxfS09tb1NXbE1ndEhKQUVaVURjVFMzd2NOcUdNcUJ5bXBGM01tSFZDS3lSaHM5VVBBalRJMmdKODFqSkJkNUJDdGFDU0VaNkNEcy00ZnkyNm5wZDlDM3ZNeUpyR0RHbmFUbExXaWlsMlUxdFp4amt5dS1pYklQUkVJNk41TU5hX1lRbkNKT3Z6TkZjTm5XSTZLUEhOaGJmSjJKVlJnN1QtNGtGUFQ2dXNkRGVCUdIB0wFBVV95cUxNVzlWZTlrVGF4MmRHSllNNTdoYzJ3LUNDUVE1NWFvWlhiLTViajVhSFhEdHVUdFhudm5rMnRORzh6QUYtUE5Pei1LRDZJR3lPbFZVYU50WWx4dVJ4R2EtNjdGSjJSc3pkUllkdEYxeHgxVGZ5Wm50S1hkYUc4bzBya2xyN1dNS0pJNEY5UjcyYlRtdnMxaDFHWlFCaHR4blk2Ykl4X2RXN3dIR2ZQYkVDSm5kZVl0REl2U25nblV1Zm1RVHkxMmpJTkNVS0JzMHhpY09N?oc=5",
+          "description": "Elezioni presidenziali in Brasile: Bolsonaro jr e Lula vanno al ballottaggio Corriere della Sera Bolsonaro avanti su Lula, ballottaggio il 25 ottobre ANSA Brasile alle urne, Bolsonaro sfida Lula. Inchiesta della polizia federale sulle ingerenze Usa la Repubblica Le due facce del Brasile ISPI Elezioni in Brasile, scrutinato il 30% dei voti: Bolsonaro resta sopra il 50% Sky TG24",
+          "pubDate": "Mon, 05 Oct 2026 00:00:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Brazil’s presidential race goes to second round as Flávio Bolsonaro leads incumbent Lula - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdU1sSmNra0JOMDFWSFR3WjdMdFBkVjZqZ1N6RXhVU2FFblZVWXY1UTlYWE8yeE5VeDh6c3pWeVQ5bk0tY0EzYk5hbUk0ano0X180WjNjXzhRSWxIUFlIV2hGNHAzSXRFQVAta2FFRWFwQlZWcUdCMWtHWi1UYkQxbzhBYThoT3NraDlGVV9iZ2lXWENzbzhxYXE0aThYT0tNVHVIeEc3X2p4dHhwWVNYZ01OaENrWXVqVFBMczFB?oc=5",
+          "description": "Brazil’s presidential race goes to second round as Flávio Bolsonaro leads incumbent Lula The Guardian Bolsonaro beats expectations in Brazil presidential vote, faces Lula in runoff Reuters Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round BBC Lula Is the Brazilian Left’s Last Hope—And Its Biggest Problem WSJ 2026 Brazil Elections: What to Know as Lula and Bolsonaro Fa",
+          "pubDate": "Mon, 05 Oct 2026 02:39:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Bolsonaro avanti su Lula, 47% contro il 45%, il 25 ottobre ci sarà il ballottaggio",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/05/bolsonaro-avanti-su-lula-47-contro-il-45-il-25-ottobre-ci-sara-il-ballottaggio_bef2f600-8fd3-4a6b-8402-5f40da9c9da1.html",
+          "description": "Il Partito liberale (Pl), principale forza del campo bolsonarista, si avvia a essere protagonista del rinnovato Senato brasiliano",
+          "pubDate": "Mon, 5 Oct 2026 04:15:50 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Media, Lula e Bolsonaro andranno al ballottaggio il 25 ottobre",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/05/media-lula-e-bolsonaro-andranno-al-ballottaggio-il-25-ottobre_67647ec7-b482-4a8b-9f89-4dc50173087c.html",
+          "description": "A metà scrutinio Bolsonaro al 49%, Lula a 42%",
+          "pubDate": "Mon, 5 Oct 2026 00:25:32 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "A circa 40% dello scrutinio Bolsonaro avanti su Lula, favorito al ballottaggio",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/05/a-circa-40-dello-scrutinio-bolsonaro-avanti-su-lula-favorito-al-ballottaggio_dc25203e-11c5-4e1c-8c67-f13b317bb729.html",
+          "description": "Flavio al 50,4% anche se mancano i voti delle roccaforti di sinistra",
+          "pubDate": "Mon, 5 Oct 2026 00:24:08 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Presidente corte suprema Brasile, 'elezioni integre sono motore della democrazia'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/04/presidente-corte-suprema-brasile-elezioni-integre-sono-motore-della-democrazia_22743e63-84f1-4013-bc6a-fb20b07d85ad.html",
+          "description": "'Il voto è esercizio della sovranità popolare'",
+          "pubDate": "Sun, 4 Oct 2026 17:35:23 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Flavio Bolsonaro vota a Rio e attacca il governo Lula",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/04/flavio-bolsonaro-vota-a-rio-e-attacca-il-governo-lula_bdd5eef9-9b13-4ae5-bbf7-441f2e2c145c.html",
+          "description": "Il candidato invita i cittadini ad andare alle urne e invoca una svolta politica",
+          "pubDate": "Sun, 4 Oct 2026 14:06:47 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "ucraina ponti dniepr russia attacchi",
+      "label": "Russia intensifica attacchi ai ponti ucraini sul Dniepr",
+      "n_items": 7,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 4,
+      "score": 51,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "I russi attaccano i ponti sul Dniepr, Zelensky punta a indebolire Trump – AGGIORNATO - Analisi Difesa",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2lHMUI0SW1LRzhWVXluRC14Y3lFMktoU1BVVUQzTnRha3RRSDNnZWxyOTZtNEF1a2FoNFdrQjhOQlFOOUNMQlN1Z1ZsQU9IQW44azk1Vm5PNnBpVlNBbk84eUJkb1ZPaE40NHNlWXl0ZHprRWZoTXhTUWxrMnNJMVRBT0xBMERCc081V1lSMzBsZFJaemkzT0JkWGdvN3ZNNHRFYW04MWxDdkV2?oc=5",
+          "description": "I russi attaccano i ponti sul Dniepr, Zelensky punta a indebolire Trump – AGGIORNATO Analisi Difesa Guerra Ucraina - Russia, le news di oggi. Doppio attacco russo su Kharkiv con missili Banderol, un morto la Repubblica Ucraina, raid russi su Kiev durante la visita di Merz: colpito il Ponte Nord. Il cancelliere: 1 miliardo di aiuti militari Il Fatto Quotidiano Zelensky ha detto che l’Ucraina intens",
+          "pubDate": "Sun, 04 Oct 2026 10:42:00 GMT"
+        },
+        {
+          "source": "google-news-it-top",
+          "title": "Ucraina: Merz a sorpresa a Kiev sotto le bombe, 'Putin fermi la guerra' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaGtEZTVPWDdhNDhvb29tdmxiQUFRODRQMlA0ejdwTUhnQXRYQmxfSzFfajJ1amJSbXBaZzFVQjlxVHBIel9fY2xOV25BdkhwZ0hWMDFGem5rRnJrb1JoWTFRcTFiYVpLQ2QxNzNHMm1BZ0NRS3JjYUhXLU1CTHZ4OEtTUm1XNE1VZUtyZ0VQbUNVWlRJRWxrV0wxZUp5c2JMQmdaSDdLYmh3MGtHRjFNNHRWU212andyVGUzaG54TW1QRU1GNHkyV1YyZWlzNUtNbldGNEpBTjBUMTJWVl9lOFltVFlMWE11a1VUYUlsN0HSAfYBQVVfeXFMTVJvUUhVTDBHbnIxMzhTWm5sSURSYXViMjByYTUxdC1obk9zNkpReVNEYVRBZGMtZU1MdEdOdjFBazhxWEVLMTl2QXZtVWgyMndsTGh1dHJkb3V5dTlINFZlVFlZel9faVFQVVUzVzVWbERIaUVvclVRR21GWW1oMllFNjFSLW4ySVl1a1dOT1pDNXlhVDVJUW5vLW9JWXhmMnRCdmxjRnRYNDUtSENWTU91OS1mSTREdnZ3S3NzUjUxTzFYcnBTd01KT2daMEFIR3lJX0J2cHZZZ0VSNXBoekdYbFNUR1NDOHVmZldWZ1NxbWdvbFl3?oc=5",
+          "description": "Ucraina: Merz a sorpresa a Kiev sotto le bombe, 'Putin fermi la guerra' ANSA Il cancelliere tedesco Friedrich Merz è arrivato a Kyiv per una visita a sorpresa, poco dopo c'è stato un altro attacco russo Il Post Merz a sorpresa visita Kiev: «Putin fermi questa guerra» Corriere della Sera Merz a Kiev accolto dai droni russi: colpito un altro ponte sul Dnipro la Repubblica Merz a Kiev sotto le bombe ",
+          "pubDate": "Sun, 04 Oct 2026 21:28:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Guerra Ucraina - Russia, le news del 4 ottobre. Colpito il Ponte Nord in pieno giorno mentre Merz è a Kiev - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTGVvUVR0U3pUYkxiMkdFTTZkM3hHd1NtbFBJZ2M2Y2N0OEZXVmhlb1RYX1Y2UGwzOVVHdFhEYWZGdjN4SDltTEVvUWJTYmx2OGhST3Bpd3dwZVJqVTh1aVJya1lFdjlWWUxha1JrUE9oS2hfNDdwb0lsbEk1MDJUVFo4TU1iUXJob09aY1d3YS1WSGo3OG5DdVBR?oc=5",
+          "description": "Guerra Ucraina - Russia, le news del 4 ottobre. Colpito il Ponte Nord in pieno giorno mentre Merz è a Kiev la Repubblica Guerra Ucraina - Russia, le news di oggi. Doppio attacco russo su Kharkiv con missili Banderol, un morto la Repubblica Ucraina, raid russi su Kiev durante la visita di Merz: colpito il Ponte Nord. Il cancelliere: 1 miliardo di aiuti militari Il Fatto Quotidiano Zelensky ha detto",
+          "pubDate": "Mon, 05 Oct 2026 02:09:35 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Doppio attacco russo su Kharkiv con missili Banderol, un morto",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/05/doppio-attacco-russo-su-kharkiv-con-missili-banderol-un-morto_34346129-cdff-4a84-bd71-615ca2ea8bb7.html",
+          "description": "Colpita una infrastruttura energetica nella regione di Poltava, 22 mila senza elettricità",
+          "pubDate": "Mon, 5 Oct 2026 05:27:06 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Mosca, intensificheremo gli attacchi contro le infrastrutture ucraine",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/04/mosca-intensificheremo-gli-attacchi-contro-le-infrastrutture-ucraine_4de26cfd-532b-4ed7-9ad8-4ce3d71d2a76.html",
+          "description": "'Come risposta a Zelensky che minaccia più attacchi alle raffinerie'",
+          "pubDate": "Sun, 4 Oct 2026 12:32:41 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+          "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+          "description": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
+          "pubDate": "Sun, 04 Oct 2026 12:09:04 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+          "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
+          "pubDate": "Sun, 04 Oct 2026 14:25:32 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "carburanti gasolio benzina rincari",
+      "label": "Caro-carburanti costato 4,7 miliardi in 6 mesi agli automobilisti",
+      "n_items": 8,
+      "n_sources": 4,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 4,
+      "score": 48,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "Stop allo sconto per il gasolio, poi accise mobili",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/10/04/domani-scade-lo-sconto-sulle-accise-per-il-gasolio_664823dc-12a3-42e9-851b-f10f32a6c4dd.html",
+          "description": "Il caro-carburanti è costato in 6 mesi 4,7 miliardi agli automobilisti",
+          "pubDate": "Sun, 4 Oct 2026 13:31:20 +0200"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Price cap carburanti in oltre 10.000 distributori, Urso: «Un esempio in Europa» - HDmotori",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TTjVUR2JQZGhKaEhUdV9rOGhSSmxwNXRCQ3J5M204SGlSdWxaWEVsRmNFWjA3eWFGYTN2MWRxSDEySFdtbnZkc0tyU2FWcEQ1TDJibklnSDFvUGNTeE9EdVUyWGZpbVBOVnlyb3hQeldTZkVRMzl6eW1n?oc=5",
+          "description": "Price cap carburanti in oltre 10.000 distributori, Urso: «Un esempio in Europa» HDmotori Stop allo sconto per il gasolio, poi accise mobili ANSA Mimit: price cap in più di un benzinaio su 2. Ma il conto per gli italiani resta pesante la Repubblica Eni amplia gli sconti: ecco chi ne beneficia adesso Virgilio Lunedì scadono gli sconti sul gasolio, cosa può succedere adesso Il Sole 24 ORE",
+          "pubDate": "Sun, 04 Oct 2026 19:16:48 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Pioggia di rincari per la guerra in Iran, per una famiglia con due figli +1.415 euro - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTHA0b3lDNmUzdTN3bVBPZkJEaVpuNzJzTHU2WGxJOWdwbXhiN1pJZW00N0U3Rno0Z3FLZ0huTmZxaDBRT2o5Y1pZTVFxU21FS21SdHBEQlZyYmdiOWlMVG9mWHY3R3BXWkFjM2ZYTDVrT1J2Vlg5Y0NaNkQ1SkJvVGw1eTRVLWV4ZHF2STRIemNabmQtUVhF?oc=5",
+          "description": "Pioggia di rincari per la guerra in Iran, per una famiglia con due figli +1.415 euro Tgcom24 Da carburanti a energia, l’impatto della guerra in Iran sugli italiani Sky TG24 Cna preoccupata: \"Famiglie e imprese sotto pressione, extracosto da 16 miliardi\" Il Resto del Carlino Caro-carburanti: mazzata sui bilanci italiani, da +667 euro per pensionati a +1.415 per famiglie La Stampa Bollette, costi tr",
+          "pubDate": "Mon, 05 Oct 2026 00:19:16 GMT"
+        },
+        {
+          "source": "google-news-it-business",
+          "title": "Per i polesani mazzata da 53 milioni - Polesine24",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcFdTRml2LUtnN1EyRERLU0FoQWszWU5jOV9XdFE3SnR5emY4WVpsUUpGMmszeVVGZWlSS3RnakNDRUdGSFdjTzFMelFBdjZlOC03Q3hueUxFMkthaFUtRVp1ZmNPaTkxcnEwQkZKVkZrV3RGaEJXc0pGT0h3bjFQRmFPNVB3T1dKcmRGaTVWck1KR1BZQ1pJaFhB?oc=5",
+          "description": "Per i polesani mazzata da 53 milioni Polesine24 Il caro-carburanti è costato in 6 mesi 4,7 miliardi agli automobilisti ANSA Caro prezzi, fino a 1.415 euro in più per una famiglia con due figli: il conto di carburanti, bollette e spesa Corriere della Sera Oltre 7,3 milioni, stangata ogni mese : \"Una forte pressione\" Il Resto del Carlino Carburanti, in provincia la spesa sale di 88 milioni in un ann",
+          "pubDate": "Sun, 04 Oct 2026 04:20:15 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Il caro-carburanti è costato in 6 mesi 4,7 miliardi agli automobilisti",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/10/04/il-caro-carburanti-e-costato-in-6-mesi-47-miliardi-agli-automobilisti_5aaba82b-e7f8-4b57-8307-9329a3e23e03.html",
+          "description": "Adusbef, solo a luglio-agosto spesa per benzina e gasolio salita di +1,7 miliardi su 2025",
+          "pubDate": "Sun, 4 Oct 2026 10:44:26 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Mimit, prezzo medio self benzina a 2,049 euro al litro, gasolio a 2,244 euro",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/10/04/mimit-prezzo-medio-self-benzina-a-2049-euro-al-litro-gasolio-a-2244_6cf3e3cf-9261-448f-9511-ea3823e0638f.html",
+          "description": "In città lieve calo per la verde e il diesel",
+          "pubDate": "Sun, 4 Oct 2026 09:30:35 +0200"
+        },
+        {
+          "source": "bbc-business",
+          "title": "UK diesel prices top £2 a litre for first time, RAC says",
+          "link": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
+          "description": "The rise in global oil prices has been pushing up the pump prices of petrol and diesel in the UK.",
+          "pubDate": "Fri, 02 Oct 2026 15:50:05 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Why UK diesel prices have breached the £2 per litre mark",
+          "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+          "description": "The average price of a litre of diesel at the pump stands at an all-time high of 200.01p, according to the RAC motoring body.",
+          "pubDate": "Fri, 02 Oct 2026 13:38:22 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "trump intelligenza artificiale czar clayton",
+      "label": "Trump nomina capo intelligence Jay Clayton come zar dell'IA",
+      "n_items": 5,
+      "n_sources": 5,
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 4,
+      "score": 41,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Da Wall Street all’intelligence, chi è Jay Clayton: l’uomo scelto da Trump per la sfida dell’AI - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxON3NPOXVFay1OQTM4Y1FQN2loVTBRejVtOHdlWG8wYVB5VnJOV2xEbTRiRkFhUGUwUDR1dnZ2Mlh4Zm9RTzNWMkxBbmdHVG94WFVGRmxJWG5nV0FTb3U2elFQaUZMTnRoaWFuNnlWZ3dwTVp3dEZmZGk3dDQwRVYxYy1QUXNUUE1JcTJJeF9FZGNHa2hiT1d2R2syS3NkampncF9DVldFc0VpLXdiY1d2a3VGMVBDY05qWWloLTRoenBxUnhOZ0lPMHhhWEFyNHZwQjg2azIwX25odm9VdElqZVFlNW9ibS1sNDNYelprVFhhd1pGT081dzdDS1hGWlNWR1I3d9IBigJBVV95cUxQb2t5VmhmS0xnVjN1RmFsQVV5Y3BJR3ZJMFgzVUJKOWRqRjJOSWk0THFTa3k2eVhLOW5fMUgybzVibmhfQ3F0UUhVS0RNSUVuRV9FMENmdk85UzlIejlVZnpJM0lyTmpKeU1LWGlkSzV4ZWtjcEJVcG5jTGJxNWpzRl83RmthZ2M5R2JTOE9qdV9GcGtKeHJCRGJBWmFyNUc0S0pMZmxVdWZFUTJMYWFnWFMyd1hfY2t6bms3SFdHdVp0a3RLZDFnclVkY3RMZmoxbjlSX2ExTjgwa2otMnpIaEY4N2hXMTN4U25TX0JtTkx3SnA1YWNnb3dPSkFwTHV6Q1ZMVGJQcktpUQ?oc=5",
+          "description": "Da Wall Street all’intelligence, chi è Jay Clayton: l’uomo scelto da Trump per la sfida dell’AI RaiNews Trump crea una task force per la «Super Intelligenza»: a guidarla sarà il direttore della National Intelligence Jay Clayton Corriere della Sera I domini internet sloveni sono diventati improvvisamente molto richiesti Il Post Trump affida l’IA al capo dei Servizi: Clayton nuovo «zar» della Super ",
+          "pubDate": "Sun, 04 Oct 2026 16:03:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Trump names national intelligence chief Jay Clayton as new AI czar - NPR",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XcWRJLUVQZ3ZVTDhReFJONG1jSmtyWkRKbDNWeGJLVEpuRHZNdGUxa0JjN0I5Vnc3S1VVakJaLWlaZS1oT3RhTXA0LWhHdEczTUd4bTlTa2lCU2NHMzRBaG9DTFBENUwtNlFkeE5HdkRWNDVodWFoUnhn?oc=5",
+          "description": "Trump names national intelligence chief Jay Clayton as new AI czar NPR Exclusive | New AI Czar Unveils Goals, Members of White House Task Force WSJ Trump announces members of ‘Super Intelligence Force’ to coordinate AI policy NBC News President Donald Trump announces creation of 'Super Intelligence Force' AI task force ABC News - Breaking News, Latest News and Videos Trump announces leadership of ",
+          "pubDate": "Sun, 04 Oct 2026 18:36:48 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Trump nomina il capo dell'intelligence 'zar dell'intelligenza artificiale'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/04/trump-nomina-il-capo-dellintelligence-zar-dellintelligenza-artificiale_e9df1d80-fe9c-470d-b7be-cb3297c9d844.html",
+          "description": "Il tycoon annuncia la costituzione della 'Super Intelligence force'",
+          "pubDate": "Sun, 4 Oct 2026 15:12:20 +0200"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+          "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+          "description": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
+          "pubDate": "Mon, 05 Oct 2026 03:37:41 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Trump nomina il capo dell’intelligence “zar dell’AI” e lancia la Super Intelligence Force - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbGxVTkZfVzRjUXJNZXkyMHJlNzVmLW5iUEU4S0NoRnNobWhucHlIMEJhUlRJd0FVNzdnem9aOTR2ZVNzWFdRX0g0QTFYQWR6eElqaUlEUE1PQm9DRVl3eXJHTks4cW1BUnFMRzZ3N1lXV0lEQjlZUXNHNGdJSVYtWUlxdFAxaWZQV2h2UmZMMDIxTjRHMU4wMHlvSGpXVDdLVEdhZk9rWTE2X1BCZVhVVXBXeVJqLW44eS1oOWdBUlpWRElmZnpUbWtDb1Zzd0F1MTFKMEgxWFZyczhjRlFVTGR5WDY4Y3hwM2p1aUJVbmhMUllLa3BEVE1mNNIBgAJBVV95cUxQYXM4eFBnNldCVVNkVWc4My05ei04ZFFfbmVvRmh6YTJiM0szX0w2Vll0RXpERWV5dnRhNHpacHRTWGgxOFZtSXk5V2YwSENSVmtUTGZ2QWhFWktNcW9yMW5OazlZR0xpaVJEb3REWDczRXVoajZiWG95OV9kRU9xck5NUHg0VDQzNUpuZU9CQWtQMmxabHFEYlFxUlg0X1poZnRFeFp5dk1idk9odE9yS1ZkTlV2REZUZlFpZ2x2MHFpb3h3Z19zMEt0NUQxNDZGbTByTzg4Ql8tTGMwRkdRYjFXcTQ0Q0JuSllqczNkU2JrRXQ4OHc5S2xTU2dtVDdq?oc=5",
+          "description": "Trump nomina il capo dell’intelligence “zar dell’AI” e lancia la Super Intelligence Force RaiNews",
+          "pubDate": "Sun, 04 Oct 2026 13:19:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "iran houthi aramco attacchi",
+      "label": "Houthi rivendicano attacchi a impianti Aramco in Arabia Saudita",
+      "n_items": 5,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 37,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Guerra Iran Usa, Houthi: \"Colpiti impianti Aramco a Riad e nell'area di Khurais\" - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EWFJwZS00dmFyS0lWMnVMVmdZcGZnakR0Qk5kcjFVNEdxRm1TQTdNOGFUSWdLRy1sWWhYa1ZDdzkzRjJlMjJ2bXd2Sm5Nai1fblRxSkdLZnJYejdBcXV3UlhoVWdvRE0zRkpYX3ZrZmwzWDAyYTBHeVBXUQ?oc=5",
+          "description": "Guerra Iran Usa, Houthi: \"Colpiti impianti Aramco a Riad e nell'area di Khurais\" Sky TG24 Nuovi raid tra Houthi e sauditi. Riunione segreta a Camp David ANSA Forti esplosioni a Sana'a, le forze yemenite confermano: colpiti obiettivi degli Houthi - Una compagnia irachena trasporta 2 milioni di barili attraverso Hormuz RaiNews In Yemen infuria la battaglia per Taiz il manifesto Yemen, media: Houthi ",
+          "pubDate": "Sun, 04 Oct 2026 21:59:58 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Iran, Ghalibaf: \"Hormuz resta chiuso se non soddisfatte nostre richieste\" | Attacco saudita in Yemen, esplosioni vicino aeroporto di Riad - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQmYzWnluaWpyc2VEbTZLR3R1cjhZMjlYV0xmNTNvc3IxUWhkMzlsbGF0WDNyLXktTWMwT3VmMWFxdUFQczNjN2xjMnJwYVpGR2dHdm9zSUJCTVFtamdDcFVDSURQY3RvVmpKRGRENUpZM3JCNUJvNF9QUEF4UnpvODJaV2hrNlZrQ1NuR1c2SERmWkk1TU1RS3BqdF9jUWhFcGl0bDRyZ2dQYWdDUGF30gFoQVVfeXFMTTBTN01kQXo2U0QyeU1lSko0VmxIVFRMYWpEM2FWWFhRVUd0M0xWWEtydWFHVjhQZjIxTWlOc1NIZmF3ckF4S0dMTVBtZ2FqdW5hOXJiaWZYbS1mbW5sSlE2MnNEX2NIRU8?oc=5",
+          "description": "Iran, Ghalibaf: \"Hormuz resta chiuso se non soddisfatte nostre richieste\" | Attacco saudita in Yemen, esplosioni vicino aeroporto di Riad Tgcom24 Guerra Usa-Iran, le notizie in diretta | Media iraniani: esplosioni a Qeshm e Sirik, spari contro navi a Hormuz. Si dimette il ministro del petrolio iraniano. Teheran: «Hormuz resta chiuso» Corriere della Sera Iran: \"Lo Stretto di Hormuz rimane chiuso se",
+          "pubDate": "Sun, 04 Oct 2026 18:11:00 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdC1jenhXS0RLMXFaaTNaUTVsTVJrcDNLdDZKLVR6SWVYOEdRNWdqRjktRktWSEFRTG1DbEhYd3ZvSGpGd1ZtTEVNNDdMd09SQ3pXdHJMMXlodWVQRjlySVBpNXVlTlRZUDVDdlpjTk12TEw4WVhUaU9rODlnV3RRVUR1OE1UVlJVUjlKa0NNV2MzN2dQUldvUzFn?oc=5",
+          "description": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates The New York Times Saudi-led coalition pledges support for Yemeni offensive against Iran-backed Houthis CNN Yemen’s Saudi-backed government launches military drive to retake all Houthi-held territory The Guardian Yemeni government launches offensive to seize all areas from Iran-backed Houthis Reuters Yemen government announces major operat",
+          "pubDate": "Sun, 04 Oct 2026 21:11:10 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Houthi, colpisti impianti Aramco a Riad e nell'area di Khurais",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/04/houthi-colpisti-impianti-aramco-a-riad-e-nellarea-di-khurais_8f6cb6b3-b147-40e1-8750-9f2b2edfd9cc.html",
+          "description": "",
+          "pubDate": "Sun, 4 Oct 2026 16:04:19 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+          "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+          "description": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
+          "pubDate": "Sun, 04 Oct 2026 16:51:30 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "flydubai copilota attentato tel aviv",
+      "label": "Copilota FlyDubai tentò schiantare aereo su Ben Gurion a Tel Aviv",
+      "n_items": 5,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 4,
+      "score": 36,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Cosa è successo sul volo Flydubai, minuto per minuto: ore 9,15, il copilota chiede di pregare. Poi l’attacco con l’ascia, i motori spenti e la caduta a 970 chilometri orari - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ01DeXJzd1RLX0tNUzBQMEZXcnNPVWxPdnotWVVrSHlfaTVtTHZzU28zRlU2cm5DcEx2MWhFeHE3bXI1OEF5NWVJZzlEUnpraUd5TjlIbHhjOUNHZDRsN3A5TDhRTGhhWGZ3YUQ4bXAxUF9HZzlvSGhHcTBXUGlKeXRDbDZaVDBkMmVvNS1JaGZCRUhabjROZ2J1b1g?oc=5",
+          "description": "Cosa è successo sul volo Flydubai, minuto per minuto: ore 9,15, il copilota chiede di pregare. Poi l’attacco con l’ascia, i motori spenti e la caduta a 970 chilometri orari Corriere della Sera Abu Dhabi accusa il copilota, 'usata l'ascia per atto terroristico' ANSA Non si sa ancora nulla dei piloti che hanno fatto atterrare il volo di Flydubai Il Post Flydubai, media: copilota voleva schiantare ae",
+          "pubDate": "Sun, 04 Oct 2026 18:25:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "FlyDubai, “il copilota al-Hammami voleva fare schiantare il volo sull’aeroporto Ben Gurion a Tel Aviv” - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT2pEdDI5RHJtellsS21TaGpHTy0tRHRhWkd4V1pLZFM2WnNzQTZCN1FMNXhqT2d6TXJHXzQyaF9NemhpT084ZG0tUTFQX01yR18wNnZKbjlFTTd0ZS1Qb2h0WU9EaF9SRkJhb2hOaGJnSld6V0FJVm95MTFOQWpJdWQzUHlQd1N0alo0S0laS09vVWhrMEt1ZjBYY2lvQjA4UTdHcG4wRzdOendleVNsOGJSRnBsMGFkamZBUHI1TjhETjNWT0E?oc=5",
+          "description": "FlyDubai, “il copilota al-Hammami voleva fare schiantare il volo sull’aeroporto Ben Gurion a Tel Aviv” Il Fatto Quotidiano Cosa è successo sul volo Flydubai, minuto per minuto: ore 9,15, il copilota chiede di pregare. Poi l’attacco con l’ascia, i motori spenti e la caduta a 970 chilometri orari Corriere della Sera Abu Dhabi accusa il copilota, 'usata l'ascia per atto terroristico' ANSA Non si sa a",
+          "pubDate": "Sun, 04 Oct 2026 18:03:19 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "UAE had shared details about FlyDubai flight with Israel, including pilots' names and nationalities, officials tell AP - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUDB6OUQwcTRCN3p2Mnl0MnY3Mlk4S2pITUZacXlNVDhaV2RkbFo2VUtIOGd3TGxCZVZ5bmhWNXNESUlsN09BX21NaUtLSkFSNjFjdVlqaXpZZDNGRWFlekoxTzlTd2FlbFh2cXF0WnVtSEk0T0t3VkF5Nkx4M3RYVmprS21Cd2FHbUcyaV83OEdVcDBQSWwyaXRmckE1YkJxTVQxVWhIRQ?oc=5",
+          "description": "UAE had shared details about FlyDubai flight with Israel, including pilots' names and nationalities, officials tell AP AP News Multiple Security Failures Allowed FlyDubai Pilot Into Cockpit WSJ Co-pilot accused of trying to hijack Flydubai plane probably acted alone, Israeli sources say CNN FlyDubai captain describes fight for his life after cockpit attack on Tel Aviv-bound flight ABC News - Break",
+          "pubDate": "Mon, 05 Oct 2026 01:27:00 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Media, copilota voleva schiantare volo FlyDubai su aeroporto Ben Gurion",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/04/media-copilota-voleva-schiantare-volo-flydubai-su-aeroporto-ben-gurion_4c47ccf8-7a8e-47f0-8603-25984b813f1a.html",
+          "description": "",
+          "pubDate": "Sun, 4 Oct 2026 19:37:49 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Netanyahu ordina indagine sulla sicurezza dell'aviazione civile straniera",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/04/netanyahu-ordina-indagine-sulla-sicurezza-dellaviazione-civile-straniera_7ee4622d-0fdb-40d1-b366-1129a3d3de66.html",
+          "description": "",
+          "pubDate": "Sun, 4 Oct 2026 19:03:00 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "spagna sanchez decreto affitti voto",
+      "label": "Spagna verso elezioni anticipate dopo bocciatura decreto affitti",
+      "n_items": 4,
+      "n_sources": 4,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 4,
+      "score": 32,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Il no al decreto che bloccava gli affitti cambia lo scenario politico - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSlNNSWVuZ3FPc05EdXJUQWE0emI4R0o2SUtXazdocE5rUHBvRHVmcVd2X2dPYm9DQnItNmxYYXljU010TXFPc19KLUEzMnNJMUd5dDJaZWxpU3doZlV5a1JCdHVlV2ozaGJqcWhnZmdyRTl1ZFZraWhPNUtRc3RyT0pYN09jQ2lJc3dZc2UzMXl2cHoybDRMOVkzbW85dnpLbk0yTkczVFBxTDlRUjNRQkZLYzJiTnI5V05qSmJ2WHEyYmJ6Wl9QODI0Qk9TQVRP?oc=5",
+          "description": "Il no al decreto che bloccava gli affitti cambia lo scenario politico Il Fatto Quotidiano Pressing del Psoe e del governo, Sanchez verso il voto anticipato ANSA Sfratti, la piazza in rivolta e la destra avanti nei sondaggi: Sanchez verso le elezioni anticipate Corriere della Sera Crisi abitativa in Spagna, Psoe spinge Sánchez al voto. Domani scioglierà la riserva Sky TG24 Javier Cercas: “In Spagna",
+          "pubDate": "Sun, 04 Oct 2026 11:13:55 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Pressing del Psoe e del governo, Sanchez verso il voto anticipato - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMmJxSlpxaXZYMFZERllpMzdJSl9IQVQ4OXBCVEFqNGR1VUcyUWRZNFZKXzVSV0dGcnl0UllBcm9CUzBoeEhEZXlvNDFFdnFIMmlnY0luT0MzekZsZnQweW1jRWx2TEd4YjVtRFpqMnJjQTh0NW9ZY0ZsQ2VwbWVGckV2dHpGMTdjZWVLLVVYdmtubWNFajdYWlk4WC1CVWhKVGlrQ3hIYy1WZEg2RnhnOVJaYU91SVpSUEcyV05pVTBuR0o4LXUxc3B2Y191M0UtN2FFSmVPLW5BZThNVDdFV0pBWkpENmd4X2U1ZdIB8gFBVV95cUxQOWtWdkkwcWtEalBkSFJabnpueTRodjVwWkhycEpOMDZyV1F1dkVyOWtacTZBaXNzQ0F0QXMwNGhhdFVabmdQYUJ0RFgxYTVjTGl3QlpVblZrbE5FYTdxaGNVY3lqRnotSGFOcEM4eTZKSy04cF9FdExubDByb2pqYkJGY0ZEY1lyX2EwTlFybHBzdHJQV2liWXE3X0NrczlrcDRPY0lMM3o3TVIwRHloQi1qS3dxNDhzck1NRUZNVGhxQy1OU0lOR1lKa0ZYYjFncHBZVEtId000bW9JR29SVzYtaUk5TDZMQk9jcUltaWRZUQ?oc=5",
+          "description": "Pressing del Psoe e del governo, Sanchez verso il voto anticipato ANSA Sfratti, la piazza in rivolta e la destra avanti nei sondaggi: Sanchez verso le elezioni anticipate Corriere della Sera Crisi abitativa in Spagna, Psoe spinge Sánchez al voto. Domani scioglierà la riserva Sky TG24 Javier Cercas: “In Spagna siamo al paradosso di un Paese che cresce ma non dà la casa ai deboli” la Repubblica Spag",
+          "pubDate": "Sun, 04 Oct 2026 18:00:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Pressing del Psoe e del governo, Sanchez verso il voto anticipato",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/04/pressing-del-psoe-e-del-governo-sanchez-verso-il-voto-anticipato_0f102696-6238-428d-bf07-dcb94b23dee9.html",
+          "description": "Giornata di consultazioni per il premier, mentre si delineano i principali scenari",
+          "pubDate": "Sun, 4 Oct 2026 23:30:05 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Media, dopo bocciatura decreti casa Sanchez verso annuncio elezioni anticipate",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/04/media-dopo-bocciatura-decreti-casa-sanchez-verso-annuncio-elezioni-anticipate_d9d7b860-eb59-4139-9c43-6ba62aee32c4.html",
+          "description": "El Pais: atteso domani, Moncloa studia anche il recupero dei provvedimenti",
+          "pubDate": "Sun, 4 Oct 2026 22:48:13 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "intesa sanpaolo mps opas delfin",
+      "label": "Intesa Sanpaolo lancia Opas su Mps, Delfin verso adesione",
+      "n_items": 5,
+      "n_sources": 2,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 4,
+      "score": 26,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "La lente del mercato sull'affondo di Intesa Sanpaolo su Mps - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdC1JeVNoODFVNElwME1EcnVjMTdzSVBZTHRpMHM5eVo5cXBENFVOUGc2akZidklubkxaSHhsTmE5MFJLdmgxZXp2RVlzZWJIZHdfbkZid2gzMHNBSUltUFhGU2p3ODlmSklmNW9lWWJzREM1Umlsc3JrRnRTR0FsWkxDRmZjY0dLc2JkQ0NzR2ZFTE9yR1k0RkN4WFd5anItNXhOWEJHOFNSRW5GX0lkZE1VTTIwY1VFME1XNzVSVEVYSGpyS2V6U2lqRnA2TWVnSkY4S0lSY2tkZFl4UXJRcWlJYWs1S2hj0gHuAUFVX3lxTE9UOUNidHl0b2VKWnctYzJKbERRSVRKTHMtSGdzVmkwdHpJTFA2eVZsbUd6SEZyc2tJMUllTlR0MjZucmNjVzRaRDJhR1FlbndBdThkbDg4cy1tNUxQR0lKU1dBcW1LZm9QQnhqYjhRMjhJbHc2bUlGYm85UUUxQjFiTHNzbjRfb1UwUjhfdXliUkEydlh3ODBucGtJR1FFYXp3RVh5eUZDZDZVcUkwQ2ZPZlZyeW03MlRWc0s4SDNubEl3dGdwQ0tmUmdjMFRSdlVNZGthSzQzMm81UTZCN3haaTJPcjViNDVEWHpmZVE?oc=5",
+          "description": "La lente del mercato sull'affondo di Intesa Sanpaolo su Mps ANSA Mps, la mossa di Messina per scoprire il gioco di Lovaglio e chiudere la partita su Siena Corriere della Sera Delfin sceglie l’offerta di Intesa Sanpaolo su Mps, prima convergenza tra gli eredi Del Vecchio Milano Finanza Offerta su Mps, la holding Delfin con Intesa: consegnerà la sua quota e voterà contro Lovaglio la Repubblica Mps, ",
+          "pubDate": "Sun, 04 Oct 2026 19:01:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Intesa, da Delfin impegno di adesione all'Opas per Mps",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/10/04/intesa-da-delfin-impegno-di-adesione-allopas-per-mps_a8a94a7d-9c45-48a7-823c-5d4c9ca99d4c.html",
+          "description": "All'offerta apporterà l'intera quota del 17,6 di Monte dei Paschi di Siena",
+          "pubDate": "Sun, 4 Oct 2026 22:02:47 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "La lente del mercato sull'affondo di Intesa Sanpaolo su Mps",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/10/04/la-lente-del-mercato-sullaffondo-di-intesa-sanpaolo-su-mps_362a0a54-bbfb-4cfa-b367-e4483904f2f7.html",
+          "description": "Delfin verso l'appoggio all'Opas di Ca' de Sass. Attesa la reazione di Siena",
+          "pubDate": "Sun, 4 Oct 2026 21:06:22 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Delfin verso l'appoggio all'offerta di Intesa Sanpaolo per Mps",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/10/04/delfin-verso-lappoggio-allofferta-di-intesa-sanpaolo-per-mps_63e7a8d8-f00b-437c-a9b9-c5ab2f640684.html",
+          "description": "Il board della holding si è riunito dopo l'annuncio di Ca' de Sass",
+          "pubDate": "Sun, 4 Oct 2026 20:56:16 +0200"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Intesa, le due offerte di Mps complesse e di difficile valutazione per i soci",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/10/04/intesa-le-due-offerte-di-mps-complesse-e-di-difficile-valutazione-per-i-soci_c0310536-0bf0-4203-8ec0-f9e921bb8ee5.html",
+          "description": "Delfin verso il Cda, al centro il risiko bancario",
+          "pubDate": "Sun, 4 Oct 2026 19:25:38 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "spagna proteste case affitti crisi",
+      "label": "Spagna in piazza contro crisi abitativa, mezzo milione in strada",
+      "n_items": 3,
+      "n_sources": 3,
+      "category": "lavoro",
+      "macro_area": "societa-diritti",
+      "richness": 4,
+      "score": 25,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Proteste in Spagna, la folla sventola le chiavi di casa: «Siamo mezzo milione, ora lo sciopero generale». Scontri con la destra - Il Messaggero",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOEpBYmpsLXlhTUJ4M2lLWWlRRUs4eWJuMkQtNWRSUXZ0MVpVQXMxSUY3WVVWLTVQcWpHdU8wOXNIUERQRzlxOTNEbkhmaGsyNTk1Y3hQMXp1ZnBLMVhwYVk4YjRVYVlKUVJHRk5pRnA0MU5XWFFuYTNlNER6WGNXWUxma2xUTklJcklObW1jdW05YzB5MEg4SUotNNIBoAFBVV95cUxPRjFqcmlydnF2RFNnLTRBSk5wVXJvMTE4anAtejMxOUpYNVJ3VDlVSVg1bmpLQkFNQ3hmRjVFZnMtS291ODJVenJPX1A3SDZ3RGROZmwyQkhBUkJycF9tQTBlVUxRMGY3cDNUSGpkdWFndUN5ZUFHUEJMLW1VQzdsT2l0Mndua3ZBektlS0ZIeDJfcDVZV0pjUmZUTGc4Z0V4?oc=5",
+          "description": "Proteste in Spagna, la folla sventola le chiavi di casa: «Siamo mezzo milione, ora lo sciopero generale». Scontri con la destra Il Messaggero Spagna, il Psoe in pressing su Sanchez per il voto anticipato. La destra soffia sulle piazze RaiNews Tensioni per la convocazione dei gruppi di estrema destra in Puerta del Sol, 3 arresti ANSA",
+          "pubDate": "Sat, 03 Oct 2026 21:23:53 GMT"
+        },
+        {
+          "source": "google-news-en-top",
+          "title": "Spain protests flare after housing bill rejected: Will it cause snap poll? - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMTV3aThMaWo3cExaTlZqRThCSVNDaGdZenBBaDM0YkI2ZXRUSEZiazFCTjg4cm5EMVdQUnZnQXR4bjRhcDU0WExpb01BdERTTUpTcDNfaUtUZ3pKNGFEMDhmdmxWaThHSDhXdGREZ3JEN21ITzRoYUxmektvV2VIYWhhaG4xaHZfNDIxakZ4RFdxbHE3NkR3amVLT0NxbUlZU01qcFlfZDdOTUFRVm0yNWM2MNIBuAFBVV95cUxNY21BS19yMUFrY1owU05lTzRBemN6MTFWYmNqZGdfdUxyRWxfZ2tOeEppWXNaNkdUNFBLVFA4SEIyaElQZzRJSjBLWmk4aXdFcDljc3pqT1QybUduZEVsei05VGRsYW5vdUdzWW4zd1BKNTlxWHJ6RDE1WVZwNFFXYXhLTHZmSTRrZUdXTTlpanZZTm4wVWZreVRlV3FDMnJkbmRDelA3MWpqZDREanNEM3NQMk5kS1dh?oc=5",
+          "description": "Spain protests flare after housing bill rejected: Will it cause snap poll? Al Jazeera 'Anger in the streets': Tens of thousands protest in Spain over housing crisis BBC Spain: Massive protests after housing bills voted down DW.com The right and wrong lessons to learn from Spain’s housing crisis Financial Times Tens of thousands protest across Spain over housing crisis CNBC",
+          "pubDate": "Mon, 05 Oct 2026 01:48:52 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+          "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+          "description": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
+          "pubDate": "Sun, 04 Oct 2026 03:42:15 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "mattarella assisi san francesco pace",
+      "label": "Mattarella ad Assisi chiede pace seguendo insegnamento Francesco",
+      "n_items": 3,
+      "n_sources": 3,
+      "category": "geopolitica",
+      "macro_area": "societa-diritti",
+      "richness": 3,
+      "score": 21,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Mattarella ad Assisi: \"Il sole di San Francesco indichi la via della pace\" - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOY1owZWRDVnNVOVN3elNyU25nZ1hmMmVoTDBKZ1NKcGk2V04yWFdveVdnczVqblFVUmZyYUhkYmJVMlVqZ3k0d2N6YW5TdnRQQ0NkMXpwTmh1QmhPQm5hUnhkRVJkX2JsM1ViVXM2X1c0azJwMHhvWXZST0NUSVZsa2g4NGwtOUlNVDhJR3V2YktZMVZJMTF2bDhfbF9zek8ycmdncnk5djBRRWZ6OHZ1MjY5Z2FnVDB3UTFoTlEzQjdoaGFBNkhOdXozei1LN3lzUy1QSWVpUGVBY2p1SldncmNmU0sxUXBYVm5GS1YxTlRvZmNMbzJvbWZ4TdIBgAJBVV95cUxOdDhQM1ZSd0d5YkZ4RjZLVFNvcndIblhHWlVORXhoT01qWDFvdTV2Q1J6WEFObU5heTY5WEkwZzFhdkNhckNsa3doQU1hME9jbDBzT1ZHQVBqdEtDUmxTTmMwdXhWZHpja3R6bHBlSUVqS0FnNVIxUUk3UkhVcGUxWkE0bUZ1YW9PV1VOVW4xNUs2LW04Sm50dzNoc2ZSSFdfM2hnMjNrTWRQVjl0V2M1MmdGX0pHa3BQNjRCa3Rya2YwOVYxM29ZS2lQa1pfODZUYWxHTnVVNXZNd1NDSUtHV1NCRk52YndEajNDZllFeUJFbUlNelRPOGRHSWh1T0It?oc=5",
+          "description": "Mattarella ad Assisi: \"Il sole di San Francesco indichi la via della pace\" RaiNews \"Francesco, il Santo di tutti\" Rai.it San Francesco. Primi Vespri nel Transito: omelia di Mons. Baturi Conferenza Episcopale Italiana La festa di Francesco. Mattarella ad Assisi: \"Ruppe l'idolatria del denaro\". Il Papa: \"Chiediamo il dono della pace\" HuffPost Italia Il Papa: sulle orme di San Francesco costruire pac",
+          "pubDate": "Sun, 04 Oct 2026 12:54:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Mattarella ad Assisi, 'il mondo si illumini e indichi la via della pace",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/10/04/mattarella-ad-assisi-il-mondo-si-illumini-e-indichi-la-via-della-pace_9bd6a1a6-d122-438a-918d-1082646e670f.html",
+          "description": "Il presidente attualizza la lezione di San Francesco. Zuppi: 'La guerra non è un destino'",
+          "pubDate": "Sun, 4 Oct 2026 20:47:18 +0200"
+        },
+        {
+          "source": "google-news-it-nation",
+          "title": "Mattarella ad Assisi, 'il mondo si illumini e indichi la via della pace - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQeFliN2tycXpFeU1DZGowblNYMXMya2Z6R25ZeVhfNllPYk1DUnFka0VmT18wLVdHdHBTZ0JvY0lJTWUzX1ZobUVkWUZMeVVzR3ltV21YaU5PLUdybHVHa0t5TS1zU2d5QzdqM18tdF9QeDlLMlZELURYbFMzeFpjUGNPaVVQdURpQTNrZ0REeUNydUJGZVRpQUZicDQ1UHRFVW82NVJkelFtYnJQNmlzdFdwUlBOYzBvQ2VDWFdzampzUloxSlpFVlRwZG1mWjk0R0N0LTBRSkJyMWdmSS1reHFVSHlhLTV1Wlp6aXJVSWpENUI0ZUZv0gH8AUFVX3lxTE5KNUpwelVfcVFNZkZlQ2JlTTl2OHJjZC0yUHJKWDB3ZWV5WkNSeWxhaHUtVXNXeGptVUo1SWl2VHNtbzZ2WmVWeUVENmIxUGpfdzYxVDk5aWpTMWJURjBCblJlRGkxa1RBVmRIeUEweXZQUl9Qanp2STl3SWl5UjR2WUtoYV9ERmxKclRzUTJfOWpYYkdtYWYzTUxlZU56VVRJdDRNQlA4aURSemV3YUdkdXBDUnVnVVRkVUFXWWtWSkZ1SldSSXZGVmVraGhoeGE5T3V6WFNBdXR4eDFxcUhBaEpxQldndXBLZldLVjRGZy1kV1ZZX3FnYVR1Rw?oc=5",
+          "description": "Mattarella ad Assisi, 'il mondo si illumini e indichi la via della pace ANSA \"Francesco, il Santo di tutti\" Rai.it San Francesco. Primi Vespri nel Transito: omelia di Mons. Baturi Conferenza Episcopale Italiana La festa di Francesco. Mattarella ad Assisi: \"Ruppe l'idolatria del denaro\". Il Papa: \"Chiediamo il dono della pace\" HuffPost Italia Il Papa: sulle orme di San Francesco costruire pace e co",
+          "pubDate": "Sun, 04 Oct 2026 18:47:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "case affitti prezzi europa giovani",
+      "label": "Ue, prezzi case +4,7%, governo prepara interventi per giovani",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Case più care in Ue, governo pensa a intervento in manovra per i giovani - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQzRFbzdOSUpwY3dObzNVVF93c3puVE5kNDdnczlXQkJzajJzNzVicnZXQTdHTHRJbngtOE9BLXVpVTJBZXk0Z2ZWVWNPckxMM0J1a0JhSWNXbi1sRWZPLTl4SWFyX1U3azZ4Q2N1czNTOEtBbXdOSkMtam1yZkFIbnZmdTZ0RWNhUlZQTTZmRVJ1aHVzNlhJekRNYzBtMWJjbFpLVU5SV2NIdElsZ29RaS1tV2dqekNQNmdTeTBBeGNEVFp2akt4RFNydkhRQXB0aWZVQjQzMG9pb2RNOXFNdDNuanFJT1o4WW9ybFA1R0lubU9xZFNmakZn0gH_AUFVX3lxTE4yR2JBTlFKYTRfYUlYTTY2M29rcmsxOElzdUNJdHZBdWlrd3E3c1VDbFJWUDJuNjRzOXI0S3hCM055NDE0bHo1TzZRUEVWU1l0VkdmckVab0MzbjcyT2dLdXhsRVdRWnZZRVY0TkJRNWVLLUd2MnNmSHlQWEJjZ1c0UUpIU2tVY0paWWstQ21oNkZrZE1rMUdCUVJkMDBkUU50T2hvWnRIZUctWk11aEJkY21QdlF3T3FNZkRQeWpLaGZHbm5ISGoyQmZnSG5LZU1KZ0xjcVFZcldlRnFnTk5BLVd1Y2xfRXUtNWYwYklwUkRWNHVDeGw3QlRsR0ZZZw?oc=5",
+          "description": "Case più care in Ue, governo pensa a intervento in manovra per i giovani ANSA Visualizza altri titoli e punti di vista su Google News",
+          "pubDate": "Sun, 04 Oct 2026 10:41:00 GMT"
+        },
+        {
+          "source": "ansa-economia",
+          "title": "Case più care in Ue, governo pensa a intervento in manovra per i giovani",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/10/04/case-piu-care-in-ue-governo-pensa-a-intervento-in-manovra-per-i-giovani_4f6606f5-5cea-4317-9cf9-7011e2bbd281.html",
+          "description": "Eurostat, prezzi +4,7%, affitti +3%. Spagna guida la protesta per caro-casa",
+          "pubDate": "Sun, 4 Oct 2026 17:03:18 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "ia ricercatori rischio estinzione",
+      "label": "350 leader industria tech avvertono rischio estinzione dall'IA",
+      "n_items": 2,
+      "n_sources": 1,
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 3,
+      "score": 14,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'IA può portare all'estinzione, l'allerta di decine di ricercatori",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/-lia-puo-portare-allestinzione-lallerta-di-decine-di-ricercatori-_f2907c59-c053-4af7-b511-410cbb0bc59b.html",
+          "description": "Tra i firmatari gli ad di OpenAI e Google Deepmind, ci sono anche italiani tra cui l'esperto di tecnologie dell'informazione Luca Simoncini",
+          "pubDate": "Tue, 30 May 2023 17:55:51 +0200"
+        },
+        {
+          "source": "ansa-tecnologia",
+          "title": "L'allarme dei big, 'rischio estinzione con l'IA, è come le pandemie'",
+          "link": "https://www.ansa.it/sito/notizie/tecnologia/hitech/2023/05/30/lallarme-dei-big-rischio-estinzione-con-ia-e-come-pandemie_3afde5e5-7bcf-464e-b3aa-aee6577a9b23.html",
+          "description": "Nyt riporta lettera di 350 leader industria, anche ceo OpenAI",
+          "pubDate": "Tue, 30 May 2023 14:12:41 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "marcello fois premio campiello murgia",
+      "label": "Marcello Fois vince Campiello 2026 con 'L'immensa distrazione'",
+      "n_items": 3,
+      "n_sources": 2,
+      "category": "general",
+      "macro_area": "societa-diritti",
+      "richness": 2,
+      "score": 14,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-homepage",
+          "title": "Marcello Fois vince il Premio Campiello 2026 e lo dedica a Michela Murgia",
+          "link": "https://www.ansa.it/sito/notizie/cultura/libri/2026/10/03/marcello-fois-vince-per-un-soffio-il-premio-campiello-2026_eb1778c9-654f-482c-a0f6-1eecebe714ce.html",
+          "description": "Per 'L'immensa distrazione' con 83 voti. Secondo con un minimo stacco Pierantozzi, 80 voti",
+          "pubDate": "Sun, 4 Oct 2026 13:06:37 +0200"
+        },
+        {
+          "source": "ansa-cultura",
+          "title": "Marcello Fois, il problema dell'Italia è l'istruzione",
+          "link": "https://www.ansa.it/sito/notizie/cultura/libri/2026/10/04/marcello-fois-il-problema-dellitalia-e-listruzione_a3d9ef51-3ea9-4b33-a8f6-4bf1da57c382.html",
+          "description": "Vincitore Premio Campiello 2026, Murgia ha riempito il vuoto lasciato da Pasolini",
+          "pubDate": "Sun, 4 Oct 2026 14:32:26 +0200"
+        },
+        {
+          "source": "ansa-cultura",
+          "title": "Marcello Fois, 'Murgia ha riempito il vuoto lasciato da Pasolini'",
+          "link": "https://www.ansa.it/sito/notizie/cultura/libri/narrativa/2026/10/04/marcello-fois-murgia-ha-riempito-il-vuoto-lasciato-da-pasolini_031b473a-9107-4877-bfde-518568c1fe0e.html",
+          "description": "Vincitore Campiello, le polemiche sulla scrittrice e Mari? 'La questione è chiusa'",
+          "pubDate": "Sun, 4 Oct 2026 13:14:04 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "matrimonio chiara poggi genitori interview",
+      "label": "Genitori Chiara Poggi: dopo 19 anni figlia ha diritto a riposo",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "tech-ai",
+      "macro_area": "societa-diritti",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "L'intervista di Silvia Toffanin ai genitori di Chiara Poggi in prima serata su Canale 5 dopo La Ruota della Fortuna: é la prima dalla chiusura delle nuove indagini su Sempio - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNQXdaODlVZHdYSkNxWXMtOTdwN21XYWpkUF9tUTRTSThkUDgzR3EwX0lSSkRsZUVFNDZ0UmlLd3ZqZVlldVZUbDlaRG9PUHVWTHFqSUtGRk16WEI0c3poR0pfUjl5NUxHdmN6WFlpV1dhRlh6MGFnTk05bF8xRUtUcndKbDE1Z3lZR01vZUFZclNRU2pwMm9rY1Z1U2g4ZVZNTnYtaGhiVVZQQXE4eEhfRTVPVDFBT0NUbXI4dWlXOVoxLWdUblBvcWpwMGI2Tmt3NkV3VTAzVkotajVweFlNY3cyU2FKbDh6OURnVC1MWlR5aGJPSHpRS1FsZWljN0gyVy1hMXlINU9xRTEtQ2IwWDZjRy1zVlB1dWp5V2ZjRXJNQnBaTmw3eUNiREM5aVYwNFppTHd2emdHbVJYcTJvYVJOWW1RWkU?oc=5",
+          "description": "L'intervista di Silvia Toffanin ai genitori di Chiara Poggi in prima serata su Canale 5 dopo La Ruota della Fortuna: é la prima dalla chiusura delle nuove indagini su Sempio Il Fatto Quotidiano Garlasco, i genitori di Chiara: 'Se ci sarà un nuovo colpevole ne prenderemo atto' ANSA Garlasco, i Poggi in tv: “Il colpevole resta Stasi, se ci saranno altre sentenze ne prenderemo atto” la Repubblica \"Vo",
+          "pubDate": "Sun, 04 Oct 2026 15:03:37 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Garlasco, i genitori di Chiara: 'Se ci sarà un nuovo colpevole ne prenderemo atto'",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/04/garlasco-genitori-di-chiara-poggi-prenderemo-atto-se-la-giustizia-dara-un-altro-colpevole_ebee0c95-ada8-4f77-9669-bc60564a79ed.html",
+          "description": "'Basta circo mediatico, dopo 19 anni nostra figlia ha il diritto di riposare in pace'",
+          "pubDate": "Sun, 4 Oct 2026 20:03:56 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "antropic claude formazione ingegneri",
+      "label": "Anthropic investe 100 milioni per formare 10mila ingegneri AI",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-tech",
+          "title": "Anthropic, assegno da 100 milioni per formare 10 mila ingegneri. Claude mette un piede nelle aziende - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRk1ubzk1SE8tb2VsdVkyOWVPalZfMU5rdkt5cHRiU1hqRV9XY3VaLTlabFBRRUktcnhLSzFqQzZWaUNoQ0pNUVhxWXhIcDRBOFJpNF9GRmZkWHIyUjduMzRYZGZUb2NvVjVnaGpzVWRybzFVZDlJeXFYS2lOcWNBR2JWVG84WlpRSFE0eW5QNHRLSmJMRXFxSzBQSTJtMEZBMVFlcjhRMXFvSkh2VU42YThrZHExM0tBT3QtZ1l1MWYtTUVqMFJTdklZSmxyeXhMb1E2Z1E1WmZVOHdDN1lRZmFONXIwUDJTMnNjLW9iSXRMUQ?oc=5",
+          "description": "Anthropic, assegno da 100 milioni per formare 10 mila ingegneri. Claude mette un piede nelle aziende la Repubblica",
+          "pubDate": "Sun, 04 Oct 2026 15:47:43 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "gas naturale europa prezzi scorte",
+      "label": "Gas sale 38% da inizio anno, ritardo scorte Germania preoccupa",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "energia",
+      "macro_area": "clima-salute",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-economia",
+          "title": "Il prezzo del gas sale ancora, da inizio anno +38% ad Amsterdam",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/10/04/il-prezzo-del-gas-sale-ancora-da-inizio-anno-38-ad-amsterdam_d4603b6a-1fea-4610-b0d8-45a00a15d37e.html",
+          "description": "Pesa il ritardo della Germania sulle scorte. Italia al sicuro per l'inverno",
+          "pubDate": "Sun, 4 Oct 2026 13:30:27 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "nucleare italia pichetto decreti",
+      "label": "Italia accelera sul nucleare, decreti attuativi entro fine anno",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "energia",
+      "macro_area": "clima-salute",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-economia",
+          "title": "Pichetto, il nucleare arriverà fra 15 anni ma è la scelta del futuro",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/10/04/pichetto-il-nucleare-arrivera-fra-15-anni-ma-e-la-scelta-del-futuro_d2a58542-7192-4365-8dc7-1677801ca8a0.html",
+          "description": "'Entro fine anno arriveranno i decreti attuativi'",
+          "pubDate": "Sun, 4 Oct 2026 13:05:22 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "bosnia elezioni dodik serbia",
+      "label": "Bosnia, partito serbo Dodik rivendica vittoria con Cvijanovic",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Bosnia, il serbo Dodik rivendica la vittoria del suo partito: Cvijanovic oltre il 55% - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUDJSSmlNaVhyQ2JxUkVRdEdDUmRrbDRjeEx0clVNVGZTYUctTi02c0RLektUZDFReFpRZ0N4bHhwakc3dS0zUzJTNGozYTFhaWtNYzdBcy1TSzh0d05IUnhobnE1Vm0yTGpEV2lDWjcwc0lMdU1La1MyZUdJRThxZlRhU1hZcm53cGpMNlprb21ybEoyZWwzUXNkeEZJaUnSAWhBVV95cUxQTWl0SVpZNjR0RnFlaWN2NXdlUGttc3ZaajN4R3dUQ0RRSXp3Zk5XUVhFOVJNMVYzaVdRZ05ncFVLaHgxSnYxRHk2REhmS2RBeGN3OENjRkJzSjFGa2d3UXdoWHg1SzVqNQ?oc=5",
+          "description": "Bosnia, il serbo Dodik rivendica la vittoria del suo partito: Cvijanovic oltre il 55% Tgcom24 Alle elezioni in Bosnia Erzegovina il nazionalismo paga Il Post In Bosnia Dodik annuncia vittoria del suo partito nella componente serba Sky TG24 Bosnia-Erzegovina al voto: il politico filorusso e la candidatura UE bloccata dominano le elezioni Euronews.com Day after Dayton | La Bosnia va al voto, ma l’er",
+          "pubDate": "Sun, 04 Oct 2026 20:50:01 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "migrazione ceuta campo sgombero",
+      "label": "Spagna sgombera maggiore campo migranti a Ceuta",
+      "n_items": 1,
+      "n_sources": 1,
+      "category": "diritti",
+      "macro_area": "societa-diritti",
+      "richness": 2,
+      "score": 9,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "La polizia spagnola sgombera il più grande campo di migranti a Ceuta - Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON0VVeFBkdG1HQU5MRUtKNnhldUVJTzJqVTBJMFozTFhUWjlKU0JmWjdRanhSb3hvb245cjNDZi01UkNHTUctMGNwSzRiNzBjRG5VWE1xN2xTWjZDMVlEQ3JpS19sekk5eVNLOUtIWGdMTjFnX0htSjR1SV9yZ3AwWmtCVXhCTEZRV0Vpb0U4d3BMa3V1TGhlQUV4eG1aNVd5MU82M2lGcw?oc=5",
+          "description": "La polizia spagnola sgombera il più grande campo di migranti a Ceuta Euronews.com Rimozione di una tendopoli sulle spiagge di Ceuta ANSA A Ceuta la polizia sgombera la spiaggia Corriere del Ticino",
+          "pubDate": "Sun, 04 Oct 2026 08:15:33 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "openai sicurezza dimissioni responsible",
+      "label": "Capo sicurezza OpenAI si dimette per preoccupazioni etiche",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 3,
+      "score": 1.6,
+      "cooldown": true,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Si dimette il responsabile della sicurezza di OpenAI. La lettera su The Atlantic: «Mi sono licenziato perché la cultura aziendale è corrotta» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNekQ3QWFpOEpDQ2pZdnJjZWNkTjdaak5QYVQ3R0p1NFhBaUZkTVlXREY1dERhWUhWU2FvMFZyTWlwNUFHSU5hazg0NzNJZUNwYkExMG5vODBiLTQ2TDd2T1lOM292SUp4ajBQSFR2ODNqRmJSYm5DN1pIWFJOaUMtMlIzUFRwY2hHUEtMczBGZnNhaEZaMlcxSndyY0hka0hXQ3BGcW5lbFk5T29HbXlEOThKOEpCUFBoZzczXzg2d05md0N5THctdEpaTDB6VXF5ZGVPN3dTSXhXdTRkZWo5ZlZFMk5PQkVwaEw4YkZSWWoxWS1uWGNpTlJNT2ZDcERFSFhiTk5ZUWNGaVBGajNOQkpsSGt4WGtlVWNlSTZJUUZHdHpmZ2QtaWE1aUlTdFV0cm5PMXVGZlBWYVdFSUdPQkVn0gHHAkFVX3lxTE1NT1ZwZlFGb05Ed0VyTW95akV6eTNyUkEwZDZWdUNlNmhGRHl0THd6NDVaMWcwOGFnV1F2NWNYXzJ5VktrX29ZT00tLTJfWm5lZzBlUGc2MHN5aFdxSGhKX0trdGxLQlZySXpFZy1oRGdGMFF1ZE5kbHA4eXBaQTVvb3FvMlI1Z0ZlMDlUa3NyOGd5Q2dSOVE5U2xoX2hpOUZqdENuNWtiQmlCOFZyMFVDcWRNU1Mya3FfTURUQWVNRE95anNpQmlvZXhCeXMzbl9zc0l2LXh2cy15ZTgydEdhUTh3X1liVmVuLV96dVlfc2R1TFhibGtta2d2VUJUTXhkYlZ3cXdTekp5XzhIRnhTbmxMMmdNaExZLV9saTR6QnZEVkRfVjhnWF9MYzlVaHBtUjlyREpYRWxDeTBjUmZmelQ4MERxWQ?oc=5",
+          "description": "Si dimette il responsabile della sicurezza di OpenAI. La lettera su The Atlantic: «Mi sono licenziato perché la cultura aziendale è corrotta» Corriere della Sera Gary Marcus paragona gli agent AI a auto con freni di cartone mentre la FTC apre un’indagine Yahoo Finanza Agenti OpenAI, è escalation di incidenti: che succede ora Cyber Security 360 Dimissioni shock del responsabile della sicurezza di O",
+          "pubDate": "Sun, 04 Oct 2026 19:18:07 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "OpenAI fires workers for 'mishandling sensitive information'",
+          "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+          "description": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+          "pubDate": "Fri, 02 Oct 2026 08:20:32 GMT"
+        }
+      ],
+      "clustering": "claude"
+    }
+  ]
+}
