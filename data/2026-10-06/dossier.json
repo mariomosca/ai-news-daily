@@ -1,0 +1,39 @@
+{
+  "topic_label": "Francia in piazza: la rivolta degli studenti e il precedente che nessuno nomina",
+  "query": "proteste studenti Francia violenza polizia scuole",
+  "category": "diritti",
+  "category_claude": "societa-diritti",
+  "macro_area": "societa-diritti",
+  "target_area": "societa-diritti",
+  "origin_keyword": "france proteste scuola studenti disordini",
+  "origin_date": "2026-10-06",
+  "story_sim": 0.426,
+  "story_vs_date": "2026-09-22",
+  "angle": "precedente-storico",
+  "angle_directive": "Il precedente storico: questa scena l'abbiamo gia' vista. Un caso analogo del passato che illumina e ridimensiona l'oggi.",
+  "genre": "ricostruzione",
+  "target_words": 950,
+  "hot_topic": true,
+  "richness": 3,
+  "label_cluster": "Francia prepara giornata nazionale proteste studenti dopo violenze polizia",
+  "cover_metaphor": "a schoolyard gate half-open, smoke curling behind it",
+  "curator_rationale": "La giornata nazionale di proteste è il culmine di un'escalation (preside cosparso di benzina, 400+ scuole occupate, feriti) che merita una puntata propria: l'angolo precedente-storico permette di confrontare questa ondata con le storiche rivolte studentesche francesi (dal '68 ai gilet jaunes) per capire cosa è davvero nuovo oggi — la radicalizzazione online e la risposta poliziesca — invece di limitarsi alla cronaca del giorno.",
+  "followup_of": null,
+  "articles": [
+    {
+      "title": "France braces for national day of school protests after injuries and mass arrests",
+      "source": "google-news-en-top",
+      "summary": "France braces for national day of school protests after injuries and mass arrests BBC Tens of thousands expected in Paris for high school protests France 24 Teenager's hand blown off as French school protests enter third week Reuters Hundreds of French schools shut as students revolt against poor conditions The Washington Post France braces for national day of school protests as boy loses hand The"
+    },
+    {
+      "title": "Gli studenti tornano in piazza, la Francia teme il caos generale",
+      "source": "ansa-mondo",
+      "summary": "Tensione alla vigilia delle proteste, 15enne perde la mano per una granata della polizia"
+    },
+    {
+      "title": "France braces for national day of school protests after injuries and mass arrests",
+      "source": "bbc-world",
+      "summary": "France prepares for a day of protests in support of students who’ve been demanding more investment in education."
+    }
+  ]
+}
