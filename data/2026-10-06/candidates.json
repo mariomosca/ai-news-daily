@@ -2,400 +2,393 @@
   "date": "2026-10-06",
   "top_topics": [
     {
-      "keyword": "houthi attacchi arabia saudita",
-      "label": "Houthi rivendicano attacchi contro aeroporto Riad e raffinerie Aramco",
-      "n_items": 5,
-      "n_sources": 4,
-      "category": "geopolitica",
-      "macro_area": "geopolitica",
+      "keyword": "peste siberia laboratorio incidente",
+      "label": "Siberia: allarme peste polmonare da laboratorio, Rubio chiede trasparenza russa",
+      "n_items": 6,
+      "n_sources": 6,
+      "category": "salute",
+      "macro_area": "clima-salute",
       "richness": 4,
-      "score": 36,
+      "score": 52,
       "cooldown": false,
       "items": [
         {
           "source": "google-news-it-top",
-          "title": "Houthi, 'abbiamo colpito l'aeroporto di Riad e una raffineria di Aramco' - ANSA",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVUh0MHdCSGFweWZwTFVJZ3k3UG15cWY4bGhNbEFKZXRHdVRZOV9uWXVGdUdzYVFtajQtN2VyTm52cWlmd295MUZhanZTQU82dVhQazF3d1FvaXNHcVVVUUNINC1Mb2pOYnNFX1ZvT05FcUFySXBtYm9ibGY1MHRuSmNYUjNkSmVkSmhUZEwtNEpmc0dxdkxFTW5neDRNUFl0eGgxZ2xrMDJDU2JrRGQ4RlFscjdxS0VmX2ZZWFFkSUs4Z3lpTFVvUFBUMEkyTVo4WWdaYzl6bTJQTFplVnVrWGlyVWQ1QW5nVjBOcmR0V01qUjMz?oc=5",
-          "description": "Houthi, 'abbiamo colpito l'aeroporto di Riad e una raffineria di Aramco' ANSA Yemen, forze governative: “Ripreso agli Houthi il controllo dello stretto di Bab el Mandeb” - Egitto, giornalisti investigativi denunciano di essere stati torturati durante la loro detenzione RaiNews Bab el-Mandeb torna sotto il controllo yemenita. È solo una nuova tappa della guerra Il Sole 24 ORE Iran, tavolo a Riad. A",
-          "pubDate": "Mon, 05 Oct 2026 21:32:00 GMT"
+          "title": "Peste, lebbra e altri flagelli biblici tornano fra noi. L’esperto: “Ma oggi sappiamo curarle” - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOHo0aXM5YkN5ZEVtSk5TTVVSTDhPaTMtcmhOTl9xQVRHWUVEZ2dVWDVJT2xJd0VadkgycVdTRWU4ZmJnVENRbkdEZURQa1piS3pHYmczbDlQamN3cVhiSTV5UnNHMmNpQXlLNmZqdEN1SDBRZTQ5NmduRUhHUDI0R185ZHVMSlQzQXdzY3IzdW00OHl5c29Cc1VCY085anpxNFIxd1o4MGgzTlBNZHNLVDZGOTRSV0E?oc=5",
+          "description": "Peste, lebbra e altri flagelli biblici tornano fra noi. L’esperto: “Ma oggi sappiamo curarle” la Repubblica Peste polmonare in Siberia, cosa sappiamo dell'incidente di laboratorio e del contagio Sky TG24 Trump: «Pronti ad aiutare la Russia per il caso di peste» Il Sole 24 ORE Rubio a Mosca: 'Condivida le informazioni sulla peste in Siberia' ANSA Oms indaga sul caso di peste in Siberia. Spallanzani",
+          "pubDate": "Tue, 06 Oct 2026 06:46:08 GMT"
         },
         {
           "source": "google-news-it-world",
-          "title": "Yemen, offensiva delle forze governative contro gli Houthi: \"Ripreso il controllo di Bab el-Mandeb\" - Il Fatto Quotidiano",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOakZfRVNGanVfMWFZWjZ5QVMxY1ZBLW9FUWNSZ0ZueVZZVGxOaXNVNy1uOWl1U2hEZ29hSEgyd2RNeWZtdVRiNTM3RWg3WmVLX3VoeUFZRlozLUlvN1dOYkJEWG14MTJSZk1GbEJjTXZBbEdGTV9uM2ZmSS10YWVuUE1yN2pmZzlVMkVzRzc2VXJUazFqcS12SGJlZ2xDWV9xUTBfSmhIcU5wV2FMTklBRnNuQ05JYi1FUkRqNkt2aW53R0NKMWV1aFJOVk12dVd0ZmVwOENibVIzaEZkQkxheVdB?oc=5",
-          "description": "Yemen, offensiva delle forze governative contro gli Houthi: \"Ripreso il controllo di Bab el-Mandeb\" Il Fatto Quotidiano Yemen, forze governative: “Ripreso agli Houthi il controllo dello stretto di Bab el Mandeb” - Egitto, giornalisti investigativi denunciano di essere stati torturati durante la loro detenzione RaiNews Bab el-Mandeb torna sotto il controllo yemenita. È solo una nuova tappa della gu",
-          "pubDate": "Mon, 05 Oct 2026 11:47:12 GMT"
+          "title": "Peste polmonare in Siberia, cosa sappiamo dell'incidente di laboratorio e del contagio - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44SWRmalJlMUZhMmp2TXVmXzlzellZMmt0T2VvQUVnVDFHVEdmbHNZQXhId2tvN3pHLUhSdzBGRU9mNm4yckZCaU5QY0RMRUZTbl9aVE80SG5lMW51ZzUzLVMwZUxaVm5CSmlWMXA1QWxKRUFkNGlpYVZ3?oc=5",
+          "description": "Peste polmonare in Siberia, cosa sappiamo dell'incidente di laboratorio e del contagio Sky TG24 Trump: «Pronti ad aiutare la Russia per il caso di peste» Il Sole 24 ORE Peste, lebbra e altri flagelli biblici tornano fra noi. L’esperto: “Ma oggi sappiamo curarle” la Repubblica Rubio a Mosca: 'Condivida le informazioni sulla peste in Siberia' ANSA Oms indaga sul caso di peste in Siberia. Spallanzani",
+          "pubDate": "Tue, 06 Oct 2026 10:32:45 GMT"
         },
         {
           "source": "google-news-en-top",
-          "title": "Saudi-backed Yemeni forces expel Houthi rebels from several areas around key strait, officials say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0w0ZVR4U0toYjViellrallFRmhET1JQaDV3azRxcGpITmhFRFQwY0h5cjlQaC0zM01ZSURLMzdDRkxTLU8zRzVBZENHRnRuYmUwbE1VR19WbWdZdzZ5SGxVMWUtUTVjdEh3UlJycDhwZG5SSVQzX3ZaeVpfbjVJM3U4eEJiU0hfcmZXTFBNbVJsWkVjeWM3MHZWNWktVFlnQ0g1bGJKTQ?oc=5",
-          "description": "Saudi-backed Yemeni forces expel Houthi rebels from several areas around key strait, officials say AP News Yemeni government forces drive Houthis from Bab el-Mandeb Strait Reuters Iran war updates: Turkiye, Pakistan back troop deployment to Saudi Arabia Al Jazeera Why Saudi Arabia’s Last War in Yemen Turned Into a Quagmire The New York Times Saudi-backed Yemeni forces attack Houthis near key globa",
-          "pubDate": "Mon, 05 Oct 2026 21:53:00 GMT"
-        },
-        {
-          "source": "ansa-mondo",
-          "title": "Houthi, 'abbiamo colpito l'aeroporto di Riad e una raffineria di Aramco'",
-          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/05/houthi-abbiamo-colpito-laeroporto-di-riad-e-una-raffineria-di-aramco_385f7316-960b-4858-8ccb-e4499f6f98d5.html",
-          "description": "Portavoce, 'nel mirino anche siti militari nel sud dell'Arabia Saudita'",
-          "pubDate": "Mon, 5 Oct 2026 23:33:41 +0200"
-        },
-        {
-          "source": "ansa-mondo",
-          "title": "Lo Yemen riconquista lo Stretto di Bab el-Mandeb, Houthi: colpito lo scalo di Riad",
-          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/05/lo-yemen-riconquista-il-controllo-dello-stretto-di-bab-el-mandeb_c71b1ec7-3e28-462a-8e87-a033e3bf1c63.html",
-          "description": "I pasdaran: 'Nessuna nave Usa a Hormuz, sono fuggite'",
-          "pubDate": "Mon, 5 Oct 2026 23:38:28 +0200"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "ucraina guerra russia intelligence",
-      "label": "Germania: Russia conduce guerra ombra contro Berlino, Estonia mobilitata",
-      "n_items": 4,
-      "n_sources": 3,
-      "category": "geopolitica",
-      "macro_area": "geopolitica",
-      "richness": 4,
-      "score": 28,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-top",
-          "title": "Guerra Ucraina-Russia, le notizie in diretta | Il capo dell'intelligence di Berlino: «La Russia conduce una guerra ombra contro di noi». Ft: «L'Estonia sposta le truppe più vicino al confine con la Russia» - Corriere della Sera",
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPbXRaNUZnTldGeDRGM0JObHlsRWhNVTNrQi1CdHJNSXRKZHRVWW03cElYc0RIUkNYOGhWWl9CZ3IyekFKcXFVR0xTTE5rTkh3Z2FnekJ6SmdROWczMlVENHhuMEpnOEo2VDZDUUJUUVNRaGRnQ0N5OWVkbWVDY0h0Sm8wSDhtSGNwYzh4NE1aN3pCMk9SazlZckRHUjNSd3Zuc0c3anBkMUZKTUROeFRkWEdsUDJ2Nng2ZUJYUHF2SmlrcHRleENkME5Wa0JWX0xkT1J1UWoyOXF1ZDU2ZExYX05XWGFUOWEwU1dZTGpvVzFseEU0d2UzdEEwa2FDaWxSOEpOSkdCT0VKS2JBWVhsYlVmOF9VWkF30gGeAkFVX3lxTE5kMlRkdTdOaWZHaVlJY1I1X0E5N2RRRmI5VERPVlBWZW9fR1dnNFJGZUp5WTR4M19Xbm1UUk5leDVYeGd4RzRCaDVUWWl1bDJfdFgzeGs0N2l3RzFWU05WMG1LSGlNZVRpb0cwV1hUaTB3Wl91YXNpbVhDd3NYVUd0OWZaSDJVQ3VYdFdFVVZnVXBtVmtzZHk0RlRyeWg4NlpNeGJrLVEzSFdIRmltMWo4ai1zYnM2ejhJcHhVbm5fZDdmR25NRkkyOWJYcEx4TUlscUdNRlNRZEs0NGVpUVVheG13YnlMQm5US3NSMTJoeUxsRWNZbXlKR3QxTktfZERPNnJWbVhsWXNFa2VleElmUGZzNDVxV3cyQU8tUlE?oc=5",
-          "description": "Guerra Ucraina-Russia, le notizie in diretta | Il capo dell'intelligence di Berlino: «La Russia conduce una guerra ombra contro di noi». Ft: «L'Estonia sposta le truppe più vicino al confine con la Russia» Corriere della Sera Kiev, 'attacchi con bombe guidate in pieno giorno su Kharkiv, 3 morti' ANSA Fin dove si sta spingendo Vladimir Putin in Ucraina - Pierre Haski internazionale.it Ucraina, i po",
-          "pubDate": "Tue, 06 Oct 2026 01:41:11 GMT"
-        },
-        {
-          "source": "google-news-it-world",
-          "title": "Intelligence Germania: 'Mosca conduce una guerra ombra contro di noi' - Sky TG24",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaVhlcXYwMFM4VHl4b3o4ME1xUDJPYjZ5R1BYYTRCcVlhdnRBVzQxWkxyWVlON1dieGRvQ3lTeC1PN3dfSFFsNmRJS0FIdnhZNXBpTVl1YV9wSnhiZVdVOFFwelpDVTRhUS1pYU5XX3ZmYkFNejl5MkdEb0hpb2dNRmllNFY5V09n?oc=5",
-          "description": "Intelligence Germania: 'Mosca conduce una guerra ombra contro di noi' Sky TG24 Visualizza altri titoli e punti di vista su Google News",
-          "pubDate": "Mon, 05 Oct 2026 21:59:50 GMT"
-        },
-        {
-          "source": "google-news-it-world",
-          "title": "Ucraina: Merz a sorpresa a Kiev sotto le bombe, 'Putin fermi la guerra' - ANSA",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaGtEZTVPWDdhNDhvb29tdmxiQUFRODRQMlA0ejdwTUhnQXRYQmxfSzFfajJ1amJSbXBaZzFVQjlxVHBIel9fY2xOV25BdkhwZ0hWMDFGem5rRnJrb1JoWTFRcTFiYVpLQ2QxNzNHMm1BZ0NRS3JjYUhXLU1CTHZ4OEtTUm1XNE1VZUtyZ0VQbUNVWlRJRWxrV0wxZUp5c2JMQmdaSDdLYmh3MGtHRjFNNHRWU212andyVGUzaG54TW1QRU1GNHkyV1YyZWlzNUtNbldGNEpBTjBUMTJWVl9lOFltVFlMWE11a1VUYUlsN0HSAfYBQVVfeXFMTVJvUUhVTDBHbnIxMzhTWm5sSURSYXViMjByYTUxdC1obk9zNkpReVNEYVRBZGMtZU1MdEdOdjFBazhxWEVLMTl2QXZtVWgyMndsTGh1dHJkb3V5dTlINFZlVFlZel9faVFQVVUzVzVWbERIaUVvclVRR21GWW1oMllFNjFSLW4ySVl1a1dOT1pDNXlhVDVJUW5vLW9JWXhmMnRCdmxjRnRYNDUtSENWTU91OS1mSTREdnZ3S3NzUjUxTzFYcnBTd01KT2daMEFIR3lJX0J2cHZZZ0VSNXBoekdYbFNUR1NDOHVmZldWZ1NxbWdvbFl3?oc=5",
-          "description": "Ucraina: Merz a sorpresa a Kiev sotto le bombe, 'Putin fermi la guerra' ANSA Visualizza altri titoli e punti di vista su Google News",
-          "pubDate": "Sun, 04 Oct 2026 15:00:00 GMT"
+          "title": "No plague cases detected in Siberia, Russia says, and locals play down scare - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMWZZWVdFaGFMQnJxN3F5OUVrekJPTXAtajVzazBrMnJSejlwMWFNdVRmdExVUXE0WWNjOXJPcmlJVXBTVXhYNHM0RDVTa3ZqU1pnUlNPcXJTdk1tMFVIdU5OM3IyNG9scm85cnoxZ2stcElVaEljMGFfZ0R6TUhoZkE5VF85MlVUNjRPTVdEbmRHYkFLUldMMFNUMXozOXJQb0Q4QzNoSjdpMXNoVDducTVKWG1tQ2p6VmVaQnNBRkZYZ1lEeXNlWWhHV3dsUnBrSUJJYTFJZGl5NjlHc1h3?oc=5",
+          "description": "No plague cases detected in Siberia, Russia says, and locals play down scare Reuters What is pneumonic plague and how dangerous is it? CNN Rubio urges Russia to share more information on plague lab worker's death BBC U.S. officials seeking details of reported Russian plague death, quarantines The Washington Post Russia reports a worker at a Siberian plague institute got pneumonia from an unknown c",
+          "pubDate": "Tue, 06 Oct 2026 13:56:14 GMT"
         },
         {
           "source": "ansa-homepage",
-          "title": "Nuovo allarme degli 007 tedeschi, l'Estonia sposta le truppe",
-          "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/05/financial-times-lestonia-sposta-le-truppe-piu-vicino-al-confine-con-la-russia_ba3b1d1a-ca86-47b7-904e-b7cdf2c99464.html",
-          "description": "L'intelligence di Berlino: Mosca sta conducendo una 'guerra ombra' contro la Germania",
-          "pubDate": "Mon, 5 Oct 2026 21:06:15 +0200"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "peste polmonare siberia ricerca",
-      "label": "Allarme peste polmonare: caso sospetto in centro ricerca Siberia",
-      "n_items": 4,
-      "n_sources": 4,
-      "category": "salute",
-      "macro_area": "clima-salute",
-      "richness": 3,
-      "score": 28,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-top",
-          "title": "Peste polmonare, caso sospetto in Siberia: sintomi, contagio e cosa sapere - Sky TG24",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdDRhdF9xX2RuemxKMGh2c0x3QVZQMVgyTVBtdkJ5eXVqbXQ0ZHJyVy1pMmM3WjRfdWVjTHhEUFVaMjJaTGRGZFZ4dUV5UlFyLWxHOGhUWVdRTzFNVm40SjZlRTJNdjA5Zm9lZkNFTnpYX0hpMkpPUGo4UGJNeXFyV2FyVHVkRERmVWJrc2JwWVVUbndP?oc=5",
-          "description": "Peste polmonare, caso sospetto in Siberia: sintomi, contagio e cosa sapere Sky TG24 Peste, l’esperto: «Da forma polmonare mortalità al 100% che scende al 50% con i «vecchi» antibiotici» Il Sole 24 ORE Le malattie del passato (quasi) scomparse ma che possono tornare Sky TG24 Cresce la paura per la peste in Siberia, gli Usa: 'Vigiliamo' ANSA Peste in Siberia | La quarantena si allarga, Mosca tace, e",
-          "pubDate": "Mon, 05 Oct 2026 07:13:44 GMT"
+          "title": "Rubio a Mosca: 'Condivida le informazioni sulla peste in Siberia'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/06/rubio-a-mosca-condivida-le-informazioni-sulla-peste-in-siberia_80f385c3-55e4-4341-b3a6-701440aeaac1.html",
+          "description": "'Qualsiasi caso di infezione in laboratorio desta preoccupazione dopo la pandemia'. L'Oms monitora la situazione. I russi: 'Un morto per peste negli Usa nel giugno scorso, 7 casi l'anno'",
+          "pubDate": "Tue, 6 Oct 2026 15:37:59 +0200"
         },
         {
-          "source": "google-news-en-top",
-          "title": "Trump says US ready to aid Russia with plague outbreak in Siberia - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORFZicFBBZGxTSHF6WjZjRjdobW5Pa3E2TWx5YzZ3WElCOF9kVks5ZEw4d0FjSmQ4Y1pWQmcyQVRrRTJrM2wwb2lTTk9McmJuU3plMWVUcHJhMHV2NTFkb0hXN1RDOW1jd2FrUFJiSnMzMHU4VkJKSGNKeEY1ZlpUOVJaTDlERTgyZkV3dS1odVBVdzFZakJUTFBJUkUtRkgtcG5aWEFoMUZxd9IBrwFBVV95cUxOOGdBU2hOaGlDdUMtMnotd3VCUmFsbjdOd25Hbk44V2pZc2hMd2dYeUpDNVM2eWNoSElHQW5CaGFKbXgzU0F6VUM4LWFGMXN0R3JZUlpTZW1zSTUzZEhGVG90eXdpU3dLYU5DOFRueHZtdHc1WWt0UUNIOWpzQ0ZPTlB6YUxaTGppZm8zcHBjeXpzaTFWbk8yUjE0YVl4XzlVWkNoM2EyOW9jWEF4NmZB?oc=5",
-          "description": "Trump says US ready to aid Russia with plague outbreak in Siberia Al Jazeera What is pneumonic plague and how dangerous is it? CNN Trump Says He Is Concerned About Russian Plague Lab Death Forbes Dozens quarantined in Siberia after plague institute lab worker dies Reuters Russia plays down plague fears and denies lab accident, says scientist died of \"pneumonia of unknown origin\" cbsnews.com",
-          "pubDate": "Tue, 06 Oct 2026 00:21:47 GMT"
-        },
-        {
-          "source": "bbc-world",
-          "title": "US 'watching closely' after plague researcher dies in Russia",
-          "link": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
-          "description": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia.",
-          "pubDate": "Mon, 05 Oct 2026 21:33:49 GMT"
+          "source": "ansa-mondo",
+          "title": "Rubio, Mosca condivida le informazioni sulla Siberia",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/06/rubio-mosca-condivida-le-informazioni-sulla-siberia_b0536a50-6e6b-4ef2-a73e-89a627c1573e.html",
+          "description": "'Qualsiasi caso di infezione in laboratorio desta preoccupazione dopo pandemia'",
+          "pubDate": "Tue, 6 Oct 2026 13:48:36 +0200"
         },
         {
           "source": "google-news-it-science",
-          "title": "Siberia, incidente in un centro di ricerca: scatta l’allarme “peste polmonare” - L'Unione Sarda.it - L'Unione Sarda.it",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNW5mR09zM3FuRWdYYW41TEFaVy02eWVKaU5FYlFEcGlCZlU5M0VXZFpSNlB4cEgwOVVmVXBETnQ3Y2NWWGltd01TYWpfdDBQQ3czM2t4UzJKSWNPeWw3c2xkeWVGQ25qRkxKRFQ2Y3U2TXRzNXlZa0pGZHpWUXM1VGNyRkp6TTd1N0RtcXlLMFg0NGswcTVfT1RrSWo3QWdiRWl1SkEyLWJ0NFZURHBIa3dVMVUtWktNWWNyaNIBxAFBVV95cUxPSUdaaDZZenN0NFdEWHhaUmZvSUtqTlRpMFY2YmNlb09DMFAtdzJEMV9hcjJOY1JrR3ZvRTFWRmx2Sm9uakhQdmFmOUNSZFZucXFyOHplbnBFbi1CNWxKUTNwWGRIU2NZZjYwV0lfWkxpTjdQbWRMQlMyYUhkanVGaV9EeEp4WmVxa25yd1NHUVNKcGFhaHdSY1dBTy04QTNpNFI2bVJnRTJaSmpaZmNmLTlLd1B0Sko5YUdxTGhMcG1aZnlQ?oc=5",
-          "description": "Siberia, incidente in un centro di ricerca: scatta l’allarme “peste polmonare” - L'Unione Sarda.it L'Unione Sarda.it",
-          "pubDate": "Mon, 05 Oct 2026 15:41:00 GMT"
+          "title": "Peste in Siberia? L'epidemiologo Rezza: \"Un agente potenziato può sfuggire al controllo, non è fantascienza\" ma il \"rischio pandemico\" è basso - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSldVX2lzQWNIdy1BVFV1ZTJlUWtOTUUybXVCNDhnTGkzcDNTUUgxZkFZMUlQMUQ3SXc0N0ZjRjJIU3l6NUpBSTFzVnhWRXpEZGt2VWxlTUxsN1hiZTluMS1BOGdSd1BYWFMzbVo2UmZSOEwzMXlXVnRpY1V6VDY0WlB5VHFKYk9CZ3hEbGxiRzNoTmdmeEprQ282TGVRV2ozb2pLTzRic1RyaFRiZ3dScDFDTklyUXpDSWs0Z3ZkT1FtM0VrYThvVGFjV3NDOGdXZlFBUmhZWS1qcHZDLXhKTVFNZGk4MTA2eXNkZEwyM0trT2tCcU9sUE9XUzc3c2FvSHBqdWFtN3JQZmM?oc=5",
+          "description": "Peste in Siberia? L'epidemiologo Rezza: \"Un agente potenziato può sfuggire al controllo, non è fantascienza\" ma il \"rischio pandemico\" è basso Il Fatto Quotidiano",
+          "pubDate": "Tue, 06 Oct 2026 09:29:52 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "brasile elezioni bolsonaro lula",
-      "label": "Brasile, Flávio Bolsonaro batte Lula al primo turno: ballottaggio atteso",
-      "n_items": 5,
-      "n_sources": 3,
-      "category": "geopolitica",
-      "macro_area": "geopolitica",
-      "richness": 3,
-      "score": 27,
+      "keyword": "proteste studenti francia",
+      "label": "Francia: 450mila studenti in piazza, premier sospende lezioni",
+      "n_items": 7,
+      "n_sources": 5,
+      "category": "general",
+      "macro_area": "societa-diritti",
+      "richness": 4,
+      "score": 51,
       "cooldown": false,
       "items": [
         {
           "source": "google-news-it-top",
-          "title": "Brasile, Flavio Bolsonaro batte Lula al primo turno: sfida decisiva al ballottaggio - Tgcom24",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFY0ZE9kclpneFV4TDNoTllMRlEwTDZlLUl5YjktdmFZNGhpcmxJOTAtNndBQVltNTBnV1hPd0FQSUpWS3MxeU1JdlRvSWFoRnpTb1NMRVRqNTVrczdhcmxTVGVWMGRfaW9QdzdrSXRKTkxmVUhCekZNN1B4U2NxRWJJRTRHbTd2ZUd0THBNRENTQ0d5RW8wUS1ncDRCcTFvZTVHc21zLU1VVzJPT1J2Um9sdEh1VUlMNlE?oc=5",
-          "description": "Brasile, Flavio Bolsonaro batte Lula al primo turno: sfida decisiva al ballottaggio Tgcom24 Bolsonaro a un passo dalla presidenza, Trump: una 'grande vittoria' ANSA Le due facce del Brasile ISPI La borsa brasiliana raggiunge un record mentre il dollaro crolla dopo lo shock elettorale Yahoo Finanza Neymar alza due dita al seggio elettorale e fa il 22: così il campione brasiliano ha ricordato il suo",
-          "pubDate": "Mon, 05 Oct 2026 11:14:00 GMT"
+          "title": "Via alle manifestazioni degli studenti in Francia, tensione in diverse città - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPVS1aaXRHTEJIX0pCQmtHZ1RwcGtwbmZoSTlWMFpDN2pzdE9yd2U3UFpwOVkzNXphU2JTYmZOOUN0Z01LaHhUWHlZOUVTbWxSMUdqTm1WeG1EakY1OHhsUVVTTzl3SmVac3JsT3dhN1FyYjhIQTVwSHowYlB1Z1otS0VILVp1X29tSDFZcEJ4NVlBNTFnNTZpMF9ON2g4TlU3cm1WMXFlRzVsRWdqR0JYd2ZBd0N6cWlpcEVtaW1lWHNVTVBoc3Z3YTdZMEY0Rll5TW1zLUx4ZWFCUzFRS2RYQ0g2c3htaC1GaUM0YVNqM1I1UzVqX0dBd1Nhcm9hV3JfeG9LNnNSeGRPRFI2Y3hR0gGUAkFVX3lxTE1BOGw5OXJkMmxDQkdfY0JtUzhTY2ptY2pISGMxNi0yNExYV1BIWTVNcTlHbXpheUdRc1hYZlpoRlBQOVJuaVdxS1EzMTVlcEdsUkljWVRfV1J3dFRvNzFYZG9jWmRqdlpEYkRGVnFIZnhGeTN1UkR1MnY0Y1REbWx5cTh0UkNPSkRWYzlMZUQtTDZDOWE2NWo1QkhhMWNJUENNa1lWU3d4YTFfcDlpZXFRcW9SQnAxWGE0dTNhcGhwdEpTNVlKTkZLS2NFUzJXRGNPdU11TnJSQXo1d2QwSW9rdks3NDdVcGR5YU9CWWlfTHc4N1NWYktjR0QxSjh6SDhyOGdCeG5VcXQyR2F5WXFJS05NNA?oc=5",
+          "description": "Via alle manifestazioni degli studenti in Francia, tensione in diverse città ANSA Francia, ancora proteste degli studenti: tensione nelle città. FOTO Sky TG24 Perché gli studenti francesi protestano Il Post Francia, 450mila studenti in piazza: il premier sospende le lezioni Il Fatto Quotidiano Le classi popolari sono le vere protagoniste delle proteste francesi - Ulysse Rabaté Internazionale",
+          "pubDate": "Tue, 06 Oct 2026 12:39:29 GMT"
         },
         {
-          "source": "ansa-mondo",
-          "title": "Brasile, l'ex presidente Temer sostiene Bolsonaro al ballottaggio",
-          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/brasile-lex-presidente-temer-sostiene-bolsonaro-al-ballottaggio_9a350b7a-78f3-4a37-9505-3b29dfebceb7.html",
-          "description": "'Le urne hanno parlato, il Paese vuole il cambiamento'",
-          "pubDate": "Tue, 6 Oct 2026 00:09:14 +0200"
+          "source": "google-news-it-world",
+          "title": "Francia, 450mila studenti in piazza: il premier sospende le lezioni - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3J2SUk0eHA3dkpPX2RHNDlvZlZOMTlYVFR1M1daZ3N3Vnl5R21WNGVFYlhxZU5iWTktXzNmU2E5WG5vaHJWcERGMHJSVjB2Smd1ZGxSX1c4NTRMQXRKNEI2N2Zjb3VQZmM3R3pPLWJ2S3plY1dpYmN6N29BRnlkR2tKSllBc3pOSFB0RFN3WTQzOERSdzRaUUlSSHVaZVBZRExCMDBQMA?oc=5",
+          "description": "Francia, 450mila studenti in piazza: il premier sospende le lezioni Il Fatto Quotidiano Francia, ancora proteste degli studenti: tensione nelle città. FOTO Sky TG24 Perché gli studenti francesi protestano Il Post Le classi popolari sono le vere protagoniste delle proteste francesi - Ulysse Rabaté Internazionale Quasi duemila fermi per le proteste studentesche in Francia - La cronaca della giornata",
+          "pubDate": "Tue, 06 Oct 2026 14:47:49 GMT"
         },
         {
-          "source": "ansa-mondo",
-          "title": "Trump, il risultato di Bolsonaro in Brasile una 'grande vittoria'",
-          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/05/trump-il-risultato-di-bolsonaro-in-brasile-una-grande-vittoria_1bdb143c-ee82-4d2d-8517-ee26daee1309.html",
-          "description": "'Combattuta, ma davvero enorme. Incredibile'",
-          "pubDate": "Mon, 5 Oct 2026 22:21:21 +0200"
-        },
-        {
-          "source": "ansa-mondo",
-          "title": "Brasile, Erika Hilton è la donna più votata della storia alla Camera",
-          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/05/brasile-erika-hilton-e-la-donna-piu-votata-della-storia-alla-camera_9f95f60b-8e78-449b-b6c0-09c721e1ef92.html",
-          "description": "La deputata trans del Psol supera 1,59 milioni di voti a San Paolo",
-          "pubDate": "Mon, 5 Oct 2026 19:02:50 +0200"
-        },
-        {
-          "source": "bbc-world",
-          "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
-          "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-          "description": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
-          "pubDate": "Mon, 05 Oct 2026 23:19:14 GMT"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "ericsson licenziamenti genova risolti",
-      "label": "Ericsson ritira i 131 licenziamenti a Genova dopo intervento Meloni",
-      "n_items": 3,
-      "n_sources": 3,
-      "category": "lavoro",
-      "macro_area": "economia",
-      "richness": 3,
-      "score": 21,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-top",
-          "title": "Ericsson, ritirati i 131 licenziamenti a Genova dopo l’intervento di Meloni - Il Sole 24 ORE",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM3NoVzhCN1EweF9maEVLX3JidmVUQ1VtQktKVkhHOWlKWmNKdE93ZkhfVlpjblJjcUtiX0hRbUJRSVE1Ym9nTTRCd1BRS2pacEU5V29FeVpMSHNQb2ZCNEpLQ1dndHBQby1JSHVFU09PeURDSGFhNGRZbjJfMWFKMXlid081amdIYXpmRl9rZ2licUxlSGVxbUZHY2gtSmVYejA0WU93?oc=5",
-          "description": "Ericsson, ritirati i 131 licenziamenti a Genova dopo l’intervento di Meloni Il Sole 24 ORE Meloni interviene sulla vertenza Ericsson, ritirati i 131 licenziamenti previsti a Genova la Repubblica Vertenza Ericsson, la telefonata di Meloni sblocca il caso: \"Licenziamenti ritirati\" GenovaToday Vertenza Ericsson, vertice a Roma per salvare i 131 lavoratori di Genova Primocanale Urso, bene che Ericsson",
-          "pubDate": "Tue, 06 Oct 2026 00:25:30 GMT"
-        },
-        {
-          "source": "ansa-economia",
-          "title": "Urso, bene che Ericsson ha accolto la richiesta della premier Meloni",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/urso-bene-che-ericsson-ha-accolto-la-richiesta-della-premier-meloni_3ae1d293-1be7-4a0c-91e7-d742427619e7.html",
-          "description": "'Ritiro dei licenziamenti e attivazione di procedure consensuali'",
-          "pubDate": "Mon, 5 Oct 2026 18:27:03 +0200"
-        },
-        {
-          "source": "sole24-economia",
-          "title": "Ericsson, ritirati i 131 licenziamenti a Genova dopo l’intervento di Meloni",
-          "link": "https://www.ilsole24ore.com/art/ericsson-ritirati-131-licenziamenti-genova-l-intervento-meloni-AJ5eeoZB",
-          "description": "L’azienda ha deciso di procedere con incentivi all’esodo (48 mesi) e ricollocazione del personale in altre sedi della multinazionale svedese",
-          "pubDate": "Mon, 5 Oct 2026 16:04:00 GMT"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "meloni voce deepfake euipo",
-      "label": "Meloni registra marchio vocale contro deepfake e cloni IA",
-      "n_items": 3,
-      "n_sources": 3,
-      "category": "tech-policy",
-      "macro_area": "tech-ai",
-      "richness": 3,
-      "score": 21,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-top",
-          "title": "\"Io sono Giorgia Meloni\": contro i fake la premier registra la sua voce all'ufficio marchi Euipo - RaiNews",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPR3VUcl9xYWFBVURsRHMyTmlzNHlYTzJLRkp3Q3B1dV9vUUdCNi1qUlYzUk5MTFc0TVpIdXhEOUtKTWw3emdJZ202cXFIc3o5VE1GTlM0bFdjWkpnWkVrNExSSDNfU0FjZV9uTWg4WmozZmVuMDQ1LVBIdkFlYUxleXhzbC0tenl2TERsVEZvNXpQZFo1TTdUMHFQaFBmMzBqR1NRNlk3TnZhb3lvRzNNdG9fUGNLMnUweXpQUHVZSTVNeDBfNDBFN0dFWXhNMjYyVzFQdkRreUlCUkFBaTJaRXo2RldSTklkZjVvMTdNTFVsMnFadHZxb2M2dHp4d3IwQ2JtYtIBigJBVV95cUxOczk5Z3R4TGNqc0YxLTE1b09OV2ZlOGVvZWliRnBEdFRpSlVwTzhyWXdIWnU0VXczRWkyVFdxdEdCdl9qaWZ6bjdnZGdObXhheVR3N29GaGRYNGFJMzlJUlRDdjY4cVQxWGR3YXNzRVNiSm4yeU5jRnFCeXItTE1CZExRbHZhTERjMDl4RHc4M0lvcDdMV1B3ZmNmQ1NaaGVpaHdNck1QR09OOUVKck9jS1JhVGpPQnFjY3RZeXdVNUhoeDBHbFhTcmxJWGZBeG55MkxCMVZMdG5HTVhlRXYwTjhfa3VuQzNBNlZ1X0c2RV8xYncxaFhURm85bzZqa0FXT2h3NnJabE5MQQ?oc=5",
-          "description": "\"Io sono Giorgia Meloni\": contro i fake la premier registra la sua voce all'ufficio marchi Euipo RaiNews Il voto a maggio più vicino, e Meloni tutela la sua voce dai deepfake ANSA \"Io sono Giorgia Meloni\". La premier registra il suo marchio vocale contro i cloni IA e i deepfake la Repubblica \"Io sono Giorgia Meloni\" contro i cloni RaiNews «Io sono Giorgia Meloni»: la premier registra la sua voce a",
-          "pubDate": "Mon, 05 Oct 2026 11:54:00 GMT"
+          "source": "google-news-en-top",
+          "title": "France Protests Live Updates: Unions Join Student Demonstrations - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNam9vd29RT0d1Y0ZKMmpJbmZFd21XSWlWaDNOTWVWaVhkQ2FhODMzcFJnN2N4Mzg4dnpBRmV6c0g1MG4xTWt2Y0QyMXZNeWhwMHlHNDJGVmdEMFl2RDhhclpiZkRmUzFOZnpJUFdseTF6Q002V1VGVV9KZ09rVDF3dEp0Unc?oc=5",
+          "description": "France Protests Live Updates: Unions Join Student Demonstrations The New York Times Unprecedented student protests are rocking France. Here’s why they’re angry CNN Police fire teargas at French protesters on biggest day of school demonstrations Reuters Student riots engulf France as far-right presidential frontrunner Le Pen vows fiscal turnaround CNBC Student Protests in France The New York Times",
+          "pubDate": "Tue, 06 Oct 2026 15:24:33 GMT"
         },
         {
           "source": "ansa-homepage",
-          "title": "Deepfake audio, per realizzarli servono tre secondi di voce vera e 30 euro",
-          "link": "https://www.ansa.it/canale_tecnologia/notizie/cybersecurity/2026/10/05/deepfake-audio-per-realizzarli-servono-tre-secondi-di-voce-vera-e-30-euro_5898ae45-4e2d-4c10-b91e-f985e1a6ea47.html",
-          "description": "Meloni registra la voce all'ufficio marchi Ue. Le manipolazioni hanno finalità politica e frode",
-          "pubDate": "Mon, 5 Oct 2026 17:56:49 +0200"
+          "title": "Il terzo atto delle proteste studentesche in Francia - FOTODIRETTA",
+          "link": "https://www.ansa.it/sito/photogallery/primopiano/2026/10/06/il-terzo-atto-delle-proteste-studentesche-in-francia-fotodiretta_102fb5ae-44d2-4cce-b6e6-3ab7e374a727.html",
+          "description": "Continua la mobilitazione, manifestazioni nelle grandi città del Paese",
+          "pubDate": "Tue, 6 Oct 2026 17:09:23 +0200"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Proteste degli studenti in Francia, scontri al corteo a Parigi. Lecornu: 'Da settembre più di mille feriti'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/06/oggi-il-terzo-atto-delle-proteste-studentesche-in-francia.-le-violenze-verranno-sanzionate_da5da6a3-f887-4d49-bfc2-f1f85f11a49a.html",
+          "description": "Alta tensione in diverse città: a Lione, Marsiglia, Strasburgo, gruppi contro la polizia. Idranti e lacrimogeni",
+          "pubDate": "Tue, 6 Oct 2026 17:32:12 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Scontri al corteo studentesco a Parigi, polizia lancia lacrimogeni",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/06/scontri-al-corteo-studentesco-a-parigi-polizia-lancia-lacrimogeni_3938bbcc-2c4d-4576-afe6-71f292063f3d.html",
+          "description": "Tensioni a place de la Nation, incappucciati scagliano oggetti",
+          "pubDate": "Tue, 6 Oct 2026 16:21:09 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Via a manifestazioni studenti in Francia, tensione in diverse città",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/06/via-a-manifestazioni-studenti-in-francia-tensione-in-diverse-citta_815593dd-3456-49d9-83e7-a10e284e5e62.html",
+          "description": "Lione, Marsiglia, Strasburgo, gruppi contro la polizia, idranti e lacrimogeni",
+          "pubDate": "Tue, 6 Oct 2026 14:11:34 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "ucraina attacchi droni russia",
+      "label": "Ucraina-Russia: maxi attacchi con droni, navi affondate nel Mar Nero",
+      "n_items": 6,
+      "n_sources": 5,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 4,
+      "score": 46,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Ucraina, maxi attacco russo con 205 droni nella notte: Kiev ne neutralizza 172 | L'Estonia sposta le truppe vicino al confine con la Russia - Tgcom24",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOejV1ZEVSaHFOVkxTbGZTSkltUDNOZ0tBWmlWQ2Z4QWV1akphWGtDNm5hX3ZlT0xvRWlWZlpSN3JQV3JlWnFxdjUzclJZYWY1akw1X01COUdrY3ltRUY5UlhUaU9sRGRha0NYbVNOS21TclNyRjU3NU1qS2J0UklmRThNWlZzblludWUwQjN2NHZfMHR5WkM2T2NfRdIBaEFVX3lxTE1mZ2JrSUxubkVDVzd4RVREa250V0ZaNFYtMGJfMjR2N1hYZzRLcGZfNkE0Umd3ZFIzS1lqaUY3UjV5aHcwM0FWcXgwWVlJeFdZeS1PX2JoaEtqZWZJMGZmM2tJZXZrRHcz?oc=5",
+          "description": "Ucraina, maxi attacco russo con 205 droni nella notte: Kiev ne neutralizza 172 | L'Estonia sposta le truppe vicino al confine con la Russia Tgcom24 Il Cremlino: «I diplomatici europei decidano se evacuare da Kiev, noi continuiamo i raid». I numeri dell’ambasciata italiana Il Sole 24 ORE Ucraina, i ponti di Kyiv nel mirino della Russia Vatican News Almeno cinque persone sono state uccise e altre 53",
+          "pubDate": "Mon, 05 Oct 2026 21:34:55 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "La Bulgaria: 'Due navi colpite da droni sulle coste del Mar Nero'. Una è affondata, l'equipaggio disperso",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/06/la-bulgaria-due-navi-colpite-da-droni-sulle-coste-del-mar-nero._0231200e-b392-4867-969d-b60d3337c436.html",
+          "description": "Nella notte massiccio attacco di Kiev sulla regione di Mosca, due vittime. Raid russo su un ponte a Zaporizhia, 5 feriti",
+          "pubDate": "Tue, 6 Oct 2026 11:08:57 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Filorussi, 3 uccisi e 3 feriti in raid ucraino su minibus in regione Zaporizhzhia",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/06/filorussi-3-uccisi-e-3-feriti-in-raid-ucraino-su-minibus-in-regione-zaporizhzhia_3ff76381-446e-4df6-85cd-f2b018799d58.html",
+          "description": "Evgeny Balitsky: 'Un attacco mirato da parte di un drone nemico'",
+          "pubDate": "Tue, 6 Oct 2026 10:50:46 +0200"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Ship sinks and crew missing after Black Sea drone attack",
+          "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
+          "description": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
+          "pubDate": "Tue, 06 Oct 2026 11:53:21 GMT"
         },
         {
           "source": "google-news-it-tech",
-          "title": "\"Io sono Giorgia Meloni\". La premier registra il suo marchio vocale contro i cloni IA e i deepfake - la Repubblica",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlBEc0lLaHF0c3VyMHd5ZnEtOUFlSmdvdGdpcU43OVp4Z3pUZXlCTlhiRGdDenpVZkhhV2dOcXJ6SFUzdUZNZHZQZUFEWkVEbVRaQzJMRF9NT18tWjN0SHAwV0NJc0Y5WE1vTXhGb1laVC1LQUJFVmFMRTdHeVp5WFZkYkZldHlZN1NMMnNodEZwU2Z3NlNTMER4N2Rlc20xNDlEb3FEb1RUVnE1ZmlPdC0yWlNSNUJTdGhMWkpNMGdSdFBKRjREZdIBzgFBVV95cUxNbmhvR1V1ZTVqZGtVMzlCa1F6N21Rd3lWUHlFVWlHVHM1TnRKbXJpTVJya3hONTBaVXUzZ2t5QTZFQ08tYXhuY2RZQ09HdnlqaWs0c1dQbDRfbkRuZW0yaWhSaU5aRFZ6eE01T0JlNkFMZlJ5TV81enJfT0dkLWY5ZXFabEk2SXhqOHozbXIwVnMxbHhZR2dqNVlmS1d4MVNULXRfZWNrT1c1ZEZubDlmaEJ0aW0yU2FKNzFtZEstM19QYkZLSG5QMzRuUEJNZw?oc=5",
-          "description": "\"Io sono Giorgia Meloni\". La premier registra il suo marchio vocale contro i cloni IA e i deepfake la Repubblica",
-          "pubDate": "Mon, 05 Oct 2026 09:10:01 GMT"
+          "title": "Massiccio attacco ucraino con droni sulla regione di Mosca, due vittime - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcWhwOHdsczJydXg4OXhENHlFRTF2S3JTUDRxY1dTbk1XRzZKZUp6UXVRZ1U0YWMtNHM0MGk0cHpPZ3ByN0s5SVZZNjRzYXI4X2drQnJBa00xclJkRzJvOGVSclQ2S29TVVg2SXBnMXZtOTZCUDl4R3JYVGVDU19nOHZEWXFKUWRPd3FsemtJWVVTaDNwanNmQks5T0RTc3hRTTZfa2ljV2kyS3FaZE5xTGpGMEFKWk9kUFVCWVd4YU51QXV1RVMyUzR0UjN2RnZ0RlNnUzB6RXpudU1RbnJlcklic0dLU0Nlc2tpay11UjZBZEdw0gH6AUFVX3lxTE1hQ0gwU0o4TFF2elpKX2xwbHVrV0ZWNTNVS0hNVUZkOUcwbURRUUpROGxyWTVkUjBrdzZyOE9xMjhPWWNxbjZETkg0TGo0V0Uwd21wWW55QTgtV1lfWWk2NDBuWVBOYlVlR2F4aElqbEp2SjZ1Wkxsc25Ic2dPanVRazYwTU5VYjhRR3FmNmU4UUZnSC1mUTZfRkVLR01EaUQ0VVl1OF92SVo5bmFZQ2pVSmNwU0x0TnZEZzd0d0tKMkxrTm9BSldZdWI4V2tCcFV2dWF3VGVCb2EzUzhvakhjYVlDMjhhYjdSTV8yWjZvX0hqMnJsejhXQ2c?oc=5",
+          "description": "Massiccio attacco ucraino con droni sulla regione di Mosca, due vittime ANSA",
+          "pubDate": "Tue, 06 Oct 2026 06:39:00 GMT"
+        },
+        {
+          "source": "google-news-it-tech",
+          "title": "Mar Nero, quattro mercantili colpiti da ieri: due affondati. Mosca: \"Berlino crea nemici immaginari\" - Crollato il ponte di Chonhar tra la Crimea e Kherson - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUVN3ZmZXSkFJQU5YOWVfWFFsRTQ2U0RxcGdkUDBFSGpvSVctNEJRSHZEdXpmNTlmdGdNZzNLSmo5RktjVHNQOVZBWjlObjNBR2JLaXdadE9jbHlsUDVZbGtveU9nY2wzLTBtSE93ZFBGRkt6c2FmRVduZy1QLWZGQ3Bod28xR2tvdUk5V1hWUWFOaF84WEN2SFRGR0p1V2t6SEdTbDVHOXUxLWtXemtlT0Z1cjBzc1R4ellYcTMyTXJTa1lMcWFYa3VDTEJ5ZC10cWx5ZTlSQWltY25mVUHSAeMBQVVfeXFMT2ZqVWpQOU4ybUc3RXJfTjBLcDUtT0UyR3I3dHN6WUpfaU1wSTJSb1JHVlE5cmU3TXpmb3lEWWlVYVhRM3Y4UTl6NE5QaFg0bUFvcl96ZER6UjcxRDBTZmZBa0Ixdjl3WDFMenE5U3BXTGo3ZUFCUkNvVDlsd0lnNzhZTU5vWkVRNXNUQzhKeUsyYlNZSThzekxCZ3JOVmdJUzZFWWZlREsyUlNPbDhsLWRDQkF2VXBYZ3c1TUNRWHExOWhZU05hTDNQNzZWRjhtMXBZbEhKVHNQcHhZbG81eE1hY1U?oc=5",
+          "description": "Mar Nero, quattro mercantili colpiti da ieri: due affondati. Mosca: \"Berlino crea nemici immaginari\" - Crollato il ponte di Chonhar tra la Crimea e Kherson RaiNews",
+          "pubDate": "Tue, 06 Oct 2026 14:20:00 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "france proteste scuola studenti disordini",
-      "label": "Francia prepara giornata nazionale proteste studenti dopo violenze polizia",
+      "keyword": "usa base fairford iran droni",
+      "label": "Trump ordina ritiro bombardieri da Fairford per minaccia attacchi iraniani",
       "n_items": 3,
       "n_sources": 3,
-      "category": "diritti",
-      "macro_area": "societa-diritti",
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
       "richness": 3,
       "score": 21,
       "cooldown": false,
       "items": [
         {
+          "source": "google-news-it-top",
+          "title": "'Ritiro degli Usa dalla base di Fairford per la minaccia di un attacco con droni iraniani' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQWEJ3M0RmUG5KR0RUblBjY24zeGEzYVdORFRpQm9jM0NlSDd2V0lGX0lXWFZsYS0zSHh6OG5TRFJTS0R0RC1DSDNwRXAxeEFNS21kdEJvZDNubnVyRkpjNVAtdmpaS1lHa1l3Qlh3VU02NkVNb01UV0QzdUFCXy11bERVcG5hdWE3RjNxQzJMQTZqUDIwYXp6MFVuZlMyb3A1MG45MjdvcnA4NndrVHFSNnpRSXZzVUFOUFZnZ3N2QmRnVmZzZUktYWtGYVBYRnBlUWVuMzB5SUp6dmhFcmFQelk1dWloeUlRV2VheDJhT0p0LU9uNmU5MtIB_gFBVV95cUxNVnlvSWdSa1FmN3BXVjZ4UWJQYk0ybVFZaHhyUkVtY1Q3LWZ4TWdBSnRaVWpkLU1HaUE1VnN0VlkxMXItVmh2MHBiS3BoeHVVQzU1bXE0YnF1Nm5MSTZiU2VjWXIxNzBwb2pnY29xbkRiT2JBWXh3Y05MN1Z5cXRfR3VOUDBCTkh2ZTF4OHZxR3Z0VXlnYnd3bkp3czFuS3B3Q2hTNVIyNkVwc1JrMlE2Nld3S056OUtXVW1sbDNxTzFmXzhpd19heXI0WFE5MVRWUmJfYm1Jam9LazNjME1tTzVEc19GejJ2bVdDREFsSm5qVVlONjBqeTNWaW9fdw?oc=5",
+          "description": "'Ritiro degli Usa dalla base di Fairford per la minaccia di un attacco con droni iraniani' ANSA Il giallo della base Raf di Fairford: la pista iraniana, i 6 fermi e gli aerei ritirati dagli Usa. Trump: «Rischio di possibile attentato» Corriere della Sera Presunto complotto iraniano contro la base RAF: arrestato 22enne a Londra Il Fatto Quotidiano Gli Stati Uniti hanno ritirato tutti i propri bomba",
+          "pubDate": "Tue, 06 Oct 2026 09:02:06 GMT"
+        },
+        {
           "source": "google-news-en-top",
-          "title": "France braces for national day of school protests after injuries and mass arrests - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sNDY4UUxzUHdQUGI5MzEySk5Jb3plX3lOS0I0ZEwzRTVzY3F4VDUzSHdROE9ReGZxenpwejFHTktTbjBwT0tPQWxvWWVmNlkzM2ZwX1BVa0VablU?oc=5",
-          "description": "France braces for national day of school protests after injuries and mass arrests BBC Tens of thousands expected in Paris for high school protests France 24 Teenager's hand blown off as French school protests enter third week Reuters Hundreds of French schools shut as students revolt against poor conditions The Washington Post France braces for national day of school protests as boy loses hand The",
-          "pubDate": "Mon, 05 Oct 2026 21:18:10 GMT"
+          "title": "Trump says 'threat' led US to pull bombers from RAF Fairford - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2NTE5Y0llSGt0NXhzZThxeGl6QTRqS0x1YzdjRjNYcTh2QVFHRzJiYlRvRjBfZzl0bzdLeGI1bEM1SktONTBxU2RlWVI3VVQ0S0VpeGZTZ0ZZQlk?oc=5",
+          "description": "Trump says 'threat' led US to pull bombers from RAF Fairford BBC Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base The New York Times UK: Seventh arrest made after air base plot DW.com Mapping where US bombers are based globally Al Jazeera Trump says US bombers moved from UK due to threats Reuters",
+          "pubDate": "Tue, 06 Oct 2026 07:02:24 GMT"
         },
         {
           "source": "ansa-mondo",
-          "title": "Gli studenti tornano in piazza, la Francia teme il caos generale",
-          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/05/gli-studenti-tornano-in-piazza-la-francia-teme-il-caos-generale_165e5e2d-a588-490e-a3ca-a745a8340512.html",
-          "description": "Tensione alla vigilia delle proteste, 15enne perde la mano per una granata della polizia",
-          "pubDate": "Mon, 5 Oct 2026 19:26:35 +0200"
+          "title": "Media, ritiro Usa da base Fairford per minaccia attacco con droni iraniani",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/06/media-ritiro-usa-da-base-fairford-per-minaccia-attacco-con-droni_cfb62dfe-a840-4998-8497-b91d47dd9128.html",
+          "description": "Funzionario: 'gli Stati Uniti possono schierare i bombardieri da qualsiasi luogo'",
+          "pubDate": "Tue, 6 Oct 2026 10:19:35 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "nobel fisica halzen neutrini",
+      "label": "Nobel Fisica 2026: Halzen vince per rivelatore neutrini sotto il ghiaccio",
+      "n_items": 3,
+      "n_sources": 3,
+      "category": "general",
+      "macro_area": "clima-salute",
+      "richness": 3,
+      "score": 21,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-world",
+          "title": "Il Nobel per la Medicina a Deisseroth, Hegemann e Nagel - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOT20tWGZ4andRU1VFU1JiNGRVd2hNMV83SHFnVVc3UkdwMHpuTjhHdlQwRVBkVlNkTWxNQkg5cHpyREFQaXhfZ1hwZWlYZ2FyME9EeTlRRHp3X1lod3RoYmxFMG5PRDEtRUhKeElJS0FYTFczSllSWk8tUlhlQmw5eUNNWmlHZ2xfVmx1eWx0ZTVwa0hfLVA1c2t5ZDM5aXNQZFhHcXJXVS13WXpDYWZiRm1tUG1TRTF4V3lOMDhTblp0c0tPckVsNjhNNWJqU0h6SWhSb3NjVmdIdDlBTVF1M244c3c0QmZHdnZRcnYwa9IB9AFBVV95cUxQUHdJUGNLdDZzZ2FFNkRzckFabDZrWDhtaVpRczZWX0pOdzlWeVpDbW5maWlaVzNZcm9SQi1Gd3lLbjVWdFhEeG52TzdSelcwVHhEenZTSlp1eGxCOW5kZmtncXJwcHNKVkdfLTNqcjU5QjVYbjhEZUVJMWhMYTJMbWwwQy1GYXhQOGNBdGtoLUtCVUNwUG9mUXI3d2szUEdyV3BlM0M4SGo1SUJpbFFqcWR4MEYzWmJ5TkZhdUZmdXNRbjdLZUhtdFNMYWc4MktHQUp1Nmh2LUc1WGV2Zk02NTlldmtCeGQ0WU96cHRIVmxlTTBN?oc=5",
+          "description": "Il Nobel per la Medicina a Deisseroth, Hegemann e Nagel ANSA All'optogenetica il Premio Nobel per la Fisiologia o la Medicina 2026 Focus.it Le notizie di scienza della settimana Internazionale Nobel: the 2026 Awards Week runs until 12 October Il Sole 24 ORE La rivoluzione luminosa delle neuroscienze premiata con il Nobel per la medicina 2026 Le Scienze",
+          "pubDate": "Mon, 05 Oct 2026 17:07:00 GMT"
         },
         {
           "source": "bbc-world",
-          "title": "France braces for national day of school protests after injuries and mass arrests",
-          "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
-          "description": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
-          "pubDate": "Mon, 05 Oct 2026 21:18:10 GMT"
+          "title": "'Ghost particles' from space telescope wins physics Nobel",
+          "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
+          "description": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
+          "pubDate": "Tue, 06 Oct 2026 11:24:19 GMT"
+        },
+        {
+          "source": "google-news-it-science",
+          "title": "Francis Halzen, il cielo sotto il ghiaccio, il mappamondo e un cubetto: perché ha vinto il Nobel per la Fisica 2026 - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcXVhODZlbWh0WS1EbXlBZG5BajlGaklLdU1CcC1vc1h6Z2k0UGI5dTEweGNGR0Y1NkRYS2R6RWlwRnFRLWdtaC1IdEYtUzctVjBGTzgxVWxNU3drclFNOW1lM0hPU3BiNFU3XzZJZktUcFE0c2R3NkF1V3luNVdaU1RiWS0xdENKTlRnQTJ0Q0JhcXNMTFA3dk1WSHVGX3RDMUwtRkIyQkFKZ3RoZ2lLd1RTOWlFV3E4T1ktUXN0b2JWUU3SAcgBQVVfeXFMTXA2QjFFRTlIcDEtVEN6ek15emtpRkRvUDd5MnQ2cHBOdWEyLUtJTHdhM2xudzcwX3JKaVVHdjJtZ0s2OS0tUVY1aFhHWU1FUkp0TTkyWGZpYkg5UW9CSmVWbGcxTHduOU9oT09jNTN2alVFS3dNUXVjQkFZaUFtdS16Q0dPUG1ONmpMM3VkQThkc0psd3dRcFdzRzR6TW1fTnJtSEZoZ3NWaTJuNDZyaWZKaC05YzFBbmk5WThRSVFONkZ6a1BDd3c?oc=5",
+          "description": "Francis Halzen, il cielo sotto il ghiaccio, il mappamondo e un cubetto: perché ha vinto il Nobel per la Fisica 2026 Corriere della Sera",
+          "pubDate": "Tue, 06 Oct 2026 10:38:47 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "spagna sanchez elezioni novembre",
-      "label": "Spagna, Sánchez convoca elezioni anticipate per il 29 novembre",
+      "keyword": "puigdemont arresto revocato",
+      "label": "Spagna: Puigdemont può tornare, revocato ordine d'arresto dopo 8 anni",
       "n_items": 3,
-      "n_sources": 3,
-      "category": "geopolitica",
+      "n_sources": 2,
+      "category": "general",
       "macro_area": "geopolitica",
       "richness": 3,
-      "score": 21,
+      "score": 18,
       "cooldown": false,
       "items": [
         {
           "source": "google-news-it-top",
-          "title": "Spagna, Sánchez si dimette e dà il via alla crisi di governo: elezioni anticipate il 29 novembre - Corriere della Sera",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSFNPOTdXbDVUMlk2Ym55TUF3czRuRVpDdVdqWllzd1ZVTkdoNmtQMklxZV9VdmZOY0theFdTZWxVMjRCbzhBX2t6TGJ3ZlFCRjJQRm9rTksxT05acHYzVFphOGNHZ1RCUy1ib2RXUGdUMlZqdXVkVDFXMjBYelMtTnVWekdfVWRoVjI0Q3Z3SFQxQUdqekhuc2pHdHhwOWpnSm85T2EyNWVzcXRjRjd3MldhNFJiM1Y3THByRUt1UdIBxAFBVV95cUxNcVVjdm1uSFNkTWRLX3c2eFh6THZyN1phMzhVT3lwNGQ4dzcwZGcxNEhaOS1sRnJjb00tTUZKM3lnMTViUnMyX1pHcGg5TWpOUERoSzlvNGdSS2FZeGJyVDFUdDh1dGI3b1FhWXp4dDhzWjhmbnlEYVM3bmk4alJTaHdNOXNxNW1KZ0l3aUdlaHV4bWlORkRnbHZuZ3lRNXF2c3NvWXp2aUtlemZkQkJYU2VXNU5Ma1hBYUhvUnRJSEpNQUZk?oc=5",
-          "description": "Spagna, Sánchez si dimette e dà il via alla crisi di governo: elezioni anticipate il 29 novembre Corriere della Sera Scandali e «affari di famiglia»: la mossa disperata sul caro affitti di Sánchez, capo di un partito che perde mezzo milione di voti l'anno Corriere della Sera Maricarmen, il voto a novembre e l'ultima scommessa di Sanchez La Stampa Spagna al voto, come funziona la legge elettorale e",
-          "pubDate": "Mon, 05 Oct 2026 15:48:54 GMT"
-        },
-        {
-          "source": "google-news-it-world",
-          "title": "Spagna, Sánchez convoca elezioni anticipate il prossimo 29 novembre - Avvenire",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbVN3V19UdTlkS1Y5RkROTkc1TWU5OWJ3amJsOWNtcUMwRFhKRzY2QW9rY2ViTzdVdVZfZUl1dHhDY0hpRWgyX01GSkR2c1pYQURBTjE2V01IVzVxZzc2aEZhcXdXNERJQk1HMl9LT2ZSTk41RTdON3dPdVVZcmNFTFNNeVpQQzByTng4?oc=5",
-          "description": "Spagna, Sánchez convoca elezioni anticipate il prossimo 29 novembre Avvenire Scandali e «affari di famiglia»: la mossa disperata sul caro affitti di Sánchez, capo di un partito che perde mezzo milione di voti l'anno Corriere della Sera Maricarmen, il voto a novembre e l'ultima scommessa di Sanchez La Stampa Spagna al voto, come funziona la legge elettorale e il metodo D'Hondt ANSA Il sogno di Pedr",
-          "pubDate": "Mon, 05 Oct 2026 20:10:17 GMT"
-        },
-        {
-          "source": "ansa-homepage",
-          "title": "La scommessa di Sanchez, elezioni anticipate il 29 novembre",
-          "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/05/sanchez-ho-deciso-di-convocare-le-elezioni-anticipate-il-29-novembre_1a6ab6a9-c5ba-40c3-8694-65c484301904.html",
-          "description": "Il premier cavalca la protesta per ribaltare i sondaggi e riapprova i decreti casa",
-          "pubDate": "Mon, 5 Oct 2026 20:10:17 +0200"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "flydubai copilota dirottamento gaza",
-      "label": "Copilota tenta dirottare volo FlyDubai verso Tel Aviv, motivo Gaza",
-      "n_items": 3,
-      "n_sources": 3,
-      "category": "geopolitica",
-      "macro_area": "geopolitica",
-      "richness": 3,
-      "score": 21,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-top",
-          "title": "Flydubai, il copilota che ha tentato dirottare il volo per Tel Aviv: «L'ho fatto per vendicare Gaza, volevo morire da martire» - Il Messaggero",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdlYwQVUtZ0VQc2d6V1dKcFpDUkdza1NtX1Jfakh0SGgxNVRpblI0SkZxWTE3aUNjdTNNbDVaZllmVVpIM1NWT1MyNV9SN2U2V1BRZmx3TV9LbUFickN0eV82SmxKTk03cHNLdC0zSmkzRGlkV0hOcTlfR1R6ZkxKNi01VHpNSFdjVTNLdnpYdnBJTG1EZW9xeXhyLXJoRTZrMEFaTTlTc3Y3V1FJS241YWl0a1ZJUdIBuwFBVV95cUxPam9Mc2IxN1lyLWdSaFA2TW5zZVlsaHVReFdVcHJkQ1hIR2lka2pEUDJXM0o3d1FrWnZNSTMyTktQYnNCdkVwSDF3NkpiT29xLVRLSVhvY3JlTXRoTGZscWlDd0pxOF9Cd0xzNktjLTlxQkVkQW1reFJZYThNQXQ4NjhFOXJsOXktbkNwZ3NmZmF4NWNFbDZqM3B6RENvREdGSW1KZkVJbkNHYUtpWmt3VFZxQWppWEZrWDMw?oc=5",
-          "description": "Flydubai, il copilota che ha tentato dirottare il volo per Tel Aviv: «L'ho fatto per vendicare Gaza, volevo morire da martire» Il Messaggero Flydubai, il copilota che ha tentato di dirottare il volo: «L'ho fatto per vendicare Gaza, volevo morire da martire». Trump: «Dietro c'è l'Iran» Corriere della Sera Il copilota di Flydubai agli inquirenti: 'Volevo vendicare Gaza' ANSA Flydubai, “il copilota v",
-          "pubDate": "Mon, 05 Oct 2026 18:50:09 GMT"
-        },
-        {
-          "source": "google-news-it-world",
-          "title": "FlyDubai, il copilota omanita: “L’ho fatto per vendicare Gaza, volevo morire da martire” - Il Fatto Quotidiano",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDFFM3VqVkdzZmMzUVN2RkdFM2d0V1lMLUZIVjRyOTRtZXpVY1B2N21BNEZtSlVpYUhsb3hJMS1XT0RQWExwZldIY1JhWG9lc3VUMlZjMHlCZmk1bkRCc0loeUFoeWtYVXVtMTFWTGR1OUFCd0JxUC1uRkR0ZDNNNVF2VXZwMUY5WG5hWVZ5TEU0UHk5aVFtMWtOTllzX2NZNl9j?oc=5",
-          "description": "FlyDubai, il copilota omanita: “L’ho fatto per vendicare Gaza, volevo morire da martire” Il Fatto Quotidiano Flydubai, il copilota che ha tentato di dirottare il volo: «L'ho fatto per vendicare Gaza, volevo morire da martire». Trump: «Dietro c'è l'Iran» Corriere della Sera Il copilota di Flydubai agli inquirenti: 'Volevo vendicare Gaza' ANSA Flydubai, “il copilota voleva far schiantare il volo sul",
-          "pubDate": "Mon, 05 Oct 2026 18:55:40 GMT"
+          "title": "Dopo otto anni Carles Puigdemont potrà tornare in Spagna: revocato l'ordine d'arresto per l'ex presidente catalano - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQM1VBaVItd0NiaWl3VDAwZTdsX2E5MVdwS05jUWRrckhfZzZiOWxoWl9tejlhYTh1N0tERTRZbUVrVXBUR252TGxoWTFnNm43UjU1T3pzTmR5YzNROXg4YUVsdDVHTlZzeDdiRkVIMVhOTVc4T0F0dFAyTGtyQnhyZWJkUU51ZVpOR0NDZElTWHRRNE5MYUFuWE80Q3NKdE9YZ2twc3VKUWpMQjZjYlpxaS10dU13V21VbTQ0N2JRZXBsSERrZDBwZ2Mwc2l6WGRTS1dtWnl2NnpHcTdNWmQwem1B0gHnAUFVX3lxTFAwZW95dklaRFc5aWJFZmxEcnZYN3dubjNjZnM4OFJSXzk5VnRJRXdaVU1OWi1DOUhEVDhrUkNyUTI4RGpGeEpUNUpMeXNCODRldW4zQzdweXdySjFvRENCR1AzQVNHRGMwMDRzbjZ1blZxSUlRQVdFMUxrS2hpaDBBbDQyX1pYNWt6UHoxNzZ2VVA5MDhfUGFJOG55SHJFeW5vcjFPUk9wckEyQTNsTmh1RFBueDNrUlVVSnlwSlRxMVc1ZDNJMUJKZlBQdkdKdkdLNzNJV0J0VnBqVHBFQ2RNOWItTEVLZw?oc=5",
+          "description": "Dopo otto anni Carles Puigdemont potrà tornare in Spagna: revocato l'ordine d'arresto per l'ex presidente catalano Corriere della Sera Puigdemont libero di tornare in Spagna dopo 9 anni di esilio Il Fatto Quotidiano Puigdemont torna in patria? La Corte costituzionale spagnola approva l'amnistia per il separatista catalano Euronews.com Spagna, il Tribunale Supremo revoca l’ordine di arresto per Pui",
+          "pubDate": "Tue, 06 Oct 2026 12:28:10 GMT"
         },
         {
           "source": "ansa-mondo",
-          "title": "Il copilota, 'l'ho fatto per vendicare Gaza, volevo morire da martire'",
-          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/05/il-copilota-lho-fatto-per-vendicare-gaza-volevo-morire-da-martire_1e2c9160-ca11-4361-94d1-be7288146382.html",
-          "description": "Media, la confessione agli inquirenti durante l'interrogatorio negli Emirati",
-          "pubDate": "Mon, 5 Oct 2026 20:16:45 +0200"
+          "title": "Il Tribunale Supremo ha revocato l'ordine di arresto per Puigdemont",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/06/il-tribunale-supremo-ha-revocato-lordine-di-arresto-per-puigdemont_51dcbcc6-d455-4e92-8793-504a9158580a.html",
+          "description": "L'ex presidente indipendentista può tornare oggi stesso in Spagna senza essere fermato",
+          "pubDate": "Tue, 6 Oct 2026 13:20:18 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "La Corte costituzionale spagnola apre la strada all'amnistia per Puigdemont",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/06/la-corte-costituzionale-spagnola-apre-la-strada-allamnistia-per-puigdemont_85751950-067b-4434-8bab-a7b8e62fc86d.html",
+          "description": "L'Alta Corte ordine alla Corte Suprema di concedere il perdono ai leader independentisti",
+          "pubDate": "Tue, 6 Oct 2026 12:33:16 +0200"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "accise gasolio rialzo ottobre",
-      "label": "Accise gasolio più alte da oggi, nessun decreto in Gazzetta",
+      "keyword": "paramount warner merger 110 miliardi",
+      "label": "Paramount acquisisce Warner per 110 miliardi, nasce colosso media",
       "n_items": 3,
-      "n_sources": 3,
+      "n_sources": 2,
       "category": "economia",
       "macro_area": "economia",
-      "richness": 2,
-      "score": 17,
+      "richness": 3,
+      "score": 18,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "ansa-economia",
+          "title": "Paramount chiude l'acquisizione da 110 miliardi di Warner, nasce colosso media",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/paramount-chiude-lacquisizione-da-110-miliardi-di-warner-nasce-colosso-media_52340119-d0e5-4c86-b152-15bc6a5df1ee.html",
+          "description": "L'operazione destinata a ridisegnare Hollywood e il panorama del settore",
+          "pubDate": "Tue, 6 Oct 2026 16:52:19 +0200"
+        },
+        {
+          "source": "bbc-business",
+          "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
+          "link": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
+          "description": "The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.",
+          "pubDate": "Tue, 06 Oct 2026 14:37:38 GMT"
+        },
+        {
+          "source": "bbc-business",
+          "title": "From films to streaming prices - how the Warner Bros deal could affect you",
+          "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
+          "description": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
+          "pubDate": "Tue, 06 Oct 2026 13:00:54 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "openai anthropic marchio testi ia",
+      "label": "OpenAI e Anthropic marcheranno testi generati da IA per conformità europea",
+      "n_items": 3,
+      "n_sources": 2,
+      "category": "tech-ai",
+      "macro_area": "tech-ai",
+      "richness": 3,
+      "score": 18,
       "cooldown": false,
       "items": [
         {
           "source": "ansa-homepage",
-          "title": "Scattano accise sul gasolio più alte, nessun decreto in Gazzetta",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/scattano-accise-sul-gasolio-piu-alte-nessun-decreto-in-gazzetta_664823dc-12a3-42e9-851b-f10f32a6c4dd.html",
-          "description": "Non ci sono quelle mobili, per la prima volta da marzo nessun beneficio fiscale",
-          "pubDate": "Mon, 5 Oct 2026 22:48:53 +0200"
+          "title": "Dopo Anthropic anche OpenAI porrà un marchio ai testi generati dai suoi modelli di IA",
+          "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/10/06/dopo-anthropic-anche-openai-porra-un-marchio-ai-testi-generati-dai-suoi_e6ab9bb1-a281-45dc-8272-28f358dc178e.html",
+          "description": "Si conforma all'articolo 50 dell'AI Act europeo in vigore dal 2 agosto",
+          "pubDate": "Tue, 6 Oct 2026 16:29:45 +0200"
         },
         {
-          "source": "google-news-it-business",
-          "title": "Da domani accise sul gasolio più alte, nessun decreto in Gazzetta - ANSA",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPd0ZDZkZKTm15TXIwSE1rX1FDOVlteGplYzhmTnRxbGhRYzFGOVdEUVZfVXQ5M2IweFg1SnNRQUpDcmVDZGxLMGpIbWprbjlsR3c1S29TdFFTU1U0U2tENjd0dDlrQTY1Vk5RM3hsbVlzUGRudmFnakRBdmZ6dUFETk9QeWRlY1luakt6UkZJQ0NjNXpUelpPT1Bmdk05UWlhTks4Wk5aNF9PdHhrb0JaWHd2M1pWY2pCYktrTDgtaDAtdXk2aHhGTWMtRXdQb0VhZkdXdXdpd29Ed1BZS1FoVkZzYzN5SjlPd3FVTEtubw?oc=5",
-          "description": "Da domani accise sul gasolio più alte, nessun decreto in Gazzetta ANSA Dal 6 ottobre accise sul gasolio più alte, nessun decreto in Gazzetta ufficiale Sky TG24 Accise, il governo ferma gli sconti. Le entrate extra in soccorso al bilancio la Repubblica Benzina e gasolio, quanti distributori fanno lo sconto? Il bilancio della prima settimana di «tetto» ai prezzi Corriere della Sera Prezzi carburante",
-          "pubDate": "Mon, 05 Oct 2026 20:23:00 GMT"
+          "source": "google-news-it-tech",
+          "title": "Cosa ha raccontato il responsabile della sicurezza di OpenAI che si è dimesso - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45eFEwYWRySHpORlA3M1VEdVhXcm94YnNQSGs4OHVoRlZfd3BEamNZUENPbE9lc3dnVTJfQ1hOYVVwT0RLTzliOG9GLTJXRjN4WGVBdTgxbVdPaHFOVWluejRSXzdXNmd0cFZIRkV1SHN0dnlxOGpwaERWdw?oc=5",
+          "description": "Cosa ha raccontato il responsabile della sicurezza di OpenAI che si è dimesso Il Post",
+          "pubDate": "Mon, 05 Oct 2026 15:32:07 GMT"
         },
         {
-          "source": "ansa-economia",
-          "title": "Da domani accise sul gasolio più alte, nessun decreto in Gazzetta",
-          "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/da-domani-accise-sul-gasolio-piu-alte-nessun-decreto-in-gazzetta_18b8709d-c0ae-4e98-bf8d-fdc2ba8e357a.html",
-          "description": "Non scattano le accise mobili. Per la prima volta da marzo nessun beneficio fiscale",
-          "pubDate": "Mon, 5 Oct 2026 22:24:45 +0200"
+          "source": "google-news-it-tech",
+          "title": "Ora Sam Altman ha cambiato un po’ idea sui rischi dell’intelligenza artificiale - Il Post",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfLWFtT3VxVndHYmtOd1YxZF9xM2ZwSnF1bHA0ZkRPQThSQlFwbU5BMV90NzJQdzlXeUVTRFRQU3paRzhBQ3E0RnBQUDhYUnI1bEs5TnZEQ0pnSHJjbVRadmFUUXZDNU5rUU5iSDhOVmk?oc=5",
+          "description": "Ora Sam Altman ha cambiato un po’ idea sui rischi dell’intelligenza artificiale Il Post",
+          "pubDate": "Mon, 05 Oct 2026 05:21:02 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "ranucci rai sospensione ricorso",
-      "label": "Rai sospende Sigfrido Ranucci per 10 giorni, ricorso in arrivo",
+      "keyword": "brasile bolsonaro lula elezioni",
+      "label": "Brasile: estrema destra avanza, Lula punta al ballottaggio",
+      "n_items": 3,
+      "n_sources": 2,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 3,
+      "score": 18,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Blog | Per Lula è stato un “bagno di sangue”: l’estrema destra in Brasile avanza ovunque - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUjhqRzJBOUlDNWhRQTNRc2t3Q2ZneWl5RlJvNmZXT0hHVGl2UHY2dFE3eVgxYk1jd2x4MkYyNjRjUWg5Vm5VcGNscDEwSEZuVGg3WVZWREc3S2JRc0VnaVc3VEdTQ2p0M1l3QVJhMURsQ1F0M1dEOENueW55RnhoMVVReVVjbTZZN0pnbjByQ0ZUQ0VWM25ndl8yTGRUdVNIS2pRQw?oc=5",
+          "description": "Blog | Per Lula è stato un “bagno di sangue”: l’estrema destra in Brasile avanza ovunque Il Fatto Quotidiano Bolsonaro a un passo dalla presidenza, Trump: una 'grande vittoria' ANSA Brasile, la destra avanza in Senato e può riaprire la partita sull'amnistia per Jair Bolsonaro Il Fatto Quotidiano La borsa brasiliana raggiunge un record mentre il dollaro crolla dopo lo shock elettorale it.finance.ya",
+          "pubDate": "Tue, 06 Oct 2026 11:27:07 GMT"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "In Brasile torna l'ipotesi di scarcerare Jair Bolsonaro, decisione dopo ballottaggio",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/in-brasile-torna-lipotesi-di-scarcerare-jair-bolsonaro-decisione-dopo-ballottaggio_a7142021-8cff-4d30-8a27-092789151add.html",
+          "description": "Un giudice della Corte suprema si pronuncerà sull'istanza",
+          "pubDate": "Tue, 6 Oct 2026 12:44:06 +0200"
+        },
+        {
+          "source": "ansa-mondo",
+          "title": "Lula, 'non c'è motivo per cui non debba vincere al ballottaggio'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/lula-non-ce-motivo-per-cui-non-debba-vincere-al-ballottaggio_4806f3ed-ded0-45a6-a6bc-2a35b8a16ab8.html",
+          "description": "Il presidente uscente brasiliano punta a intercettare il voto degli astenuti",
+          "pubDate": "Tue, 6 Oct 2026 11:43:44 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "crans montana incendio jessica moretti",
+      "label": "Crans-Montana: Jessica Moretti chiede indennità per infortunio nell'incendio",
       "n_items": 3,
       "n_sources": 3,
       "category": "general",
@@ -406,31 +399,31 @@
       "items": [
         {
           "source": "google-news-it-top",
-          "title": "Rai sospende Sigfrido Ranucci per 10 giorni. La replica: «Impugneremo» - Il Sole 24 ORE",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRW8zT2pUT2tuS0k5ZGpzaG9kTGdwaVF0eVp0OG13SWhyZ2ZsSk5NSWMyUnJydEZqQ3B6eFVhLWwtWFZxcW40WGNJN0lUdUtOaW1WZE5uemtiSVluRWVKMXphVlJUbXBTS1QwV2NNTDlEdDhGM0F0VFh1VDY3RlN1UHk4SG9KZW8?oc=5",
-          "description": "Rai sospende Sigfrido Ranucci per 10 giorni. La replica: «Impugneremo» Il Sole 24 ORE Ranucci sospeso per 10 giorni dalla Rai, il legale: 'Faremo ricorso' ANSA Monteleone, Sottile o Saviano? In Rai il Codice etico non è uguale per tutti Il Fatto Quotidiano Sigfrido Ranucci sospeso 10 giorni dalla Rai per 4 violazioni del codice etico: è il 3° dopo Saviano e Bortone Virgilio Sigfrido Ranucci sospes",
-          "pubDate": "Tue, 06 Oct 2026 01:32:57 GMT"
+          "title": "Jessica Moretti chiede l'indennità per l'infortunio nell'incendio di Crans-Montana - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbEd3Y2tKWm5RRld2X1JSbmUyWGczWGdQRzVEN0hRUlVSTU9pdHMwNnktZHh0ckcySkN6TExaUk9NLTh3aFZUOXZwUnBDanNJNjZjVUxWSDF6bHBxV1BDYm5pNlBHdThNNWx0dTkxTU13b1Vsc2N2X2Y2MGkxdmt6aTZadEk1Y2dmdHRSZDJZTlhialF3VXNMWHlvWnJKZ2xhNWtZVTJtOGt2V0dyOWxvY2FYUnJKakhNVWVBbjZTSU9XODlzaGMxLTcwT0UwRndkUzAtZlM4U0paYlNtdnpuWVlSdFhfUGJ3NDJJWF9B0gHzAUFVX3lxTE5fS1loeERncndZWVdWREhSeWNzcHpjcDRKaFhOZXUxbHh2c0I3UnlaZjI0ckVkaWVqbGxPUnIwWnljZGpleGh1ZTNnSHk3ejcxbUIydS0wUnV5ZWJHSGRFTk92N0toQkhWX2FwZ1J4U2Rwc2FSeTRnMDRxVWwzQjIta09sYUkzNWxSTlhqYjRMbFVac0JZVEhEeXpnWC1qUW1mazEwUjd4V3M1b3o1R1prNV9XTXFTOG1Hd1JBMHFzUmRaVDFuU2R6Ml8xUFppS3BiSFNrMmRlZWtNMm9QN2dNUFMtbXJ5VW4xTGEwY25LN28yUQ?oc=5",
+          "description": "Jessica Moretti chiede l'indennità per l'infortunio nell'incendio di Crans-Montana RaiNews Crans-Montana, Jessica Moretti chiede l'indennità per infortunio dopo l'incendio. «Perdita di guadagno causata dai danni alla salute» Corriere della Sera Crans-Montana: indennità per la proprietaria del Constellation? Il Fatto Quotidiano Jessica Moretti chiede l'indennità per infortunio sul lavoro dopo il ro",
+          "pubDate": "Tue, 06 Oct 2026 11:42:00 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Crans Montana, Jessica Moretti chiede indennità per infortunio nell'incendio - Sky TG24",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSmlnTTZjaVB0NklxV1pROVJPOE5GUEFZa3VnWFdtVzVNVzVmX3dCOTE5bGhVeGRiUV9CUzNlU2g4UFF1MkVKZWZPYVZxd0ZPWTktck5oRzdvdG1SSm5VdlVYbGhBM01hXzJSY1dIOGF5Z2k4STdkYWFLczJxeUlnZm1kZlhoSWc?oc=5",
+          "description": "Crans Montana, Jessica Moretti chiede indennità per infortunio nell'incendio Sky TG24 Crans-Montana, Jessica Moretti chiede l'indennità per infortunio dopo l'incendio. «Perdita di guadagno causata dai danni alla salute» Corriere della Sera Crans-Montana: indennità per la proprietaria del Constellation? Il Fatto Quotidiano Jessica Moretti chiede l'indennità per infortunio sul lavoro dopo il rogo de",
+          "pubDate": "Tue, 06 Oct 2026 11:16:44 GMT"
         },
         {
           "source": "ansa-homepage",
-          "title": "Ranucci sospeso per 10 giorni dalla Rai, il legale: 'Faremo ricorso'",
-          "link": "https://www.ansa.it/sito/notizie/politica/2026/10/05/ranucci-sospeso-per-10-giorni-dalla-rai-il-legale-faremo-ricorso_2fef0e65-81ef-4744-85b5-1894f6d936a7.html",
-          "description": "Attesa a breve la pronuncia sul reintegro. Corsini: 'Speriamo non torni a Report'",
-          "pubDate": "Mon, 5 Oct 2026 20:02:53 +0200"
-        },
-        {
-          "source": "ansa-cultura",
-          "title": "Ranucci sospeso per dieci giorni dalla Rai",
-          "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/10/05/ranucci-sospeso-per-dieci-giorni-dalla-rai_c4b9ef90-3c2e-4560-9404-e97d20afd359.html",
-          "description": "Quattro contestazioni disciplinari alla base della decisione",
-          "pubDate": "Mon, 5 Oct 2026 17:17:45 +0200"
+          "title": "Crans-Montana, Jessica Moretti chiede indennità per infortunio nell'incendio",
+          "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/crans-montana-jessica-moretti-chiede-indennita-per-infortunio-nellincendio_6c8c1560-011c-4c3f-8986-3d998fab7192.html",
+          "description": "Prevista dalla legge svizzera. L'assicurazione ha aperto la pratica per 'danni alla salute'",
+          "pubDate": "Tue, 6 Oct 2026 16:00:49 +0200"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "ilva altoforni blocco stop",
-      "label": "Blocco altoforni Ex Ilva confermato, transizione ai forni elettrici",
+      "keyword": "gasolio accise prezzi aumento",
+      "label": "Italia: accise sul gasolio aumentano, governo valuta interventi",
       "n_items": 2,
       "n_sources": 2,
       "category": "economia",
@@ -441,27 +434,83 @@
       "items": [
         {
           "source": "google-news-it-top",
-          "title": "Ex Ilva, cosa significa lo stop agli altoforni? E quando potrà ripartire con i forni elettrici? - Corriere della Sera",
-          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOampVT2RVLVQ2LUY1aXhRMF84akg2WlprTW9vRWlqNTd3TE16M2syenhwMTM2TXlwSV9QbGplTG5CRDBscWd6S3d1OC1VRGppWEVRZ1AxMkMxTXFTY29ERmlic0N6MFQ2Rkl0bWdFZjM3TlY0eWRMa2dPT1JGZkQ0cDI1M1JOWFpJVzRvOFZXcUd6ZENocGZ6MkNDel9aRDlhZldGOG1CU0ZlYWwxajN4T1pwemQ4MVFyV3dtU2JhcDRudDRfVzFqWjJFZW9NRE1YRGRxVnRWVVBrNHp6YkZQV1g2WUZBNVBqMG9yT3VyamhaRzV3a25OdDVHUkFILTFVdVR3X0R2WVRjYjA0b2h3bjRlMzc1SU8ybmfSAZ8CQVVfeXFMTTBuaUhuZVg0UEs5anNZOTU2Y2xtRFUtLWFIcnhpaWJjbXRSSXRIM0t1TmNHeGFHLW8taUFwSlo5dy03eGNleURnWlNzUkNIbEVVVmNkYTQ3RFotc18zLXIzcFhYSU5uRi1yRzM2QTBQTktCVVFxMGxGRUlhV0t4c3lXbG9ZU0UzMXNjLVhsVVFxMEFIU3FRQ3VYdGJzLWJRTE0tWWxyVlE0S2hYTkJYUFFTVC1abVNxNm9kQnlMRXRBTkRWcEZ3Zk1taXVGVzNwMDdrSDFBQm9vZWpLckNZN0hkVGhzNm84NzN5S0M2WHM0ZlZhN0FqVTNuNTdrcl9QWWo4UC1aLWx4d2t0WXNLVGpESFNiaDRmSDhTNG10SXc?oc=5",
-          "description": "Ex Ilva, cosa significa lo stop agli altoforni? E quando potrà ripartire con i forni elettrici? Corriere della Sera Ilva, confermato lo stop agli altiforni senza attendere la Cassazione: via allo spegnimento Il Fatto Quotidiano Ex Ilva: Attivisti 'dalla Ruhr si può gemmare la riconversione di Taranto' ANSA ex Ilva, Corte d'Appello rigetta di nuovo la sospensiva Borsa Italiana Ex Ilva, la Corte di ",
-          "pubDate": "Mon, 05 Oct 2026 18:58:58 GMT"
+          "title": "Il governo spiazzato dagli aumenti del gasolio, il taglio delle accise torna sul tavolo - la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd2hJVzJDQkhOcE9Ebl93X2xmb1ZjbUU1R011UXJNYzlQODdJTGZaSk9ySXdzRFpvdkFRLWRkUUh0WERVRzJrQjJlT0NBQ3VycVJCdmNyTFhkY1RDRHdIQnNHTVhUSmk1QjhMekVvYi1NSGI2WjIwYXVYaXlCRWV5M1Z5Wjh1WVFkVktPYVVCc2pETm8y?oc=5",
+          "description": "Il governo spiazzato dagli aumenti del gasolio, il taglio delle accise torna sul tavolo la Repubblica Gasolio, «salta» il tetto a 2,19 euro al litro perché non è scattato lo sconto sulle accise mobili. Il diesel da Eni ora costa 2,25 euro Corriere della Sera Diesel, salta lo sconto sulle accise da 6,1 centesimi. E sale anche il tetto ai prezzi di Eni la Repubblica Eni, il price cap resta ma il pre",
+          "pubDate": "Tue, 06 Oct 2026 12:24:42 GMT"
         },
         {
-          "source": "sole24-economia",
-          "title": "Ex Ilva, la Corte d’Appello di Milano conferma il blocco degli altiforni",
-          "link": "https://www.ilsole24ore.com/art/ex-ilva-corte-d-appello-milano-conferma-blocco-altiforni-AJevbRZB",
-          "description": "La Corte d’Appello di Milano ha rigettato anche la seconda istanza di sospensione del decreto sullo stop dell’area a caldo dell’ex Ilva di Taranto. Confermato quindi il blocco degli altiforni...",
-          "pubDate": "Mon, 5 Oct 2026 09:06:00 GMT"
+          "source": "ansa-homepage",
+          "title": "Da oggi accise sul gasolio più alte. Eni aumenta il prezzo alla pompa",
+          "link": "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/10/06/da-oggi-accise-sul-gasolio-piu-alte.-eni-il-tetto-resta-ma-cosi_5d0b1426-cd66-4a50-9d69-8e04bbe77190.html",
+          "description": "Sul diesel +6,1 centesimi. Ira dei consumatori. Leo. ragioniamo sulle accise mobili",
+          "pubDate": "Tue, 6 Oct 2026 14:47:40 +0200"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "intelligenza artificiale rischio estinzione",
-      "label": "350 leader industria tech avvertono: IA rischio estinzione come pandemie",
+      "keyword": "stellantis italia produzione calo",
+      "label": "Stellantis: produzione italiana in calo, crisi continua nel 2026",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "economia",
+      "macro_area": "economia",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-business",
+          "title": "Stellantis, il 2026 è un altro disastro: nei primi 9 mesi solo 340.745 unità prodotte in Italia. Peggio dell’anno del Covid - Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZnpPZVJ0Njg2amU5RXpjdVI4VEpvU3ZIQlJsdmR6a3BhY0tLQjllcVJfczZBam02NlM4YVc5dkFaR2VJaXRZbnEyY3RKSHl2Z2FvUEFJcHgwZ1VnV2lXVXhMa3Q3QjJ2TDl6NnZUWkxieThfbzZLbi1zVDVnU0sxSG9nSWxQSWtfVVdqcW1PcGVKeVlBRFhvMlJsSVZnN05zcklCamRHT1h1VXhuaWdHZQ?oc=5",
+          "description": "Stellantis, il 2026 è un altro disastro: nei primi 9 mesi solo 340.745 unità prodotte in Italia. Peggio dell’anno del Covid Il Fatto Quotidiano Stellantis, il report Fim Cisl: la produzione italiana nei 9 mesi risale oltre le 340 mila unità: a fine anno saranno 450 mila. Il nodo di Cassino Corriere della Sera Stellantis, produzione in ripresa nei primi nove mesi del 2026. Ma Cassino crolla la Repu",
+          "pubDate": "Tue, 06 Oct 2026 12:27:26 GMT"
+        },
+        {
+          "source": "sole24-economia",
+          "title": "Stellantis, cresce la produzione in Italia ma Mirafiori frena e Cassino è in negativo",
+          "link": "https://www.ilsole24ore.com/art/stellantis-cresce-produzione-italia-ma-mirafiori-frena-e-cassino-e-negativo-AJRXzmaB",
+          "description": "Report della Fim-Cisl sui volumi del terzo trimestre dell’anno: produzione su del 28,3% sul 2025, con le auto in aumento del 36,7%. «I volumi restano in crescita ma le previsioni per l’anno 2026 si fermano a quota 450mila veicoli» dice il segretario generale Fim-Cisl Ferdinando Uliano. Incontro con l’azienda il 15 ottobre",
+          "pubDate": "Tue, 6 Oct 2026 11:54:00 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "kenya ebola morte primo caso",
+      "label": "Kenya registra primo caso di Ebola, paziente morto dopo volo commerciale",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "salute",
+      "macro_area": "clima-salute",
+      "richness": 3,
+      "score": 16,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-en-top",
+          "title": "Kenya Records Ebola Case for First Time - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa0FnQmRLaFN4d0x1LUdtZnJRSHNBeFhzc2pGc09RU1ZWcDBLdDdRT2Z4S3ZHaURpMEh3STlGdnlVeUlPekJVa0VVOUluZW1QOWhqRjRQUkVYXy1aakpJQ0U1cjJnRGdzc0FQczVWNEJSNHdONWJmVWl3Q1dYV2h1UG16SWk?oc=5",
+          "description": "Kenya Records Ebola Case for First Time The New York Times Ebola Patient Boarded Commercial Flight, Died Shortly After Arrival WSJ Kenya confirms first Ebola case imported from Congo after man dies in Nairobi Reuters Kenya confirms first case of Ebola Bundibugyo virus BBC Man living in Congo who returned to Kenya is country’s first confirmed Ebola case and first death Pioneer Press",
+          "pubDate": "Tue, 06 Oct 2026 11:18:41 GMT"
+        },
+        {
+          "source": "bbc-world",
+          "title": "Kenya confirms its first Ebola death as outbreak spreads",
+          "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+          "description": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
+          "pubDate": "Tue, 06 Oct 2026 15:51:47 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "ai safety rischi ricercatori allerta",
+      "label": "350 leader tech avvertono: IA presenta rischi pari a pandemie ed estinzione",
       "n_items": 2,
       "n_sources": 1,
-      "category": "tech-ai",
+      "category": "tech-policy",
       "macro_area": "tech-ai",
       "richness": 3,
       "score": 14,
@@ -485,36 +534,92 @@
       "clustering": "claude"
     },
     {
-      "keyword": "trump task force ai intelligence chief",
-      "label": "Trump nomina capo intelligence per guidare nuovo task force IA nazionale",
+      "keyword": "legge elettorale italia camera",
+      "label": "Legge elettorale: via libera alla Camera sulla fiducia",
       "n_items": 2,
       "n_sources": 2,
-      "category": "tech-policy",
-      "macro_area": "tech-ai",
+      "category": "general",
+      "macro_area": "societa-diritti",
       "richness": 2,
       "score": 12,
       "cooldown": false,
       "items": [
         {
-          "source": "bbc-business",
-          "title": "Trump chooses top spy boss to run new AI taskforce",
-          "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-          "description": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
-          "pubDate": "Mon, 05 Oct 2026 10:03:38 GMT"
+          "source": "google-news-it-top",
+          "title": "Legge elettorale oggi alla Camera, la diretta |Via libera alla fiducia sul primo articolo. Ora il voto sul secondo. Le opposizioni: «Schiaffo al Parlamento» - Corriere Roma",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR2hqd2dsZzdPQ1JRSE5XUjY1blR5YXVUSDdEczNkTDhOaUppT0puZEdhLXNwbENiRC0tdmRoV3doVk9VSnVOX2JYV3FXSWZKLUZHVEF6UWRZdlVKTmpyYjNaZ3pISDFMTnlJMnFRYXJnZWw0U0ZuMll6TXBFVDZ3VWVHOWdKalo3V18xWHdiYV9WSTZRWXdHZXh4LUJtZjZaVkxnd0xR0gGrAUFVX3lxTE80aXA5azdkWE1JOWpfMElRRG9NMHktQ00wckpwQzJYVTNVYTV3Y1hhZUhjaF9QVnowZVBFNHRHeFNGX3A4c3lDdFJILXloLXJzcGxJYVFVTnVMcVpKUlAzbENNYmlicGhtX2l6OUtuLUFKMjZGYTlBNlpsdE5MNFB0R1prYmNZeDNWX1NKbi1XSldEVmFtTXd4ZG16RWJEcnBqWDAxOUVTVHBJTQ?oc=5",
+          "description": "Legge elettorale oggi alla Camera, la diretta |Via libera alla fiducia sul primo articolo. Ora il voto sul secondo. Le opposizioni: «Schiaffo al Parlamento» Corriere Roma Legge elettorale, cosa prevede il nuovo testo del governo Meloni. Oggi il voto Corriere Roma Ddl legge elettorale: ok Camera a fiducia su articolo 2 Il Sole 24 ORE Legge elettorale: si vota sui capilista bloccati, M5s attacca Il ",
+          "pubDate": "Tue, 06 Oct 2026 13:46:00 GMT"
         },
         {
-          "source": "google-news-it-tech",
-          "title": "Trump nomina lo zar dell'Ia, è il capo dell'intelligence - ANSA",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONFc5My1hMEx3NDF4a2pPdmVhRjVtcHlJQVgteGNLZkRGd1c1MWFTWHlxSWcyTHFJdWdMNEI4aFNrcmo5cFJ3MFdZVUgxZ2tJTGk3ZGoyUGE0aG9IVnIyVHRMT2JDTG1oaEp2T3RHRXpLWXlxOGF3MTNvMUR0bUk0MWh4OXNuMF85Tmw3LU1EdHB0YjVCSDVZTWhmQ3hyU1JteFktQTlBY0pxc3ppTUVMaFZvT2U2aHVETFE4eVdwZHUwZGlkc1k1OG5iM3N1aG5GRmVaYlFfNWx1MlZTTFHSAeMBQVVfeXFMTkFTdHBJSWxsYUtIWFVxY1Y4UHpDLUhQRG1KRHNtZzE2amJoOTFtRWJnZk5rWkR6UEdYejQxZHZXUGRiXzlGZEd3aEc5enc1V2xucGlhOWhtc2I1ZF9Fc0FYYnlhMDNNNzdzNmoxeG8zM2VpcFFWZ2NkTG9YZXNpSF9sTWE4ekZJV1ZhdkpkZC1lTElMdjg2Z3RFYlFnNm1UdDdTdkhxRFM1S3M3TW1NckV3U3pydDZHUlA1VXBsMzJGQlB0SmlfcVFxZ2txWWk5YW9pVDdTOTd5d1JiNV9Qc2tWMTQ?oc=5",
-          "description": "Trump nomina lo zar dell'Ia, è il capo dell'intelligence ANSA",
-          "pubDate": "Sun, 04 Oct 2026 17:12:34 GMT"
+          "source": "ansa-homepage",
+          "title": "Legge elettorale: ok della Camera alla fiducia sull'articolo 2, 227 sì",
+          "link": "https://www.ansa.it/sito/notizie/politica/2026/10/06/legge-elettorale-ok-della-camera-alla-fiducia-sullarticolo-2-227-si_3b6319fb-ba23-405a-8f6e-c67558a8a218.html",
+          "description": "In precedenza era arrivato il via libera dell'Aula alla fiducia sull'articolo 1",
+          "pubDate": "Tue, 6 Oct 2026 17:36:54 +0200"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "nobel medicina optogenetica",
-      "label": "Nobel Medicina a Deisseroth, Hegemann e Nagel per optogenetica",
+      "keyword": "sanchez governo spagna",
+      "label": "Spagna: Sánchez ammette passi falsi, governo rafforza tutele abitative",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "general",
+      "macro_area": "geopolitica",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "Sánchez, dagli scandali fino a Ceuta: tutti i passi falsi del premier spagnolo che alla fine ammette: «Abbiamo fatto errori» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNenVPMUhfMHhzYm1kR2Z1QkhlY25IaDA3MnQtcHNPNUxud0RQSHZFTXg3VlJHbzRyWFlpcHRCZVd1M3M4OWdUTEhyUGw2TUY5cDZDc3RpZEtrdGtXLU8tVzJQNFUwZGVvY3hVYzl1cDRuOHlpZExxZmtaaGRYeEN3X0hoZ1hIejRLSkNZRVRVeFZUT0ptN3FiTk5HWUpEVXF0REZjZWE5RWhmX2V3?oc=5",
+          "description": "Sánchez, dagli scandali fino a Ceuta: tutti i passi falsi del premier spagnolo che alla fine ammette: «Abbiamo fatto errori» Corriere della Sera Sanchez rilancia: prestiti a tasso zero per la prima casa prima del voto Il Fatto Quotidiano Il governo spagnolo ha ripresentato i decreti sulla casa che erano stati bocciati dal parlamento Il Post Il rischio di Sánchez e il nostro la Repubblica Elezioni ",
+          "pubDate": "Tue, 06 Oct 2026 13:21:21 GMT"
+        },
+        {
+          "source": "google-news-it-world",
+          "title": "Sanchez: 'Il governo non abbandona la gente, non consentiremo nessun altro sfratto' - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbVd2TWNwR3RPOUpsMkk2OTJjWkpUd2lWZzQ2bUd2SkZGVDZvQXFYaGtQbXYwak04U0NULTNNLWxIUlhrQnBGamgtdU1DNlBEdjlJZ3BfM3hfSHl3ZjNZMWpSRlgtZDJtRWpVaGtTN0tqNUR3SHlxbU5oUnhuNEFrcnR6bVZXZG16YzBMMVJpWXFEQ1dUeXhEOUVFUzhRekJ6SmR5SklHNGUtckpTV1djcW1jQzVkNXNpdkx1WUF3TE1yZFVONUlQeTJiamJITVBzXzZLa3FoRUpSb2JETzU4V2hxdnRHZlMzZ1dzNVpRUDdXaHlGbWxDdHBEWkhuSkRG0gGGAkFVX3lxTE1nRE1idkpZbGhFNTh0NHVodW14WHRIVEk4akJzUGc2NVB3QzJKWDJldm1FM0NMdTJiNjAzUVlYTFROQnRrUWMzeFhVcmR0QVFUek9FNEZfZXRJVEp0T0pnaUNiSk5pcGxBU3hUY2doaDVrMVNJdk9HS2k5ZnhoR01HQWpsel9fR0xJRTQ0c0d5eG1DUGFURFdMMzlCVXBKdHR4dW9wYVFLVzJUbFhvN1RTUmNBaXlOMW81al9jZFJRQ0NIQzBKblFxcGpZUWNjcE9kV1dlZVF1WDdrQUtOaGlyN3lRUWlQMXZDVDlWTjZNdmYwaVY3dUtmczhULVVvdXNVTDJuQlE?oc=5",
+          "description": "Sanchez: 'Il governo non abbandona la gente, non consentiremo nessun altro sfratto' ANSA Sanchez rilancia: prestiti a tasso zero per la prima casa prima del voto Il Fatto Quotidiano Il governo spagnolo ha ripresentato i decreti sulla casa che erano stati bocciati dal parlamento Il Post Il rischio di Sánchez e il nostro la Repubblica Elezioni anticipate, l’ultima sfida di Pedro Sánchez il manifesto",
+          "pubDate": "Tue, 06 Oct 2026 11:30:40 GMT"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "gaza israele 7 ottobre anniversario",
+      "label": "Tre anni dall'7 ottobre: israele ricorda attacco, Gaza conta 74mila morti",
+      "n_items": 2,
+      "n_sources": 2,
+      "category": "geopolitica",
+      "macro_area": "geopolitica",
+      "richness": 2,
+      "score": 12,
+      "cooldown": false,
+      "items": [
+        {
+          "source": "google-news-it-top",
+          "title": "7 ottobre 2023, il trauma di Israele e la distruzione di Gaza: 3 anni e 74mila morti dopo - RaiNews",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbDQwNTNnQWx1b09BTzl5U0Fha1FsRGhNMkRKMnhiNi1NT3pYZEp4QXczSDFUNEcxdjhLWUYtZ0JWWXBzeDl3dVp1YjdONmlhQnd3TjcxYkdJOEZhTnR0NzBnZC1IeThpM013aHVRbXZHTk9lUlZ3RWhtX3ZWZ2xWODBTWVJpNE5xN2ZfUEg5Wm50cVczMVRBZkNHSlBiME5tOVVTR3VEUnZWNDNqVVBwWl9XWk1SNUZXTy1LZHl3VWRsRVVaVlJHR1UwUWpsa3djRjZzZEExZ1BvektyQW1sSVhudTFjUFJhbWpkZ3pzVUZUaUhxNVJjVUVKbTg0d9IBgwJBVV95cUxNRURCN3o0Q085WXFabEZFMHA1OEtPZkJCdWRGS215bmp5eGxjYTk2OGtMNTM4RTJZMmdsS1NtMnlSNU51bVloLXMtOHE0RjdWZHd1YkJIWFNOdmJuU3BjNXNZeXFDaHNzdHN3RDJHY3cybVppbHdiX2w3a3JrZWV3Tnh5UFFuNXBKclNmMklaeUZKbEZrb2xsR0RWTFhtY0I4RWN5XzhTcVhoNkVkbHBKejUxQUxaVTYtbTlsM1FRZE5NT1hEOHF4ZzREQW9oQkdFdzhxUWs4UGlqX1VOY2YzV1FaSzBFOTN3dkRCQVdmcTc1VHplUXdGZTRaY1JxMU9fdHQw?oc=5",
+          "description": "7 ottobre 2023, il trauma di Israele e la distruzione di Gaza: 3 anni e 74mila morti dopo RaiNews Netanyahu contestato dai parenti delle vittime del 7 ottobre: “Morti per colpa tua” la Repubblica Israele, Katz: uccisi 4mila dei 6mila terroristi responsabili del 7 ottobre Il Sole 24 ORE 'Allarme proteste anti-Israele nel mondo per il 7 ottobre, Italia tra i primi 5 Paesi' - Politica ANSA Intervista",
+          "pubDate": "Tue, 06 Oct 2026 12:46:00 GMT"
+        },
+        {
+          "source": "ansa-homepage",
+          "title": "Hamas pubblica un video di Sinwar prima di essere ucciso, travestito per spostarsi",
+          "link": "https://www.ansa.it/sito/videogallery/mondo/2026/10/06/le-brigate-al-qassem-pubblicano-un-video-con-sinwar_91cbc433-7f91-4045-a591-5ae21066a904.html",
+          "description": "Il capo di Hamas ucciso dall'Idf nel 2024, domani l'anniversario degli attacchi su Israele",
+          "pubDate": "Tue, 6 Oct 2026 17:03:54 +0200"
+        }
+      ],
+      "clustering": "claude"
+    },
+    {
+      "keyword": "nobel medicina 2026 optogenetica",
+      "label": "Nobel Medicina 2026: Deisseroth, Hegemann e Nagel per optogenetica",
       "n_items": 2,
       "n_sources": 2,
       "category": "salute",
@@ -525,45 +630,45 @@
       "items": [
         {
           "source": "google-news-it-world",
-          "title": "Nobel per la medicina a Deisseroth, Hegemann e Nagel per l’optogenetica - Il Sole 24 ORE",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZVBPVEJ0SzNvTTN3NXN1Q0dCX08waDZfQW9yUnlDWmxBQVhMUVVRd1ptQkMtNm9UbE13NVRfUUNPS3k3ZnhjYXEyLUVreGkyRWMtNW9WZUd0NE5uSW9SaGgya1FlcDUzb21XWVY3Yjh3MWRhWXoxYWZUSmdQLTk4STFvT216YXlPdHE5a3NQa3M4Uk1JZnIyZTN1NDRuOTdrRGRv?oc=5",
-          "description": "Nobel per la medicina a Deisseroth, Hegemann e Nagel per l’optogenetica Il Sole 24 ORE Il Nobel per la Medicina a Deisseroth, Hegemann e Nagel ANSA All'optogenetica il Premio Nobel per la Fisiologia o la Medicina 2026 Focus.it Le notizie di scienza della settimana internazionale.it I tre scienziati che hanno “illuminato” il cervello hanno vinto il Nobel per la Medicina Avvenire",
-          "pubDate": "Mon, 05 Oct 2026 21:51:18 GMT"
+          "title": "Il Nobel per la Medicina a Deisseroth, Hegemann e Nagel - ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOT20tWGZ4andRU1VFU1JiNGRVd2hNMV83SHFnVVc3UkdwMHpuTjhHdlQwRVBkVlNkTWxNQkg5cHpyREFQaXhfZ1hwZWlYZ2FyME9EeTlRRHp3X1lod3RoYmxFMG5PRDEtRUhKeElJS0FYTFczSllSWk8tUlhlQmw5eUNNWmlHZ2xfVmx1eWx0ZTVwa0hfLVA1c2t5ZDM5aXNQZFhHcXJXVS13WXpDYWZiRm1tUG1TRTF4V3lOMDhTblp0c0tPckVsNjhNNWJqU0h6SWhSb3NjVmdIdDlBTVF1M244c3c0QmZHdnZRcnYwa9IB9AFBVV95cUxQUHdJUGNLdDZzZ2FFNkRzckFabDZrWDhtaVpRczZWX0pOdzlWeVpDbW5maWlaVzNZcm9SQi1Gd3lLbjVWdFhEeG52TzdSelcwVHhEenZTSlp1eGxCOW5kZmtncXJwcHNKVkdfLTNqcjU5QjVYbjhEZUVJMWhMYTJMbWwwQy1GYXhQOGNBdGtoLUtCVUNwUG9mUXI3d2szUEdyV3BlM0M4SGo1SUJpbFFqcWR4MEYzWmJ5TkZhdUZmdXNRbjdLZUhtdFNMYWc4MktHQUp1Nmh2LUc1WGV2Zk02NTlldmtCeGQ0WU96cHRIVmxlTTBN?oc=5",
+          "description": "Il Nobel per la Medicina a Deisseroth, Hegemann e Nagel ANSA All'optogenetica il Premio Nobel per la Fisiologia o la Medicina 2026 Focus.it Le notizie di scienza della settimana Internazionale Nobel: the 2026 Awards Week runs until 12 October Il Sole 24 ORE La rivoluzione luminosa delle neuroscienze premiata con il Nobel per la medicina 2026 Le Scienze",
+          "pubDate": "Mon, 05 Oct 2026 17:07:00 GMT"
         },
         {
           "source": "google-news-it-science",
-          "title": "Il Nobel per la Medicina a Deisseroth, Hegemann e Nagel - ANSA",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOT20tWGZ4andRU1VFU1JiNGRVd2hNMV83SHFnVVc3UkdwMHpuTjhHdlQwRVBkVlNkTWxNQkg5cHpyREFQaXhfZ1hwZWlYZ2FyME9EeTlRRHp3X1lod3RoYmxFMG5PRDEtRUhKeElJS0FYTFczSllSWk8tUlhlQmw5eUNNWmlHZ2xfVmx1eWx0ZTVwa0hfLVA1c2t5ZDM5aXNQZFhHcXJXVS13WXpDYWZiRm1tUG1TRTF4V3lOMDhTblp0c0tPckVsNjhNNWJqU0h6SWhSb3NjVmdIdDlBTVF1M244c3c0QmZHdnZRcnYwa9IB9AFBVV95cUxQUHdJUGNLdDZzZ2FFNkRzckFabDZrWDhtaVpRczZWX0pOdzlWeVpDbW5maWlaVzNZcm9SQi1Gd3lLbjVWdFhEeG52TzdSelcwVHhEenZTSlp1eGxCOW5kZmtncXJwcHNKVkdfLTNqcjU5QjVYbjhEZUVJMWhMYTJMbWwwQy1GYXhQOGNBdGtoLUtCVUNwUG9mUXI3d2szUEdyV3BlM0M4SGo1SUJpbFFqcWR4MEYzWmJ5TkZhdUZmdXNRbjdLZUhtdFNMYWc4MktHQUp1Nmh2LUc1WGV2Zk02NTlldmtCeGQ0WU96cHRIVmxlTTBN?oc=5",
-          "description": "Il Nobel per la Medicina a Deisseroth, Hegemann e Nagel ANSA",
-          "pubDate": "Mon, 05 Oct 2026 17:07:00 GMT"
+          "title": "Nobel Medicina 2026 a Karl Deisseroth, Peter Hegemann e Georg Nagel «per le scoperte sui canali ionici attivati dalla luce e sull'optogenetica» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaTRRdVJoUXdRT1FSRTJEWElQdlpuTjBUX3JxcEVfeEJ1dHpuSWF2b3FwRm5qY01oTnpfMDVMX0FUVlVFS0hLbTQ1RDZRdXotRDdkU2d2MHV3SGpjbTk1anNaY2dQOEE2WE1BengzTE5OMG9JMVQ3eUZJREkxY080SkNObHluUWdHbldxYWV6RlpBbWFzYk1DOW1CbDJVdEZxQlg2VlVDVVFjMXNadHljRllFUXhoczdsbEhPcXN5SUpWcXfSAcgBQVVfeXFMTmJia2JNYnh2SHdsanoxWkdNUmFqM1BUdFRvbXdiajNQalVURFZiSHB2UXhNVlY2NkVpOXdqd05GY0RXN3AxYk1TYVI2bEg0MFpfazloZ2oxM1JQbTZSNWdVZ29NZlY0bzJZMlQ0bzZtUXVrZG5zSEhMODNWUkZnSUZUeGZaVmt6OVV4cWRQbXNaZkZaeXF6SFM0ZXQ5TF9hRUh2dU5yeTZBVzRIUzREUlpnNkE1Q3ZlU2ViMHFQMk1UM1pIZ1dZSGI?oc=5",
+          "description": "Nobel Medicina 2026 a Karl Deisseroth, Peter Hegemann e Georg Nagel «per le scoperte sui canali ionici attivati dalla luce e sull'optogenetica» Corriere della Sera",
+          "pubDate": "Tue, 06 Oct 2026 09:42:00 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "salmonella pomodori puglia mense",
-      "label": "Allarme salmonella, stop pomodori in mense scuole e ospedali Puglia",
+      "keyword": "nato difesa russia droni ai",
+      "label": "Nato adotta 'Teoria della Vittoria' con droni e IA contro Russia",
       "n_items": 1,
       "n_sources": 1,
-      "category": "salute",
-      "macro_area": "clima-salute",
+      "category": "tech-policy",
+      "macro_area": "tech-ai",
       "richness": 2,
       "score": 9,
       "cooldown": false,
       "items": [
         {
-          "source": "google-news-it-health",
-          "title": "Allarme salmonella, stop ai pomodori nelle mense a scuola e negli ospedali: cosa sta succedendo in Puglia - Virgilio Sapere",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkQ3UE9BRFRJeC1OdzNRVkUzR2pHckZaSG9HcU9nN3A1S0NYT1dDekZsVnhLdk1ITFVCT1BUb0dicDAwLXdpMkhZRnBtVWJSUkd3SjRWQTl5MEpCRUx2b0J0ZHpWR2lveXpueHpTem9JNk0yX0Nzakk0RkVHZjVzdnE4OWNxZWZ4X3Q2UFB2WDZlMUxJcVZqTDJWd0EwaEhYdVhSNmY0TXU?oc=5",
-          "description": "Allarme salmonella, stop ai pomodori nelle mense a scuola e negli ospedali: cosa sta succedendo in Puglia Virgilio Sapere Allarme salmonella, in Puglia stop al consumo di pomodori freschi nelle scuole RaiNews Salmonella nei pomodorini siciliani: stop nelle mense scolastiche pugliesi. Focolai in Lombardia, Lazio e Friuli Il Fatto Alimentare Salmonella nei pomodori: quali sono a rischio e cosa fare ",
-          "pubDate": "Mon, 05 Oct 2026 11:00:00 GMT"
+          "source": "google-news-it-world",
+          "title": "«Teoria della Vittoria»: il piano Nato per difendersi da eventuali attacchi russi. «In campo droni e AI, poi la controffensiva» - Corriere della Sera",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUnBrZ2VFdkNyYlVCQzFxcHVXTkl1U0tvZEV6SkNXYXNRZERfSDNvOHFUTEpLaURXekh1eHJXWlZDSVo1cDloNXdFa20yLXJOTzJmcFVxOWdWakhnZ3ZRTEZBQ2F5VzF4UXItY1JMbl9TdGQwUUNmR01CeUg2aTZyZUs2RkkzQmRLTDJNaDVWaVdBZy1kMkZMSnhaOXRUQ1ZVR2RHTG9RVDROY0dHZFF2TllTdVpKczkxaE9lVFVfZVNybGROeVlZNTF2VGh1WlpPcS03MnVpbGxVcDlmR3BnX1czY1Uzb2V1cEHSAe8BQVVfeXFMTzZoWnpOal9qV2VrbEl5R0JyYngydUVVcEo0U2lBeE9naThQb0cwc2R3VXMtTFo2SjFiR1F5cGVNSWhCN2hkTHI1MlpWVVRyN0pxdW9wZXFpeE5wWjdYODdtZ01KS21GV0dRNlBOSjR2c1B5dTI1d0hTTV9pUFhXZm9FMWpTTVFETEsxNkxaVXpPOU5xbkJzbW1zSlpSZXZOU0o3UEZIdl9mYTViV2Y5azNuUE9Wb3Z3N0xWQ3k5aXRXTVFiTVQzN1VMTWpkcHFnajRuNkdBZEowQWs3a1E4VUVXX1hWM2w3X0d6UEVQWlk?oc=5",
+          "description": "«Teoria della Vittoria»: il piano Nato per difendersi da eventuali attacchi russi. «In campo droni e AI, poi la controffensiva» Corriere della Sera “Putin potrebbe attaccare Narva, Estonia,per testare la Nato”: l’allarme dell’esperto tedesco Masala la Repubblica Ecco la Teoria della Vittoria della Nato, per battere Mosca sul fianco est La Stampa La sfida russa alla Nato passa da Nord? Sky TG24 La ",
+          "pubDate": "Tue, 06 Oct 2026 12:12:37 GMT"
         }
       ],
       "clustering": "claude"
     },
     {
-      "keyword": "bosniaberzegovina elezioni nazionalisti",
-      "label": "Bosnia-Erzegovina, nazionalisti vincono elezioni, Dodik cita Trump e Putin",
+      "keyword": "estonia truppe confine guerra ibrida",
+      "label": "Estonia rafforza difese al confine russo contro guerra ibrida",
       "n_items": 1,
       "n_sources": 1,
       "category": "geopolitica",
@@ -574,73 +679,10 @@
       "items": [
         {
           "source": "google-news-it-world",
-          "title": "Elezioni in Bosnia-Erzegovina, vincono i partiti nazionalisti. Dodik: «Grazie a Trump e Putin» - Domani",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOWE1c0FMR05tcmczRnpXVnQ5ZmpjZHlTRHBrT1NuREpWVzZZY1JGbXNaMVhkTm5vd28zWWYxN0x6MXZSQVFMRFM3OGVXdU5rRGNtd2o0U19Sc3lYWFdfc0ZfS0xoaHlpb19wTFEwQlo5cEJpOHZsNEhWbWFtVnFUcDVUMlhiTUJvZGx4UXRxY0lsMThOSWRoZnl5aXZGMnRtR3NrSDRoS0d2U1h6YjY1cHFFVmtLeHQ4ZHc?oc=5",
-          "description": "Elezioni in Bosnia-Erzegovina, vincono i partiti nazionalisti. Dodik: «Grazie a Trump e Putin» Domani In Bosnia Dodik annuncia vittoria del suo partito nella componente serba Sky TG24 \"Grazie Trump e Putin\": il separatista serbo Dodik rivendica la vittoria alle elezioni in Bosnia Euronews.com Ultime notizie Sicilia ANSA Alle elezioni in Bosnia hanno vinto i partiti nazionalisti Il Post",
-          "pubDate": "Mon, 05 Oct 2026 07:44:00 GMT"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "merz macron cina disconnessione ue",
-      "label": "Merz e Macron vogliono tasto di disconnessione Cina dall'Ue",
-      "n_items": 1,
-      "n_sources": 1,
-      "category": "geopolitica",
-      "macro_area": "geopolitica",
-      "richness": 2,
-      "score": 9,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-world",
-          "title": "Spegnere la Cina. Merz e Macron vogliono un tasto per tagliare Pechino fuori dall'Ue - HuffPost Italia",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdFVOWmxZZnlkeWJhQ2hGUzJhV2l3Nk1nVlNreEpoUzlEd2ZTWlFWTFRwazZkbWVqVTlDT3k1WVNmN0hwaU1TYVg2Q2I2VmJRRkFERjhmRXZsOWVub3BvWEt0OTBjZ1FvZ3FTUDVSRTFhNmV5MF9RNjhwLWtJOXlXY19DczIwQXB6UUxsMUhfeGhpYWJoaS1TOXBXTkw0WlhQLWhrOU9n?oc=5",
-          "description": "Spegnere la Cina. Merz e Macron vogliono un tasto per tagliare Pechino fuori dall'Ue HuffPost Italia Ue: 'Bene Merz-Macron politica commerciale, in linea con Commissione' ANSA Il parlamento Ue pronto a superare la \"linea rossa\" della Cina: al voto un testo che chiede una \"continua presenza navale\" vicino a Taiwan Il Fatto Quotidiano Ue: Francia e Germania spingono per uno scudo commerciale anti-Ci",
-          "pubDate": "Mon, 05 Oct 2026 14:53:00 GMT"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "electrolux licenziamenti ritirati consensuali",
-      "label": "Electrolux ritira licenziamenti unilaterali, incentivi all'esodo e ammortizzatori",
-      "n_items": 1,
-      "n_sources": 1,
-      "category": "lavoro",
-      "macro_area": "economia",
-      "richness": 2,
-      "score": 9,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-business",
-          "title": "Electrolux ritira i licenziamenti unilaterali: nuovo piano con incentivi all’esodo e ammortizzatori sociali - Il Sole 24 ORE",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYUF1N3dJMmcwZE5MbVNCckt4VjhTMzFkeTRHNnNVZ1lwOEllcGZwVDlDaGR0TF9ZWklUZlpVWUljdndtdUVZdXlXM2R3ZmZtY2NNLUJycGt6R0x4bWI5MDJFWlVlSHNmNWdfTFNiMXNTRWRKQVRkY2xIdUFXbnZpczhqakRrV1lMal9YVmExb2Z3NXZGV3laMnNhSmFWR2lkZXN0ZkRfV18yMlhGZlpBVGZOV0NNNWJQTzN0S2ZjeGkwSmFiN0hZUXhkQUJoaHczc3dKZENsNTk?oc=5",
-          "description": "Electrolux ritira i licenziamenti unilaterali: nuovo piano con incentivi all’esodo e ammortizzatori sociali Il Sole 24 ORE Nuovo piano Electrolux, scomparso concetto di esubero. Prossimo incontro il 29 ottobre RaiNews De Palma: “Un passo avanti, ora soldi per le fabbriche e meno risorse per i bonus” la Repubblica Electrolux ha riformulato il suo piano di licenziamenti in Italia Il Post Electrolux,",
-          "pubDate": "Mon, 05 Oct 2026 23:37:30 GMT"
-        }
-      ],
-      "clustering": "claude"
-    },
-    {
-      "keyword": "crohn mirikizumab remissione farmaco",
-      "label": "Malattia di Crohn, nuovo farmaco mirikizumab: remissione nel 54% dei casi",
-      "n_items": 1,
-      "n_sources": 1,
-      "category": "salute",
-      "macro_area": "clima-salute",
-      "richness": 2,
-      "score": 9,
-      "cooldown": false,
-      "items": [
-        {
-          "source": "google-news-it-health",
-          "title": "Malattia di Crohn, con nuovo farmaco remissione nel 54% dei casi - ANSA",
-          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNYVdNNVZFZTJwU1NOMHRIbDJZYml4R29YOURSV3FlcVJHR1ViRVhEbVVzejh3WTg4MkZVVXRHTnJKNEN4U2w3ZU1XM2tCLUFWVmFRRFRma1ZmUzBNZmVIWm5xVXlUbXZZOUdxRW84WUloeUFrTzlhXzRoVFZoTmxtUFRkNnpKMnlwcEQ4bTk2MWNXOVJ2STcyUG15V3NnSTU1Yzd1U0M4UlhxejhicWJHZW5qMmVlTGNheWFmQjRMeDFPLU0yeEpPbW1Ga2oxUnE2ZUE4SXBsYW5wcDduWXBpTktCR1FPdm5rMzBsM2t1MEVXV3lnb1FaamhObVkwWnpmVEt3WlBSZXlLNGUyTXFnUENrVQ?oc=5",
-          "description": "Malattia di Crohn, con nuovo farmaco remissione nel 54% dei casi ANSA Farmaci, Aifa approva mirikizumab anche nel trattamento della malattia di Crohn Adnkronos Anche nel Lazio la nuova terapia per il controllo duraturo della malattia di Crohn Alto Adige Malattia di Crohn, Aifa approva la rimborsabilità di mirikizumab Farmacista33",
-          "pubDate": "Mon, 05 Oct 2026 11:45:52 GMT"
+          "title": "Lo spostamento di truppe dell'Estonia al confine è un segnale contro la guerra ibrida di Mosca - Avvenire",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSklTakxsRUJUdFRNZ3I0Y2hSbXp3NkNNdlRsNTFKR3pXc2xXeXQxT1pzTVJRU0FPNkRPYkdTWklucUdyc2tHZmlHVWVSRlVSMGRoU3ZxMzhGLWlyMThaNnRXdFVaWGtScjE2OGpvWHlZRXdHV0hZQ2F6cll2MmdhMFlXYWUyUVF5Y1FMNTVWaVByb0o3V2s4eC1oQksxWUw2bGI2d0VENGN0RUR1LWh6dXp5MVZBMWZBdmFBaS1FR3ZiVzh3c2pRVF93?oc=5",
+          "description": "Lo spostamento di truppe dell'Estonia al confine è un segnale contro la guerra ibrida di Mosca Avvenire Mine, anti-droni e articolo 5 “esteso”: così i Baltici cercano l’intervento Nato Il Fatto Quotidiano 007: Germania rischia conflitto con Russia RaiNews L’Estonia avvicina le truppe al confine russo. La Nato rivede i suoi piani la Repubblica L'Estonia sposta truppe al confine con la Russia Eurone",
+          "pubDate": "Mon, 05 Oct 2026 18:18:00 GMT"
         }
       ],
       "clustering": "claude"

@@ -1,0 +1,54 @@
+{
+  "topic_label": "OpenAI, il custode della sicurezza se ne va: 'Basta errori' - cosa dice e perché preoccupa",
+  "query": "OpenAI dimissioni responsabile sicurezza cultura",
+  "category": "tech-ai",
+  "category_claude": "tech-ai",
+  "macro_area": "tech-ai",
+  "target_area": "tech-ai",
+  "origin_keyword": "openai sicurezza rassegnazioni",
+  "origin_date": "2026-10-07",
+  "story_sim": 0.581,
+  "story_vs_date": "2026-09-30",
+  "angle": "paradosso",
+  "angle_directive": "Il paradosso al centro: la contraddizione, il 'ma/eppure/pero'. La cosa che sembra una ma e' l'opposto. E' la mossa-firma di Mia.",
+  "genre": "prospettiva",
+  "target_words": 1050,
+  "hot_topic": false,
+  "richness": 4,
+  "label_cluster": "Responsabile sicurezza OpenAI si dimette: 'Finito tempo errori'",
+  "cover_metaphor": "a lifeguard walking away from a pool while the water keeps rising",
+  "curator_rationale": "Il paradosso è netto: proprio chi doveva garantire la sicurezza di OpenAI se ne va denunciando che l'azienda corre troppo veloce e ha smesso di correggere gli errori — mentre pubblicamente OpenAI continua a promettere modelli sempre più potenti e sicuri. Distinto dalla puntata del 30/9 (agenti AI fuori controllo, hack governativo): qui il tema è la cultura interna e chi dovrebbe vigilare che lascia, non un incidente tecnico.",
+  "followup_of": null,
+  "articles": [
+    {
+      "title": "OpenAI, dimissioni e durissimo attacco di un responsabile della sicurezza: \"È finito il tempo degli errori\"",
+      "source": "google-news-it-business",
+      "summary": "OpenAI, dimissioni e durissimo attacco di un responsabile della sicurezza: \"È finito il tempo degli errori\" Libero Si dimette un responsabile della sicurezza di OpenAI. La lettera su The Atlantic: «Mi sono licenziato perché la cultura aziendale è corrotta» Corriere della Sera Blog | Il problema dell'Ai oggi è che si corre troppo: così si rischia un gigantesco passo indietro Il Fatto Quotidiano Wik"
+    },
+    {
+      "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+      "source": "bbc-business",
+      "summary": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments."
+    },
+    {
+      "title": "Cosa ha raccontato il responsabile della sicurezza di OpenAI che si è dimesso",
+      "source": "google-news-it-tech",
+      "summary": "Cosa ha raccontato il responsabile della sicurezza di OpenAI che si è dimesso Il Post"
+    },
+    {
+      "title": "Ora Sam Altman ha cambiato un po’ idea sui rischi dell’intelligenza artificiale",
+      "source": "google-news-it-tech",
+      "summary": "Ora Sam Altman ha cambiato un po’ idea sui rischi dell’intelligenza artificiale Il Post"
+    },
+    {
+      "title": "L'IA può portare all'estinzione, l'allerta di decine di ricercatori",
+      "source": "ansa-tecnologia",
+      "summary": "Tra i firmatari gli ad di OpenAI e Google Deepmind, ci sono anche italiani tra cui l'esperto di tecnologie dell'informazione Luca Simoncini"
+    },
+    {
+      "title": "L'allarme dei big, 'rischio estinzione con l'IA, è come le pandemie'",
+      "source": "ansa-tecnologia",
+      "summary": "Nyt riporta lettera di 350 leader industria, anche ceo OpenAI"
+    }
+  ]
+}
