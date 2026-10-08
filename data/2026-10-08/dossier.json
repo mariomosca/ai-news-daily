@@ -1,0 +1,34 @@
+{
+  "topic_label": "Droni nel Mar Nero: la guerra ibrida contro la NATO che nessuno chiama guerra",
+  "query": "droni mar nero bulgaria guerra ibrida nato",
+  "category": "geopolitica",
+  "category_claude": "geopolitica",
+  "macro_area": "geopolitica",
+  "target_area": "geopolitica",
+  "origin_keyword": "mar nero bulgari droni navi",
+  "origin_date": "2026-10-07",
+  "story_sim": 0.423,
+  "story_vs_date": "2026-09-24",
+  "angle": "zoom-out-sistemico",
+  "angle_directive": "Lo zoom-out sistemico: la notizia e' la punta di un pattern piu' grande (democrazia, Europa, un meccanismo che si ripete). Non un fatto isolato.",
+  "genre": "prospettiva",
+  "target_words": 950,
+  "hot_topic": true,
+  "richness": 3,
+  "label_cluster": "Droni colpiscono navi in Mar Nero, Bulgaria denuncia provocazione russa",
+  "cover_metaphor": "a cracked map with drone silhouettes crossing invisible borders",
+  "curator_rationale": "L'attacco alle navi bulgare non è un episodio isolato: letto insieme allo spostamento di truppe lituane a Kaliningrad e a quello estone, disegna un pattern di guerra ibrida contro il fianco NATO che i singoli fatti del giorno (Donbas, Gaza, Houthi) non mostrano da soli. Angolo zoom-out-sistemico, fresco rispetto agli ultimi giorni, e coerente con la rotazione verso geopolitica.",
+  "followup_of": null,
+  "articles": [
+    {
+      "title": "Bulgaria, due navi colpite da droni nel Mar Nero: cos'è successo",
+      "source": "google-news-it-world",
+      "summary": "Bulgaria, due navi colpite da droni nel Mar Nero: cos'è successo Sky TG24 Mar Nero, Putin provoca l’Europa: colpite navi al largo della Bulgaria la Repubblica Un drone affonda una nave mercantile nel Mar Nero e altre notizie interessanti Limes - Rivista Italiana di geopolitica Due navi mercantili sono state colpite da droni al largo della Bulgaria: una è affondata e il suo equipaggio è disperso Il"
+    },
+    {
+      "title": "Bulgaria, due navi attaccate dai droni nel Mar Nero: una è affondata, l'equipaggio è disperso. Il premier: «Violate norme marittime»",
+      "source": "google-news-it-tech",
+      "summary": "Bulgaria, due navi attaccate dai droni nel Mar Nero: una è affondata, l'equipaggio è disperso. Il premier: «Violate norme marittime» Il Messaggero"
+    }
+  ]
+}
