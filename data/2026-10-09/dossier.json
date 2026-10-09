@@ -1,0 +1,49 @@
+{
+  "topic_label": "Peste in Siberia: il silenzio di Mosca, l'OMS al buio e la telefonata Trump-Putin",
+  "query": "peste polmonare siberia trasparenza oms russia",
+  "category": "salute",
+  "category_claude": "clima-salute",
+  "macro_area": "clima-salute",
+  "target_area": "clima-salute",
+  "origin_keyword": "peste siberia russia allarme",
+  "origin_date": "2026-10-07",
+  "story_sim": 0.389,
+  "story_vs_date": "2026-10-08",
+  "angle": "segui-il-potere",
+  "angle_directive": "Segui il potere: chi decide, chi controlla, chi si crede sopra le regole. La concentrazione di potere (politico, mediatico, tech, economico).",
+  "genre": "prospettiva",
+  "target_words": 1050,
+  "hot_topic": true,
+  "richness": 4,
+  "label_cluster": "Allarme peste in Russia, Trump vuole parlare con Putin, OMS monitora",
+  "cover_metaphor": "a locked laboratory door glowing behind fog",
+  "curator_rationale": "Scelgo questa perché unisce sanità pubblica e potere: un focolaio di peste polmonare diventa caso di trasparenza geopolitica, con Mosca che nega, l'OMS che brancola e Trump che chiama Putin - un angolo 'segui-il-potere' mai usato di recente, diverso dai precedenti pezzi sulla stessa vicenda che si sono fermati alla cronaca medica.",
+  "followup_of": null,
+  "articles": [
+    {
+      "title": "Peste polmonare, bubbonica e setticemica: i sintomi e le differenze",
+      "source": "google-news-it-top",
+      "summary": "Peste polmonare, bubbonica e setticemica: i sintomi e le differenze Sky TG24 Peste polmonare in Siberia, mistero su un secondo caso: l'Oms chiede informazioni alla Russia Corriere della Sera Dalla peste di Manzoni a Nosferatu: come l'arte ha raffigurato il morbo Il Fatto Quotidiano «Peste in Siberia, se non è bioterrorismo gli strumenti per far fronte ci sono tutti» Il Sole 24 ORE Caso peste in Si"
+    },
+    {
+      "title": "Allarme peste in Russia, Trump: «A breve parlerò con Putin». Capo dell’Oms: «Forse un secondo caso»",
+      "source": "google-news-it-world",
+      "summary": "Allarme peste in Russia, Trump: «A breve parlerò con Putin». Capo dell’Oms: «Forse un secondo caso» Il Sole 24 ORE Peste polmonare in Siberia, mistero su un secondo caso: l'Oms chiede informazioni alla Russia Corriere della Sera Peste polmonare, bubbonica e setticemica: i sintomi e le differenze Sky TG24 Dalla peste di Manzoni a Nosferatu: come l'arte ha raffigurato il morbo Il Fatto Quotidiano «P"
+    },
+    {
+      "title": "Cremlino, 'non abbiamo informazioni su richiesta Usa per presunto caso di peste'",
+      "source": "ansa-mondo",
+      "summary": ""
+    },
+    {
+      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
+      "source": "bbc-world",
+      "summary": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia."
+    },
+    {
+      "title": "What is pneumonic plague and how does it spread?",
+      "source": "bbc-world",
+      "summary": "The death of a worker from a Russian lab that researches plague has prompted questions about the disease."
+    }
+  ]
+}
